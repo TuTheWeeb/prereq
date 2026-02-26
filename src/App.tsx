@@ -1,33 +1,65 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
+import { useState, useEffect } from 'react'
 import './App.css'
 
+export interface Disciplina {
+  Codigo: string;
+  Nome: string;
+  Teorica: string;
+  Pratica: string;
+  Extensao: string;
+  Requisitos: string[];
+}
+
+export type PeriodoMap = Record<string, Disciplina>;
+
+export type RequisitosMap = Record<string, string[]>;
+
 function App() {
-  const [count, setCount] = useState(0)
+  const [name, setName] = useState("ccomp");
+  const [data, setData] = useState([]);
+  const [isLoading, setIsLoading] = useState(true);
+  const [error, setError] = useState(null);
+
+  useEffect(() => {
+    fetch("/dados_"+name+".json", {
+      headers: {
+        'Content-Type': 'application/json',
+        'Accept': 'application/json'
+      }
+    })
+      .then(response => {
+        if (!response.ok) {
+          throw new Error('Fetching error, response is not ok!');
+        }
+        return response.json();
+      })
+      .then(data => {
+        setData(data);
+        setIsLoading(false);
+      })
+      .catch(error => {
+        setError(error);
+        setIsLoading(false);
+      });
+
+  }, [data]);
+
+  if (isLoading) return <div>Carregando...</div>;
+
+  const separadores = Object.entries(data)
+  
 
   return (
     <>
-      <div>
-        <a href="https://vite.dev" target="_blank">
-          <img src={viteLogo} className="logo" alt="Vite logo" />
-        </a>
-        <a href="https://react.dev" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
+      <div className='flex flex-col text-center'>
+        <h1 className='text-3xl text-center'>Prereq:</h1>
+        <ul>
+        {
+          separadores.flatMap
+)
+        }
+        </ul>
       </div>
-      <h1>Vite + React</h1>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-        <p>
-          Edit <code>src/App.tsx</code> and save to test HMR
-        </p>
-      </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
     </>
   )
 }

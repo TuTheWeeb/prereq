@@ -1,0 +1,2127 @@
+{
+ "Requisitos": {
+  "IQG121": [
+   "IQG117",
+   "IQG232",
+   "IQA230",
+   "IQW475"
+  ],
+  "IQO116": [
+   "IQG117",
+   "IQO234"
+  ],
+  "MAC128": [
+   "MAC118",
+   "IQF231",
+   "MAC238",
+   "MAC248"
+  ],
+  "IQA231": [
+   "IQA232(C)",
+   "IQG121",
+   "IQA241",
+   "IQA242",
+   "IQA485",
+   "IQA488",
+   "IQA590"
+  ],
+  "IQA232": [
+   "IQA231(C)",
+   "IQG121",
+   "IQA242",
+   "IQA485",
+   "IQA488"
+  ],
+  "IQG241": [
+   "IQG232",
+   "IQG361",
+   "IQG475",
+   "IQG476",
+   "IQG488"
+  ],
+  "IQG242": [
+   "IQG232",
+   "IQG350"
+  ],
+  "IQO249": [
+   "IQO234",
+   "IQO350",
+   "IQA590",
+   "IQO004",
+   "IQO473",
+   "IQO501",
+   "IQO591"
+  ],
+  "FIM230": [
+   "FIT112",
+   "MAC128",
+   "IQF352",
+   "FIM240"
+  ],
+  "IQA241": [
+   "IQA231",
+   "IQA242(C)",
+   "IQA351",
+   "IQA363",
+   "IQA483"
+  ],
+  "IQA242": [
+   "IQA231",
+   "IQA232",
+   "IQA241(C)",
+   "IQA362",
+   "IQA483"
+  ],
+  "IQF357": [
+   "IQF231",
+   "IQF362(C)"
+  ],
+  "IQF362": [
+   "IQF231",
+   "IQF368",
+   "IQF461",
+   "IQO506"
+  ],
+  "IQB366": [
+   "IQF231",
+   "IQO234",
+   "IQB479",
+   "IQB485"
+  ],
+  "IQF352": [
+   "FIM230",
+   "MAC248",
+   "IQF470",
+   "IQF476"
+  ],
+  "IQO362": [
+   "IQO112",
+   "IQO350"
+  ],
+  "IQA361": [
+   "IQA351",
+   "IQA362(C)",
+   "IQA472",
+   "IQA598",
+   "IQA599"
+  ],
+  "IQA362": [
+   "IQA242",
+   "IQA351",
+   "IQA361(C)",
+   "IQA472"
+  ],
+  "IQF470": [
+   "IQF352",
+   "IQF368",
+   "IQF482",
+   "IQF479",
+   "IQO004"
+  ],
+  "IQF480": [
+   "IQF368",
+   "IQF490",
+   "IQO485",
+   "IQF591",
+   "IQF593",
+   "IQO590"
+  ],
+  "IQG472": [
+   "IQG350",
+   "IQG361"
+  ],
+  "IQO485": [
+   "IQF480",
+   "IQO350"
+  ],
+  "IQF593": [
+   "IQF480",
+   "MAC248"
+  ],
+  "EQE473": [
+   "EQE357"
+  ],
+  "FIN231": [
+   "FIS121",
+   "FIN241"
+  ],
+  "FIS121": [
+   "FIS111",
+   "FIT112"
+  ],
+  "FIT122": [
+   "FIT112",
+   "MAC118"
+  ],
+  "ICP231": [
+   "ICP121",
+   "MAC128"
+  ],
+  "IQA501": [
+   "IQA363",
+   "IQF480"
+  ],
+  "IQA502": [
+   "IQA591"
+  ],
+  "IQA595": [
+   "IQB362"
+  ],
+  "IQA598": [
+   "IQA361",
+   "IQA363"
+  ],
+  "IQA599": [
+   "IQA361",
+   "IQA363"
+  ],
+  "IQB351": [
+   "IQB358"
+  ],
+  "IQB356": [
+   "IQB358"
+  ],
+  "IQB472": [
+   "IQB362"
+  ],
+  "IQB474": [
+   "IQB358"
+  ],
+  "IQB475": [
+   "IQB352"
+  ],
+  "IQB476": [
+   "IQB352"
+  ],
+  "IQB478": [
+   "IQB362"
+  ],
+  "IQB486": [
+   "IQB362"
+  ],
+  "IQB487": [
+   "IQB362"
+  ],
+  "IQB488": [
+   "IQB362"
+  ],
+  "IQF353": [
+   "IQF231"
+  ],
+  "IQF478": [
+   "IQF368"
+  ],
+  "IQO001": [
+   "IQO350"
+  ],
+  "IQO002": [
+   "IQO234"
+  ],
+  "IQO472": [
+   "IQO350",
+   "IQO362"
+  ],
+  "IQO476": [
+   "IQO350"
+  ],
+  "IQO494": [
+   "IQO350"
+  ],
+  "IQO502": [
+   "IQO501",
+   "IQO592"
+  ],
+  "IQO503": [
+   "IQO350",
+   "IQO362"
+  ],
+  "IQO504": [
+   "IQO234"
+  ],
+  "IQO505": [
+   "IQW595"
+  ],
+  "IQO506": [
+   "IQF362",
+   "IQO350"
+  ],
+  "IQO580": [
+   "IQO350"
+  ],
+  "IQO581": [
+   "IQB358",
+   "IQO350"
+  ],
+  "IQO582": [
+   "IQO350"
+  ],
+  "IQO585": [
+   "IQO350"
+  ],
+  "IQO592": [
+   "IQO234"
+  ],
+  "IQO594": [
+   "IQO234"
+  ],
+  "IQO596": [
+   "IQO350"
+  ],
+  "IQO599": [
+   "IQO350"
+  ],
+  "IQW475": [
+   "IQG121",
+   "IQO112"
+  ],
+  "IQW595": [
+   "IQO234"
+  ],
+  "IQW597": [
+   "IQO234"
+  ],
+  "IQW599": [
+   "IQO231"
+  ],
+  "IQW624": [
+   "IQO234",
+   "IQO249"
+  ],
+  "LEG014": [
+   "LEG013"
+  ],
+  "LEG016": [
+   "LEG015"
+  ],
+  "LEV131": [
+   "LEV121"
+  ]
+ },
+ "1 Periodo": {
+  "ICP121": {
+   "Codigo": "ICP121",
+   "Nome": "Computa\u00e7\u00e3o I",
+   "Creditos": "4.0",
+   "Teorica": "45",
+   "Pratica": "15",
+   "Extensao": "0",
+   "Requisitos": []
+  },
+  "IQA118": {
+   "Codigo": "IQA118",
+   "Nome": "Higiene e Seguran\u00e7a Lab e Ind",
+   "Creditos": "2.0",
+   "Teorica": "30",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": []
+  },
+  "IQG117": {
+   "Codigo": "IQG117",
+   "Nome": "Qu\u00edmica Geral I - Q",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": []
+  },
+  "IQO112": {
+   "Codigo": "IQO112",
+   "Nome": "Qu\u00edmica Ger Experimental I - Q",
+   "Creditos": "4.0",
+   "Teorica": "0",
+   "Pratica": "120",
+   "Extensao": "0",
+   "Requisitos": []
+  },
+  "IQWK01": {
+   "Codigo": "IQWK01",
+   "Nome": "Seminarios",
+   "Creditos": "0.0",
+   "Teorica": "15",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": []
+  },
+  "IQWZ51": {
+   "Codigo": "IQWZ51",
+   "Nome": "Ativ Curricular Extens\u00e3o - Qat",
+   "Creditos": "0.0",
+   "Teorica": "0",
+   "Pratica": "0",
+   "Extensao": "360",
+   "Requisitos": []
+  },
+  "MAC118": {
+   "Codigo": "MAC118",
+   "Nome": "C\u00e1lculo Difer e Integral I",
+   "Creditos": "6.0",
+   "Teorica": "90",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": []
+  }
+ },
+ "2 Periodo": {
+  "FIS111": {
+   "Codigo": "FIS111",
+   "Nome": "F\u00edsica Experimental I",
+   "Creditos": "1.0",
+   "Teorica": "0",
+   "Pratica": "30",
+   "Extensao": "0",
+   "Requisitos": []
+  },
+  "FIT112": {
+   "Codigo": "FIT112",
+   "Nome": "F\u00edsica I - a",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": []
+  },
+  "IQG121": {
+   "Codigo": "IQG121",
+   "Nome": "Qu\u00edmica Geral II - Q",
+   "Creditos": "2.0",
+   "Teorica": "30",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "IQG117"
+   ]
+  },
+  "IQO116": {
+   "Codigo": "IQO116",
+   "Nome": "Qu\u00edmica Org\u00e2nica I - Q",
+   "Creditos": "3.0",
+   "Teorica": "45",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "IQG117"
+   ]
+  },
+  "IQW012": {
+   "Codigo": "IQW012",
+   "Nome": "Ingl\u00eas T\u00e9cnico para Qu\u00edmica",
+   "Creditos": "2.0",
+   "Teorica": "30",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": []
+  },
+  "MAC128": {
+   "Codigo": "MAC128",
+   "Nome": "C\u00e1lculo Diferen e Integral II",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "MAC118"
+   ]
+  }
+ },
+ "3 Periodo": {
+  "EEG002": {
+   "Codigo": "EEG002",
+   "Nome": "Fundam Desenho T\u00e9cnico p Quim",
+   "Creditos": "4.0",
+   "Teorica": "45",
+   "Pratica": "15",
+   "Extensao": "0",
+   "Requisitos": []
+  },
+  "IGL101": {
+   "Codigo": "IGL101",
+   "Nome": "Introducao a Mineralogia",
+   "Creditos": "3.0",
+   "Teorica": "30",
+   "Pratica": "30",
+   "Extensao": "0",
+   "Requisitos": []
+  },
+  "IQF231": {
+   "Codigo": "IQF231",
+   "Nome": "Termodin\u00e2mica Cl\u00e1ssica",
+   "Creditos": "3.0",
+   "Teorica": "45",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "MAC128"
+   ]
+  },
+  "IQG232": {
+   "Codigo": "IQG232",
+   "Nome": "Qu\u00edmica Inorg\u00e2nica Estrutural",
+   "Creditos": "2.0",
+   "Teorica": "30",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "IQG121"
+   ]
+  },
+  "IQO234": {
+   "Codigo": "IQO234",
+   "Nome": "Qu\u00edmica Org\u00e2nica II - Q",
+   "Creditos": "3.0",
+   "Teorica": "45",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "IQO116"
+   ]
+  },
+  "MAC238": {
+   "Codigo": "MAC238",
+   "Nome": "C\u00e1lculo Diferen e Integral III",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "MAC128"
+   ]
+  }
+ },
+ "4 Periodo": {
+  "IQA230": {
+   "Codigo": "IQA230",
+   "Nome": "Qu\u00edmica Ambiental",
+   "Creditos": "2.0",
+   "Teorica": "30",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "IQG121"
+   ]
+  },
+  "IQA231": {
+   "Codigo": "IQA231",
+   "Nome": "Qu\u00edmica Anal\u00edtica Cl\u00e1ssica I",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "IQA232(C)",
+    "IQG121"
+   ]
+  },
+  "IQA232": {
+   "Codigo": "IQA232",
+   "Nome": "Qu\u00edmica Anal\u00edt Cl\u00e1ssica Exp I",
+   "Creditos": "2.0",
+   "Teorica": "0",
+   "Pratica": "45",
+   "Extensao": "0",
+   "Requisitos": [
+    "IQA231(C)",
+    "IQG121"
+   ]
+  },
+  "IQG241": {
+   "Codigo": "IQG241",
+   "Nome": "Qu\u00edmica de Coordena\u00e7\u00e3o",
+   "Creditos": "2.0",
+   "Teorica": "30",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "IQG232"
+   ]
+  },
+  "IQG242": {
+   "Codigo": "IQG242",
+   "Nome": "Qu\u00edmica de S\u00f3lidos",
+   "Creditos": "2.0",
+   "Teorica": "30",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "IQG232"
+   ]
+  },
+  "IQO249": {
+   "Codigo": "IQO249",
+   "Nome": "M\u00e9todos F\u00eds An\u00e1lise Org\u00e2nica",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "IQO234"
+   ]
+  },
+  "MAC248": {
+   "Codigo": "MAC248",
+   "Nome": "C\u00e1lculo Diferen e Integral IV",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "MAC128"
+   ]
+  }
+ },
+ "5 Periodo": {
+  "FIM230": {
+   "Codigo": "FIM230",
+   "Nome": "F\u00edsica III - a",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "FIT112",
+    "MAC128"
+   ]
+  },
+  "IQA241": {
+   "Codigo": "IQA241",
+   "Nome": "Qu\u00edmica Anal\u00edtica Cl\u00e1ssica II",
+   "Creditos": "2.0",
+   "Teorica": "30",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "IQA231",
+    "IQA242(C)"
+   ]
+  },
+  "IQA242": {
+   "Codigo": "IQA242",
+   "Nome": "Qu\u00edmica Anal\u00edt Cl\u00e1ssica Exp II",
+   "Creditos": "1.0",
+   "Teorica": "0",
+   "Pratica": "30",
+   "Extensao": "0",
+   "Requisitos": [
+    "IQA231",
+    "IQA232",
+    "IQA241(C)"
+   ]
+  },
+  "IQF357": {
+   "Codigo": "IQF357",
+   "Nome": "F\u00edsico Qu\u00edmica Experimental I",
+   "Creditos": "2.0",
+   "Teorica": "0",
+   "Pratica": "45",
+   "Extensao": "0",
+   "Requisitos": [
+    "IQF231",
+    "IQF362(C)"
+   ]
+  },
+  "IQF362": {
+   "Codigo": "IQF362",
+   "Nome": "Fen de Superf\u00edcie e Eletroqu\u00edm",
+   "Creditos": "3.0",
+   "Teorica": "45",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "IQF231"
+   ]
+  },
+  "IQG350": {
+   "Codigo": "IQG350",
+   "Nome": "Qu\u00edmica Inorg\u00e2nica Exper I - Q",
+   "Creditos": "2.0",
+   "Teorica": "0",
+   "Pratica": "60",
+   "Extensao": "0",
+   "Requisitos": [
+    "IQG242"
+   ]
+  },
+  "IQO350": {
+   "Codigo": "IQO350",
+   "Nome": "Qu\u00edmica Org\u00e2nica III - Q",
+   "Creditos": "3.0",
+   "Teorica": "45",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "IQO249"
+   ]
+  }
+ },
+ "6 Periodo": {
+  "IQA351": {
+   "Codigo": "IQA351",
+   "Nome": "Qu\u00edmica Anal\u00edt Instrumental I",
+   "Creditos": "2.0",
+   "Teorica": "30",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "IQA241"
+   ]
+  },
+  "IQA363": {
+   "Codigo": "IQA363",
+   "Nome": "An\u00e1lise Estat\u00edstica de Dados",
+   "Creditos": "3.0",
+   "Teorica": "30",
+   "Pratica": "15",
+   "Extensao": "0",
+   "Requisitos": [
+    "IQA241"
+   ]
+  },
+  "IQB366": {
+   "Codigo": "IQB366",
+   "Nome": "Bioquimica",
+   "Creditos": "6.0",
+   "Teorica": "60",
+   "Pratica": "60",
+   "Extensao": "0",
+   "Requisitos": [
+    "IQF231",
+    "IQO234"
+   ]
+  },
+  "IQF352": {
+   "Codigo": "IQF352",
+   "Nome": "Introdu\u00e7\u00e3o a Qu\u00edmica Qu\u00e2ntica",
+   "Creditos": "3.0",
+   "Teorica": "45",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "FIM230",
+    "MAC248"
+   ]
+  },
+  "IQF368": {
+   "Codigo": "IQF368",
+   "Nome": "Processos Cin\u00e9ticos",
+   "Creditos": "3.0",
+   "Teorica": "45",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "IQF362"
+   ]
+  },
+  "IQG361": {
+   "Codigo": "IQG361",
+   "Nome": "Comp Organ de Metais de Transi",
+   "Creditos": "2.0",
+   "Teorica": "30",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "IQG241"
+   ]
+  },
+  "IQO362": {
+   "Codigo": "IQO362",
+   "Nome": "Qu\u00edmica Org\u00e2nica Exp - Q",
+   "Creditos": "2.0",
+   "Teorica": "0",
+   "Pratica": "60",
+   "Extensao": "0",
+   "Requisitos": [
+    "IQO112",
+    "IQO350"
+   ]
+  }
+ },
+ "7 Periodo": {
+  "FIM240": {
+   "Codigo": "FIM240",
+   "Nome": "F\u00edsica IV - a",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "FIM230"
+   ]
+  },
+  "IQA361": {
+   "Codigo": "IQA361",
+   "Nome": "Qu\u00edmica Anal\u00edt Instrumental II",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "IQA351",
+    "IQA362(C)"
+   ]
+  },
+  "IQA362": {
+   "Codigo": "IQA362",
+   "Nome": "Qu\u00edmica Anal\u00edt Instr Exper I",
+   "Creditos": "2.0",
+   "Teorica": "0",
+   "Pratica": "45",
+   "Extensao": "0",
+   "Requisitos": [
+    "IQA242",
+    "IQA351",
+    "IQA361(C)"
+   ]
+  },
+  "IQB479": {
+   "Codigo": "IQB479",
+   "Nome": "Transf Qu\u00edm Bioq Proc Alim Beb",
+   "Creditos": "3.0",
+   "Teorica": "30",
+   "Pratica": "30",
+   "Extensao": "0",
+   "Requisitos": [
+    "IQB366"
+   ]
+  },
+  "IQF470": {
+   "Codigo": "IQF470",
+   "Nome": "Espectroscopia Termod Estat\u00edst",
+   "Creditos": "3.0",
+   "Teorica": "45",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "IQF352",
+    "IQF368"
+   ]
+  },
+  "IQF480": {
+   "Codigo": "IQF480",
+   "Nome": "Introdu\u00e7 a Qu\u00edmica Industrial",
+   "Creditos": "3.0",
+   "Teorica": "45",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "IQF368"
+   ]
+  },
+  "IQG472": {
+   "Codigo": "IQG472",
+   "Nome": "Qu\u00edmica Inorg\u00e2nica Exper Ii- Q",
+   "Creditos": "2.0",
+   "Teorica": "0",
+   "Pratica": "60",
+   "Extensao": "0",
+   "Requisitos": [
+    "IQG350",
+    "IQG361"
+   ]
+  }
+ },
+ "8 Periodo": {
+  "IQA472": {
+   "Codigo": "IQA472",
+   "Nome": "Qu\u00edmica Anal\u00edt Instr Exper II",
+   "Creditos": "2.0",
+   "Teorica": "0",
+   "Pratica": "45",
+   "Extensao": "0",
+   "Requisitos": [
+    "IQA361",
+    "IQA362"
+   ]
+  },
+  "IQB485": {
+   "Codigo": "IQB485",
+   "Nome": "Processos Bioqu\u00edmicos",
+   "Creditos": "5.0",
+   "Teorica": "60",
+   "Pratica": "30",
+   "Extensao": "0",
+   "Requisitos": [
+    "IQB366"
+   ]
+  },
+  "IQF482": {
+   "Codigo": "IQF482",
+   "Nome": "F\u00edsico-qu\u00edmica Experimental II",
+   "Creditos": "1.0",
+   "Teorica": "30",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "IQF470"
+   ]
+  },
+  "IQF490": {
+   "Codigo": "IQF490",
+   "Nome": "Opera\u00e7\u00f5es de Separa\u00e7\u00e3o",
+   "Creditos": "3.0",
+   "Teorica": "45",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "IQF480"
+   ]
+  },
+  "IQO485": {
+   "Codigo": "IQO485",
+   "Nome": "Tecnologia Qu\u00edmica",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "IQF480",
+    "IQO350"
+   ]
+  }
+ },
+ "9 Periodo": {
+  "IQF591": {
+   "Codigo": "IQF591",
+   "Nome": "Tecn Eletroqu\u00edmica e Corros\u00e3o",
+   "Creditos": "3.0",
+   "Teorica": "45",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "IQF480"
+   ]
+  },
+  "IQF593": {
+   "Codigo": "IQF593",
+   "Nome": "Op com Transf de Massa e Calor",
+   "Creditos": "3.0",
+   "Teorica": "45",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "IQF480",
+    "MAC248"
+   ]
+  },
+  "IQO590": {
+   "Codigo": "IQO590",
+   "Nome": "Economia e Organiza\u00e7\u00e3o Industr",
+   "Creditos": "2.0",
+   "Teorica": "30",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "IQF480"
+   ]
+  },
+  "IQWX01": {
+   "Codigo": "IQWX01",
+   "Nome": "Projeto de Curso",
+   "Creditos": "4.0",
+   "Teorica": "180",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": []
+  }
+ },
+ "Disciplinas Optativas (Escolha Restrita)": {
+  "IQWU01": {
+   "Codigo": "IQWU01",
+   "Nome": "Iniciacao Cientifica A",
+   "Creditos": "4.0",
+   "Teorica": "180",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": []
+  },
+  "IQWU02": {
+   "Codigo": "IQWU02",
+   "Nome": "Estagio A",
+   "Creditos": "4.0",
+   "Teorica": "180",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": []
+  }
+ },
+ "Disciplinas Optativas (Escolha Condicionada)": {
+  "COC479": {
+   "Codigo": "COC479",
+   "Nome": "Polui\u00e7\u00e3o do Solo",
+   "Creditos": "2.0",
+   "Teorica": "15",
+   "Pratica": "15",
+   "Extensao": "0",
+   "Requisitos": []
+  },
+  "COP301": {
+   "Codigo": "COP301",
+   "Nome": "Gest\u00e3o Ambiental na Ind\u00fastria",
+   "Creditos": "4.0",
+   "Teorica": "45",
+   "Pratica": "15",
+   "Extensao": "0",
+   "Requisitos": []
+  },
+  "COR200": {
+   "Codigo": "COR200",
+   "Nome": "Transporte e Meio Ambiente",
+   "Creditos": "2.0",
+   "Teorica": "30",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": []
+  },
+  "EFA743": {
+   "Codigo": "EFA743",
+   "Nome": "Dan\u00e7a Afro-brasileira A.",
+   "Creditos": "2.0",
+   "Teorica": "0",
+   "Pratica": "60",
+   "Extensao": "0",
+   "Requisitos": []
+  },
+  "EQB043": {
+   "Codigo": "EQB043",
+   "Nome": "Microbiologia Industrial Exp",
+   "Creditos": "3.0",
+   "Teorica": "15",
+   "Pratica": "60",
+   "Extensao": "0",
+   "Requisitos": []
+  },
+  "EQB046": {
+   "Codigo": "EQB046",
+   "Nome": "Tecnologia de Alimentos",
+   "Creditos": "3.0",
+   "Teorica": "30",
+   "Pratica": "30",
+   "Extensao": "0",
+   "Requisitos": []
+  },
+  "EQB471": {
+   "Codigo": "EQB471",
+   "Nome": "Microbiologia e Enzimol Indust",
+   "Creditos": "3.0",
+   "Teorica": "45",
+   "Pratica": "15",
+   "Extensao": "0",
+   "Requisitos": []
+  },
+  "EQE005": {
+   "Codigo": "EQE005",
+   "Nome": "Cat\u00e1lise",
+   "Creditos": "3.0",
+   "Teorica": "45",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": []
+  },
+  "EQE012": {
+   "Codigo": "EQE012",
+   "Nome": "Proc Separa\u00e7\u00e3o Por Membranas",
+   "Creditos": "3.0",
+   "Teorica": "45",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": []
+  },
+  "EQE355": {
+   "Codigo": "EQE355",
+   "Nome": "Mecanica e Resistencia dos Mat",
+   "Creditos": "3.0",
+   "Teorica": "45",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": []
+  },
+  "EQE356": {
+   "Codigo": "EQE356",
+   "Nome": "Ciencias Soc e Introd Economia",
+   "Creditos": "3.0",
+   "Teorica": "45",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": []
+  },
+  "EQE363": {
+   "Codigo": "EQE363",
+   "Nome": "Termodinamica I",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": []
+  },
+  "EQE473": {
+   "Codigo": "EQE473",
+   "Nome": "Opera\u00e7\u00f5es Unit\u00e1rias I",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "EQE357"
+   ]
+  },
+  "EQE474": {
+   "Codigo": "EQE474",
+   "Nome": "Administra\u00e7\u00e3o e Org Ind Qu\u00edm",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": []
+  },
+  "EQI062": {
+   "Codigo": "EQI062",
+   "Nome": "Elementos de Siderurgia",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": []
+  },
+  "EQI063": {
+   "Codigo": "EQI063",
+   "Nome": "Eletroqu\u00edmica Industrial",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": []
+  },
+  "EQI064": {
+   "Codigo": "EQI064",
+   "Nome": "Tecnol de Materiais Cer\u00e2micos",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": []
+  },
+  "EQI067": {
+   "Codigo": "EQI067",
+   "Nome": "Tratamento de Res\u00edduos Indust",
+   "Creditos": "3.0",
+   "Teorica": "45",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": []
+  },
+  "EQI068": {
+   "Codigo": "EQI068",
+   "Nome": "Tecnologia de Fertilizantes",
+   "Creditos": "3.0",
+   "Teorica": "45",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": []
+  },
+  "EQI477": {
+   "Codigo": "EQI477",
+   "Nome": "Tecnologia Inorg\u00e2nica I",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": []
+  },
+  "EQI487": {
+   "Codigo": "EQI487",
+   "Nome": "Tecnologia Inorg\u00e2nica II",
+   "Creditos": "3.0",
+   "Teorica": "45",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": []
+  },
+  "EQO081": {
+   "Codigo": "EQO081",
+   "Nome": "Gest\u00e3o Tecnol\u00f3gica",
+   "Creditos": "2.0",
+   "Teorica": "30",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": []
+  },
+  "EQO084": {
+   "Codigo": "EQO084",
+   "Nome": "Tecnologia Org\u00e2nica Avan\u00e7ada",
+   "Creditos": "2.0",
+   "Teorica": "30",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": []
+  },
+  "EQO364": {
+   "Codigo": "EQO364",
+   "Nome": "Tecnologia Organica I",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": []
+  },
+  "EQO472": {
+   "Codigo": "EQO472",
+   "Nome": "Tecnologia Organica II",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": []
+  },
+  "FCF242": {
+   "Codigo": "FCF242",
+   "Nome": "Filosofia da Ci\u00eancia I",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": []
+  },
+  "FIN231": {
+   "Codigo": "FIN231",
+   "Nome": "F\u00edsica Experimental III",
+   "Creditos": "1.0",
+   "Teorica": "0",
+   "Pratica": "30",
+   "Extensao": "0",
+   "Requisitos": [
+    "FIS121"
+   ]
+  },
+  "FIN241": {
+   "Codigo": "FIN241",
+   "Nome": "F\u00edsica Experimental IV",
+   "Creditos": "1.0",
+   "Teorica": "0",
+   "Pratica": "30",
+   "Extensao": "0",
+   "Requisitos": [
+    "FIN231"
+   ]
+  },
+  "FIS121": {
+   "Codigo": "FIS121",
+   "Nome": "F\u00edsica Experimental II",
+   "Creditos": "1.0",
+   "Teorica": "0",
+   "Pratica": "30",
+   "Extensao": "0",
+   "Requisitos": [
+    "FIS111",
+    "FIT112"
+   ]
+  },
+  "FIT122": {
+   "Codigo": "FIT122",
+   "Nome": "F\u00edsica II - a",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "FIT112",
+    "MAC118"
+   ]
+  },
+  "ICP231": {
+   "Codigo": "ICP231",
+   "Nome": "C\u00e1lculo Num\u00e9rico",
+   "Creditos": "4.0",
+   "Teorica": "45",
+   "Pratica": "15",
+   "Extensao": "0",
+   "Requisitos": [
+    "ICP121",
+    "MAC128"
+   ]
+  },
+  "IGG514": {
+   "Codigo": "IGG514",
+   "Nome": "Gest\u00e3o Ambiental",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": []
+  },
+  "IGL355": {
+   "Codigo": "IGL355",
+   "Nome": "Cristalografia",
+   "Creditos": "5.0",
+   "Teorica": "45",
+   "Pratica": "60",
+   "Extensao": "0",
+   "Requisitos": []
+  },
+  "IMW352": {
+   "Codigo": "IMW352",
+   "Nome": "Microb da Poluicao Ambiental",
+   "Creditos": "4.0",
+   "Teorica": "30",
+   "Pratica": "60",
+   "Extensao": "0",
+   "Requisitos": []
+  },
+  "IQA483": {
+   "Codigo": "IQA483",
+   "Nome": "Qu\u00edmica Marinha I",
+   "Creditos": "3.0",
+   "Teorica": "45",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "IQA241",
+    "IQA242"
+   ]
+  },
+  "IQA485": {
+   "Codigo": "IQA485",
+   "Nome": "An\u00e1lise Qualitativa Inorg\u00e2nica",
+   "Creditos": "3.0",
+   "Teorica": "15",
+   "Pratica": "60",
+   "Extensao": "0",
+   "Requisitos": [
+    "IQA231",
+    "IQA232"
+   ]
+  },
+  "IQA488": {
+   "Codigo": "IQA488",
+   "Nome": "Trat de Residuos Quim de Lab",
+   "Creditos": "4.0",
+   "Teorica": "45",
+   "Pratica": "30",
+   "Extensao": "0",
+   "Requisitos": [
+    "IQA231",
+    "IQA232"
+   ]
+  },
+  "IQA501": {
+   "Codigo": "IQA501",
+   "Nome": "Qual do Produto Sist Gest Int",
+   "Creditos": "2.0",
+   "Teorica": "30",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "IQA363",
+    "IQF480"
+   ]
+  },
+  "IQA502": {
+   "Codigo": "IQA502",
+   "Nome": "Qu\u00edmica Forense II",
+   "Creditos": "2.0",
+   "Teorica": "30",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "IQA591"
+   ]
+  },
+  "IQA503": {
+   "Codigo": "IQA503",
+   "Nome": "Cria\u00e7\u00e3o de Equipamentos de Lab",
+   "Creditos": "2.0",
+   "Teorica": "0",
+   "Pratica": "60",
+   "Extensao": "0",
+   "Requisitos": []
+  },
+  "IQA590": {
+   "Codigo": "IQA590",
+   "Nome": "Analis Dados Quim Quimiometria",
+   "Creditos": "3.0",
+   "Teorica": "30",
+   "Pratica": "30",
+   "Extensao": "0",
+   "Requisitos": [
+    "IQA231",
+    "IQO249"
+   ]
+  },
+  "IQA591": {
+   "Codigo": "IQA591",
+   "Nome": "Qu\u00edmica Forense I",
+   "Creditos": "2.0",
+   "Teorica": "30",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": []
+  },
+  "IQA595": {
+   "Codigo": "IQA595",
+   "Nome": "Toxicologia Forense",
+   "Creditos": "3.0",
+   "Teorica": "45",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "IQB362"
+   ]
+  },
+  "IQA596": {
+   "Codigo": "IQA596",
+   "Nome": "Criminal\u00edstica I",
+   "Creditos": "2.0",
+   "Teorica": "30",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": []
+  },
+  "IQA597": {
+   "Codigo": "IQA597",
+   "Nome": "Criminal\u00edstica II",
+   "Creditos": "2.0",
+   "Teorica": "30",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": []
+  },
+  "IQA598": {
+   "Codigo": "IQA598",
+   "Nome": "Otimiza\u00e7\u00e3o de Processos Qu\u00edmic",
+   "Creditos": "2.0",
+   "Teorica": "15",
+   "Pratica": "15",
+   "Extensao": "0",
+   "Requisitos": [
+    "IQA361",
+    "IQA363"
+   ]
+  },
+  "IQA599": {
+   "Codigo": "IQA599",
+   "Nome": "Valida\u00e7\u00e3o de M\u00e9todos de An\u00e1lis",
+   "Creditos": "2.0",
+   "Teorica": "15",
+   "Pratica": "15",
+   "Extensao": "0",
+   "Requisitos": [
+    "IQA361",
+    "IQA363"
+   ]
+  },
+  "IQB001": {
+   "Codigo": "IQB001",
+   "Nome": "Introdu\u00e7\u00e3o \u00e0 Bioinform\u00e1tica",
+   "Creditos": "2.0",
+   "Teorica": "30",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": []
+  },
+  "IQB351": {
+   "Codigo": "IQB351",
+   "Nome": "Quimica de Alimentos",
+   "Creditos": "4.0",
+   "Teorica": "30",
+   "Pratica": "60",
+   "Extensao": "0",
+   "Requisitos": [
+    "IQB358"
+   ]
+  },
+  "IQB356": {
+   "Codigo": "IQB356",
+   "Nome": "Bioqu\u00edmica de Alimentos",
+   "Creditos": "3.0",
+   "Teorica": "45",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "IQB358"
+   ]
+  },
+  "IQB472": {
+   "Codigo": "IQB472",
+   "Nome": "Metabolismo e Sua Regula\u00e7\u00e3o",
+   "Creditos": "2.0",
+   "Teorica": "30",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "IQB362"
+   ]
+  },
+  "IQB474": {
+   "Codigo": "IQB474",
+   "Nome": "Aminoacidos e Proteinas",
+   "Creditos": "2.0",
+   "Teorica": "30",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "IQB358"
+   ]
+  },
+  "IQB475": {
+   "Codigo": "IQB475",
+   "Nome": "Processos Bioquimicos",
+   "Creditos": "4.0",
+   "Teorica": "45",
+   "Pratica": "30",
+   "Extensao": "0",
+   "Requisitos": [
+    "IQB352"
+   ]
+  },
+  "IQB476": {
+   "Codigo": "IQB476",
+   "Nome": "Enzimologia Aplicada",
+   "Creditos": "2.0",
+   "Teorica": "30",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "IQB352"
+   ]
+  },
+  "IQB478": {
+   "Codigo": "IQB478",
+   "Nome": "Biologia Molecular",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "IQB362"
+   ]
+  },
+  "IQB486": {
+   "Codigo": "IQB486",
+   "Nome": "Enzimologia",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "IQB362"
+   ]
+  },
+  "IQB487": {
+   "Codigo": "IQB487",
+   "Nome": "Biotecnologia Vegetal",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "IQB362"
+   ]
+  },
+  "IQB488": {
+   "Codigo": "IQB488",
+   "Nome": "Bioqu\u00edmica do Exerc\u00edcio",
+   "Creditos": "2.0",
+   "Teorica": "30",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "IQB362"
+   ]
+  },
+  "IQF353": {
+   "Codigo": "IQF353",
+   "Nome": "Equi Fases Sist Multicompostos",
+   "Creditos": "2.0",
+   "Teorica": "30",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "IQF231"
+   ]
+  },
+  "IQF461": {
+   "Codigo": "IQF461",
+   "Nome": "Catalise Quimica",
+   "Creditos": "3.0",
+   "Teorica": "45",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "IQF362"
+   ]
+  },
+  "IQF474": {
+   "Codigo": "IQF474",
+   "Nome": "Quimica Atmosf\u00e9rica e Polui\u00e7\u00e3o",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": []
+  },
+  "IQF476": {
+   "Codigo": "IQF476",
+   "Nome": "Tec Comput em Qu\u00edmica Teorica",
+   "Creditos": "3.0",
+   "Teorica": "30",
+   "Pratica": "30",
+   "Extensao": "0",
+   "Requisitos": [
+    "IQF352"
+   ]
+  },
+  "IQF478": {
+   "Codigo": "IQF478",
+   "Nome": "Cin\u00e9tica Apl Qu\u00edm Atmosf\u00e9rica",
+   "Creditos": "4.0",
+   "Teorica": "45",
+   "Pratica": "15",
+   "Extensao": "0",
+   "Requisitos": [
+    "IQF368"
+   ]
+  },
+  "IQF479": {
+   "Codigo": "IQF479",
+   "Nome": "F\u00edsico - Qu\u00edmica de Prote\u00ednas",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "IQF470"
+   ]
+  },
+  "IQF487": {
+   "Codigo": "IQF487",
+   "Nome": "Met Eletroquim Fund Aplica\u00e7\u00f5es",
+   "Creditos": "3.0",
+   "Teorica": "30",
+   "Pratica": "30",
+   "Extensao": "0",
+   "Requisitos": []
+  },
+  "IQF501": {
+   "Codigo": "IQF501",
+   "Nome": "Introdu\u00e7\u00e3o \u00e0 F\u00edsico-qu\u00edmica",
+   "Creditos": "2.0",
+   "Teorica": "30",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": []
+  },
+  "IQF503": {
+   "Codigo": "IQF503",
+   "Nome": "Eletroq Biointerfaces Nanoest",
+   "Creditos": "3.0",
+   "Teorica": "30",
+   "Pratica": "30",
+   "Extensao": "0",
+   "Requisitos": []
+  },
+  "IQF504": {
+   "Codigo": "IQF504",
+   "Nome": "Desenv de Produtos Ind Qu\u00edmica",
+   "Creditos": "2.0",
+   "Teorica": "30",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": []
+  },
+  "IQF505": {
+   "Codigo": "IQF505",
+   "Nome": "Qu\u00edmica no Antropoceno",
+   "Creditos": "3.0",
+   "Teorica": "30",
+   "Pratica": "15",
+   "Extensao": "0",
+   "Requisitos": []
+  },
+  "IQG475": {
+   "Codigo": "IQG475",
+   "Nome": "M\u00e9t Espectrosc\u00f3p Qu\u00edm Inorg\u00e2n",
+   "Creditos": "2.0",
+   "Teorica": "30",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "IQG241"
+   ]
+  },
+  "IQG476": {
+   "Codigo": "IQG476",
+   "Nome": "M\u00e9t Eletr Apli Qu\u00edm Inorg\u00e2nica",
+   "Creditos": "2.0",
+   "Teorica": "30",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "IQG241"
+   ]
+  },
+  "IQG488": {
+   "Codigo": "IQG488",
+   "Nome": "Qu\u00edmica Bioinorg\u00e2nica",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "IQG241"
+   ]
+  },
+  "IQO001": {
+   "Codigo": "IQO001",
+   "Nome": "Estereoquimica",
+   "Creditos": "2.0",
+   "Teorica": "30",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "IQO350"
+   ]
+  },
+  "IQO002": {
+   "Codigo": "IQO002",
+   "Nome": "Proces Petr G\u00e1s Nat Biocombust",
+   "Creditos": "2.0",
+   "Teorica": "30",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "IQO234"
+   ]
+  },
+  "IQO004": {
+   "Codigo": "IQO004",
+   "Nome": "Introd Rmn Multinuc e Rmn S\u00f3li",
+   "Creditos": "3.0",
+   "Teorica": "30",
+   "Pratica": "30",
+   "Extensao": "0",
+   "Requisitos": [
+    "IQF470",
+    "IQO249"
+   ]
+  },
+  "IQO111": {
+   "Codigo": "IQO111",
+   "Nome": "Qu\u00edmica Geral Estrutural",
+   "Creditos": "2.0",
+   "Teorica": "30",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": []
+  },
+  "IQO472": {
+   "Codigo": "IQO472",
+   "Nome": "S\u00edntese Org\u00e2nica",
+   "Creditos": "6.0",
+   "Teorica": "30",
+   "Pratica": "120",
+   "Extensao": "0",
+   "Requisitos": [
+    "IQO350",
+    "IQO362"
+   ]
+  },
+  "IQO473": {
+   "Codigo": "IQO473",
+   "Nome": "M\u00e9t de Separa\u00e7\u00e3o e Purifica\u00e7\u00e3o",
+   "Creditos": "2.0",
+   "Teorica": "0",
+   "Pratica": "60",
+   "Extensao": "0",
+   "Requisitos": [
+    "IQO249"
+   ]
+  },
+  "IQO476": {
+   "Codigo": "IQO476",
+   "Nome": "Qu\u00edmica Org\u00e2nica V",
+   "Creditos": "2.0",
+   "Teorica": "30",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "IQO350"
+   ]
+  },
+  "IQO494": {
+   "Codigo": "IQO494",
+   "Nome": "Qu\u00edmica Org\u00e2nica IV",
+   "Creditos": "2.0",
+   "Teorica": "30",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "IQO350"
+   ]
+  },
+  "IQO501": {
+   "Codigo": "IQO501",
+   "Nome": "T\u00e9cnicas Modernas em Rmn",
+   "Creditos": "3.0",
+   "Teorica": "30",
+   "Pratica": "30",
+   "Extensao": "0",
+   "Requisitos": [
+    "IQO249"
+   ]
+  },
+  "IQO502": {
+   "Codigo": "IQO502",
+   "Nome": "Det Estrutural de Prod Natur",
+   "Creditos": "4.0",
+   "Teorica": "30",
+   "Pratica": "60",
+   "Extensao": "0",
+   "Requisitos": [
+    "IQO501",
+    "IQO592"
+   ]
+  },
+  "IQO503": {
+   "Codigo": "IQO503",
+   "Nome": "Quimica de Heterociclos",
+   "Creditos": "3.0",
+   "Teorica": "30",
+   "Pratica": "30",
+   "Extensao": "0",
+   "Requisitos": [
+    "IQO350",
+    "IQO362"
+   ]
+  },
+  "IQO504": {
+   "Codigo": "IQO504",
+   "Nome": "Fotoqu\u00edmica Org\u00e2nica",
+   "Creditos": "3.0",
+   "Teorica": "45",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "IQO234"
+   ]
+  },
+  "IQO505": {
+   "Codigo": "IQO505",
+   "Nome": "Geoquimica Org.: Biomarcadores",
+   "Creditos": "3.0",
+   "Teorica": "45",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "IQW595"
+   ]
+  },
+  "IQO506": {
+   "Codigo": "IQO506",
+   "Nome": "Qu\u00edmica de Micelas",
+   "Creditos": "2.0",
+   "Teorica": "30",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "IQF362",
+    "IQO350"
+   ]
+  },
+  "IQO580": {
+   "Codigo": "IQO580",
+   "Nome": "Qu\u00edm Fluid Perf Po\u00e7os Petr\u00f3leo",
+   "Creditos": "2.0",
+   "Teorica": "30",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "IQO350"
+   ]
+  },
+  "IQO581": {
+   "Codigo": "IQO581",
+   "Nome": "Biodegrad Toxicidade Comp Org",
+   "Creditos": "2.0",
+   "Teorica": "30",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "IQB358",
+    "IQO350"
+   ]
+  },
+  "IQO582": {
+   "Codigo": "IQO582",
+   "Nome": "Qu\u00edmica Bioorg\u00e2nica",
+   "Creditos": "2.0",
+   "Teorica": "30",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "IQO350"
+   ]
+  },
+  "IQO583": {
+   "Codigo": "IQO583",
+   "Nome": "Nomenclatura Qu\u00edmica Org\u00e2nica",
+   "Creditos": "2.0",
+   "Teorica": "30",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": []
+  },
+  "IQO585": {
+   "Codigo": "IQO585",
+   "Nome": "Bases Mol Nanoci\u00ean Nanotecnlog",
+   "Creditos": "2.0",
+   "Teorica": "30",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "IQO350"
+   ]
+  },
+  "IQO591": {
+   "Codigo": "IQO591",
+   "Nome": "An\u00e1lise Org\u00e2nica Quantitativa",
+   "Creditos": "2.0",
+   "Teorica": "0",
+   "Pratica": "60",
+   "Extensao": "0",
+   "Requisitos": [
+    "IQO249"
+   ]
+  },
+  "IQO592": {
+   "Codigo": "IQO592",
+   "Nome": "Quim de Subst Organic Naturais",
+   "Creditos": "2.0",
+   "Teorica": "30",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "IQO234"
+   ]
+  },
+  "IQO594": {
+   "Codigo": "IQO594",
+   "Nome": "F\u00edsico- Qu\u00edmica Org\u00e2nica",
+   "Creditos": "3.0",
+   "Teorica": "45",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "IQO234"
+   ]
+  },
+  "IQO596": {
+   "Codigo": "IQO596",
+   "Nome": "Qu\u00edmica de F\u00e1rmacos",
+   "Creditos": "2.0",
+   "Teorica": "30",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "IQO350"
+   ]
+  },
+  "IQO599": {
+   "Codigo": "IQO599",
+   "Nome": "Topicos em Quimica Organica",
+   "Creditos": "2.0",
+   "Teorica": "30",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "IQO350"
+   ]
+  },
+  "IQW475": {
+   "Codigo": "IQW475",
+   "Nome": "Cromatografia e T\u00e9cnicas Afins",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "IQG121",
+    "IQO112"
+   ]
+  },
+  "IQW595": {
+   "Codigo": "IQW595",
+   "Nome": "Nat Caract Petr\u00f3leo Derivados",
+   "Creditos": "3.0",
+   "Teorica": "45",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "IQO234"
+   ]
+  },
+  "IQW597": {
+   "Codigo": "IQW597",
+   "Nome": "Petroleo e Meio Ambiente",
+   "Creditos": "2.0",
+   "Teorica": "30",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "IQO234"
+   ]
+  },
+  "IQW599": {
+   "Codigo": "IQW599",
+   "Nome": "Biomassa e Biocombust\u00edveis",
+   "Creditos": "2.0",
+   "Teorica": "30",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "IQO231"
+   ]
+  },
+  "IQW624": {
+   "Codigo": "IQW624",
+   "Nome": "T\u00e9c Carac Petr\u00f3leo Derivados",
+   "Creditos": "4.0",
+   "Teorica": "45",
+   "Pratica": "30",
+   "Extensao": "0",
+   "Requisitos": [
+    "IQO234",
+    "IQO249"
+   ]
+  },
+  "IQW999": {
+   "Codigo": "IQW999",
+   "Nome": "Apoio Pedag\u00f3gico em Qu\u00edmica",
+   "Creditos": "1.0",
+   "Teorica": "15",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": []
+  },
+  "IQWU03": {
+   "Codigo": "IQWU03",
+   "Nome": "Monitoria A",
+   "Creditos": "4.0",
+   "Teorica": "180",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": []
+  },
+  "IQWU04": {
+   "Codigo": "IQWU04",
+   "Nome": "Iniciacao Cientifica B",
+   "Creditos": "4.0",
+   "Teorica": "180",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": []
+  },
+  "IQWX03": {
+   "Codigo": "IQWX03",
+   "Nome": "Semin\u00e1rios de Petr\u00f3leo e G\u00e1s",
+   "Creditos": "1.0",
+   "Teorica": "15",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": []
+  },
+  "IQWX15": {
+   "Codigo": "IQWX15",
+   "Nome": "Aacc/gop",
+   "Creditos": "0.0",
+   "Teorica": "0",
+   "Pratica": "30",
+   "Extensao": "0",
+   "Requisitos": []
+  },
+  "LEB599": {
+   "Codigo": "LEB599",
+   "Nome": "Est da L\u00edng Bras de Sinais I",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": []
+  },
+  "LEG013": {
+   "Codigo": "LEG013",
+   "Nome": "Ingl\u00eas Instrumental I",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": []
+  },
+  "LEG014": {
+   "Codigo": "LEG014",
+   "Nome": "Ingl\u00eas Instrumental II",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "LEG013"
+   ]
+  },
+  "LEG015": {
+   "Codigo": "LEG015",
+   "Nome": "Alem\u00e3o Instrumental I",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": []
+  },
+  "LEG016": {
+   "Codigo": "LEG016",
+   "Nome": "Alem\u00e3o Instrumental II",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "LEG015"
+   ]
+  },
+  "LEV121": {
+   "Codigo": "LEV121",
+   "Nome": "Portugu\u00eas Instrumental I",
+   "Creditos": "2.0",
+   "Teorica": "30",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": []
+  },
+  "LEV131": {
+   "Codigo": "LEV131",
+   "Nome": "Portugues Instrumental II",
+   "Creditos": "2.0",
+   "Teorica": "30",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "LEV121"
+   ]
+  },
+  "MAE125": {
+   "Codigo": "MAE125",
+   "Nome": "\u00c1lgebra Linear",
+   "Creditos": "4.0",
+   "Teorica": "45",
+   "Pratica": "15",
+   "Extensao": "0",
+   "Requisitos": []
+  },
+  "NEP110": {
+   "Codigo": "NEP110",
+   "Nome": "Fund Direitos Humanos",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": []
+  }
+ }
+}
