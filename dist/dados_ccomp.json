@@ -1,0 +1,2012 @@
+{
+ "Requisitos": {
+  "ICP141": [
+   "ICP131",
+   "ICP116",
+   "ICP239",
+   "ICP123",
+   "ICP081",
+   "ICP082",
+   "ICP083",
+   "ICP084",
+   "ICP085"
+  ],
+  "ICP143": [
+   "ICP131",
+   "ICP132",
+   "ICP133"
+  ],
+  "ICP144": [
+   "ICP134",
+   "ICP123"
+  ],
+  "ICP145": [
+   "ICP135",
+   "ICP249",
+   "ICP029"
+  ],
+  "ICP115": [
+   "ICP136",
+   "ICP144",
+   "ICP248",
+   "ICP350",
+   "ICP351",
+   "ICP365",
+   "ICP013",
+   "ICP027",
+   "ICP638",
+   "ICP639",
+   "MAE994"
+  ],
+  "ICP237": [
+   "ICP132",
+   "ICP141",
+   "ICP009",
+   "ICP020",
+   "ICP023",
+   "ICP024",
+   "ICP041",
+   "ICP042",
+   "ICP051",
+   "ICP052",
+   "ICP616",
+   "ICP640"
+  ],
+  "ICP238": [
+   "ICP131",
+   "ICP133",
+   "MAE111",
+   "ICP248",
+   "ICP365"
+  ],
+  "MAE992": [
+   "MAE111",
+   "ICP248",
+   "ICP351",
+   "ICP013",
+   "MAE993",
+   "MAE994"
+  ],
+  "ICP246": [
+   "ICP133",
+   "ICP141",
+   "ICP353",
+   "ICP006",
+   "ICP025",
+   "ICP028"
+  ],
+  "ICP489": [
+   "ICP116",
+   "ICP010",
+   "ICP011",
+   "ICP012",
+   "ICP021",
+   "ICP022",
+   "ICP030",
+   "ICP102",
+   "ICP357",
+   "ICP491",
+   "ICP532"
+  ],
+  "MAD243": [
+   "MAE121",
+   "ICP350",
+   "ICP103",
+   "ICP359",
+   "ICP532"
+  ],
+  "ICP368": [
+   "ICP116",
+   "ICP144",
+   "ICP508",
+   "ICP518",
+   "ICP606",
+   "ICP633",
+   "ICP636"
+  ],
+  "ICP361": [
+   "ICP239",
+   "ICP353",
+   "ICP071",
+   "ICP367",
+   "ICP622"
+  ],
+  "ICP362": [
+   "ICP131",
+   "ICP133",
+   "MAD243",
+   "ICP006",
+   "ICP025",
+   "ICP026",
+   "ICP072",
+   "ICP367"
+  ],
+  "ICP363": [
+   "ICP248",
+   "MAD243",
+   "ICP011",
+   "ICP012"
+  ],
+  "ICP370": [
+   "ICP123"
+  ],
+  "ICP472": [
+   "ICP249",
+   "ICPK01"
+  ],
+  "ICP473": [
+   "ICP353",
+   "ICP362"
+  ],
+  "FIM230": [
+   "FIT112",
+   "MAC128",
+   "FIM240"
+  ],
+  "FIT122": [
+   "FIT112",
+   "MAC118"
+  ],
+  "ICP014": [
+   "ICP248",
+   "ICP351",
+   "ICP015"
+  ],
+  "ICP016": [
+   "ICP248"
+  ],
+  "ICP017": [
+   "ICP365"
+  ],
+  "ICP018": [
+   "ICP365"
+  ],
+  "ICP019": [
+   "ICP248"
+  ],
+  "ICP027": [
+   "ICP115",
+   "ICP131",
+   "ICP134"
+  ],
+  "ICP031": [
+   "ICP351",
+   "ICP365"
+  ],
+  "ICP032": [
+   "ICP351",
+   "ICP365"
+  ],
+  "ICP035": [
+   "ICP116",
+   "ICP144"
+  ],
+  "ICP036": [
+   "ICP116",
+   "ICP144"
+  ],
+  "ICP038": [
+   "ICP132"
+  ],
+  "ICP061": [
+   "ICP239"
+  ],
+  "ICP062": [
+   "ICP239"
+  ],
+  "ICP081": [
+   "ICP141",
+   "ICP239"
+  ],
+  "ICP082": [
+   "ICP141",
+   "ICP239"
+  ],
+  "ICP083": [
+   "ICP141",
+   "ICP239"
+  ],
+  "ICP084": [
+   "ICP141",
+   "ICP239"
+  ],
+  "ICP085": [
+   "ICP141",
+   "ICP239"
+  ],
+  "ICP096": [
+   "ICP034"
+  ],
+  "ICP356": [
+   "ICP116"
+  ],
+  "ICP471": [
+   "ICP116",
+   "ICP123",
+   "ICP353"
+  ],
+  "ICP478": [
+   "ICP231"
+  ],
+  "ICP603": [
+   "ICP142"
+  ],
+  "ICP605": [
+   "ICP116"
+  ],
+  "ICP638": [
+   "ICP115",
+   "ICP131",
+   "ICP134"
+  ],
+  "ICP639": [
+   "ICP115",
+   "ICP134"
+  ],
+  "ICPX04": [
+   "ICPX03"
+  ]
+ },
+ "1 Periodo": {
+  "ICP131": {
+   "Codigo": "ICP131",
+   "Nome": "Programa\u00e7\u00e3o de Computadores I",
+   "Creditos": "4.0",
+   "Teorica": "45",
+   "Pratica": "15",
+   "Extensao": "0",
+   "Requisitos": [],
+   "Nivel": "1 Periodo"
+  },
+  "ICP132": {
+   "Codigo": "ICP132",
+   "Nome": "Processos de Software",
+   "Creditos": "4.0",
+   "Teorica": "45",
+   "Pratica": "15",
+   "Extensao": "0",
+   "Requisitos": [],
+   "Nivel": "1 Periodo"
+  },
+  "ICP133": {
+   "Codigo": "ICP133",
+   "Nome": "Fund de Sistemas de Computa\u00e7\u00e3o",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [],
+   "Nivel": "1 Periodo"
+  },
+  "ICP134": {
+   "Codigo": "ICP134",
+   "Nome": "N\u00fameros Inteiros Criptografia",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [],
+   "Nivel": "1 Periodo"
+  },
+  "ICP135": {
+   "Codigo": "ICP135",
+   "Nome": "Projeto de Carreira",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [],
+   "Nivel": "1 Periodo"
+  },
+  "ICP136": {
+   "Codigo": "ICP136",
+   "Nome": "Introd Pensamento Dedutivo",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [],
+   "Nivel": "1 Periodo"
+  },
+  "ICPX06": {
+   "Codigo": "ICPX06",
+   "Nome": "Atividades Complementares Bcc",
+   "Creditos": "2.0",
+   "Teorica": "0",
+   "Pratica": "90",
+   "Extensao": "0",
+   "Requisitos": [],
+   "Nivel": "1 Periodo"
+  },
+  "ICPZ55": {
+   "Codigo": "ICPZ55",
+   "Nome": "Ativ Curricular Extens\u00e3o - Bcc",
+   "Creditos": "0.0",
+   "Teorica": "0",
+   "Pratica": "0",
+   "Extensao": "320",
+   "Requisitos": [],
+   "Nivel": "1 Periodo"
+  }
+ },
+ "2 Periodo": {
+  "ICP141": {
+   "Codigo": "ICP141",
+   "Nome": "Programa\u00e7\u00e3o de Computadores II",
+   "Creditos": "4.0",
+   "Teorica": "45",
+   "Pratica": "15",
+   "Extensao": "0",
+   "Requisitos": [
+    "ICP131"
+   ],
+   "Nivel": "2 Periodo"
+  },
+  "ICP142": {
+   "Codigo": "ICP142",
+   "Nome": "Organiza\u00e7\u00e3o de Dados I",
+   "Creditos": "2.0",
+   "Teorica": "15",
+   "Pratica": "15",
+   "Extensao": "0",
+   "Requisitos": [],
+   "Nivel": "2 Periodo"
+  },
+  "ICP143": {
+   "Codigo": "ICP143",
+   "Nome": "Projeto Pr\u00e1tico",
+   "Creditos": "2.0",
+   "Teorica": "15",
+   "Pratica": "15",
+   "Extensao": "0",
+   "Requisitos": [
+    "ICP131",
+    "ICP132",
+    "ICP133"
+   ],
+   "Nivel": "2 Periodo"
+  },
+  "ICP144": {
+   "Codigo": "ICP144",
+   "Nome": "Matem\u00e1tica Discreta",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "ICP134"
+   ],
+   "Nivel": "2 Periodo"
+  },
+  "ICP145": {
+   "Codigo": "ICP145",
+   "Nome": "Habilidades Sociais p Trabalho",
+   "Creditos": "2.0",
+   "Teorica": "30",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "ICP135"
+   ],
+   "Nivel": "2 Periodo"
+  },
+  "MAE111": {
+   "Codigo": "MAE111",
+   "Nome": "C\u00e1lculo Infinitesimal I",
+   "Creditos": "6.0",
+   "Teorica": "75",
+   "Pratica": "15",
+   "Extensao": "0",
+   "Requisitos": [],
+   "Nivel": "2 Periodo"
+  }
+ },
+ "3 Periodo": {
+  "ICP115": {
+   "Codigo": "ICP115",
+   "Nome": "\u00c1lgebra Linear Algor\u00edtmica",
+   "Creditos": "5.0",
+   "Teorica": "60",
+   "Pratica": "30",
+   "Extensao": "0",
+   "Requisitos": [
+    "ICP136",
+    "ICP144"
+   ],
+   "Nivel": "3 Periodo"
+  },
+  "ICP116": {
+   "Codigo": "ICP116",
+   "Nome": "Estruturas de Dados",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "ICP141"
+   ],
+   "Nivel": "3 Periodo"
+  },
+  "ICP237": {
+   "Codigo": "ICP237",
+   "Nome": "Introd \u00e0 Modelagem de Sistemas",
+   "Creditos": "4.0",
+   "Teorica": "45",
+   "Pratica": "15",
+   "Extensao": "0",
+   "Requisitos": [
+    "ICP132",
+    "ICP141"
+   ],
+   "Nivel": "3 Periodo"
+  },
+  "ICP238": {
+   "Codigo": "ICP238",
+   "Nome": "Introd \u00e0 Computa\u00e7\u00e3o Num\u00e9rica",
+   "Creditos": "2.0",
+   "Teorica": "15",
+   "Pratica": "15",
+   "Extensao": "0",
+   "Requisitos": [
+    "ICP131",
+    "ICP133",
+    "MAE111"
+   ],
+   "Nivel": "3 Periodo"
+  },
+  "ICP239": {
+   "Codigo": "ICP239",
+   "Nome": "Programa\u00e7\u00e3o Orientada a Objeto",
+   "Creditos": "4.0",
+   "Teorica": "45",
+   "Pratica": "15",
+   "Extensao": "0",
+   "Requisitos": [
+    "ICP141"
+   ],
+   "Nivel": "3 Periodo"
+  },
+  "MAE992": {
+   "Codigo": "MAE992",
+   "Nome": "C\u00e1lculo Integ e Diferencial II",
+   "Creditos": "4.0",
+   "Teorica": "45",
+   "Pratica": "15",
+   "Extensao": "0",
+   "Requisitos": [
+    "MAE111"
+   ],
+   "Nivel": "3 Periodo"
+  }
+ },
+ "4 Periodo": {
+  "ICP246": {
+   "Codigo": "ICP246",
+   "Nome": "Arquitet Comput e Sist Operac",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "ICP133",
+    "ICP141"
+   ],
+   "Nivel": "4 Periodo"
+  },
+  "ICP248": {
+   "Codigo": "ICP248",
+   "Nome": "Comput Cient\u00edf e An\u00e1lise Dados",
+   "Creditos": "4.0",
+   "Teorica": "45",
+   "Pratica": "15",
+   "Extensao": "0",
+   "Requisitos": [
+    "ICP115",
+    "ICP238",
+    "MAE992"
+   ],
+   "Nivel": "4 Periodo"
+  },
+  "ICP249": {
+   "Codigo": "ICP249",
+   "Nome": "Tecnologia e Sociedade",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "ICP145"
+   ],
+   "Nivel": "4 Periodo"
+  },
+  "ICP489": {
+   "Codigo": "ICP489",
+   "Nome": "Banco de Dados I",
+   "Creditos": "4.0",
+   "Teorica": "45",
+   "Pratica": "15",
+   "Extensao": "0",
+   "Requisitos": [
+    "ICP116"
+   ],
+   "Nivel": "4 Periodo"
+  },
+  "MAD243": {
+   "Codigo": "MAD243",
+   "Nome": "Estat\u00edstica e Probabilidade",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "MAE121"
+   ],
+   "Nivel": "4 Periodo"
+  }
+ },
+ "5 Periodo": {
+  "ICP123": {
+   "Codigo": "ICP123",
+   "Nome": "Linguagens Formais",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "ICP141",
+    "ICP144"
+   ],
+   "Nivel": "5 Periodo"
+  },
+  "ICP350": {
+   "Codigo": "ICP350",
+   "Nome": "Modelagem e Aval de Desempenho",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "ICP115",
+    "MAD243"
+   ],
+   "Nivel": "5 Periodo"
+  },
+  "ICP351": {
+   "Codigo": "ICP351",
+   "Nome": "Model Matem\u00e1t e Computacional",
+   "Creditos": "4.0",
+   "Teorica": "45",
+   "Pratica": "15",
+   "Extensao": "0",
+   "Requisitos": [
+    "ICP115",
+    "MAE992"
+   ],
+   "Nivel": "5 Periodo"
+  },
+  "ICP353": {
+   "Codigo": "ICP353",
+   "Nome": "Computadores e Programa\u00e7\u00e3o",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "ICP246"
+   ],
+   "Nivel": "5 Periodo"
+  },
+  "ICP368": {
+   "Codigo": "ICP368",
+   "Nome": "Algoritmos e Grafos",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "ICP116",
+    "ICP144"
+   ],
+   "Nivel": "5 Periodo"
+  }
+ },
+ "6 Periodo": {
+  "ICP361": {
+   "Codigo": "ICP361",
+   "Nome": "Programa\u00e7\u00e3o Concorrente",
+   "Creditos": "4.0",
+   "Teorica": "45",
+   "Pratica": "15",
+   "Extensao": "0",
+   "Requisitos": [
+    "ICP239",
+    "ICP353"
+   ],
+   "Nivel": "6 Periodo"
+  },
+  "ICP362": {
+   "Codigo": "ICP362",
+   "Nome": "Redes de Computadores I",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "ICP131",
+    "ICP133",
+    "MAD243"
+   ],
+   "Nivel": "6 Periodo"
+  },
+  "ICP363": {
+   "Codigo": "ICP363",
+   "Nome": "Introd Aprendizado de M\u00e1quina",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "ICP248",
+    "MAD243"
+   ],
+   "Nivel": "6 Periodo"
+  },
+  "ICP365": {
+   "Codigo": "ICP365",
+   "Nome": "Otimiza\u00e7\u00e3o",
+   "Creditos": "4.0",
+   "Teorica": "45",
+   "Pratica": "15",
+   "Extensao": "0",
+   "Requisitos": [
+    "ICP115",
+    "ICP238"
+   ],
+   "Nivel": "6 Periodo"
+  },
+  "ICP370": {
+   "Codigo": "ICP370",
+   "Nome": "L\u00f3gica e Computabilidade",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "ICP123"
+   ],
+   "Nivel": "6 Periodo"
+  }
+ },
+ "7 Periodo": {
+  "ICP472": {
+   "Codigo": "ICP472",
+   "Nome": "Metodologia da Pesquisa",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "ICP249"
+   ],
+   "Nivel": "7 Periodo"
+  },
+  "ICP473": {
+   "Codigo": "ICP473",
+   "Nome": "Seguran\u00e7a da Informa\u00e7\u00e3o",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "ICP353",
+    "ICP362"
+   ],
+   "Nivel": "7 Periodo"
+  }
+ },
+ "8 Periodo": {
+  "ICPK01": {
+   "Codigo": "ICPK01",
+   "Nome": "Trab Conclus\u00e3o de Curso Bcc",
+   "Creditos": "2.0",
+   "Teorica": "90",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "ICP472"
+   ],
+   "Nivel": "8 Periodo"
+  }
+ },
+ "Disciplinas Optativas (Escolha Restrita)": {
+  "FCF108": {
+   "Codigo": "FCF108",
+   "Nome": "\u00c9tica I",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [],
+   "Nivel": "Disciplinas Optativas (Escolha Restrita)"
+  },
+  "FCF614": {
+   "Codigo": "FCF614",
+   "Nome": "\u00c9tica II",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [],
+   "Nivel": "Disciplinas Optativas (Escolha Restrita)"
+  },
+  "FCF615": {
+   "Codigo": "FCF615",
+   "Nome": "\u00c9tica III",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [],
+   "Nivel": "Disciplinas Optativas (Escolha Restrita)"
+  },
+  "FCF616": {
+   "Codigo": "FCF616",
+   "Nome": "\u00c9tica IV",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [],
+   "Nivel": "Disciplinas Optativas (Escolha Restrita)"
+  },
+  "NEP101": {
+   "Codigo": "NEP101",
+   "Nome": "Teoria Direitos Fundamentais",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [],
+   "Nivel": "Disciplinas Optativas (Escolha Restrita)"
+  },
+  "NEP110": {
+   "Codigo": "NEP110",
+   "Nome": "Fund Direitos Humanos",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [],
+   "Nivel": "Disciplinas Optativas (Escolha Restrita)"
+  },
+  "NEP120": {
+   "Codigo": "NEP120",
+   "Nome": "Fund Pol\u00edt P\u00fablicas Dir Hum",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [],
+   "Nivel": "Disciplinas Optativas (Escolha Restrita)"
+  },
+  "NEP130": {
+   "Codigo": "NEP130",
+   "Nome": "T\u00f3p Esp Pol\u00edt P\u00fabl Dir Hum I",
+   "Creditos": "4.0",
+   "Teorica": "45",
+   "Pratica": "15",
+   "Extensao": "0",
+   "Requisitos": [],
+   "Nivel": "Disciplinas Optativas (Escolha Restrita)"
+  },
+  "NEP140": {
+   "Codigo": "NEP140",
+   "Nome": "T\u00f3p Esp Pol\u00edt P\u00fabl Dir Hum II",
+   "Creditos": "4.0",
+   "Teorica": "45",
+   "Pratica": "15",
+   "Extensao": "0",
+   "Requisitos": [],
+   "Nivel": "Disciplinas Optativas (Escolha Restrita)"
+  },
+  "NEP141": {
+   "Codigo": "NEP141",
+   "Nome": "T\u00f3p Esp Pol\u00edt P\u00fabl Dir Hum III",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [],
+   "Nivel": "Disciplinas Optativas (Escolha Restrita)"
+  },
+  "NEP142": {
+   "Codigo": "NEP142",
+   "Nome": "T\u00f3p Esp Pol\u00edt P\u00fabl Dir Hum IV",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [],
+   "Nivel": "Disciplinas Optativas (Escolha Restrita)"
+  },
+  "NEP143": {
+   "Codigo": "NEP143",
+   "Nome": "T\u00f3p Esp Pol\u00edt P\u00fabl Dir Hum V",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [],
+   "Nivel": "Disciplinas Optativas (Escolha Restrita)"
+  },
+  "NEP144": {
+   "Codigo": "NEP144",
+   "Nome": "T\u00f3p Esp Pol\u00edt P\u00fabl Dir Hum VI",
+   "Creditos": "2.0",
+   "Teorica": "30",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [],
+   "Nivel": "Disciplinas Optativas (Escolha Restrita)"
+  },
+  "NEP145": {
+   "Codigo": "NEP145",
+   "Nome": "T\u00f3p Esp Pol\u00edt P\u00fabl Dir Hum VII",
+   "Creditos": "2.0",
+   "Teorica": "30",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [],
+   "Nivel": "Disciplinas Optativas (Escolha Restrita)"
+  },
+  "NEP146": {
+   "Codigo": "NEP146",
+   "Nome": "Dir Hum, G\u00eanero e Sexualidades",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [],
+   "Nivel": "Disciplinas Optativas (Escolha Restrita)"
+  },
+  "NEP147": {
+   "Codigo": "NEP147",
+   "Nome": "Dir Hum e Democracia",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [],
+   "Nivel": "Disciplinas Optativas (Escolha Restrita)"
+  },
+  "NEP148": {
+   "Codigo": "NEP148",
+   "Nome": "Dir Hum, Pens Negro e Racismo",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [],
+   "Nivel": "Disciplinas Optativas (Escolha Restrita)"
+  },
+  "NEP149": {
+   "Codigo": "NEP149",
+   "Nome": "Dir Hum e Meio Ambiente",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [],
+   "Nivel": "Disciplinas Optativas (Escolha Restrita)"
+  },
+  "NEP150": {
+   "Codigo": "NEP150",
+   "Nome": "Dir Hum e Sa\u00fade",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [],
+   "Nivel": "Disciplinas Optativas (Escolha Restrita)"
+  },
+  "NEP151": {
+   "Codigo": "NEP151",
+   "Nome": "Dir Hum e Cultura",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [],
+   "Nivel": "Disciplinas Optativas (Escolha Restrita)"
+  },
+  "NEP152": {
+   "Codigo": "NEP152",
+   "Nome": "Dir Hum, Conflit e Territ\u00f3rios",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [],
+   "Nivel": "Disciplinas Optativas (Escolha Restrita)"
+  },
+  "NEP153": {
+   "Codigo": "NEP153",
+   "Nome": "Dir Hum e Trabalho",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [],
+   "Nivel": "Disciplinas Optativas (Escolha Restrita)"
+  },
+  "NEP154": {
+   "Codigo": "NEP154",
+   "Nome": "Dir Hum e Sistema de Justi\u00e7a",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [],
+   "Nivel": "Disciplinas Optativas (Escolha Restrita)"
+  },
+  "NEP155": {
+   "Codigo": "NEP155",
+   "Nome": "Dir Hum e Movimentos Sociais",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [],
+   "Nivel": "Disciplinas Optativas (Escolha Restrita)"
+  },
+  "NEP156": {
+   "Codigo": "NEP156",
+   "Nome": "Dir Hum, Globaliza\u00e7\u00e3o e Tecnol",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [],
+   "Nivel": "Disciplinas Optativas (Escolha Restrita)"
+  },
+  "NEP157": {
+   "Codigo": "NEP157",
+   "Nome": "Dir Hum, Viol\u00eancia e Democrac",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [],
+   "Nivel": "Disciplinas Optativas (Escolha Restrita)"
+  },
+  "NEP158": {
+   "Codigo": "NEP158",
+   "Nome": "Dir Hum e Pol\u00edt Internacional",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [],
+   "Nivel": "Disciplinas Optativas (Escolha Restrita)"
+  },
+  "NEP159": {
+   "Codigo": "NEP159",
+   "Nome": "Dir Hum e Desigualdade Sociais",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [],
+   "Nivel": "Disciplinas Optativas (Escolha Restrita)"
+  },
+  "NEP160": {
+   "Codigo": "NEP160",
+   "Nome": "Dir Hum na Am\u00e9rica Latina",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [],
+   "Nivel": "Disciplinas Optativas (Escolha Restrita)"
+  }
+ },
+ "Disciplinas Optativas (Escolha Condicionada)": {
+  "FIM230": {
+   "Codigo": "FIM230",
+   "Nome": "F\u00edsica III - a",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "FIT112",
+    "MAC128"
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
+  },
+  "FIM240": {
+   "Codigo": "FIM240",
+   "Nome": "F\u00edsica IV - a",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "FIM230"
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
+  },
+  "FIT112": {
+   "Codigo": "FIT112",
+   "Nome": "F\u00edsica I - a",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
+  },
+  "FIT122": {
+   "Codigo": "FIT122",
+   "Nome": "F\u00edsica II - a",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "FIT112",
+    "MAC118"
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
+  },
+  "ICP005": {
+   "Codigo": "ICP005",
+   "Nome": "\u00c9tica em Computa\u00e7\u00e3o",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
+  },
+  "ICP006": {
+   "Codigo": "ICP006",
+   "Nome": "Internet das Coisas",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "ICP246",
+    "ICP362"
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
+  },
+  "ICP009": {
+   "Codigo": "ICP009",
+   "Nome": "Sist Colaborat e Comput Social",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "ICP237"
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
+  },
+  "ICP010": {
+   "Codigo": "ICP010",
+   "Nome": "Web Sem\u00e2ntica",
+   "Creditos": "4.0",
+   "Teorica": "45",
+   "Pratica": "15",
+   "Extensao": "0",
+   "Requisitos": [
+    "ICP489"
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
+  },
+  "ICP011": {
+   "Codigo": "ICP011",
+   "Nome": "T\u00f3p Esp em Ci\u00eancia de Dados I",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "ICP363",
+    "ICP489"
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
+  },
+  "ICP012": {
+   "Codigo": "ICP012",
+   "Nome": "T\u00f3p Esp em Ci\u00eancia de Dados II",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "ICP363",
+    "ICP489"
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
+  },
+  "ICP013": {
+   "Codigo": "ICP013",
+   "Nome": "S\u00e9ries e Transformadas Comput",
+   "Creditos": "4.0",
+   "Teorica": "45",
+   "Pratica": "15",
+   "Extensao": "0",
+   "Requisitos": [
+    "ICP115",
+    "MAE992"
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
+  },
+  "ICP014": {
+   "Codigo": "ICP014",
+   "Nome": "Comput Cient\u00edf Equa\u00e7 Dif Ordin",
+   "Creditos": "4.0",
+   "Teorica": "45",
+   "Pratica": "15",
+   "Extensao": "0",
+   "Requisitos": [
+    "ICP248",
+    "ICP351"
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
+  },
+  "ICP015": {
+   "Codigo": "ICP015",
+   "Nome": "Comput Cient\u00edf Equa\u00e7 Dif Parc",
+   "Creditos": "4.0",
+   "Teorica": "45",
+   "Pratica": "15",
+   "Extensao": "0",
+   "Requisitos": [
+    "ICP014"
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
+  },
+  "ICP016": {
+   "Codigo": "ICP016",
+   "Nome": "Introd M\u00e9tod Elementos Finitos",
+   "Creditos": "4.0",
+   "Teorica": "45",
+   "Pratica": "15",
+   "Extensao": "0",
+   "Requisitos": [
+    "ICP248"
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
+  },
+  "ICP017": {
+   "Codigo": "ICP017",
+   "Nome": "Otimiza\u00e7\u00e3o Linear",
+   "Creditos": "4.0",
+   "Teorica": "45",
+   "Pratica": "15",
+   "Extensao": "0",
+   "Requisitos": [
+    "ICP365"
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
+  },
+  "ICP018": {
+   "Codigo": "ICP018",
+   "Nome": "Otimiza\u00e7\u00e3o N\u00e3o Linear",
+   "Creditos": "4.0",
+   "Teorica": "45",
+   "Pratica": "15",
+   "Extensao": "0",
+   "Requisitos": [
+    "ICP365"
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
+  },
+  "ICP019": {
+   "Codigo": "ICP019",
+   "Nome": "\u00c1lgebra Linear Aplicada",
+   "Creditos": "4.0",
+   "Teorica": "45",
+   "Pratica": "15",
+   "Extensao": "0",
+   "Requisitos": [
+    "ICP248"
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
+  },
+  "ICP020": {
+   "Codigo": "ICP020",
+   "Nome": "Engenharia de Software",
+   "Creditos": "4.0",
+   "Teorica": "45",
+   "Pratica": "15",
+   "Extensao": "0",
+   "Requisitos": [
+    "ICP237"
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
+  },
+  "ICP021": {
+   "Codigo": "ICP021",
+   "Nome": "T\u00f3p Esp em Engenharia Dados I",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "ICP489"
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
+  },
+  "ICP022": {
+   "Codigo": "ICP022",
+   "Nome": "T\u00f3p Esp em Engenharia Dados II",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "ICP489"
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
+  },
+  "ICP023": {
+   "Codigo": "ICP023",
+   "Nome": "Gest\u00e3o de Projetos",
+   "Creditos": "4.0",
+   "Teorica": "45",
+   "Pratica": "15",
+   "Extensao": "0",
+   "Requisitos": [
+    "ICP237"
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
+  },
+  "ICP024": {
+   "Codigo": "ICP024",
+   "Nome": "An\u00e1lise e Projeto de Sistemas",
+   "Creditos": "4.0",
+   "Teorica": "45",
+   "Pratica": "15",
+   "Extensao": "0",
+   "Requisitos": [
+    "ICP237"
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
+  },
+  "ICP025": {
+   "Codigo": "ICP025",
+   "Nome": "Computa\u00e7\u00e3o em Nuvem",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "ICP246",
+    "ICP362"
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
+  },
+  "ICP026": {
+   "Codigo": "ICP026",
+   "Nome": "Redes de Computadores II",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "ICP362"
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
+  },
+  "ICP027": {
+   "Codigo": "ICP027",
+   "Nome": "Criptografia",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "ICP115",
+    "ICP131",
+    "ICP134"
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
+  },
+  "ICP028": {
+   "Codigo": "ICP028",
+   "Nome": "T\u00f3p Esp em Arquitetura Comput",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "ICP246"
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
+  },
+  "ICP029": {
+   "Codigo": "ICP029",
+   "Nome": "Empreendedorismo e Inova\u00e7\u00e3o",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "ICP145"
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
+  },
+  "ICP030": {
+   "Codigo": "ICP030",
+   "Nome": "Governan\u00e7a e Gest\u00e3o de Dados",
+   "Creditos": "4.0",
+   "Teorica": "45",
+   "Pratica": "15",
+   "Extensao": "0",
+   "Requisitos": [
+    "ICP489"
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
+  },
+  "ICP031": {
+   "Codigo": "ICP031",
+   "Nome": "T\u00f3p Esp em Comp Cient\u00edfica I",
+   "Creditos": "4.0",
+   "Teorica": "45",
+   "Pratica": "15",
+   "Extensao": "0",
+   "Requisitos": [
+    "ICP351",
+    "ICP365"
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
+  },
+  "ICP032": {
+   "Codigo": "ICP032",
+   "Nome": "T\u00f3p Esp em Comp Cient\u00edfica II",
+   "Creditos": "4.0",
+   "Teorica": "45",
+   "Pratica": "15",
+   "Extensao": "0",
+   "Requisitos": [
+    "ICP351",
+    "ICP365"
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
+  },
+  "ICP034": {
+   "Codigo": "ICP034",
+   "Nome": "An\u00e1lise de Redes Sociais",
+   "Creditos": "4.0",
+   "Teorica": "45",
+   "Pratica": "15",
+   "Extensao": "0",
+   "Requisitos": [],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
+  },
+  "ICP035": {
+   "Codigo": "ICP035",
+   "Nome": "T\u00f3p Esp em Teoria da Comput I",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "ICP116",
+    "ICP144"
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
+  },
+  "ICP036": {
+   "Codigo": "ICP036",
+   "Nome": "T\u00f3p Esp em Teoria da Comput II",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "ICP116",
+    "ICP144"
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
+  },
+  "ICP038": {
+   "Codigo": "ICP038",
+   "Nome": "Fundamentos Processo Neg\u00f3cio",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "ICP132"
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
+  },
+  "ICP041": {
+   "Codigo": "ICP041",
+   "Nome": "Oficina de Desenv Software I",
+   "Creditos": "4.0",
+   "Teorica": "45",
+   "Pratica": "15",
+   "Extensao": "0",
+   "Requisitos": [
+    "ICP237"
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
+  },
+  "ICP042": {
+   "Codigo": "ICP042",
+   "Nome": "Oficina de Desenv Software II",
+   "Creditos": "4.0",
+   "Teorica": "45",
+   "Pratica": "15",
+   "Extensao": "0",
+   "Requisitos": [
+    "ICP237"
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
+  },
+  "ICP051": {
+   "Codigo": "ICP051",
+   "Nome": "T\u00f3p Esp em Eng de Software I",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "ICP237"
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
+  },
+  "ICP052": {
+   "Codigo": "ICP052",
+   "Nome": "T\u00f3p Esp em Eng de Software II",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "ICP237"
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
+  },
+  "ICP061": {
+   "Codigo": "ICP061",
+   "Nome": "Desenvolvimento Web I",
+   "Creditos": "4.0",
+   "Teorica": "45",
+   "Pratica": "15",
+   "Extensao": "0",
+   "Requisitos": [
+    "ICP239"
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
+  },
+  "ICP062": {
+   "Codigo": "ICP062",
+   "Nome": "Desenvolvimento Web II",
+   "Creditos": "4.0",
+   "Teorica": "45",
+   "Pratica": "15",
+   "Extensao": "0",
+   "Requisitos": [
+    "ICP239"
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
+  },
+  "ICP071": {
+   "Codigo": "ICP071",
+   "Nome": "T\u00f3p Esp em Sist Computacion I",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "ICP361"
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
+  },
+  "ICP072": {
+   "Codigo": "ICP072",
+   "Nome": "T\u00f3p Esp em Sist Computacion II",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "ICP362"
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
+  },
+  "ICP081": {
+   "Codigo": "ICP081",
+   "Nome": "Oficina de Teconologia I",
+   "Creditos": "2.0",
+   "Teorica": "30",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "ICP141",
+    "ICP239"
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
+  },
+  "ICP082": {
+   "Codigo": "ICP082",
+   "Nome": "Oficina de Teconologia II",
+   "Creditos": "2.0",
+   "Teorica": "30",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "ICP141",
+    "ICP239"
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
+  },
+  "ICP083": {
+   "Codigo": "ICP083",
+   "Nome": "Oficina de Teconologia III",
+   "Creditos": "2.0",
+   "Teorica": "30",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "ICP141",
+    "ICP239"
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
+  },
+  "ICP084": {
+   "Codigo": "ICP084",
+   "Nome": "Oficina de Teconologia IV",
+   "Creditos": "2.0",
+   "Teorica": "30",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "ICP141",
+    "ICP239"
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
+  },
+  "ICP085": {
+   "Codigo": "ICP085",
+   "Nome": "Oficina de Teconologia V",
+   "Creditos": "2.0",
+   "Teorica": "30",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "ICP141",
+    "ICP239"
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
+  },
+  "ICP091": {
+   "Codigo": "ICP091",
+   "Nome": "T\u00f3p Esp em Ci\u00eancia Comput I",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
+  },
+  "ICP092": {
+   "Codigo": "ICP092",
+   "Nome": "T\u00f3p Esp em Ci\u00eancia Comput II",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
+  },
+  "ICP093": {
+   "Codigo": "ICP093",
+   "Nome": "T\u00f3p Esp em Ci\u00eancia Comput III",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
+  },
+  "ICP094": {
+   "Codigo": "ICP094",
+   "Nome": "T\u00f3p Esp em Ci\u00eancia Comput IV",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
+  },
+  "ICP095": {
+   "Codigo": "ICP095",
+   "Nome": "T\u00f3p Esp em Ci\u00eancia Comput V",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
+  },
+  "ICP096": {
+   "Codigo": "ICP096",
+   "Nome": "Lab An\u00e1lise de Redes Sociais",
+   "Creditos": "4.0",
+   "Teorica": "45",
+   "Pratica": "15",
+   "Extensao": "0",
+   "Requisitos": [
+    "ICP034"
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
+  },
+  "ICP100": {
+   "Codigo": "ICP100",
+   "Nome": "Introd Gest\u00e3o Estrat\u00e9gica Ti",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
+  },
+  "ICP102": {
+   "Codigo": "ICP102",
+   "Nome": "Tecn para Grandes Vol de Dados",
+   "Creditos": "4.0",
+   "Teorica": "45",
+   "Pratica": "15",
+   "Extensao": "0",
+   "Requisitos": [
+    "ICP489"
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
+  },
+  "ICP103": {
+   "Codigo": "ICP103",
+   "Nome": "An\u00e1lise de Risco",
+   "Creditos": "4.0",
+   "Teorica": "45",
+   "Pratica": "15",
+   "Extensao": "0",
+   "Requisitos": [
+    "MAD243"
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
+  },
+  "ICP356": {
+   "Codigo": "ICP356",
+   "Nome": "Organiza\u00e7\u00e3o de Dados II",
+   "Creditos": "4.0",
+   "Teorica": "45",
+   "Pratica": "15",
+   "Extensao": "0",
+   "Requisitos": [
+    "ICP116"
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
+  },
+  "ICP357": {
+   "Codigo": "ICP357",
+   "Nome": "Data Warehousing e Intel Neg\u00f3c",
+   "Creditos": "4.0",
+   "Teorica": "45",
+   "Pratica": "15",
+   "Extensao": "0",
+   "Requisitos": [
+    "ICP489"
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
+  },
+  "ICP359": {
+   "Codigo": "ICP359",
+   "Nome": "Introd ao Suporte \u00e0 Decis\u00e3o",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "MAD243"
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
+  },
+  "ICP367": {
+   "Codigo": "ICP367",
+   "Nome": "Sistemas Distribu\u00eddos",
+   "Creditos": "4.0",
+   "Teorica": "45",
+   "Pratica": "15",
+   "Extensao": "0",
+   "Requisitos": [
+    "ICP361",
+    "ICP362"
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
+  },
+  "ICP465": {
+   "Codigo": "ICP465",
+   "Nome": "T\u00f3p Esp Inform\u00e1tica Sociedade",
+   "Creditos": "4.0",
+   "Teorica": "45",
+   "Pratica": "15",
+   "Extensao": "0",
+   "Requisitos": [],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
+  },
+  "ICP471": {
+   "Codigo": "ICP471",
+   "Nome": "Compiladores",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "ICP116",
+    "ICP123",
+    "ICP353"
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
+  },
+  "ICP478": {
+   "Codigo": "ICP478",
+   "Nome": "M\u00e9todos Num\u00e9ricos I",
+   "Creditos": "4.0",
+   "Teorica": "45",
+   "Pratica": "15",
+   "Extensao": "0",
+   "Requisitos": [
+    "ICP231"
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
+  },
+  "ICP491": {
+   "Codigo": "ICP491",
+   "Nome": "Banco de Dados II",
+   "Creditos": "4.0",
+   "Teorica": "45",
+   "Pratica": "15",
+   "Extensao": "0",
+   "Requisitos": [
+    "ICP489"
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
+  },
+  "ICP508": {
+   "Codigo": "ICP508",
+   "Nome": "Intelig\u00eancia Artificial",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "ICP368"
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
+  },
+  "ICP518": {
+   "Codigo": "ICP518",
+   "Nome": "Teoria de Grafos",
+   "Creditos": "4.0",
+   "Teorica": "45",
+   "Pratica": "15",
+   "Extensao": "0",
+   "Requisitos": [
+    "ICP368"
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
+  },
+  "ICP532": {
+   "Codigo": "ICP532",
+   "Nome": "Minera\u00e7\u00e3o de Dados",
+   "Creditos": "4.0",
+   "Teorica": "45",
+   "Pratica": "15",
+   "Extensao": "0",
+   "Requisitos": [
+    "ICP489",
+    "MAD243"
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
+  },
+  "ICP603": {
+   "Codigo": "ICP603",
+   "Nome": "Gest\u00e3o do Conhecimento",
+   "Creditos": "4.0",
+   "Teorica": "45",
+   "Pratica": "15",
+   "Extensao": "0",
+   "Requisitos": [
+    "ICP142"
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
+  },
+  "ICP605": {
+   "Codigo": "ICP605",
+   "Nome": "Recupera\u00e7\u00e3o de Informa\u00e7\u00e3o",
+   "Creditos": "4.0",
+   "Teorica": "45",
+   "Pratica": "15",
+   "Extensao": "0",
+   "Requisitos": [
+    "ICP116"
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
+  },
+  "ICP606": {
+   "Codigo": "ICP606",
+   "Nome": "T\u00f3p Esp em Programa\u00e7\u00e3o",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "ICP368"
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
+  },
+  "ICP616": {
+   "Codigo": "ICP616",
+   "Nome": "Intera\u00e7\u00e3o Humano-computador",
+   "Creditos": "4.0",
+   "Teorica": "45",
+   "Pratica": "15",
+   "Extensao": "0",
+   "Requisitos": [
+    "ICP237"
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
+  },
+  "ICP622": {
+   "Codigo": "ICP622",
+   "Nome": "Program Paralela e Distribu\u00edda",
+   "Creditos": "4.0",
+   "Teorica": "45",
+   "Pratica": "15",
+   "Extensao": "0",
+   "Requisitos": [
+    "ICP361"
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
+  },
+  "ICP633": {
+   "Codigo": "ICP633",
+   "Nome": "Algoritmos de Aproxima\u00e7\u00e3o",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "ICP368"
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
+  },
+  "ICP636": {
+   "Codigo": "ICP636",
+   "Nome": "Algoritmos Paralelos",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "ICP368"
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
+  },
+  "ICP638": {
+   "Codigo": "ICP638",
+   "Nome": "Computa\u00e7\u00e3o Alg\u00e9brica",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "ICP115",
+    "ICP131",
+    "ICP134"
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
+  },
+  "ICP639": {
+   "Codigo": "ICP639",
+   "Nome": "Computa\u00e7\u00e3o Qu\u00e2ntica",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [
+    "ICP115",
+    "ICP134"
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
+  },
+  "ICP640": {
+   "Codigo": "ICP640",
+   "Nome": "Projeto Teste de Software",
+   "Creditos": "4.0",
+   "Teorica": "45",
+   "Pratica": "15",
+   "Extensao": "0",
+   "Requisitos": [
+    "ICP237"
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
+  },
+  "ICPX03": {
+   "Codigo": "ICPX03",
+   "Nome": "Monitoria I",
+   "Creditos": "2.0",
+   "Teorica": "0",
+   "Pratica": "90",
+   "Extensao": "0",
+   "Requisitos": [],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
+  },
+  "ICPX04": {
+   "Codigo": "ICPX04",
+   "Nome": "Monitoria II",
+   "Creditos": "2.0",
+   "Teorica": "0",
+   "Pratica": "90",
+   "Extensao": "0",
+   "Requisitos": [
+    "ICPX03"
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
+  },
+  "IEE115": {
+   "Codigo": "IEE115",
+   "Nome": "Economia",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
+  },
+  "LEB599": {
+   "Codigo": "LEB599",
+   "Nome": "Est da L\u00edng Bras de Sinais I",
+   "Creditos": "4.0",
+   "Teorica": "60",
+   "Pratica": "0",
+   "Extensao": "0",
+   "Requisitos": [],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
+  },
+  "MAE993": {
+   "Codigo": "MAE993",
+   "Nome": "C\u00e1lculo Int e Diferencial III",
+   "Creditos": "4.0",
+   "Teorica": "45",
+   "Pratica": "15",
+   "Extensao": "0",
+   "Requisitos": [
+    "MAE992"
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
+  },
+  "MAE994": {
+   "Codigo": "MAE994",
+   "Nome": "C\u00e1lculo Int e Diferencial IV",
+   "Creditos": "4.0",
+   "Teorica": "45",
+   "Pratica": "15",
+   "Extensao": "0",
+   "Requisitos": [
+    "ICP115",
+    "MAE992"
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
+  }
+ }
+}
