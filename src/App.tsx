@@ -18,14 +18,15 @@ interface PropsMateria {
     setCumpridas: Function;
 }
 
-function MenuEscolhaCurso({ setName }: { setName: Function }) {
+function MenuEscolhaCurso({ nome, setNome }: { nome: string, setNome: Function }) {
     return (
         <div className="flex justify-center border-b-2 border-emerald-600 mb-5 mt-5 pb-1 sm:text-xl">
             <div className=""></div>
             <div className="">
                 <select
                     className="text-center"
-                    onChange={(event) => setName(event.target.value)}
+                    defaultValue={nome}
+                    onChange={(event) => setNome(event.target.value)}
                 >
                     <option key="ccomp" value="ccomp">
                         Ciências da Computação
@@ -117,21 +118,33 @@ function set_discp(
 }
 
 function App() {
-    const [name, setName] = useState("ccomp");
+    
+    // Busca o curso selecionado no cache caso não ache incia vazio
+    const [nome, setNome] = useState<string>(() => {
+      const nomeSalvo = localStorage.getItem("curso");
+      return nomeSalvo ? JSON.parse(nomeSalvo) : "ccomp";
+    });
+
+    // Busca cumpridas no cache caso não ache incializa vazia
+    const [cumpridas, setCumpridas] = useState<Record<string, boolean>>(() => {
+      const cumpridasSalvas = localStorage.getItem("cumpridas");
+      return cumpridasSalvas ? JSON.parse(cumpridasSalvas) : {};
+    });
+
     const [data, setData] = useState([]);
+    
     const [isLoading, setIsLoading] = useState(true);
-    const [cumpridas, setCumpridas] = useState({} as Record<string, boolean>);
+        
     const [onView, setOnView] = useState({} as Record<string, boolean>);
-    const [disciplinas, setDisciplinas] = useState(
-        {} as Record<string, Disciplina>,
-    );
+    
+    
     const [Requisitos, setRequisitos] = useState(
         {} as Record<string, string[]>,
     );
     const [groups, setGroups] = useState({} as Record<string, Disciplina[]>);
 
     useEffect(() => {
-        fetch("/dados_" + name + ".json", {
+        fetch("/dados_" + nome + ".json", {
             headers: {
                 "Content-Type": "application/json",
                 Accept: "application/json",
@@ -151,10 +164,17 @@ function App() {
                 console.log(error);
                 setIsLoading(false);
             });
-    }, [name]);
+        
+      // Salva o nome alterado para o localStorage
+      localStorage.setItem("curso", JSON.stringify(nome));  
+    }, [nome]);
 
     useEffect(() => {
-        const novasDisciplinas: Record<string, Disciplina> = {};
+      // Salva as materias cumpridas no localStorage
+      localStorage.setItem("cumpridas", JSON.stringify(cumpridas));
+    }, [cumpridas]);
+
+    useEffect(() => {
         const novoOnView: Record<string, boolean> = {};
         const novoRequisitos: Record<string, string[]> = {};
 
@@ -162,8 +182,6 @@ function App() {
             if (chavePrincipal === "Requisitos") {
                 return;
             }
-
-            Object.assign(novasDisciplinas, Objetos);
 
             Object.entries(Objetos).forEach(([_, discp]) => {
                 const disciplina = discp as Disciplina;
@@ -203,10 +221,6 @@ function App() {
             });
         });
 
-        setOnView(novoOnView);
-        setDisciplinas(novasDisciplinas);
-        setRequisitos(novoRequisitos);
-
         for (const [nivel, objetos] of Object.entries(data)) {
             if (nivel === "Requisitos") {
                 continue;
@@ -214,14 +228,17 @@ function App() {
 
             groups[nivel] = objetos;
         }
+
+        setOnView(novoOnView);
+        setRequisitos(novoRequisitos);
         setGroups(groups);
     }, [data, cumpridas]);
 
-    if (isLoading) return <div>Carregando...</div>;
+    if (isLoading) return <div className="flex flex-col justify-center bg-slate-900 text-slate-200 w-full h-full">.</div>;
     return (
         <div className="flex flex-col justify-center bg-slate-900 text-slate-200">
             <div className="flex flex-col text-center font-bold">
-                <MenuEscolhaCurso setName={setName}></MenuEscolhaCurso>
+                <MenuEscolhaCurso nome={nome} setNome={setNome}></MenuEscolhaCurso>
                 {Object.entries(groups).map(([nivel, objetos]) => {
                     return (
                         <ul
@@ -250,10 +267,12 @@ function App() {
                     );
                 })}
             </div>
-            <div className="flex items-center justify-center w-full h-10 font-bold text-xl underline text-emerald-500">
-                <a href="https://github.com/TuTheWeeb/prereq" className="">
+            <div className="flex flex-col items-center justify-center w-full h-20 font-bold border-t-2 mt-5 border-emerald-600 text-md text-emerald-500">
+                <a href="https://github.com/TuTheWeeb/prereq" className="underline">
                     https://github.com/TuTheWeeb/prereq
                 </a>
+                <p>Em caso de erros, entrar em contato:</p>
+                <a href="mailto:eduardotcq@ic.ufrj.br" className="underline">eduardotcq@ic.ufrj.br</a>
             </div>
         </div>
     );
