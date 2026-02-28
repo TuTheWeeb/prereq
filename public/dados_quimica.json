@@ -305,7 +305,8 @@
    "Teorica": "45",
    "Pratica": "15",
    "Extensao": "0",
-   "Requisitos": []
+   "Requisitos": [],
+   "Nivel": "1 Periodo"
   },
   "IQA118": {
    "Codigo": "IQA118",
@@ -314,7 +315,8 @@
    "Teorica": "30",
    "Pratica": "0",
    "Extensao": "0",
-   "Requisitos": []
+   "Requisitos": [],
+   "Nivel": "1 Periodo"
   },
   "IQG117": {
    "Codigo": "IQG117",
@@ -323,7 +325,8 @@
    "Teorica": "60",
    "Pratica": "0",
    "Extensao": "0",
-   "Requisitos": []
+   "Requisitos": [],
+   "Nivel": "1 Periodo"
   },
   "IQO112": {
    "Codigo": "IQO112",
@@ -332,7 +335,8 @@
    "Teorica": "0",
    "Pratica": "120",
    "Extensao": "0",
-   "Requisitos": []
+   "Requisitos": [],
+   "Nivel": "1 Periodo"
   },
   "IQWK01": {
    "Codigo": "IQWK01",
@@ -341,7 +345,8 @@
    "Teorica": "15",
    "Pratica": "0",
    "Extensao": "0",
-   "Requisitos": []
+   "Requisitos": [],
+   "Nivel": "1 Periodo"
   },
   "IQWZ51": {
    "Codigo": "IQWZ51",
@@ -350,7 +355,8 @@
    "Teorica": "0",
    "Pratica": "0",
    "Extensao": "360",
-   "Requisitos": []
+   "Requisitos": [],
+   "Nivel": "1 Periodo"
   },
   "MAC118": {
    "Codigo": "MAC118",
@@ -359,7 +365,8 @@
    "Teorica": "90",
    "Pratica": "0",
    "Extensao": "0",
-   "Requisitos": []
+   "Requisitos": [],
+   "Nivel": "1 Periodo"
   }
  },
  "2 Periodo": {
@@ -370,7 +377,8 @@
    "Teorica": "0",
    "Pratica": "30",
    "Extensao": "0",
-   "Requisitos": []
+   "Requisitos": [],
+   "Nivel": "2 Periodo"
   },
   "FIT112": {
    "Codigo": "FIT112",
@@ -379,7 +387,8 @@
    "Teorica": "60",
    "Pratica": "0",
    "Extensao": "0",
-   "Requisitos": []
+   "Requisitos": [],
+   "Nivel": "2 Periodo"
   },
   "IQG121": {
    "Codigo": "IQG121",
@@ -390,7 +399,8 @@
    "Extensao": "0",
    "Requisitos": [
     "IQG117"
-   ]
+   ],
+   "Nivel": "2 Periodo"
   },
   "IQO116": {
    "Codigo": "IQO116",
@@ -401,7 +411,8 @@
    "Extensao": "0",
    "Requisitos": [
     "IQG117"
-   ]
+   ],
+   "Nivel": "2 Periodo"
   },
   "IQW012": {
    "Codigo": "IQW012",
@@ -410,7 +421,8 @@
    "Teorica": "30",
    "Pratica": "0",
    "Extensao": "0",
-   "Requisitos": []
+   "Requisitos": [],
+   "Nivel": "2 Periodo"
   },
   "MAC128": {
    "Codigo": "MAC128",
@@ -421,7 +433,8 @@
    "Extensao": "0",
    "Requisitos": [
     "MAC118"
-   ]
+   ],
+   "Nivel": "2 Periodo"
   }
  },
  "3 Periodo": {
@@ -432,7 +445,8 @@
    "Teorica": "45",
    "Pratica": "15",
    "Extensao": "0",
-   "Requisitos": []
+   "Requisitos": [],
+   "Nivel": "3 Periodo"
   },
   "IGL101": {
    "Codigo": "IGL101",
@@ -441,7 +455,8 @@
    "Teorica": "30",
    "Pratica": "30",
    "Extensao": "0",
-   "Requisitos": []
+   "Requisitos": [],
+   "Nivel": "3 Periodo"
   },
   "IQF231": {
    "Codigo": "IQF231",
@@ -452,7 +467,8 @@
    "Extensao": "0",
    "Requisitos": [
     "MAC128"
-   ]
+   ],
+   "Nivel": "3 Periodo"
   },
   "IQG232": {
    "Codigo": "IQG232",
@@ -463,7 +479,8 @@
    "Extensao": "0",
    "Requisitos": [
     "IQG121"
-   ]
+   ],
+   "Nivel": "3 Periodo"
   },
   "IQO234": {
    "Codigo": "IQO234",
@@ -474,7 +491,8 @@
    "Extensao": "0",
    "Requisitos": [
     "IQO116"
-   ]
+   ],
+   "Nivel": "3 Periodo"
   },
   "MAC238": {
    "Codigo": "MAC238",
@@ -485,7 +503,8 @@
    "Extensao": "0",
    "Requisitos": [
     "MAC128"
-   ]
+   ],
+   "Nivel": "3 Periodo"
   }
  },
  "4 Periodo": {
@@ -498,7 +517,8 @@
    "Extensao": "0",
    "Requisitos": [
     "IQG121"
-   ]
+   ],
+   "Nivel": "4 Periodo"
   },
   "IQA231": {
    "Codigo": "IQA231",
@@ -510,7 +530,8 @@
    "Requisitos": [
     "IQA232(C)",
     "IQG121"
-   ]
+   ],
+   "Nivel": "4 Periodo"
   },
   "IQA232": {
    "Codigo": "IQA232",
@@ -522,7 +543,8 @@
    "Requisitos": [
     "IQA231(C)",
     "IQG121"
-   ]
+   ],
+   "Nivel": "4 Periodo"
   },
   "IQG241": {
    "Codigo": "IQG241",
@@ -533,7 +555,8 @@
    "Extensao": "0",
    "Requisitos": [
     "IQG232"
-   ]
+   ],
+   "Nivel": "4 Periodo"
   },
   "IQG242": {
    "Codigo": "IQG242",
@@ -544,7 +567,8 @@
    "Extensao": "0",
    "Requisitos": [
     "IQG232"
-   ]
+   ],
+   "Nivel": "4 Periodo"
   },
   "IQO249": {
    "Codigo": "IQO249",
@@ -555,7 +579,8 @@
    "Extensao": "0",
    "Requisitos": [
     "IQO234"
-   ]
+   ],
+   "Nivel": "4 Periodo"
   },
   "MAC248": {
    "Codigo": "MAC248",
@@ -566,7 +591,8 @@
    "Extensao": "0",
    "Requisitos": [
     "MAC128"
-   ]
+   ],
+   "Nivel": "4 Periodo"
   }
  },
  "5 Periodo": {
@@ -580,7 +606,8 @@
    "Requisitos": [
     "FIT112",
     "MAC128"
-   ]
+   ],
+   "Nivel": "5 Periodo"
   },
   "IQA241": {
    "Codigo": "IQA241",
@@ -592,7 +619,8 @@
    "Requisitos": [
     "IQA231",
     "IQA242(C)"
-   ]
+   ],
+   "Nivel": "5 Periodo"
   },
   "IQA242": {
    "Codigo": "IQA242",
@@ -605,7 +633,8 @@
     "IQA231",
     "IQA232",
     "IQA241(C)"
-   ]
+   ],
+   "Nivel": "5 Periodo"
   },
   "IQF357": {
    "Codigo": "IQF357",
@@ -617,7 +646,8 @@
    "Requisitos": [
     "IQF231",
     "IQF362(C)"
-   ]
+   ],
+   "Nivel": "5 Periodo"
   },
   "IQF362": {
    "Codigo": "IQF362",
@@ -628,7 +658,8 @@
    "Extensao": "0",
    "Requisitos": [
     "IQF231"
-   ]
+   ],
+   "Nivel": "5 Periodo"
   },
   "IQG350": {
    "Codigo": "IQG350",
@@ -639,7 +670,8 @@
    "Extensao": "0",
    "Requisitos": [
     "IQG242"
-   ]
+   ],
+   "Nivel": "5 Periodo"
   },
   "IQO350": {
    "Codigo": "IQO350",
@@ -650,7 +682,8 @@
    "Extensao": "0",
    "Requisitos": [
     "IQO249"
-   ]
+   ],
+   "Nivel": "5 Periodo"
   }
  },
  "6 Periodo": {
@@ -663,7 +696,8 @@
    "Extensao": "0",
    "Requisitos": [
     "IQA241"
-   ]
+   ],
+   "Nivel": "6 Periodo"
   },
   "IQA363": {
    "Codigo": "IQA363",
@@ -674,7 +708,8 @@
    "Extensao": "0",
    "Requisitos": [
     "IQA241"
-   ]
+   ],
+   "Nivel": "6 Periodo"
   },
   "IQB366": {
    "Codigo": "IQB366",
@@ -686,7 +721,8 @@
    "Requisitos": [
     "IQF231",
     "IQO234"
-   ]
+   ],
+   "Nivel": "6 Periodo"
   },
   "IQF352": {
    "Codigo": "IQF352",
@@ -698,7 +734,8 @@
    "Requisitos": [
     "FIM230",
     "MAC248"
-   ]
+   ],
+   "Nivel": "6 Periodo"
   },
   "IQF368": {
    "Codigo": "IQF368",
@@ -709,7 +746,8 @@
    "Extensao": "0",
    "Requisitos": [
     "IQF362"
-   ]
+   ],
+   "Nivel": "6 Periodo"
   },
   "IQG361": {
    "Codigo": "IQG361",
@@ -720,7 +758,8 @@
    "Extensao": "0",
    "Requisitos": [
     "IQG241"
-   ]
+   ],
+   "Nivel": "6 Periodo"
   },
   "IQO362": {
    "Codigo": "IQO362",
@@ -732,7 +771,8 @@
    "Requisitos": [
     "IQO112",
     "IQO350"
-   ]
+   ],
+   "Nivel": "6 Periodo"
   }
  },
  "7 Periodo": {
@@ -745,7 +785,8 @@
    "Extensao": "0",
    "Requisitos": [
     "FIM230"
-   ]
+   ],
+   "Nivel": "7 Periodo"
   },
   "IQA361": {
    "Codigo": "IQA361",
@@ -757,7 +798,8 @@
    "Requisitos": [
     "IQA351",
     "IQA362(C)"
-   ]
+   ],
+   "Nivel": "7 Periodo"
   },
   "IQA362": {
    "Codigo": "IQA362",
@@ -770,7 +812,8 @@
     "IQA242",
     "IQA351",
     "IQA361(C)"
-   ]
+   ],
+   "Nivel": "7 Periodo"
   },
   "IQB479": {
    "Codigo": "IQB479",
@@ -781,7 +824,8 @@
    "Extensao": "0",
    "Requisitos": [
     "IQB366"
-   ]
+   ],
+   "Nivel": "7 Periodo"
   },
   "IQF470": {
    "Codigo": "IQF470",
@@ -793,7 +837,8 @@
    "Requisitos": [
     "IQF352",
     "IQF368"
-   ]
+   ],
+   "Nivel": "7 Periodo"
   },
   "IQF480": {
    "Codigo": "IQF480",
@@ -804,7 +849,8 @@
    "Extensao": "0",
    "Requisitos": [
     "IQF368"
-   ]
+   ],
+   "Nivel": "7 Periodo"
   },
   "IQG472": {
    "Codigo": "IQG472",
@@ -816,7 +862,8 @@
    "Requisitos": [
     "IQG350",
     "IQG361"
-   ]
+   ],
+   "Nivel": "7 Periodo"
   }
  },
  "8 Periodo": {
@@ -830,7 +877,8 @@
    "Requisitos": [
     "IQA361",
     "IQA362"
-   ]
+   ],
+   "Nivel": "8 Periodo"
   },
   "IQB485": {
    "Codigo": "IQB485",
@@ -841,7 +889,8 @@
    "Extensao": "0",
    "Requisitos": [
     "IQB366"
-   ]
+   ],
+   "Nivel": "8 Periodo"
   },
   "IQF482": {
    "Codigo": "IQF482",
@@ -852,7 +901,8 @@
    "Extensao": "0",
    "Requisitos": [
     "IQF470"
-   ]
+   ],
+   "Nivel": "8 Periodo"
   },
   "IQF490": {
    "Codigo": "IQF490",
@@ -863,7 +913,8 @@
    "Extensao": "0",
    "Requisitos": [
     "IQF480"
-   ]
+   ],
+   "Nivel": "8 Periodo"
   },
   "IQO485": {
    "Codigo": "IQO485",
@@ -875,7 +926,8 @@
    "Requisitos": [
     "IQF480",
     "IQO350"
-   ]
+   ],
+   "Nivel": "8 Periodo"
   }
  },
  "9 Periodo": {
@@ -888,7 +940,8 @@
    "Extensao": "0",
    "Requisitos": [
     "IQF480"
-   ]
+   ],
+   "Nivel": "9 Periodo"
   },
   "IQF593": {
    "Codigo": "IQF593",
@@ -900,7 +953,8 @@
    "Requisitos": [
     "IQF480",
     "MAC248"
-   ]
+   ],
+   "Nivel": "9 Periodo"
   },
   "IQO590": {
    "Codigo": "IQO590",
@@ -911,7 +965,8 @@
    "Extensao": "0",
    "Requisitos": [
     "IQF480"
-   ]
+   ],
+   "Nivel": "9 Periodo"
   },
   "IQWX01": {
    "Codigo": "IQWX01",
@@ -920,7 +975,8 @@
    "Teorica": "180",
    "Pratica": "0",
    "Extensao": "0",
-   "Requisitos": []
+   "Requisitos": [],
+   "Nivel": "9 Periodo"
   }
  },
  "Disciplinas Optativas (Escolha Restrita)": {
@@ -931,7 +987,8 @@
    "Teorica": "180",
    "Pratica": "0",
    "Extensao": "0",
-   "Requisitos": []
+   "Requisitos": [],
+   "Nivel": "Disciplinas Optativas (Escolha Restrita)"
   },
   "IQWU02": {
    "Codigo": "IQWU02",
@@ -940,7 +997,8 @@
    "Teorica": "180",
    "Pratica": "0",
    "Extensao": "0",
-   "Requisitos": []
+   "Requisitos": [],
+   "Nivel": "Disciplinas Optativas (Escolha Restrita)"
   }
  },
  "Disciplinas Optativas (Escolha Condicionada)": {
@@ -951,7 +1009,8 @@
    "Teorica": "15",
    "Pratica": "15",
    "Extensao": "0",
-   "Requisitos": []
+   "Requisitos": [],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "COP301": {
    "Codigo": "COP301",
@@ -960,7 +1019,8 @@
    "Teorica": "45",
    "Pratica": "15",
    "Extensao": "0",
-   "Requisitos": []
+   "Requisitos": [],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "COR200": {
    "Codigo": "COR200",
@@ -969,7 +1029,8 @@
    "Teorica": "30",
    "Pratica": "0",
    "Extensao": "0",
-   "Requisitos": []
+   "Requisitos": [],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "EFA743": {
    "Codigo": "EFA743",
@@ -978,7 +1039,8 @@
    "Teorica": "0",
    "Pratica": "60",
    "Extensao": "0",
-   "Requisitos": []
+   "Requisitos": [],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "EQB043": {
    "Codigo": "EQB043",
@@ -987,7 +1049,8 @@
    "Teorica": "15",
    "Pratica": "60",
    "Extensao": "0",
-   "Requisitos": []
+   "Requisitos": [],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "EQB046": {
    "Codigo": "EQB046",
@@ -996,7 +1059,8 @@
    "Teorica": "30",
    "Pratica": "30",
    "Extensao": "0",
-   "Requisitos": []
+   "Requisitos": [],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "EQB471": {
    "Codigo": "EQB471",
@@ -1005,7 +1069,8 @@
    "Teorica": "45",
    "Pratica": "15",
    "Extensao": "0",
-   "Requisitos": []
+   "Requisitos": [],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "EQE005": {
    "Codigo": "EQE005",
@@ -1014,7 +1079,8 @@
    "Teorica": "45",
    "Pratica": "0",
    "Extensao": "0",
-   "Requisitos": []
+   "Requisitos": [],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "EQE012": {
    "Codigo": "EQE012",
@@ -1023,7 +1089,8 @@
    "Teorica": "45",
    "Pratica": "0",
    "Extensao": "0",
-   "Requisitos": []
+   "Requisitos": [],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "EQE355": {
    "Codigo": "EQE355",
@@ -1032,7 +1099,8 @@
    "Teorica": "45",
    "Pratica": "0",
    "Extensao": "0",
-   "Requisitos": []
+   "Requisitos": [],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "EQE356": {
    "Codigo": "EQE356",
@@ -1041,7 +1109,8 @@
    "Teorica": "45",
    "Pratica": "0",
    "Extensao": "0",
-   "Requisitos": []
+   "Requisitos": [],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "EQE363": {
    "Codigo": "EQE363",
@@ -1050,7 +1119,8 @@
    "Teorica": "60",
    "Pratica": "0",
    "Extensao": "0",
-   "Requisitos": []
+   "Requisitos": [],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "EQE473": {
    "Codigo": "EQE473",
@@ -1061,7 +1131,8 @@
    "Extensao": "0",
    "Requisitos": [
     "EQE357"
-   ]
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "EQE474": {
    "Codigo": "EQE474",
@@ -1070,7 +1141,8 @@
    "Teorica": "60",
    "Pratica": "0",
    "Extensao": "0",
-   "Requisitos": []
+   "Requisitos": [],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "EQI062": {
    "Codigo": "EQI062",
@@ -1079,7 +1151,8 @@
    "Teorica": "60",
    "Pratica": "0",
    "Extensao": "0",
-   "Requisitos": []
+   "Requisitos": [],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "EQI063": {
    "Codigo": "EQI063",
@@ -1088,7 +1161,8 @@
    "Teorica": "60",
    "Pratica": "0",
    "Extensao": "0",
-   "Requisitos": []
+   "Requisitos": [],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "EQI064": {
    "Codigo": "EQI064",
@@ -1097,7 +1171,8 @@
    "Teorica": "60",
    "Pratica": "0",
    "Extensao": "0",
-   "Requisitos": []
+   "Requisitos": [],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "EQI067": {
    "Codigo": "EQI067",
@@ -1106,7 +1181,8 @@
    "Teorica": "45",
    "Pratica": "0",
    "Extensao": "0",
-   "Requisitos": []
+   "Requisitos": [],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "EQI068": {
    "Codigo": "EQI068",
@@ -1115,7 +1191,8 @@
    "Teorica": "45",
    "Pratica": "0",
    "Extensao": "0",
-   "Requisitos": []
+   "Requisitos": [],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "EQI477": {
    "Codigo": "EQI477",
@@ -1124,7 +1201,8 @@
    "Teorica": "60",
    "Pratica": "0",
    "Extensao": "0",
-   "Requisitos": []
+   "Requisitos": [],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "EQI487": {
    "Codigo": "EQI487",
@@ -1133,7 +1211,8 @@
    "Teorica": "45",
    "Pratica": "0",
    "Extensao": "0",
-   "Requisitos": []
+   "Requisitos": [],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "EQO081": {
    "Codigo": "EQO081",
@@ -1142,7 +1221,8 @@
    "Teorica": "30",
    "Pratica": "0",
    "Extensao": "0",
-   "Requisitos": []
+   "Requisitos": [],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "EQO084": {
    "Codigo": "EQO084",
@@ -1151,7 +1231,8 @@
    "Teorica": "30",
    "Pratica": "0",
    "Extensao": "0",
-   "Requisitos": []
+   "Requisitos": [],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "EQO364": {
    "Codigo": "EQO364",
@@ -1160,7 +1241,8 @@
    "Teorica": "60",
    "Pratica": "0",
    "Extensao": "0",
-   "Requisitos": []
+   "Requisitos": [],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "EQO472": {
    "Codigo": "EQO472",
@@ -1169,7 +1251,8 @@
    "Teorica": "60",
    "Pratica": "0",
    "Extensao": "0",
-   "Requisitos": []
+   "Requisitos": [],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "FCF242": {
    "Codigo": "FCF242",
@@ -1178,7 +1261,8 @@
    "Teorica": "60",
    "Pratica": "0",
    "Extensao": "0",
-   "Requisitos": []
+   "Requisitos": [],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "FIN231": {
    "Codigo": "FIN231",
@@ -1189,7 +1273,8 @@
    "Extensao": "0",
    "Requisitos": [
     "FIS121"
-   ]
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "FIN241": {
    "Codigo": "FIN241",
@@ -1200,7 +1285,8 @@
    "Extensao": "0",
    "Requisitos": [
     "FIN231"
-   ]
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "FIS121": {
    "Codigo": "FIS121",
@@ -1212,7 +1298,8 @@
    "Requisitos": [
     "FIS111",
     "FIT112"
-   ]
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "FIT122": {
    "Codigo": "FIT122",
@@ -1224,7 +1311,8 @@
    "Requisitos": [
     "FIT112",
     "MAC118"
-   ]
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "ICP231": {
    "Codigo": "ICP231",
@@ -1236,7 +1324,8 @@
    "Requisitos": [
     "ICP121",
     "MAC128"
-   ]
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "IGG514": {
    "Codigo": "IGG514",
@@ -1245,7 +1334,8 @@
    "Teorica": "60",
    "Pratica": "0",
    "Extensao": "0",
-   "Requisitos": []
+   "Requisitos": [],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "IGL355": {
    "Codigo": "IGL355",
@@ -1254,7 +1344,8 @@
    "Teorica": "45",
    "Pratica": "60",
    "Extensao": "0",
-   "Requisitos": []
+   "Requisitos": [],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "IMW352": {
    "Codigo": "IMW352",
@@ -1263,7 +1354,8 @@
    "Teorica": "30",
    "Pratica": "60",
    "Extensao": "0",
-   "Requisitos": []
+   "Requisitos": [],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "IQA483": {
    "Codigo": "IQA483",
@@ -1275,7 +1367,8 @@
    "Requisitos": [
     "IQA241",
     "IQA242"
-   ]
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "IQA485": {
    "Codigo": "IQA485",
@@ -1287,7 +1380,8 @@
    "Requisitos": [
     "IQA231",
     "IQA232"
-   ]
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "IQA488": {
    "Codigo": "IQA488",
@@ -1299,7 +1393,8 @@
    "Requisitos": [
     "IQA231",
     "IQA232"
-   ]
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "IQA501": {
    "Codigo": "IQA501",
@@ -1311,7 +1406,8 @@
    "Requisitos": [
     "IQA363",
     "IQF480"
-   ]
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "IQA502": {
    "Codigo": "IQA502",
@@ -1322,7 +1418,8 @@
    "Extensao": "0",
    "Requisitos": [
     "IQA591"
-   ]
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "IQA503": {
    "Codigo": "IQA503",
@@ -1331,7 +1428,8 @@
    "Teorica": "0",
    "Pratica": "60",
    "Extensao": "0",
-   "Requisitos": []
+   "Requisitos": [],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "IQA590": {
    "Codigo": "IQA590",
@@ -1343,7 +1441,8 @@
    "Requisitos": [
     "IQA231",
     "IQO249"
-   ]
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "IQA591": {
    "Codigo": "IQA591",
@@ -1352,7 +1451,8 @@
    "Teorica": "30",
    "Pratica": "0",
    "Extensao": "0",
-   "Requisitos": []
+   "Requisitos": [],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "IQA595": {
    "Codigo": "IQA595",
@@ -1363,7 +1463,8 @@
    "Extensao": "0",
    "Requisitos": [
     "IQB362"
-   ]
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "IQA596": {
    "Codigo": "IQA596",
@@ -1372,7 +1473,8 @@
    "Teorica": "30",
    "Pratica": "0",
    "Extensao": "0",
-   "Requisitos": []
+   "Requisitos": [],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "IQA597": {
    "Codigo": "IQA597",
@@ -1381,7 +1483,8 @@
    "Teorica": "30",
    "Pratica": "0",
    "Extensao": "0",
-   "Requisitos": []
+   "Requisitos": [],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "IQA598": {
    "Codigo": "IQA598",
@@ -1393,7 +1496,8 @@
    "Requisitos": [
     "IQA361",
     "IQA363"
-   ]
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "IQA599": {
    "Codigo": "IQA599",
@@ -1405,7 +1509,8 @@
    "Requisitos": [
     "IQA361",
     "IQA363"
-   ]
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "IQB001": {
    "Codigo": "IQB001",
@@ -1414,7 +1519,8 @@
    "Teorica": "30",
    "Pratica": "0",
    "Extensao": "0",
-   "Requisitos": []
+   "Requisitos": [],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "IQB351": {
    "Codigo": "IQB351",
@@ -1425,7 +1531,8 @@
    "Extensao": "0",
    "Requisitos": [
     "IQB358"
-   ]
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "IQB356": {
    "Codigo": "IQB356",
@@ -1436,7 +1543,8 @@
    "Extensao": "0",
    "Requisitos": [
     "IQB358"
-   ]
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "IQB472": {
    "Codigo": "IQB472",
@@ -1447,7 +1555,8 @@
    "Extensao": "0",
    "Requisitos": [
     "IQB362"
-   ]
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "IQB474": {
    "Codigo": "IQB474",
@@ -1458,7 +1567,8 @@
    "Extensao": "0",
    "Requisitos": [
     "IQB358"
-   ]
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "IQB475": {
    "Codigo": "IQB475",
@@ -1469,7 +1579,8 @@
    "Extensao": "0",
    "Requisitos": [
     "IQB352"
-   ]
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "IQB476": {
    "Codigo": "IQB476",
@@ -1480,7 +1591,8 @@
    "Extensao": "0",
    "Requisitos": [
     "IQB352"
-   ]
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "IQB478": {
    "Codigo": "IQB478",
@@ -1491,7 +1603,8 @@
    "Extensao": "0",
    "Requisitos": [
     "IQB362"
-   ]
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "IQB486": {
    "Codigo": "IQB486",
@@ -1502,7 +1615,8 @@
    "Extensao": "0",
    "Requisitos": [
     "IQB362"
-   ]
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "IQB487": {
    "Codigo": "IQB487",
@@ -1513,7 +1627,8 @@
    "Extensao": "0",
    "Requisitos": [
     "IQB362"
-   ]
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "IQB488": {
    "Codigo": "IQB488",
@@ -1524,7 +1639,8 @@
    "Extensao": "0",
    "Requisitos": [
     "IQB362"
-   ]
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "IQF353": {
    "Codigo": "IQF353",
@@ -1535,7 +1651,8 @@
    "Extensao": "0",
    "Requisitos": [
     "IQF231"
-   ]
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "IQF461": {
    "Codigo": "IQF461",
@@ -1546,7 +1663,8 @@
    "Extensao": "0",
    "Requisitos": [
     "IQF362"
-   ]
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "IQF474": {
    "Codigo": "IQF474",
@@ -1555,7 +1673,8 @@
    "Teorica": "60",
    "Pratica": "0",
    "Extensao": "0",
-   "Requisitos": []
+   "Requisitos": [],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "IQF476": {
    "Codigo": "IQF476",
@@ -1566,7 +1685,8 @@
    "Extensao": "0",
    "Requisitos": [
     "IQF352"
-   ]
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "IQF478": {
    "Codigo": "IQF478",
@@ -1577,7 +1697,8 @@
    "Extensao": "0",
    "Requisitos": [
     "IQF368"
-   ]
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "IQF479": {
    "Codigo": "IQF479",
@@ -1588,7 +1709,8 @@
    "Extensao": "0",
    "Requisitos": [
     "IQF470"
-   ]
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "IQF487": {
    "Codigo": "IQF487",
@@ -1597,7 +1719,8 @@
    "Teorica": "30",
    "Pratica": "30",
    "Extensao": "0",
-   "Requisitos": []
+   "Requisitos": [],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "IQF501": {
    "Codigo": "IQF501",
@@ -1606,7 +1729,8 @@
    "Teorica": "30",
    "Pratica": "0",
    "Extensao": "0",
-   "Requisitos": []
+   "Requisitos": [],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "IQF503": {
    "Codigo": "IQF503",
@@ -1615,7 +1739,8 @@
    "Teorica": "30",
    "Pratica": "30",
    "Extensao": "0",
-   "Requisitos": []
+   "Requisitos": [],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "IQF504": {
    "Codigo": "IQF504",
@@ -1624,7 +1749,8 @@
    "Teorica": "30",
    "Pratica": "0",
    "Extensao": "0",
-   "Requisitos": []
+   "Requisitos": [],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "IQF505": {
    "Codigo": "IQF505",
@@ -1633,7 +1759,8 @@
    "Teorica": "30",
    "Pratica": "15",
    "Extensao": "0",
-   "Requisitos": []
+   "Requisitos": [],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "IQG475": {
    "Codigo": "IQG475",
@@ -1644,7 +1771,8 @@
    "Extensao": "0",
    "Requisitos": [
     "IQG241"
-   ]
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "IQG476": {
    "Codigo": "IQG476",
@@ -1655,7 +1783,8 @@
    "Extensao": "0",
    "Requisitos": [
     "IQG241"
-   ]
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "IQG488": {
    "Codigo": "IQG488",
@@ -1666,7 +1795,8 @@
    "Extensao": "0",
    "Requisitos": [
     "IQG241"
-   ]
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "IQO001": {
    "Codigo": "IQO001",
@@ -1677,7 +1807,8 @@
    "Extensao": "0",
    "Requisitos": [
     "IQO350"
-   ]
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "IQO002": {
    "Codigo": "IQO002",
@@ -1688,7 +1819,8 @@
    "Extensao": "0",
    "Requisitos": [
     "IQO234"
-   ]
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "IQO004": {
    "Codigo": "IQO004",
@@ -1700,7 +1832,8 @@
    "Requisitos": [
     "IQF470",
     "IQO249"
-   ]
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "IQO111": {
    "Codigo": "IQO111",
@@ -1709,7 +1842,8 @@
    "Teorica": "30",
    "Pratica": "0",
    "Extensao": "0",
-   "Requisitos": []
+   "Requisitos": [],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "IQO472": {
    "Codigo": "IQO472",
@@ -1721,7 +1855,8 @@
    "Requisitos": [
     "IQO350",
     "IQO362"
-   ]
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "IQO473": {
    "Codigo": "IQO473",
@@ -1732,7 +1867,8 @@
    "Extensao": "0",
    "Requisitos": [
     "IQO249"
-   ]
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "IQO476": {
    "Codigo": "IQO476",
@@ -1743,7 +1879,8 @@
    "Extensao": "0",
    "Requisitos": [
     "IQO350"
-   ]
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "IQO494": {
    "Codigo": "IQO494",
@@ -1754,7 +1891,8 @@
    "Extensao": "0",
    "Requisitos": [
     "IQO350"
-   ]
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "IQO501": {
    "Codigo": "IQO501",
@@ -1765,7 +1903,8 @@
    "Extensao": "0",
    "Requisitos": [
     "IQO249"
-   ]
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "IQO502": {
    "Codigo": "IQO502",
@@ -1777,7 +1916,8 @@
    "Requisitos": [
     "IQO501",
     "IQO592"
-   ]
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "IQO503": {
    "Codigo": "IQO503",
@@ -1789,7 +1929,8 @@
    "Requisitos": [
     "IQO350",
     "IQO362"
-   ]
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "IQO504": {
    "Codigo": "IQO504",
@@ -1800,7 +1941,8 @@
    "Extensao": "0",
    "Requisitos": [
     "IQO234"
-   ]
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "IQO505": {
    "Codigo": "IQO505",
@@ -1811,7 +1953,8 @@
    "Extensao": "0",
    "Requisitos": [
     "IQW595"
-   ]
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "IQO506": {
    "Codigo": "IQO506",
@@ -1823,7 +1966,8 @@
    "Requisitos": [
     "IQF362",
     "IQO350"
-   ]
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "IQO580": {
    "Codigo": "IQO580",
@@ -1834,7 +1978,8 @@
    "Extensao": "0",
    "Requisitos": [
     "IQO350"
-   ]
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "IQO581": {
    "Codigo": "IQO581",
@@ -1846,7 +1991,8 @@
    "Requisitos": [
     "IQB358",
     "IQO350"
-   ]
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "IQO582": {
    "Codigo": "IQO582",
@@ -1857,7 +2003,8 @@
    "Extensao": "0",
    "Requisitos": [
     "IQO350"
-   ]
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "IQO583": {
    "Codigo": "IQO583",
@@ -1866,7 +2013,8 @@
    "Teorica": "30",
    "Pratica": "0",
    "Extensao": "0",
-   "Requisitos": []
+   "Requisitos": [],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "IQO585": {
    "Codigo": "IQO585",
@@ -1877,7 +2025,8 @@
    "Extensao": "0",
    "Requisitos": [
     "IQO350"
-   ]
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "IQO591": {
    "Codigo": "IQO591",
@@ -1888,7 +2037,8 @@
    "Extensao": "0",
    "Requisitos": [
     "IQO249"
-   ]
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "IQO592": {
    "Codigo": "IQO592",
@@ -1899,7 +2049,8 @@
    "Extensao": "0",
    "Requisitos": [
     "IQO234"
-   ]
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "IQO594": {
    "Codigo": "IQO594",
@@ -1910,7 +2061,8 @@
    "Extensao": "0",
    "Requisitos": [
     "IQO234"
-   ]
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "IQO596": {
    "Codigo": "IQO596",
@@ -1921,7 +2073,8 @@
    "Extensao": "0",
    "Requisitos": [
     "IQO350"
-   ]
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "IQO599": {
    "Codigo": "IQO599",
@@ -1932,7 +2085,8 @@
    "Extensao": "0",
    "Requisitos": [
     "IQO350"
-   ]
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "IQW475": {
    "Codigo": "IQW475",
@@ -1944,7 +2098,8 @@
    "Requisitos": [
     "IQG121",
     "IQO112"
-   ]
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "IQW595": {
    "Codigo": "IQW595",
@@ -1955,7 +2110,8 @@
    "Extensao": "0",
    "Requisitos": [
     "IQO234"
-   ]
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "IQW597": {
    "Codigo": "IQW597",
@@ -1966,7 +2122,8 @@
    "Extensao": "0",
    "Requisitos": [
     "IQO234"
-   ]
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "IQW599": {
    "Codigo": "IQW599",
@@ -1977,7 +2134,8 @@
    "Extensao": "0",
    "Requisitos": [
     "IQO231"
-   ]
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "IQW624": {
    "Codigo": "IQW624",
@@ -1989,7 +2147,8 @@
    "Requisitos": [
     "IQO234",
     "IQO249"
-   ]
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "IQW999": {
    "Codigo": "IQW999",
@@ -1998,7 +2157,8 @@
    "Teorica": "15",
    "Pratica": "0",
    "Extensao": "0",
-   "Requisitos": []
+   "Requisitos": [],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "IQWU03": {
    "Codigo": "IQWU03",
@@ -2007,7 +2167,8 @@
    "Teorica": "180",
    "Pratica": "0",
    "Extensao": "0",
-   "Requisitos": []
+   "Requisitos": [],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "IQWU04": {
    "Codigo": "IQWU04",
@@ -2016,7 +2177,8 @@
    "Teorica": "180",
    "Pratica": "0",
    "Extensao": "0",
-   "Requisitos": []
+   "Requisitos": [],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "IQWX03": {
    "Codigo": "IQWX03",
@@ -2025,7 +2187,8 @@
    "Teorica": "15",
    "Pratica": "0",
    "Extensao": "0",
-   "Requisitos": []
+   "Requisitos": [],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "IQWX15": {
    "Codigo": "IQWX15",
@@ -2034,7 +2197,8 @@
    "Teorica": "0",
    "Pratica": "30",
    "Extensao": "0",
-   "Requisitos": []
+   "Requisitos": [],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "LEB599": {
    "Codigo": "LEB599",
@@ -2043,7 +2207,8 @@
    "Teorica": "60",
    "Pratica": "0",
    "Extensao": "0",
-   "Requisitos": []
+   "Requisitos": [],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "LEG013": {
    "Codigo": "LEG013",
@@ -2052,7 +2217,8 @@
    "Teorica": "60",
    "Pratica": "0",
    "Extensao": "0",
-   "Requisitos": []
+   "Requisitos": [],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "LEG014": {
    "Codigo": "LEG014",
@@ -2063,7 +2229,8 @@
    "Extensao": "0",
    "Requisitos": [
     "LEG013"
-   ]
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "LEG015": {
    "Codigo": "LEG015",
@@ -2072,7 +2239,8 @@
    "Teorica": "60",
    "Pratica": "0",
    "Extensao": "0",
-   "Requisitos": []
+   "Requisitos": [],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "LEG016": {
    "Codigo": "LEG016",
@@ -2083,7 +2251,8 @@
    "Extensao": "0",
    "Requisitos": [
     "LEG015"
-   ]
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "LEV121": {
    "Codigo": "LEV121",
@@ -2092,7 +2261,8 @@
    "Teorica": "30",
    "Pratica": "0",
    "Extensao": "0",
-   "Requisitos": []
+   "Requisitos": [],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "LEV131": {
    "Codigo": "LEV131",
@@ -2103,7 +2273,8 @@
    "Extensao": "0",
    "Requisitos": [
     "LEV121"
-   ]
+   ],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "MAE125": {
    "Codigo": "MAE125",
@@ -2112,7 +2283,8 @@
    "Teorica": "45",
    "Pratica": "15",
    "Extensao": "0",
-   "Requisitos": []
+   "Requisitos": [],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   },
   "NEP110": {
    "Codigo": "NEP110",
@@ -2121,7 +2293,8 @@
    "Teorica": "60",
    "Pratica": "0",
    "Extensao": "0",
-   "Requisitos": []
+   "Requisitos": [],
+   "Nivel": "Disciplinas Optativas (Escolha Condicionada)"
   }
  }
 }

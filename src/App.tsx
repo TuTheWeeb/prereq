@@ -1,155 +1,262 @@
-import { useState, useEffect } from 'react'
-import './App.css'
+import { useState, useEffect } from "react";
+import "./App.css";
 
 export interface Disciplina {
-  Codigo: string;
-  Nome: string;
-  Teorica: string;
-  Pratica: string;
-  Extensao: string;
-  Requisitos: string[];
+    Codigo: string;
+    Nome: string;
+    Teorica: string;
+    Pratica: string;
+    Extensao: string;
+    Nivel: string;
+    Requisitos: string[];
+}
+
+interface PropsMateria {
+    disciplina: Disciplina;
+    cumpridas: Record<string, boolean>;
+    Requisitos: Record<string, string[]>;
+    setCumpridas: Function;
+}
+
+function MenuEscolhaCurso({ setName }: { setName: Function }) {
+    return (
+        <div className="flex justify-center border-b-2 border-emerald-600 mb-5 mt-5 pb-1 sm:text-xl">
+            <div className=""></div>
+            <div className="">
+                <select
+                    className="text-center"
+                    onChange={(event) => setName(event.target.value)}
+                >
+                    <option key="ccomp" value="ccomp">
+                        Ciências da Computação
+                    </option>
+                    <option key="quimica" value="quimica">
+                        Quimica atribuições técnologicas
+                    </option>
+                </select>
+            </div>
+        </div>
+    );
+}
+
+function Materia({
+    disciplina,
+    cumpridas,
+    setCumpridas,
+    Requisitos,
+}: PropsMateria) {
+    if (cumpridas[disciplina.Codigo] === true) {
+        return (
+            <li
+                className="flex items-center max-[430px]:text-[14px] max-[430px]:w-33 sm:min-w-33 max-sm:border-2 sm:border-2 max-sm:rounded-md sm:rounded-xl bg-emerald-600 text-white border-emerald-500 p-1 m-1 hover:border-emerald-500 hover:bg-emerald-400 hover:text-white hover:font-extrabold h-18 justify-center"
+                onClick={() => {
+                    set_discp(setCumpridas, disciplina.Codigo, Requisitos);
+                }}
+                key={disciplina.Codigo}
+            >
+                <h1 className="">{disciplina.Nome}</h1>
+            </li>
+        );
+    } else {
+        return (
+            <li
+                className="flex items-center max-[430px]:text-[14px] max-[430px]:w-33 sm:min-w-33 max-sm:border-2 sm:border-2 max-sm:rounded-md sm:rounded-xl bg-slate-800 text-slate-300 border-slate-600 p-1 m-1 hover:border-emerald-500 hover:bg-slate-700 hover:text-white hover:font-extrabold h-18 justify-center"
+                onClick={() => {
+                    set_discp(setCumpridas, disciplina.Codigo, Requisitos);
+                }}
+                key={disciplina.Codigo}
+            >
+                <h1 className="">{disciplina.Nome}</h1>
+            </li>
+        );
+    }
 }
 
 // Disabilita sequencialmente cada dependencia
-function dis_discp(setCumpridas: Function, codigo: string, Requisitos: Record<string, string[]>) {
-  setCumpridas((prevCumpridas: Record<string, boolean>) => {
-    return {
-      ...prevCumpridas,
-      [codigo]: false 
-    };
-  });
+function dis_discp(
+    setCumpridas: Function,
+    codigo: string,
+    Requisitos: Record<string, string[]>,
+) {
+    setCumpridas((prevCumpridas: Record<string, boolean>) => {
+        return {
+            ...prevCumpridas,
+            [codigo]: false,
+        };
+    });
 
-  if (Requisitos[codigo] === undefined) {
-    return;
-  }
-  
-  Requisitos[codigo].map((req) => {
-    dis_discp(setCumpridas, req, Requisitos)
-  });
+    if (Requisitos[codigo] === undefined) {
+        return;
+    }
+
+    Requisitos[codigo].map((req) => {
+        dis_discp(setCumpridas, req, Requisitos);
+    });
 }
 
 // seta a disciplina como cumprida ou não cumprida
-function set_discp(setCumpridas: Function, codigo: string, Requisitos: Record<string, string[]>) {
-  setCumpridas((prevCumpridas: Record<string, boolean>) => {
-    return {
-      ...prevCumpridas,
-      [codigo]: !prevCumpridas[codigo] 
-    };
-  });
+function set_discp(
+    setCumpridas: Function,
+    codigo: string,
+    Requisitos: Record<string, string[]>,
+) {
+    setCumpridas((prevCumpridas: Record<string, boolean>) => {
+        return {
+            ...prevCumpridas,
+            [codigo]: !prevCumpridas[codigo],
+        };
+    });
 
-  if (Requisitos[codigo] === undefined) {
-    return;
-  }
+    if (Requisitos[codigo] === undefined) {
+        return;
+    }
 
-  Requisitos[codigo].map((req) => {
-    dis_discp(setCumpridas, req, Requisitos)
-  });
+    Requisitos[codigo].map((req) => {
+        dis_discp(setCumpridas, req, Requisitos);
+    });
 }
 
 function App() {
-  const [name, setName] = useState("ccomp");
-  const [data, setData] = useState([]);
-  const [isLoading, setIsLoading] = useState(true);
-  const [error, setError] = useState(null);
-  //const [reqs, setReqs] = useState({} as Record<string, string[]>);
-  const [cumpridas, setCumpridas] = useState({} as Record<string, boolean>);
-  const [onView, setOnView] = useState({} as Record<string, boolean>);
-  const [disciplinas, setDisciplinas] = useState({} as Record<string, Disciplina>);
-  const [Requisitos, setRequisitos] = useState({} as Record<string, string[]>);
+    const [name, setName] = useState("ccomp");
+    const [data, setData] = useState([]);
+    const [isLoading, setIsLoading] = useState(true);
+    const [cumpridas, setCumpridas] = useState({} as Record<string, boolean>);
+    const [onView, setOnView] = useState({} as Record<string, boolean>);
+    const [disciplinas, setDisciplinas] = useState(
+        {} as Record<string, Disciplina>,
+    );
+    const [Requisitos, setRequisitos] = useState(
+        {} as Record<string, string[]>,
+    );
+    const [groups, setGroups] = useState({} as Record<string, Disciplina[]>);
 
-  useEffect(() => {
-    fetch("/dados_"+name+".json", {
-      headers: {
-        'Content-Type': 'application/json',
-        'Accept': 'application/json'
-      }
-    })
-      .then(response => {
-        if (!response.ok) {
-          throw new Error('Fetching error, response is not ok!');
-        }
-        return response.json();
-      })
-      .then(data => {
-        setData(data);
-        setIsLoading(false);
-      })
-      .catch(error => {
-        setError(error);
-        setIsLoading(false);
-      });
-
-  }, []);
-
-  useEffect(() => {
-    const novasDisciplinas: Record<string, Disciplina> = {};
-    const novoOnView: Record<string, boolean> = {};
-    const novoRequisitos: Record<string, string[]> = {};
-
-    Object.entries(data).forEach(([chavePrincipal, Objetos]) => {
-      if (chavePrincipal === "Requisitos") {
-        return;
-      }
-      
-      Object.assign(novasDisciplinas, Objetos);
-      
-
-      Object.entries(Objetos).forEach(([_, discp]) => {
-        const disciplina = discp as Disciplina;
-        
-        if (disciplina.Requisitos.length > 0) {
-          disciplina.Requisitos.map((req) => {
-            if (novoRequisitos[req] === undefined) {
-              novoRequisitos[req] = [disciplina.Codigo];
-            } else {
-              novoRequisitos[req] = [...novoRequisitos[req], disciplina.Codigo];
-            }
-          })
-        }
-
-        if (chavePrincipal === "1 Periodo" || disciplina.Requisitos.length === 0) {
-          novoOnView[disciplina.Codigo] = true;
-        } else {
-          const requisitos = disciplina.Requisitos;
-          
-          const validade = requisitos.map((req) => cumpridas[req] === undefined || cumpridas[req] === false ? false : true ).reduce((p, n) => p && n);
-
-          novoOnView[disciplina.Codigo] = validade;
-
-          
-        }
-      });
-    });
-
-    setOnView(novoOnView);
-    setDisciplinas(novasDisciplinas);
-    setRequisitos(novoRequisitos);
-  }, [data, cumpridas]);
-
-
-
-  if (isLoading) return <div>Carregando...</div>;
-  return (
-    <>
-      <div className='flex flex-col text-center bg-black text-white w-screen h-screen'>
-        <h1 className='text-3xl text-center'>Prereq:</h1>
-        <ul className='grid grid-cols-6 m-5 gap-2'>
-          {
-            Object.entries(onView).map(([codigo, validade]) => {
-              const disciplina = disciplinas[codigo];
-              if (validade) {
-                return <li className='border-2 border-gray-800 rounded-xl p-2 hover:border-white hover:text-white'  onClick={
-                          () => {set_discp(setCumpridas, disciplina.Codigo, Requisitos);}
-                } key={disciplina.Codigo}>{disciplina.Nome}</li>;
-              }
-
-              return null;
+    useEffect(() => {
+        fetch("/dados_" + name + ".json", {
+            headers: {
+                "Content-Type": "application/json",
+                Accept: "application/json",
+            },
+        })
+            .then((response) => {
+                if (!response.ok) {
+                    throw new Error("Fetching error, response is not ok!");
+                }
+                return response.json();
             })
+            .then((data) => {
+                setData(data);
+                setIsLoading(false);
+            })
+            .catch((error) => {
+                console.log(error);
+                setIsLoading(false);
+            });
+    }, [name]);
+
+    useEffect(() => {
+        const novasDisciplinas: Record<string, Disciplina> = {};
+        const novoOnView: Record<string, boolean> = {};
+        const novoRequisitos: Record<string, string[]> = {};
+
+        Object.entries(data).forEach(([chavePrincipal, Objetos]) => {
+            if (chavePrincipal === "Requisitos") {
+                return;
             }
-        </ul>
-      </div>
-    </>
-  )
+
+            Object.assign(novasDisciplinas, Objetos);
+
+            Object.entries(Objetos).forEach(([_, discp]) => {
+                const disciplina = discp as Disciplina;
+
+                if (disciplina.Requisitos.length > 0) {
+                    disciplina.Requisitos.map((req) => {
+                        if (novoRequisitos[req] === undefined) {
+                            novoRequisitos[req] = [disciplina.Codigo];
+                        } else {
+                            novoRequisitos[req] = [
+                                ...novoRequisitos[req],
+                                disciplina.Codigo,
+                            ];
+                        }
+                    });
+                }
+
+                if (
+                    chavePrincipal === "1 Periodo" ||
+                    disciplina.Requisitos.length === 0
+                ) {
+                    novoOnView[disciplina.Codigo] = true;
+                } else {
+                    const requisitos = disciplina.Requisitos;
+
+                    const validade = requisitos
+                        .map((req) =>
+                            cumpridas[req] === undefined ||
+                            cumpridas[req] === false
+                                ? false
+                                : true,
+                        )
+                        .reduce((p, n) => p && n);
+
+                    novoOnView[disciplina.Codigo] = validade;
+                }
+            });
+        });
+
+        setOnView(novoOnView);
+        setDisciplinas(novasDisciplinas);
+        setRequisitos(novoRequisitos);
+
+        for (const [nivel, objetos] of Object.entries(data)) {
+            if (nivel === "Requisitos") {
+                continue;
+            }
+
+            groups[nivel] = objetos;
+        }
+        setGroups(groups);
+    }, [data, cumpridas]);
+
+    if (isLoading) return <div>Carregando...</div>;
+    return (
+        <div className="flex flex-col justify-center bg-slate-900 text-slate-200">
+            <div className="flex flex-col text-center font-bold">
+                <MenuEscolhaCurso setName={setName}></MenuEscolhaCurso>
+                {Object.entries(groups).map(([nivel, objetos]) => {
+                    return (
+                        <ul
+                            className="grid md:grid-cols-5 max-md:grid-cols-3 max-sm:grid-cols-3 sm:ml-5 sm:mr-5"
+                            key={nivel}
+                        >
+                            {Object.entries(objetos).map(
+                                ([codigo, disciplina]) => {
+                                    const validade = onView[codigo];
+
+                                    if (validade) {
+                                        return (
+                                            <Materia
+                                                disciplina={disciplina}
+                                                cumpridas={cumpridas}
+                                                setCumpridas={setCumpridas}
+                                                Requisitos={Requisitos}
+                                            ></Materia>
+                                        );
+                                    }
+
+                                    return <></>;
+                                },
+                            )}
+                        </ul>
+                    );
+                })}
+            </div>
+            <div className="flex items-center justify-center w-full h-10 font-bold text-xl underline text-emerald-500">
+                <a href="https://github.com/TuTheWeeb/prereq" className="">
+                    https://github.com/TuTheWeeb/prereq
+                </a>
+            </div>
+        </div>
+    );
 }
 
-export default App
+export default App;
