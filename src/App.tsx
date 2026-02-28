@@ -23,6 +23,7 @@ function MenuEscolhaCurso({ nome, setNome }: { nome: string, setNome: Function }
         <div className="flex justify-center border-b-2 border-emerald-600 mb-5 mt-5 pb-1 sm:text-xl">
             <div className=""></div>
             <div className="">
+                <label>Selecione o seu curso: </label>
                 <select
                     className="text-center"
                     defaultValue={nome}
