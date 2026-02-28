@@ -145,7 +145,7 @@ function App() {
     const [groups, setGroups] = useState({} as Record<string, Disciplina[]>);
 
     useEffect(() => {
-        fetch("/dados_" + nome + ".json", {
+        fetch(import.meta.env.BASE_URL + "/dados_" + nome + ".json", {
             headers: {
                 "Content-Type": "application/json",
                 Accept: "application/json",
