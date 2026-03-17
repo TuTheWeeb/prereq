@@ -8,8 +8,8 @@ pnpm-debug.log*
 lerna-debug.log*
 
 node_modules
-# Objetivo é rodar no github
-#dist
+dist
+dist/*
 dist-ssr
 *.local
 
