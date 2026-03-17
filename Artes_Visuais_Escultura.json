@@ -1,0 +1,3015 @@
+{
+ "Artes Visuais Escultura": [
+  {
+   "materias": {
+    "1º Período": [
+     {
+      "Codigo": "BAE119",
+      "Nome": "Oficina de Fôrmas I",
+      "Créditos": "3.0",
+      "Teórica": "0",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Técnicas de formagem em gesso, passagem, fundição, vazamento em positivo; moldagem direta; formas de areia; forma perdida; tacelos. Relevos. Escultura em bloco e perfurada.\n___BIBLIOGRAFIA BÁSICA___\n1- MIDGLEY, Barry (Ed.). The Complete Guide to Sculpture, Modeling and Ceramics, techniques and materials. Chartwell Books, Inc. London, 1982.\n2-VERHELST, Wilbert. Sculpture: Tools, Materials and Techniques. Prentice Hall; 2 Sub edition (January 1988).\n3- MILLER, Richard McDermott. Figure in Wax and Plaster. Dover Publications, 1987.\n4- WILLIAMS, Arthur. The Sculpture reference: contemporary techniques, terms, tools, materials and sculpture. Sculpture Books, 2004.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "09:00 - 12:00",
+        "professor": "NIVALDO RODRIGUES CARNEIRO"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 16:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH102",
+      "Nome": "Teoria da Percepção",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "As teorias contemporâneas da percepção visual relacionadas com a criação artística.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAE100",
+      "Nome": "Oficina de Criação 3 D I",
+      "Créditos": "4.0",
+      "Teórica": "30",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Elementos básicos da composição visual: ponto, linha, plano. A cor, círculo cromático, luminosidade. Cor e luz sua relação com a escultura e com a construção do espaço. O espaço de 180º. Relevos. O espaço de 360°. Exercício de acuidade táctil e de percepção das qualidades do espaço. Materiais moles. Materiais duros.\n___BIBLIOGRAFIA BÁSICA___\n1- ARNHEIM, Rudolf. Arte e percepção visual (Uma Psicologia da Visão Criadora). São Paulo: Livraria Pioneira, 1991.\n2- BACHELARD, Gaston. A Poética do Espaço. Eldorado, Rio de Janeiro.\n3- EHRENZWEIG, Anton. A ordem oculta da arte. Rio de Janeiro: Zahar, 1969.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "09:00 - 12:00",
+        "professor": "MARINA FERREIRA FREGA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "09:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAF101",
+      "Nome": "Desenho Artístico I",
+      "Créditos": "4.0",
+      "Teórica": "0",
+      "Prática": "135",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenho de observação a partir de sólidos geométricos, com ensinamentos teóricos e exercícios práticos de observação e percepção do campo visual, análise estrutural da forma e iniciação ao processo de criação.\n___Bibliografia Recomendada___\n1- OSTROWER, Fayga. Universos da Arte. Campinas: UNICAMP, 2013.\n2- PEDROSA, Israel. Da cor à cor inexistente. Rio de Janeiro: Senac Nacional, 2009.\n3- PIGNATTI, Terisio. O desenho: de Altamira a Picasso. São Paulo: Abril, 1982.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 16:00",
+        "professor": "LUCIANA MAIA COUTINHO"
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 16:00",
+        "professor": ""
+       },
+       {
+        "dia": "Sex",
+        "hora": "13:00 - 16:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH115",
+      "Nome": "Metodologia da Pesquisa",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Análise de conceitos e métodos na pesquisa em História Cultural, História da Arte e Artes Visuais, a partir de uma reflexão teórica e metodológica amparada em estudos empíricos.\n___ BIBLIOGRAFIA BÁSICA ___\n1- BECKER, H.S. Falando da sociedade: ensaios sobre as diferentes maneiras de representar o social. Rio de Janeiro: Zahar, 2009.\n2- CAUQUELIN, Anne. Teorias da arte. São Paulo: Martins Fontes, 2005.\n3- CERTEAU, Michel de. ?A Operação histórica?. In: A operação histográfica. Rio de Janeiro: Forense universitária, 1982.\n4- GIL, Antonio Carlos. Como elaborar projetos de pesquisa. São Paulo: Atlas, 2002.\n5- HEINICH, Nathalie. ?práticas da Arte contemporânea. Uma abordagem pragmática a um novo paradigma?. Sociologia Antropologia. Rio de Janeiro, v. 4, 391-431, 2010.\n6- SHWARCZ, Lilia Moritz. ?Lendo e agenciando imagens: o rei, a natureza e seus belos naturais?. Sociologia Antropologia. Rio de Janeiro, V. 4, 391-431, 2010.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "09:00 - 12:00",
+        "professor": "ANA CECILIA MATTOS MAC DOWELL"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "2º Período": [
+     {
+      "Codigo": "BAE121",
+      "Nome": "Oficina de Criação 3 D II",
+      "Créditos": "4.0",
+      "Teórica": "30",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Exploração de diferentes modos de produzir relações espaciais. Exercícios práticos de produção do espaço.\n___BIBLIOGRAFIA BÁSICA___\n1- STILLES, Kristine; SELZ, Peter. Theories and documents of contemporary art. Berkeley: University of California Press, 1996.\n2- WERHEIM, Margareth. Um história do espaço: de Dante à Internet. Rio de Janeiro: Jorge Zahar, 2001.\n3- KWON, Miwon. One place after another: site-specific art and location identity. Cambridge: The MIT Press, 2004.\n4- BOURRIAUD, Nicolas. Relational Aesthetics. Le presses du réel, France, 2002.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 16:00",
+        "professor": "PAULO VICENTE DA VEIGA JORDAO"
+       },
+       {
+        "dia": "Seg",
+        "hora": "09:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "BAE100"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAF205",
+      "Nome": "Modelo Vivo I",
+      "Créditos": "3.0",
+      "Teórica": "0",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenho de observação da estrutura da forma no espaço com seus atributos de ritmo, volumes e proporção. Percepção da linha e suas possibilidades expressivas e do claro-escuro.\n___Bibliografia Recomendada___\n1- ARNHEIM, Rudolf. Arte e percepção visual: uma psicologia da visão criadora. São Paulo: Cengage Learning, 2011.\n2- ARNHEIM, Rudolf. Intuição e intelecto na arte. São Paulo: Martins Fontes, 1989.\n3- KANDINSKY, Wassily. Ponto linha plano: contribuição para a análise dos elementos picturais. Lisboa: Edições 70, 1996.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "09:00 - 12:00",
+        "professor": "ALVARO MARTINS DE SEIXAS NETO"
+       },
+       {
+        "dia": "Qui",
+        "hora": "09:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH204",
+      "Nome": "Estética I",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O pensamento estético e a noção de belo; Aristóteles, Platão. A estética helenística e greco romana. O médio e extremo oriente. Estética Cristã; Idade Média e Renascimento.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAE120",
+      "Nome": "Oficina de Fôrmas II",
+      "Créditos": "3.0",
+      "Teórica": "0",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": "",
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAE119"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAF105",
+      "Nome": "Desenho Artístico II",
+      "Créditos": "4.0",
+      "Teórica": "0",
+      "Prática": "135",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Instrumental teórico e prático para a análise, representação e composição bidimensional. Observação visual de formas naturais e artificiais. Apresentação de materiais e técnicas de desenho. Estudos da cor.\n___Bibliografia Recomendada___\n1- BAXANDALL, M. Sombras e luzes. São Paulo: EDUSP, 1997.\n2- COLI, J. O que é a arte?. São Paulo: Editora Brasiliense, 2006.\n3- DONDIS, Donis A. Sintaxe da Linguagem Visual. São Paulo: Martins Fontes, 2007.\n4- OSTROWER, F. Acasos e criação artística. Rio de Janeiro: Editora Campus, 1990.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAF101"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH107",
+      "Nome": "História da Arte",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo dos conceitos fundamentais ao entendimento da produção artística. instrumentalização de vocabulário próprio para a compreensão da História da Arte. A arte da pré-história até o período neoclássico.\n___Bibliografia Recomendada___\n1) BAZIN, Germain. História da Arte. Da pré-história aos nossos dias. Lisboa: Martins Fontes, 1976.\n2) GOMBRICH. E. H. A História da Arte. rio de Janeiro: LTC, 2011.\n3) HAUSER, Arnold. História social da literatura e da arte. São Paulo: Martins Fontes, 2003.\n4) JANSON, H. W. História da Arte. 9ª ed. Lisboa: Fundação Calouste Gulbenkian, 2010.\n5) WOODFORD,  Susan. A arte de ver a arte. Rio de Janeiro:Zahar, 1983.\n___Bibliografia Complementar___\n1) ARGAN, Giulio Carlo. História da italiana - Da Antiguidade a Duccio. São Paulo: Editora Cosac e Naify, 2003.\n2) GOZZOLI, Maria Cristina. Como reconhecer a arte gótica. Lisboa: Edições 70, 1986.\n3) MANDEL, Gabriele. Como reconhecer a arte islâmica. São Paulo: Martins Fontes, 1985.\n4) TARELLA, Alda. Como reconhecer a arte romana. Lisboa: Edições 70, 1988.\n5) WOODFORD,  Susan. Grécia e Roma. Rio de Janeiro: Zahar, 1983.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "3º Período": [
+     {
+      "Codigo": "BAE231",
+      "Nome": "Escultura I",
+      "Créditos": "6.0",
+      "Teórica": "45",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Não cadastrada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "13:00 - 16:00",
+        "professor": "GABRIELA DI BATTISTA MUREB"
+       },
+       {
+        "dia": "Sex",
+        "hora": "09:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH207",
+      "Nome": "Estética II",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Os sistemas esteticos em seus compromissos com o mundo moderno e contemporaneo. A estetica de descartes aos nossos dias. A estetica contemporanea, as principais correntes.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAH204"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAE230",
+      "Nome": "Representações 3 D",
+      "Créditos": "4.0",
+      "Teórica": "30",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Técnica de representação dos objetos no espaço através da estrutura linear, do claro-escuro e da cor. Utilização de desenho auxiliado por computador bem como de procedimentos tradicionais de desenho.\n___BIBLIOGRAFIA BÁSICA___\n1-BUSTAMANTE, Léa Santos. Metodologia dos sistemas projetivos. RJ. Ed. Bahiense.\n2- FLOCON, Albert. A Perspectiva. São Paulo: Difel, 1967.\n3- NORLING, Ernest R. La Perspectiva Simplificada. B. Aires. Ed. Jorge A. Duclout.\n4- Manuais dos programas Sketchup; AutoCAD, entre outros.\n5- SCHMITZ/TELES. Livros Técnicos e Científicos Editora S.A.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 16:00",
+        "professor": "ANA CECILIA MATTOS MAC DOWELL"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 16:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAE232",
+      "Nome": "Teorias da Arte Contemp I",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo da produção de arte contemporânea, visando compreender suas estratégias, conceitos e motivações experimentais a partir de um enfoque transversal contemplando a temática dos Direitos Humanos.\n___ BIBLIOGRAFIA BÁSICA ___\n1- KRAUSS, Rosalind. A escultura no campo ampliado. Revista Arte&Ensaio n.17, PPGAV/EBA/UFRJ, 2008.\n2- DANTO, Arthur. Beyond the Brillo Box: The Visual Arts in Post-Historical Perspective, Farrar, Straus & Giroux, 1992.\n3- FUSCO , Renato de. História da arte contemporânea. Lisboa : Presença, 1983.\n4- GULLAR, Ferreira. Etapas da arte contemporânea. São Paulo : Nobel, 1985.\n5- CAUQUELIN, Anne. Arte contemporânea ? uma introdução. São Paulo: Martins Fontes, 2005.\n6- BRITO, Ronaldo. Neoconcretismo: vértice e ruptura do projeto construtivo brasileiro. Rio de Janeiro: FUNARTE, 1985.\n7- FERREIRA, Gloria; COTRIM, Cecília. [org.] ? Escritos de Artistas anos 60/70. Rio de Janeiro, Jorge Zahar, 2006.\n8- OITICICA, Hélio. Aspiro ao grande labirinto. Rio de Janeiro, Rocco, 1986.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 16:00",
+        "professor": "MICHELLE CUNHA SALES"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "4º Período": [
+     {
+      "Codigo": "BAE242",
+      "Nome": "Teorias da Arte Contemp II",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "As novas tecnologias e mídias contemporâneas na produção artística. A presença de novas abordagens a partir da revolução digital.\n___BIBLIOGRAFIA BÁSICA___\n1- STILES, Kristine; SELZ, Peter. Theories and Documents of contemporary art. Berkley, Los Angeles, Londres, University of California Press, 1996.\n2- FOSTER, Hal. Recodificação: arte, espetáculo, política cultural. São Paulo: Casa Editorial Paulista, 1996.\n3- DOMINGUES, Diana. Arte, tecnologia e comunicação: poéticas, nós e interações. Pesquisa desenvolvida pelo Grupo de Pesquisa Novas Tecnologias nas Artes Visuais da Universidade de Caxias do Sul. Ago. 1996 a jul. 1998.\n4- DOMINGUES, Diana. Ciberestética: a ecologia do sentir nos territórios do ciberespaço. Pesquisa desenvolvida pelo Grupo de Pesquisa Novas Tecnologias nas Artes Visuais da Universidade de Caxias do Sul. Ago. 1996 a jul. 1998.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "09:00 - 12:00",
+        "professor": "JORGE LUIZ DUTRA SOLEDAR"
+       }
+      ],
+      "Requisitos": [
+       "BAE232"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAE241",
+      "Nome": "Escultura II",
+      "Créditos": "6.0",
+      "Teórica": "45",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O baixo-relevo, o alto-relevo suas relações com a perspectiva e com a arquitetura.Trabalhar com o relevo em suas diferentes modalidades e aplicações.\n___BIBLIOGRAFIA BÁSICA___\n1- KRAUSS, Rosalind. Caminhos da escultura moderna. SP: Martins Fontes, 1998.\n2- READ, Herbert. Escultura Moderna. Uma História Concisa. SP: Martins Fontes, 2003.\n3- TUCKER, William. A linguagem da escultura. São Paulo: Cosac & Naify Edições, 2001.\n4- WITTKOWER, Rudolf. Escultura. SP: Martins Fontes, 2001.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 16:00",
+        "professor": "FLORIANO CARVALHO DE ARAUJO"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 16:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "BAE231"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "5º Período": [
+     {
+      "Codigo": "BAWX01",
+      "Nome": "Atividades Complementares",
+      "Créditos": "3.0",
+      "Teórica": "0",
+      "Prática": "120",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "As atividades complementares serão incrementadas durante todo o curso através de mecanismos de aproveitamento de conhecimentos, com estudos e práticas independentes, presenciais e/ou à distância, tais como : Atividades de iniciação científica no âmbito da UFRJ; Atividades de Extensão universitária realizadas na UFRJ; Atividades de Monitoria em disciplinas da UFRJ;Disciplinas suplementares quando excedentes aos créditos exigidos pelo Curso, desde que cursadas com aproveitamento.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAE351",
+      "Nome": "Escultura III",
+      "Créditos": "6.0",
+      "Teórica": "45",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Trabalho com o volume em equilíbrio e com o volume cinético.\n___BIBLIOGRAFIA BÁSICA___\n1- MOHOLY-NAGY, Lazlo. Vision in Motion. Paul Theobald Publisher, Chicago, 1969.\n2- COLLINS, Judith. Sculpture Today. Phaidon Press, 2007.\n3- TUCKER, William. A linguagem da escultura. São Paulo: Cosac & Naify Edições, 2001.\n4- KRAUSS, Rosalind. Caminhos da Escultura Moderna. SP: Martins Fontes, 1998.\n5- BACHELARD, Gaston. A Poética do Espaço. Eldorado, Rio de Janeiro.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 16:00",
+        "professor": "MARIA ELISA CAMPELO DE MAGALHAES"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 16:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "BAE241"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "6º Período": [
+     {
+      "Codigo": "BAE361",
+      "Nome": "Escultura IV",
+      "Créditos": "6.0",
+      "Teórica": "45",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estruturas complexas, instalações, trabalhos orientados pelo local.\n___BIBLIOGRAFIA BÁSICA___\n1- FRIED, Michael. Art and objecthood. In: BATTCOCK, Gregory (org.). Minimal art: a critical anthology. E. P. Dutton & Co. Inc, 1968.\n2- MOHOLY-NAGY, Lazlo. Vision in Motion. Paul Theobald Publisher, Chicago, 1969.\n3- COLLINS, Judith. Sculpture Today. Phaidon Press, 2007.\n4- TUCKER, William. A linguagem da escultura. São Paulo: Cosac & Naify Edições, 2001.\n5- KWON, Miwon. One place after another: site-specific art and location identity. Cambridge: The MIT Press, 2004.\n6- DEUTSCHE, Rosalyn. Evictions: art and spatial politics. Cambridge: The MIT Press; Grahan Foundation, 1998.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "13:00 - 16:00",
+        "professor": "BEATRIZ PIMENTA VELLOSO"
+       },
+       {
+        "dia": "Sex",
+        "hora": "09:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "BAE351"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "7º Período": [
+     {
+      "Codigo": "BAEX07",
+      "Nome": "Exposição",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Como parte do projeto de graduação o discente deverá realizar uma exposição individual, em uma galeria ou em espaços escolhidos para este fim no próprio prédio da Escola de Belas Artes/EBA da UFRJ ou em outro lugar adequado ao projeto.\n___BIBLIOGRAFIA BÁSICA___\n1- Toda a utilizada durante o curso.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "PAULA SCAMPARINI FERREIRA"
+       }
+      ],
+      "Requisitos": [
+       "BAE361"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAEU02",
+      "Nome": "Estágio Supervisionado",
+      "Créditos": "3.0",
+      "Teórica": "0",
+      "Prática": "120",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estágio de discente em projeto de pesquisa ou na realização prática de obras, exposições, etc, relacionado à sua pesquisa pessoal.\n___BIBLIOGRAFIA BÁSICA___\n1- Não se aplica.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "8º Período": [
+     {
+      "Codigo": "BAEX06",
+      "Nome": "Projeto de Graduação",
+      "Créditos": "3.0",
+      "Teórica": "0",
+      "Prática": "120",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Projeto final de curso consistindo em: 1- uma exposição individual; 2- uma monografia; 3- apresentação de defesa para banca composta de três (3) professores membros da EBA/UFRJ e de outras instituições de ensino superior. Metodologia aplicada ao projeto.\n___BIBLIOGRAFIA BÁSICA___\n1- Toda a utilizada durante o curso.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sab",
+        "hora": "19:00 - 22:00",
+        "professor": "MICHELLE CUNHA SALES"
+       }
+      ],
+      "Requisitos": [
+       "BAE361"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "Disciplinas Optativas (Escolha Restrita)": [
+     {
+      "Codigo": "BAE002",
+      "Nome": "Figura Humana II",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo da figura humana dentro de diversas possibilidades de realização técnica, tendo como ponto de partida a modelagem em argila e evoluindo para sua realização em diferentes técnicas e materiais.\n___BIBLIOGRAFIA BÁSICA___\n1- JEUDY, Henri-Pierre. O Corpo como o Objeto de arte. SP: Ed. Estação Liberdade, 2002.\n2- LUCHESI, Bruno. Modeling the head in clay. New York: Watson-Guptill Publication, 1996.\n3- LUCHESI, Bruno. Modeling the figure in clay. New York: Watson-Guptill Publication, 1996.\n4- RODIN, August. Conversas com Paul Gsell. São Paulo: Nova Fronteira, 1990.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAE001"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAE004",
+      "Nome": "Performance",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Realização de exercícios dentro da linguagem da performance do viés das artes visuais; estudo da história da performance.\n___BIBLIOGRAFIA BÁSICA___\n1- CARVALHO, Flavio de. Uma possível teoria e uma experiência. Rio de Janeiro: Nau, 2001.\n2- GOLDBERG, Roselee. A arte da performance, do futurismo ao presente. São Paulo: Martins Fontes, 2006.\n3- GLUSBERG, Jorge. A arte da performance. São Paulo: Perspectiva, 2005.\n4- Caderno VIDEOBRASIL, vol. 1, n. 1, Performance. São Paulo: SESC, 2005.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAE006",
+      "Nome": "Videoarte II",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Arte eletrônica, videoarte. Realização de vídeos, vídeos-objetos e vídeo-instalações. Estudo da história da videoarte.\n___BIBLIOGRAFIA BÁSICA___\n1- FIFER, Sally Jo; HALL, Doug. Illuminating Video: an essential guide to video art. New York: Aperture / Bay Area Video Coalision, 1990.\n2- MACHADO, Arlindo. Máquina e imaginário. São Paulo: EDUSP, 1993.\n3- MACHADO, Arlindo. A arte do vídeo. São Paulo: Brasiliense, 1988.\n4- SHAW, Jeffrey; WEIBEL, Peter. Future cinema: the cinematic imaginary after film. ZKM Center for Art and Media Karlsruhe, 16 November 2002 - 30 March 2003, travelling to the following venues: Musuem of Contemporary Art, KIASMA Helsinki, 28 June - 28 September 2003, NTT Intercommunication Center ICC Tokyo 2 December 2003 - 7 March 2004. Cambridge: MIT Press, 2003. 635 S.: zahlr. III.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 12:00",
+        "professor": "MARIA ELISA CAMPELO DE MAGALHAES"
+       }
+      ],
+      "Requisitos": [
+       "BAE005"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAE008",
+      "Nome": "Arte Digital II",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Ciberarte, robótica. Realização de instalações interativas e obras envolvendo mecatrônica (robótica).\n___BIBLIOGRAFIA BÁSICA___\n1- WILSON, Stephen. Information arts: Intersections of art, science and technology. Cambridge/MA, London/UK: The MIT Press, 2002.\n2- GRAU, Oliver. Virtual art. Cambridge/MA, London/UK: The MIT Press, 2003.\n3- GOLDBERG, Ken (ed.). The robot in the garden: telerobotics and telepistemology on the internet. Cambridge; London: The MIT Press, 2000.\n4- LUNENFELD, Peter. The digital dialetic - New essays on new media. Cambridge: MIT Press, 1995.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAE007"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAE010",
+      "Nome": "Escultura Cênica II",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Escultura em grandes formatos, escultura cênica, carnaval, cinema, teatro, televisão, parque temático.\n___BIBLIOGRAFIA BÁSICA___\n1- FERREIRA, Felipe. Inventando carnavais: o surgimento do carnaval carioca no século XIX e outras questões carnavalescas. Rio de Janeiro: Editora UFRJ, 2005.\n2- MORAES, Eneida de. História do carnaval carioca. Rio de Janeiro: Record, (1958) 1987.\n3- RICH Jack C. The Materials and Methods of Sculpture. Dover publications, 1988.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "09:00 - 13:00",
+        "professor": "JORGE LUIZ SAMPAIO DUARTE"
+       }
+      ],
+      "Requisitos": [
+       "BAE009"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAE012",
+      "Nome": "Polímeros II",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Os conceitos dos materiais e seus procedimentos. Gênese da forma, execução, reflexão sobre os resultados e sua articulação com o meio artístico contemporâneo.\n___BIBLIOGRAFIA BÁSICA___\n1- GUEDES, Benedito; FILKAURAS, Mario. O Plástico. Ed. Erica.\n2- MANO, Eloisa. Introdução ao estudo dos Polímeros. Ed. Edgard Blucher.\n3- CORAZZA, Euclides de. Poliestireno: material e sua transformação. Ed. Plásticos em Revista.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAE011"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAE014",
+      "Nome": "Cerâmica II",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceito do material, histórico, manuseio, preparo, técnicas e processos, modelagem, percurso histórico, cultura e atos técnicos, ferramental, elementos da natureza, químicos orgânicos e inorgãnicos, misturas, testes, corpo cerâmico, semântica do objeto, gesto, utilidade e função, o essencial e o cultural.\n___BIBLIOGRAFIA BÁSICA___\n1- BACHELARD, Gaston. A terra e os devaneios da vontade. São Paulo: Martins Fontes, 1991.\n2- LEVI-STRAUSS, Claude. Cru e Cozido, Mitológicas. Rio de Janeiro: Editora: Cosac & Naify, 2004.\n3- READ, Herbert. As origens da Forma na Arte. Rio de Janeiro: Zahar, 1967.\n4- TOSTES, Celeida. A Esmaltação em Metal.\n5- LUCHESI, Bruno. Terracotta: The Technique of Fired Clay Sculpture. Watson-Guptill; 1ST edition.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 17:00",
+        "professor": "KATIA CORREIA GORINI"
+       }
+      ],
+      "Requisitos": [
+       "BAE013"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAE016",
+      "Nome": "Escultura em Madeira II",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Prática Instrumental - Ferramentas (máquinas ou acessórios) complexas, funcionamento,rendimento e reparo. Prática Experimental.\n___BIBLIOGRAFIA BÁSICA___\n1- RICH, Jack C. Sculputure in Wood. Dover publications, 1992.\n2- MIDGLEY, Barry (Ed.). The Complete Guide to Sculpture, Modeling and Ceramics, techniques and materials. Chartwell Books, Inc. London, 1982.\n3- RICH, Jack C. The Materials and Methods of Sculpture. Dover publications, 1988.\n4- LIEBSON, Milt. Direct Wood Sculpture: Technique-Innovation-Creativity. Schiffer Publishing (January 1, 2000).\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAE015"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAE018",
+      "Nome": "Escultura em Pedra II",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Prática instrumental - ferramentas simples, noções de confecção e utilização. Prática experimental.\n___BIBLIOGRAFIA BÁSICA___\n1- MEILACH, Dona Z. Contemporary Stone Sculpture: Aesthetics Methods Appreciation. Schiffer Publishing (March 1987).\n2- CAMÍ, Josepmaria Teixido i; SANTAMERA, Jacinto Chiacharo. A Escultura em Pedra. Editorial Estampa, 2000.\n3- MIDGLEY, Barry (Ed.). The Complete Guide to Sculpture, Modeling and Ceramics, techniques and materials. Chartwell Books, Inc. London, 1982.\n4- RICH, Jack C. The Materials and Methods of Sculpture. Dover publications, 1988.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAE017"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAE020",
+      "Nome": "Escultura em Metal II",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Prática Instrumental - Estudos dos processos: soldas e de fundição, pátinas, tratamentos de superfície. Prática Experimental.\n___BIBLIOGRAFIA BÁSICA___\n1- MIDGLEY, Barry (Ed.). The Complete Guide to Sculpture, Modeling and Ceramics, techniques and materials. Chartwell Books, Inc. London, 1982.\n2- RICH, Jack C. The Materials and Methods of Sculpture. Dover publications, 1988.\n3- HUGHES, Richard. The Colouring, Bronzing and Patination of Metals. Watson-Guptill (February 1, 1991).\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAE019"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAH002",
+      "Nome": "História das Artes Visuais II",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo da arte Bizantina, Muçulmana, Bárbara, Românica e Gótica produzidas ao longo da Idade Média, considerando suas inter-relações e seu legado às fases da cultura artística ocidental.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAH004",
+      "Nome": "História das Artes Visuais IV",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo da arte dos séculos XVII e XVIII nos principais centros europeus, considerando dos aspectos formais do Barroco e Rococó.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAH006",
+      "Nome": "História das Artes Visuais VI",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das artes visuais no século XX na Europa e seus desdobramentos e os reflexos da sociedade industrial na criação artística.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAH118",
+      "Nome": "Arte e Filosofia",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A reflexão abstrata e os sistemas de arte. Principais correntes do pensamento e suas inter-relações com a obra de arte. Fronteiras entre a arte, estética e filosofia.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAH503",
+      "Nome": "Arte no Brasil II",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das Artes Visuais no Brasil nos séculos XX e XXI, em seus aspectos conceituais, históricos e historiográficos. Dos diferentes modernismos à arte contemporânea brasileira.\n___ BIBLIOGRAFIA BÁSICA ___\n1-) AMARAL, Aracy. Arte para quê? A preocupação social na arte brasileira, 1930-1970 [1984]. 2ª ed. São Paulo: Nobel, 1987.\n2) BASBAUM, Ricardo (org.). Arte Contemporânea Brasileira: texturas, dicções, ficções, estratégias. Rio de Janeiro: Rio Ambiciosos, 2001.\n3) BRITO, Ronaldo. Neoconcretismo: vértice e ruptura do projeto construtivo brasileiro [1975/1985]. São Paulo: Cosac Naify, 1999.\n4) FERREIRA, Glória (org.). Crítica de arte no Brasil: temáticas contemporâneas. Rio de Janeiro: Funarte, 2006.\n5) ZÍLIO, Carlos. A querela do Brasil: a questão da identidade na arte brasileira: a obra de Tarsila, Di Cavalcanti e Portinari, 1922-1945. Rio de Janeiro: Funarte, 1982.\n___ BIBLIOGRAFIA COMPLEMENTAR ___\n1) AMARAL, Aracy (org.). Projeto construtivo brasileira na arte. 1950-1962. Rio de Janeiro: Museu de Arte Moderna. São Paulo: Pinacoteca do Estado, 1977.\n2) BRETT, Guy. Brasil experimental: arte/vida: proposições e paradoxos. Rio de Janeiro: Contra Capa, 2005.\n3) DUARTE, Paulo Sérgio. Anos 60: transformações da arte no Brasil. Rio de Janeiro: Campos Gerais, 1998.\n4) FABRIS, Annateresa (org.). Modernidade e modernismo no Brasil. Campinas: Mercado das Letras, 1994.\n5) MORAIS, Frederico. Artes Plásticas: a crise da hora atual. Rio de Janeiro: Paz e Terra, 1975.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "14:00 - 17:00",
+        "professor": "ANA DE GUSMAO MANNARINO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAE001",
+      "Nome": "Figura Humana I",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo da figura humana dentro de diversas possibilidades de realização técnica, tendo como ponto de partida a modelagem em argila.\n___BIBLIOGRAFIA BÁSICA___\n1- JEUDY, Henri-Pierre. O Corpo como o Objeto de arte. SP: Ed. Estação Liberdade, 2002.\n2- LUCHESI, Bruno. Modeling the head in clay. New York: Watson-Guptill Publication, 1996.\n3- LUCHESI, Bruno. Modeling the figure in clay. New York: Watson-Guptill Publication, 1996.\n4- RODIN, August. Conversas com Paul Gsell. São Paulo: Nova Fronteira, 1990.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 17:00",
+        "professor": "NIVALDO RODRIGUES CARNEIRO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAE003",
+      "Nome": "Arte Pública",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Inserção da arte no espaço público e sua prática de produção experimental. As obras bidimensionais e tridimensionais, seus processos de criação e a interação com o público. As diversas estratégias de ampliação da categoria tradicional das artes visuais - interferências: arquitetônica, pictórica, na paisagem e urbana, produção efêmera, vídeo-escultura, foto-escultura, instalação, ocupação sonora e corpo como meio.\n___BIBLIOGRAFIA BÁSICA___\n1- ARGAN, Giulio Carlo. História da arte como história da cidade. São Paulo: Martins Fontes, 1989.\n2- AUGÉ, Marc. Non-places: introduction to an anthropology of supermodernity. London, New York: Verso, 1995.\n3- CRUICSHANK, Jeffrey; KORSA, Pam. Going public: a field guide of developments in art in public spaces. Massachussets: Arts Extension Service, 1988.\n4- LILES, Malcom. Art space and the city: public art and urban futures. London, New York: Routledge, 1997.\n5- BRISSAC, Nelson. Arte/Cidade - a cidade e suas histórias. São Paulo: Marca D´água, 1997.\n6- BRISSAC, Nelson. Arte/Cidade - a cidade e seus fluxos. São Paulo: Marca D´água, 1994.\n7- BRISSAC, Nelson. Arte/Cidade - as máquinas de guerra contra os aparelhos de captura. São Paulo: Gráfica Garilli, 2002.\n8- BRISSAC, Nelson. Arte/Cidade - cidade sem janelas. São Paulo: Marca D´água, 1994.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAE005",
+      "Nome": "Videoarte I",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Arte eletrônica, vídeoarte. Realização de vídeos, vídeo-objetos e vídeo-instalações. Estudo da história da vídeoarte.\n___BIBLIOGRAFIA BÁSICA___\n1- FIFER, Sally Jo; HALL, Doug. Illuminating Video: an essential guide to video art. New York: Aperture / Bay Area Video Coalision, 1990.\n2- MACHADO, Arlindo. Máquina e imaginário. São Paulo: EDUSP, 1993.\n3- MACHADO, Arlindo. A arte do vídeo. São Paulo: Brasiliense, 1988.\n4- MACHADO, Arlindo. O quarto iconoclasmo e outros ensaios. Rio de Janeiro: Marca D´água, 2001.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 12:00",
+        "professor": "BEATRIZ PIMENTA VELLOSO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAE007",
+      "Nome": "Arte Digital I",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Ciberarte, arte digital, webart. Realização de trabalhos de arte em redes telemáticas; instalações interativas e obras envolvendo mecatrônica (robótica).\n___BIBLIOGRAFIA BÁSICA___\n1- BENEDIKT, Michael. Cyberspace: first steps. In: BELL, David; KENEDY, Barbara M. The cybercultures reader. London; New York, Routledge, 2000.\n2- DOMINGUES, Diana (Org.). A arte no século XXI: a humanização das tecnologias. São Paulo: UNESP, 1997.\n3- DOMINGUES, Diana (Org.). Criação e interatividade na ciberarte. São Paulo: Experimento, 2002.\n4- KAC, Eduardo. Luz & letra: ensaios de arte, literatura e comunicação. Rio de Janeiro: Contracapa, 2004.\n5- MACIEL, Kátia; PARENTE, André (org.). Redes sensoriais: arte, ciência e tecnologia. Rio de Janeiro: Contracapa, 2003.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 12:00",
+        "professor": "ANA CECILIA MATTOS MAC DOWELL"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAE009",
+      "Nome": "Escultura Cênica I",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Escultura em grandes formatos, escultura cênica, carnaval, cinema, teatro, televisão, parque temático.\n___BIBLIOGRAFIA BÁSICA___\n1- FERREIRA, Felipe. Inventando carnavais: o surgimento do carnaval carioca no século XIX e outras questões carnavalescas. Rio de Janeiro: Editora UFRJ, 2005.\n2- MORAES, Eneida de. História do carnaval carioca. Rio de Janeiro: Record, (1958) 1987.\n3- RICH Jack C. The Materials and Methods of Sculpture. Dover publications, 1988.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "09:00 - 13:00",
+        "professor": "JORGE LUIZ SAMPAIO DUARTE"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAE011",
+      "Nome": "Polímeros I",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O conceitos dos materiais e seus procedimentos. Gênese da forma, execução, reflexão sobre os resultados e sua articulação com o meio artístico contemporâneo.\n___BIBLIOGRAFIA BÁSICA___\n1- GUEDES, Benedito; FILKAURAS, Mario. O Plástico. Ed. Erica.\n2- MANO, Eloisa. Introdução ao estudo dos Polímeros. Ed. Edgard Blucher.\n3- CORAZZA, Euclides de. Poliestireno: material e sua transformação. Ed. Plásticos em Revista.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAE013",
+      "Nome": "Cerâmica I",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceito do material, histórico, manuseio, preparo, técnicas e processos, modelagem, percurso histórico, cultura e ato técnicos, ferramental, elementos da natureza, químicos orgânicos e inorgânicos, misturas, testes, corpo cerâmico, semântica do objeto, gesto, utilidade e função, o essencial e o cultural.\n___BIBLIOGRAFIA BÁSICA___\n1- BACHELARD, Gaston. A terra e os devaneios da vontade. São Paulo: Martins Fontes, 1991.\n2- LEVI-STRAUSS, Claude. Cru e Cozido, Mitológicas. Rio de Janeiro: Editora: Cosac & Naify, 2004.\n3- READ, Herbert. As origens da Forma na Arte. Rio de Janeiro: Zahar, 1967.\n4- TOSTES, Celeida. A Esmaltação em Metal.\n5- LUCHESI, Bruno. Terracotta: The Technique of Fired Clay Sculpture. Watson-Guptill; 1ST edition.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 12:00",
+        "professor": "KATIA CORREIA GORINI"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAE015",
+      "Nome": "Escultura em Madeira I",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Prática instrumental - ferramentas simples, noções de confecção e utilização. Prática experimental.\n___BIBLIOGRAFIA BÁSICA___\n1- CAMÍ, Josepmaria Teixido i; SANTAMERA, Jacinto Chiacharo. A Talha. Escultura em Madeira. Editorial Estampa, 1997.\n2- MIDGLEY, Barry (Ed.). The Complete Guide to Sculpture, Modeling and Ceramics, techniques and materials. Chartwell Books, Inc. London, 1982.\n3- RICH, Jack C. The Materials and Methods of Sculpture. Dover publications, 1988.\n4- RICH, Jack C. Sculputure in Wood. Dover publications, 1992.\n5-LIEBSON, Milt. Direct Wood Sculpture: Technique-Innovation-Creativity. Schiffer Publishing (January 1, 2000).\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "FLORIANO CARVALHO DE ARAUJO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAE017",
+      "Nome": "Escultura em Pedra I",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Prática Instrumental - Ferramentas simples, noções de confecção e utilização.  Fornecimento de suporte teórico e técnico das possibilidades do campo tridimensional a partir da pedra como matéria de trabalho. Apresentação das variadas pedras e suas granulometrias. Acompanhamento do uso das ferramentas de trabalho e seus usos. Indicação do campo experimental da escultura em pedra associada aos outros materiais. Demonstração de diversos tipos de tratamentos de superfície e de conservação do material, etc.\n___BIBLIOGRAFIA BÁSICA___\n1- CAMÍ, Josepmaria Teixido i; SANTAMERA, Jacinto Chiacharo. A Escultura em Pedra. Editorial Estampa, 2000.\n2- MIDGLEY, Barry (Ed.). The Complete Guide to Sculpture, Modeling and Ceramics, techniques and materials. Chartwell Books, Inc. London, 1982.\n3- RICH, Jack C. The Materials and Methods of Sculpture. Dover publications, 1988.\n4- MEILACH, Dona Z. Contemporary Stone Sculpture: Aesthetics Methods Appreciation. Schiffer Publishing (March 1987).\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAE019",
+      "Nome": "Escultura em Metal I",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Prática Instrumental -  corte, dobra, rebite, forja. Ferramentas simples, noções de confecção e utilização. Prática Experimental.\n___BIBLIOGRAFIA BÁSICA___\n1- MIDGLEY, Barry (Ed.). The Complete Guide to Sculpture, Modeling and Ceramics, techniques and materials. Chartwell Books, Inc. London, 1982.\n2- RICH, Jack C. The Materials and Methods of Sculpture. Dover publications, 1988.\n3- HUGHES, Richard. The Colouring, Bronzing and Patination of Metals. Watson-Guptill (February 1, 1991).\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "09:00 - 13:00",
+        "professor": "GABRIELA DI BATTISTA MUREB"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAH001",
+      "Nome": "História das Artes Visuais I",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Projeção e análise de obras de arte produzidas durante os períodos do paleolítico ao neolítico, mesopotâmico, egípcio, persa, minóico-micênico e greco-romano; discussão de termos e conceitos tradicionalmente vinculados a eles; estudos da sua recepção pela arte ocidental posterior.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAH003",
+      "Nome": "História das Artes Visuais III",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo da arte dos séculos XV e XVI nos principais centros europeus, considerando os aspectos formais do Renascimento e do Maneirismo.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAH005",
+      "Nome": "História das Artes Visuais V",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das artes visuais no século XIX na Europa, o neoclassicismo e os principais movimentos do período.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAH007",
+      "Nome": "História das Artes Visuais VII",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo da arte contemporânea e seus aspectos plurais; as principais correntes artísticas da contemporaneidade, suas obras e artistas mais significativos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAH502",
+      "Nome": "Arte no Brasil I",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das Artes Visuais no Brasil, desde antes da chegada dos europeus até o século XIX, em seus aspectos conceituais, históricos e historiográficos. Da arte ameríndia ao academicismo.\n___ BIBLIOGRAFIA BÁSICA ___\n1) ÁVILA, Afonso. Barroco: teoria e análise. São Paulo: Editora Perspectiva. Belo Horizonte: Companhia Brasileira de Metalurgia e Mineração, 1997.\n2) BARCINSKI, Fabiana Werneck (org.). Sobre a arte brasileira: da pré-história aos anos 1960. São Paulo: Martins Fontes: Ed. Sesc-SP, 2014.\n3) COLI, Jorge. Como estudar a arte brasileira do século XIX? São Paulo: Ed. Senac, 2005.\n4) OLIVEIRA, M. A. R.; PEREIRA, S. G.; LUZ, A. A. História da Arte no Brasil: textos de síntese. Rio de Janeiro: Editora da UFRJ, 2008.\n5) ZANINI, Walter (coord.). História geral da arte no Brasil. São Paulo: Instituto Walther Moreira Salles, 1983. 2 v.\n___ BIBLIOGRAFIA COMPLEMENTAR ___\n1) ALVIN, Sandra. Arquitetura religiosa colonial no Rio de Janeiro. Rio de Janeiro: Editora UFRJ/Minc - Iphan/Prefeitura da Cidade do Rio de Janeiro, 1999. 2 v.\n2) D'ARAÚJO, A. L. Arte no Brasil Colonial. Rio de Janeiro: Revan, 2000.\n3) LAGROU, Els. Arte indígena no Brasil. Belo Horizonte: C/Arte, 2007.\n4) OLIVEIRA, M. A. R. O rococó religioso no Brasil e seus antecedentes europeus. São Paulo: Cosac e Naify, 2003.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "10:00 - 13:00",
+        "professor": "JANAINA NAGATA OTOCH"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     }
+    ],
+    "Disciplinas Optativas (Escolha Condicionada)": [
+     {
+      "Codigo": "BAE022",
+      "Nome": "Arte: Ecologias (Top Experim)",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Disciplina teórico-prática direcionada ao embate do estudante com seu estar-no-mundo, via discussão de textos de raiz filosófica e correlação com práticas artísticas geradas pelo grupo. Espera-se que tais temas sejam geradores de inflexões no pensamento/posicionamento do estudante acerca do contexto sócio-geo-político-artístico em que se situa, e atuem como gatilhos para a produção de peças artísticas a serem realizadas no período. Inputs serão oferecidos mais densamente na primeira metade do curso, seguido pela ênfase no acompanhamento da produção da turma para uma produção coletiva. Viagem de campo a ser informada no primeiro dia de aula. A base teórica se desenvolve a partir da pesquisa em andamento (Grupo de Pesquisa Arte: Ecologias - Grupo GAE) decorrente da tese defendida pela professora proponente.\n___BIBLIOGRAFIA BÁSICA___\n1- AGAMBEN, Giorgio. O que é o contemporâneo? Ensaios.Tradução de Vinícius Nicastro Honesko. Chapecó - SC: Argos. 2009.\n2- ________________. Meios sem fim: notas sobe política. São Paulo: Autêntica, 2015.\n3-  GUATARRI, Félix. As três ecologias.2ª ed. Campinas, SP: Papirus, 1990.\n4- HALL, Stuart. Cultura e representação. Rio de Janeiro, RJ: Ed. PUC Rio: Apicuri, 2016.\n5- VIVEIROS DE CASTRO, Eduardo Metafisicas Canibais, São Paulo, SP: Cosac Naif. 2015.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1- AGAMBEN, Giorgio. Homo Sacer: O poder Soberano e a Vida Nua I. Tradução de Henrique Burigo. Belo Horizonte: Ed. UFMG, 2002.\n2- DIDI HURBERMAN, g. (1992), O que nos olha. Trad. G. Anghel e J. P. Cachopo, Porto, Dafne, 2011.\n3- FOCAULT, M. Truth and  Power. In: FOUCAULT. Michel. Power/Knowledge: Selected Interviews and Other Writings. 1972-1977. Nova Iorque: Pantheon Books, 1980.\n4- GUATTARI, F. (1992). Caosmose - um novo paradigma estético. São Paulo: Ed. 34.\n5- HALL, E. T. Beyond culture. 2 ed. New York: Anchor Doubleday, 1989.\n6- KAPROW, Alan Essays on the Blurring of Art and life. Expanded Edition. Los Angeles: University of California Press, 2003.\n7- KOPENAWA, Davi e ALBERT, Bruce. The Falling Sky. Ed. Harvard University Press. USA/2013.\n8- LATOUR, Bruno. War and peace in an age of ecological conflicts Paris - Lecture prepared for the Peter Wall Institute Vancouver. 2013.\n9- MATURANA, Humberto R.; VARELA, Francisco J. A árvore do conhecimento: as bases da compreensão humana; tradução: Humberto Mariotti e Lia Diskin; ilustração: Carolina Vial, Eduardo Osório, Francisco Olivares e Marcelo Maturana Montañez - São Paulo: Palas Athenas, 2001.\n10- NAESS, Arne. The Shallow and the Deep, long-range ecology movements: A summary. Inquiry 16 (OSlo, 1973), pp. 95-100.\n11- RANCIÈRE, Jacques. A partilha do sensível. Trad.: Mônica Costa Netto. São Paulo: Ed. 34, 2005.\n12- SANTOS, Milton. A Natureza e do Espaço: técnica e tempo, razão e emoção. São Paulo: EDUSP, 2002.\n13- SERRA, Richard. Escritos e entrevistas. Rio de Janeiro. IMS, 2016.\n14- SMITHSON, Robert. The collected writings. New York: University Press, 1979.\n15- TARKOVSKI, A. A. Esculpir o tempo. 2 ed. São Paulo: Martins fontes, 1998.\n16- VIVEIROS DE CASTRO, Eduardo. Metafísicas Canibais. São Paulo, SP: Cosac Naify, 2015.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "14:00 - 18:00",
+        "professor": "PAULA SCAMPARINI FERREIRA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAE024",
+      "Nome": "Arte e Subjetividade",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Debates contemporâneos da criação artística em diálogo com o campo da subjetividade. Introdução ao pensamento de Joyce McDougall, de Hal Foster eSuely Rolnik, frisando conceitos sobre o corpo, a teatralidade e alteridade no espaço social como eixos temáticos de apreciação estética das Artes Visuais/Escultura. A escrita como exercício ensaístico a partir da reflexão de obras e de processos artísticos.\n___BIBLIOGRAFIA BÁSICA___\n1- FREUD, S. (1905). Três Ensaios sobre a Teoria da Sexualidade. In: FREUD, S.  Obras completas. Buenos Aires: Amnorrortu, 1996. vol. VII.\n2- FOSTER, Hal. Belleza Compulsiva. Buenos Aires: Adriana Hidalgo Editora, 2008.\n3- LYOTARD, Jean-François. Por que filosofar? Tradução de Marcos Marcionilo. 1ª Ed.São Paulo: Parábola, 2013.\n4- MCDOUGALL, Joyce. Teatros Del Cuerpo. Madrid: Julian Yebenes, 1982.\n5- RIVERA, Tânia. O avesso da imagem: arte contemporânea e psicanálise. São Paulo: Cosac Naify, 2014.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAF201",
+      "Nome": "Desenho Artístico III",
+      "Créditos": "3.0",
+      "Teórica": "0",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O desenho como realização final. Os problemas da criação artística através do desenho. As deformações expressivas e a composição. Exercícios de aplicação dos diferentes processos do desenho.\n___Bibliografia Recomendada___\n1- CARERI, Francesco. Walkscape: O caminhar como prática estética. São Paulo: Ed. G.Gili, 2013.\n2- CAUQUELIN, Anne. Arte contemporânea: uma introdução. São Paulo: Martins, 2005.\n3- FERREIRA, Glória e COTRIM, Cecília (Org.). Clement Greenberg e o debate crítico. Rio de Janeiro: Jorge Zahar, 2001.\n4- OSTROWER, Fayga. Universos da Arte. Campinas: UNICAMP, 2013.\n5- STANGOS, Nikos (Org.). Conceitos da Arte Moderna. Rio de Janeiro: Jorge Zahar, 1991.\n6- PIGNATTI, Terisio. O desenho: de Altamira a Picasso. São Paulo: Abril, 1982.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAF105"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAH369",
+      "Nome": "Cultura Brasileira",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Formação da cultura brasileira. Etnicidade. Culturas tradicionais, regionais, populares e urbanas no Brasil.\n___ BIBLIOGRAFIA BÁSICA ___\n1- CANDIDO, A. O significado de Raízes do Brasil (Prefácio). In: HOLANDA, S. B. de. Raízes do Brasil. 26.ed. São Paulo: Cia. das Letras, 1995.\n2- FREYRE, G. Prefácio. Casa-grande & senzala: formação da família brasileira sob o regime da economia patriarcal. São Paulo: Global, 2005.\n3- DAMATTA, R. Notas sobre o racismo à brasileira. In: SOUZA, J. (Org) Multiculturalismo e racismo: uma comparação Brasil - Estados Unidos. Brasília: Paralelo, 1997.\n4- MICELI, S. Intelectuais e classe dirigente no Brasil (1920-1945). São Paulo: Difel, 1979.\n5- ROCHA, J. C. de C. As origens e equívocos da cordialidade brasileira. In: ___. O exílio do homem cordial. Rio de Janeiro: Editora do Museu Nacional, 2004.\n___ BIBLIOGRAFIA COMPLEMENTAR ____\n1- CANDIDO, A. Dialética da malandragem. Revista do Instituto de Estudos Brasileiros, São Paulo, v.8, p.67-89, 1970.\n2- FERNANDES, F. A integração do negro na sociedade de classes. São Paulo: Ática, 1978.\n3- HOLANDA, S. B. de. Raízes do Brasil. 26.ed. São Paulo: Cia. das Letras, 1995.\n4- ROMERO, S. Estudos sobre a poesia popular do Brasil. 2.ed. Petrópolis: Vozes, 1977.\n5- WISNIK, J. M. Veneno remédio: o futebol e o Brasil. São Paulo: Cia. das Letras, 2008.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "14:00 - 17:00",
+        "professor": "DENNIS NOVAES SALDANHA CORTES"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAH489",
+      "Nome": "Arte, Curadoria e Instituições",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo da história da curadoria desde o século XIX até os dias de hoje. A curadoria como prática artística. Os distintos modos de ver e pensar a curadoria na contemporaneidade. A disciplina engloba visitas em espaços culturais e museus da cidade para discussão sobre os aspectos técnicos e conceituais das mostras.\n___ BIBLIOGRAFIA BÁSICA ___\n1) ALAMBERT, Francisco; CANHETE, Polyana. Bienais de São Paulo: da era do museu à era dos curadores. São Paulo: Boitempo, 2004.\n2) DEL CASTILLO, Sonia Salcedo. Arte de expor: curadoria como expoesis. Rio de Janeiro: Nau, 2015.\n3) OBRIST, Hans-Ulrich. Uma breve história da curadoria. São Paulo: Bei, 2008.\n4) OBRIST, Hans-Ulrich. Caminhos da curadoria. São Paulo: Cobogó, 2014.\n5) RAMOS, Alexandre Dias (org.). Sobre o ofício do curador. Porto Alegre: Zouk, 2010.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAR102",
+      "Nome": "Geometria Descritiva II",
+      "Créditos": "4.0",
+      "Teórica": "30",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Curvas em geral: classificações, estudo projetivo, curvas planas.Superfícies em geral: superfícies de revolução, representação pelas projeções de monge. Tratamento descritivo em problemas práticos.\n___Bibliografia Recomendada___\n1) BUSTAMANTE, Léa Santos. Metodologia dos Sistemas Projetivos. RJ . Ed Bahiense.\n2) _______________________. Transformações Projetivas. Sistemas Projetivos. RJ . Ed Bahiense.\n3) PINHEIRO, V. Athayde. Noções de Geometria Descritiva. V.I, II e III. RJ. Ao livro Técnico Ltda.\n4) RODRIGUES. Alvaro J. Geometria Descritiva. V II. RJ. Imprensa Nacional.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAR101"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAR481",
+      "Nome": "Ed Ambiental-preserv de Bens C",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Convenções adotadas (regulamentações de leis e procedimentos técnicos) para preservação de bens culturais, relacionados ao meio ambiente.\n___ BIBLIOGRAFIA RECOMENDADA ___\n1- LEI Nº9.605, DE 12 DE FEVEREIRO DE 1998 - Dispõe sobre as sanções penais e administrativas derivadas de condutas e atividades lesivas ao meio ambiente.\n2- DECRETO-LEI Nº 25, DE 30 DE NOVEMBRO DE 1937 - Organiza a proteção do patrimônio histórico e artístico nacional.\n3- INSTITUTO DO PATRIMÔNIO HISTÓRICO ARTÍSTICO NACIONAL. Cartas Patrimoniais. Brasília: IPHAN, 1995.\n4- Cadernos Técnicos IPHAN - publicações on line - http://portal.iphan.gov.br/- publicações.\n5- Manuais IPHAN - publicações on line - http://portal.iphan.gov.br/- publicações\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAW240",
+      "Nome": "Computação Gráfica nas Artes I",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introducao ao uso de computacao grafica nas artes com apresentacao: Paint Brush, Autocad, Slide Write, GFX, Doctor Hallo, Turbo Pascal (GRAPH Po). Reflexao sobre os fatores ergonomicos e sociologicos. Conhecimento e utilizacao das ferramentas de computacao grafica. Pratica de composicao, incentivo a criatvidade atraves do estimulo da pesquisa com utilizacao das ferramentas apresentadas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAF106",
+       "BAR120"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAWZ58",
+      "Nome": "Ativ Curricular Extensão - Ave",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "0",
+      "Extensão": "300",
+      "Informação": {
+       "Info": "Atuação em atividades registradas na Pró-reitoria de Extensão da UFRJ, como programas, projetos, cursos de extensão e eventos, coordenados por docentes do quadro permanente ou técnicos de carreira de nível superior na UFRJ.\n___  BIBLIOGRAFIA BÁSICA ___\nBibliografia recomendada pelo coordenador da atividade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAE021",
+      "Nome": "Escrita de Artista",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Investigação sobre o exercício da escrita de artista como processo de pesquisa e modo de intervenção no debate sobre arte. Análise de textos de artistas, brasileiros e internacionais, da década 1960 à atualidade. Aprofundamento do repertório teórico dos alunos-artistas com vistas ao desenvolvimento de textos autorais sobre produção plástica. Criação de ateliê de escrita.\n___BIBLIOGRAFIA BÁSICA___\n1- ALYS, Francis. Numa dada situação. São Paulo: CosacNaify, 2014.\n2- CAGE, John. De segunda a um ano. Rio de Janeiro: Cobogó, 2013.\n3- CALDAS, Waltercio. Manual da ciência popular. São Paulo: Cosac & Naify, 2008.\n4- CARVALHO, Flávio. Experiência n. 2. Rio de Janeiro: Nau Editora, 2001.\n5- FERREIRA, Glória; COTRIM, Cecilia (Orgs). Escritos de artistas. Anos 60/70. Rio de Janeiro: Zahar, Editor 2009.\n6- OITICICA, Hélio. Aspiro ao Grande Labirinto. Rio de Janeiro: Rocco, 1986.\n7- TUNGA. Barroco de lírios. São Paulo: Cosac&Naify, 1997\n___BIBLIOGRAFIA COMPLEMENTAR___\n1- HARRISON, Charles & WOOD, Paul (Ed). Art in Theory, 1900-2000: an anthology of changing ideas. Londres: Blackwell Publishing, 2002.\n2- HOLT, Nancy. (ed.). The writings of Robert Smithson: essays with illustrations. Nova York: New York University Press, 1979.\n3- KAPROW, Allan. Essays on the blurring of art and life. Berkley: University of California press, 1993.\n4- STILES, Kristina & SELZ, Peter (Ed.). Theories and Documents of Contemporary Art: a Sourcebook of Artists?Writings. Berkeley/Los Angeles/California: University of California Press, 1996.\n5- WARHOL, Andy. The philosophy of Andy Warhol: from A to B and Back Again. Nova York: Harcourt Brace Jovanovich, 1975.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAE023",
+      "Nome": "Tópicos Experimentais I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Disciplina ministrada em regime de Tópicos Especiais em que cada semestre terá seu conteúdo renovado.\n___BIBLIOGRAFIA BÁSICA___\n1- FERREIRA, Glória; COTRIM. Cecília 9Orgs). Escritos de artistas. Anos 60/70. Rio de Janeiro: Zahar, Editora 2009.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1- DANTO, Arthur C. O mundo da arte. in Artefilosofia: Antologia de textos estéticos. Org. Gilson Iannini, Douglas Garcia, Romero Freitas. Rio de Janeiro: Civilização Brasileira, 2015.\n2- FLUSSER,  Vilém. O mundo codificado: por uma filosofia do design e da comunicação. Org.: Rafael Cardoso. Trad.: Raquel Abi-Sâmara. São Paulo: Cosac Naify, 2010.\n3- AGAMBEN, Giorgio. Homo Sacer: O poder Soberano e a Vida Nua I. Tradução de Henrique Burigo. Belo Horizonte: Ed. UFMG, 2002.\n4- DIDI HURBERMAN, g. (1992), O que nos olha. Trad. G. Anghel e J. P. Cachopo, Porto, Dafne, 2011.\n5- FOCAULT, M. Truth and  Power. In: FOUCAULT. Michel. Power/Knowledge: Selected Interviews and Other Writings. 1972-1977. Nova Iorque: Pantheon Books, 1980.\n6- GUATTARI, F. (1992). Caosmose - um novo paradigma estético. São Paulo: Ed. 34.\n7- HALL, E. T. Beyond culture. 2 ed. New York: Anchor Doubleday, 1989.\n8- KAPROW, Alan Essays on the Blurring of Art and life. Expanded Edition. Los Angeles: University of California Press, 2003.\n9- KOPENAWA, Davi e ALBERT, Bruce. The Falling Sky. Ed. Harvard University Press. USA/2013.\n10- LATOUR, Bruno. War and peace in an age of ecological conflicts Paris - Lecture prepared for the Peter Wall Institute Vancouver. 2013.\n11- MATURANA, Humberto R.; VARELA, Francisco J. A árvore do conhecimento: as bases da compreensão humana; tradução: Humberto Mariotti e Lia Diskin; ilustração: Carolina Vial, Eduardo Osório, Francisco Olivares e Marcelo Maturana Montañez - São Paulo: Palas Athenas, 2001.\n12- NAESS, Arne. The Shallow and the Deep, long-range ecology movements: A summary. Inquiry 16 (OSlo, 1973), pp. 95-100.\n13- RANCIÈRE, Jacques. A partilha do sensível. Trad.: Mônica Costa Netto. São Paulo: Ed. 34, 2005.\n14- SANTOS, Milton. A Natureza e do Espaço: técnica e tempo, razão e emoção. São Paulo: EDUSP, 2002.\n15- SERRA, Richard. Escritos e entrevistas. Rio de Janeiro. IMS, 2016.\n16- SMITHSON, Robert. The collected writings. New York: University Press, 1979.\n17- TARKOVSKI, A. A. Esculpir o tempo. 2 ed. São Paulo: Martins fontes, 1998.\nPrincipais Catálogos:\n27ª e 31ª Bienais de SP\nBienais de Veneza 2012, 2014 e 2016\nManifesta 10\nDocumentas de Kassel 2012 e 2017\nQuadrienais de Praga 2011 e 2015\nBienal de Istambul 2011\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAF103",
+      "Nome": "Desenho Anatômico I",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Proporções e relações do corpo humano; nomenclatura básica da osteologia; desenho do esqueleto dando o conhecimento da forma, estrutura e função das partes que constituem a cabeça; tronco e membros.\n___Bibliografia Recomendada___\n1- BRIDGMAN, George B. Bridgman's complete guide to drawing from life. New York: Sterling Publishing Company, Inc., 2009.\n2- GORDON, Louise. Desenho anatómico. Lisboa: Presença; [São Paulo]: Martins Fontes, 1980.\n3- LOOMIS, Andrew. Figure drawing for all it?s work. New York: The Viking Press, 1944.\n4- PERARD, Victor. Desenho e anatomia. Rio de Janeiro: Ediouro, [s.d.].\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "09:00 - 12:00",
+        "professor": "JOSE SALMO DANSA DE ALENCAR"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAF202",
+      "Nome": "Criação da Forma I",
+      "Créditos": "4.0",
+      "Teórica": "15",
+      "Prática": "75",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O que é a forma ? como conceituá-la, como obtê-la, quais as suas características. Elementos conceituais, elementos visuais, elementos de relação. Forma bidimensional e tridimensional. Luz e sombra. Formas naturais e artificiais. Forma como volume. Forma e estrutura. Módulos.\n___ BIBLIOGRAFIA BÁSICA ___\n1- ARNHEIM, Rudolf. Arte e percepção visual: uma psicologia da visão criadora. São Paulo: Cengage Learning, 2008.\n2- DONDIS, Donis. Sintaxe da linguagem visual. São Paulo: Martins Fontes, 2007.\n3- MANGUEL, Alberto. Lendo imagens: uma história de amor e ódio. São Paulo: Companhia das Letras, 2001.\n4- WONG, Wucius. Princípios de forma e desenho. São Paulo: WMF Martins Fontes, 2010.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAH475",
+      "Nome": "Mercado de Arte",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A obra de arte como objeto de análise da ciência econômica, possibilitando uma reflexão em termos de produção e consumo. Dimensão econômica da arte. Mercado e investimento de arte no Brasil.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAH367"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAR101",
+      "Nome": "Geometria Descritiva I",
+      "Créditos": "4.0",
+      "Teórica": "30",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Fundamentos e técnicas do sistema triedrico e cotado de representação, tomando por modelo o espaço métrico euclidiano. As transformações descritivas das imagens convencionais dos sólidos poliédrico e a resolução de sua problemática básica (seções, interseções, geodésicas).\n___Bibliografia Recomendada___\n1) BUSTAMANTE, Léa Santos. Metodologia dos Sistemas Projetivos. RJ . Ed Bahiense.\n2) _______________________. Transformações Projetivas. Sistemas Projetivos. RJ . Ed Bahiense.\n3) PINHEIRO, V. Athayde. Noções de Geometria Descritiva. V.I, II e III. RJ. Ao livro Técnico Ltda.\n4) RODRIGUES. Alvaro J. Geometria Descritiva. V II. RJ. Imprensa Nacional.\n___Bibliografia Complementar___\n1) Príncipe Júnior, Alfredo de Reis. Noções de Geometria Descritiva I. São Paulo, Nobel, 1984.\n2) Príncipe Júnior, Alfredo de Reis. Noções de Geometria Descritiva II. São Paulo, Nobel, 1984.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAR202",
+      "Nome": "Perspectiva",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Fundamentos da perspectiva cônica e cilíndrica aplicados em espaços internos e externos.  Noções de sombra em perspectiva.\n___ BIBLIOGRAFIA BÁSICA ___\n1- CHING, Francis. Representação Gráfica em Arquitetura. Porto Alegre: Bookman, 2000.\n2- MONTENEGRO, Gildo. A Perspectiva dos Profissionais. São Paulo. Edgard Blucher, 2001.\n3- NORLING, Ernest R. La Perspectiva Simplificada. B. Aires. Ed. Jorge A. Dulclout.\n4- OLMER, Pierre. Perspectiva Artistique. Paris. LibrairiePlon.\n5- QUAITENNE, Esteban. Tratado Metódico de Perspectiva. B. Aires. El Ateneo.\n6- RAYNES, John. Curso Completo de Perspectiva. Barcelona: Editora BLUME, 2008.\n7- SCHAARWÄCHTER, Georg. Perspectiva para Arquitectos.México: Gili, 1996.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAR102"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV121",
+      "Nome": "Fotografia I",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Teoria fotográfica, a câmera, estruturação da imagem; introdução ao laboratório fotográfico.\n___Bibliografia Recomendada___\n1) ADAMS,Ansel.The Camera, New York: Litle, Brown and Company, 1991. Existe edição do SENAC SP.\n2) ____, Ansel. The Negative, New York:Litle, Brown and Company, 1991. Existe edição do SENAC SP.\n3) ____, Ansel. The Print, New York: Litle, Brown and Company, 1991. Existe edição do SENAC.\n4) SPGOLDBERG, Vicki. Photography in Print, Alburquerque: University New Mexico Press, 1988Catálogo da XXV Bienal de São Paulo, Iconografias Metropolitanas. São Paulo, 2002.\n5)CARSON, D. , MEGGS P. : Fotografiks, David Carson, Corte Madera: Gingko Press, 2000.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAWE01",
+      "Nome": "Iniciação à Extensão",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "0",
+      "Extensão": "60",
+      "Informação": {
+       "Info": "Histórico da Extensão; Compreensão das referências históricas e institucionais para a extensão na Escola de Belas Artes, na UFRJ, no Brasil e no mundo; mapeamento das ações de extensão da UFRJ e da EBA; leitura do projeto Extensão sem Fronteiras EsF EBA 200; apresentação de seminários; participação no planejamento e realização das ações do Extensão sem Fronteiras EsF EBA 200.\n___BIBLIOGRAFIA BÁSICA___\n1- ARAUJO Filho, Targino, THIOLLENT, Michel Jean-Marie, , Metodologia para Projetos de Extensão: Apresentação e Discussão. Universidade Federal de São Carlos (UFSCar) ? São Carlos: Cubo Multimídia, 2008.\n2- DEBORD, Guy, A sociedade do espetáculo. Comentários sobre a sociedade do espetáculo. Rio de Janeiro, Contraponto, 1997.\n3- DUQUE-ARRAZOLA, Laura Susana, THIOLLENT, Jean Marie Michel (org.), Metodologia, teoria do conhecimento e pesquisa-ação. Textos selecionados e apresentados. Belém, UFPA, Instituto de Ciências Sociais Aplicadas, 2014.\n4- LÉVY, Pierre, Cibercultura. São Paulo, Editora 34, 1999.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEB599",
+      "Nome": "Est da Líng Bras de Sinais I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Nomes próprios; pronomes pessoais; demonstrativos; possessivos; locativos em sentenças simples do tipo pergunta-resposta com \"o que\" e \"quem\" e outros vocábulos básicos; numerais; quantidade; topicalização; flexão verbal; flexão de negação; expressões faciais e corporais; percepção visual; conversação; diálogos; textos: LIBRAS, cultura e comunidade surda.\n",
+       "BibliografiaBasica": "1) BRITO, L. F. Por uma gramática de língua de sinais. Rio de Janeiro: Tempo Brasileiro, 1995.\n2) FELIPE, T.; MONTEIRO, M. S. LIBRAS em contexto. Curso Básico. Brasília: Ministério da Educação e do Desporto/Secretaria de Educação Especial, 2001.\n3) GESSER, A. Libras - Que língua é essa? Crença e preconceitos em torno da língua de sinais e da realidade surda. Florianópolis: Parábola, 2009.\n4) STROBEL, K. L. As imagens do outro sobre a cultura surda. Florianópolis: EdUFSC, 2008.\n",
+       "BibliografiaComplementar": "1) PIMENTA, Nelson e QUADROS, Ronice Muller. Curso de Libras I, LSB Vídeo, volume I, Iniciante, 2006 e 3a ed., 2008.\n2) Dicionário Enciclopédico Ilustrado Triíngue da Língua de Sinais Brasileira ? vol 1 e vol. 2 Site: www.acessobrasil.org.brasil\n3) Dicionário da Língua Brasileira de Sinais, INES, versão, 2.0, ano 2006.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     }
+    ]
+   },
+   "obrigatorias": 23,
+   "eletivas": 49,
+   "ano": "2011/2 a 2021/2"
+  },
+  {
+   "materias": {
+    "1º Período": [
+     {
+      "Codigo": "BAE119",
+      "Nome": "Oficina de Fôrmas I",
+      "Créditos": "3.0",
+      "Teórica": "0",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Técnicas de formagem em gesso, passagem, fundição, vazamento em positivo; moldagem direta; formas de areia; forma perdida; tacelos. Relevos. Escultura em bloco e perfurada.\n___BIBLIOGRAFIA BÁSICA___\n1- MIDGLEY, Barry (Ed.). The Complete Guide to Sculpture, Modeling and Ceramics, techniques and materials. Chartwell Books, Inc. London, 1982.\n2-VERHELST, Wilbert. Sculpture: Tools, Materials and Techniques. Prentice Hall; 2 Sub edition (January 1988).\n3- MILLER, Richard McDermott. Figure in Wax and Plaster. Dover Publications, 1987.\n4- WILLIAMS, Arthur. The Sculpture reference: contemporary techniques, terms, tools, materials and sculpture. Sculpture Books, 2004.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "09:00 - 12:00",
+        "professor": "NIVALDO RODRIGUES CARNEIRO"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 16:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH101",
+      "Nome": "História da Arte I",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo do fenômeno e da representações artísticas da Pré-História ao Século XIV, em seus aspectos conceituais, históricos e culturais. Do Paleolítico ao Gótico.\n___BIBLIOGRAFIA BÁSICA___\n1- ARGAN, Giulio Carlo. História da arte italiana. Da Antiguidade a Duccio. São Paulo: Editora Cosac e Naify, 2003.\n2- BELL, Julian. Uma nova história da arte. São Paulo: Editora Martins Fontes, 2008.\n3- JANSON, Horst Woldemar. História geral da arte (Vol. I): O Mundo Antigo e a Idade Média. São Paulo: Martins Fontes, 2001.\n4- WOODFORD, Susan. A arte de ver a arte. Rio de Janeiro: Zahar, 1983.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1- GOMBRICH. E.H. A História da arte. Rio de Janeiro: LTC, 2011.\n2- JANSON, H. W. História da arte. Lisboa: Fundação Calouse Gulbenkian,  1989.\n3- LISE, Giorgio. Como reconhecer a arte egípcia. Lisboa: Edições 70, 1985.\n4- SHAVER-CRANDELL, Anne. A idade média. Rio de Janeiro: Zahar, 1984.\n5- TARELLA, Alda. Como reconhecer a arte romana. Lisboa: edições 70, 1988.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "09:00 - 12:00",
+        "professor": "MARCUS VINICIUS DE PAULA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAWZ58",
+      "Nome": "Ativ Curricular Extensão - Ave",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "0",
+      "Extensão": "300",
+      "Informação": {
+       "Info": "Atuação em atividades registradas na Pró-reitoria de Extensão da UFRJ, como programas, projetos, cursos de extensão e eventos, coordenados por docentes do quadro permanente ou técnicos de carreira de nível superior na UFRJ.\n___  BIBLIOGRAFIA BÁSICA ___\nBibliografia recomendada pelo coordenador da atividade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAE100",
+      "Nome": "Oficina de Criação 3 D I",
+      "Créditos": "4.0",
+      "Teórica": "30",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Elementos básicos da composição visual: ponto, linha, plano. A cor, círculo cromático, luminosidade. Cor e luz sua relação com a escultura e com a construção do espaço. O espaço de 180º. Relevos. O espaço de 360°. Exercício de acuidade táctil e de percepção das qualidades do espaço. Materiais moles. Materiais duros.\n___BIBLIOGRAFIA BÁSICA___\n1- ARNHEIM, Rudolf. Arte e percepção visual (Uma Psicologia da Visão Criadora). São Paulo: Livraria Pioneira, 1991.\n2- BACHELARD, Gaston. A Poética do Espaço. Eldorado, Rio de Janeiro.\n3- EHRENZWEIG, Anton. A ordem oculta da arte. Rio de Janeiro: Zahar, 1969.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "09:00 - 12:00",
+        "professor": "MARINA FERREIRA FREGA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "09:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAF101",
+      "Nome": "Desenho Artístico I",
+      "Créditos": "4.0",
+      "Teórica": "0",
+      "Prática": "135",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenho de observação a partir de sólidos geométricos, com ensinamentos teóricos e exercícios práticos de observação e percepção do campo visual, análise estrutural da forma e iniciação ao processo de criação.\n___Bibliografia Recomendada___\n1- OSTROWER, Fayga. Universos da Arte. Campinas: UNICAMP, 2013.\n2- PEDROSA, Israel. Da cor à cor inexistente. Rio de Janeiro: Senac Nacional, 2009.\n3- PIGNATTI, Terisio. O desenho: de Altamira a Picasso. São Paulo: Abril, 1982.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 16:00",
+        "professor": "LUCIANA MAIA COUTINHO"
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 16:00",
+        "professor": ""
+       },
+       {
+        "dia": "Sex",
+        "hora": "13:00 - 16:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH501",
+      "Nome": "Teoria da Imagem A.",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo da imagem e de suas relações com a mídia na contemporaneidade. Teorias e reflexões críticas sobre a imagem. A imagem e os meios de comunicação. A imagem e a experiência estética.\n___Bibliografia Recomendada___\n1) AUMONT, Jacques. A imagem. Campinas: Papirus, 2010.\n2) CRARY, Jonathan. Técnicas do observador. Visão e modernidade no século XIX. Rio de Janeiro: Contraponto, 2012.\n3) DIDI-HUBERMAN, Georges. O que vemos, o que nos olha. São Paulo: Editora 34, 2005.\n4) DONDIS, Donis A. Sintaxe da linguagem visual. São Paulo: Martins Fontes, 1991.\n5) ECO, Umberto. Apocalípticos e integrados. São Paulo: Perspectiva, 1993.\n6) GOMBRICH, E. H. Arte e ilusão. São Paulo: Martins Fontes, 2007.\n7) RANCIÈRE, JACQUES. O destino das imagens. Lisboa: Orfeu Negro, 2011.\n8) RANCIÈRE, JACQUES. O espectador emancipado. São Paulo: Martins Fontes, 2014.\n___Bibliografia Complementar____\n1) ARNHEIM, Rudolf. Intuição e intelecto na arte. São Paulo: Martins Fontes, 1989.\n2) BARTHES, Roland. O Óbvio e o obtuso. Lisboa: Edições 70, 1982.\n3) DELEUZE, Gilles. A imagem movimento. Lisboa, Assírio & Alvim, 2004.\n4) FOSTER, Hal. O retorno do real. São paulo: Cosac Naify, 2014.\n5) LICHTENSTEIN, Jacqueline. A Pintura. São Paulo: Editora 34, 2004. Vol. 8.\n6) STAM, Robert. Crítica da imagem eurocêntrica. Multiculturalismo e representação. São Paulo: Cosac & Naify, 2006.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 16:00",
+        "professor": "MICHELLE CUNHA SALES"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "2º Período": [
+     {
+      "Codigo": "BAF205",
+      "Nome": "Modelo Vivo I",
+      "Créditos": "3.0",
+      "Teórica": "0",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenho de observação da estrutura da forma no espaço com seus atributos de ritmo, volumes e proporção. Percepção da linha e suas possibilidades expressivas e do claro-escuro.\n___Bibliografia Recomendada___\n1- ARNHEIM, Rudolf. Arte e percepção visual: uma psicologia da visão criadora. São Paulo: Cengage Learning, 2011.\n2- ARNHEIM, Rudolf. Intuição e intelecto na arte. São Paulo: Martins Fontes, 1989.\n3- KANDINSKY, Wassily. Ponto linha plano: contribuição para a análise dos elementos picturais. Lisboa: Edições 70, 1996.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "09:00 - 12:00",
+        "professor": "ALVARO MARTINS DE SEIXAS NETO"
+       },
+       {
+        "dia": "Qui",
+        "hora": "09:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH500",
+      "Nome": "Estética",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudos das principais correntes de pensamento estético, da Antiguidade aos nossos dias. Definição do campo da estética em sua relação com a filosofia e a arte. Conceitos fundamentais para a compreensão do fenômeno estético.\n___Bibliografia Recomendada___\n1) BASTOS, Fernando. Panorama das ideias estéticas no Ocidente. Brasília: Editora Universidade de Brasília, 1987.\n2) DUARTE, Rodrigo (org.). O belo autônomo: textos clássicos de estética. Belo Horizonte: Autêntica Editora, 2012.\n3) PAREYSON, Luigi. Os problemas da estética. São Paulo: Martins Fontes, 2001.\n4) SUASSUNA, Ariano. Iniciação à estética. Rio de Janeiro: José Olympio, 2004.\n___Bibliografia Complementar___\n1) DANTO, Arthur C.. O abuso da beleza. São Paulo: Martins Fontes, 2015.\n2) DUFRENNE, Mikel. Estética e filosofia. São Paulo: Perspectiva, 1991.\n3) LACOSTE, Jean. A filosofia da arte. Rio de Janeiro: Jorge Zahar, 1986.\n4) MAMMÌ, Lorenzo. O que resta: arte e crítica de arte. São Paulo: Cia das Letras, 2012.\n5) NIETZSCHE, Friedrich. O nascimento da tragédia ? ou helenismo e pessimismo. São Paulo: Cia das Letras, 1992.\n6) NOVAES, Adauto (org.). Artepensamento. São Paulo: Companhia das Letras, 2006.\n7) NUNES, Benedito. Introdução à filosofia da arte. São Paulo: Editora Ática, 2010.\n8) VERNANT, Jean-Pierre. O universo, os deuses, os homens. São Paulo: Cia das Letras, 2000.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 16:00",
+        "professor": "JORGE LUIZ DUTRA SOLEDAR"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAE121",
+      "Nome": "Oficina de Criação 3 D II",
+      "Créditos": "4.0",
+      "Teórica": "30",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Exploração de diferentes modos de produzir relações espaciais. Exercícios práticos de produção do espaço.\n___BIBLIOGRAFIA BÁSICA___\n1- STILLES, Kristine; SELZ, Peter. Theories and documents of contemporary art. Berkeley: University of California Press, 1996.\n2- WERHEIM, Margareth. Um história do espaço: de Dante à Internet. Rio de Janeiro: Jorge Zahar, 2001.\n3- KWON, Miwon. One place after another: site-specific art and location identity. Cambridge: The MIT Press, 2004.\n4- BOURRIAUD, Nicolas. Relational Aesthetics. Le presses du réel, France, 2002.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "09:00 - 12:00",
+        "professor": "PAULO VICENTE DA VEIGA JORDAO"
+       },
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 16:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "BAE100"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH104",
+      "Nome": "História da Arte II",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das Artes Visuais nos Séculos XV ao XVII, em seus aspectos conceituais, históricos e historiográficos. Do Renascimento ao Neoclássico.\n___BIBLIOGRAFIA BÁSICA___\n1- ARGAN, Giulio Carlo. Clássico e anticlássico. São Paulo: Companhia das Letras, 1999.\n2- ARGAN, Guilio Carlo. Imagem e persuasão. São Paulo: Companhia das Letras, 2004.\n3- ARGAN, Guilio Carlo. História da arte italiana. São Paulo: Cosac & Naify, 2003. v. 2 e 3.\n4- BAETA, Rodrigo Espinha. Teoria do Barroco. Salvador: EDUFBA-PPGAU, 2012.\n5- JANSON, H.W. História da arte. 9ª ed. Lisboa: Fundação Calouste Gulbenkian, 2010.\n___BIBLIOGRAFIA COMPLEMENTAR____\n1- HAUSER, Arnold. História social da literatura e da arte. São Paulo: Martins Fontes, 2003.\n2- OLIVEIRA, Myriam Andrade Ribeiro de. O rococó religioso no Brasil. São Paulo: Cosac & Naify, 2003.\n3- PEVSNER, Nikolaus. Panorama da arquitetura ocidental. São Paulo: Martins Fontes, 19¬¬82.\n4- SILVA, Jorge Henrique Pais da. Estudos sobre o maneirismo. Lisboa: Imprensa Universitária, 1983.\n5- WÖLFFLIN, Heinrich. Renascença e Barroco. São Paulo: Editora perspectiva, 1989.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "09:00 - 12:00",
+        "professor": "THIAGO SPINDOLA MOTTA FERNANDES"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "3º Período": [
+     {
+      "Codigo": "BAE231",
+      "Nome": "Escultura I",
+      "Créditos": "4.0",
+      "Teórica": "30",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Trabalhar com o volume autônomo em bloco e perfurado.Técnicas de copiar modelos ou maquetes com troca de escala.\n___BIBLIOGRAFIA BÁSICA___\n1- KRAUSS, Rosalind. Caminhos da escultura moderna. SP: Martins Fontes, 1998.\n2- READ, Herbert. Escultura Moderna. Uma História Concisa. SP: Martins Fontes, 2003.\n3- TUCKER, William. A linguagem da escultura. São Paulo: Cosac & Naify Edições, 2001.\n4- WITTKOWER, Rudolf. Escultura. SP: Martins Fontes, 2001.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "09:00 - 12:00",
+        "professor": "GABRIELA DI BATTISTA MUREB"
+       },
+       {
+        "dia": "Sex",
+        "hora": "13:00 - 16:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH201",
+      "Nome": "História da Arte III",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das Artes Visuais nos Séculos XIX ao XX, em seus aspectos conceituais, históricos e historiográficos. Do Romantismo às Vanguardas Históricas.\n___BIBLIOGRAFIA BÁSICA___\n1- ARGAN, Giulio Carlo. Arte Moderna. São Paulo: Cia das Letras, 2004.\n2- ARGAN, Guilio Carlo. A arte moderna da Europa: de Hogarth a Picasso. São Paulo: Cia. Das Letras, 2010.\n3- HAUSER, Arnold. História social da literatura e da arte. São Paulo: Martins Fontes, 2003.\n4- JANSON, H.W. História da arte. 9ª ed. Lisboa: Fundação Calouste Gulbenkian, 2010.\n5- PEVSNER, Nikolaus. Panorama da arquitetura ocidental. São Paulo: Martins Fontes, 19¬¬82.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1- FABRIS, Annateresa (org). O ecletismo na arquitetura brasileira. São Paulo: Edusp, 1987.\n2- GIEDION, Siegfried. Espaço, tempo e arquitetura: o desenvolvimento de uma nova tradição. São Paulo: Martins Fontes, 2004.\n3- KELLY, C. et alii. Século XIX: o romantismo. Rio de Janeiro: Museu Nacional de Belas Artes, 1979.\n4- REYNOLDS, Donald. A arte do século XIX. Rio de Janeiro: Zahar editores, 1986.\n5- PEVSNER, Nikolaus. Pioneiros do desenho moderno. São Paulo: Martins Fontes, 1995.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "10:00 - 13:00",
+        "professor": "CLAUDIA MARIA SILVA DE OLIVEIRA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "10:00 - 13:00",
+        "professor": "PATRICIA LEAL AZEVEDO CORREA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAE230",
+      "Nome": "Representações 3 D",
+      "Créditos": "4.0",
+      "Teórica": "30",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Técnica de representação dos objetos no espaço através da estrutura linear, do claro-escuro e da cor. Utilização de desenho auxiliado por computador bem como de procedimentos tradicionais de desenho.\n___BIBLIOGRAFIA BÁSICA___\n1-BUSTAMANTE, Léa Santos. Metodologia dos sistemas projetivos. RJ. Ed. Bahiense.\n2- FLOCON, Albert. A Perspectiva. São Paulo: Difel, 1967.\n3- NORLING, Ernest R. La Perspectiva Simplificada. B. Aires. Ed. Jorge A. Duclout.\n4- Manuais dos programas Sketchup; AutoCAD, entre outros.\n5- SCHMITZ/TELES. Livros Técnicos e Científicos Editora S.A.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 16:00",
+        "professor": "ANA CECILIA MATTOS MAC DOWELL"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 16:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAE232",
+      "Nome": "Teorias da Arte Contemp I",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo da produção de arte contemporânea, visando compreender suas estratégias, conceitos e motivações experimentais a partir de um enfoque transversal contemplando a temática dos Direitos Humanos.\n___ BIBLIOGRAFIA BÁSICA ___\n1- KRAUSS, Rosalind. A escultura no campo ampliado. Revista Arte&Ensaio n.17, PPGAV/EBA/UFRJ, 2008.\n2- DANTO, Arthur. Beyond the Brillo Box: The Visual Arts in Post-Historical Perspective, Farrar, Straus & Giroux, 1992.\n3- FUSCO , Renato de. História da arte contemporânea. Lisboa : Presença, 1983.\n4- GULLAR, Ferreira. Etapas da arte contemporânea. São Paulo : Nobel, 1985.\n5- CAUQUELIN, Anne. Arte contemporânea ? uma introdução. São Paulo: Martins Fontes, 2005.\n6- BRITO, Ronaldo. Neoconcretismo: vértice e ruptura do projeto construtivo brasileiro. Rio de Janeiro: FUNARTE, 1985.\n7- FERREIRA, Gloria; COTRIM, Cecília. [org.] ? Escritos de Artistas anos 60/70. Rio de Janeiro, Jorge Zahar, 2006.\n8- OITICICA, Hélio. Aspiro ao grande labirinto. Rio de Janeiro, Rocco, 1986.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 16:00",
+        "professor": "MICHELLE CUNHA SALES"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "4º Período": [
+     {
+      "Codigo": "BAE242",
+      "Nome": "Teorias da Arte Contemp II",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "As novas tecnologias e mídias contemporâneas na produção artística. A presença de novas abordagens a partir da revolução digital.\n___BIBLIOGRAFIA BÁSICA___\n1- STILES, Kristine; SELZ, Peter. Theories and Documents of contemporary art. Berkley, Los Angeles, Londres, University of California Press, 1996.\n2- FOSTER, Hal. Recodificação: arte, espetáculo, política cultural. São Paulo: Casa Editorial Paulista, 1996.\n3- DOMINGUES, Diana. Arte, tecnologia e comunicação: poéticas, nós e interações. Pesquisa desenvolvida pelo Grupo de Pesquisa Novas Tecnologias nas Artes Visuais da Universidade de Caxias do Sul. Ago. 1996 a jul. 1998.\n4- DOMINGUES, Diana. Ciberestética: a ecologia do sentir nos territórios do ciberespaço. Pesquisa desenvolvida pelo Grupo de Pesquisa Novas Tecnologias nas Artes Visuais da Universidade de Caxias do Sul. Ago. 1996 a jul. 1998.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "09:00 - 12:00",
+        "professor": "JORGE LUIZ DUTRA SOLEDAR"
+       }
+      ],
+      "Requisitos": [
+       "BAE232"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH205",
+      "Nome": "História da Arte IV",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das Artes Visuais nos Séculos XX ao XXI, em seus aspectos conceituais, históricos e historiográficos. Do Entre Guerras à Contemporaneidade.\n___ BIBLIOGRAFIA BÁSICA ___\n1- ARGAN. Giulio Carlo. Arte Moderna. São Paulo: Companhia das Letras, 1993.\n2- COTRIM, Cecília; FERREIRA, Glória (orgs.). Escritos de Artista. Rio de Janeiro: Funarte & Jorge Zahar Editor, 2006.\n3- KRAUSS, Rosalind. Caminhos da Escultura Moderna. São Paulo: Martins Fontes, 1998.\n___ BIBLIOGRAFIA COMPLEMENTAR ___\n1- BATCHELOR, David. Minimalismo. São Paulo: Cosac & Naify Edições, 2001.\n2- BELTING, Hans. O fim da História da Arte. São Paulo: Cosacnaify, 2006.\n3- DANTO, Arthur. A transfiguração do lugar comum. São Paulo: Cosacnaify, 2007.\n4- HOLMES, Brian. Investigações Extradisciplinares: para uma nova crítica das instituições. Concinnitas.  Ano 9.  vol. 1, nº 12, 06-13, julho/2008.\n5- JAMESON, Fredric. Pós-Modernismo: a lógica cultural do capitalismo tardio. São Paulo: Ática, 1997.\n6- KRAUSS, Rosalind. Vídeo : a estética do narcisismo. Arte e Ensaios∕PPGAV-EBA, ano XV, nº16, 144-157,  2008.\n7- McCARTHY, David. Arte Pop. São Paulo: Cosac & Naify Edições, 2002.\n8- ODOHERTY, Brian. No Interior do Cubo Branco. São Paulo: Martins Fontes, 2007.\n9- TIBERGHIEN, Gilles. Cabanas. Revista Conccinnitas, ano 4,  n° 4, 227-242, março/2003.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "10:00 - 13:00",
+        "professor": "JANAINA NAGATA OTOCH"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAE241",
+      "Nome": "Escultura II",
+      "Créditos": "4.0",
+      "Teórica": "30",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Trabalhar com o relevo em suas diferentes modalidades e aplicações.\n___ BIBLIOGRAFIA BÁSICA ___\n1- KRAUSS, Rosalind. Caminhos da escultura moderna. SP: Martins Fontes, 1998.\n2- READ, Herbert. Escultura Moderna. Uma História Concisa. SP: Martins Fontes, 2003.\n3- TUCKER, William. A linguagem da escultura. São Paulo: Cosac & Naify Edições, 2001.\n4- WITTKOWER, Rudolf. Escultura. SP: Martins Fontes, 2001.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 16:00",
+        "professor": "FLORIANO CARVALHO DE ARAUJO"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 16:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "BAE231"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH115",
+      "Nome": "Metodologia da Pesquisa",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Análise de conceitos e métodos na pesquisa em História Cultural, História da Arte e Artes Visuais, a partir de uma reflexão teórica e metodológica amparada em estudos empíricos.\n___ BIBLIOGRAFIA BÁSICA ___\n1- BECKER, H.S. Falando da sociedade: ensaios sobre as diferentes maneiras de representar o social. Rio de Janeiro: Zahar, 2009.\n2- CAUQUELIN, Anne. Teorias da arte. São Paulo: Martins Fontes, 2005.\n3- CERTEAU, Michel de. ?A Operação histórica?. In: A operação histográfica. Rio de Janeiro: Forense universitária, 1982.\n4- GIL, Antonio Carlos. Como elaborar projetos de pesquisa. São Paulo: Atlas, 2002.\n5- HEINICH, Nathalie. ?práticas da Arte contemporânea. Uma abordagem pragmática a um novo paradigma?. Sociologia Antropologia. Rio de Janeiro, v. 4, 391-431, 2010.\n6- SHWARCZ, Lilia Moritz. ?Lendo e agenciando imagens: o rei, a natureza e seus belos naturais?. Sociologia Antropologia. Rio de Janeiro, V. 4, 391-431, 2010.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "09:00 - 12:00",
+        "professor": "ANA CECILIA MATTOS MAC DOWELL"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "5º Período": [
+     {
+      "Codigo": "BAH502",
+      "Nome": "Arte no Brasil I",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das Artes Visuais no Brasil, desde antes da chegada dos europeus até o século XIX, em seus aspectos conceituais, históricos e historiográficos. Da arte ameríndia ao academicismo.\n___ BIBLIOGRAFIA BÁSICA ___\n1) ÁVILA, Afonso. Barroco: teoria e análise. São Paulo: Editora Perspectiva. Belo Horizonte: Companhia Brasileira de Metalurgia e Mineração, 1997.\n2) BARCINSKI, Fabiana Werneck (org.). Sobre a arte brasileira: da pré-história aos anos 1960. São Paulo: Martins Fontes: Ed. Sesc-SP, 2014.\n3) COLI, Jorge. Como estudar a arte brasileira do século XIX? São Paulo: Ed. Senac, 2005.\n4) OLIVEIRA, M. A. R.; PEREIRA, S. G.; LUZ, A. A. História da Arte no Brasil: textos de síntese. Rio de Janeiro: Editora da UFRJ, 2008.\n5) ZANINI, Walter (coord.). História geral da arte no Brasil. São Paulo: Instituto Walther Moreira Salles, 1983. 2 v.\n___ BIBLIOGRAFIA COMPLEMENTAR ___\n1) ALVIN, Sandra. Arquitetura religiosa colonial no Rio de Janeiro. Rio de Janeiro: Editora UFRJ/Minc - Iphan/Prefeitura da Cidade do Rio de Janeiro, 1999. 2 v.\n2) D'ARAÚJO, A. L. Arte no Brasil Colonial. Rio de Janeiro: Revan, 2000.\n3) LAGROU, Els. Arte indígena no Brasil. Belo Horizonte: C/Arte, 2007.\n4) OLIVEIRA, M. A. R. O rococó religioso no Brasil e seus antecedentes europeus. São Paulo: Cosac e Naify, 2003.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "10:00 - 13:00",
+        "professor": "JANAINA NAGATA OTOCH"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAE351",
+      "Nome": "Escultura III",
+      "Créditos": "4.0",
+      "Teórica": "30",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Trabalho com o volume em equilíbrio e com o volume cinético.\n___ BIBLIOGRAFIA BÁSICA ___\n1- MOHOLY-NAGY, Lazlo. Vision in Motion. Paul Theobald Publisher, Chicago, 1969.\n2- COLLINS, Judith. Sculpture Today. Phaidon Press, 2007.\n3- TUCKER, William. A linguagem da escultura. São Paulo: Cosac & Naify Edições, 2001.\n4- KRAUSS, Rosalind. Caminhos da Escultura Moderna. SP: Martins Fontes, 1998.\n5- BACHELARD, Gaston. A Poética do Espaço. Eldorado, Rio de Janeiro.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 16:00",
+        "professor": "MARIA ELISA CAMPELO DE MAGALHAES"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 16:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "BAE241"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAWX05",
+      "Nome": "Atividades Complementares",
+      "Créditos": "5.0",
+      "Teórica": "0",
+      "Prática": "240",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Seminários, apresentações, exposições, participação em eventos científicos, estudos de caso, visitas, ações de caráter científico, técnico, cultural e\ncomunitário, produções coletivas, monitorias, resolução de situações; problema, projetos de ensino, ensino dirigido, aprendizado de novas tecnologias de\ncomunicação e ensino, relatórios de pesquisa são modalidades, entre outras atividades, desse processo formativo.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "6º Período": [
+     {
+      "Codigo": "BAH503",
+      "Nome": "Arte no Brasil II",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das Artes Visuais no Brasil nos séculos XX e XXI, em seus aspectos conceituais, históricos e historiográficos. Dos diferentes modernismos à arte contemporânea brasileira.\n___ BIBLIOGRAFIA BÁSICA ___\n1-) AMARAL, Aracy. Arte para quê? A preocupação social na arte brasileira, 1930-1970 [1984]. 2ª ed. São Paulo: Nobel, 1987.\n2) BASBAUM, Ricardo (org.). Arte Contemporânea Brasileira: texturas, dicções, ficções, estratégias. Rio de Janeiro: Rio Ambiciosos, 2001.\n3) BRITO, Ronaldo. Neoconcretismo: vértice e ruptura do projeto construtivo brasileiro [1975/1985]. São Paulo: Cosac Naify, 1999.\n4) FERREIRA, Glória (org.). Crítica de arte no Brasil: temáticas contemporâneas. Rio de Janeiro: Funarte, 2006.\n5) ZÍLIO, Carlos. A querela do Brasil: a questão da identidade na arte brasileira: a obra de Tarsila, Di Cavalcanti e Portinari, 1922-1945. Rio de Janeiro: Funarte, 1982.\n___ BIBLIOGRAFIA COMPLEMENTAR ___\n1) AMARAL, Aracy (org.). Projeto construtivo brasileira na arte. 1950-1962. Rio de Janeiro: Museu de Arte Moderna. São Paulo: Pinacoteca do Estado, 1977.\n2) BRETT, Guy. Brasil experimental: arte/vida: proposições e paradoxos. Rio de Janeiro: Contra Capa, 2005.\n3) DUARTE, Paulo Sérgio. Anos 60: transformações da arte no Brasil. Rio de Janeiro: Campos Gerais, 1998.\n4) FABRIS, Annateresa (org.). Modernidade e modernismo no Brasil. Campinas: Mercado das Letras, 1994.\n5) MORAIS, Frederico. Artes Plásticas: a crise da hora atual. Rio de Janeiro: Paz e Terra, 1975.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "14:00 - 17:00",
+        "professor": "ANA DE GUSMAO MANNARINO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAE361",
+      "Nome": "Escultura IV",
+      "Créditos": "4.0",
+      "Teórica": "30",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estruturas complexas, instalações, trabalhos orientados pelo local.\n___ BIBLIOGRAFIA BÁSICA ___\n1- FRIED, Michael. Art and objecthood. In: BATTCOCK, Gregory (org.). Minimal art: a critical anthology. E. P. Dutton & Co. Inc, 1968.\n2- MOHOLY-NAGY, Lazlo. Vision in Motion. Paul Theobald Publisher, Chicago, 1969.\n3- COLLINS, Judith. Sculpture Today. Phaidon Press, 2007.\n4- TUCKER, William. A linguagem da escultura. São Paulo: Cosac & Naify Edições, 2001.\n5- KWON, Miwon. One place after another: site-specific art and location identity. Cambridge: The MIT Press, 2004.\n6- DEUTSCHE, Rosalyn. Evictions: art and spatial politics. Cambridge: The MIT Press; Grahan Foundation, 1998.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "13:00 - 16:00",
+        "professor": "BEATRIZ PIMENTA VELLOSO"
+       },
+       {
+        "dia": "Sex",
+        "hora": "09:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "BAE351"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "7º Período": [
+     {
+      "Codigo": "BAEX07",
+      "Nome": "Exposição",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Como parte do projeto de graduação o discente deverá realizar uma exposição individual, em uma galeria ou em espaços escolhidos para este fim no próprio prédio da Escola de Belas Artes/EBA da UFRJ ou em outro lugar adequado ao projeto.\n___BIBLIOGRAFIA BÁSICA___\n1- Toda a utilizada durante o curso.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "PAULA SCAMPARINI FERREIRA"
+       }
+      ],
+      "Requisitos": [
+       "BAE361"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "8º Período": [
+     {
+      "Codigo": "BAEX06",
+      "Nome": "Projeto de Graduação",
+      "Créditos": "3.0",
+      "Teórica": "0",
+      "Prática": "120",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Projeto final de curso consistindo em: 1- uma exposição individual; 2- uma monografia; 3- apresentação de defesa para banca composta de três (3) professores membros da EBA/UFRJ e de outras instituições de ensino superior. Metodologia aplicada ao projeto.\n___BIBLIOGRAFIA BÁSICA___\n1- Toda a utilizada durante o curso.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sab",
+        "hora": "19:00 - 22:00",
+        "professor": "MICHELLE CUNHA SALES"
+       }
+      ],
+      "Requisitos": [
+       "BAE361"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "Disciplinas Optativas (Escolha Restrita)": [
+     {
+      "Codigo": "BAE002",
+      "Nome": "Figura Humana II",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo da figura humana dentro de diversas possibilidades de realização técnica, tendo como ponto de partida a modelagem em argila e evoluindo para sua realização em diferentes técnicas e materiais.\n___ BIBLIOGRAFIA BÁSICA ___\n1- JEUDY, Henri-Pierre. O Corpo como o Objeto de arte. SP: Ed. Estação Liberdade, 2002.\n2- LUCHESI, Bruno. Modeling the head in clay. New York: Watson-Guptill Publication, 1996.\n3- LUCHESI, Bruno. Modeling the figure in clay. New York: Watson-Guptill Publication, 1996.\n4- RODIN, August. Conversas com Paul Gsell. São Paulo: Nova Fronteira, 1990.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAE004",
+      "Nome": "Performance",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Realização de exercícios dentro da linguagem da performance do viés das artes visuais; estudo da história da performance.\n___BIBLIOGRAFIA BÁSICA___\n1- CARVALHO, Flavio de. Uma possível teoria e uma experiência. Rio de Janeiro: Nau, 2001.\n2- GOLDBERG, Roselee. A arte da performance, do futurismo ao presente. São Paulo: Martins Fontes, 2006.\n3- GLUSBERG, Jorge. A arte da performance. São Paulo: Perspectiva, 2005.\n4- Caderno VIDEOBRASIL, vol. 1, n. 1, Performance. São Paulo: SESC, 2005.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAE006",
+      "Nome": "Videoarte II",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Arte eletrônica, videoarte. Realização de vídeos, vídeos-objetos e vídeo-instalações. Estudo da história da videoarte.\n___BIBLIOGRAFIA BÁSICA___\n1- FIFER, Sally Jo; HALL, Doug. Illuminating Video: an essential guide to video art. New York: Aperture / Bay Area Video Coalision, 1990.\n2- MACHADO, Arlindo. Máquina e imaginário. São Paulo: EDUSP, 1993.\n3- MACHADO, Arlindo. A arte do vídeo. São Paulo: Brasiliense, 1988.\n4- SHAW, Jeffrey; WEIBEL, Peter. Future cinema: the cinematic imaginary after film. ZKM Center for Art and Media Karlsruhe, 16 November 2002 - 30 March 2003, travelling to the following venues: Musuem of Contemporary Art, KIASMA Helsinki, 28 June - 28 September 2003, NTT Intercommunication Center ICC Tokyo 2 December 2003 - 7 March 2004. Cambridge: MIT Press, 2003. 635 S.: zahlr. III.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 12:00",
+        "professor": "MARIA ELISA CAMPELO DE MAGALHAES"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAE008",
+      "Nome": "Arte Digital II",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Ciberarte, robótica. Realização de instalações interativas e obras envolvendo mecatrônica (robótica).\n___BIBLIOGRAFIA BÁSICA___\n1- WILSON, Stephen. Information arts: Intersections of art, science and technology. Cambridge/MA, London/UK: The MIT Press, 2002.\n2- GRAU, Oliver. Virtual art. Cambridge/MA, London/UK: The MIT Press, 2003.\n3- GOLDBERG, Ken (ed.). The robot in the garden: telerobotics and telepistemology on the internet. Cambridge; London: The MIT Press, 2000.\n4- LUNENFELD, Peter. The digital dialetic - New essays on new media. Cambridge: MIT Press, 1995.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAE010",
+      "Nome": "Escultura Cênica II",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Escultura em grandes formatos, escultura cênica, carnaval, cinema, teatro, televisão, parque temático.\n___BIBLIOGRAFIA BÁSICA___\n1- FERREIRA, Felipe. Inventando carnavais: o surgimento do carnaval carioca no século XIX e outras questões carnavalescas. Rio de Janeiro: Editora UFRJ, 2005.\n2- MORAES, Eneida de. História do carnaval carioca. Rio de Janeiro: Record, (1958) 1987.\n3- RICH Jack C. The Materials and Methods of Sculpture. Dover publications, 1988.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "09:00 - 13:00",
+        "professor": "JORGE LUIZ SAMPAIO DUARTE"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAE012",
+      "Nome": "Polímeros II",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Os conceitos dos materiais e seus procedimentos. Gênese da forma, execução, reflexão sobre os resultados e sua articulação com o meio artístico contemporâneo.\n___BIBLIOGRAFIA BÁSICA___\n1- GUEDES, Benedito; FILKAURAS, Mario. O Plástico. Ed. Erica.\n2- MANO, Eloisa. Introdução ao estudo dos Polímeros. Ed. Edgard Blucher.\n3- CORAZZA, Euclides de. Poliestireno: material e sua transformação. Ed. Plásticos em Revista.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAE014",
+      "Nome": "Cerâmica II",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceito do material, histórico, manuseio, preparo, técnicas e processos, modelagem, percurso histórico, cultura e atos técnicos, ferramental, elementos da natureza, químicos orgânicos e inorgãnicos, misturas, testes, corpo cerâmico, semântica do objeto, gesto, utilidade e função, o essencial e o cultural.\n___BIBLIOGRAFIA BÁSICA___\n1- BACHELARD, Gaston. A terra e os devaneios da vontade. São Paulo: Martins Fontes, 1991.\n2- LEVI-STRAUSS, Claude. Cru e Cozido, Mitológicas. Rio de Janeiro: Editora: Cosac & Naify, 2004.\n3- READ, Herbert. As origens da Forma na Arte. Rio de Janeiro: Zahar, 1967.\n4- TOSTES, Celeida. A Esmaltação em Metal.\n5- LUCHESI, Bruno. Terracotta: The Technique of Fired Clay Sculpture. Watson-Guptill; 1ST edition.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 17:00",
+        "professor": "KATIA CORREIA GORINI"
+       }
+      ],
+      "Requisitos": [
+       "BAE013"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAE016",
+      "Nome": "Escultura em Madeira II",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Prática Instrumental - Ferramentas (máquinas ou acessórios) complexas, funcionamento,rendimento e reparo. Prática Experimental.\n___BIBLIOGRAFIA BÁSICA___\n1- RICH, Jack C. Sculputure in Wood. Dover publications, 1992.\n2- MIDGLEY, Barry (Ed.). The Complete Guide to Sculpture, Modeling and Ceramics, techniques and materials. Chartwell Books, Inc. London, 1982.\n3- RICH, Jack C. The Materials and Methods of Sculpture. Dover publications, 1988.\n4- LIEBSON, Milt. Direct Wood Sculpture: Technique-Innovation-Creativity. Schiffer Publishing (January 1, 2000).\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAE018",
+      "Nome": "Escultura em Pedra II",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Prática instrumental - ferramentas simples, noções de confecção e utilização. Prática experimental.\n___BIBLIOGRAFIA BÁSICA___\n1- MEILACH, Dona Z. Contemporary Stone Sculpture: Aesthetics Methods Appreciation. Schiffer Publishing (March 1987).\n2- CAMÍ, Josepmaria Teixido i; SANTAMERA, Jacinto Chiacharo. A Escultura em Pedra. Editorial Estampa, 2000.\n3- MIDGLEY, Barry (Ed.). The Complete Guide to Sculpture, Modeling and Ceramics, techniques and materials. Chartwell Books, Inc. London, 1982.\n4- RICH, Jack C. The Materials and Methods of Sculpture. Dover publications, 1988.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAE020",
+      "Nome": "Escultura em Metal II",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Prática Instrumental - Estudos dos processos: soldas e de fundição, pátinas, tratamentos de superfície. Prática Experimental.\n___BIBLIOGRAFIA BÁSICA___\n1- MIDGLEY, Barry (Ed.). The Complete Guide to Sculpture, Modeling and Ceramics, techniques and materials. Chartwell Books, Inc. London, 1982.\n2- RICH, Jack C. The Materials and Methods of Sculpture. Dover publications, 1988.\n3- HUGHES, Richard. The Colouring, Bronzing and Patination of Metals. Watson-Guptill (February 1, 1991).\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAE022",
+      "Nome": "Arte: Ecologias (Top Experim)",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Disciplina teórico-prática direcionada ao embate do estudante com seu estar-no-mundo, via discussão de textos de raiz filosófica e correlação com práticas artísticas geradas pelo grupo. Espera-se que tais temas sejam geradores de inflexões no pensamento/posicionamento do estudante acerca do contexto sócio-geo-político-artístico em que se situa, e atuem como gatilhos para a produção de peças artísticas a serem realizadas no período. Inputs serão oferecidos mais densamente na primeira metade do curso, seguido pela ênfase no acompanhamento da produção da turma para uma produção coletiva. Viagem de campo a ser informada no primeiro dia de aula. A base teórica se desenvolve a partir da pesquisa em andamento (Grupo de Pesquisa Arte: Ecologias - Grupo GAE) decorrente da tese defendida pela professora proponente.\n___BIBLIOGRAFIA BÁSICA___\n1- AGAMBEN, Giorgio. O que é o contemporâneo? Ensaios.Tradução de Vinícius Nicastro Honesko. Chapecó - SC: Argos. 2009.\n2- ________________. Meios sem fim: notas sobe política. São Paulo: Autêntica, 2015.\n3-  GUATARRI, Félix. As três ecologias.2ª ed. Campinas, SP: Papirus, 1990.\n4- HALL, Stuart. Cultura e representação. Rio de Janeiro, RJ: Ed. PUC Rio: Apicuri, 2016.\n5- VIVEIROS DE CASTRO, Eduardo Metafisicas Canibais, São Paulo, SP: Cosac Naif. 2015.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1- AGAMBEN, Giorgio. Homo Sacer: O poder Soberano e a Vida Nua I. Tradução de Henrique Burigo. Belo Horizonte: Ed. UFMG, 2002.\n2- DIDI HURBERMAN, g. (1992), O que nos olha. Trad. G. Anghel e J. P. Cachopo, Porto, Dafne, 2011.\n3- FOCAULT, M. Truth and  Power. In: FOUCAULT. Michel. Power/Knowledge: Selected Interviews and Other Writings. 1972-1977. Nova Iorque: Pantheon Books, 1980.\n4- GUATTARI, F. (1992). Caosmose - um novo paradigma estético. São Paulo: Ed. 34.\n5- HALL, E. T. Beyond culture. 2 ed. New York: Anchor Doubleday, 1989.\n6- KAPROW, Alan Essays on the Blurring of Art and life. Expanded Edition. Los Angeles: University of California Press, 2003.\n7- KOPENAWA, Davi e ALBERT, Bruce. The Falling Sky. Ed. Harvard University Press. USA/2013.\n8- LATOUR, Bruno. War and peace in an age of ecological conflicts Paris - Lecture prepared for the Peter Wall Institute Vancouver. 2013.\n9- MATURANA, Humberto R.; VARELA, Francisco J. A árvore do conhecimento: as bases da compreensão humana; tradução: Humberto Mariotti e Lia Diskin; ilustração: Carolina Vial, Eduardo Osório, Francisco Olivares e Marcelo Maturana Montañez - São Paulo: Palas Athenas, 2001.\n10- NAESS, Arne. The Shallow and the Deep, long-range ecology movements: A summary. Inquiry 16 (OSlo, 1973), pp. 95-100.\n11- RANCIÈRE, Jacques. A partilha do sensível. Trad.: Mônica Costa Netto. São Paulo: Ed. 34, 2005.\n12- SANTOS, Milton. A Natureza e do Espaço: técnica e tempo, razão e emoção. São Paulo: EDUSP, 2002.\n13- SERRA, Richard. Escritos e entrevistas. Rio de Janeiro. IMS, 2016.\n14- SMITHSON, Robert. The collected writings. New York: University Press, 1979.\n15- TARKOVSKI, A. A. Esculpir o tempo. 2 ed. São Paulo: Martins fontes, 1998.\n16- VIVEIROS DE CASTRO, Eduardo. Metafísicas Canibais. São Paulo, SP: Cosac Naify, 2015.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "14:00 - 18:00",
+        "professor": "PAULA SCAMPARINI FERREIRA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAE024",
+      "Nome": "Arte e Subjetividade",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Debates contemporâneos da criação artística em diálogo com o campo da subjetividade. Introdução ao pensamento de Joyce McDougall, de Hal Foster eSuely Rolnik, frisando conceitos sobre o corpo, a teatralidade e alteridade no espaço social como eixos temáticos de apreciação estética das Artes Visuais/Escultura. A escrita como exercício ensaístico a partir da reflexão de obras e de processos artísticos.\n___BIBLIOGRAFIA BÁSICA___\n1- FREUD, S. (1905). Três Ensaios sobre a Teoria da Sexualidade. In: FREUD, S.  Obras completas. Buenos Aires: Amnorrortu, 1996. vol. VII.\n2- FOSTER, Hal. Belleza Compulsiva. Buenos Aires: Adriana Hidalgo Editora, 2008.\n3- LYOTARD, Jean-François. Por que filosofar? Tradução de Marcos Marcionilo. 1ª Ed.São Paulo: Parábola, 2013.\n4- MCDOUGALL, Joyce. Teatros Del Cuerpo. Madrid: Julian Yebenes, 1982.\n5- RIVERA, Tânia. O avesso da imagem: arte contemporânea e psicanálise. São Paulo: Cosac Naify, 2014.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAE001",
+      "Nome": "Figura Humana I",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo da figura humana dentro de diversas possibilidades de realização técnica, tendo como ponto de partida a modelagem em argila.\n___BIBLIOGRAFIA BÁSICA___\n1- JEUDY, Henri-Pierre. O Corpo como o Objeto de arte. SP: Ed. Estação Liberdade, 2002.\n2- LUCHESI, Bruno. Modeling the head in clay. New York: Watson-Guptill Publication, 1996.\n3- LUCHESI, Bruno. Modeling the figure in clay. New York: Watson-Guptill Publication, 1996.\n4- RODIN, August. Conversas com Paul Gsell. São Paulo: Nova Fronteira, 1990.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 17:00",
+        "professor": "NIVALDO RODRIGUES CARNEIRO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAE003",
+      "Nome": "Arte Pública",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Inserção da arte no espaço público e sua prática de produção experimental. As obras bidimensionais e tridimensionais, seus processos de criação e a interação com o público. As diversas estratégias de ampliação da categoria tradicional das artes visuais - interferências: arquitetônica, pictórica, na paisagem e urbana, produção efêmera, vídeo-escultura, foto-escultura, instalação, ocupação sonora e corpo como meio.\n___BIBLIOGRAFIA BÁSICA___\n1- ARGAN, Giulio Carlo. História da arte como história da cidade. São Paulo: Martins Fontes, 1989.\n2- AUGÉ, Marc. Non-places: introduction to an anthropology of supermodernity. London, New York: Verso, 1995.\n3- CRUICSHANK, Jeffrey; KORSA, Pam. Going public: a field guide of developments in art in public spaces. Massachussets: Arts Extension Service, 1988.\n4- LILES, Malcom. Art space and the city: public art and urban futures. London, New York: Routledge, 1997.\n5- BRISSAC, Nelson. Arte/Cidade - a cidade e suas histórias. São Paulo: Marca D´água, 1997.\n6- BRISSAC, Nelson. Arte/Cidade - a cidade e seus fluxos. São Paulo: Marca D´água, 1994.\n7- BRISSAC, Nelson. Arte/Cidade - as máquinas de guerra contra os aparelhos de captura. São Paulo: Gráfica Garilli, 2002.\n8- BRISSAC, Nelson. Arte/Cidade - cidade sem janelas. São Paulo: Marca D´água, 1994.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAE005",
+      "Nome": "Videoarte I",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Arte eletrônica, vídeoarte. Realização de vídeos, vídeo-objetos e vídeo-instalações. Estudo da história da vídeoarte.\n___BIBLIOGRAFIA BÁSICA___\n1- FIFER, Sally Jo; HALL, Doug. Illuminating Video: an essential guide to video art. New York: Aperture / Bay Area Video Coalision, 1990.\n2- MACHADO, Arlindo. Máquina e imaginário. São Paulo: EDUSP, 1993.\n3- MACHADO, Arlindo. A arte do vídeo. São Paulo: Brasiliense, 1988.\n4- MACHADO, Arlindo. O quarto iconoclasmo e outros ensaios. Rio de Janeiro: Marca D´água, 2001.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 12:00",
+        "professor": "BEATRIZ PIMENTA VELLOSO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAE007",
+      "Nome": "Arte Digital I",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Ciberarte, arte digital, webart. Realização de trabalhos de arte em redes telemáticas; instalações interativas e obras envolvendo mecatrônica (robótica).\n___BIBLIOGRAFIA BÁSICA___\n1- BENEDIKT, Michael. Cyberspace: first steps. In: BELL, David; KENEDY, Barbara M. The cybercultures reader. London; New York, Routledge, 2000.\n2- DOMINGUES, Diana (Org.). A arte no século XXI: a humanização das tecnologias. São Paulo: UNESP, 1997.\n3- DOMINGUES, Diana (Org.). Criação e interatividade na ciberarte. São Paulo: Experimento, 2002.\n4- KAC, Eduardo. Luz & letra: ensaios de arte, literatura e comunicação. Rio de Janeiro: Contracapa, 2004.\n5- MACIEL, Kátia; PARENTE, André (org.). Redes sensoriais: arte, ciência e tecnologia. Rio de Janeiro: Contracapa, 2003.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 12:00",
+        "professor": "ANA CECILIA MATTOS MAC DOWELL"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAE009",
+      "Nome": "Escultura Cênica I",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Escultura em grandes formatos, escultura cênica, carnaval, cinema, teatro, televisão, parque temático.\n___BIBLIOGRAFIA BÁSICA___\n1- FERREIRA, Felipe. Inventando carnavais: o surgimento do carnaval carioca no século XIX e outras questões carnavalescas. Rio de Janeiro: Editora UFRJ, 2005.\n2- MORAES, Eneida de. História do carnaval carioca. Rio de Janeiro: Record, (1958) 1987.\n3- RICH Jack C. The Materials and Methods of Sculpture. Dover publications, 1988.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "09:00 - 13:00",
+        "professor": "JORGE LUIZ SAMPAIO DUARTE"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAE011",
+      "Nome": "Polímeros I",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O conceitos dos materiais e seus procedimentos. Gênese da forma, execução, reflexão sobre os resultados e sua articulação com o meio artístico contemporâneo.\n___BIBLIOGRAFIA BÁSICA___\n1- GUEDES, Benedito; FILKAURAS, Mario. O Plástico. Ed. Erica.\n2- MANO, Eloisa. Introdução ao estudo dos Polímeros. Ed. Edgard Blucher.\n3- CORAZZA, Euclides de. Poliestireno: material e sua transformação. Ed. Plásticos em Revista.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAE013",
+      "Nome": "Cerâmica I",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceito do material, histórico, manuseio, preparo, técnicas e processos, modelagem, percurso histórico, cultura e ato técnicos, ferramental, elementos da natureza, químicos orgânicos e inorgânicos, misturas, testes, corpo cerâmico, semântica do objeto, gesto, utilidade e função, o essencial e o cultural.\n___BIBLIOGRAFIA BÁSICA___\n1- BACHELARD, Gaston. A terra e os devaneios da vontade. São Paulo: Martins Fontes, 1991.\n2- LEVI-STRAUSS, Claude. Cru e Cozido, Mitológicas. Rio de Janeiro: Editora: Cosac & Naify, 2004.\n3- READ, Herbert. As origens da Forma na Arte. Rio de Janeiro: Zahar, 1967.\n4- TOSTES, Celeida. A Esmaltação em Metal.\n5- LUCHESI, Bruno. Terracotta: The Technique of Fired Clay Sculpture. Watson-Guptill; 1ST edition.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 12:00",
+        "professor": "KATIA CORREIA GORINI"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAE015",
+      "Nome": "Escultura em Madeira I",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Prática instrumental - ferramentas simples, noções de confecção e utilização. Prática experimental.\n___BIBLIOGRAFIA BÁSICA___\n1- CAMÍ, Josepmaria Teixido i; SANTAMERA, Jacinto Chiacharo. A Talha. Escultura em Madeira. Editorial Estampa, 1997.\n2- MIDGLEY, Barry (Ed.). The Complete Guide to Sculpture, Modeling and Ceramics, techniques and materials. Chartwell Books, Inc. London, 1982.\n3- RICH, Jack C. The Materials and Methods of Sculpture. Dover publications, 1988.\n4- RICH, Jack C. Sculputure in Wood. Dover publications, 1992.\n5-LIEBSON, Milt. Direct Wood Sculpture: Technique-Innovation-Creativity. Schiffer Publishing (January 1, 2000).\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "FLORIANO CARVALHO DE ARAUJO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAE017",
+      "Nome": "Escultura em Pedra I",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Prática Instrumental - Ferramentas simples, noções de confecção e utilização.  Fornecimento de suporte teórico e técnico das possibilidades do campo tridimensional a partir da pedra como matéria de trabalho. Apresentação das variadas pedras e suas granulometrias. Acompanhamento do uso das ferramentas de trabalho e seus usos. Indicação do campo experimental da escultura em pedra associada aos outros materiais. Demonstração de diversos tipos de tratamentos de superfície e de conservação do material, etc.\n___BIBLIOGRAFIA BÁSICA___\n1- CAMÍ, Josepmaria Teixido i; SANTAMERA, Jacinto Chiacharo. A Escultura em Pedra. Editorial Estampa, 2000.\n2- MIDGLEY, Barry (Ed.). The Complete Guide to Sculpture, Modeling and Ceramics, techniques and materials. Chartwell Books, Inc. London, 1982.\n3- RICH, Jack C. The Materials and Methods of Sculpture. Dover publications, 1988.\n4- MEILACH, Dona Z. Contemporary Stone Sculpture: Aesthetics Methods Appreciation. Schiffer Publishing (March 1987).\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAE019",
+      "Nome": "Escultura em Metal I",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Prática Instrumental -  corte, dobra, rebite, forja. Ferramentas simples, noções de confecção e utilização. Prática Experimental.\n___BIBLIOGRAFIA BÁSICA___\n1- MIDGLEY, Barry (Ed.). The Complete Guide to Sculpture, Modeling and Ceramics, techniques and materials. Chartwell Books, Inc. London, 1982.\n2- RICH, Jack C. The Materials and Methods of Sculpture. Dover publications, 1988.\n3- HUGHES, Richard. The Colouring, Bronzing and Patination of Metals. Watson-Guptill (February 1, 1991).\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "09:00 - 13:00",
+        "professor": "GABRIELA DI BATTISTA MUREB"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAE021",
+      "Nome": "Escrita de Artista",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Investigação sobre o exercício da escrita de artista como processo de pesquisa e modo de intervenção no debate sobre arte. Análise de textos de artistas, brasileiros e internacionais, da década 1960 à atualidade. Aprofundamento do repertório teórico dos alunos-artistas com vistas ao desenvolvimento de textos autorais sobre produção plástica. Criação de ateliê de escrita.\n___BIBLIOGRAFIA BÁSICA___\n1- ALYS, Francis. Numa dada situação. São Paulo: CosacNaify, 2014.\n2- CAGE, John. De segunda a um ano. Rio de Janeiro: Cobogó, 2013.\n3- CALDAS, Waltercio. Manual da ciência popular. São Paulo: Cosac & Naify, 2008.\n4- CARVALHO, Flávio. Experiência n. 2. Rio de Janeiro: Nau Editora, 2001.\n5- FERREIRA, Glória; COTRIM, Cecilia (Orgs). Escritos de artistas. Anos 60/70. Rio de Janeiro: Zahar, Editor 2009.\n6- OITICICA, Hélio. Aspiro ao Grande Labirinto. Rio de Janeiro: Rocco, 1986.\n7- TUNGA. Barroco de lírios. São Paulo: Cosac&Naify, 1997\n___BIBLIOGRAFIA COMPLEMENTAR___\n1- HARRISON, Charles & WOOD, Paul (Ed). Art in Theory, 1900-2000: an anthology of changing ideas. Londres: Blackwell Publishing, 2002.\n2- HOLT, Nancy. (ed.). The writings of Robert Smithson: essays with illustrations. Nova York: New York University Press, 1979.\n3- KAPROW, Allan. Essays on the blurring of art and life. Berkley: University of California press, 1993.\n4- STILES, Kristina & SELZ, Peter (Ed.). Theories and Documents of Contemporary Art: a Sourcebook of Artists?Writings. Berkeley/Los Angeles/California: University of California Press, 1996.\n5- WARHOL, Andy. The philosophy of Andy Warhol: from A to B and Back Again. Nova York: Harcourt Brace Jovanovich, 1975.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAE023",
+      "Nome": "Tópicos Experimentais I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Disciplina ministrada em regime de Tópicos Especiais em que cada semestre terá seu conteúdo renovado.\n___BIBLIOGRAFIA BÁSICA___\n1- FERREIRA, Glória; COTRIM. Cecília 9Orgs). Escritos de artistas. Anos 60/70. Rio de Janeiro: Zahar, Editora 2009.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1- DANTO, Arthur C. O mundo da arte. in Artefilosofia: Antologia de textos estéticos. Org. Gilson Iannini, Douglas Garcia, Romero Freitas. Rio de Janeiro: Civilização Brasileira, 2015.\n2- FLUSSER,  Vilém. O mundo codificado: por uma filosofia do design e da comunicação. Org.: Rafael Cardoso. Trad.: Raquel Abi-Sâmara. São Paulo: Cosac Naify, 2010.\n3- AGAMBEN, Giorgio. Homo Sacer: O poder Soberano e a Vida Nua I. Tradução de Henrique Burigo. Belo Horizonte: Ed. UFMG, 2002.\n4- DIDI HURBERMAN, g. (1992), O que nos olha. Trad. G. Anghel e J. P. Cachopo, Porto, Dafne, 2011.\n5- FOCAULT, M. Truth and  Power. In: FOUCAULT. Michel. Power/Knowledge: Selected Interviews and Other Writings. 1972-1977. Nova Iorque: Pantheon Books, 1980.\n6- GUATTARI, F. (1992). Caosmose - um novo paradigma estético. São Paulo: Ed. 34.\n7- HALL, E. T. Beyond culture. 2 ed. New York: Anchor Doubleday, 1989.\n8- KAPROW, Alan Essays on the Blurring of Art and life. Expanded Edition. Los Angeles: University of California Press, 2003.\n9- KOPENAWA, Davi e ALBERT, Bruce. The Falling Sky. Ed. Harvard University Press. USA/2013.\n10- LATOUR, Bruno. War and peace in an age of ecological conflicts Paris - Lecture prepared for the Peter Wall Institute Vancouver. 2013.\n11- MATURANA, Humberto R.; VARELA, Francisco J. A árvore do conhecimento: as bases da compreensão humana; tradução: Humberto Mariotti e Lia Diskin; ilustração: Carolina Vial, Eduardo Osório, Francisco Olivares e Marcelo Maturana Montañez - São Paulo: Palas Athenas, 2001.\n12- NAESS, Arne. The Shallow and the Deep, long-range ecology movements: A summary. Inquiry 16 (OSlo, 1973), pp. 95-100.\n13- RANCIÈRE, Jacques. A partilha do sensível. Trad.: Mônica Costa Netto. São Paulo: Ed. 34, 2005.\n14- SANTOS, Milton. A Natureza e do Espaço: técnica e tempo, razão e emoção. São Paulo: EDUSP, 2002.\n15- SERRA, Richard. Escritos e entrevistas. Rio de Janeiro. IMS, 2016.\n16- SMITHSON, Robert. The collected writings. New York: University Press, 1979.\n17- TARKOVSKI, A. A. Esculpir o tempo. 2 ed. São Paulo: Martins fontes, 1998.\nPrincipais Catálogos:\n27ª e 31ª Bienais de SP\nBienais de Veneza 2012, 2014 e 2016\nManifesta 10\nDocumentas de Kassel 2012 e 2017\nQuadrienais de Praga 2011 e 2015\nBienal de Istambul 2011\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAE120",
+      "Nome": "Oficina de Fôrmas II",
+      "Créditos": "3.0",
+      "Teórica": "0",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Os pressupostos que caracterizam o trabalho científico; o significado e os limites dos métodos e técnicas de investigação; trabalho reflexivo, ordenado e crítico.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAE119"
+      ],
+      "Tipo": "eletiva"
+     }
+    ],
+    "Disciplinas Optativas (Escolha Condicionada)": [
+     {
+      "Codigo": "BAF105",
+      "Nome": "Desenho Artístico II",
+      "Créditos": "4.0",
+      "Teórica": "0",
+      "Prática": "135",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Instrumental teórico e prático para a análise, representação e composição bidimensional. Observação visual de formas naturais e artificiais. Apresentação de materiais e técnicas de desenho. Estudos da cor.\n___Bibliografia Recomendada___\n1- BAXANDALL, M. Sombras e luzes. São Paulo: EDUSP, 1997.\n2- COLI, J. O que é a arte?. São Paulo: Editora Brasiliense, 2006.\n3- DONDIS, Donis A. Sintaxe da Linguagem Visual. São Paulo: Martins Fontes, 2007.\n4- OSTROWER, F. Acasos e criação artística. Rio de Janeiro: Editora Campus, 1990.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAF101"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAF202",
+      "Nome": "Criação da Forma I",
+      "Créditos": "4.0",
+      "Teórica": "15",
+      "Prática": "75",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O que é a forma ? como conceituá-la, como obtê-la, quais as suas características. Elementos conceituais, elementos visuais, elementos de relação. Forma bidimensional e tridimensional. Luz e sombra. Formas naturais e artificiais. Forma como volume. Forma e estrutura. Módulos.\n___ BIBLIOGRAFIA BÁSICA ___\n1- ARNHEIM, Rudolf. Arte e percepção visual: uma psicologia da visão criadora. São Paulo: Cengage Learning, 2008.\n2- DONDIS, Donis. Sintaxe da linguagem visual. São Paulo: Martins Fontes, 2007.\n3- MANGUEL, Alberto. Lendo imagens: uma história de amor e ódio. São Paulo: Companhia das Letras, 2001.\n4- WONG, Wucius. Princípios de forma e desenho. São Paulo: WMF Martins Fontes, 2010.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAH475",
+      "Nome": "Mercado de Arte",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A obra de arte como objeto de análise da ciência econômica, possibilitando uma reflexão em termos de produção e consumo. Dimensão econômica da arte. Mercado e investimento de arte no Brasil.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAH367"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAR101",
+      "Nome": "Geometria Descritiva I",
+      "Créditos": "4.0",
+      "Teórica": "30",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Fundamentos e técnicas do sistema triedrico e cotado de representação, tomando por modelo o espaço métrico euclidiano. As transformações descritivas das imagens convencionais dos sólidos poliédrico e a resolução de sua problemática básica (seções, interseções, geodésicas).\n___Bibliografia Recomendada___\n1) BUSTAMANTE, Léa Santos. Metodologia dos Sistemas Projetivos. RJ . Ed Bahiense.\n2) _______________________. Transformações Projetivas. Sistemas Projetivos. RJ . Ed Bahiense.\n3) PINHEIRO, V. Athayde. Noções de Geometria Descritiva. V.I, II e III. RJ. Ao livro Técnico Ltda.\n4) RODRIGUES. Alvaro J. Geometria Descritiva. V II. RJ. Imprensa Nacional.\n___Bibliografia Complementar___\n1) Príncipe Júnior, Alfredo de Reis. Noções de Geometria Descritiva I. São Paulo, Nobel, 1984.\n2) Príncipe Júnior, Alfredo de Reis. Noções de Geometria Descritiva II. São Paulo, Nobel, 1984.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAR202",
+      "Nome": "Perspectiva",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Fundamentos da perspectiva cônica e cilíndrica aplicados em espaços internos e externos.  Noções de sombra em perspectiva.\n___ BIBLIOGRAFIA BÁSICA ___\n1- CHING, Francis. Representação Gráfica em Arquitetura. Porto Alegre: Bookman, 2000.\n2- MONTENEGRO, Gildo. A Perspectiva dos Profissionais. São Paulo. Edgard Blucher, 2001.\n3- NORLING, Ernest R. La Perspectiva Simplificada. B. Aires. Ed. Jorge A. Dulclout.\n4- OLMER, Pierre. Perspectiva Artistique. Paris. LibrairiePlon.\n5- QUAITENNE, Esteban. Tratado Metódico de Perspectiva. B. Aires. El Ateneo.\n6- RAYNES, John. Curso Completo de Perspectiva. Barcelona: Editora BLUME, 2008.\n7- SCHAARWÄCHTER, Georg. Perspectiva para Arquitectos.México: Gili, 1996.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAR102"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV121",
+      "Nome": "Fotografia I",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Teoria fotográfica, a câmera, estruturação da imagem; introdução ao laboratório fotográfico.\n___Bibliografia Recomendada___\n1) ADAMS,Ansel.The Camera, New York: Litle, Brown and Company, 1991. Existe edição do SENAC SP.\n2) ____, Ansel. The Negative, New York:Litle, Brown and Company, 1991. Existe edição do SENAC SP.\n3) ____, Ansel. The Print, New York: Litle, Brown and Company, 1991. Existe edição do SENAC.\n4) SPGOLDBERG, Vicki. Photography in Print, Alburquerque: University New Mexico Press, 1988Catálogo da XXV Bienal de São Paulo, Iconografias Metropolitanas. São Paulo, 2002.\n5)CARSON, D. , MEGGS P. : Fotografiks, David Carson, Corte Madera: Gingko Press, 2000.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEB599",
+      "Nome": "Est da Líng Bras de Sinais I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Nomes próprios; pronomes pessoais; demonstrativos; possessivos; locativos em sentenças simples do tipo pergunta-resposta com \"o que\" e \"quem\" e outros vocábulos básicos; numerais; quantidade; topicalização; flexão verbal; flexão de negação; expressões faciais e corporais; percepção visual; conversação; diálogos; textos: LIBRAS, cultura e comunidade surda.\n",
+       "BibliografiaBasica": "1) BRITO, L. F. Por uma gramática de língua de sinais. Rio de Janeiro: Tempo Brasileiro, 1995.\n2) FELIPE, T.; MONTEIRO, M. S. LIBRAS em contexto. Curso Básico. Brasília: Ministério da Educação e do Desporto/Secretaria de Educação Especial, 2001.\n3) GESSER, A. Libras - Que língua é essa? Crença e preconceitos em torno da língua de sinais e da realidade surda. Florianópolis: Parábola, 2009.\n4) STROBEL, K. L. As imagens do outro sobre a cultura surda. Florianópolis: EdUFSC, 2008.\n",
+       "BibliografiaComplementar": "1) PIMENTA, Nelson e QUADROS, Ronice Muller. Curso de Libras I, LSB Vídeo, volume I, Iniciante, 2006 e 3a ed., 2008.\n2) Dicionário Enciclopédico Ilustrado Triíngue da Língua de Sinais Brasileira ? vol 1 e vol. 2 Site: www.acessobrasil.org.brasil\n3) Dicionário da Língua Brasileira de Sinais, INES, versão, 2.0, ano 2006.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAF103",
+      "Nome": "Desenho Anatômico I",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Proporções e relações do corpo humano; nomenclatura básica da osteologia; desenho do esqueleto dando o conhecimento da forma, estrutura e função das partes que constituem a cabeça; tronco e membros.\n___Bibliografia Recomendada___\n1- BRIDGMAN, George B. Bridgman's complete guide to drawing from life. New York: Sterling Publishing Company, Inc., 2009.\n2- GORDON, Louise. Desenho anatómico. Lisboa: Presença; [São Paulo]: Martins Fontes, 1980.\n3- LOOMIS, Andrew. Figure drawing for all it?s work. New York: The Viking Press, 1944.\n4- PERARD, Victor. Desenho e anatomia. Rio de Janeiro: Ediouro, [s.d.].\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "09:00 - 12:00",
+        "professor": "JOSE SALMO DANSA DE ALENCAR"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAF201",
+      "Nome": "Desenho Artístico III",
+      "Créditos": "3.0",
+      "Teórica": "0",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O desenho como realização final. Os problemas da criação artística através do desenho. As deformações expressivas e a composição. Exercícios de aplicação dos diferentes processos do desenho.\n___Bibliografia Recomendada___\n1- CARERI, Francesco. Walkscape: O caminhar como prática estética. São Paulo: Ed. G.Gili, 2013.\n2- CAUQUELIN, Anne. Arte contemporânea: uma introdução. São Paulo: Martins, 2005.\n3- FERREIRA, Glória e COTRIM, Cecília (Org.). Clement Greenberg e o debate crítico. Rio de Janeiro: Jorge Zahar, 2001.\n4- OSTROWER, Fayga. Universos da Arte. Campinas: UNICAMP, 2013.\n5- STANGOS, Nikos (Org.). Conceitos da Arte Moderna. Rio de Janeiro: Jorge Zahar, 1991.\n6- PIGNATTI, Terisio. O desenho: de Altamira a Picasso. São Paulo: Abril, 1982.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAF105"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAH369",
+      "Nome": "Cultura Brasileira",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Formação da cultura brasileira. Etnicidade. Culturas tradicionais, regionais, populares e urbanas no Brasil.\n___ BIBLIOGRAFIA BÁSICA ___\n1- CANDIDO, A. O significado de Raízes do Brasil (Prefácio). In: HOLANDA, S. B. de. Raízes do Brasil. 26.ed. São Paulo: Cia. das Letras, 1995.\n2- FREYRE, G. Prefácio. Casa-grande & senzala: formação da família brasileira sob o regime da economia patriarcal. São Paulo: Global, 2005.\n3- DAMATTA, R. Notas sobre o racismo à brasileira. In: SOUZA, J. (Org) Multiculturalismo e racismo: uma comparação Brasil - Estados Unidos. Brasília: Paralelo, 1997.\n4- MICELI, S. Intelectuais e classe dirigente no Brasil (1920-1945). São Paulo: Difel, 1979.\n5- ROCHA, J. C. de C. As origens e equívocos da cordialidade brasileira. In: ___. O exílio do homem cordial. Rio de Janeiro: Editora do Museu Nacional, 2004.\n___ BIBLIOGRAFIA COMPLEMENTAR ____\n1- CANDIDO, A. Dialética da malandragem. Revista do Instituto de Estudos Brasileiros, São Paulo, v.8, p.67-89, 1970.\n2- FERNANDES, F. A integração do negro na sociedade de classes. São Paulo: Ática, 1978.\n3- HOLANDA, S. B. de. Raízes do Brasil. 26.ed. São Paulo: Cia. das Letras, 1995.\n4- ROMERO, S. Estudos sobre a poesia popular do Brasil. 2.ed. Petrópolis: Vozes, 1977.\n5- WISNIK, J. M. Veneno remédio: o futebol e o Brasil. São Paulo: Cia. das Letras, 2008.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "14:00 - 17:00",
+        "professor": "DENNIS NOVAES SALDANHA CORTES"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAH489",
+      "Nome": "Arte, Curadoria e Instituições",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo da história da curadoria desde o século XIX até os dias de hoje. A curadoria como prática artística. Os distintos modos de ver e pensar a curadoria na contemporaneidade. A disciplina engloba visitas em espaços culturais e museus da cidade para discussão sobre os aspectos técnicos e conceituais das mostras.\n___ BIBLIOGRAFIA BÁSICA ___\n1) ALAMBERT, Francisco; CANHETE, Polyana. Bienais de São Paulo: da era do museu à era dos curadores. São Paulo: Boitempo, 2004.\n2) DEL CASTILLO, Sonia Salcedo. Arte de expor: curadoria como expoesis. Rio de Janeiro: Nau, 2015.\n3) OBRIST, Hans-Ulrich. Uma breve história da curadoria. São Paulo: Bei, 2008.\n4) OBRIST, Hans-Ulrich. Caminhos da curadoria. São Paulo: Cobogó, 2014.\n5) RAMOS, Alexandre Dias (org.). Sobre o ofício do curador. Porto Alegre: Zouk, 2010.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAR102",
+      "Nome": "Geometria Descritiva II",
+      "Créditos": "4.0",
+      "Teórica": "30",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Curvas em geral: classificações, estudo projetivo, curvas planas.Superfícies em geral: superfícies de revolução, representação pelas projeções de monge. Tratamento descritivo em problemas práticos.\n___Bibliografia Recomendada___\n1) BUSTAMANTE, Léa Santos. Metodologia dos Sistemas Projetivos. RJ . Ed Bahiense.\n2) _______________________. Transformações Projetivas. Sistemas Projetivos. RJ . Ed Bahiense.\n3) PINHEIRO, V. Athayde. Noções de Geometria Descritiva. V.I, II e III. RJ. Ao livro Técnico Ltda.\n4) RODRIGUES. Alvaro J. Geometria Descritiva. V II. RJ. Imprensa Nacional.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAR101"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAR481",
+      "Nome": "Ed Ambiental-preserv de Bens C",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Convenções adotadas (regulamentações de leis e procedimentos técnicos) para preservação de bens culturais, relacionados ao meio ambiente.\n___ BIBLIOGRAFIA RECOMENDADA ___\n1- LEI Nº9.605, DE 12 DE FEVEREIRO DE 1998 - Dispõe sobre as sanções penais e administrativas derivadas de condutas e atividades lesivas ao meio ambiente.\n2- DECRETO-LEI Nº 25, DE 30 DE NOVEMBRO DE 1937 - Organiza a proteção do patrimônio histórico e artístico nacional.\n3- INSTITUTO DO PATRIMÔNIO HISTÓRICO ARTÍSTICO NACIONAL. Cartas Patrimoniais. Brasília: IPHAN, 1995.\n4- Cadernos Técnicos IPHAN - publicações on line - http://portal.iphan.gov.br/- publicações.\n5- Manuais IPHAN - publicações on line - http://portal.iphan.gov.br/- publicações\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAW240",
+      "Nome": "Computação Gráfica nas Artes I",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introducao ao uso de computacao grafica nas artes com apresentacao: Paint Brush, Autocad, Slide Write, GFX, Doctor Hallo, Turbo Pascal (GRAPH Po). Reflexao sobre os fatores ergonomicos e sociologicos. Conhecimento e utilizacao das ferramentas de computacao grafica. Pratica de composicao, incentivo a criatvidade atraves do estimulo da pesquisa com utilizacao das ferramentas apresentadas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAF106",
+       "BAR120"
+      ],
+      "Tipo": "eletiva"
+     }
+    ]
+   },
+   "obrigatorias": 25,
+   "eletivas": 39,
+   "ano": "2022/1 a 9999/9"
+  }
+ ]
+}

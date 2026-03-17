@@ -1,0 +1,2779 @@
+{
+ "Ciênc Contábeis Ênf Contab Financeira": [
+  {
+   "materias": {
+    "1º Período": [
+     {
+      "Codigo": "ACC122",
+      "Nome": "Contabilidade I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceituação da Contabilidade. O patrimônio. Demonstrativos Financeiros. Método das partidas dobradas. Balancete de Verificação do Razão. Balanço Patrimonial. Regime de Contabilidade. Apuração de Resultados. Elaboração dos Relatórios Contábeis.\n___BIBLIOGRAFIA BÁSICA___\n1- QUINTANA. Alexandre Costa. Contabilidade Básica. São Paulo: Atlas, 2012.\n2- MARION. José Carlos. Contabilidade Básica. Ed. Atlas, 2010. (livro texto e de exercícios).\n3- EQUIPE DE PROFESSORES DA FEA/USP. Contabilidade Introdutória. Ed. Atlas,, 2010. (livro texto e de exercícios).\n4- ALMEIDA, Marcelo C. Curso de Contabilidade Introdutória em IFRS e CPC. São Paulo: Atlas, 2014.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "16:40 - 18:20",
+        "professor": "WILISON APARECIDO RODRIGUES SANTOS"
+       },
+       {
+        "dia": "Qui",
+        "hora": "16:40 - 18:20",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FCB116",
+      "Nome": "Sociologia Apl a Administracao",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Contexto histórico da sociologia.  A sociologia como ciência. Sociologia nos clássicos.  Interação, competição, cooperação e diferenciação social e controle social.  Sistema social e estrutura social.  Mudança e desenvolvimento.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 14:40",
+        "professor": "LUANA ALMEIDA MARTINS"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAC116",
+      "Nome": "Matemática I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Funções reais de uma variável real. Derivadas. Esboço de gráficos. Problemas de máximos e mínimos.\n___Bibliografia Básica___\n1- Matemática Aplicada à Administração e Economia.  S. T. Tan, 2ª ed, Thomsom Learning, 2007.\n2- Matemática Aplicada à Economia, Administração e Contabilidade. Afrânio C. Murolo e Giácomo A. Bonetto, Cengage learning, 2011.\n3- Introdução ao Cálculo para Administração, Economia e Contabilidade. Pedro A. Morettin, Samuel Hazzan e Wilton O. Bussab, Ed. Saraiva, 2009.\n4- Matemática Aplicada à Economia e Administração. L. Leithold. São Paulo: Harbra, 2001.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "18:30 - 20:10",
+        "professor": "JOSEPH DAVID BARROSO VASCONCELOS DE DEUS"
+       },
+       {
+        "dia": "Qua",
+        "hora": "18:30 - 20:10",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ACA111",
+      "Nome": "Administracao (CC)",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Definição de administração, elaboração de uma empresa; histórico da administração; papel da administração na responsabilidade social; a administração e os ambientes de negócios.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 14:40",
+        "professor": "CAMILA AVOSANI ZAGO"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 14:40",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ACCX01",
+      "Nome": "Atividades Complementares",
+      "Créditos": "8.0",
+      "Teórica": "120",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Atividade de Pesquisa; Participação em Seminários e Congressos;\nCursos Oferecidos por Instituições Reconhecidas pelo Departamento de Contabilidade; Monitoria; LMSC - Projetos de Consultoria.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IEE112",
+      "Nome": "Macroeconomia (CC)",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução à análise macroeconomica. Sistema econômico. Repartição de renda. Formulação de política econômica. Relações econômicas internacionais.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "2º Período": [
+     {
+      "Codigo": "ACC212",
+      "Nome": "Contabilidade II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Despesas incidentes sobre a Receita Operacional Bruta. Operações com mercadorias. Inventário permanente x Inventário periódico. Apuração dos custos. Folha de pagamentos. descontos condicionais x Descontos incondicionais. operações financeiras. Depreciação. Estrutura da Demonstração do Resultado e do Balanço Patrimonial. Legislação e normas aplicáveis (IR e CSLL). Notas explicativas.\n___BIBLIOGRAFIA BÁSICA___\n1- ANDRADE, E. M. Contabilidade comercial. Editora Campus.\n2- Comitê de Pronunciamentos Contábeis - CPCs.\n3- Equipe de Professores da FEA/USP. Contabilidade introdutória. São Paulo: Atlas, 2010. (livro texto e de exercícios).\n4- LUDICIBUS, S. & MARION, J.C. Contabilidade Comercial. São Paulo: Atlas, 2016.\n5-  LUDICIBUS, S. Manual de contabilidade societária. São Paulo: Atlas, 2010.\n6- MARION, J. Contabilidade empresarial. São Paulo: Atlas, 2010. (livro texto e de exercícios).\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "14:50 - 16:30",
+        "professor": "JAZMIN FIGARI DE LA CUEVA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "14:50 - 16:30",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "ACC122"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ACC631",
+      "Nome": "Teoria das Organizacoes",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceito de organizacao. Diferentes escolas. Relacoes humanas. Escola behaviorista. Teoria geral de sistemas. Administracao por projetos, administracao por objetivos, administracao contingencial, administracao por matrizes.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "18:30 - 20:10",
+        "professor": "FERNANDA FILGUEIRAS SAUERBRONN"
+       },
+       {
+        "dia": "Qua",
+        "hora": "18:30 - 20:10",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "ACA111"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAC126",
+      "Nome": "Matemática II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Integração de funções de uma variável real. O espaço tridimensional. Funções reais de mais de uma variável. Máximos e mínimos de Funções de mais de uma variável.\n___ BIBLIOGRAFIA BÁSICA___\n1- Matemática Aplicada à Administração e Economia.  S. T. Tan, 2ª ed, Thomsom Learning, 2007.\n2- Matemática Aplicada à Economia, Administração e Contabilidade. Afrânio C. Murolo e Giácomo A. Bonetto, Cengage learning, 2011.\n3- Introdução ao Cálculo para Administração, Economia e Contabilidade. Pedro A. Morettin, Samuel Hazzan e Wilton O. Bussab, Ed. Saraiva, 2009.\n4- Matemática Aplicada à Economia e Administração. L. Leithold. São Paulo: Harbra, 2001.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "14:50 - 16:30",
+        "professor": "CARLOS DIOSDADO ESPINOZA PENAFIEL"
+       },
+       {
+        "dia": "Qui",
+        "hora": "14:50 - 16:30",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MAC116"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ACC123",
+      "Nome": "Filosofia das Organizações",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Noções de teoria do conhecimento; noções de filosofia da ciência e da técnica; os conceitos de explicação e compreensão; hermenêutica e crítica de ideologias; racionalidade técnica e práticas administrativas; racionalidade comunicativa, teoria da argumentação e práticas administrativas. A filosofia brasileira: origens e perspectivas, causas eminentes à cultura nacional, a ideia de uma civilização brasileira inter-racial.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ACA111"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ACC232",
+      "Nome": "Inst Direito Apl Contabilidade",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A importância do estudo do direito. O direito público e privado. O Objeto dos direitos. Fato e Ato Jurídico. Direito das Obrigações. Contratos. Direito das Coisas, de Família e das Sucessões.\n___BIBLIOGRAFIA BÁSICA___\n1- REALE, Miguel. Lições Preliminares de Direito. Ed. Saraiva, 2009.\n2- RODRIGUES, Silvio. Direito Civil. Ed. Saraiva, 2007.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "20:20 - 22:00",
+        "professor": "DAVID FRANCISCO DE FARIA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "20:20 - 22:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IEE127",
+      "Nome": "Microeconomia (CC)",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Teoria neo-classica e teoria economica. Teoria do consumidor. Teoria da producao. Teoria dos custos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "14:50 - 16:30",
+        "professor": "MARTA CALMON LEMME"
+       },
+       {
+        "dia": "Qua",
+        "hora": "14:50 - 16:30",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "IEE112"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "3º Período": [
+     {
+      "Codigo": "ACC233",
+      "Nome": "Comportamento Organizacional",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Comportamento Organizacional: conceito, ética e diversidade nas organizações. Valores e atitudes. Personalidades e emoções. Percepção, decisão e Criatividade. satisfação e motivação no trabalho. Dinâmica e comportamento em grupo. Equipes de Trabalho. Liderança. Poder. Conflito e Negociação. processo de Comunicação. Estresse no Trabalho. Políticas e Práticas de Recursos Humanos. Clima Organizacional.\n___BIBLIOGRAFIA BÁSICA___\n1- ROBBINS, S.; SOBRAL, F.  Comportamento organizacional: Teoria e prática no contexto brasileiro. 14 ed. São Paulo: Pearson, 2011.\n2- WAGNER, III.; HOLLENBECK, J. Comportamento Organizacional. São Paulo: saraiva, 2009.\n3- VECCHIO, R. Comportamento organizacional. São Paulo: Cengage Learning, 2008.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "16:40 - 18:20",
+        "professor": "MONICA VISCONTI DE MELO"
+       },
+       {
+        "dia": "Qua",
+        "hora": "16:40 - 18:20",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "ACA111"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ACC352",
+      "Nome": "Legislação Comercial",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Legislação empresarial. Empresário individual e sociedades. Atos e fatos jurídicos. Tipos de sociedades. Constituição, dissolução, liquidação, falência e recuperação de empresas. Governança corporativa. Títulos de créditos.\n___BIBLIOGRAFIA BÁSICA___\n1- CAMPINHO, Sérgio. O Direito de Empresa à luz do Código Civil. Renovar, 2014.\n2- CAMPINHO, Sérgio. Falência e Recuperação de Empresas. Renovar, 2015.\n3- COELHO, Fábio Ulhoa. Manual de Direito Comercial - Direito de Empresa. Saraiva, 2016.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "18:30 - 20:10",
+        "professor": "NIVEA CORCINO LOCATELLI BRAGA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "18:30 - 20:10",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "ACC232"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAD235",
+      "Nome": "Estatistica I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução à estatística. Inferência estatística. Distribuições amostrais. Probabilidade e distribuições. Testes de hipóteses. Estimação.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "18:30 - 20:10",
+        "professor": "CARLOS EDUARDO SILVA TEIXEIRA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "18:30 - 20:10",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MAC126"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ACC230",
+      "Nome": "Contabilidade Intermediaria",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Classificacao das Demonstrações Contábeis segundo a lelislacao. Passivo e Variacoes Monetárias. Provisões. Patrimônio Lìquido. Demonstracao de Lucros ou Prejuízos Acumulados e Mutacões do Patrimônio Líquido e Demonstrações das Origens e Aplicações das recursos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ACC210"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ACC321",
+      "Nome": "Contabilidade de Custos I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Objetivos da Contabilidade de Custos. Custeio por Absorção. Conceitos básicos em custo. Departamentalização. Sistema de Acumulação de Cusstos - Produção Contínua e Produção por Ordem.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ACC212"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IEE311",
+      "Nome": "Economia Brasileira",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Industrializacao e crescimento: 1945/62. Recessao 1963/67. Crescimento acelerado. O ciclo expansivo. A crise externa. A recuperacao. A crise da inflacao descontrolada. A questao da divida externa.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 14:40",
+        "professor": "WENDER DE OLIVEIRA DUTRA DA SILVA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 14:40",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "IEE127"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "4º Período": [
+     {
+      "Codigo": "ACC242",
+      "Nome": "Relações Trabalhistas",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Definição fundamentos doutrinários. Relação jurídica do emprego. Contrato de trabalho. Regulamentação do trabalho. Noções de direito coletivo do trabalho. Previdência social. Aspectos práticos da legislação trabalhista. Aspectos práticos da legislação previdenciária.\n___BIBLIOGRAFIA BÁSICA___\n1- ROMITA, Arion Sayão. Direito do trabalho. Ed. Freitas Bastos, 1975.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "20:20 - 22:00",
+        "professor": "NIVEA CORCINO LOCATELLI BRAGA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "20:20 - 22:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "ACC232"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ACC415",
+      "Nome": "Simulação Empresarial",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Definicao de comercio. Formalizacao de empresas. Sistemas de comercializacao. Comunicacao comercial, qualidade, marca, patente. Comercio exterior.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "18:30 - 20:10",
+        "professor": "JONATHAS COELHO QUEIROZ DA SILVA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "18:30 - 20:10",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "ACC230"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ACC240",
+      "Nome": "Contabilidade Avancada",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Investimentos societários e equivalencia patrimonial. Resultado de exercícios futuros. Patrimônio líquido. Partes relacionadas e beneficiárias. Demonstrações financeiras e notas explicativas: balanço, resultado, mutações do patrimônio líquido, origens e aplicações de recursos e fluxo de caixa. Restruturação societária.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ACC230"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ACC412",
+      "Nome": "Contabilidade de Custos II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceito de margem de contribuição. Produtos Conjuntos e Subprodutos. Custeio variável. Análise da relação custo-volume-lucro. Ponto de Equilíbrio. Cálculo e Análise de varîâncias. Custo Padrão.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "16:40 - 18:20",
+        "professor": "CARLA MACEDO VELLOSO DOS SANTOS"
+       },
+       {
+        "dia": "Qua",
+        "hora": "16:40 - 18:20",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "ACC321"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAD245",
+      "Nome": "Estatistica II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Regressão simples. Violações dos pressupostos básicos. Estimação com dados deficientes. Regressão múltipla. Formulação e estimação de moidelos especiais. Sistemas de equações múltiplas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "16:40 - 18:20",
+        "professor": "LEANDRO PINTO RODRIGUES PIMENTEL"
+       },
+       {
+        "dia": "Qui",
+        "hora": "16:40 - 18:20",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MAD235"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "5º Período": [
+     {
+      "Codigo": "ACC350",
+      "Nome": "Teoria da Contabilidade",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ACC240"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ACC605",
+      "Nome": "Contabilidade Governamental",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Fundamentos da contabilidade publica. Gestao orçamentaria, financeira e patimonial. Consolidação das contas. Demonstracões orcamentárias e contábeis. Prestação de contas. Objetivos e metodologias da contabilidade. Os princípios fundamentais da contabilidade. Avaliação de ativo e passivo. Perspectiva e tendências da Teoria da Contabilidade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ACC240"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ACC241",
+      "Nome": "Matemática Financeira",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Valor do dinheiro no tempo. Juros. Equivalência financeira e operações de descontos. Retorno do investimento. Inflação e taxa de juros. Regimes de apropriação do juro. O conceito de capitalização. Operações de financiamento.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MAC126"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ACC480",
+      "Nome": "Auditoria I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Fundamentos de Auditoria, O profissional de Auditoria, Controle Interno, Papéis de Trabalho, Procedimentos de Auditoria, Parecer dos Auditores, Auditoria do Ativo circulante e Auditoria do Passivo circulante.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ACC240"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ACC641",
+      "Nome": "Pericia Contabil",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O uso da Contabilidade como ferramenta em decisões judiciais. Requisitos para a prática da perícia contábil. Avaliação patrimonial de entidades. Planejamento e controle de procedimentos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ACC240"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "6º Período": [
+     {
+      "Codigo": "ACC606",
+      "Nome": "Métodos Téc Pesq Contabilidade",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Caracterização da pesquisa em contabilidade, construção de um trabalho monográfico em contabilidade, metodologia da pesquisa aplicada à ciência social, formulação de hipóteses e caracterização de variáveis em pesquisa contábil, coleta, análise e interpretação dos dados. Apresentação e estrutura (ABNT).\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "16:40 - 18:20",
+        "professor": "MONICA ZAIDAN GOMES"
+       },
+       {
+        "dia": "Qui",
+        "hora": "16:40 - 18:20",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "7º Período": [
+     {
+      "Codigo": "ACC701",
+      "Nome": "Seminário- Projeto de Pesquisa",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Elaboração de um projeto de pesquisa. Definição do tema do Projeto de Monografia. Discussão do Projeto. Construção do Projeto de Monografia.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ACC606"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "8º Período": [
+     {
+      "Codigo": "ACCK01",
+      "Nome": "Monografia",
+      "Créditos": "12.0",
+      "Teórica": "180",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Permitir ao discente a elasboração de trabalhos que possibilitem centrar esforços para o desenvolvimento da percepção, da reflexão e do potencial criativo, todavia deverá optar por tema pertinentes as linhas de pesquisas existentes no curso.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ACC701"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "9º Período": [],
+    "Disciplinas Optativas (Escolha Restrita)": [
+     {
+      "Codigo": "ACC002",
+      "Nome": "Contabilidade Internacional",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Organismos internacionais de contabilidade, FASB, IASB e IOSCO, ONU e as práticas contábeis, estrutura normativa do FASB, SFAC, SFAS, FIN, GASB, estrutura normativa do IASB, IAS e IFSR, princípios contabilidade internacionais, diferenças entre práticas contábeis internacionais.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "18:30 - 20:10",
+        "professor": "ALINI DA SILVA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "18:30 - 20:10",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "ACC363"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ACC361",
+      "Nome": "Análise Econômico-financeira",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Os objetivos da análise. Análise das estruturas patrimonial e operacional. Técnicas de análise. Grau de alavancagem financeira. Limitações das demonstrações financeiras. Perspectivas econômicas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ACC240"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ACC603",
+      "Nome": "Contabilidade Fiscal",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Exercicio financeiro e periodo base. Conceitos de lucros para fins do imposto de renda. Contabilizacao de impostos federais, estaduais e municipais.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ACC240",
+       "IUS310"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ACA471",
+      "Nome": "Administracao Financeira (CC)",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Analise financeira. Planejamento de caixa. Integracao do planejamento financeiro de curto-prazo com o orcamento. Payback. Integracao com o orcamento de capital e com a analise de investimentos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ACC240",
+       "ACC241"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ACC003",
+      "Nome": "Combinação de Negócios",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Avaliação de investimentos societários, métodos da equivalência patrimonial e do custo, consolidação das demonstrações contábeis, etapas do processo de consolidação, lucros realizados e não realizados, fusões, incorporações e cisões, práticas contábeis inerentes a fusão e incorporação, ágio e deságio nas combinações de negócios, amortização do ágio e deságio, normas legais e fiscais, aproveitamento do ágio, extinções e liquidações de sociedades.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ACC244"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ACC363",
+      "Nome": "Aval Patr, Flut Preço e Câmbio",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Critérios de avaliação patrimonial, valores de entrada e saída, valor justo e outras metodologias, criação de valor contábil, reconhecimento dos efeitos das variações de preços, correção monetária integral, custo corrente de reposição, efeitos das flutuações nas taxas de juros e de câmbio, avaliação patrimonial de ativos de setores específicos de negócios.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ACC350"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IUS310",
+      "Nome": "Legislação Tributária",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Fontes de Diário Tributário. Sistema Tributário Nacional. Impostos federais, estaduais e municipais. Contribuições parafiscais. Autuações fiscais e mecanismos de defesa do contribuinte.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ACC232"
+      ],
+      "Tipo": "eletiva"
+     }
+    ],
+    "Disciplinas Optativas (Escolha Condicionada)": [
+     {
+      "Codigo": "ACC004",
+      "Nome": "Análise Balanço Governamentais",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Objetivo da análise de balanços. Avaliação técnica do conteúdo dos balanços. Indicadores administrativos e financeiros. Indicadores Econômicos. Indicadores Sociais. Relatório da análise.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ACC005"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ACC006",
+      "Nome": "Ética Profissional",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O objetivo, conceito e campo da ética. Fontes das normas éticas. Comportamento ético. Código de ética profissional. Atuação do profissional e os padrões de qualidade. Atributos de um bom profissional da contabilidade. Os conselhos reguladores da profissão.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ACC008",
+      "Nome": "Mercado Mobiliário",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceitos fundamentais; conceituação básica do mercado de capitais e governança corporativa. Lei 10.303/01. Procedimentos de abertura e fechamento de capital. Emissões de valores mobiliários: ações, debêntures e ADR. Estrutura básica das operações que envolvem: cisão, fusão e incorporação de empresas. Características das operações sobre mercado de operações e futuros.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ACA471"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ACC112",
+      "Nome": "Informática Básica",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O microcomputador. O sistema operacional. Editor de textos. Planilhas eletrônicas. Informática aplicada à contabilidade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ACC601",
+      "Nome": "Aspect Contáb Inst Financeiras",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Histórico da Moeda. Evolução do sistema Financeiro Nacional. A Estrutura e as Características das Instituições Financeiras, dos Investidores Institucionais e das Auioridades do SFN. O Sistema Financeiro da Habitação. A política econômico-governamental: monetária, cambial, fiscal e de rendas, correlacionadas com mecanismos das instituições financeiras em cada um desses segmentos. A prática de alguns desses Mecanismos. O Mercado de Ações.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ACC240"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ACC612",
+      "Nome": "Orçamento Governamental",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Orçamento: conceitos e objetivos. Funções orçamentarias. Sistema de informações orçamentarias. Elaboração do orçamento.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ACC001"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ACC623",
+      "Nome": "Auditoria Governamental",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Funções da auditoria governamental. Revisão do processo de gestão orçamentária, patrimonial e financeira. Tipos de auditoria governamental. Planejamento da auditoria. Normas de auditoria. Procedimentos de auditoria. Relatório, parecer e certificado de auditoria.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ACC605"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ACC636",
+      "Nome": "Informat Aplic à Contabilidade",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Ambiente computadorizado de grande porte. Linguagens de computador. Desenho de sistemas computadorizados aplicados à contabilidade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ACC638",
+      "Nome": "Contabilidade Socioambiental",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Histórico da Moeda. Conceitos sobre o meio ambiente e métodos de avaliação. Gestão ambiental. Mensuração contábil e sistema de informação. Relatório Social. Balanço Social.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "16:40 - 18:20",
+        "professor": "ARACELI CRISTINA DE SOUSA FERREIRA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "16:40 - 18:20",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "ACC350"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ACC001",
+      "Nome": "Planejamento Governamental",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Legislação aplicável ao planejamento governamental. A missão do estado. Plano Plurianual. Diretrizes Orçamentárias. Programação. Orçamento.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ACC412",
+       "ACC605"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ACC005",
+      "Nome": "Contabilidade Gov Avançada",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceito e objetivo. Déficit e Superávit Financeiro e Econômico. Avaliação de Resultados. Riscos Fiscais. Ativos e Passivos Contingenciais. Despesas de Exercícios Anteriores. Parcerias conveniadas e contratadas. Contabilidade por área de responsabilidade. Contabilidade de transações intrernacionais. Contabilidade da dívida pública. Contabilidade dos investimentos em infra-estrutura.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ACC605"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ACC007",
+      "Nome": "Gestão de Serviços",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Perfil e relacionamento com clientes: cliente externo e interno. Processos e pessoas nas organizações. princípios de atendimento em serviços. serviços padronizados e serviços \"sob medida\".Indicadores de qualidade na prestação de serviços. Características dos serviços: gestão das filas de clientes em serviços. Gestão dos recursos humanos em organizações de serviços.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "20:20 - 22:00",
+        "professor": "MONICA ZAIDAN GOMES"
+       },
+       {
+        "dia": "Qui",
+        "hora": "20:20 - 22:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "ACC633"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ACC009",
+      "Nome": "Comunicação Empresarial",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Comunicando com Qualidade. Como controlar a qunatidade de informações a serem prestadas. Como deixar claro as ações que se quer que o leitor desencadeie. Como preservar a cortesia nas relações com o leitor. Organizando o texto: como tirar o máximo proveito de técnicas estruturais de produção de textos; como manter o fluxo de informações para resolução de problemas corporativos; como alcançar o máximo de legibilidade na interação com o leitor. Como contornar situações de conflito em atendimentos difíceis. Como evitar redundâncias, prolixidade, descortesia e repetição viciosa de palavras. Como evitar os erros gramaticais mais comuns que ocorrem no dia-a-dia do profissional. Vícios de Linguagem.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ACC413",
+      "Nome": "Aspect Contáb Empr Seguradoras",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceitos Fundamentais; Seguro; Co-seguro e Re-segu-ro; Sinistro, Prêmios Salvados e Ressalvados, Indenização; Sistema Nacional de Seguros; Normas e Legislação de Seguros; Mercado Internacional de Seguros.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "18:30 - 22:00",
+        "professor": "JANAINA DA SILVA FERREIRA"
+       }
+      ],
+      "Requisitos": [
+       "ACC240"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ACC602",
+      "Nome": "Gestão Tecnologia e Inovação",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Território da gestão da tecnologia (Getec); temas prioritários; concepções alternativas do processo de inovação tecnológica; sistemas nacionais de ciência e tecnologia (exterior e Brasil); papel do Estado na inovação tecnológica; estratégia tecnológica de empresa: formulação e gestão; avaliação em ciência e tecnologia.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "20:20 - 22:00",
+        "professor": "PIERRE OHAYON"
+       },
+       {
+        "dia": "Qui",
+        "hora": "20:20 - 22:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "ACA111"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ACC621",
+      "Nome": "Auditoria II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Responsabilidade social, auditoria dos relatórios sociais, planejamento da auditoria, revisão analítica, auditoria do ativo permanente, auditoria do patrimônio líquido e auditoria de itens diversos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "20:20 - 22:00",
+        "professor": "ANDERSON MONTEIRO DE ANDRADE"
+       },
+       {
+        "dia": "Qui",
+        "hora": "20:20 - 22:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "ACC480"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ACC632",
+      "Nome": "Analise de Investimento",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceitos basicos. Orcamentos de capital. Tecnicas de analise. Avaliacao de investimentos sob condicoes de risco. Selecao de investimentos. Diversificacao de investimentos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "20:20 - 22:00",
+        "professor": "CARLOS ANDERSON DE MOURA ROSA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "20:20 - 22:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "ACA471"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ACC637",
+      "Nome": "Métodos Quantit Aplic à Contab",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Aplicações ao processo decisório, à análise da relação custo-volume-lucro, à otimização dos recursos, à otimização dos estoques, à teoria da decisão: Programação Linear. Transportes e Designação. FRluxos em Redes. Aplicações computacionais.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ACC241"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEB599",
+      "Nome": "Est da Líng Bras de Sinais I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Nomes próprios; pronomes pessoais; demonstrativos; possessivos; locativos em sentenças simples do tipo pergunta-resposta com \"o que\" e \"quem\" e outros vocábulos básicos; numerais; quantidade; topicalização; flexão verbal; flexão de negação; expressões faciais e corporais; percepção visual; conversação; diálogos; textos: LIBRAS, cultura e comunidade surda.\n",
+       "BibliografiaBasica": "1) BRITO, L. F. Por uma gramática de língua de sinais. Rio de Janeiro: Tempo Brasileiro, 1995.\n2) FELIPE, T.; MONTEIRO, M. S. LIBRAS em contexto. Curso Básico. Brasília: Ministério da Educação e do Desporto/Secretaria de Educação Especial, 2001.\n3) GESSER, A. Libras - Que língua é essa? Crença e preconceitos em torno da língua de sinais e da realidade surda. Florianópolis: Parábola, 2009.\n4) STROBEL, K. L. As imagens do outro sobre a cultura surda. Florianópolis: EdUFSC, 2008.\n",
+       "BibliografiaComplementar": "1) PIMENTA, Nelson e QUADROS, Ronice Muller. Curso de Libras I, LSB Vídeo, volume I, Iniciante, 2006 e 3a ed., 2008.\n2) Dicionário Enciclopédico Ilustrado Triíngue da Língua de Sinais Brasileira ? vol 1 e vol. 2 Site: www.acessobrasil.org.brasil\n3) Dicionário da Língua Brasileira de Sinais, INES, versão, 2.0, ano 2006.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     }
+    ]
+   },
+   "obrigatorias": 31,
+   "eletivas": 26,
+   "ano": "2007/1 a 2008/2"
+  },
+  {
+   "materias": {
+    "1º Período": [
+     {
+      "Codigo": "ACC122",
+      "Nome": "Contabilidade I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceituação da Contabilidade. O patrimônio. Demonstrativos Financeiros. Método das partidas dobradas. Balancete de Verificação do Razão. Balanço Patrimonial. Regime de Contabilidade. Apuração de Resultados. Elaboração dos Relatórios Contábeis.\n___BIBLIOGRAFIA BÁSICA___\n1- QUINTANA. Alexandre Costa. Contabilidade Básica. São Paulo: Atlas, 2012.\n2- MARION. José Carlos. Contabilidade Básica. Ed. Atlas, 2010. (livro texto e de exercícios).\n3- EQUIPE DE PROFESSORES DA FEA/USP. Contabilidade Introdutória. Ed. Atlas,, 2010. (livro texto e de exercícios).\n4- ALMEIDA, Marcelo C. Curso de Contabilidade Introdutória em IFRS e CPC. São Paulo: Atlas, 2014.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "16:40 - 18:20",
+        "professor": "WILISON APARECIDO RODRIGUES SANTOS"
+       },
+       {
+        "dia": "Qui",
+        "hora": "16:40 - 18:20",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FCB116",
+      "Nome": "Sociologia Apl a Administracao",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Contexto histórico da sociologia.  A sociologia como ciência. Sociologia nos clássicos.  Interação, competição, cooperação e diferenciação social e controle social.  Sistema social e estrutura social.  Mudança e desenvolvimento.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 14:40",
+        "professor": "LUANA ALMEIDA MARTINS"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAC116",
+      "Nome": "Matemática I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Funções reais de uma variável real. Derivadas. Esboço de gráficos. Problemas de máximos e mínimos.\n___Bibliografia Básica___\n1- Matemática Aplicada à Administração e Economia.  S. T. Tan, 2ª ed, Thomsom Learning, 2007.\n2- Matemática Aplicada à Economia, Administração e Contabilidade. Afrânio C. Murolo e Giácomo A. Bonetto, Cengage learning, 2011.\n3- Introdução ao Cálculo para Administração, Economia e Contabilidade. Pedro A. Morettin, Samuel Hazzan e Wilton O. Bussab, Ed. Saraiva, 2009.\n4- Matemática Aplicada à Economia e Administração. L. Leithold. São Paulo: Harbra, 2001.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "18:30 - 20:10",
+        "professor": "JOSEPH DAVID BARROSO VASCONCELOS DE DEUS"
+       },
+       {
+        "dia": "Qua",
+        "hora": "18:30 - 20:10",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ACA111",
+      "Nome": "Administracao (CC)",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Definição de administração, elaboração de uma empresa; histórico da administração; papel da administração na responsabilidade social; a administração e os ambientes de negócios.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 14:40",
+        "professor": "CAMILA AVOSANI ZAGO"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 14:40",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ACCX01",
+      "Nome": "Atividades Complementares",
+      "Créditos": "8.0",
+      "Teórica": "120",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Atividade de Pesquisa; Participação em Seminários e Congressos;\nCursos Oferecidos por Instituições Reconhecidas pelo Departamento de Contabilidade; Monitoria; LMSC - Projetos de Consultoria.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IEE112",
+      "Nome": "Macroeconomia (CC)",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução à análise macroeconomica. Sistema econômico. Repartição de renda. Formulação de política econômica. Relações econômicas internacionais.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "2º Período": [
+     {
+      "Codigo": "ACC212",
+      "Nome": "Contabilidade II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Despesas incidentes sobre a Receita Operacional Bruta. Operações com mercadorias. Inventário permanente x Inventário periódico. Apuração dos custos. Folha de pagamentos. descontos condicionais x Descontos incondicionais. operações financeiras. Depreciação. Estrutura da Demonstração do Resultado e do Balanço Patrimonial. Legislação e normas aplicáveis (IR e CSLL). Notas explicativas.\n___BIBLIOGRAFIA BÁSICA___\n1- ANDRADE, E. M. Contabilidade comercial. Editora Campus.\n2- Comitê de Pronunciamentos Contábeis - CPCs.\n3- Equipe de Professores da FEA/USP. Contabilidade introdutória. São Paulo: Atlas, 2010. (livro texto e de exercícios).\n4- LUDICIBUS, S. & MARION, J.C. Contabilidade Comercial. São Paulo: Atlas, 2016.\n5-  LUDICIBUS, S. Manual de contabilidade societária. São Paulo: Atlas, 2010.\n6- MARION, J. Contabilidade empresarial. São Paulo: Atlas, 2010. (livro texto e de exercícios).\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "14:50 - 16:30",
+        "professor": "JAZMIN FIGARI DE LA CUEVA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "14:50 - 16:30",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "ACC122"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ACC631",
+      "Nome": "Teoria das Organizacoes",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceito de organizacao. Diferentes escolas. Relacoes humanas. Escola behaviorista. Teoria geral de sistemas. Administracao por projetos, administracao por objetivos, administracao contingencial, administracao por matrizes.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "18:30 - 20:10",
+        "professor": "FERNANDA FILGUEIRAS SAUERBRONN"
+       },
+       {
+        "dia": "Qua",
+        "hora": "18:30 - 20:10",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "ACA111"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAC126",
+      "Nome": "Matemática II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Integração de funções de uma variável real. O espaço tridimensional. Funções reais de mais de uma variável. Máximos e mínimos de Funções de mais de uma variável.\n___ BIBLIOGRAFIA BÁSICA___\n1- Matemática Aplicada à Administração e Economia.  S. T. Tan, 2ª ed, Thomsom Learning, 2007.\n2- Matemática Aplicada à Economia, Administração e Contabilidade. Afrânio C. Murolo e Giácomo A. Bonetto, Cengage learning, 2011.\n3- Introdução ao Cálculo para Administração, Economia e Contabilidade. Pedro A. Morettin, Samuel Hazzan e Wilton O. Bussab, Ed. Saraiva, 2009.\n4- Matemática Aplicada à Economia e Administração. L. Leithold. São Paulo: Harbra, 2001.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "14:50 - 16:30",
+        "professor": "CARLOS DIOSDADO ESPINOZA PENAFIEL"
+       },
+       {
+        "dia": "Qui",
+        "hora": "14:50 - 16:30",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MAC116"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ACC123",
+      "Nome": "Filosofia das Organizações",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Noções de teoria do conhecimento; noções de filosofia da ciência e da técnica; os conceitos de explicação e compreensão; hermenêutica e crítica de ideologias; racionalidade técnica e práticas administrativas; racionalidade comunicativa, teoria da argumentação e práticas administrativas. A filosofia brasileira: origens e perspectivas, causas eminentes à cultura nacional, a ideia de uma civilização brasileira inter-racial.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ACA111"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ACC232",
+      "Nome": "Inst Direito Apl Contabilidade",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A importância do estudo do direito. O direito público e privado. O Objeto dos direitos. Fato e Ato Jurídico. Direito das Obrigações. Contratos. Direito das Coisas, de Família e das Sucessões.\n___BIBLIOGRAFIA BÁSICA___\n1- REALE, Miguel. Lições Preliminares de Direito. Ed. Saraiva, 2009.\n2- RODRIGUES, Silvio. Direito Civil. Ed. Saraiva, 2007.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "20:20 - 22:00",
+        "professor": "DAVID FRANCISCO DE FARIA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "20:20 - 22:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IEE127",
+      "Nome": "Microeconomia (CC)",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Teoria neo-clássica e teoria econômica. Teoria do consumidor. Teoria da produção. Teoria dos custos.\n___BIBLIOGRAFIA BÁSICA___\n1) VARIAN, Hal. R. Microeconomia - Princípios Básicos - Uma Abordagem Moderna. Rio de Janeiro: Editora Campus. 7ª ed., 2006.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) VASCONCELLOS, Marco Antonio S. Economia - Micro e Macro. São Paulo: Editora Atlas. 4ª ed., 2006.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "14:50 - 16:30",
+        "professor": "MARTA CALMON LEMME"
+       },
+       {
+        "dia": "Qua",
+        "hora": "14:50 - 16:30",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "3º Período": [
+     {
+      "Codigo": "ACC233",
+      "Nome": "Comportamento Organizacional",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Comportamento Organizacional: conceito, ética e diversidade nas organizações. Valores e atitudes. Personalidades e emoções. Percepção, decisão e Criatividade. satisfação e motivação no trabalho. Dinâmica e comportamento em grupo. Equipes de Trabalho. Liderança. Poder. Conflito e Negociação. processo de Comunicação. Estresse no Trabalho. Políticas e Práticas de Recursos Humanos. Clima Organizacional.\n___BIBLIOGRAFIA BÁSICA___\n1- ROBBINS, S.; SOBRAL, F.  Comportamento organizacional: Teoria e prática no contexto brasileiro. 14 ed. São Paulo: Pearson, 2011.\n2- WAGNER, III.; HOLLENBECK, J. Comportamento Organizacional. São Paulo: saraiva, 2009.\n3- VECCHIO, R. Comportamento organizacional. São Paulo: Cengage Learning, 2008.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "16:40 - 18:20",
+        "professor": "MONICA VISCONTI DE MELO"
+       },
+       {
+        "dia": "Qua",
+        "hora": "16:40 - 18:20",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "ACA111"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ACC352",
+      "Nome": "Legislação Comercial",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Legislação empresarial. Empresário individual e sociedades. Atos e fatos jurídicos. Tipos de sociedades. Constituição, dissolução, liquidação, falência e recuperação de empresas. Governança corporativa. Títulos de créditos.\n___BIBLIOGRAFIA BÁSICA___\n1- CAMPINHO, Sérgio. O Direito de Empresa à luz do Código Civil. Renovar, 2014.\n2- CAMPINHO, Sérgio. Falência e Recuperação de Empresas. Renovar, 2015.\n3- COELHO, Fábio Ulhoa. Manual de Direito Comercial - Direito de Empresa. Saraiva, 2016.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "18:30 - 20:10",
+        "professor": "NIVEA CORCINO LOCATELLI BRAGA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "18:30 - 20:10",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "ACC232"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAD235",
+      "Nome": "Estatistica I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução à estatística. Inferência estatística. Distribuições amostrais. Probabilidade e distribuições. Testes de hipóteses. Estimação.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "18:30 - 20:10",
+        "professor": "CARLOS EDUARDO SILVA TEIXEIRA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "18:30 - 20:10",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MAC126"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ACC230",
+      "Nome": "Contabilidade Intermediária",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Escultura conceitual: Ativo, Passivo, Receitas, Despesas, Ganhos e Perdas. Demonstração das Mutações do Patrimônio Líquido. Demonstração do Fluxo de Caixa. Demonstração do Valor Adicionado. Reconhecimento e Mensuração das Receitas e dos gastos relacionados. Contas retificadoras de Ativo e Passivo. Lucro contábil e fiscal.\n___BIBLIOGRAFIA BÁSICA___\n1- FERREIRA,  Ricardo J. Contabilidade Básica. Rio de Janeiro: Editora Ferreira, 2015.\n2- LUDICIBUS, Sergio de; MARTINS, Eliseu & GELBCKE, Ernesto R. Manual de Contabilidade Societária. São Paulo: Atlas, 2013.\n3- VIEIRA, Carlos.; LIMEIRA, André L.F.; SILVA, Carlos A.S; SILVA, Raimundo N.S. Gestão Contábil e Financeira. Rio de Janeiro. FGV, 2012.\n4- SÁ, A. Lopes de & SÁ, A.M. Lopes de. Dicionário de Contabilidade. São Paulo: Atlas.\n5- COMITE DE PRONUNCIAMENTOS CONTÁBEIS. Pronunciamentos do CPC que serão utilizados dentro dos objetivos específicos dos conteúdos: CPC 00 (R1); CPC 03 (R2); CPC 09 (R2); CPC 26 (R1); CPC 30 (R1).\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ACC210"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ACC321",
+      "Nome": "Contabilidade de Custos I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceitos básicos em custo. Objetivos da Contabilidade de custos. Custeio por absorção. Departamentalização. Sistema de Acumulação de Custos - Produção Contínua e Produção por Ordem.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ACC212"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IEE311",
+      "Nome": "Economia Brasileira",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Industrializacao e crescimento: 1945/62. Recessao 1963/67. Crescimento acelerado. O ciclo expansivo. A crise externa. A recuperacao. A crise da inflacao descontrolada. A questao da divida externa.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 14:40",
+        "professor": "WENDER DE OLIVEIRA DUTRA DA SILVA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 14:40",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "IEE127"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "4º Período": [
+     {
+      "Codigo": "ACC242",
+      "Nome": "Relações Trabalhistas",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Definição fundamentos doutrinários. Relação jurídica do emprego. Contrato de trabalho. Regulamentação do trabalho. Noções de direito coletivo do trabalho. Previdência social. Aspectos práticos da legislação trabalhista. Aspectos práticos da legislação previdenciária.\n___BIBLIOGRAFIA BÁSICA___\n1- ROMITA, Arion Sayão. Direito do trabalho. Ed. Freitas Bastos, 1975.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "20:20 - 22:00",
+        "professor": "NIVEA CORCINO LOCATELLI BRAGA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "20:20 - 22:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "ACC232"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ACC415",
+      "Nome": "Simulação Empresarial - Ext",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenvolvimento de atividade de extensão junto a comunidades, utilizando definição de comércio, sistemas de comercialização, marca, patente e comunicação comercial, possibilitando simulações de cunho para orientação das comunidades, inserindo a participação dos discentes do Curso de Ciências Contábeis e proporcionando o conhecimento de tais simulações comerciais a sociedade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "18:30 - 20:10",
+        "professor": "JONATHAS COELHO QUEIROZ DA SILVA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "18:30 - 20:10",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ACC240",
+      "Nome": "Contabilidade Avançada",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Investimentos societários e equivalência patrimonial. Resultado de exercícios futuros. Patrimônio líquido. partes relacionadas e beneficiárias. Demonstrações financeiras e notas explicativas: balanço, resultado, mutações do patrimônio líquido e fluxo de caixa. Reestruturação societária.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ACC230"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ACC412",
+      "Nome": "Contabilidade de Custos II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceito de margem de contribuição. Produtos Conjuntos e Subprodutos. Custeio variável. Análise da relação custo-volume-lucro. Ponto de Equilíbrio. Cálculo e Análise de varîâncias. Custo Padrão.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "16:40 - 18:20",
+        "professor": "CARLA MACEDO VELLOSO DOS SANTOS"
+       },
+       {
+        "dia": "Qua",
+        "hora": "16:40 - 18:20",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "ACC321"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAD245",
+      "Nome": "Estatistica II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Regressão simples. Violações dos pressupostos básicos. Estimação com dados deficientes. Regressão múltipla. Formulação e estimação de moidelos especiais. Sistemas de equações múltiplas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "16:40 - 18:20",
+        "professor": "LEANDRO PINTO RODRIGUES PIMENTEL"
+       },
+       {
+        "dia": "Qui",
+        "hora": "16:40 - 18:20",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MAD235"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "5º Período": [
+     {
+      "Codigo": "ACC350",
+      "Nome": "Teoria da Contabilidade",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Metodologia da contabilidade. Os princípios fundamentais da contabilidade. Avaliação de ativo e passivo. Perspectivas e tendências da teoria da contabilidade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ACC240"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ACC605",
+      "Nome": "Contabilidade Governamental",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Contabilidade Pública e o Campo de Aplicação. Gestão na Administração Pública. Planejamento contábil na administração pública. Sistemas de Contas. Balanços na Contabilidade Pública. Controle da execução Orçamentária e Prestação de contas e tomada de contas públicas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ACC240"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ACCU01",
+      "Nome": "Estágio Supervisionado",
+      "Créditos": "4.0",
+      "Teórica": "0",
+      "Prática": "300",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Aperfeiçoamento do processo de ensino-aprendizagem.  Criação de oportunidades para os alunos de Ciências Contábeis aplicarem conhecimentos teóricos na prática.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ACC240",
+       "ACC242",
+       "ACC412",
+       "ACC415",
+       "MAD245"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ACC241",
+      "Nome": "Matemática Financeira",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Juros simples e compostos, valor do dinheiro no tempo. Juros. Equivalência financeira e operações de descontos. Retorno do investimento. Inflação e taxa de juros. Regimes de apropriação do juro. O conceito de capitalização. Operações de financiamento.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MAC126"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ACC480",
+      "Nome": "Auditoria I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Fundamentos de Auditoria, O profissional de Auditoria, Controle Interno, Papéis de Trabalho, Procedimentos de Auditoria, Conclusões dos Auditores, Auditoria do Ativo Circulante e Auditoria do Passivo Circulante.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ACC240"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ACC641",
+      "Nome": "Pericia Contábil",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O uso da Contabilidade como ferramenta em decisões judiciais. Requisitos para a prática da perícia contábil. Avaliação patrimonial de entidades. Planejamento e controle de procedimentos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ACC240"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "6º Período": [
+     {
+      "Codigo": "ACC606",
+      "Nome": "Métodos Téc Pesq Contabilidade",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Caracterização da pesquisa em contabilidade, construção de um trabalho monográfico em contabilidade, metodologia da pesquisa aplicada à ciência social, formulação de hipóteses e caracterização de variáveis em pesquisa contábil, coleta, análise e interpretação dos dados. Apresentação e estrutura (ABNT).\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "16:40 - 18:20",
+        "professor": "MONICA ZAIDAN GOMES"
+       },
+       {
+        "dia": "Qui",
+        "hora": "16:40 - 18:20",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "7º Período": [
+     {
+      "Codigo": "ACC701",
+      "Nome": "Seminário- Projeto de Pesquisa",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Elaboração de um projeto de pesquisa. Definição do tema do Projeto de Monografia. Discussão do Projeto. Construção do Projeto de Monografia.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ACC606"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "8º Período": [
+     {
+      "Codigo": "ACCK01",
+      "Nome": "Monografia",
+      "Créditos": "12.0",
+      "Teórica": "180",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Permitir ao discente a elaboração de trabalhos que possibilitem centrar esforços para o desenvolvimento da percepção, da reflexão e do potencial criativo, todavia deverá optar por tema pertinentes as linhas de pesquisas existentes no curso.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ACC701"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "9º Período": [],
+    "Disciplinas Optativas (Escolha Restrita)": [
+     {
+      "Codigo": "ACC002",
+      "Nome": "Contabilidade Internacional",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Organismos internacionais de contabilidade, FASB, IASB e IOSCO, ONU e as práticas contábeis, estrutura normativa do FASB, SFAC, SFAS, FIN, GASB, estrutura normativa do IASB, IAS e IFSR, princípios contabilidade internacionais, diferenças entre práticas contábeis internacionais.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "18:30 - 20:10",
+        "professor": "ALINI DA SILVA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "18:30 - 20:10",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "ACC472"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ACC361",
+      "Nome": "Análise Econômico- Financeira",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Os objetivos da análise. Análise das estruturas patrimonial e operacional. Técnicas de análise. Grau de alavancagem financeira. Limitações das demonstrações financeiras. Perspectivas econômicas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ACC240"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ACC603",
+      "Nome": "Contabilidade Fiscal",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Exercício financeiro e período base. Conceitos de lucros para fins do imposto de renda. Contabilização de impostos federais, estaduais e municipais.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ACC240",
+       "IUS310"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ACA471",
+      "Nome": "Administração Financeira (CC)",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Planejamento de caixa. Integração do planejamento financeiro de curto-prazo com o orçamento. Payback. Integração com o orçamento de capital e com a análise de investimentos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ACC240",
+       "ACC241"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ACC003",
+      "Nome": "Combinação de Negócios",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Avaliação de investimentos societários, métodos da equivalência patrimonial e do custo, consolidação das demonstrações contábeis, etapas do processo de consolidação, lucros realizados e não realizados, fusões, incorporações e cisões, práticas contábeis inerentes a fusão e incorporação, ágio e deságio nas combinações de negócios, amortização do ágio e deságio, normas legais e fiscais, aproveitamento do ágio, extinções e liquidações de sociedades.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ACC244"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ACC363",
+      "Nome": "Aval Patr, Flut Preço e Câmbio",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Critérios de avaliação patrimonial, valores de entrada e saída, valor justo e outras metodologias, criação de valor contábil, reconhecimento dos efeitos das variações de preços, correção monetária integral, custo corrente de reposição, efeitos das flutuações nas taxas de juros e de câmbio, avaliação patrimonial de ativos de setores específicos de negócios.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ACC125",
+       "ACC244"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IUS310",
+      "Nome": "Legislação Tributária",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Legislação financeira e tributária. Receita Pública. Sistema Tributário Nacional. Competência e limites ao seu exercício. Princípios. Imunidades. Desonerações fiscais.Impostos federais, estaduais e municipais. Taxas e Contribuições. Crédito Tributário. Lançamento. Causas de extinção, suspensão e exclusão do crédito. Responsabilidade tributária. Autuações fiscais e mecanismos de defesa do contribuinte. Processo administrativo e judicial tributário. Ilícito tributário. Planejamento tributário.\n___BIBLIOGRAFIA BÁSICA___\n1- ATALIBA. Geraldo. Hipótese de incidência tributária. São Paulo: Malheiros, 2010.\n2- BALAEEIRO, Aliomar. Direito tributário brasileiro. São Paulo: Forense, 2005.\n3- GRECO, Marco Aurélio. Planejamento Tributário. São Paulo: Dialética, 2008.\n4- MACHADO, Hugo de Brito. Curso de Direito Tributário. 13º ed. São Paulo. Malheiros Editores, 1998.\n5- Constituição da República Federativa do Brasil.\n6- Lei nº 5.172 de 25-1-1966 (Código Tributário Nacional).\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ACC352"
+      ],
+      "Tipo": "eletiva"
+     }
+    ],
+    "Disciplinas Optativas (Escolha Condicionada)": [
+     {
+      "Codigo": "ACC004",
+      "Nome": "Análise Balanços Governamental",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Objetivo da análise de balanços. Avaliação técnica do conteúdo dos balanços. Indicadores administrativos e financeiros. Indicadores Econômicos. Indicadores Sociais. Relatório da análise.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ACC005"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ACC006",
+      "Nome": "Ética Profissional",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceito e campo da ética. Fontes das normas éticas. Comportamento ético. Código de ética profissional. Atuação do profissional e os padrões de qualidade. Atributos de um bom profissional da contabilidade. Os conselhos reguladores da profissão.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ACC008",
+      "Nome": "Mercado Mobiliário - Ext",
+      "Créditos": "4.0",
+      "Teórica": "15",
+      "Prática": "0",
+      "Extensão": "45",
+      "Informação": {
+       "Info": "Atividade de extensão a ser desenvolvidos junto a comunidade, através da utilização de conceituação básica do mercado de capitais e governança corporativa, procedimentos de abertura e fechamento de capital, ações, debêntures de ADR, estrutura básica das operações que envolvem cisão, fusão e incorporação de empresas, possibilitando maior orientação as comunidades gestoras, inserindo a participação dos discentes do Curso de Ciências Contábeis e proporcionado elevação do conhecimento dos mercados de interesse para a sociedade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ACC015",
+      "Nome": "Finanças Pessoais",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Finanças pessoais: propósitos, bases e relações com diferentes áreas do conhecimento (Contabilidade, Administração, Economia e outras). Patrimônio Pessoal - planejamento, execução e controle. Riqueza e bem estar.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ACC017",
+      "Nome": "Mat Aplic à Contabilidade I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Matrizes. Equações e Inequações Lineares. Funções. Representação gráfica. Limites. Introdução ao cálculo diferencial. Aplicações às Ciências Contábeis.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ACC019",
+      "Nome": "Estat Aplic à Contabilidade II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Testes de hipóteses (paramétricos e não-paramétricos). Medidas de Associação (paramétricas e não-paramétricas). Regressão simples. Violação dos pressupostos básicos. Estimação com dados deficientes. Regressão múltipla. Aplicações às Ciências Contábeis.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ACC021",
+      "Nome": "Gestão de Riscos",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceito de Risco. Quantificação de riscos. Gestão de Seguradoras e de Fundos de Pensão. Gestão Financeira de Seguradoras e de Fundos de Pensão. ERM (Enterprise Risk Management).\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ACC413",
+      "Nome": "Aspect Contáb Empr Seguradoras",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceitos Fundamentais; Seguro; Co-seguro e Re-segu-ro; Sinistro, Prêmios Salvados e Ressalvados, Indenização; Sistema Nacional de Seguros; Normas e Legislação de Seguros; Mercado Internacional de Seguros.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "18:30 - 22:00",
+        "professor": "JANAINA DA SILVA FERREIRA"
+       }
+      ],
+      "Requisitos": [
+       "ACC244"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ACC602",
+      "Nome": "Gestão Tecn e Inovação - Ext",
+      "Créditos": "4.0",
+      "Teórica": "15",
+      "Prática": "0",
+      "Extensão": "45",
+      "Informação": {
+       "Info": "Atividade de extensão a ser desenvolvida junto à comunidade, através da utilização de processo de inovação tecnológica, sistemas nacionais de ciência e tecnologia, papel do Estado na Inovação tecnológica, estratégia tecnológica de empresas, possibilitando maior orientação as comunidades gestoras, inserindo a participação dos discentes do Curso de Ciências Contábeis e proporcionando elevação do conhecimento das tecnologias de interesse para a sociedade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "20:20 - 22:00",
+        "professor": "PIERRE OHAYON"
+       },
+       {
+        "dia": "Qui",
+        "hora": "20:20 - 22:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ACC621",
+      "Nome": "Auditoria II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Auditoria de Ativos e Passivos Realizáveis a Longo Prazo. Auditoria do Imobilizado, Investimentos e intangíveis. Auditoria das contas do Resultado. Auditoria do Patrimônio Líquido. Planejamento da Auditoria. Revisão Analítica. Carta de Responsabilidade. Lei Sarbanes-Oxley (SOx).\n___BIBLIOGRAFIA BÁSICA___\n1- LINS, Luiz dos Santos. Auditoria: uma abordagem prática com ênfase na auditoria externa, 3. ed. São paulo: Editora Atlas, 2014.\n2- ALMEIDA, Marcelo Cavalcante. Auditoria: um curso moderno e completo. 8. ed. São Paulo: editora Atlas, 2012.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "20:20 - 22:00",
+        "professor": "ANDERSON MONTEIRO DE ANDRADE"
+       },
+       {
+        "dia": "Qui",
+        "hora": "20:20 - 22:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "ACC471"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ACC632",
+      "Nome": "Análise de Investimentos",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Valor do dinheiro no tempo. Custo de oportunidade. Risco e retorno. Estudo das técnicas de decisões de investimentos. Natureza do investimento. Custos e benefícios futuros. Fluxo de caixa. O problema de racionamento de capital. A incerteza quanto às previsões. A relação entre as decisões de investimento e financiamento: custo médio ponderado do capital (wacc). Finanças x estratégia. Uso de ferramentas especiais na análise de investimentos. Risco e incerteza. Custo de oportunidade do capital.\n___ BIBLIOGRAFIA BÁSICA ___\n1-CASAROTOO, F.N.; KOPITTKE, B.H. Análise de Investimentos: Matemática Financeira, Engenharia Econômica. Tomada de Decisão, Estratégia Empresarial. 9. Ed. São Paulo: Atlas, 2000.\n2- COPELAND. Tom; ANTIKAROV, Vladimir. Opções Reais Um Novo Paradigma para Reinventar a Avaliação de Investimentos. São Paulo: Campus, 2001.\n3- DAMODARAN, Aswath. Avaliação de Investimentos. 2. Ed. São Paulo: Qualitymark, 2010.\n4- FALCINI, P. Avaliação Econômica de Empresas: Técnica e Prática: Investimentos de Risco. Remuneração dos Investimentos, Geração de Fundos de Caixa, Contabilidade por Atividades e por Fluxo de Caixa. São Paulo: Atlas, 1992.\n5-LAPPONI, Juan Carlos. Projetos de Investimento na Empresa. Rio de Janeiro: Elsevier, 2007.\n6- MOTTA, Regis da Rocha; CALOBA, Guilherme Marques. Análise de Investimentos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "20:20 - 22:00",
+        "professor": "CARLOS ANDERSON DE MOURA ROSA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "20:20 - 22:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ACC637",
+      "Nome": "Métodos Quantit Aplic à Contab",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Aplicações ao processo decisório, à análise da relação custo-volume-lucro, à otimização dos recursos, à otimização dos estoques, à teoria da decisão: Programação Linear. Transportes e Designação. FRluxos em Redes. Aplicações computacionais.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MAC126"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ACC001",
+      "Nome": "Planejamento Governamental",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Legislação aplicável ao planejamento governamental. A missão do estado. Plano Plurianual. Diretrizes Orçamentárias. Programação. Orçamento.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ACC412",
+       "ACC605"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ACC005",
+      "Nome": "Contabilidade Gov Avançada",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceito e objetivo. Déficit e Superávit Financeiro e Econômico. Avaliação de Resultados. Riscos Fiscais. Ativos e Passivos Contingenciais. Despesas de Exercícios Anteriores. Parcerias conveniadas e contratadas. Contabilidade por área de responsabilidade. Contabilidade de transações intrernacionais. Contabilidade da dívida pública. Contabilidade dos investimentos em infra-estrutura.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ACC605"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ACC007",
+      "Nome": "Gestão de Serviços",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Perfil e relacionamento com clientes: cliente externo e interno. Processos e pessoas nas organizações. princípios de atendimento em serviços. serviços padronizados e serviços \"sob medida\".Indicadores de qualidade na prestação de serviços. Características dos serviços: gestão das filas de clientes em serviços. Gestão dos recursos humanos em organizações de serviços.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "20:20 - 22:00",
+        "professor": "MONICA ZAIDAN GOMES"
+       },
+       {
+        "dia": "Qui",
+        "hora": "20:20 - 22:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "ACC362"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ACC009",
+      "Nome": "Comunicação Empresarial",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Comunicando com Qualidade. Como controlar a qunatidade de informações a serem prestadas. Como deixar claro as ações que se quer que o leitor desencadeie. Como preservar a cortesia nas relações com o leitor. Organizando o texto: como tirar o máximo proveito de técnicas estruturais de produção de textos; como manter o fluxo de informações para resolução de problemas corporativos; como alcançar o máximo de legibilidade na interação com o leitor. Como contornar situações de conflito em atendimentos difíceis. Como evitar redundâncias, prolixidade, descortesia e repetição viciosa de palavras. Como evitar os erros gramaticais mais comuns que ocorrem no dia-a-dia do profissional. Vícios de Linguagem.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ACC016",
+      "Nome": "Fundamentos de Atuária",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceituação e evolução da atuária. Bases técnicas da atuária.Práticas atuariais em fundos de pensão e em seguradoras. Práticas atuariais na atualidade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ACC018",
+      "Nome": "Mat Aplic à Contabilidade II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Cálculo diferencial. Aplicações de derivadas às Ciências Contábeis. Noções de Cálculo Integral. Aplicações às Ciências Contábeis.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ACC020",
+      "Nome": "Estat Aplic à Contabilidade I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estatística descritiva; Noções de Probabilidade; Distribuições de Probabilidade: variáveis discretas (Binominal e Poisson) e contínuas (Uniforme, Exponencial, Normal e LogNormal). Introdução à amostragem, Estimação e intervalo de confiança. Aplicações à Contabilidade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ACC112",
+      "Nome": "Informática Básica",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O microcomputador. O sistema operacional. Editor de textos. Planilhas eletrônicas. Informática aplicada à contabilidade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ACC601",
+      "Nome": "Aspect Contáb Inst Financeiras",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Histórico da Moeda. Evolução do sistema Financeiro Nacional. A Estrutura e as Características das Instituições Financeiras, dos Investidores Institucionais e das Auioridades do SFN. O Sistema Financeiro da Habitação. A política econômico-governamental: monetária, cambial, fiscal e de rendas, correlacionadas com mecanismos das instituições financeiras em cada um desses segmentos. A prática de alguns desses Mecanismos. O Mercado de Ações.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ACC240"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ACC612",
+      "Nome": "Orçamento Governamental",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Orçamento: conceitos e objetivos. Funções orçamentarias. Sistema de informações orçamentarias. Elaboração do orçamento.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ACC001"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ACC623",
+      "Nome": "Auditoria Governamental",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Funções da auditoria governamental. Revisão do processo de gestão orçamentária, patrimonial e financeira. Tipos de auditoria governamental. Planejamento da auditoria. Normas de auditoria. procedimentos de auditoria. Relatório, parecer e certificado de auditoria.\n___BIBLIOGRAFIA BÁSICA___\n1- KOHAMA, Helio. Contabilidade Pública: teoria e prática. 13 ed. São Paulo: Ed. Atlas, 2013.\n2- MATIAS, Pereira José. Finanças públicas: a política orçamentária no Brasil. 5. ed. São Paulo: Ed. Atlas, 2010.\n3- MAUSS, Cezar Volnei. Análise de Demonstrações Contábeis Governamentais: instrumento de suporte à gestão pública. 1. ed. São Paulo: Ed. Atlas, 2012.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ACC360"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ACC636",
+      "Nome": "Informat Aplic à Contabilidade",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Ambiente computadorizado de grande porte. Linguagens de computador. Desenho de sistemas computadorizados aplicados à contabilidade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ACC638",
+      "Nome": "Contabilidade Socioambiental",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Histórico da Moeda. Conceitos sobre o meio ambiente e métodos de avaliação. Gestão ambiental. Mensuração contábil e sistema de informação. Relatório Social. Balanço Social.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "16:40 - 18:20",
+        "professor": "ARACELI CRISTINA DE SOUSA FERREIRA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "16:40 - 18:20",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "ACC237"
+      ],
+      "Tipo": "eletiva"
+     }
+    ]
+   },
+   "obrigatorias": 32,
+   "eletivas": 32,
+   "ano": "2009/1 a 9999/9"
+  }
+ ]
+}

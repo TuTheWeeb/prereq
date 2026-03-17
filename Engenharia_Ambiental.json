@@ -1,0 +1,3955 @@
+{
+ "Engenharia Ambiental": [
+  {
+   "materias": {
+    "1º Período": [
+     {
+      "Codigo": "EEG105",
+      "Nome": "Sistemas Projetivos",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Sistemas de Projeção, Sistema Mongeano. Seções Planas. Métodos Descritivos. Aplicações em Vistas Ortográficas, Cortes e Seções. Axonometria: Perspectivas Isométricas e Obliqua.\n___BIBLIOGRAFIA BÁSICA___\n1- Apostila de Desenho Técnico da EE. Rio de Janeiro, 2010.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 10:00",
+        "professor": "MAURO HENRIQUE ALVES DE LIMA JUNIOR"
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 10:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EEI533",
+      "Nome": "Introdução à Economia",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Evolução da Ciência Econômica. Diferentes escolas de pensamento: fase pré-científica; do Mercantilismo às escolas modernas. Conceituação: problemas econômicos e necessidade humana. Trocas diretas e indiretas: fluxo circular da economia. Governo: suas funções econômicas. Empresas privadas: forma jurídica e financiamento. Contabilidade social: medidas dos agregados: a concepção clássica e a concepção keynesiana. Moeda: diferentes instituições financeiras, bancos comerciais. Política monetária e política fiscal: monetaristas e keynesianos. Setor externo: balanço de pagamentos. Noções de microeconomia: mercado e preços. O consumidor: procura e utilidade. Produção e custo. Visão alternativa dos custos. Estrutura de mercado.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 15:00",
+        "professor": "CINTHIA RODRIGUES DE OLIVEIRA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 15:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IQG111",
+      "Nome": "Química Ee",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estrutura atômica. Tabela periódica. Estrutura molecular. Aspectos gerais do comportamento químico dos elementos. Química nuclear.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 10:00",
+        "professor": "MARCO AURELIO SULLER GARCIA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 10:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "COC471",
+      "Nome": "Introdução à Computação",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "História da computação, arquiteturas de computadores e sistemas operacionais. Sistemas decimal, binário e hexadecimal de representação de números, aritmética binária e operações de ponto flutuante. Fundamentos de lógica de programação, algoritmos de ordenamento. Tipos e estruturas de dados. Fundamentos das linguagens C e FORTRAN.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "10:00 - 12:00",
+        "professor": "CLAUDIO MICELI DE FARIAS"
+       },
+       {
+        "dia": "Seg",
+        "hora": "10:00 - 13:00",
+        "professor": "Não Informado"
+       },
+       {
+        "dia": "Qua",
+        "hora": "10:00 - 13:00",
+        "professor": ""
+       },
+       {
+        "dia": "Qua",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EEHX02",
+      "Nome": "Tóp em Engenharia Ambiental",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "visitas de campo orientadas em atividades de produção industriais, empreendimentos para aproveitamento dos recursos hídricos, de geração de energia e de saneamento ambiental, nos limtes do Estado do Rio de Janeiro.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:10 - 15:00",
+        "professor": "MONICA PERTEL"
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:10 - 15:00",
+        "professor": "MATHEUS MARTINS DE SOUSA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IBE122",
+      "Nome": "Ecologia Geral",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A Ecologia como ciência, suas abordagens e aplicações.  A abordagem do ecossistema e seus principais componentes, fluxo de energia e ciclagem de materiais.  A abordagem de populações e seus principais componentes: parâmetros, métodos de estudo e modelos básicos.  Interações entre espécies.  A abordagem de comunidades: natureza, estrutura e desenvolvimento.  Aplicações à conservação de espécies e processos naturais.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 10:00",
+        "professor": "MARCIO ZIKAN CARDOSO"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 10:00",
+        "professor": "MARIA FERNANDA SANTOS QUINTELA DA COSTA NUNES"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 10:00",
+        "professor": "CLARICE CASA NOVA DOS SANTOS"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 10:00",
+        "professor": "REINALDO LUIZ BOZELLI"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 10:00",
+        "professor": "RODRIGO HIPOLITO TARDIN OLIVEIRA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 10:00",
+        "professor": "REINALDO LUIZ BOZELLI"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 10:00",
+        "professor": "MARCIO ZIKAN CARDOSO"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 10:00",
+        "professor": "MARIA FERNANDA SANTOS QUINTELA DA COSTA NUNES"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 10:00",
+        "professor": "RODRIGO HIPOLITO TARDIN OLIVEIRA"
+       },
+       {
+        "dia": "Sab",
+        "hora": "08:00 - 18:00",
+        "professor": "CLARICE CASA NOVA DOS SANTOS"
+       },
+       {
+        "dia": "Sab",
+        "hora": "08:00 - 18:00",
+        "professor": "RITA DE CASSIA QUITETE PORTELA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAC118",
+      "Nome": "Cálculo Difer e Integral I",
+      "Créditos": "6.0",
+      "Teórica": "90",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Técnicas de Integração. Integral Imprópria.\n",
+       "BibliografiaBasica": "1) SANTOS, A. R.; BIANCHINI, Waldecir. Aprendendo Cálculo com Maple: Cálculo de Uma Variável. 1ª ed. Rio de Janeiro: LTC, 2002.\n2) LEITHOLD, Louis. O Cálculo com Geometria Analítica. 3.ed. São Paulo: Harbra, 2002. vol. 1.\n3) STEWART, James. Cálculo. 4.ed. São Paulo: Pioneira Thomson Learning, 2002. vol. 1.\n",
+       "BibliografiaComplementar": "1) ANTON, H.; BIVIS. I.; DAVIS, S. Cálculo, Vol. I. 8ª ed. Editora Harbra.\n2) APOSTOL, TOM M. Calculus, Vol. 1: One Variable Calculus With an Introduction to Linear Algebra. 2ª ed. - Ed. Wiley.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "2º Período": [
+     {
+      "Codigo": "EQI121",
+      "Nome": "Fund Química Apl Eng Ambiental",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Equilíbrio Químico, Equilíbrio Iônico, formação e dissolução de precipitados, gravimetria, volumetria e equilíbrio de neutralização, volumetria de precipitação, volumetria de equilíbrio de oxi-redução, Físico-Química de soluções aquosas. Termodinâmica: 1º lei, 2º lei, termoquímica, funções de Gibbs e Helmholtz, substâncias puras, soluções, grandezas parciais molares.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "IQG111"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIT112",
+      "Nome": "Física I - a",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução. Vetores. Velocidade e aceleração vetoriais. Os princípios da dinâmica. Aplicações das leis de Newton. Trabalho e energia mecânica. Conservação da energia. Momento linear e conservação do momento linear. Colisões. Rotação e momento angular. Dinâmica de corpos rígidos. Força que varia inversamente ao quadrado da distancia (gravitação).\n___ BIBLIOGRAFIA BÁSICA ___\n1) Física para Cientistas e Engenheiros, v.1. Mecânica, Oscilações e Ondas, Termodinâmica (6ª edição).\n2) Fundamentos de Física (4ª edição) D. Halliday. R. Resnick and J. Walker - John Wiley & Sons, Inc.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAC128",
+      "Nome": "Cálculo Diferen e Integral II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Equações Diferenciais Ordinárias de Primeira  Ordem. Equações Diferenciais Ordinárias Lineares de Segunda Ordem com Coeficientes Constantes. Curvas e Vetores no Plano. Vetores no Espaço Tridimensional e Geometria Analítica Sólida. Funções de R2 em R. Funções de R3 em R. Máximos e Mínimos de Funções de R2 em R. Máximos e Mínimos de Funções de R3 em R.\n",
+       "BibliografiaBasica": "1) BOYCE, W. E.; DIPRIMA, R. C. Equações Diferenciais Elementares e Problemas de Valores de Contorno. 7. ed. Rio de Janeiro: UFRJ, 2004.\n2) PINTO, D.; MORGADO, M.C.F. Cálculo Diferencial e Integral de Funções de Várias Variáveis. 3.ed. Rio de Janeiro: UFRJ, 2004.\n3) STEWART, J. Cálculo. 4. ed. São Paulo: Pioneira Thomson Learning, 2002. vol. 2.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MAC118"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EEG301",
+      "Nome": "Desenho Computacional",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Sistemas de desenho por computador. Criação, modificação e visualização de modelos bi e tridimensionais. Normas para desenho técnico. Dimensionamento e tolerâncias. Desenho de edificações. Desenho Mecânico. Aplicações para projeto. Documentação gráfica.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "EEG105"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIS111",
+      "Nome": "Física Experimental I",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução à medida: como medir. Como expressar corretamente os valores medidos. Estimar a precisão de instrumentos. Dispersão de uma medida: controle de grandezas físicas numa experiência. Como caracterizar a dispersão de um conjunto de dados por um indicador apropriado. Cinemática unidimensional: desenvolvimento intuitivo e operacional dos conceitos de velocidade e aceleração. Representação e análise gráfica. Leis de Newton. Como definir operacionalmente a inércia e um corpo. Relação massa inercial-massa gravitacional. Colisões unidimensionais elásticas, semi-elásticas e inelásticas. Modelo teórico de uma colisão unidimensional.\n",
+       "BibliografiaBasica": "1) Apostila de Física Experimental I. Instituto de Física, UFRJ.\n2) Fundamentos da Teoria de Erros. J.H. Vuolo.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IBM231",
+      "Nome": "Biologia Sanitária e Ambiental",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "poluição e contaminação de ecossistemas aquáticos e de ecossistemas terrestres. Principais usos da água e quais seus requisitos de qualidade. Usos do solo e quais requisitos de qualidade. características físicas, químicas e biológicas da água e do solo: principais parâmentos, formas de medição. Usos de organismos como indicadores de qualidade da água e do solo. Papel da Engenharia Sanitária e Ambiental. Saúde ambiental e saúde pública. Saneamento ambiental e saneamento básico. Conservação dos recursos naturais.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "IBE122"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAE125",
+      "Nome": "Álgebra Linear",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Sistemas de equações lineares e Eliminação Gaussiana. Matrizes e determinante. Espaços vetoriais Euclidianos. Geometria dos espaços vetoriais de dimensão finita. Transformações lineares. Espaços vetoriais com produto interno. Ortogonalidade e mínimos quadrados. Autovalores e autovetores. Teorema espectral. Aplicações à solução de Equações Diferenciais Ordinárias e em Geometria Euclidiana.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "15:00 - 17:00",
+        "professor": "ENOS YUITI OGASAWARA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "15:00 - 17:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "3º Período": [
+     {
+      "Codigo": "EEH303",
+      "Nome": "Mecânica dos Fluidos",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução: Definição de fluidos e propriedades básicas. Estática dos fluidos. Cinemática dos fluidos. Dinâmica dos fluidos perfeitos. Dinâmicas dos fluidos reais. Escoamentos: continuidade; quantidade de movimentos; resistência. Singularidade. Condutos livres e sob pressão. Hidrometria. Bombas e turbinas. Energia Hidráulica.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "08:10 - 10:00",
+        "professor": "JORGE HENRIQUE ALVES PRODANOFF"
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:10 - 10:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "FIT122(C)",
+       "MAC128",
+       "MAE125"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIS121",
+      "Nome": "Física Experimental II",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Dinâmica das rotações: cinemática das rotações, determinação de momento de inércia, pêndulo composto. Movimento oscilatório: movimento harmônico simples, movimento harmônico amortecido, combinação de movimentos harmônicos. Hidrostática: determinação de viscosidade, determinação de densidade de líquidos e sólidos. Ondas mecânicas: velocidade do som (método de ressonância), cordas vibrantes. Calorimetria: capacidade calorífica, equivalente mecânico.\n",
+       "BibliografiaBasica": "1) Apostila de Física Experimental II, Instituto de Física, UFRJ.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 15:00",
+        "professor": "VITORIA MARIA TUPINAMBA SOUZA BARTHEM"
+       }
+      ],
+      "Requisitos": [
+       "FIS111",
+       "FIT112"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ICP231",
+      "Nome": "Cálculo Numérico",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Erros; Zeros de Funções; Resolução de Sistemas Lineares; Interpolação; Integração Numérica; Equações Diferenciais Ordinárias.\n",
+       "BibliografiaBasica": "1) Dorn, William S. e Mc Cracken, Daniel D.; Cálculo Numérico com Estudos de Casos em Fortran IV\n2) Ruggiero, Márcia A. Gomes e Lopes, Vera Lucia Rocha; Cálculo Numérico, Aspectos Teóricos e Computacional\n3) Stark ,Peter A.; Introdução aso Métodos Numéricos\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "10:00 - 12:00",
+        "professor": "HUGO DE HOLANDA CUNHA NOBREGA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "ICP121",
+       "MAC128"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EEA212",
+      "Nome": "Mecanica I",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estatica: Reducao de sistemas de forcas, equilibrio, estruturas, centro de massa, atrito. Cinematica: Movimento de particulas e corpos rigidos. Dinamica: Dinamica: de particulas e corpos rigidos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 15:00",
+        "professor": "BRUNO MARTINS JACOVAZZO"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 15:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MAC128"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EQI366",
+      "Nome": "Química Ambiental",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Equilíbrio e estado estacionário. Ciclos Biogeoquímicos. Química da Atmosfera, da Hidrosfera e dos Solos. Aspectos da composição natural, químicos e poluição. Efeitos da poluição nos vários compartimentos naturais. Mudanças climáticas e globais. Aspectos da química toxicológica. Ecologia Industrial. Ações mitigadoras e reversoras dos impactos sobre o meio ambiente.\n",
+       "BibliografiaBasica": "1. Exner, J.H. (1995) Detoxification Harzadous of Waste. 2ª edição. Ann\nArbor Science.\n2. Manahan, S.E. (2000) Environmental Chemistry. 7ª edição. Lewis\nPublishers.\n3. Sell, N.J. (1992) Industrial Pollution Control: Issues and Techniques. 2ª\nedição. VNR ? Van Nostrand Reinhold.\n",
+       "BibliografiaComplementar": "1. CONAMA e FEEMA (1982). Legislação Básica de Meio Ambiente.\n2. Normas de Resíduos Sólidos ?NBR 10.004 ? 1997.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "20:00 - 21:50",
+        "professor": "MARCELO MENDES VIANA"
+       },
+       {
+        "dia": "Ter",
+        "hora": "20:00 - 21:50",
+        "professor": "EVERTON GRIPA MARQUES"
+       },
+       {
+        "dia": "Sex",
+        "hora": "19:30 - 21:30",
+        "professor": ""
+       },
+       {
+        "dia": "Sex",
+        "hora": "19:30 - 21:30",
+        "professor": "MARCELO MENDES VIANA"
+       }
+      ],
+      "Requisitos": [
+       "IQG111"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIT122",
+      "Nome": "Física II - a",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Oscilações: oscilações amortecidas e forçadas. Ondas. Som. Fluidos. Temperatura. Calor - primeira Lei da Termodinâmica. Propriedades dos gases. Segunda Lei da Termodinâmica. Teoria cinética dos gases. Transferência de calor e de massa.\n",
+       "BibliografiaBasica": "1) Física, volume 1. Mecânica, Oscilações e Ondas (5ª edição). Paul A. Tipler e Gene Mosca. LTC Editora S.A.\n2) Curso de Física Básica , volume 1. Mecânica, Oscilações e Ondas. H. Moysés Nussenzveig - Editora Edgard Blücher Ltda.\n3) Fundamentos de Física (4ª edição). D. Halliday. R. Resnick e J. Walker - John Wiley & Sons, Inc.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "FIT112",
+       "MAC118"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAC238",
+      "Nome": "Cálculo Diferen e Integral III",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Integrais Múltiplas. Integrais de Linha. Integrais de Superfície. Teorema de Gauss. Teorema de Stokes.\n",
+       "BibliografiaBasica": "1) PINTO, D.; MORGADO, M. C. F. Cálculo Diferencial e Integral de Funções de Várias Variáveis. 3ª ed. Rio de Janeiro: UFRJ, 2004.\n2) TROMBA, A. J.; MARSDEN, J. E. Vector Calculus. 5ª ed. New York: W. H. Freeman & Company, 2003.\n3) ANTON, H. Cálculo: Um Novo Horizonte. 6ª ed. Porto Alegre: Bookman, 2000. vol.2.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MAC128"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "4º Período": [
+     {
+      "Codigo": "EET310",
+      "Nome": "Princ de Ciencia dos Materiais",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Propriedades dos materiais. Estrutura dos materiais. Diagramas de fases. Acos, ligas nao-ferrosas, ceramicos e polimeros. Tratamentos termicos. Corrosao. Soldagem.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIN231",
+      "Nome": "Física Experimental III",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Instrumentos de Medidas Elétricas. Resistores. Capacitores. Tensões e Correntes Alternadas. Campos Magnéticos Estáticos.\n",
+       "BibliografiaBasica": "1)  Apostila de Física Experimental III, Instituto de Física, UFRJ.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 10:00",
+        "professor": "DORA IZZO"
+       }
+      ],
+      "Requisitos": [
+       "FIS121"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAD201",
+      "Nome": "Probabilidade e Estatistica",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Teoria das probabilidades. Distribuicões discretas e contínuas. Correlação e regressão. Estimação. Testes de hipóteses. Técnicas de amostragem.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "10:00 - 12:00",
+        "professor": "VINICIUS VIANA LUIZ ALBANI"
+       },
+       {
+        "dia": "Qui",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MAC118"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "COC474",
+      "Nome": "Mecânica Durabilidade Sólidos",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Tensão e resistência. Modelos de resistência. Deformação específica. Elasticidade e termodinâmica dos processos reversíveis. Estabilidade fratura e colapso, termodinâmica dos processos reversíveis. Princípios energéticos gerais e equações constitutivas. Plasticidade, ruptura, dano e fissuração. Durabilidade dos sólidos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "EEA212"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIM230",
+      "Nome": "Física III - a",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Lei de Coulomb. Campos elétricos. Lei de Gauss. Potencial Elétrico, capacitores, correntes e circuitos. Campos magnéticos, leis de Ampere e Biot - Savart, Lei de Faraday, indutância, corrente de deslocamento. Circuitos de corrente alternada, equações de Maxwell.\n",
+       "BibliografiaBasica": "1) Física, volume 2. Eletricidade e Magnetismo, Ótica (5ª edição). Paul A. Tipler e Gene Mosca. LTC Editora S.A.\n2) Curso de Física Básica, volume 1. Mecânica, Oscilações e Ondas. H. Moysés Nussenzveig - Editora Edgard Blücher Ltda.\n3) Fundamentos de Física (4ª edição). D. Halliday. R. Resnick e J. Walker - John Wiley & Sons, Inc.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "FIT112",
+       "MAC128"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAC248",
+      "Nome": "Cálculo Diferen e Integral IV",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Serie de potências; resolução de equações diferenciais lineares ordinárias de segunda ordem com coeficientes variáveis: soluções por série próximo a um ponto ordinário; soluções por série próximo a um ponto regular (método de Frobenius). Transformada de Laplace; série de Fourier. Problemas de valores de contorno e teoria de Sturm-Liouville. Equações diferenciais parciais clássicas: onda; calor; Laplace: Dirichlet no retângulo e Dirichlet no círculo.\n",
+       "BibliografiaBasica": "1) Cálculo, volume 2 de James Stewart.\n2) Cálculo com Geometria Analítica, volume 2, Louis Leithold.\n3) Equações Diferenciais Elementares e Problemas de Valores de Contorno, de William E. Boyce e Richard C. DiPrima.\n4) Equações Diferenciais, volumes 1 e 2, de Dennis G. Zill.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MAC128"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "5º Período": [
+     {
+      "Codigo": "COR200",
+      "Nome": "Transporte e Meio Ambiente",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Uso de energia em transportes (combustíveis convencionais e alternativos). Poluição Sonora / Poluição Atmosférica - Conceitos / Impactos / Qualidade do Ar / Chuva Ácida / Sistema Climático - Efeito estufa / Medidas de mitigação de impactos de poluição atmosférica / Instrução Visual / Vibração / Outros impactos do setor de transporte / Vantagens ambientais do Gerenciamento da Mobilidade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "10:00 - 12:00",
+        "professor": "MARCIO DE ALMEIDA D AGOSTO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EEC352",
+      "Nome": "Principios de Geomecânica",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "formação dos solos; noções de geologia ( tipos de rocha, tipos de minerais, intemperismo); noções de mineralogia das argilas e de físico-química dos solos; investigação geotécnica e investigação geoambiental.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 15:00",
+        "professor": "LUIZ AUGUSTO DA SILVA FLORENCIO"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 15:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EEH351",
+      "Nome": "Desenvolvim e Meio Ambiente",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Evolução histórica da questão ambiental. Clube de Roma e outros modelos mundiais. Conferência de Estocolmo (1972) e a criação do PNUMA, problemas ambientais em escala global: mudanças climáticas, destruição da camada de ozônio, chuva ácida, poluentes orgânicos persistentes, crise de água. Relatório Brudtland, o conceito de desenvolvimento sustentável e conferência do Rio (1992). A Conferência de Johanesburgo (2002) e os paradigmas para o futuro.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "13:10 - 15:00",
+        "professor": "MONICA PERTEL"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EQW010",
+      "Nome": "Indústria e Meio Ambiente",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "principais aspectos e impactos ambientais de diferentes processos industriais: farmacêutico, petroquímico,siderúrgico,alimentício, textil, metal-mecânico, e etc. Avaliando os principais rejeitos gerados por esses setores\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 15:00",
+        "professor": "JUACYARA CARBONELLI CAMPOS"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "COG201",
+      "Nome": "Energia e Meio Ambiente",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "energia primária fóssil e renovável. Estoque e fluxo. Centros de transformação. Energia final e energia útil. eficiência e perdas. Impactos no ambiente. Efluentes atmosféricos, líquidos e sólidos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "15:00 - 17:00",
+        "professor": "MARCO AURELIO DOS SANTOS"
+       }
+      ],
+      "Requisitos": [
+       "FIM230"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EEC315",
+      "Nome": "Instalações Elét Meio Ambiente",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceitos Básicos. Circuitos de Corrente Contínua e Alternada. Circuitos Trifásicos Equilibrados. Geração, transformação, transmissão e cargas. Instalações Elétricas e sua Eficiência em Obras Civis. Visitas técnicas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "FIM230"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EEH304",
+      "Nome": "Saneamento Ambiental",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O setor Saneamento Ambiental. Gestão dos serviços de saneamento. Saneamento e saúde pública. Sistemas de saneamento ambiental. Elementos componentes: funcionalidade, projeto de engenharia, dimensionamento hidráulico-sanitário, operação e manutenção.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "08:10 - 10:00",
+        "professor": "MONICA MARIA PENA"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:10 - 10:00",
+        "professor": "IENE CHRISTIE FIGUEIREDO"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:10 - 10:00",
+        "professor": ""
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:10 - 10:00",
+        "professor": "MONICA MARIA PENA"
+       }
+      ],
+      "Requisitos": [
+       "EEH303"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EEH403",
+      "Nome": "Hidrologia Geral I",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A água na natureza. O ciclo hidrológico. Bacia hidrográfica. Pluviologia. Evaporacao. Iinfiltração. Fluviologia. Transporte sólido. Estação hidrosedimentológica. Água subterrânea. Reservatório de regularização. Modelos de simulação: Método racional; Hidrógrafa unitária.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "10:10 - 12:00",
+        "professor": "MATHEUS MARTINS DE SOUSA"
+       },
+       {
+        "dia": "Ter",
+        "hora": "10:10 - 12:00",
+        "professor": "OSVALDO MOURA REZENDE"
+       },
+       {
+        "dia": "Qui",
+        "hora": "10:10 - 12:00",
+        "professor": ""
+       },
+       {
+        "dia": "Qui",
+        "hora": "10:10 - 12:00",
+        "professor": "MATHEUS MARTINS DE SOUSA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ISC001",
+      "Nome": "Saúde Pública e Meio Ambiente",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Aspectos conceituais e históricos da Saúde Pública/Saúde Coletiva e Saúde Ambiental; Políticas de Saúde Ambiental: Acidentes e doenças relacionadas ao ambiente; Metodologias para avaliação de risco em Saúde Ambiental; Noções de Toxicologia Ambiental;Noções de Epidemiologia Ambiental; Metodologias para prevenção e controle de doenças/agravos relacionadas ao ambiente.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "10:00 - 12:00",
+        "professor": "ANTONIO AZEREDO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "6º Período": [
+     {
+      "Codigo": "EEH214",
+      "Nome": "Fenômenos de Transferência",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Meio contínuo. Definição e propriedades dos fluidos. Conceituação básica de Fenômenos de Transferência. Estática dos fluidos. Descrição do movimento dos fluidos. Análise dos escoamentos na formulação de volume de controle. Balanços de massa, quantidade de movimento e energia. Introdução à análise diferencial dos escoamentos. Transferência de calor em regime permanente e transitório. Fundamentos da transferência de massa.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:10 - 15:00",
+        "professor": "OSVALDO MOURA REZENDE"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:10 - 15:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MAC238"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EEH483",
+      "Nome": "Poluição e Qualidade das Águas",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Padrões de qualidade da água. Parâmetros físicos, químicos e biológicos. Poluentes potenciais. Fontes de poluição das águas. Caracterização quantitativa e qualitativa das águas residuais. Efeitos de cargas poluidoras em corpos d\\'água. Controle da poluição. Graus de tratamento. Operações e processos unitários. Aurodepuração. Decaimento bacteriano. Eutrofização.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "EEH304"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IGG001",
+      "Nome": "Geomorfologia Aplic Engenharia",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Origem e dimensão da Terra. Estrutura do planeta, tectõnica de placas e geração dos continentes e oceanos; Elementos químicos da crosta terrestre, minerais e rochas. Estruturas geológicas e influências no relevo. Geração e evolução das formas da superfície terrestre e bacias hidrográficas. Processos geomorfológicos: intemperismo, erosão/transporte e deposição; Formação e classificação pedológica de solos; Influências geomorfológicas nas obras de engenharia: edificações, barragens, portos, rodovias, túneis e pontes. Utilização de recursos naturais da superfície terrestre, degradação da natureza e questões ambientais da atualidade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 17:00",
+        "professor": "ANDRE DE SOUZA AVELAR"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "COC479",
+      "Nome": "Poluição do Solo",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "classificação de resíduos (ABTN), fontes de contaminação, noções de transporte de massa em solos ( contaminantes miscíveis e não miscíveis em água), noções de interação soloxcontaminante, valores norteadores de nível de contaminação.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EEH404",
+      "Nome": "Aproveitamentos Rec Hidricos",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Descrição da Engenharia dos recursos hídricos. Estudo preliminar das seguintes áreas: irrigação; drenagem; combate às secas e cheias; aproveitamentos hidrelétricos, portos e vias navegáveis; gestão dos recursos hídricos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:10 - 15:00",
+        "professor": "AFONSO AUGUSTO MAGALHAES DE ARAUJO"
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:10 - 15:00",
+        "professor": "HELOISA TEIXEIRA FIRMO"
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:10 - 15:00",
+        "professor": "THEOPHILO BENEDICTO OTTONI FILHO"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:10 - 15:00",
+        "professor": "AFONSO AUGUSTO MAGALHAES DE ARAUJO"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:10 - 15:00",
+        "professor": "HELOISA TEIXEIRA FIRMO"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:10 - 15:00",
+        "professor": "THEOPHILO BENEDICTO OTTONI FILHO"
+       }
+      ],
+      "Requisitos": [
+       "EEH303",
+       "EEH403"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EEH602",
+      "Nome": "Resíduos Sólidos Urbanos",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Característica do lixo urbano. Coleta; Transporte. Estações de transferência: reciclagem.Compostagem: aterro sanitário. Incineração.\n",
+       "BibliografiaBasica": "1) CEMPRE/IPT. Lixo - Manual de Gerenciamento Integrado, IPT, 2000;\n2) TINOCO, J. P. Manual de Compostagem, Processo de Baixo Custo, ABES, 1996;\n3) STTEINER, L. C., MOTTA, R. S. Aspectos Econômicos da Gestão Integrada de Resíduos Sólidos, IPEA, 1996;\n4) QUEIRÓZ, L. M.Lixo - Tratamento e Bioremediação, ABES, 1995;\n5) TCHOBANOGLOUS, G.; THEISEN, HILARY; VIGIL, S. Integrated Solid Waste Management, McGraw Hill Co., 1993.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "EEH304"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IGT603",
+      "Nome": "Poluição do ar",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Histórico da Poluição do Ar.  A Atmosfera. Escalas dos Problemas de Poluição do Ar. Tipologias e características das Fontes de Poluentes Atmosféricos. Impactos da Poluição do Ar. Emissões Atmosféricas. Monitoramento da Qualidade do Ar. Meteorologia da Poluição do Ar. Transporte e Dispersão de Poluentes Atmosféricos. Estruturação e Competências de Órgãos Ambientais. Licenciamento Ambiental. Gestão da Qualidade do Ar. Estudos de Casos.\n",
+       "BibliografiaBasica": "1) FRONDIZI, C. A. Monitoramento da Qualidade do Ar: Teoria e Prática. 1ª edição. Editora e-papers. Rio de Janeiro. 2008. 276p.\n2) VALERO, D. Fundamentals of Air Pollution. 4th. Edition. Academic Press. California. USA. 2008. 942p.\n3) VIEIRA. N. R. Poluição do Ar. 1ª edição. Editora e-papers. Rio de Janeiro. 2009. 220p.\n4) Brasil. Ministério do Meio Ambiente. Guia técnico para o monitoramento e avaliação da qualidade do ar.  Departamento de Qualidade Ambiental e Gestão de Resíduos. Brasília, DF. 2020. 136 p.\nhttps://www.gov.br/mma/pt-br/centrais-de-conteudo/mma-guia-tecnico-qualidade-do-ar-pdf.\n5) SÁNCHEZ-SALINAS, E., ORTIZ-HERNÁNDEZ, M. L. e CASTREJÓN-GODÍNEZ, M. L. CONTAMINACIÓN URBANA DEL AIRE. ASPECTOS FISICOQUÍMICOS, MICROBIOLÓGICOS Y SOCIALES. Universidad Autónoma Del Estado de Morelos. Mexico. 2014. 186p.\nhttps://www.uaem.mx/dgds/files/libros/2014_LIBRO_CONTAMINACI%C3%93N%20URBANA%20DEL%20AIRE.%20ASPECTOS%20FISICOQU%C3%8DMICOS%2C%20MICROBIOL%C3%93GICOS%20Y%20SOCIALES.pdf\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "10:00 - 12:00",
+        "professor": "LUIZ FRANCISCO PIRES GUIMARAES MAIA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "7º Período": [
+     {
+      "Codigo": "EEG481",
+      "Nome": "Sist Inform Georeferenciadas",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Cartografia, Sistemas de informação, modelagem de território em ambiente CAD, integração com base de dados, georeferenciamento, aplicações em problemas de engenharia georeferenciados.\n",
+       "BibliografiaBasica": "1) ROBINSON, A. H. Elements of Cartography. Ed. John Wiley & Sons, 1993, ISBN 047155797;\n2) GOES, K. AutoCAD Map: Explorando ferramentas de mapeamento. Ed. Ciência Moderna, 2000, ISBN 8573930756;\n3) JONES, C. Geographical Information Sistems and Computer Cartography' ? Addison Wesley Pub. Co. 1996, ISBN 0582044391;\n4) FINKELSTEIN, E. AutoCAD 2000: a Biblia, Ed. Ciência Moderna, 2000, ISBN 8573931116;\n5) XAVIER, J. Manual de Utilização do SAGA, IGEO-LAGEOP/UFRJ.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "10:00 - 12:00",
+        "professor": "GRAZIELLA MARIA FAQUIM JANNUZZI"
+       },
+       {
+        "dia": "Qui",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "EEG105",
+       "EEG301"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EEH591",
+      "Nome": "Model Hidraul e Ambiental",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O processo de modelagem. Introdução aos métodos numéricos através de diferenças finitas: 1. Modelagem numérica de problemas advectivos e de propagação; 2. Modelagem numérica de problemas difusivos; 3. Modelagem de problemas advectivos-difusivos. Introdução a métodos de volumes finitos. Introdução a métodos de elementos finitos. Modelagem de hidrodinâmica de corpos de água. Modelagem do transporte de escalares. Modelagem com métodos lagrangeanos. Modelagem de dados-pós processamento.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "08:10 - 11:50",
+        "professor": "PAULO CESAR COLONNA ROSMAN"
+       }
+      ],
+      "Requisitos": [
+       "EEH404"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EQB056",
+      "Nome": "Controle Monit Pol Atmosférica",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Monitoramento de poluentes atmosféricos. Métodos de amostragem de gases traço e partículas. Equipamentos de amostragem de gases e partículas. Controle de afluentes gasosos. Métodos de controle de gases e partículas. Equipamentos de controle de gases e partículas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 15:00",
+        "professor": "CLAUDINEI DE SOUZA GUIMARAES"
+       }
+      ],
+      "Requisitos": [
+       "EQW010",
+       "IGT603"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "COG203",
+      "Nome": "Planejamento Ambiental",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Evolução da política ambiental no Brasil e no mundo. Problemas ambientais globais e locais. Gestão ambiental pública e privada. O sistema nacional de meio-ambiente. Padrões de qualidade ambiental. Zoneamento e unidades de conservação. Avaliação de impacto ambiental. Gerenciamento de bacias hidrográficas. A ISO 14000. Estudos de caso.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "10:00 - 12:00",
+        "professor": "MARCO AURELIO DOS SANTOS"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EEH472",
+      "Nome": "Poluição Sonora",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Som: grandezas fundamentais, conceitos básicos. Níveis sonoros: nível de pressão, intensidade e de potência sonora. Espectro. Formas de medir ruído e estimar a poluição sonora. Efeitos do ruído. Ruído no ambiente de trabalho. Ruído urbano. Legislação. Noções de controle de ruído.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "15:10 - 17:00",
+        "professor": "RICARDO EDUARDO MUSAFIR"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EEH594",
+      "Nome": "Hidrodinâm dos Corpos de Agua",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Circulação hidrodinâmica e transporte de contaminantes em rios, lagos, reservatórios, estuários e regiões costeiras. Sobre modelagem computacional: descrição de modelos 3D, 2DH, 2DV, 1D e analíticos. Conceitos da hidraúlica de meios porosos. Métodos analíticos e numéricos para o cálculo da circulação e transporte de contaminantes. Ondas de superfície: geração e propagação, difração, reflexão, ressonancia portuária, arrebentação. Aplicações de engenharia. Propriedades não-lineares: fluxo de massa e fluxo de quantidade de movimento. Tensão de radiação. Correntes geradas por ondas. Marés astronômica e meteorológica. Processos sedimentológicos e morfológicos: Caracterização dos sedimentos coesivos. Mecanismo de erosão, transporte e deposição de sedimentos. Processos litorâneos. Transporte eólico. Obras hidraúlicas fluviais e costeiras: obras de regularização e canalização de vias fluviais. Estabilidade de embocaduras de maré. Impactos morfológicos, conceituação de soluções mitigadoras. Aspectos funcionais de estruturas costeiras. Engordamento de praia, transpasse de areia.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:10 - 15:00",
+        "professor": "SUSANA BEATRIZ VINZON"
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:10 - 15:00",
+        "professor": "MARCOS NICOLAS GALLO"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:10 - 15:00",
+        "professor": ""
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:10 - 15:00",
+        "professor": "SUSANA BEATRIZ VINZON"
+       }
+      ],
+      "Requisitos": [
+       "EEH303"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "8º Período": [
+     {
+      "Codigo": "COP301",
+      "Nome": "Gestão Ambiental na Indústria",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Política e Gestão Ambiental  Valores ambientais, sociedade e natureza. Gestão Ambiental nas empresas, a série ISO 14.000. Auditorias, SGA, Rotulagem, o de desempenho ambiental e análise do ciclo de vida. Aspectos da legislação ambiental. A política ambiental nos níveis federal, estadual e municipal. Responsabilidade social e a ética ambiental.  Avaliação de Impactos Ambientais.  Noções básicas de Ecologia. Relações ecológicas, ecossistemas, ciclos biogeoquímicos, manejo e poluição industrial. Introdução à avaliação de impactos ambientais. Principais métodos de análise. Análise Ambiental ( Meio Aéreo). Análise Ambiental ( Meio Aquático). Análise Ambiental (Solo, Sedimento). Destinação de resíduos.  Logística Ambiental.  Ferramentas de análise  Análise econômica. Aquisição de dados. Direito Ambiental. Bloco IV - Meio Ambiente e Sociedade. Normas internacionais.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EEG410",
+      "Nome": "Planej Urbano e Meio Ambiente",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Cidade e meio Ambiente. Impactos ambientais da ocupação urbana: abastecimento d'água, saneamento, transportes, impermeabilização do solo, drenagem urbana, ilhas de calor, lixo urbano. A ocupação urbana no Brasil.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "COG203"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EEH601",
+      "Nome": "Tratamento de Água",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Operação e processos unitários de tratamento de água; Gradeamento; Desarenação; Coagulação, Floculação; Decantação; Filtração; Desinfecção; Neutralização; Hidraúlica de ETA\\'s.\n",
+       "BibliografiaBasica": "1) SPELMAN, F.R.; DRINAN, J. The Drinking Water Handbook, Technomics Publishing Co., 1999;\n2) DI BERNARDO, L. Métodos e Técnicas de Tratamento de Água, ABES, 1993;\n3) VALÊNCIA, J. A. Teoria y Practica de la Purification del Água, Acroal, 1992;\n4) RICHTER, C. A. Tratamento de Água, ABES, 1991;\n5) LEME, F. P. Teoria e Técnicas de Tratamento de Água, ABES, 1990.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "15:10 - 17:00",
+        "professor": "IENE CHRISTIE FIGUEIREDO"
+       }
+      ],
+      "Requisitos": [
+       "EEH304"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EEWX00",
+      "Nome": "Projeto de Graduação",
+      "Créditos": "4.0",
+      "Teórica": "0",
+      "Prática": "180",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenvolvimento de um projeto objetivando a aplicação de conhecimentos adquiridos ao longo do curso, com supervisão de um professor orientador.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "COG200",
+      "Nome": "Economia e Meio Ambiente",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Principais correntes de Economia e Meio Ambiente, falhas de Mercado, Tipos de Externalidades Ambientais, Nível Ótimo de Poluição, Instrumentos Econômicos, Taxação e Poluição Ótima, Padrões Ambientais, Taxas Ambientais e Subsídios, Padrões de Consumo, Valor Econômico, Valoração Ambiental, Métodos de Quantificação  Física e Valoração Monetária de Custos Ambientais, Estudos de Casos Práticos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "EEH351",
+       "EEI533"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EEC595",
+      "Nome": "Segurança Ambiental",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "conceitos básicos em segurança de sistemas e em Segurança Ambiental. Gestão integrada. Análise de riscos ambientais. Análise de acidentes: metodologia e estudo de casos. Auditoria em segurança ambiental. Estudos e projetos de segurança ambiental.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "EEH403"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EEH527",
+      "Nome": "Gestão de Recursos Hídricos",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Escassez de água. Disponibilidade x Demanda. Bacias hidrográficas brasileiras. Conceitos para o gerenciamento de bacias hidrográficas, o valor econômico da água, o enquadramento de rios, a concessão de outorga e a cobrança. o sistema brasileiro e sua organização legal e institucional. Lei 9433/97: fundamentos, objetivos e instrumentos. A dominialidade dos cursos d'água. Planos de recursos hídricos como instrumentos de gestão na política nacional. transposição das águas do Paraíba do Sul para o Guandu. Estudos de casos: conflitos de recursos hídricos no Brasil.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "EEH304",
+       "EEH404"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EEH603",
+      "Nome": "Tratamento de Esgotos",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Operações e processos unitários de tratamento de esgotos; tratamento preliminar, primário e secundário; gradeamento, desarenação; decantação; flotação; iodos ativados, filtração biológica, rotores de contato, lagoas de estabilização; lagoas aeradas; tratamento do lodo; espessamento; estabilização, desidratação; destinação final do iodo.\n",
+       "BibliografiaBasica": "1) QASIM, S. R. Wastewater Treatment Plants, Technomics Publishing, 1999;\n2) JORDÃO, E.P. & PESSOA, C. A. Tratamento de Esgotos Domésticos, ABES, 1995;\n3) WEF. Wastewater Residuals Stabilication, WEF, 1995;\n4) WEF, Design of Municipal Wastewater Treatment Plants, WEF, 1992;\n5) METCALF & EDDY. Wastewater Engineering, Treatment, Disposal and Reuse, McGraw Hill Co., 1991.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "EEH304",
+       "EEH483"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "9º Período": [
+     {
+      "Codigo": "EEWU00",
+      "Nome": "Estágio Obrigatório",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "160",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estágio curricular obrigatório, em empresas ou instituições credenciadas e sob supervisão direta da instituição de ensino, através de relatórios técnicos e acompanhamento individualizado durante o período de realização da atividade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EEH592",
+      "Nome": "Gestão de Projetos",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Aspectos institucionais relacionados a eng.Sistemas de organização de empreendimentos.Planejamento,execução e controle de projetos.Cronograma físico e financeiro.PERT/CPM.Avaliação de projetos.Cálculo de tarifas aplicado a projetos de eng.Princípios básicos de organização e administração.Tipos de estruturas.Sistemas de organização.Problemas de pessoal e material.Produção industrial:planejamento,programação e controle.Matemática financeira básica:juros,descontos,capitalização e amortização.Alternativas de soluções técnico-econômicas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "17:00 - 19:00",
+        "professor": "CLAUDIO FREITAS NEVES"
+       },
+       {
+        "dia": "Qua",
+        "hora": "17:00 - 19:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EQI075",
+      "Nome": "Intro aos Trat Quim de Res Ind",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Fontes poluidoras, resíduos e efluentes. Legislação de resíduos sólidos e despoluição. Caracterização tecnológica integrada de resíduos, efluentes e emissões gasosas. Destruição térmica de rejeitos e efluentes via incineração, co-processamento e ceramização e seus fundamentos. Purificação, co-geração energética e aproveitamento dos gases de exaustão. Processos de solidificação e estabilização de resíduos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 15:00",
+        "professor": "MARCELO MENDES VIANA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "10º Período": [
+     {
+      "Codigo": "EEH528",
+      "Nome": "Avaliação Impactos Ambientais",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Agentes e processos de interferência, degradação e dano ambiental. Licenciamento ambiental no contexto da avaliação de impactos ambientais. Diagnose de sistemas ambientais: métodos e indicadores. Subsídios para avaliação econômica de impactos ambientais.\n",
+       "BibliografiaBasica": "1) GUERRA, A. T.; CUNHA, S. B. Geomorfologia e Meio Ambiente. 394 p. 2001;\n2) ALMEIDA, J. L. Ciências Ambientais - Ed. THEX. 482 p. 2002;\n3) CUNHA, S. A.; GUERRA, A. T. Avaliação e Perícia Ambiental. 284p. 2001.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "COG203"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "COC608",
+      "Nome": "Disposição de Resíduos Sólidos",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "modos de disposição por tipo de resíduo ( origem, estado físico, periculosidade); sistemas de controle da contaminação; monitoramento; normas técnicas\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "EEH602",
+       "EQI075"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EQW009",
+      "Nome": "Tratam de Efluentes Indust",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Amostragem e Normas de Amostragem. Conservação das amostras. caracterização de efluentes industriais. Tecnologias de tratamento de efluentes líquidos. Processos Físicos, químicos e biológicos. Microrganismos atuantes nos sistemas de tratamento. Princípios da degradação biológica aeróbia e anaeróbia. Dimensionamento de unidades de tratamento. Remoção de constituintes específicos ( metais pesados, cianetos, ..). Técnicas não-convencionais de tratamentos. Processos Híbridos. Reciclo, Reuso.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "Disciplinas Optativas (Escolha Restrita)": [
+     {
+      "Codigo": "EEI202",
+      "Nome": "Humanidades e Ciencias Sociais",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O pensamento econômico como fator social: uma introdução a economia e a evolução do pensamento econômico. Indústria e sociedade. A administração científica do trabalho e a administração de recursos humanos. Ciência, tecnologia e desenvolvimento. Avaliação social de projetos de engenharia. A noção orgânica e sistêmica do direito.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEI426",
+      "Nome": "Engenharia do Trabalho",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Seguranca do trabalho. Fatores motivacionais. Ergonomia. Normas de seguranca em ambientes industriais. Analise de postos de trabalho.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEI934",
+      "Nome": "Marketing",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução ao sistema de marketing. Comportamento do consumidor. Segmentação do mercado. Pesquisa de mercado. Sistemas de informação de marketing. Planejamento estratégico voltado para o mercado. Estratégia de desenvolvimento de novos produtos e do ciclo do produto. Estratégia de preço e comercialização.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEL192",
+      "Nome": "Evolucao da Ciencia",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Pequena introducao a historia da ciencia: a antiguidade, Arquimedes, Aristoteles e as cosmologias. Copernico, Giordano Bruno, Galileu, kepler e a revolucao cient do sec xvii. Newton e leibnitz. A mecanica e a matematica. O met cientifico. A revol industrial e a revol politica do sec xviii. Os mod de engenharia. O impacto da revol industrial. A seg revol industrial, a urbanizacao e a consolidacao da ideologia da racionalidade cient. A tec como valor supremo da soc indust. As crises econ do sec xx. A importancia do dominio tecn em face da formacao de vinculos econ globais.O merc mundial. As persp p/o futuro\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EET100",
+      "Nome": "Tecnologia e Desenv Social",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "As conseqüências sociais do desenvolvimento tecnológico e econômico. Desafios, opurtunidades, riscos e tarefas da intervenção \"engenheiral\" confrontada com as carências sociais. Determinantes históricos da desigualdade e da exclusão social no Brasil. Desenvolvimento econômico e estrutura de emprego. Precarização recente das relações trabalhistas. Empresa moderna, cidadania e responsabilidade social.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 10:00",
+        "professor": "MAIRA MONTEIRO FROES"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEW602",
+      "Nome": "Evolucão Ciência e Engenharia",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Pequena introdução à história da ciência: a antigüidade, Arquimedes, Aristóteles e as cosmologias. Copérnico, Giordano Bruno, Galileu, Kepler e a revolução científica do século XVII. Newton e Leibnitz - a mecânica e a matemática - surgem os instrumentos dos futuros engenheiros. O método científico. Euler e Pascal - surge a hidrodinâmica moderna. A revolução industrial e a revolução política do século XVIII. Os modelos de engenharia. o impacto da revolução industrial na construção naval. Froude e os ensaios com modelos reduzidos. A segunda revolução industrial, a urbanização e a consolidação da ideologia da racionalidade científica. A tecnologia como valor supremo da sociedade industrial. As crises econômicas do século XX. A importância do domínio tecnológico em face da formação de vínculos econômicos globais - o mercado mundial. Desemprego estrutural - o fantasma do fim do século. As perspectivas para o futuro.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCB618",
+      "Nome": "Sociedade e Direito",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Sociedade e ordenamento juridico. Direito como linguagem do controle social. Mecanismos formais e informais de controle social: normas juridicas e normas sociais. Direito, controle social e repressao. Conflito, desvio, delinquencia e criminalidade. Direito, ideologias dominantes e minorias eticas, sociais e politicas. Posse e propriedade da terra: legislacao e conflito social. O direito e as questoes sociais no brasil.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "FCB105"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF362",
+      "Nome": "Estética I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução aos principais problemas da estética.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCH608",
+      "Nome": "Historiografia Brasileira II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Analise interpretativa das principais correntes historiograficas brasileiras no sec. Xx. As novas problematicas teoricas e metodologicas. Novos instrumentos conceituais e analises conjuntural e estrutural. O alargamento e diversificacao dos estudos setoriais: as abordagens sociologicas, economicas e ideologicas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "FCH112"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCH671",
+      "Nome": "Historia Social da Arte",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A arte na antiguidade. Sua transformacao no imperio romano e a seguir com a arte crista, da primitiva e medieval. A transicao para o periodo moderno, o renascimento, o barroco e as demais formas esteticas. A arte no seculo XIX a xx.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "FCH112"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCH698",
+      "Nome": "Top Esp de Historia Moderna II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Dinamica e resistencia na sociedade moderna.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCP636",
+      "Nome": "Teoria Política Contemporânea",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "As diversas direções da teoria política contemporânea: o marxismo contemporâneo (Offe, Hirsch) e perspectiva libertaria (Lefort e Castoriadis), o\nsocialismo democrático (Ota Sik, Bobbio, Lindblom), o moderno \"conservantismo\" (Hayek e Friedman), o liberalismo contemporâneo (Keynes, Rawls, Dahrendorf), analise micro política (Foucault), formação de Estados Nacionais (Tilly, B.Moore, Wallerstein, P. Anderson), etc.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEB599",
+      "Nome": "Est da Líng Bras de Sinais I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Nomes próprios; pronomes pessoais; demonstrativos; possessivos; locativos em sentenças simples do tipo pergunta-resposta com \"o que\" e \"quem\" e outros vocábulos básicos; numerais; quantidade; topicalização; flexão verbal; flexão de negação; expressões faciais e corporais; percepção visual; conversação; diálogos; textos: LIBRAS, cultura e comunidade surda.\n",
+       "BibliografiaBasica": "1) BRITO, L. F. Por uma gramática de língua de sinais. Rio de Janeiro: Tempo Brasileiro, 1995.\n2) FELIPE, T.; MONTEIRO, M. S. LIBRAS em contexto. Curso Básico. Brasília: Ministério da Educação e do Desporto/Secretaria de Educação Especial, 2001.\n3) GESSER, A. Libras - Que língua é essa? Crença e preconceitos em torno da língua de sinais e da realidade surda. Florianópolis: Parábola, 2009.\n4) STROBEL, K. L. As imagens do outro sobre a cultura surda. Florianópolis: EdUFSC, 2008.\n",
+       "BibliografiaComplementar": "1) PIMENTA, Nelson e QUADROS, Ronice Muller. Curso de Libras I, LSB Vídeo, volume I, Iniciante, 2006 e 3a ed., 2008.\n2) Dicionário Enciclopédico Ilustrado Triíngue da Língua de Sinais Brasileira ? vol 1 e vol. 2 Site: www.acessobrasil.org.brasil\n3) Dicionário da Língua Brasileira de Sinais, INES, versão, 2.0, ano 2006.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NID102",
+      "Nome": "Gestão Participativa",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A disciplina debate a participação em três esferas: governamental, em empreendimentos produtivos e para gestão de recursos naturais. Discute: (1) Participação e gestão pública: democracia participativa; democracia na América Latina. (2) Recursos de uso comum; Sistemas sócio ecológicos; Gestão compartilhada de sistemas sócio ecológicos; (3) Economia solidária e social; Autogestão; políticas públicas; empreendimentos sociais e solidários; redes; empresas recuperadas por trabalhadores.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "PRU110",
+      "Nome": "Ciências Soc Gestão Pública I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A Sociologia de Durkheim: o método sociológico, a solidariedade e a divisão social do trabalho, integração social e anomia. Marx: sociedade e conflito. A dialética materialista e a filosofia da história. A crítica da filosofia e da economia política. A teoria compreensiva de Weber, ação social e os tipos de dominação; a ética protestante e o espírito do capitalismo; a burocracia.\n___BIBLIOGRAFIA BÁSICA___\n1) ARON, Raymond. As etapas do pensamento sociológico. 2ª Ed. São Paulo: Martins Fontes, 1987.\n2) BOTTOMORE, T. & NISBET, T. História da Análise Sociológica, Rio de Janeiro, Zahar, 1980.\n3) SANTOS, Boaventura de Sousa. Pela Mão de Alice: o social e o político na pós-modernidade. São Paulo; Cortez, 1995.\n4) COSTA, Maria Cristina Castilho. Introdução à ciência da sociedade. São Paulo: Moderna, 1987.\n5) DÜRKHEIM, Émile. A divisão do trabalho social. Lisboa: Presença, 1994.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "PRU231",
+      "Nome": "Formação Econ Soc Brasileira",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Clássicos do pensamento social brasileiro com destaque à sua contribuição no que concerne a análise da organização do território, da distribuição espacial da população e da produção (apropriação) da riqueza.\n___BIBLIOGRAFIA BÁSICA___\n1) PRADO JÚNIOR, Caio. Formação do Brasil contemporâneo. 20 ed. São paulo: Brasiliense, 1987.\n2) FURTADO, Celso. Formação econômica do Brasil. 18 ed. São paulo: Cia Editora Nacional, 1985.\n3) HOLANDA, Sergio Buarque (org). História geral da civilização brasileira. Tomo I, volI, São Paulo: DIFEL, 1972.\n4) MELLO, João Manoel Cardoso de. O capitalismo tardio. 3ª ed. São Paulo: Brasiliense, 1984.\n5) BAER, Werner. A industrialização e o desenvolvimento econômico do Brasil. 4ªed. Rio de Janeiro: FGV, 1979.\n6) LESSA, Carlos. Quinze anos de política econômica. 4ª ed. São Paulo: Brasiliense, 1983.\n7) IANNI, Otavio. Estado e planejamento econômico no Brasil (1930-1970). Rio de Janeiro: Editora UFRJ, 2009.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "PRU242",
+      "Nome": "Políticas Sociais",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Emergência da questão social na sociedade capitalista. Questão social e políticas sociais. O estado do bem-estar social. Ajuste estrutural, neo-liberalismo e a nova questão social. O Banco Mundial e o combate à pobreza.\n___BIBLIOGRAFIA BÁSICA___\n1) SANTOS, Wanderley Guilherme dos. Cidadania e Justiça: a política social da ordem brasileira. Rio de Janeiro: Campus, 1987.\n2) MARSHALL, Thomas Humphrey. Cidadania, classe social e status. Rio de Janeiro: Zahar, 1967.\n3) VIANNA, Maria Lucia T. Werneck. A americanização (perversa) da seguridade social no Brasil. Estratégias de bem-estar e políticas públicas. Rio de Janeiro: Revan; Iuperj-UCAM, 2000.\n4) DRAIBE, Sonia Miriam. Uma nova institucionalidade das políticas sociais? Reflexões a propósito da experiência latino-americana recente de reformas dos programas sociais. São Paulo em Perspectiva, n.11, vol.4, 1997.\n5) CARVALHO, José Murilo de. Cidadania no Brasil: o longo caminho. Rio de Janeiro: Civilização Brasileira, 2008. Introdução: mapa da viagem, pp.7-13.\n6) FAHEL, Murilo; NEVES, Jorge Alexandre Barbosa (orgs.). Gestão e Avaliação de Políticas Sociais no Brasil. Belo Horizonte: Ed. PUC-Minas, 2007.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "COG204",
+      "Nome": "Sociologia e Meio Ambiente",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução: Sociedades humanas, energia e meio ambiente. Os fluxos da energia na biosfera e nas sociedade humanas. Tipos de sociedades (tamanho e complexidade), recursos naturais e poluição.  O efeito estufa, outros impactos ambientais e a eficiência energéticas na sociedades industriais e pós-industriais.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "EEH351",
+       "EEI533"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEI050",
+      "Nome": "Planejamento Estrategico",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Ferramentas e técnicas de planejamento. Quando, como, porque e para que planejar. Métodos de planejamento: alternativas, custos, limites. Uso de cenários, planejamento de contingências, alternativas de ação. Limites e críticas dos atuais métodos de planejamento estratégico.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEI206",
+      "Nome": "Historia da Tecnologia",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Tecnologia e ciencia, evolucao dos conceitos. O homem e o meio ambiente, tecnologia apropriada. Tecnologia pre-historica. O calcolitico. A metalurgia. Tecnologia na antiguidade. A escola de alexandria. A idade media e os sistemas de producao, o artesanato. A idade moderna, a manufatura. A energia e sua evolucao. Revolucao industrial. A administracao cientifica do trabalho. Sistemas de transporte. A eletronica. Biotecnologia. Evolucao e tecnologia. Sistema economico. O seculoxix. A industrializacao no brasil. A era tecnologica.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEI933",
+      "Nome": "Economia Brasileira",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A formação da economia agro-exportadora. As disparidades regionais. A industrialização brasileira. O processo de substituição de importações. Aspectos recentes. As décadas mais próximas: desequilíbrios e tentativas de estabilização econômica.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "EEI533"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEL191",
+      "Nome": "Engenharia e Sociedade",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Historia critica da ciencia e tecnologia. Revolucoes cientificas e tecnologicas: revolucao neolitica, Revolucao industrial, revolucao pos-industrial. Im plicacoes politicas, economicas, ecologicas e eticas da engenharia e da atuacao dos engenheiros na transformacao da sociedade. Politica cientifica e sociedade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 17:00",
+        "professor": "ROBERTO IVO DA ROCHA LIMA FILHO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEL193",
+      "Nome": "O Trabalho do Futuro",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Analise da desestruturacao do mercado de trabalho no capitalismo contemporaneo. Estudo das tecnologias de informacao e comunicacao e das inovacoes organizacionais (downsizing, teamwork, etc), e seus impactos sobre o trabalho do engenheiro.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEW215",
+      "Nome": "Tóp Esp História da Engenharia",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Variável\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCA218",
+      "Nome": "Antropologia Cultural",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A Antropologia como campo de conhecimento. A Antropologia e as demais ciências sociais. O social e o biológico. A evolução humana. As noções de natureza e cultura. As concepções de sociedade e cultura. O problema do etnocentrismo. A pesquisa de campo e a etnografia como método de fazer teoria em Antropologia.\n___BIBLIOGRAFIA BÁSICA___\n1- BARTH, F. O Guru, o iniciador e outras variações antropológicas. Rio de Janeiro: Contra Capa Livraria, 2000.\n2- BIANCO, B.F. (Ed.). Antropologia das Sociedades Contemporâneas. São Paulo: Global Universitária, 1987.\n3- DAMATTA, R. Carnavais, malandrose heróis: para uma sociologia do dilema brasileiro. Rio de Janeiro: Zahar, 1980.\n4- GEERTZ, C. (Ed.). A interpretação das culturas. Rio de Janeiro: Zahar, 1978.\n5- GEERTZ, C. Nova Luz sobre a Antropologia. Rio de Janeiro: Zahar, 2001.\n6- MALINOWSKI, B. Argonautas do Pacífico Ocidental. São Paulo: Abril Cultural, 1978.\n7- NUNES, E. O. A aventura sociológica: objetividade, paixão, improviso e método na pesquisa social. Rio de Janeiro: Zahar, 1978.\n8- SAHLIN, M. Cultura na prática. Rio de Janeiro: Editora da UFRJ, 2005.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF108",
+      "Nome": "Ética I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução aos principais problemas da ética.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF654",
+      "Nome": "Hist da Filos no Brasil I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A filosofia brasileira como problema: origens e perspectivas. Causas imanentes à cultura nacional: o fator indígena e o fator africano.\n",
+       "BibliografiaBasica": "1) BERNARDES, Célia R. O. Racismo de Estado. Ed. Jurúa, 2013;\n2) BRITO, Raimundo de Farias. O mundo interior. Org. e estudo introdutório de L. A. Cerqueira. Lisboa: INCM, 2003;\n3) CERQUEIRA, Luiz Alberto. Natureza e cultura: a idéia de origem da filosofia brasileira. Lisboa: Universidade Nova de Lisboa, 1997;\n4) GUIMARÃES, Aquiles Côrtes. O tema da consciência na filosofia brasileira. São Paulo: Convívio, 1982;\n5) REALE, Miguel. Estudos de filosofia brasileira. Lisboa: Instituto de filosofia luso-brasileira, 1994;\n6) CERQUEIRA, Luiz Alberto. Filosofia brasileira ? Ontogênese da consciência de si. Petrópolis: Vozes, 2002;\n7) CERQUEIRA, Luiz Alberto (org.). Aristotelismo Antiaristotelismo Ensino de Filosofia. Rio de Janeiro: Ágora da Ilha, 1999;\n8) DESCARTES, René. Meditações Metafísicas. São Paulo: Martins Fontes, 2005;\n9) MAGALHÃES, D. J. Gonçalves de. Fatos do espírito humano. Org. e estudo introdutório de L. A. Cerqueira. Petrópolis: Vozes, 2004;\n10) VIVEIROS DE CASTRO, E. A inconstância da alma selvagem. São Paulo: Cosac & Naif, 2002.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCH668",
+      "Nome": "Movimento Operario no Brasil",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O operariado enquanto classe na estrutura social brasileira. Suas formas de organizacao sindicais e politicas. Ideologia. Atitudes e praticas. Um estudo de caso.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "FCH112"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCH680",
+      "Nome": "Top Esp em Hist do Brasil III",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Não cadastrada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCP104",
+      "Nome": "Introdução à Ciência Política",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceitos de Poder, Estado e Sociedade Civil; Regimes Políticos e Relações entre Poderes; Instituições Representativas: partidos, grupos de interesse, movimentos sociais; Políticas Públicas.\n___BIBLIOGRAFIA BÁSICA___\n1) HOBBES, Thomas. O Leviatã. São Paulo: Nova Cultural, 2000.\n2) LOCKE, John. Segundo Tratado sobre o Governo. São Paulo: Nova Cultural, 2000.\n3) MAQUIAVEL, Nicolau. O Príncipe. São Paulo: Nova Cultural, 2000.\n4) ROUSSEAU, Jean-Jacques. Discursos sobre a origem e os fundamentos da desigualdade entre os homens. São Paulo: Nova Cultural, 1999.\n5) WEBER, Max. A ciência e política: duas vocações. São Paulo: Cultrix, 2011.\n6) WEFFORT, Francisco (org.). Os clássicos da política. 14. ed. São Paulo: Ática, 2006 (vol.1 e 2).\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCP670",
+      "Nome": "Crises da Realidade Brasileira",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conjunturas críticas e mudanças político-institucionais no Brasil republicano até 1964. Primeira República. A crise do estado oligárquico. Governos Vargas. A crise do Estado Novo. Crises na república democrática: 1954, 1961 e 1964. A crise do regime autoritário.\n",
+       "BibliografiaBasica": "1- BENEVIDES, M. V. M. A UDN e o Udenismo. Rio de Janeiro: Paz e Terra, 1981.\nCARNEIRO, G. Lusardo: O Último Caudilho. Rio de Janeiro: Nova Fronteira, 1977, 2 vols.\n2- CASTELLO BRANCO, C. A renúncia de Jânio ? um depoimento. Rio de Janeiro: Revan, 1996.\n3- COUTINHO, Lourival. O General Góes depõe... Rio de Janeiro: Coelho Branco, 1956.\n4- MORAES, D. e Viana, Francisco. Prestes: Lutas e Autocríticas. Petrópolis: Vozes, 1982.\n5- SODRÉ, N. W. Memórias de um Soldado. Rio de Janeiro: Civilização Brasileira, 1967.\n6- VICTOR, M. Cinco Anos que Abalaram o Brasil. Rio de Janeiro: Civilização Brasileira, 1965.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NID101",
+      "Nome": "Tecnologia Social",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A disciplina visa refletir sobre o processo de desenvolvimento de soluções tecnológicas para questões sociais. Debate: (1) Estudos em ciência, tecnologia e sociedade; teoria crítica da tecnologia; tecnologia social. (2) Conceitos de cultura, sociedade e tecnologia; impacto da técnica na sociedade e na natureza; não neutralidade da técnica; técnica e divisão do trabalho. (3) Experiências práticas: fontes alternativas de energia; tecnologia da informação para fins sociais; tecnologia de alimentos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 17:00",
+        "professor": "Não Informado"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NID103",
+      "Nome": "Trabalho Formação Politécnica",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A disciplina reflete sobre a formação de técnicos e tecnólogos, de seus professores e a realidade social. Debate: (1) abordagem do pensamento psicopedagógico; papel do trabalho no processo de apropriação; conceito de atividade para psicologia histórico-cultural. (2) Dependência da tecnologia; uso da tecnologia na educação; potencialidades psicopedagógicas das novas tecnologias.(3) Lugar do trabalho e da formação; capitalismo e trabalho; a formação e as implicações para o mundo do trabalho.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "15:00 - 17:00",
+        "professor": "Não Informado"
+       },
+       {
+        "dia": "Qui",
+        "hora": "15:00 - 17:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "PRU111",
+      "Nome": "Teorias do Planejamento",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Origens do planejamento; fases e modelos do planejamento: compreensivo, incremental, advocatício e participatvo; Estado e racionalização: o planejamento entre política e administração; poder, participação e comunicação: o planejamento entre racionalidade instrumental e comunicativa; planejamento estratégico e planejamento democrático; novos agentes e novas formas do planejamento no século XXI - do pós-moderno ao insurgente e subversivo.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "PRU240",
+      "Nome": "Política e Planej Ambiental",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Debate em torno da questão ambiental nos níveis nacional e internacional; Incentivo ao pensamento plural a respeito do tema, introduzindo diferentes perspectivas e identificando as continuidades e conflitos entre os distintos pontos de vista; Panorama da política ambiental brasileira, com foco nos instrumentos disponíveis aos gestores públicos para o tratamento de matérias relativas à interação entre sociedade e natureza.\n___BIBLIOGRAFIA BÁSICA___\n1) ACSELRAD, H.; MELLO, C. D.; BEZERRA, G. D. N. O que é Justiça Ambiental. Rio de Janeiro: Garamond, 2009.\n2) BECK, U. Sobre a lógica da distribuição da riqueza e da distribuição do risco. In: BECK, U. Sociedade de risco: rumo a uma outra modernidade. São Paulo: Editora 34, 2011. p. 23-60.\n3) BRASIL. Lei nº 6.938 de 31 de agosto de 1981. Dispõe sobre a Política Nacional do Meio Ambiente, seus fins e mecanismos de formulação e aplicação, e dá outras providências.\n4) DIEGUES, A. C. O mito moderno da natureza intocada. São Paulo: Hucitec, p. 13-38, 2004.\n5) FARIAS, Talden. Licenciamento Ambiental: Aspectos Teóricos e Práticos, 7ª ed., Belo Horizonte: Editora Forum, 2019, p. 27-43.\n6) HARDIN, G. The tragedy of the commons. Science, 162, 1243-1248, 1968.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "PRU352",
+      "Nome": "Ética do Setor Público",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Fundamentos filosóficos da ética. Estado e sociedade civil. Esfera pública e esfera privada. A ética individual e a ética pública. O serviço público e o servidor público. O interesse público e o em comum.\n___BIBLIOGRAFIA BÁSICA___\n1) SEN, Amartya. Sobre Ética e Política, São Paulo: Companhia das Letras, 1999.\n2) SEN, Amartya, Desigualdade reexaminada. Rio de Janeiro, Record, 2008.\n3) ARISTÓTELES. Ética a Nicomacos, Brasilia: Editora Universidade de Brasilia, 2001, 43 ed.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     }
+    ],
+    "Disciplinas Optativas (Escolha Condicionada)": [
+     {
+      "Codigo": "EEC001",
+      "Nome": "Engenharia do Ciclo de Vida",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Análise do cilo de vida_LCA. Análise do Custo Total - ACT. Modelo de negócio: uma abordagem orientada para o ciclo de vida do produto. Avaliação de estratégias de ciclo de vida do produto. Indicadores e métricas de sustentabilidade. Modelos interativos organização-processo-produto. Modelos EIO-LCA (Economic Input-Output Life Cycle Assessment Model). Estudo de caso.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEC003",
+      "Nome": "Hig Ocup na Ind Petróleo e Gás",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceituação de higiene ocupacional. Agentes químicos: Conceituação, Classificação, Ocorrência, Limite de Tolerância, Técnicas de Avaliação. Contaminantes sólidos e líquidos: classificação, ocorrências, estratégia de amostragem, técnicas de avaliação. Contaminantes gasosos: medidas de controle coletivo para agentes químicos, medidas de controle individual, laboratório de manuseio de equipamentos de avaliação. Agentes físicos: conceitos, técnicas de medição, critérios de avaliação, medidas de controle. Ruído. Vibrações. Sobrecarga térmica. Pressões elevadas e baixas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEC005",
+      "Nome": "Confiab Humana em Inst Industr",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Ergonomia, tarefa e análise de atividade de trabalho. Árvore de falhas, árvore de eventos, análise hierárquica das tarefas.Erro humano, tipos de erro humano, modelos de Reason, fatores que afetam o desempenho humano. Definição de confiabilidade humana, base de dados de erros humanos. Métodos de análise de confiabilidade humana de primeira geração. Métodos de análise de confiabilidade humana e simulação do processo de retirada de emergência.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEC009",
+      "Nome": "Mat e Meio Amb: Crit Seleção",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Avaliação de materiais de construção, para fins de melhorias de processo e produto ou informação a projetistas. Rotulagem ambiental de produtos, Ferramentas computacionais de suporte a decisão e auxílio ao projeto, especializadas no uso de ACV para medir ou comparar o desempenho ambiental de materiais e componentes de construção civil; Instrumentos de informação aos projetistas; e Esquemas de avaliação/certificação ambiental de edifícios.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "EEC421"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEC473",
+      "Nome": "Mecânica dos Solos",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "índices físicos; classificação de solos; fluxo em solos; adensamento unidimensional; resistência ao cisalhamento; tensões em solos; conceitos básicos de rebaixamento do lençol d'água;conceitos básicos de barragens convencionais e de rejeitos; fenomenologia de encostas naturais.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "EEC352"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEE620",
+      "Nome": "Conservacao de Energia",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Uso eficiente da energia eletrica. A energia no Brasil; beneficios socio ambientais da conservacao de energia. Tecnologiaa envolvidas. Previsao da demanda e conservacao; cenarios futuros. Consumo da energia, tarifacao, instalacao e cargas. Analise do consumo e fator de potencia. Analise das instalacoes eletricas; transformadores; motores e circuitos de iluminacao.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "FIM230"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEG507",
+      "Nome": "Bim1: Mod Digital Edificação",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo morfológico do projeto considerando a geometria dos componentes construtivos. Composições volumétricas. Estudo de unidades construtivas. Condicionantes dimensionais do projeto. Racionalização da distribuição dos componentes e suas interações. Conectividades dos componentes em sistemas BIM. Logística gráfica dos componentes construtivos. Aspectos gráficos de coordenação modular. Bibliotecas de componentes inteligentes e componentes parametrizados. A coordenação espaço-temporal do 2D ao 5D.\n___BIBLIOGRAFIA BÁSICA___\n1- CROTTY, Ray. The Impact of Building Information Modelling: Transforming Construction. Taylor & Francis. 2011.\n2- DZAMBAZOVA, Tatjana; KRYGIEL, Eddy; DEMCHAK, Eddy Krygiel. Introducing Revit Architecture: BIM for Begginners. John Wiley & Sons, 2009.\n3- EASTMAN, Chuck; Teicholz, Paul; SACKS, Rafael; LISTON, Kathleen. Manual de BIM. Um guia de Modelagem de Informação da construção. John Wiley & Sons. 2008.\n4- HARDIN, Brad. BIM and Construction Management: Proven Tools, Methods, and Workflows. John Wiley & Sons. 2009.\n5- HENSEL, Michael; MENGES, Michael Hensel. Emergence: Morphogenetic Design Strategies. John Wiley & Sons. 2004.\n6- MENEGOTTO, José L; ARAÚJO, Tereza C. M. O desenho digital. Técnica e arte. Rio de Janeiro: Interciência, 2001.\n7- SMITH, Dana K. Building Information Modeling: A Strategic Implementation Guide for Architects, Engineers, Constructors, and Real State Asset managers. John Wiley & Sons. 2009.\n8- WOODBURY, Robert. Elements of Parametric Design. Routledge, 2010.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "EEG301"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEH004",
+      "Nome": "Tópicos em Eng Ambiental III",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conteúdo variável.\n___ BIBLIOGRAFIA BÁSICA ___\n1- Conteúdo variável.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEH006",
+      "Nome": "Tópicos em Eng Ambiental V",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conteúdo variável.\n___ BIBLIOGRAFIA BÁSICA ___\n1- Conteúdo variável.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEH421",
+      "Nome": "Hidráulica Geral",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Revisão dos fundamentos de mecânica dos fluídos.  Escoamento permanente em canais: escoamento crítico, uniforme e gradualmente variado.  Singularidades hidráulicas: orifiícios, bocais, vertedores, tubos curtos, ressalto e queda hidráulica.  Análise dimensional.  Semelhança mecânica.  Bombas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "08:10 - 10:00",
+        "professor": "AFONSO AUGUSTO MAGALHAES DE ARAUJO"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:10 - 10:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "EEH303"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEH503",
+      "Nome": "Aproveitamentos Hidreletricos",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O planejamento energético brasileiro.  Arranjos gerais dos aproveitamentos.  Seleção de locais.  Estudos preliminares.  Anteprojeto.  Projeto- básico.  Projeto-executivo.  Barragens e reservatórios.  Assoreamento de reservatórios.  Tomadas d\\' água.  Adução.  Casas de força: equipamentos.  Geradores.  Sub-estações e linhas de transmissão.  Construção.  Mercado de energia: tarifas; legislação.  Outorga.  Licenciamento ambiental.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "10:10 - 12:00",
+        "professor": "HELOISA TEIXEIRA FIRMO"
+       },
+       {
+        "dia": "Qui",
+        "hora": "10:10 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "EEH404"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEH521",
+      "Nome": "Irrigação e Drenagem",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Hidrologia Agrícola: produtividade agrícola, solo, planta, clima, qualidade de água, demanda hídrica dos cultivos. Reservação, adução e distribuição hídrica. Sistemas de irrigação e drenagem. Erosão e salinidade dos solos. Aspectos sócio-econômicos dos projetos de irrigação e drenagem.\n",
+       "BibliografiaBasica": "1) REICHARDT, K. A água em Sistemas Agrícolas. Manole Ltda, 1990;\n2) KIEHL, E. J. Manual de Edafologia. Agronômica Ceres, 1979;\n3) DOORENBOS, J.; PRUITT, W. O. Necessidades Hídricas das Culturas ?Estudos (traduzido) de Irrigação e Drenagem da FAO, nº 24, publicada pela Universidade Federal da Paraíba, 1977;\n4) BERNARDO, S. Manual de Irrigação. Publicação da UFV (MG), 1984.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "EEH404"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEH532",
+      "Nome": "Hidrologia Águas Subterrâneas",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Meios porosos e fluidos: densidade, compressibilidade, viscosidade, porosidade, tortuosidade. Escalas de estudo. Conceito de potencial: forças de campo conservativas, potencial hidráulico. O escoamento de Darcy: anisotropia, tensor de permeabilidade, fluxo a 3 dimensões. Equações de continuidade.  Equação para aquifero. Escoamento de duas fases. Métodos de prospecção de águas subterrâneas.\n",
+       "BibliografiaBasica": "1) ABRH - Engenharia Hidrológica (Volume 2), Águas subterrâneas por Robert Cleary, 1989;\n2) BEAR, J. Dynamics of Fluids in Porous Media. 1979;\n3) FREEZE, R. A. e Cherry, J. A. Groundwater. 1979;\n4) CPRM, Hidrogeologia ? Conceitos e Aplicações ? 3ª Edição- Organização e Coordenação Científica: Fernando A. C. Feitosa, João Manoel Filho, Edilton Carneiro Feitosa, J. Geilson A. Demetrio, 2008.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:10 - 15:00",
+        "professor": "OTTO CORREA ROTUNNO FILHO"
+       }
+      ],
+      "Requisitos": [
+       "EEH403"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEH605",
+      "Nome": "Abastecimento de Água",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Consumo de água; Padrões de qualidade de água; Estudo de concepção de sistemas de abastecimento de água; Unidades componentes; Captação; Adução; Reservação; Redes de dsitribuição de água.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "10:10 - 12:00",
+        "professor": "MONICA MARIA PENA"
+       }
+      ],
+      "Requisitos": [
+       "EEH304"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEH609",
+      "Nome": "Esgotamento Sanitário",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Sistemas de Esgotamento Sanitário. Estudo de concepção. Vazões de contribuição. Unidades componentes: rede coletora, poços de visita, sifões invertidos, Estações elevatórias, grandes coletores e interceptores; lançamentos submarinos; ligações prediais.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "EEH304"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEH611",
+      "Nome": "Aplic Proces Litorâneos em Eng",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceituação de processos litorâneos.  Geomorfologia costeira.  Escalas espacial e temporal envolvidas em processos sedimentológicos costeiros.  Técnicas de observação e monitoramento no campo.  Obras de intervenção de engenharia no litoral: função, modelagem matemática, modelagem numérica.  Gerenciamento costeiro.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "EEH404"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEH613",
+      "Nome": "Controle da Poluição Difusa",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução; Causas da Poluição Difusa; Conceitos Básicos; Mecanismos de Acumulação e Lavagem; Modelos Empíricos para avaliação da Produção de Poluentes durante as enxurradas; Medidas não-estruturais de controle; Medidas Estruturais de Controle; Dimensionamento de Estruturas de Controle, GIS e Controle Integrado da Bacia Hidrográfica.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "EEH483"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEI605",
+      "Nome": "Gestão Pessoal",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenvolvimento da gestão de pessoas no Brasil e o processo de mudança valorativa do capital intelectual.  impacto da gestão de pessoas no desempenho das empresas brasileiras. Gestão. Estratégica de pessoas e responsabilidade corporativa. O papel dos gestores nas organizações e o desenvolvimento do capital intelectual.Os processos da área de recursos humanos:selecionar, monitorar,treinar,controlar e avaliar. Sistemas de comunicação. As diferentes funções do gestor de pessoas. entrevistas de admissão e de demissão. Desenvolvimento Organizacional - DO. O papel dos gestores no compartilhamento da missão e da visão organizacional e na comunicação estratégica nas organizações. Retorno sobre o investimento em pessoas. Remuneração estratégica. Modelagem de cargo e descrição de cargo em Engenharia Ambiental. Empreendedorismo.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEL871",
+      "Nome": "Banco de Dados",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Modelos conceitual, lógico e físico. Modelagem conceitual. Modelos lógicos: relacional, hierárquico, redes e orientado a objetos. Modelo relacional: base conceitual, linguagens, normalização. Modelo hierárquico: base conceitual, linguagens. Modelo redes: base conceitual, linguagem. Modelo orientado a objetos. Segurança. Integridade. Recuperação. Concorrência. Banco de dados distribuído.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EER322",
+      "Nome": "Sistemas de Transportes I",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Princípios fundamentais de sistemas de transportes. Planejamento de sistemas de transportes.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "EER321"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EET520",
+      "Nome": "Prob Amb na Ind Minero-metalur",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Recursos naturais renováveis e não-renováveis. Fontes de poluição nas operações de mineração, tratamento de minérios e metalurgia extrativa. Análise de riscos. Concentração de poluentes. Poluição dos solos por rejeitos de mineração e os meios de recuperação. Poluição nos processos siderúrgicos e da hidrometalurgia. Poluição resultante das industriais de galvanoplastia. Reciclagem de produtos metalúrgicos e de outros materiais. Legislação ambiental.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "EET334"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEW002",
+      "Nome": "Sociedade de Debates I",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Variável\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEW018",
+      "Nome": "Fund Metrol e Aval da Conformi",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução e histórico das medidas; conceitos fundamentais de Metrologia; sistema metrológico mundial; sistema nacional de metrologia; metrologia e padronização; vocabulário internacional de Metrologia (VIM); sistema internacional de unidades; sistemas de medição; calibração de instrumentos de medição; incerteza de medição; certificado de calibração; fundamentos de Metrologia Legal; O INMETRO e a qualidade; Fundamentos da qualidade; Normalização e regulamentação técnica; Acreditação; Fundamentos e mecanismos da avaliação da conformidade; Selos de identificação da conformidade; Acompanhamento de mercado de produtos com conformidade avaliada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEWX02",
+      "Nome": "Proj de Extensão em Engenharia",
+      "Créditos": "4.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Participação em Projeto de Extensão diretamente relacionado ao exercício da Engenharia, proposto por um docente (professor responsável) e aprovado pela Congregação da Escola Politécnica.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EQB060",
+      "Nome": "Poluição Atm e Mud Climáticas",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A evolução da atmosfera terrestre. A poluição do ar. Mudanças climáticas. Forçantes radiativas. Fundamentos de Transferência de Radiação na Atmosfera. Efeitos das nuvens e da superfície sobre a radiação. Taxas de  aquecimento / resfriamento atmosférico. Estimativa dos impactos radioativos dos poluentes atmosféricos no clima. Aplicação e uso de ferramentas do Painel Intergovernamental sobre Mudanças Climáticas (IPCC - Intergovernamental Panel on Climate Change) para cálculos de emissões de CO2 e seus fatores de emissões da Agência de Proteção Ambiental dos Estados Unidos (U. S. EPA).\n___BIBLIOGRAFIA BÁSICA___\n1- SEINFELD, J. H.; PANDIS, S. N. Atmospheric Chemistry and Physics - From Air Pollution to Climate Change, 3rd Edition. John Wiley & Sons, Inc. New York, USA, 2016.\n2- FINLAYSON-PITTS, B. J.; PITTS Jr, J. N. Chemistry of the Upper and Lower Atmosphere - Theory, Experiments, and Applications, 1st Edition. Academic Press. San Diego, California, USA, 1999.\n3-LENZI, E.; FAVERO, O. B. Introdução à Química da Atmosfera - Ciência, vida e sobrevivência. LCT, Rio de Janeiro, Brasil, 2011.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1- FINLAYSON-PITTS, B. J.; PITTIS Jr, J. N. Atmospheric Chemistry: Fundamentals and Experimental Techniques, 1st Edition. John Willey & Sons, New York, USA, 1986.\n2- GUIMARÃES, C. S. Controle e Monitoramento de Poluentes Atmosféricos, 1ª edição. Elsevier, Rio de Janeiro, Brasil, 2016.\n3- SPIRO, T. G.; STIGLIANI, W. M. Química Ambiental, 2ª edição. Pearson Prentice Hall, São Paulo, Brasil, 2009.\n4- BAIRD, C.; CANN, M. Química Ambiental, 4ª Edição. Bookman, Porto Alegre, Brasil, 2011.\n5- STEINFELD, J. I; FRANCISCO, J. S.; HASE, W. L. Chemical Kinetics and Dynamics, 2nd Edition. Pearson Prentice Hall, New Jersey, USA, 1998.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "EQE368"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EQB365",
+      "Nome": "Biotecnologia Ambiental",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Biotecnologia ambiental: conceitos, definições, tecnologias existentes, elementos básicos em um processo de biodegradação. principais poluentes e seus impactos no meio aquático. Indicadores globais de poluição. Tratamentos biológicos convencionais: oxidação aeróbia. Remoção de nutrientes. Aplicação de enzimas. Biossorção e bioacumulação. Novas configurações de biorreatores (reatores biológicos de membrana e outros. Tratamento biológico de efluentes gasosos. Distribuição de contaminantes no solo. Biodisponibilidade. Sustâncias persistentes/recalcitrantes. Técnicas de  remediação de solos e águas subterrâneas. Biorremediação. Fitorremediação. sistemas de gestão ambiental. Auditoria ambiental e Legislação Ambiental.\n___BIBLIOGRAFIA BÁSICA___\n1)  Apostilas da disciplina, disponíveis no site da EQ/UFRJ.\n2) Braga, B. et al. Introdução a Engenharia Ambiental. Pearson Prentice Hall, 2ª Ed., 2005.\n3) Santanna Jr., G. L. Tratamento Biológico de Efluentes - Fundamentos e Aplicações. Interciência. 2ª Ed., 2013.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 15:00",
+        "professor": "FELIPE SOMBRA DOS SANTOS"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 15:00",
+        "professor": "ISABELLI DIAS BASSIN"
+       }
+      ],
+      "Requisitos": [
+       "IQB362"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EQE592",
+      "Nome": "Segur de Proc e Prev de Perdas",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução. Toxicologia. Higiene industrial. Modelos de fonte. Modelos de liberação tóxica e de dispersão. Incêndios e explosões. Projetos para prevenção de incêndios e explosões. Sistemas de alívio de pressão. Identificação de perigos. Avaliação de riscos. Gerenciamento de riscos. Análise de casos.\n",
+       "BibliografiaBasica": "1) Crowl, D. A. and Louvar, J. F. (1990) Chemical Process Safety: Fundamentals with Applications. Prentice-Hall, Englewood Cliffs;\n2) Lees, F. P. (1980) Loss Prevention in the Process Industries. Vol. I e II. London, Butterworths;\n3) NFPA (2012), NFPA 30: Flammable and Combustible Liquids Code. NFPA (disponível em nfpa.org);\n",
+       "BibliografiaComplementar": "1) CCPS / AIChE (2009) Guidelines for Developing Quantitative Safety Risk Criteria. John Wiley & Sons, ISBN: 978-0470261408;\n2) ACGIH (2009) Limites de Exposição Ocupacional (TLVs) e Índices Biológicos de Exposição 2009, ABHO, ISBN: 978-1882417698;\n3) Kletz, T. (2013) O Que Houve de Errado?. Editora Interciência, ISBN: 978-8571932999;\n4) Kletz, T. (2001) Learning From Accidents. 3ª Ed, Gulf Professional Publishing, ISBN: 075064883X;\n5) Nolan, D.P. (2008) Safety and Security Review for the Process Industries.\n2ª Ed., William Andrew, ISBN: 0815515464;\n6) ABIQUIM (2011) Manual para Atendimento a Emergências com Produtos Perigosos. ABIQUIM, ISBN: 8585493186;\n7) IEEE (2012) National Electrical Safety Code C2-2012. IEEE, ISBN: 978-  0738165882 (disponível Portal Periódicos CAPES).\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "EQE400"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EQI078",
+      "Nome": "Ecologia Industrial",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceito e definições de tecnologias limpas. Produção mais limpa: Conceitos, etapas, estabelecimentos de metas, medição de consumos e de insumos e geração de resíduos, geração de opções e implementação de P+L, produtos e consumo limpo. Operações unitárias e prevenção de poluição. Análise de Fluxogramas de processos para prevenção de poluição: minimização de rejeitos, integração energética, integração de massa. Avaliação de desempenho ambiental de fluxograma de processos. Análise do ciclo de vida. Reuso de Águas. Sequestro e Reuso de CO2.\n___BIBLIOGRAFIA BÁSICA___\n1) B. F. Giannetti, C. M. V. B. Almeida. Ecologia Industrial: Conceitos, ferramentas e  aplicações, Edgard Blucher, São Paulo, 2006.\n2) S. E. Manahan. Industrial Ecology: Environmental Chemistry and Hazardous Waste, Lewis Publishers, New York, 1999.\n3) T. E. Graedel, B. R. Allenby. Industrial Ecology, Prentice hall, 1995.\n4) David T. Allen, David R. Shonnard, Green Engineering. Environmentally Concious Design of Chemical Processes, Prentice Hal PTR, 2002.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) E. A. Lowe, J. L. Warren, S. R. Moran. Discovering Industrial Ecology: Na Executive Briefing and Sourcebook. Batelle Press, Columbus, 1997.\n2) U.S. Congress, Office of Technology Assessment, Green Products by Design for a Cleaner Environmet. OTA-E-541. Washington, DC: U.S. Government Printing Office, October 1992.\n3) Sustainable Development in the United States. A Progress Report Prepared by the U. S. Interagency Working Group on Sustainable Development Indicators. 1998.\n4) Washington, DC. Life Cycle Inventories for Packagings. Vol I. Swiss Agency for the Environment, Forests and Landscape (SAEFL) Berne. 1998.\n5) Life Cycle Inventories for Packagings. Vol II. Swiss Agency for the Environment, Forests and Landscape (SAEFL) Berne. 1998.\n6) Life Cycle Assessment: Inventory Guidelines and Principles (EPA 600/R-92/245). Cincinnati, OH: U.S.EPA, Office of Research and Development, Risk Reduction Engineering Laboratory, February 1993.\n7) Keoleian, G.A. Menerey, D. 1993. Life Cycle Design Guidance Manual. Environmental Requirements and The Product System. EPA/600/R-92/226.\n8) Life Cycle Design Framework and Demonstration Projects: Profiles of AT&T and Allied Signal (EPA/600/R-95/107). Keoleian, G., Koch, J., Menerey, D. and Bulkley, J. Cincinnati, OH: U.S.EPA, Office of Research and Development, National Risk Management Research Laboratory, July 1995.\n9) Wenzel, W. et al. Environmental Assessment of Product. Volume 1, 2: Methodology, tools and case studies in product development. Scientific Background. Bonston, Dordrecht, London: Kluwer Academic Publishers, 1997.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IBE003",
+      "Nome": "Agroecologia",
+      "Créditos": "6.0",
+      "Teórica": "45",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Módulo 1 - Marcos conceituais: Agroecologia no contexto da interdisciplinaridade e das etnociências. Ecologia dos sistemas agrícolas. Módulo 2 - Histórico: Agricultura na História do homem. Os agrosistemas tradicionais. Histórico da agricultura moderna. Módulo 3 - Sistemas agroecológicos ou agriculturas sustentáveis: A crítica da agricultura moderna - manejo ecológico dos agrosistemas e as agriculturas alternativas. Agroecologia no Brasil.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "13:00 - 16:00",
+        "professor": "SANDRO CESAR SALVADOR"
+       },
+       {
+        "dia": "Sab",
+        "hora": "08:00 - 12:00",
+        "professor": ""
+       },
+       {
+        "dia": "Sab",
+        "hora": "08:00 - 10:00",
+        "professor": "Não Informado"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IBE477",
+      "Nome": "Ecologia dos Solos",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O subsistema de decomposicao na estrutura e funcionamento dos ecossistemas. Relacao entre a estrutura do humus e a decomposicao da materia organica. Relacoes vegetacao-solo nos ecossistemas florestais costeiros. Dinamica de decomposicao da materia organica e reciclagem dos nutrientes. Heterogeneidade espaco-temporal do subsistema de decomposicao. Papel dos microorganismos e da mesofauna. Estrutura e funcao da fauna edafica: diversidade espaco-temporal da fauna do solo. A conservacao e fertilidade em solos tropicais vistas sob o angulo dos processos de de composicao.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "IBE231"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IBE481",
+      "Nome": "Dinamica Ambiental",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O substrato sedimentar. A dinamica das vertentes. A dinamica dos ambientes aquaticos (rios, lagos, lagunas, brejos e alagados) e dos costeiros.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "IBE231"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IBE487",
+      "Nome": "Biologia da Conservacao",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A ecologia e sua relacao com a conservacao e manejo de populacoes e da vida silvestre. Conservacao e extincao de especies. Conservacao da biodiversidade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 16:30",
+        "professor": "FERNANDO ANTONIO DOS SANTOS FERNANDEZ"
+       }
+      ],
+      "Requisitos": [
+       "IBE231"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IEE520",
+      "Nome": "Economia do Meio Ambiente",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Economia dos Recursos Naturais: Conceitos de recursos não-renováveis e recursos renováveis. Modelos de extração ótima: lema de Hotelling (recursos\nminerais); modelos de Fisher/Faustman (florestas); gerenciamento ótimo de recursos pesqueiros. Economia da Poluição: Externalidades. Teorema de Coase.\nPrincípio do poluidor-pagador. Instrumentos econômicos. Valoração dos Recursos Naturais e de Danos causados ao meio ambiente: principais técnicas de\nvaloração empregadas na análise econômica do meio ambiente. Meio Ambiente e relações internacionais.\n___BIBLIOGRAFIA BÁSICA___\n1) S. Margulis (ed.). 1990. Meio ambiente: aspectos técnicos e econômicos. Rio de Janeiro: IPEA.\n2) P. May. (ed.). 1995. Economia ecológica: aplicações no Brasil. Rio de Janeiro: Campus.\n3) P. May e R. Serôa da Motta (ed.). 1994. Valorando a natureza: análise econômica para o desenvolvimento sustentável. Rio de Janeiro: Campus.\n4) Serôa da Motta (ed.). 1995. Contabilidade ambiental: teoria, metodologia e estudos de caso no Brasil. Rio de Janeiro: IPEA.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "IEE130"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IEE615",
+      "Nome": "Tópic Espec Economia Energia I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Análise de tópico(s) selecionado(s) referente(s) a área. Conteúdo específico da disciplina será divulgado por ocasião da sua oferta, por meio do programa.\n___BIBLIOGRAFIA BÁSICA___\nBibliografia a ser apresentada no programa a ser desenvolvido cada vez que a disciplina for oferecida.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "IEE214"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGG125",
+      "Nome": "Cartografia Básica",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução, definição, histórico e metodologia. Forma da terra e representação cartográfica. Sistemas de coordenadas. Escalas. Projeções cartográficas. Cartografia básica: carta topográfica. Prática de campo.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGT607",
+      "Nome": "Variabilidade e Mud Climáticas",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "As mudanças climáticas através das eras geológicas. Métodos para investigação dos climas do passado. Causas e consequências das mudanças climáticas. Variabilidade natural do sistema climático. Detecção e projeção das mudanças climáticas.\n",
+       "BibliografiaBasica": "1) BURROUGHS, W. J. Climate Change. A Multidisciplinary Approach. 2 ed. Cambridge: Cambridge University Press, 2012;\n2) FARMER, G. T.; COOK, J. Climate Change Science: A Modern Synthesis. Volume 1 - The Physical Climate. Springer, Dordrecht, 2013. Disponível em:   Acesso em: 25 de abril de 2022.\n",
+       "BibliografiaComplementar": "1) BRADLEY, R. S. Paleoclimatology. Reconstructing Climates of the Quaternary, 2 ed. International Geophysics Series, Volume 64. Academic Press, 1999;\n2) IPCC, 2021: Climate Change 2021: The Physical Science Basis. Contribution of Working Group I to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change [Masson-Delmotte, V., P. Zhai, A. Pirani, S.L. Connors, C. Péan, S. Berger, N. Caud, Y. Chen, L. Goldfarb, M.I. Gomis, M. Huang, K. Leitzell, E. Lonnoy, J.B.R. Matthews, T.K. Maycock, T. Waterfield, O. Yelekçi, R. Yu, and B. Zhou (eds.)]. Cambridge University Press. In Press. Disponível em:  Acesso em: 25 de abril de 2022.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "IGT110"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MMP068",
+      "Nome": "Reciclagem de Resíduos Sólidos",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Tecnologias de reciclagem de dos materiais: plásticos, elastômeros, fibras (sintéticas e naturais), vidro, papel, metal e madeira. tecnologias de reciclagem: mecânica, química e energética; problemas técnicos da reciclagem.\n",
+       "BibliografiaBasica": "1) E. B. Mano, E. B. A. V. Pacheco, M. C. C. Bonelli, Meio Ambiente, Poluição e Reciclagem, Ed. Blücher, São Paulo (2005);\n2) R. I. Ehrig, Plastics Recycling. Products and Processes, Hanser, New York, 1992;\n3) S. B. Maia, O vidro e sua fabricação, Ed. Interciência (2003).\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEHX03",
+      "Nome": "Tópicos em Eng Ambiental II",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "visitas de campo orientadas em atividades de produção industriais, empreendimentos para aproveitamento dos recursos hídricos, de geração de energia e de saneamento ambiental, nos limetes do Estado do Rio de Janeiro.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "EEHX02"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEU240",
+      "Nome": "Introdução à Física Moderna",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Relatividade. Fisica Quantica: efeito fotoeletrico, efeito Compton, atomo de hidrogenio. Modelos atomicos: equacao de Schrodinger, momento angular orbital e momento magnetico. Conducao de eletricidade nos solidos. Fisica Nuclear. Energia Nuclear.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "FIM230",
+       "MAC238"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEK525",
+      "Nome": "Fontes Alternativas de Energia",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Não cadastrada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEC484",
+      "Nome": "Legislação Ambiental",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O meio ambiente como objetivo do direito. Objeto da tutela ambiental. Lei de Crimes Ambientais. Aspectos ambientais na CF. Aspectos legais da degradação do meio ambiente. Estudo de impacto ambiental (características legais). Responsabilidade pelos danos ecológicos. Instrumentos processuais.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "EEH351"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEI923",
+      "Nome": "Gerencia de Riscos e Seguros",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Teoria do risco. natureza dos riscos empresariais. Programa de gerenciamento de riscos. Tecnicas de identificacao e analise de riscos: apr, serie de riscos, what-if/check list, hazop, arvore de falhas, diagrama de blocos, arvore de eventos, arvore de causas, tecnica de incidentes criticos. Confiabilidade humana. Avaliacao e financiamento de riscos. Administracao de seguros. Seguros de riscos de engenharia: instalacao e montagem, quebra de maquinas e equipamentos, lucros cessantes, riscos operacionais e incendio e explosoes.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "COC607",
+      "Nome": "Cont. e Remed da Pol do Solo",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Técnicas convencionais e inovativas de remediação; barreiras para controle e isolamento de áreas contaminadas; noções de análise de risco para escolha da remediação; monitoramento e avaliação da eficiência\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "COC479"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEC002",
+      "Nome": "Gov de Risco Sist Sócio-ecolog",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceitos de sustentabilidade. Política e Regulação ambiental: critérios de licenciamento ambiental, percepção dos riscos. Riscos e incertezas tecnológicas, sociais e ambientais: construção de cenários de riscos: Governança de riscos. Estratégia e Planos de gestão de riscos ambientais. Avaliação ambiental das estratégias: energia e recursos, produção sustentável e sistemas de consumo: demandas de materiais e eficiência. Avaliação e controle de riscos no espaço; Sistemas de Gestão de Riscos: eco-industriais, complexos industriais, tecnologias de captura, sequestro de carbono.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEC004",
+      "Nome": "Gestão Sms Ind Petróleo e Gás",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Saúde e segurança do trabalho, sistemas de gestão ambiental e integrada. Higiene do trabalho, proteção e combate à incêndios, PPRA, PCMSO, LTCAT, PPP, PCMAT. EPI e EPC. Acidentes ampliados e acidente ambiental: Avaliação de riscos , eventos catastróficos e licenciamento ambiental. Planos de emergência. Saúde Pública e Seguridade Social: Aposentadoria Especial, Nexo técnico epidemiológicos, passivos trabalhistas. Promoção da saúde do trabalhador: produtividade, responsabilidade social. Redução de custo social e emrpesarial. Requisitos técnico-jurídicos normativos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEC008",
+      "Nome": "Fis Quím Mate Const Sustent",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Materiais de substituição do cimento: escórias, pozolanas, resíduos agro-industriais. Viabilidade do emprego de materiais sustentáveis. Emissão de gases de efeito estufa. Nano, micro e meso estrutura dos materiais cimentíceos. As reações de hidratação: termo-ativação e exotermia. Fases de suspensão e sólida, patamar de percolação. Retratação autógena e por secagem. Evolução de Características físicas e mecânicas com a hidratação. Métodos expeirmentais: calorimetria, análise térmica, microscopia, raios X, nano-indentação, técnicas especiais. Princípios de empacotamento de partículas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "EEC422"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEC328",
+      "Nome": "Sistemas Prediais II",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Uso da água. Instalações prediais. Esgotos sanitários. Instalações de águas pluviais. Sistemas hidráulicos de água e esgoto. Instalações de gases combustíveis. Legislação. Materiais. Equipamentos. Tecnologias das instalações. Projetos de instalações hidro-sanitárias e de gás e seu desenvolvimento.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "EEG301",
+       "EEH303"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEC597",
+      "Nome": "Sustentabilidade Constr CIVIL",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Reabilitação e revitalização visando a sustentabilidade; Ecodesign em edifícios; Caracterização do edifício verde (Green Building); Certificação LEED, HK BEAM, BREEAM, HQE; Tecnologias, materiais e equipamentos em edificações sustentáveis.\n",
+       "BibliografiaBasica": "1) BATISTA Eliezer; CAVALCANTI, Roberto; FUJIHA Marco A. Caminhos da Sustentabilidade no Brasil, Ed. Terra das Artes, 2005;\n2) BOCK, LIA. Revista Época ? Exclusivo On Line Economize o mundo! Disponível em: http://revistaepoca.globo.com/ Epoca/0,6993, EPT1194586-1655-2,00.html. Acesso em: abril de 2009;\n3) LOTUFO, Tomaz. A importância da água em nossos sistemas. Disponível em: http://www.bioarquiteto.com.br/2008/09/a-importancia-da-agua/. Acesso em: janeiro de 2009;\n4) MANZINI, Ezio e VEZZOLI, Carlo. O Desenvolvimento de Produtos Sustentáveis. 1 ed. São Paulo: Edusp, 2008;\n5) PRADO, Jason. Reciclasa ? Novos Usos Para Antigos Materiais. 1 ed. Rio de Janeiro: Argus, 2006;\n6) ROAF, Sue. Ecohouse ? A Casa Ambientalmente Sustentável. 2 ed. São Paulo: Bookman, 2007;\n7) SOARES, Andre. Soluções Sustentáveis ? Construção Natural. 1 ed. Goiás: Mais Calango Ed., 2007.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "EEC421"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEG001",
+      "Nome": "Planejamento Urb e Meio Amb II",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Identificação, caracterização e análise de uma intervenção urbana utilizando critérios de natureza tecnológica, social, ambiental e legal. desenvolvimento de um trabalho de análise de intervenção urbana real, com a possibilidade de elaboração de propostas, utilizando ferramentas gráficas. após o desenvolvimento de um diagnóstico da área de abrangência da intervenção em estudo, passa-se a analisar a intervenção propriamente dita, de modo que o aluno compreenda o processo de planejamento urbano e sua relação com o ambiente natural.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "EEG410"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEG509",
+      "Nome": "Customização de Sist Gráficos",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Organização das bibliotecas de símbolos e arquivos de definições. Scripts e fontes do aplicativo. Escolhendo uma linguagem de programação. AutoLISP, C#, Vb.NET. Estruturação dos dados gráficos, códigos DXF. Acesso e análise dos objetos gráficos. Anexando dados a um objeto gráfico. Estruturas de decisão. Técnicas de filtragem de entidades. Planejamento do programa. Aspectos de construção da interface. Estudos de casos em projetos e desenho de Engenharia e Arquitetura.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "EEG301"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEH005",
+      "Nome": "Tópicos em Eng Ambiental IV",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conteúdo variável.\n___ BIBLIOGRAFIA BÁSICA ___\n1- Conteúdo variável.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEH007",
+      "Nome": "Tópicos em Eng Ambiental VI",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conteúdo variável.\n___ BIBLIOGRAFIA BÁSICA ___\n1- Conteúdo variável.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "10:10 - 12:00",
+        "professor": "RENAN FINAMORE GOMES DA SILVA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEH501",
+      "Nome": "Hidrologia Geral II",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Pluviologia: DAD, PMP.  Escoamento superficial: Hidrógrafa, Fluviometria, Curva-Chave.  Regime dos cursos d'água: diagrama de frequências, curva de permanência, regionalização de vazões.  Regularização de vazôes: estimativa da capacidade de reservatórios, operação de reservatórios.  Modelos hidrológicos: hidrógrafa unitária, modelo numérico.  Propagação de enchentes.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "10:10 - 12:00",
+        "professor": "JORGE HENRIQUE ALVES PRODANOFF"
+       },
+       {
+        "dia": "Seg",
+        "hora": "10:10 - 12:00",
+        "professor": "TARCISIO LUIZ COELHO DE CASTRO"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:10 - 10:00",
+        "professor": ""
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:10 - 10:00",
+        "professor": "JORGE HENRIQUE ALVES PRODANOFF"
+       }
+      ],
+      "Requisitos": [
+       "EEH403"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEH504",
+      "Nome": "Portos e Vias Navegaveis",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Portos e seu dimensionamento.  Navios: principais tipos e características.  Planejamento portuário.  Dragagem: problemas de natureza ambiental observados nos portos.  Vias navegáveis: características das vias navegáveis. Bacias hidrográficas brasileiras.  Embarcações fluviais.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "15:10 - 17:00",
+        "professor": "AFONSO AUGUSTO MAGALHAES DE ARAUJO"
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:10 - 15:00",
+        "professor": "Não Informado"
+       },
+       {
+        "dia": "Qui",
+        "hora": "15:10 - 17:00",
+        "professor": "AFONSO AUGUSTO MAGALHAES DE ARAUJO"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:10 - 15:00",
+        "professor": "Não Informado"
+       }
+      ],
+      "Requisitos": [
+       "EEH404"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEH529",
+      "Nome": "Hidrologia Estatística",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Probabilidade: tratamento de dados, parâmetros estatísticos, axiomas, combinações, permutações. Distribuições de probabilidade discretas e contínuas. Estatística: Amostragem, testes de hipótese, intervalos de confiança, análise de regressão. Aplicações.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "EEH403",
+       "MAD201"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEH604",
+      "Nome": "Engenharia Fluvial e Costeira",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Engenharia fluvial: rios e estuários; conceituação, tipos e caracterísiticas principais das obras fluviais; fluviomorfologia; meandros, obras de retificação, canalização e regularização de cursos d\\'água; impactos ambientais das obras fluviais; interrelação das obras fluviais com aproveitamentos múltiplos dos recursos hídricos.  Engenharia Costeira: dinâmica litorânea; Interação mar - estuário; Macro e micro zoneamento costeiro; identificação dos processos morfológicos e sedimentológicos litorâneos; Obras costeiras.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "EEH404"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEH608",
+      "Nome": "Drenagem Urbana",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A água no meio urbano. Características da urbanização e seu impacto na infra-estrutura hídrica. Chuvas intensas e o escoamento superficial. Hidrometria. Inundações urbanas. A evolução histórica do conceito de drenagem urbana. Gerenciamento da drenagem urbana: controle e mitigação dos impactos. A visão moderna do controle na drenagem urbana. Mecanismos institucionais e de gestão. Planos diretores de drenagem urbana. Drenagem urbana sustentável. Sistemas de microdrenagem. Sistemas de macrodrenagem. O aspecto qualitativo das águas urbanas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "17:10 - 19:00",
+        "professor": "PAULO RENATO DINIZ JUNQUEIRA BARBOSA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "17:10 - 19:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "EEH304",
+       "EEH404"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEH610",
+      "Nome": "Sensoriamento Remot Hidrologia",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução ao sensoriamento remoto: fundamentos, espectro eletromagnético, sensores e aplicações em hidrologia, aspectos computacionais. Correção geométrica e projeções cartográficas. Realce e imagens: contraste e filtragem. Classificação de imagens: representação de padrões, medidas de distância para classificação de padrões em imagens.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "EEH403",
+       "MAD201"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEH612",
+      "Nome": "Dragagem e Gestão de Sedimento",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Dragagem e sua utilização.  Equipamentos de dragagem.  Gestão de sedimentos.  Planejamento das obras de dragagem.  Dimensionamento hidráulico das instalações de dragagem.  Tratamento do material dragado.  Uso benéfico do material dragado.  Aspectos ambientais da dragagem.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "EEH404"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEH614",
+      "Nome": "Projeto Sustentável",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução da cronologia da questão ambiental voltada aos aspectos projetuais, conceitos que envolvem a sustentabilidade e o ativismo projetual; definição e relevância do ecodesign, empreendedorismo verde, o comportamento de consumo e percepção de impactos ambientais: pegada ecológica, pegada de carbono, pegada da água e demais impactos ambientais; Aspectos da gestão de produto no Sistema de Gestão Ambiental SGA -  apresentação das Séries de Normas ISO 14.000 com ênfase em produto(Avaliação de ciclo de vida, intrpretação dociclo de vida, rotulagem ambiental e selos verdes);Ecoeficiência, desempenho sustentável, política ambiental, valores e metas de uma empresa, conceitos e estudos de caso, inovação social e ecodesign inovação tecnológica e ecodesign;O Empreendedorismo verde e o Benchmarking Ambiental através de estudos de caso; A organização Mundial do Comércio OMC e as principais Convenções Internacionais que monitoram a melhoria de desemepenho ambiental do produto,Meio Ambiente,Consumo e Código de defesa do Consumidor no Brasil, a introdução das Séries de Normas ISO 26.000 de Responsabilidade Social Corporativa; Avaliação social do ciclo de vida do produto sustentável;o processo de gestão ambiental do produto.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "EEG301",
+       "EEH351"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEI931",
+      "Nome": "Macroeconomia",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Elementos de contabilidade nacional: relação entre os déficits públicos e do setor externo. O modelo keynesiano IS-LM para dado nível dos preços e os efeitos de  política fiscal e monetária, tanto em uma economia fechada como em uma economia aberta. As curvas de demanda agregada e oferta agregada por preços variáveis. Problemas de choque de uma economia indexada. Curva de Philips de curto e longo prazo. Congelamento de preços. Oferta monetária, demanda por moeda e relação entre oferta monetária, o nível de atividade econômica e a inflação no Brasil e outros países. Determinação de taxa de câmbio. Dívida interna e externa. Modelo de Ciclos e Crescimento.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "EEI533",
+       "EEI836"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EER321",
+      "Nome": "Topografia",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Topografia- conceitos introdutórios.Mediação de ângulos e distâncias.Nivelamento.Levantamento topográfico.Topologia.Batimetria.Estudo da planta topográfica.Noções de Geodésia,cartografia e aerofotogrametria.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "EEG402"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EER533",
+      "Nome": "Transporte Urbano",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Sistemas de transporte Urbano. Acessibilidade e mobilidade urbana. Processo de planejamento do sistema de transporte urbano. Planejamento. Operação e Gestão dos sistemas de transporte público. Integração, monitoramento e segurança no transporte urbano. Qualidade e marketing dos transportes.\n___ BIBLIOGRAFIA BÁSICA ___\n1- Planejamento dos Transportes Urbanos. José Carlos Mello. Ed Campus. 1979\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "EER322"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEU523",
+      "Nome": "Engenharia de Confiabilidade",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceitos basicos de probabilidade e estatistica. Qualidade, confiabilidade, projeto e desempenho. Taxa de falha. Ensaios de confiabilidade. Nocoes gerais de confiabilidade estrutural: solicitacoes e resistencia. Redundancia. Manutencao. Interacoes de falhas. Analise de seguranca de sistemas: arvores de eventos e de falhas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "EEU504",
+       "MAD201"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEW003",
+      "Nome": "Sociedade de Debates II",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Variável\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEW515",
+      "Nome": "Tópicos Especiais Engenharia",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conteúdo variado.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "08:10 - 10:00",
+        "professor": "FERNANDA MINIKOWSKI ACHETE"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEWZ50",
+      "Nome": "Ativ Curricular Extensão - Amb",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "0",
+      "Extensão": "400",
+      "Informação": {
+       "Info": "Atuação em atividades de extensão registradas na Pró-Reitoria de Extensão da UFRJ, como programas, projetos, cursos de extensão e eventos, coordenados por docentes do quadro permanente ou técnicos da carreira de nível superior na UFRJ. Para eventos, a atuação deverá ser na organização ou na realização do evento. Para cursos, a atuação deve ser na organização ou ministrando aulas.\n___ BIBLIOGRAFIA BÁSICA ___\nBibliografia recomendada pelo coordenador da atividade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EQB064",
+      "Nome": "Biocombustíveis Biorrefinarias",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Visão geral da biomassa agroenergética promovendo combustíveis modernos. Culturas energéticas, caracterização das matérias primas (canavieira, amilácea, oleaginosas e florestais). Panorama mundial e tecnologia para produção de etanol. Tratamento da matéria-prima/ processos de hidrólise. Processos para produção de biodiesel, relação entre matéria-prima e tipos de biodiesel. Pré-tratamento da biomassa. Multi-produtos da Biorrefinaria. Biomassa como fonte de geração elétrica. Ciclos de geração. Alternativas para o aproveitamento de resíduos e efluentes gerados nos processos produtivos.\n___BIBLIOGRAFIA BÁSICA___\n1) Manual de Biodiesel (2007). Editora Edgard Blucher. Eds: Gerhard Knothe Jürgen 1. Knothe. G.,Krahl; J.,van Gerpen, J. e Ramos, L. P., Manual do Biodiesel. Editora Edgard Blucher, São Paulo, 2007;\n2) Tolmasquim, M. T (Org.). Fontes Renováveis de Energia no Brasil. Rio de Janeiro: Interciência, 2003;\n3) Fermentec (ed). Fermentação Alcoólica: Ciência e Tecnologia. Ed. Fermentec, Piracicaba, 2005;\n4) Pereira Jr., N.; Couto, M. A. P. G e Santa Anna, L. M. M. Biomas of Lignocellulosic Composition for fuel Ethanol Production within the context of Biorefinery. Series on Biotechnology. Ed. Amiga Digital (RJ), 2008.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "18:00 - 20:00",
+        "professor": "ELCIO RIBEIRO BORGES"
+       },
+       {
+        "dia": "Qua",
+        "hora": "18:00 - 20:00",
+        "professor": "MARIA ANTONIETA PEIXOTO GIMENES COUTO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EQE027",
+      "Nome": "Tecnol Aprov Energ Biomassa",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Célula combustível à biomassa, conceitos básicos, performance, etanol e\noutros combustíveis renováveis como fonte de energia. Biodiesel, matérias primas, processo de transesterificação, aspectos cinéticos e difusivos,\nespecificações internacionais. Aproveitamento energético do lixo, aterros com\nrecuperação energética, pirólise, projeto de usinas termoelétricas a lixo.\nBIBLIOGRAFIA BÁSICA:\n1. Hirschenhofer, J.H.; Stauffer, D.B.; Engleman, R.R.; Klett, M.G. (1998) Fuel Cell Handbook. 4th Edition, US Departament of Energy.\n2. Nelson, R.G.; Farrell, J.; Swanson, D. R. (eds.) (1995) Proceedings of the Conference on Technologies, Trens and Case Studies about the Benefits and Use of Biodiesel. Diane Books Publishing Company.\n3. Chandler, A.J.; Eighmy, T.T.; Hartlen, J.; Hjelmar,O.; Sawell, S.E.; Vehlow, J.; Kosson, D.S. (1997) Municipal Solid Waste Incinerator Residues. Elsevier Science.\n4. Niessen, W.R. (2002) Combustion and Incineration Processes. Marcel\nDekker.\n5. Tolmasquim, M.T. (ed.), Rosa, L.P., Aranda, D.A.G. e outros, Estudo Prospectivo de Energias Alternativas, CENERGIA-Centro de Economia Energética e Ambiental ?in press?, e-papers.\n6. Kitani, O.; Hall, C.W.(ed.) (1989) Biomass Handbook. Taylor & Francis.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EQE596",
+      "Nome": "Engenharia de Processos",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O processo como um sistema. As etapas da criacao de um processo. Sintese de processos. Geracao de rotas quimicas e de fluxogramas otimizados de sistemas de reacao, separacao, integracao energetica e de controle. Sistemas especialistas. Metodos de otimizacao. Analise de processos: aplicacao de metodos numericos de resolucao de sistemas algebricos, de otimizacao e de avaliacao economica, ao dimensionamento otimo e a simulacao de processos. Tecnicas computacionais aplicadas aanalise e a sintese de processos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EQO098",
+      "Nome": "Mec des Limp Inov Ind Petr Gás",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceitos básicos. Biopolímeros naturais e sintéticos. Polissacarídeos ? aspectos gerais e propriedades. Poli(hidroxi alcanoatos) ? aspectos gerais, propriedades e processamento. Nanobiopolímeros e Nanocompositos ? aspectos gerais e propriedades. Aplicações Industriais: principais biopolímeros utilizados em medicina, na área de alimentos e na produção de fármacos e cosméticos.\n",
+       "BibliografiaBasica": "1. Steinbüchel, A., Biopolymers: General Aspects and Special Applications, Wiley\nVCH, vol. 10, 2003.\n2. Mohanty, A. K., Misra, M. Drzal, L. T., Natural Fibers, Biopolymers, and\nBiocomposites, Taylor & Francis, 2005.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IBE405",
+      "Nome": "Ecologia das Aguas Doces",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Os corpos de agua doce. Os ciclos biogeoquimicos em ambientes aquaticos continentais. Estrutura abiotica dos ambientes aquaticos continentais. Producao, consumo e decomposicao. Impactos e recuperacao de ambientes aquaticos continentais.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "IBE231"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IBE478",
+      "Nome": "Biogeoquímica Bacteriana",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Alteração, regulação e evolução dos microorganismos e dos ciclos biogeoquímicos. Ecologia de microorganismos em ecossistemas aquáticos, terrestres e em condições extremas. Modelos e teorias ecológicas relacionados aos ciclos biogeoquímicos em ecossistemas aquáticos e terrestres.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "IBE121",
+       "IBE231"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IBE482",
+      "Nome": "Ecol Cons Recursos Renovaveis",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Avaliacao dos recursos naturais renovaveis. Poluicao do ar e das aguas. Tecnicas de controle da erosao e poluicao. Tecnicas de preservacao e reconstituicao da flora, fauna e biomas. Tecnicas de recuperacao ambiental. Amenizacao mesologica. Elaboracao de planos diretores conservacionistas regionais.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "IBE231"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IEE233",
+      "Nome": "Econometria I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Tópicos especiais no modelo de regressão linear. Estimação com restrições lineares; variáveis Dummy; multicolinearidade; introdução à teoria assintótica. Heterocedasticidade: melhor estimador linear não tendencioso; método iterativo: testes de homocedasticidade. Modelo Auto-regressivo de primeira ordem: Estimação; melhor estimador linear não tendencioso; método iterativo; Durbin-Watson. Modelo de Regressão Linear Generalizado: estimador de mínimos quadrados generalizados (Aitken); estimação consistente: alguns casos especiais. Modelo de Equações Aparentemente não relacionadas: estimação; testes para correlação contemporânea; testes de restrições lineares nos coeficientes.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "IEE240"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IEE530",
+      "Nome": "Economia da Energia",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Noções básicas de economia da energia; papel da energia no processo de desenvolvimento econômico; a energia e seus principais determinantes; características econômicas dos combustíveis convencionais; sistema elétrico inclusive a energia nuclear; impactos macroeconômicos do setor energético.\n___BIBLIOGRAFIA BÁSICA___\n1) Helm, D. The New Energy Paradigm, Oxford University Press, 2007.\n2) Pinto Jr. e alli, Economia da Energia: fundamentos econômicos, evolução histórica e organização industrial, Editora Elsevier, Rio de Janeiro, 2016.\n3) Yergin, D., A Busca: energia, segurança e a reconstrução do mundo moderno, Editora Intrínseca, 2014.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "IEE214"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IEE626",
+      "Nome": "Economia Ambiental Aplicada",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Não cadastrada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "IEE206",
+       "MAC111"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGT022",
+      "Nome": "Modelagem de Tempo e Clima",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Aspectos históricos. Filtragem de ruídos meteorológicos. Aproximação numérica das equações de movimento. Diferenças finitas. Estabilidade computacional. Erro de truncamento. Equações primitivas e equações completas. Coordenadas verticais Sigma. Deslocamento horizontal e vertical das grades. Parametrizações físicas. Assimilação de dados. Aplicações em modelos regionais. Fontes de dados de entrada. Pré-processamento e pós-processamento. Caos e previsibilidade da atmosfera.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "IGT371"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGT609",
+      "Nome": "Modelagem da Qualidade do ar",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Teorias da difusão atmosférica no contexto do transporte de contaminantes. Modelos paramétricos do fluxo turbulento de massa e da velocidade. Solução da equação da advecção-difusão. Implementação, adequação e aplicação de modelos de qualidade do ar.\n",
+       "BibliografiaBasica": "1) SEINFELD, J. H.; SPYROS, N. P. Atmospheric Chemistry and Physics From Air Pollution to Climate Change. Ed. John Wiley & Sons, Inc. 2016;\n2) JACOBNSON, M. Z. Fundamentals of Atmospheric Modeling. Ed. Cambridge University Press. 2005.\n",
+       "BibliografiaComplementar": "1) http://www.epa.gov/air/\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "IGT604"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEW601",
+      "Nome": "Analise e Producao Textual",
+      "Créditos": "4.0",
+      "Teórica": "30",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Trabalhos de \"transcodificacao\" do visual para a escrita e dos escrito para o visual, estatico ou cinetico. Exame de textos criticos sobre literatura, cinema, imagens etc.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGT110",
+      "Nome": "Introd Ciências Atmosféricas",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução: Apresentação da disciplina. Formas de atuação da Meteorologia. O ensino e a pesquisa em Meteorologia. A Terra e sua atmosfera. A radiação solar e o aquecimento da Terra e da atmosfera. A água na atmosfera. Pressão atmosférica, ventos e circulação geral da atmosfera. Massas de ar e frentes. A previsão do tempo e do clima. Tempestades severas, tornados e furacões. Poluição atmosférica. Mudanças climáticas.\n",
+       "BibliografiaBasica": "1) AHRENS, C.D. Essentials of meteorology. An invitation to the atmosphere. New York, West Publishing, 2007.\n2) WALLACE, J. M.; HOBBS, P. V.  Atmospheric Science. An Introductory Survey. International Geophysics Series. Vol. 92, Elsevier, 2006.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEH471",
+      "Nome": "Educação Ambiental",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Meio-ambiente e representação social. Organização, representação e participação social. Percepção ambiental,identificação e caracterização do público-alvo.Sensibilização, informação e comunicação ambiental. Elaboração de programas e projetos de Educação Ambiental. Práticas interdisciplinares, metodologia e vertentes da Educação Ambiental.A inserção da educação na Gestão Ambiental; Análise conceitual: Meio Ambiente (Ecologia, Natureza), Problemas Ambientais, Desenvolvimento Sustentável, Cidadania; Visão sistêmica em Gestâo Ambiental; Gestão Ambiental do Espaço Público e do Espaço Privado; Gestão Ambiental e Mobilização Social: o papel do 3º ssetor; Estado-Mercado-Sociedade; A Educação Ambiental na empresa; ISO 14000, Ecoeficiência, responsabilidade social e ambiental. Ecocapitalismo. O papel da Educação Ambiental; Estudos de Casos: reflexão e debate.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "EEHX02"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "COC478",
+      "Nome": "Mineração e Model de Dados",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Exploração de dados. Algorítmos de mineração de dados: árvores de decisão, redes neurais, algorítmos genéticos, regras de associação e lógica fuzzy. Ferramentas. Aplicações em problemas de engenharia. Preparação de dados. Visualização. Princípios de bancos de dados. Análise multivariada. Redução de dados. Análise de componentes principais. classificação, clusterização e predição de dados. Tratamento de incertezas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MAD201"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEH593",
+      "Nome": "Transporte de Sedimentos",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Características físicas dos sedimentos coesivos e não coesivos. Modos de transporte em correntes unidirecionais e oscilatórias. Iniciação ao movimento. Avaliação do transporte de material do leito, em suspensão e por arrasto. Aparelhos e métodos de medição. Erosão de sedimentos coesivos e não coesivos. Erosão geral e localizada. Resistência ao escoamento. Formas de fundo. Transporte eólico. Processos morfológicos fluviais. Meandros. Teoria do regime. Estabilidade do leito e de margens. Processos morfológicos em reservatórios. Sedimentação. Alterações morfológicas ã jusante do reservatório. Processos morfológicos em estuários. Tipos de estuários. Região de turbidez máxima. Dinâmica  de embocaduras. Processos morfológicos em praias. Perfil de equilíbrio. Transporte litorâneo.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "EEH403"
+      ],
+      "Tipo": "eletiva"
+     }
+    ]
+   },
+   "obrigatorias": 63,
+   "eletivas": 120,
+   "ano": "2004/1 a 9999/9"
+  }
+ ]
+}

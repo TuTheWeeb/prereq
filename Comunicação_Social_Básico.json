@@ -1,0 +1,1318 @@
+{
+ "Comunicação Social Básico": [
+  {
+   "materias": {
+    "1º Período": [
+     {
+      "Codigo": "ECS110",
+      "Nome": "Técnicas Básicas Comunicação I",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Análise dos elementos que integram os modelos do processo de comunicação.\n___BIBLIOGRAFIA BÁSICA___\n1) Pignatari D. Informação, Linguagem Comunicação. São Paulo: Ateliê, 2003.\n2) Eco H. Seis passeios pelos bosques da ficção (último capítulo). São Paulo: Cia. Das Letras, 1994.\n3) Barthes R. Mitologias. Rio de Janeiro: Bertrand Brasil, 1993.\n4) McLuhan M. Os meios de comunicação como extensões do homem. São Paulo: Cultrix. Greenblatt S. Possessões maravilhosas. São Paulo: EDUSP, 1996.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FCB113",
+      "Nome": "Sociologia Geral",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Compreensão da formação do conhecimento sociológico enquanto disciplina científica, relacionando-o ao contexto histórico e epistemológico em que surgiu.  Quadro das perspectivas teóricas e metodológicas de alguns de seus autores clássicos, oferecendo uma introdução ao conjunto de suas obras.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IPG111",
+      "Nome": "Psicologia I CB",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Definicao da psicologia. Dominios de investigacao. A abordagem e-r e e-o-r. A abordagem gestaltista. A abordagem cognitivista. A abordagem etologica. A abordagem psicanalitica. As relacoes da psicologia com outros campos da investigacao.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ECA110",
+      "Nome": "Com e Rel Soc-Econ e Pol Bras",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Não cadastrada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ECS230",
+      "Nome": "Teor e Met de Pesq em Comunic",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Não cadastrada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FCF110",
+      "Nome": "Filosofia I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução à filosofia desde um ponto de vista temático.\n___BIBLIOGRAFIA BÁSICA___\n1- ABBAGNANO, N. História da Filosofia.  Tomos I-II.\n2- ARENDT, H. Entre o passado e o futuro. São Paulo: Perspectiva, 1997.\n3- BORHEIM, Gerd. Os Filósofos Pré-Socráticos. São Paulo: Cultrix, 1985.\n4- CHATELET, François. História da Filosofia. [Tomos I-X . Rio de Janeiro: Jorge Zahar Ed.\n5- JÄGER, Werner. PAIDEA. A formação do homem grego. São Paulo: Martins Fontes, 2003.\n6- KIRK, & RAVEN. Os Filósofos Pré-Socráticos.Lisboa: Fundação Calouste Gulbekian, 1982.\n7- MARCONDES, D. Iniciação à história da Filosofia. Rio de Janeiro: Zahar, 1997.\n8- NIETZSCHE, Friedrich. Genealogia da Moral. São Paulo: Companhia das Letras, 2003.\n9- NIETZSCHE, Friedrich. A filosofia na época trágica dos gregos. São Paulo: Elfos, 2000.\n10- REALE, Giovanni. História da Filosofia. [ Tomos I-V ]. São Paulo: Paulus, 1990.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEV110",
+      "Nome": "Língua Portuguesa I",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Produção e análise de textos em língua portuguesa. O vocabulário, a frase e o texto. A gramática da frase e do texto. A correção gramatical.\n___BIBLIOGRAFIA BÁSICA___\n1- Abreu, A. S. Curso de redação. S. Paulo, Ática, 1994.\n2 - Fávero, L. L. Coesão e coerência textuais. S. Paulo, Ática, 1991.\n3 - Garcia, O. M. Comunicação em prosa moderna. Rio de Janeiro, FGV, 1985.\n4 - Koch, I. Texto e coerência. S. Paulo, Cortez, 1994.\n5 - Silva, M. C., Brayner, S. Normas técnicas de editoração. Rio de Janeiro, UFRJ, 1992.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "18:30 - 22:00",
+        "professor": "MAURO JOSE ROCHA DO NASCIMENTO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "2º Período": [
+     {
+      "Codigo": "ECS121",
+      "Nome": "Politica de Comunicacao",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Não cadastrada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ECS124",
+      "Nome": "Sociologia da Comunicacao",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Não cadastrada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "FCS113"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FCF111",
+      "Nome": "Filosofia II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução à filosofia desde um ponto de vista histórico.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ECS120",
+      "Nome": "Tecnicas Bas de Comunicacao II",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Não cadastrada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ECS123",
+      "Nome": "Teoria da Comunicação I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "História da constituição da disciplina de comunicação, articulando a história das idéias à história dos meios. Da Teoria da Informação e do funcionalismo americano, passando pela elaboração de Mac Luhan, a Escola de Frankfurt e de Chicago, as teorias francesas e os autores latino-americanos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FCA218",
+      "Nome": "Antropologia Cultural",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A Antropologia como campo de conhecimento. A Antropologia e as demais ciências sociais. O social e o biológico. A evolução humana. As noções de natureza e cultura. As concepções de sociedade e cultura. O problema do etnocentrismo. A pesquisa de campo e a etnografia como método de fazer teoria em Antropologia.\n___BIBLIOGRAFIA BÁSICA___\n1- BARTH, F. O Guru, o iniciador e outras variações antropológicas. Rio de Janeiro: Contra Capa Livraria, 2000.\n2- BIANCO, B.F. (Ed.). Antropologia das Sociedades Contemporâneas. São Paulo: Global Universitária, 1987.\n3- DAMATTA, R. Carnavais, malandrose heróis: para uma sociologia do dilema brasileiro. Rio de Janeiro: Zahar, 1980.\n4- GEERTZ, C. (Ed.). A interpretação das culturas. Rio de Janeiro: Zahar, 1978.\n5- GEERTZ, C. Nova Luz sobre a Antropologia. Rio de Janeiro: Zahar, 2001.\n6- MALINOWSKI, B. Argonautas do Pacífico Ocidental. São Paulo: Abril Cultural, 1978.\n7- NUNES, E. O. A aventura sociológica: objetividade, paixão, improviso e método na pesquisa social. Rio de Janeiro: Zahar, 1978.\n8- SAHLIN, M. Cultura na prática. Rio de Janeiro: Editora da UFRJ, 2005.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEV120",
+      "Nome": "Língua Portuguesa II",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Analise e producao de textos em lingua portuguesa.Tipologia textual. Problemas de coesao, coerencia eargumentacao. A correcao gramatical.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEV110"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "3º Período": [
+     {
+      "Codigo": "ECS125",
+      "Nome": "Psicologia da Comunicacao",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Não cadastrada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ECS232",
+      "Nome": "Cultura Brasileira",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Não cadastrada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FCF209",
+      "Nome": "Logica I EC",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Não cadastrada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ECA481",
+      "Nome": "Ling Port:Comunicacao Tecnica",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Não cadastrada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEV120"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ECS231",
+      "Nome": "Estetica e Cultura de Massa",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Não cadastrada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ECS236",
+      "Nome": "Teoria da Comunicação II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Visão crítica e epistemológica, centrada nos princípios de medição e vinculação que visa problematizar questões como: espaço público e imagem pública, verdade e doxa, representação e simulação, medição e mediatização, realizando a análise da passagem da sociedade moderna disciplinar para o modelo contemporâneo de redes e controle.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ECS123"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "4º Período": [
+     {
+      "Codigo": "ECS240",
+      "Nome": "Historia da Comunicação",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Não cadastrada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ECA241",
+      "Nome": "Comun e Teor Geral dos Sist",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Não cadastrada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ECS353",
+      "Nome": "Teoria da Linguagem",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Não cadastrada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "5º Período": [
+     {
+      "Codigo": "LEN143",
+      "Nome": "Lingua Estrangeira - Espanhol",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Leitura, interpretacao e problematica de textos informativos, tecnicos e cientificos em espanhol. Homonimia, paronimia e heteronimia. Idiotismos. Prefixacao e sufixacao. Dificuldades idiomaticas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "6º Período": [
+     {
+      "Codigo": "ECS363",
+      "Nome": "Comunicacao Comparada",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Não cadastrada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "7º Período": [
+     {
+      "Codigo": "ECS480",
+      "Nome": "Seminarios Esp de Comunicacao",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Não cadastrada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ]
+   },
+   "obrigatorias": 26,
+   "eletivas": 0,
+   "ano": "1985/1 a 1992/2"
+  },
+  {
+   "materias": {},
+   "obrigatorias": 0,
+   "eletivas": 0,
+   "ano": "1993/1 a 2000/2"
+  },
+  {
+   "materias": {
+    "1º Período": [
+     {
+      "Codigo": "ECL112",
+      "Nome": "Linguagem Gráfica",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Uso de elementos gráficos, com características nos projetos de planejamento visual, layout, arte final, composição e seleção de tipologia.  Estética da forma.  Cores, medidas, aplicações.  Comunicação Visual.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ECS113",
+      "Nome": "Comunicação e Artes",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Fundamentos de Estética e conceito de Arte. As artes plásticas como comunicação e seu relacionamento com as outras formas de expressão artística. O contexto histórico da criação artística. Gêneros e estilos da História das Artes.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ECS240",
+      "Nome": "Historia da Comunicação",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Surgimento, expansão e transformação dos meios de comunicação no Brasil: análise periodizada do desenvolvimento técnico e dos processos comunicacionais. Papel e impacto da mídia em diferentes contextos sociais, políticos e econômicos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ECA112",
+      "Nome": "Comunicação e Realidade Brasil",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Formatação da sociedade brasileira em seus aspectos econômicos, sociais e políticos, com ênfase na estrutura e desenvolvimento dos diferentes meios de comunicação.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ECS112",
+      "Nome": "Comunicação e Filosofia",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A passagem da narrativa mítica para o discurso racional.  A técnica do discurso democrático e o nascimento da retórica.  A Sofística e a verdade como potência do discurso.  Filosofia e verdade como objeto do discurso.  Sujeito e consciência na enunciação do cogito.  Enunciação e história.  Pragmática do discurso e mediação.  Simulação e tecnocultura.\n___Bibliografia Recomendada___\n1) PLATÃO.  A  República.  Lisboa:  Calouste  Gulbenkian,  1991.\n2) DESCARTES,  R.  Os  Pensadores.  São  Paulo:  Nova  Cultural,  1984.\n3) NIETZSCHE,  F.  Genealogia  da  Moral.  São  Paulo:  Companhia  das  Letras,  2000\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ECS123",
+      "Nome": "Teoria da Comunicação I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "História da constituição da disciplina de comunicação, articulando a história das idéias à história dos meios. Da Teoria da Informação e do funcionalismo americano, passando pela elaboração de Mac Luhan, a Escola de Frankfurt e de Chicago, as teorias francesas e os autores latino-americanos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEV110",
+      "Nome": "Língua Portuguesa I",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Produção e análise de textos em língua portuguesa. O vocabulário, a frase e o texto. A gramática da frase e do texto. A correção gramatical.\n___BIBLIOGRAFIA BÁSICA___\n1- Abreu, A. S. Curso de redação. S. Paulo, Ática, 1994.\n2 - Fávero, L. L. Coesão e coerência textuais. S. Paulo, Ática, 1991.\n3 - Garcia, O. M. Comunicação em prosa moderna. Rio de Janeiro, FGV, 1985.\n4 - Koch, I. Texto e coerência. S. Paulo, Cortez, 1994.\n5 - Silva, M. C., Brayner, S. Normas técnicas de editoração. Rio de Janeiro, UFRJ, 1992.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "18:30 - 22:00",
+        "professor": "MAURO JOSE ROCHA DO NASCIMENTO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "2º Período": [
+     {
+      "Codigo": "ECA244",
+      "Nome": "Comunicação e Economia",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceitos fundamentais de macro e microeconomia aplicados à comunicação. Aspectos básicos da história do pensamento econômico.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ECL122",
+      "Nome": "Linguagem Audiovisual I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Teoria e crítica do cinema.  Diferentes linguagens cinematográficas.  Gêneros do Cinema. Cinema e novas tecnologias. Vídeo-arte.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ECS236",
+      "Nome": "Teoria da Comunicação II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Visão crítica e epistemológica, centrada nos princípios de medição e vinculação que visa problematizar questões como: espaço público e imagem pública, verdade e doxa, representação e simulação, medição e mediatização, realizando a análise da passagem da sociedade moderna disciplinar para o modelo contemporâneo de redes e controle.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ECS123"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ECA123",
+      "Nome": "Sistemas e Técn de Comunicação",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Redes de  comunicação, rádio e TV.  Transmissão terrestre, a cabo ou satélite.  Informática aplicada a sons e imagens.  Processamento analógico e digital de som e imagem.  Equipamentos para captura e tratamento de imagens.  Conceitos de servidores, redes de dados, telefonia.  Serviços auxiliares via Internet, rádio digital, TV digital.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ECAU01",
+      "Nome": "Laboratório de Comunicação A.",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Atividade prática em Comunicação.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ECS122",
+      "Nome": "Comunicação, Psicol e Cognição",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Sujeito, desejo e incosciente. Publicidade e o conceito de objeto.  Sociedade contemporânea, narcisismo e humor.  Espaço público, consenso e sedução.  O estatuto da imagem.  Marca, proximidade espacial e proximidade semântica.   Novas teorias da cognição, percepção e excesso de informação.  tecnologia e subjetividade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEV120",
+      "Nome": "Língua Portuguesa II",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Analise e producao de textos em lingua portuguesa.Tipologia textual. Problemas de coesao, coerencia eargumentacao. A correcao gramatical.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEV110"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "3º Período": [
+     {
+      "Codigo": "ECA232",
+      "Nome": "Sistemas de Informação",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Sistemas de computação.  Computadores. Ambientes e sistemas operacionais. Linguagens de programação. Redes de dados. Modelos e aplicações à comunicação social.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ECL234",
+      "Nome": "Linguagem Audiovisual II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Linguagem radiofônica. Construção sonora. Gêneros em Rádio e TV. Novas tecnologias. Programação e segmentação.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ECL122"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ECS237",
+      "Nome": "Antropologia e Comunicação",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Sistemas simbólicos e sistemas de comunicação. A questão da diferença e a constituição do conceito de cultura: etnocentrismo, relativização e a perspectiva interpretativa. A relação indivíduo e sociedade e a dinâmica da cultura nas sociedades contemporâneas.\n___Bibliografia Recomendada___\n1) DA MATTA, Roberto. Relativizando. Petrópolis: Vozes, 1981.\n2) VELHO, Gilberto. Projeto e Metamorfose. Rio de Janeiro: Zahar, 1994.\n3) GEERTZ, Clifford. A interpretação das culturas. Rio de Janeiro: Zahar, 1978.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ECA230",
+      "Nome": "Comunicação e Marketing",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Noções de teoria das organizações  e de administração.  O papel do marketing no contexto da gestão organizacional.  Pesquisa de Marketing e sistema de informação.  Análise do ambiente de marketing.  Segmentação. Posicionamento. Comportamento do consumidor.  Composto de marketing.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ECAU02",
+      "Nome": "Laboratório de Comunicação B",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Atividade prática em Comunicação.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ECAU01"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ECL235",
+      "Nome": "Fotografia",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "História da Fotografia. Teoria das cores. Luz e sombra. usos da fotografia.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ECS238",
+      "Nome": "Teoria da Comunicação III",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Práticas e metodologias de comunicação: a questão da linguagem.  Análise comparada de metodologias semióticas, semiológicas, pragmáticas e hermenêuticas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ECS123"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ]
+   },
+   "obrigatorias": 21,
+   "eletivas": 0,
+   "ano": "2001/1 a 2018/2"
+  },
+  {
+   "materias": {
+    "1º Período": [
+     {
+      "Codigo": "ECL112",
+      "Nome": "Linguagem Gráfica",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Uso de elementos gráficos, com características nos projetos de planejamento visual, layout, arte final, composição e seleção de tipologia.  Estética da forma.  Cores, medidas, aplicações.  Comunicação Visual.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ECS113",
+      "Nome": "Comunicação e Artes",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Fundamentos de Estética e conceito de Arte. As artes plásticas como comunicação e seu relacionamento com as outras formas de expressão artística. O contexto histórico da criação artística. Gêneros e estilos da História das Artes.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ECS240",
+      "Nome": "Historia da Comunicação",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Surgimento, expansão e transformação dos meios de comunicação no Brasil: análise periodizada do desenvolvimento técnico e dos processos comunicacionais. Papel e impacto da mídia em diferentes contextos sociais, políticos e econômicos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEV110",
+      "Nome": "Língua Portuguesa I",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Produção e análise de textos em língua portuguesa. O vocabulário, a frase e o texto. A gramática da frase e do texto. A correção gramatical.\n___BIBLIOGRAFIA BÁSICA___\n1- Abreu, A. S. Curso de redação. S. Paulo, Ática, 1994.\n2 - Fávero, L. L. Coesão e coerência textuais. S. Paulo, Ática, 1991.\n3 - Garcia, O. M. Comunicação em prosa moderna. Rio de Janeiro, FGV, 1985.\n4 - Koch, I. Texto e coerência. S. Paulo, Cortez, 1994.\n5 - Silva, M. C., Brayner, S. Normas técnicas de editoração. Rio de Janeiro, UFRJ, 1992.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "18:30 - 22:00",
+        "professor": "MAURO JOSE ROCHA DO NASCIMENTO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ECA112",
+      "Nome": "Comunicação e Realidade Brasil",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Formatação da sociedade brasileira em seus aspectos econômicos, sociais e políticos, com ênfase na estrutura e desenvolvimento dos diferentes meios de comunicação.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ECS112",
+      "Nome": "Comunicação e Filosofia",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A passagem da narrativa mítica para o discurso racional.  A técnica do discurso democrático e o nascimento da retórica.  A Sofística e a verdade como potência do discurso.  Filosofia e verdade como objeto do discurso.  Sujeito e consciência na enunciação do cogito.  Enunciação e história.  Pragmática do discurso e mediação.  Simulação e tecnocultura.\n___Bibliografia Recomendada___\n1) PLATÃO.  A  República.  Lisboa:  Calouste  Gulbenkian,  1991.\n2) DESCARTES,  R.  Os  Pensadores.  São  Paulo:  Nova  Cultural,  1984.\n3) NIETZSCHE,  F.  Genealogia  da  Moral.  São  Paulo:  Companhia  das  Letras,  2000\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ECS123",
+      "Nome": "Teoria da Comunicação I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "História da constituição da disciplina de comunicação, articulando a história das idéias à história dos meios. Da Teoria da Informação e do funcionalismo americano, passando pela elaboração de Mac Luhan, a Escola de Frankfurt e de Chicago, as teorias francesas e os autores latino-americanos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ECWZ50",
+      "Nome": "Ativ Curricular Extensão - Bcs",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "0",
+      "Extensão": "320",
+      "Informação": {
+       "Info": "Atuação em atividades de extensão registradas na Pró-Reitoria de Extensão da UFRJ, como programas, projetos, cursos e eventos de extensão.\n___Bibliografia Recomendada___\n1) Bibliografia Recomendada pelo coordenador da atividade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "2º Período": [
+     {
+      "Codigo": "ECA244",
+      "Nome": "Comunicação e Economia",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceitos fundamentais de macro e microeconomia aplicados à comunicação. Aspectos básicos da história do pensamento econômico.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ECL122",
+      "Nome": "Linguagem Audiovisual I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Teoria e crítica do cinema.  Diferentes linguagens cinematográficas.  Gêneros do Cinema. Cinema e novas tecnologias. Vídeo-arte.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ECS236",
+      "Nome": "Teoria da Comunicação II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Visão crítica e epistemológica, centrada nos princípios de medição e vinculação que visa problematizar questões como: espaço público e imagem pública, verdade e doxa, representação e simulação, medição e mediatização, realizando a análise da passagem da sociedade moderna disciplinar para o modelo contemporâneo de redes e controle.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ECS123"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ECA123",
+      "Nome": "Sistemas e Técn de Comunicação",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Redes de  comunicação, rádio e TV.  Transmissão terrestre, a cabo ou satélite.  Informática aplicada a sons e imagens.  Processamento analógico e digital de som e imagem.  Equipamentos para captura e tratamento de imagens.  Conceitos de servidores, redes de dados, telefonia.  Serviços auxiliares via Internet, rádio digital, TV digital.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ECAU01",
+      "Nome": "Laboratório de Comunicação A.",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Atividade prática em Comunicação.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ECS122",
+      "Nome": "Comunicação, Psicol e Cognição",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Sujeito, desejo e incosciente. Publicidade e o conceito de objeto.  Sociedade contemporânea, narcisismo e humor.  Espaço público, consenso e sedução.  O estatuto da imagem.  Marca, proximidade espacial e proximidade semântica.   Novas teorias da cognição, percepção e excesso de informação.  tecnologia e subjetividade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEV120",
+      "Nome": "Língua Portuguesa II",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Analise e producao de textos em lingua portuguesa.Tipologia textual. Problemas de coesao, coerencia eargumentacao. A correcao gramatical.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEV110"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "3º Período": [
+     {
+      "Codigo": "ECA232",
+      "Nome": "Sistemas de Informação",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Sistemas de computação.  Computadores. Ambientes e sistemas operacionais. Linguagens de programação. Redes de dados. Modelos e aplicações à comunicação social.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ECL234",
+      "Nome": "Linguagem Audiovisual II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Linguagem radiofônica. Construção sonora. Gêneros em Rádio e TV. Novas tecnologias. Programação e segmentação.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ECL122"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ECS237",
+      "Nome": "Antropologia e Comunicação",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Sistemas simbólicos e sistemas de comunicação. A questão da diferença e a constituição do conceito de cultura: etnocentrismo, relativização e a perspectiva interpretativa. A relação indivíduo e sociedade e a dinâmica da cultura nas sociedades contemporâneas.\n___Bibliografia Recomendada___\n1) DA MATTA, Roberto. Relativizando. Petrópolis: Vozes, 1981.\n2) VELHO, Gilberto. Projeto e Metamorfose. Rio de Janeiro: Zahar, 1994.\n3) GEERTZ, Clifford. A interpretação das culturas. Rio de Janeiro: Zahar, 1978.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ECA230",
+      "Nome": "Comunicação e Marketing",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Noções de teoria das organizações  e de administração.  O papel do marketing no contexto da gestão organizacional.  Pesquisa de Marketing e sistema de informação.  Análise do ambiente de marketing.  Segmentação. Posicionamento. Comportamento do consumidor.  Composto de marketing.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ECAU02",
+      "Nome": "Laboratório de Comunicação B",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Atividade prática em Comunicação.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ECAU01"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ECL235",
+      "Nome": "Fotografia",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "História da Fotografia. Teoria das cores. Luz e sombra. usos da fotografia.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ECS238",
+      "Nome": "Teoria da Comunicação III",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Práticas e metodologias de comunicação: a questão da linguagem.  Análise comparada de metodologias semióticas, semiológicas, pragmáticas e hermenêuticas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ECS123",
+       "ECS236"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ]
+   },
+   "obrigatorias": 22,
+   "eletivas": 0,
+   "ano": "2019/1 a 9999/9"
+  }
+ ]
+}

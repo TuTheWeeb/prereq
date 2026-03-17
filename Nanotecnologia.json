@@ -1,0 +1,1452 @@
+{
+ "Nanotecnologia": [
+  {
+   "materias": {
+    "1º Período": [
+     {
+      "Codigo": "CFB118",
+      "Nome": "Biologia Celular",
+      "Créditos": "6.0",
+      "Teórica": "90",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Biologia Celular: Métodos de estudo da célula. Membrana Plasmática; estrutura, permeabilidade, transporte, receptores de membrana, sinalização celular. Sistemas internos de membrana: retículo endoplasmático, complexo de Golgi, síntese de proteínas. Endocitose, tráfego de membranas. O Citoesqueleto. Organelas produtoras de energia: Mitocôndrias, cloroplastos, peroxissomos. O núcleo: O núcleo interfásico. Ciclo celular e seu controle. Divisão celular. Junções intercelulares, matriz extracelular.\n__ BIBLIOGRAFIA BÁSICA__\n1) Biologia Molecular da Célula - 5ª Ed. Alberts, Bruce; Alberts, Bruce / ARTMED.\n2) Molecular Cell Biology by Harvey Lodish, Arnold Berk, Chris A. Kaiser, and Monty Krieger - 5th edition , 2007.\n3) Biologia Celular e Molecular - 7ª Ed. 2014, Berk, Arnold; Lodish, Harvey; Outros / ARTMED.\n__BIBLIOGRAFIA COMPLEMENTAR__\n1) Como Cultivar Células, Curi, Rui; Curi, Rui / GUANABARA KOOGAN.\n2) Fundamentos da Biologia Celular - 3ª Ed. 2011,Bray, Dennis; Bray, Dennis; Bray, Dennis; Hopkin, Karen; Hopkin, Karen; Hopkin, Karen; Albert, Bruce; Albert, Bruce; Albert, Bruce / ARTMED.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 15:00",
+        "professor": "RAFAEL RAMOS HOSPODAR FELIPPE VALVERDE"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 15:00",
+        "professor": ""
+       },
+       {
+        "dia": "Sex",
+        "hora": "13:00 - 15:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IQO111",
+      "Nome": "Química Geral Estrutural",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceito de modelo. Modelo e realidade fisica. Simetria: elementos de simetria. Ligacao quimica. Modelos moleculares: dimensoes e angulas. Movimentos das moleculas. Forcas intermoleculares. Estados fisicos. Fases, superficies, mudancas de fase. Fases complexas: micelas, vesiculas e cristais liquidos. Membranas. Macromoleculas naturais e artificiais. Modelos de reacao quimica. Nomenclatura.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NAN110",
+      "Nome": "Nanotecnologia I",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Seminário sobre temas relacionados a nanotecnologia: a) Nanotecnologia, conceitos e dimensão, b) nanopartículas, c) magnetismo, d)óxidos metálicos, 2) Estudo dirigido dos quatro temas abordados.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "CFB111",
+      "Nome": "Grandes Temas da Biologia",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Os temas mais relevantes e atuais em Biologia Molecular, Estrutural e de Sistemas. A interfase entre as ciências biomédicas e exatas. Doenças emergentes e re-emergentes. Meio ambiente e saúde. Doenças crônico-degenerativas. Terapias avançadas e novos métodos de diagnóstico e tratamento. Discussão de tópicos avançados nas diferentes áreas do conhecimento e da ciência. Temas relevantes e comteporâneos relacionados ao desenvolvimento da ciência com ênfase em questões nacionais. Novas abordagens técnicas e conceituais para resolver problemas nas diversas áreas do saber. Mudanças de paradigmas em ciências e educação. A inter-relação entre o desenvolvimento científico-tecnológico e o sócio-econômico.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sab",
+        "hora": "08:00 - 12:00",
+        "professor": "GILBERTO WEISSMULLER"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IQG114",
+      "Nome": "Química Geral I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estequiometria. Teoria atômica. Classificação periódica. Ligação química, Composto de coordenação. Química nuclear.\n",
+       "BibliografiaBasica": "1- RUSSEL, John B. 1994. Química Geral. V. 1 e 2. 2ª ed., Makron Books do Brasil editora, São Paulo.\n2- BRADY, J. E., HUMISTON, G. E. 1986. Química geral. volume 1 e 2. 2 ed. LTC, São Paulo.\n3- OHLWEILER, Otto Alcides. 1967. Introdução à Química Geral. ed. Globo, Porto Alegre.\n",
+       "BibliografiaComplementar": "1- KOTZ, J.C.; PURCELL, K.F. Chemistry and chemical Reactivity. 1993. 2 edition, Saunders College Publishing,USA.\n5- BRADY J.E., John Wiley & Sons General Chemistry Principles & Structure. 1990. 5ª ed.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "10:00 - 12:00",
+        "professor": "LUCIDALVA DOS SANTOS PINHEIRO"
+       },
+       {
+        "dia": "Qui",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAC118",
+      "Nome": "Cálculo Difer e Integral I",
+      "Créditos": "6.0",
+      "Teórica": "90",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Técnicas de Integração. Integral Imprópria.\n",
+       "BibliografiaBasica": "1) SANTOS, A. R.; BIANCHINI, Waldecir. Aprendendo Cálculo com Maple: Cálculo de Uma Variável. 1ª ed. Rio de Janeiro: LTC, 2002.\n2) LEITHOLD, Louis. O Cálculo com Geometria Analítica. 3.ed. São Paulo: Harbra, 2002. vol. 1.\n3) STEWART, James. Cálculo. 4.ed. São Paulo: Pioneira Thomson Learning, 2002. vol. 1.\n",
+       "BibliografiaComplementar": "1) ANTON, H.; BIVIS. I.; DAVIS, S. Cálculo, Vol. I. 8ª ed. Editora Harbra.\n2) APOSTOL, TOM M. Calculus, Vol. 1: One Variable Calculus With an Introduction to Linear Algebra. 2ª ed. - Ed. Wiley.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "15:00 - 17:00",
+        "professor": "AFTAB PANDE"
+       },
+       {
+        "dia": "Qua",
+        "hora": "15:00 - 17:00",
+        "professor": ""
+       },
+       {
+        "dia": "Sex",
+        "hora": "15:00 - 17:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "2º Período": [
+     {
+      "Codigo": "FIS111",
+      "Nome": "Física Experimental I",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução à medida: como medir. Como expressar corretamente os valores medidos. Estimar a precisão de instrumentos. Dispersão de uma medida: controle de grandezas físicas numa experiência. Como caracterizar a dispersão de um conjunto de dados por um indicador apropriado. Cinemática unidimensional: desenvolvimento intuitivo e operacional dos conceitos de velocidade e aceleração. Representação e análise gráfica. Leis de Newton. Como definir operacionalmente a inércia e um corpo. Relação massa inercial-massa gravitacional. Colisões unidimensionais elásticas, semi-elásticas e inelásticas. Modelo teórico de uma colisão unidimensional.\n",
+       "BibliografiaBasica": "1) Apostila de Física Experimental I. Instituto de Física, UFRJ.\n2) Fundamentos da Teoria de Erros. J.H. Vuolo.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "15:00 - 17:00",
+        "professor": "RUYNET LIMA DE MATOS FILHO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ICP124",
+      "Nome": "Programação de Computadores I",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Computadores e ambientes de programação. Algoritmos. A linguagem Pascal. Estrutura de um programa. Tipos de variáveis. Comandos de atribuição, entrada e saída. Operadores e expressões. Comandos condicionais e de repetição. Funções e procedimentos. Estruturas de dados em Pascal. Manipulação de carcateres e textos. Solução de problemas diversos em Pascal.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IQO121",
+      "Nome": "Química Orgânica I - Iq",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Alcanos: estrutura e reatividade, radicais livres. Alquenos: estrutura e reatividade. Substituicao e eliminacao. Alcoois e eteres: preparacao, estrutura e reatividade. Aldeidos e cetonas: preparacao,estrutura e reatividade. Adicoes a carbonila. Preparacao, estrutura e reatividade. Adicoes a carbonila. Preparacao de alcanos e alquenos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "IQG114",
+       "IQO111"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NAN120",
+      "Nome": "Nanotecnologia II",
+      "Créditos": "1.0",
+      "Teórica": "15",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Seminário sobre temas relacionados a nanotecnologia: a) Nano partículas de carbono,  b) nanopartículas lamelares, c) nanopartículas metálicas d)nanocompósitos,  2) Estudo dirigido dos quatro temas abordados.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BQM118",
+      "Nome": "Bioquímica de Macromoléculas",
+      "Créditos": "4.0",
+      "Teórica": "30",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Proteínas; níveis de estrutura. Purificação e caracterização de proteínas; conformação, interação proteína-proteína; estrutura quaternária; sistemas multiproteicos; mecanismos de ação enzimáticos; proteínas motoras e reguladoras da motilidade; ácidos nucleicos: estrutura e métodos de análise. Glicoproteínas e proteoglicanos; matriz extracelular.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIT112",
+      "Nome": "Física I - a",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução. Vetores. Velocidade e aceleração vetoriais. Os princípios da dinâmica. Aplicações das leis de Newton. Trabalho e energia mecânica. Conservação da energia. Momento linear e conservação do momento linear. Colisões. Rotação e momento angular. Dinâmica de corpos rígidos. Força que varia inversamente ao quadrado da distancia (gravitação).\n___ BIBLIOGRAFIA BÁSICA ___\n1) Física para Cientistas e Engenheiros, v.1. Mecânica, Oscilações e Ondas, Termodinâmica (6ª edição).\n2) Fundamentos de Física (4ª edição) D. Halliday. R. Resnick and J. Walker - John Wiley & Sons, Inc.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 10:00",
+        "professor": "BRUNO DE MOURA ESCHER"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 10:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IQG120",
+      "Nome": "Química Geral II - Iq",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Gases, Soluções, Termodinâmica, Cinética Química, Equilíbrio Químico,\nÁcidos e Bases, Eletroquímica\n",
+       "BibliografiaBasica": "1)ATKINS P., JONES L., Bookman,2001.\n2) RUSSEL J. B.; 1994, Traduzido, 2a . Edição, Volumes 1 e 2; Makron Books do Brasil Editora Ltda..\n",
+       "BibliografiaComplementar": "1)BRADY J. E., HUMISTON G. E.; 1986, Traduzido, 2a . Edição, Volumes 1 e 2; Livros Técnicos e CientÍficos Editora S.A.\n2) KOTZ J. C., TREICHEL P.; 1998, volumes 1-2; Livros TÉcnicos e CientÍficos\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "10:00 - 12:00",
+        "professor": "JUAN OMAR MACHUCA HERRERA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "IQG114"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAC128",
+      "Nome": "Cálculo Diferen e Integral II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Equações Diferenciais Ordinárias de Primeira  Ordem. Equações Diferenciais Ordinárias Lineares de Segunda Ordem com Coeficientes Constantes. Curvas e Vetores no Plano. Vetores no Espaço Tridimensional e Geometria Analítica Sólida. Funções de R2 em R. Funções de R3 em R. Máximos e Mínimos de Funções de R2 em R. Máximos e Mínimos de Funções de R3 em R.\n",
+       "BibliografiaBasica": "1) BOYCE, W. E.; DIPRIMA, R. C. Equações Diferenciais Elementares e Problemas de Valores de Contorno. 7. ed. Rio de Janeiro: UFRJ, 2004.\n2) PINTO, D.; MORGADO, M.C.F. Cálculo Diferencial e Integral de Funções de Várias Variáveis. 3.ed. Rio de Janeiro: UFRJ, 2004.\n3) STEWART, J. Cálculo. 4. ed. São Paulo: Pioneira Thomson Learning, 2002. vol. 2.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "10:00 - 12:00",
+        "professor": "CAROLINA LEMOS DE OLIVEIRA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MAC118"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "3º Período": [
+     {
+      "Codigo": "FIS121",
+      "Nome": "Física Experimental II",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Dinâmica das rotações: cinemática das rotações, determinação de momento de inércia, pêndulo composto. Movimento oscilatório: movimento harmônico simples, movimento harmônico amortecido, combinação de movimentos harmônicos. Hidrostática: determinação de viscosidade, determinação de densidade de líquidos e sólidos. Ondas mecânicas: velocidade do som (método de ressonância), cordas vibrantes. Calorimetria: capacidade calorífica, equivalente mecânico.\n",
+       "BibliografiaBasica": "1) Apostila de Física Experimental II, Instituto de Física, UFRJ.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 15:00",
+        "professor": "LUCAS OLIVEIRA LIMA"
+       }
+      ],
+      "Requisitos": [
+       "FIS111",
+       "FIT112"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IQO231",
+      "Nome": "Química Orgânica II - Iq",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Alquinos e dienos: estrutura, preparacao e reatividade. . Benzeno e aromaticidade. Derivados de benzeno: preparacao e reativivdade. Acidos carboxilicos eseus derivados: preparacao e reatividade. Poliaromaticos: estrutura e reatividade. Carboidratos. Amino-acidos e peptideos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "IQO121"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAE125",
+      "Nome": "Álgebra Linear",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Sistemas de equações lineares e Eliminação Gaussiana. Matrizes e determinante. Espaços vetoriais Euclidianos. Geometria dos espaços vetoriais de dimensão finita. Transformações lineares. Espaços vetoriais com produto interno. Ortogonalidade e mínimos quadrados. Autovalores e autovetores. Teorema espectral. Aplicações à solução de Equações Diferenciais Ordinárias e em Geometria Euclidiana.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "15:00 - 17:00",
+        "professor": "HENRIQUE NOGUEIRA BASTOS"
+       },
+       {
+        "dia": "Qui",
+        "hora": "15:00 - 17:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "CFB125",
+      "Nome": "Genética Molecular I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Composição e estrutura de ácidos nucleicos.  Estrutura de cromatina.  Conceito de genes, organização gênica e famílias gênicas.  Replicação de DNA.  Reparo de DNA.  Tipos de RNA e características estruturais. Transcrição em procariotos e eucariotos.  Maturação e processamento de RNAs.  Biossíntese de proteínas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 15:00",
+        "professor": "FRANCISCO MEIRELLES BASTOS DE OLIVEIRA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 15:00",
+        "professor": "ROSANE SILVA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 15:00",
+        "professor": "ANA BEATRIZ FURLANETTO PACHECO"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 15:00",
+        "professor": "TURAN PETER URMENYI"
+       },
+       {
+        "dia": "Sex",
+        "hora": "13:00 - 15:00",
+        "professor": "ANA BEATRIZ FURLANETTO PACHECO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIT122",
+      "Nome": "Física II - a",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Oscilações: oscilações amortecidas e forçadas. Ondas. Som. Fluidos. Temperatura. Calor - primeira Lei da Termodinâmica. Propriedades dos gases. Segunda Lei da Termodinâmica. Teoria cinética dos gases. Transferência de calor e de massa.\n",
+       "BibliografiaBasica": "1) Física, volume 1. Mecânica, Oscilações e Ondas (5ª edição). Paul A. Tipler e Gene Mosca. LTC Editora S.A.\n2) Curso de Física Básica , volume 1. Mecânica, Oscilações e Ondas. H. Moysés Nussenzveig - Editora Edgard Blücher Ltda.\n3) Fundamentos de Física (4ª edição). D. Halliday. R. Resnick e J. Walker - John Wiley & Sons, Inc.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "10:00 - 12:00",
+        "professor": "DINEY SOARES ETHER JUNIOR"
+       },
+       {
+        "dia": "Sex",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "FIT112",
+       "MAC118"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAC238",
+      "Nome": "Cálculo Diferen e Integral III",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Integrais Múltiplas. Integrais de Linha. Integrais de Superfície. Teorema de Gauss. Teorema de Stokes.\n",
+       "BibliografiaBasica": "1) PINTO, D.; MORGADO, M. C. F. Cálculo Diferencial e Integral de Funções de Várias Variáveis. 3ª ed. Rio de Janeiro: UFRJ, 2004.\n2) TROMBA, A. J.; MARSDEN, J. E. Vector Calculus. 5ª ed. New York: W. H. Freeman & Company, 2003.\n3) ANTON, H. Cálculo: Um Novo Horizonte. 6ª ed. Porto Alegre: Bookman, 2000. vol.2.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "15:00 - 17:00",
+        "professor": "ANATOLI LEONTIEV"
+       },
+       {
+        "dia": "Qui",
+        "hora": "15:00 - 17:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MAC128"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NAN111",
+      "Nome": "Nanotec Experimental",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Normas básicas em laboratório de química; troca catiônica em argilas lamelares; síntese de nanopartículas de prata; obtenção de superfícies superhidrofóbicas;  síntese de nanopartículas de óxido  de ferro superparamagnético,  obtenção de nanocelulose; acetilação de nanocelulose, obtenção de nanolâminas de grafeno a partir do grafite natural; preparação de nanopartículas de ouro; sinalização de nasosílica; síntese de nanopartículas de dióxido de titânio; tratamento da superfície do carbonato de cálcio; nanocompósito polimérico por polimerização in situ; nanocompósito polimérico por processamento do estado fundido.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "4º Período": [
+     {
+      "Codigo": "EET351",
+      "Nome": "Estrutura dos Sólidos",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estrutura dos atomos; ligacoes interatomicas; coordenacao atomica; cristalografia; cristais reais; estruturas nao cristalinass; diagramas de fase; solucoes solidas e compostos intermetalicos; metais; polimeros; ceramicos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "15:00 - 17:00",
+        "professor": "TATIANA DAS CHAGAS ALMEIDA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "15:00 - 17:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "FIT122",
+       "IQG111"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIN231",
+      "Nome": "Física Experimental III",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Instrumentos de Medidas Elétricas. Resistores. Capacitores. Tensões e Correntes Alternadas. Campos Magnéticos Estáticos.\n",
+       "BibliografiaBasica": "1)  Apostila de Física Experimental III, Instituto de Física, UFRJ.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "10:00 - 12:00",
+        "professor": "ANGELO MARCIO DE SOUZA GOMES"
+       }
+      ],
+      "Requisitos": [
+       "FIS121"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MMP240",
+      "Nome": "Introdução à Polímeros",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Polímeros: Conceituação e Classificação; reações de polimerização; técnicas de polimerização; definição de massa molar e métodos de determinação; caracterização estrutural; conceitos básicos de propriedades térmicas, mecânicas e óticas; principais processos de transformação de polímeros.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "15:00 - 17:00",
+        "professor": "EMERSON OLIVEIRA DA SILVA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BQM129",
+      "Nome": "Bioenergética e Metabolismo",
+      "Créditos": "6.0",
+      "Teórica": "60",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceitos de termodinâmica, os compostos de alta de baixa energia, a fermentação e glicólise, o ciclo dos ácidos tricarboxílicos, os citocromos e a respiração celular, as mitocrôndias e o metabolismo aeróbico, o gradiente de prótons e a teoria quimosmótica, a F1Fo-ATP sintase, as espécies reativas de oxigênio, o metabolismo de glicogênio, o metabolismo de lipídeos, o metabolismo de aminoácidos, a via das pentoses, gliconeogenese, regulação hormonal.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BQM118"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIM230",
+      "Nome": "Física III - a",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Lei de Coulomb. Campos elétricos. Lei de Gauss. Potencial Elétrico, capacitores, correntes e circuitos. Campos magnéticos, leis de Ampere e Biot - Savart, Lei de Faraday, indutância, corrente de deslocamento. Circuitos de corrente alternada, equações de Maxwell.\n",
+       "BibliografiaBasica": "1) Física, volume 2. Eletricidade e Magnetismo, Ótica (5ª edição). Paul A. Tipler e Gene Mosca. LTC Editora S.A.\n2) Curso de Física Básica, volume 1. Mecânica, Oscilações e Ondas. H. Moysés Nussenzveig - Editora Edgard Blücher Ltda.\n3) Fundamentos de Física (4ª edição). D. Halliday. R. Resnick e J. Walker - John Wiley & Sons, Inc.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "10:00 - 12:00",
+        "professor": "MAURICIO ORTIZ CALVAO"
+       },
+       {
+        "dia": "Sex",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "FIT112",
+       "MAC128"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAC248",
+      "Nome": "Cálculo Diferen e Integral IV",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Serie de potências; resolução de equações diferenciais lineares ordinárias de segunda ordem com coeficientes variáveis: soluções por série próximo a um ponto ordinário; soluções por série próximo a um ponto regular (método de Frobenius). Transformada de Laplace; série de Fourier. Problemas de valores de contorno e teoria de Sturm-Liouville. Equações diferenciais parciais clássicas: onda; calor; Laplace: Dirichlet no retângulo e Dirichlet no círculo.\n",
+       "BibliografiaBasica": "1) Cálculo, volume 2 de James Stewart.\n2) Cálculo com Geometria Analítica, volume 2, Louis Leithold.\n3) Equações Diferenciais Elementares e Problemas de Valores de Contorno, de William E. Boyce e Richard C. DiPrima.\n4) Equações Diferenciais, volumes 1 e 2, de Dennis G. Zill.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "15:00 - 17:00",
+        "professor": "GUILHERME HILARIO MONTEIRO"
+       },
+       {
+        "dia": "Sex",
+        "hora": "15:00 - 17:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MAC128"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "5º Período": [
+     {
+      "Codigo": "FIM240",
+      "Nome": "Física IV - a",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Ondas eletromagnéticas. Energia e momento da luz. Noções da relatividade restrita. Ótica geométrica. Fenômenos de interferência. Difração. Polarização. Física moderna. Efeitos fotoelétricos e Compton. Átomo de hidrogênio. Difração de elétrons. Função de onda. Equação de Schroedinger. Principio de incerteza.\n",
+       "BibliografiaBasica": "1) Física, volume 2. Eletricidade e Magnetismo, Ótica (5ª edição). Paul A. Tipler e Gene Mosca. LTC Editora S.A.\n2) Física, volume 3. Física Moderna, Mecânica Quântica, Relatividade e a Estrutura da Matéria (5ª edição). Paul A. Tipler e Gene Mosca. LTC Editora S.A.\n3) Curso de Física Básica , volume 4. Ótica, Relatividade, Física Quântica H. Moysés Nussenzveig - Editora Edgard Blücher Ltda.\n4) Física IV. Ótica e Física Moderna Young & Freedman (12ª edição).\n5) Fundamentos de Física (4ª edição). D. Halliday. R. Resnick and J. Walker - John Wiley & Sons, Inc.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 15:00",
+        "professor": "PATRICIA LUSTOZA DE SOUZA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "13:00 - 15:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "FIM230"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MMP061",
+      "Nome": "Síntese e Carac Polímeros Exp",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Técnicas experimentais poliadições via radicais livres,poliadições iônicas(catiônica e aniônica);policondensações,polímeros condutores;técnicas de polimerização em massa,solução,suspensão e emulsão.Recuperação e purificação de polímeros sintetizados.Caracterização de polímeros quanto à estrutura e peso molecular.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 12:00",
+        "professor": "ROBERTO PINTO CUCINELLI NETO"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 12:00",
+        "professor": "MARIANA DA SILVA ALVES"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EEI053",
+      "Nome": "Ger da I e Cri de Emp de B Tec",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenvolvimento Tecnológico no Brasil. Criação de novas empresas. O problema do \"star up\". Escolha de idéias. Capital, mercado. Plano de negócios. Produção. Organização da empresa. Crescimento da empresa.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "10:00 - 13:00",
+        "professor": "ADRIANO PROENCA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIN241",
+      "Nome": "Física Experimental IV",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Principio do magnetismo, leis de Ampere, Faraday e Lentz. Medidor de campo magnetico. Propriedades magneticas da materia, histerese, corrente alternada: circuitos de corrente alternada RLC, oscilacoes eletromagneticas. Conservacao de energia. Otica geometrica: reflexao, refracao, lentes e prismas. Otica fisica: interferencia, difracao e polarizacao.\n___ BIBLIOGRAFIA BÁSICA ___\n1) Apostila de Física Experimental IV. Instituto de Física, UFRJ.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "10:00 - 12:00",
+        "professor": "JOSE HELDER LOPES"
+       }
+      ],
+      "Requisitos": [
+       "FIN231"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "6º Período": [],
+    "7º Período": [],
+    "8º Período": [],
+    "Disciplinas Optativas (Escolha Restrita)": [
+     {
+      "Codigo": "NANX02",
+      "Nome": "Intr Pesq Nanotec: Física",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Programa de iniciação científica e tecnológica em laboratório ou grupo de pesquisa na área de nanociência e nanotecnologia com ênfase em Física.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sab",
+        "hora": "13:00 - 17:00",
+        "professor": "DANIEL GRASSESCHI"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NANX04",
+      "Nome": "Intr Pesq Nanotec: Química",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Programa de iniciação científica e tecnológica em laboratório ou grupo de pesquisa na área de nanociência e nanotecnologia com ênfase em Química.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sab",
+        "hora": "17:00 - 21:00",
+        "professor": "ANA CATARINA DE OLIVEIRA GOMES"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NANX01",
+      "Nome": "Intr Pesq Nanotec: Bionanotec",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Programa de iniciação científica e tecnológica em laboratório ou grupo de pesquisa na área de nanociência e nanotecnologia com ênfase em Bionanotecnologia.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NANX03",
+      "Nome": "Intr Pesq Nanotec: Materiais",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Programa de iniciação científica e tecnológica em laboratório ou grupo de pesquisa na área de nanociência e nanotecnologia com ênfase em Materiais.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     }
+    ]
+   },
+   "obrigatorias": 31,
+   "eletivas": 4,
+   "ano": "2010/1 a 2022/2"
+  },
+  {
+   "materias": {
+    "1º Período": [
+     {
+      "Codigo": "CFB118",
+      "Nome": "Biologia Celular",
+      "Créditos": "6.0",
+      "Teórica": "90",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Biologia Celular: Métodos de estudo da célula. Membrana Plasmática; estrutura, permeabilidade, transporte, receptores de membrana, sinalização celular. Sistemas internos de membrana: retículo endoplasmático, complexo de Golgi, síntese de proteínas. Endocitose, tráfego de membranas. O Citoesqueleto. Organelas produtoras de energia: Mitocôndrias, cloroplastos, peroxissomos. O núcleo: O núcleo interfásico. Ciclo celular e seu controle. Divisão celular. Junções intercelulares, matriz extracelular.\n__ BIBLIOGRAFIA BÁSICA__\n1) Biologia Molecular da Célula - 5ª Ed. Alberts, Bruce; Alberts, Bruce / ARTMED.\n2) Molecular Cell Biology by Harvey Lodish, Arnold Berk, Chris A. Kaiser, and Monty Krieger - 5th edition , 2007.\n3) Biologia Celular e Molecular - 7ª Ed. 2014, Berk, Arnold; Lodish, Harvey; Outros / ARTMED.\n__BIBLIOGRAFIA COMPLEMENTAR__\n1) Como Cultivar Células, Curi, Rui; Curi, Rui / GUANABARA KOOGAN.\n2) Fundamentos da Biologia Celular - 3ª Ed. 2011,Bray, Dennis; Bray, Dennis; Bray, Dennis; Hopkin, Karen; Hopkin, Karen; Hopkin, Karen; Albert, Bruce; Albert, Bruce; Albert, Bruce / ARTMED.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 15:00",
+        "professor": "RAFAEL RAMOS HOSPODAR FELIPPE VALVERDE"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 15:00",
+        "professor": ""
+       },
+       {
+        "dia": "Sex",
+        "hora": "13:00 - 15:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IQO111",
+      "Nome": "Química Geral Estrutural",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceito de modelo. Modelo e realidade fisica. Simetria: elementos de simetria. Ligacao quimica. Modelos moleculares: dimensoes e angulas. Movimentos das moleculas. Forcas intermoleculares. Estados fisicos. Fases, superficies, mudancas de fase. Fases complexas: micelas, vesiculas e cristais liquidos. Membranas. Macromoleculas naturais e artificiais. Modelos de reacao quimica. Nomenclatura.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NAN110",
+      "Nome": "Nanotecnologia I",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Seminário sobre temas relacionados a nanotecnologia: a) Nanotecnologia, conceitos e dimensão, b) nanopartículas, c) magnetismo, d)óxidos metálicos, 2) Estudo dirigido dos quatro temas abordados.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "CFB111",
+      "Nome": "Grandes Temas da Biologia",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Os temas mais relevantes e atuais em Biologia Molecular, Estrutural e de Sistemas. A interfase entre as ciências biomédicas e exatas. Doenças emergentes e re-emergentes. Meio ambiente e saúde. Doenças crônico-degenerativas. Terapias avançadas e novos métodos de diagnóstico e tratamento. Discussão de tópicos avançados nas diferentes áreas do conhecimento e da ciência. Temas relevantes e comteporâneos relacionados ao desenvolvimento da ciência com ênfase em questões nacionais. Novas abordagens técnicas e conceituais para resolver problemas nas diversas áreas do saber. Mudanças de paradigmas em ciências e educação. A inter-relação entre o desenvolvimento científico-tecnológico e o sócio-econômico.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sab",
+        "hora": "08:00 - 12:00",
+        "professor": "GILBERTO WEISSMULLER"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IQG114",
+      "Nome": "Química Geral I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estequiometria. Teoria atômica. Classificação periódica. Ligação química, Composto de coordenação. Química nuclear.\n",
+       "BibliografiaBasica": "1- RUSSEL, John B. 1994. Química Geral. V. 1 e 2. 2ª ed., Makron Books do Brasil editora, São Paulo.\n2- BRADY, J. E., HUMISTON, G. E. 1986. Química geral. volume 1 e 2. 2 ed. LTC, São Paulo.\n3- OHLWEILER, Otto Alcides. 1967. Introdução à Química Geral. ed. Globo, Porto Alegre.\n",
+       "BibliografiaComplementar": "1- KOTZ, J.C.; PURCELL, K.F. Chemistry and chemical Reactivity. 1993. 2 edition, Saunders College Publishing,USA.\n5- BRADY J.E., John Wiley & Sons General Chemistry Principles & Structure. 1990. 5ª ed.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "10:00 - 12:00",
+        "professor": "LUCIDALVA DOS SANTOS PINHEIRO"
+       },
+       {
+        "dia": "Qui",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAC118",
+      "Nome": "Cálculo Difer e Integral I",
+      "Créditos": "6.0",
+      "Teórica": "90",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Técnicas de Integração. Integral Imprópria.\n",
+       "BibliografiaBasica": "1) SANTOS, A. R.; BIANCHINI, Waldecir. Aprendendo Cálculo com Maple: Cálculo de Uma Variável. 1ª ed. Rio de Janeiro: LTC, 2002.\n2) LEITHOLD, Louis. O Cálculo com Geometria Analítica. 3.ed. São Paulo: Harbra, 2002. vol. 1.\n3) STEWART, James. Cálculo. 4.ed. São Paulo: Pioneira Thomson Learning, 2002. vol. 1.\n",
+       "BibliografiaComplementar": "1) ANTON, H.; BIVIS. I.; DAVIS, S. Cálculo, Vol. I. 8ª ed. Editora Harbra.\n2) APOSTOL, TOM M. Calculus, Vol. 1: One Variable Calculus With an Introduction to Linear Algebra. 2ª ed. - Ed. Wiley.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "15:00 - 17:00",
+        "professor": "AFTAB PANDE"
+       },
+       {
+        "dia": "Qua",
+        "hora": "15:00 - 17:00",
+        "professor": ""
+       },
+       {
+        "dia": "Sex",
+        "hora": "15:00 - 17:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "2º Período": [
+     {
+      "Codigo": "FIS111",
+      "Nome": "Física Experimental I",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução à medida: como medir. Como expressar corretamente os valores medidos. Estimar a precisão de instrumentos. Dispersão de uma medida: controle de grandezas físicas numa experiência. Como caracterizar a dispersão de um conjunto de dados por um indicador apropriado. Cinemática unidimensional: desenvolvimento intuitivo e operacional dos conceitos de velocidade e aceleração. Representação e análise gráfica. Leis de Newton. Como definir operacionalmente a inércia e um corpo. Relação massa inercial-massa gravitacional. Colisões unidimensionais elásticas, semi-elásticas e inelásticas. Modelo teórico de uma colisão unidimensional.\n",
+       "BibliografiaBasica": "1) Apostila de Física Experimental I. Instituto de Física, UFRJ.\n2) Fundamentos da Teoria de Erros. J.H. Vuolo.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "15:00 - 17:00",
+        "professor": "RUYNET LIMA DE MATOS FILHO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ICP124",
+      "Nome": "Programação de Computadores I",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Computadores e ambientes de programação. Algoritmos. A linguagem Pascal. Estrutura de um programa. Tipos de variáveis. Comandos de atribuição, entrada e saída. Operadores e expressões. Comandos condicionais e de repetição. Funções e procedimentos. Estruturas de dados em Pascal. Manipulação de carcateres e textos. Solução de problemas diversos em Pascal.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IQO121",
+      "Nome": "Química Orgânica I - Iq",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Alcanos: estrutura e reatividade, radicais livres. Alquenos: estrutura e reatividade. Substituicao e eliminacao. Alcoois e eteres: preparacao, estrutura e reatividade. Aldeidos e cetonas: preparacao,estrutura e reatividade. Adicoes a carbonila. Preparacao, estrutura e reatividade. Adicoes a carbonila. Preparacao de alcanos e alquenos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "IQG114",
+       "IQO111"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NAN120",
+      "Nome": "Nanotecnologia II",
+      "Créditos": "1.0",
+      "Teórica": "15",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Seminário sobre temas relacionados a nanotecnologia: a) Nano partículas de carbono,  b) nanopartículas lamelares, c) nanopartículas metálicas d)nanocompósitos,  2) Estudo dirigido dos quatro temas abordados.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BQM118",
+      "Nome": "Bioquímica de Macromoléculas",
+      "Créditos": "4.0",
+      "Teórica": "30",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Proteínas; níveis de estrutura. Purificação e caracterização de proteínas; conformação, interação proteína-proteína; estrutura quaternária; sistemas multiproteicos; mecanismos de ação enzimáticos; proteínas motoras e reguladoras da motilidade; ácidos nucleicos: estrutura e métodos de análise. Glicoproteínas e proteoglicanos; matriz extracelular.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIT112",
+      "Nome": "Física I - a",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução. Vetores. Velocidade e aceleração vetoriais. Os princípios da dinâmica. Aplicações das leis de Newton. Trabalho e energia mecânica. Conservação da energia. Momento linear e conservação do momento linear. Colisões. Rotação e momento angular. Dinâmica de corpos rígidos. Força que varia inversamente ao quadrado da distancia (gravitação).\n___ BIBLIOGRAFIA BÁSICA ___\n1) Física para Cientistas e Engenheiros, v.1. Mecânica, Oscilações e Ondas, Termodinâmica (6ª edição).\n2) Fundamentos de Física (4ª edição) D. Halliday. R. Resnick and J. Walker - John Wiley & Sons, Inc.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 10:00",
+        "professor": "BRUNO DE MOURA ESCHER"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 10:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IQG120",
+      "Nome": "Química Geral II - Iq",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Gases, Soluções, Termodinâmica, Cinética Química, Equilíbrio Químico,\nÁcidos e Bases, Eletroquímica\n",
+       "BibliografiaBasica": "1)ATKINS P., JONES L., Bookman,2001.\n2) RUSSEL J. B.; 1994, Traduzido, 2a . Edição, Volumes 1 e 2; Makron Books do Brasil Editora Ltda..\n",
+       "BibliografiaComplementar": "1)BRADY J. E., HUMISTON G. E.; 1986, Traduzido, 2a . Edição, Volumes 1 e 2; Livros Técnicos e CientÍficos Editora S.A.\n2) KOTZ J. C., TREICHEL P.; 1998, volumes 1-2; Livros TÉcnicos e CientÍficos\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "10:00 - 12:00",
+        "professor": "JUAN OMAR MACHUCA HERRERA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "IQG114"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAC128",
+      "Nome": "Cálculo Diferen e Integral II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Equações Diferenciais Ordinárias de Primeira  Ordem. Equações Diferenciais Ordinárias Lineares de Segunda Ordem com Coeficientes Constantes. Curvas e Vetores no Plano. Vetores no Espaço Tridimensional e Geometria Analítica Sólida. Funções de R2 em R. Funções de R3 em R. Máximos e Mínimos de Funções de R2 em R. Máximos e Mínimos de Funções de R3 em R.\n",
+       "BibliografiaBasica": "1) BOYCE, W. E.; DIPRIMA, R. C. Equações Diferenciais Elementares e Problemas de Valores de Contorno. 7. ed. Rio de Janeiro: UFRJ, 2004.\n2) PINTO, D.; MORGADO, M.C.F. Cálculo Diferencial e Integral de Funções de Várias Variáveis. 3.ed. Rio de Janeiro: UFRJ, 2004.\n3) STEWART, J. Cálculo. 4. ed. São Paulo: Pioneira Thomson Learning, 2002. vol. 2.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "10:00 - 12:00",
+        "professor": "CAROLINA LEMOS DE OLIVEIRA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MAC118"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "3º Período": [
+     {
+      "Codigo": "FIS121",
+      "Nome": "Física Experimental II",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Dinâmica das rotações: cinemática das rotações, determinação de momento de inércia, pêndulo composto. Movimento oscilatório: movimento harmônico simples, movimento harmônico amortecido, combinação de movimentos harmônicos. Hidrostática: determinação de viscosidade, determinação de densidade de líquidos e sólidos. Ondas mecânicas: velocidade do som (método de ressonância), cordas vibrantes. Calorimetria: capacidade calorífica, equivalente mecânico.\n",
+       "BibliografiaBasica": "1) Apostila de Física Experimental II, Instituto de Física, UFRJ.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 15:00",
+        "professor": "LUCAS OLIVEIRA LIMA"
+       }
+      ],
+      "Requisitos": [
+       "FIS111",
+       "FIT112"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IQO231",
+      "Nome": "Química Orgânica II - Iq",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Alquinos e dienos: estrutura, preparacao e reatividade. . Benzeno e aromaticidade. Derivados de benzeno: preparacao e reativivdade. Acidos carboxilicos eseus derivados: preparacao e reatividade. Poliaromaticos: estrutura e reatividade. Carboidratos. Amino-acidos e peptideos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "IQO121"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAE125",
+      "Nome": "Álgebra Linear",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Sistemas de equações lineares e Eliminação Gaussiana. Matrizes e determinante. Espaços vetoriais Euclidianos. Geometria dos espaços vetoriais de dimensão finita. Transformações lineares. Espaços vetoriais com produto interno. Ortogonalidade e mínimos quadrados. Autovalores e autovetores. Teorema espectral. Aplicações à solução de Equações Diferenciais Ordinárias e em Geometria Euclidiana.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "15:00 - 17:00",
+        "professor": "HENRIQUE NOGUEIRA BASTOS"
+       },
+       {
+        "dia": "Qui",
+        "hora": "15:00 - 17:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "CFB125",
+      "Nome": "Genética Molecular I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Composição e estrutura de ácidos nucleicos.  Estrutura de cromatina.  Conceito de genes, organização gênica e famílias gênicas.  Replicação de DNA.  Reparo de DNA.  Tipos de RNA e características estruturais. Transcrição em procariotos e eucariotos.  Maturação e processamento de RNAs.  Biossíntese de proteínas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 15:00",
+        "professor": "FRANCISCO MEIRELLES BASTOS DE OLIVEIRA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 15:00",
+        "professor": "ROSANE SILVA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 15:00",
+        "professor": "ANA BEATRIZ FURLANETTO PACHECO"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 15:00",
+        "professor": "TURAN PETER URMENYI"
+       },
+       {
+        "dia": "Sex",
+        "hora": "13:00 - 15:00",
+        "professor": "ANA BEATRIZ FURLANETTO PACHECO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIT122",
+      "Nome": "Física II - a",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Oscilações: oscilações amortecidas e forçadas. Ondas. Som. Fluidos. Temperatura. Calor - primeira Lei da Termodinâmica. Propriedades dos gases. Segunda Lei da Termodinâmica. Teoria cinética dos gases. Transferência de calor e de massa.\n",
+       "BibliografiaBasica": "1) Física, volume 1. Mecânica, Oscilações e Ondas (5ª edição). Paul A. Tipler e Gene Mosca. LTC Editora S.A.\n2) Curso de Física Básica , volume 1. Mecânica, Oscilações e Ondas. H. Moysés Nussenzveig - Editora Edgard Blücher Ltda.\n3) Fundamentos de Física (4ª edição). D. Halliday. R. Resnick e J. Walker - John Wiley & Sons, Inc.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "10:00 - 12:00",
+        "professor": "DINEY SOARES ETHER JUNIOR"
+       },
+       {
+        "dia": "Sex",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "FIT112",
+       "MAC118"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAC238",
+      "Nome": "Cálculo Diferen e Integral III",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Integrais Múltiplas. Integrais de Linha. Integrais de Superfície. Teorema de Gauss. Teorema de Stokes.\n",
+       "BibliografiaBasica": "1) PINTO, D.; MORGADO, M. C. F. Cálculo Diferencial e Integral de Funções de Várias Variáveis. 3ª ed. Rio de Janeiro: UFRJ, 2004.\n2) TROMBA, A. J.; MARSDEN, J. E. Vector Calculus. 5ª ed. New York: W. H. Freeman & Company, 2003.\n3) ANTON, H. Cálculo: Um Novo Horizonte. 6ª ed. Porto Alegre: Bookman, 2000. vol.2.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "15:00 - 17:00",
+        "professor": "ANATOLI LEONTIEV"
+       },
+       {
+        "dia": "Qui",
+        "hora": "15:00 - 17:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MAC128"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NAN111",
+      "Nome": "Nanotec Experimental",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Normas básicas em laboratório de química; troca catiônica em argilas lamelares; síntese de nanopartículas de prata; obtenção de superfícies superhidrofóbicas;  síntese de nanopartículas de óxido  de ferro superparamagnético,  obtenção de nanocelulose; acetilação de nanocelulose, obtenção de nanolâminas de grafeno a partir do grafite natural; preparação de nanopartículas de ouro; sinalização de nasosílica; síntese de nanopartículas de dióxido de titânio; tratamento da superfície do carbonato de cálcio; nanocompósito polimérico por polimerização in situ; nanocompósito polimérico por processamento do estado fundido.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ]
+   },
+   "obrigatorias": 21,
+   "eletivas": 0,
+   "ano": "2023/1 a 9999/9"
+  }
+ ]
+}

@@ -1,0 +1,3934 @@
+{
+ "Design Industrial": [
+  {
+   "materias": {
+    "1º Período": [
+     {
+      "Codigo": "BAH101",
+      "Nome": "História da Arte I",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo do fenômeno e da representações artísticas da Pré-História ao Século XIV, em seus aspectos conceituais, históricos e culturais. Do Paleolítico ao Gótico.\n___BIBLIOGRAFIA BÁSICA___\n1- ARGAN, Giulio Carlo. História da arte italiana. Da Antiguidade a Duccio. São Paulo: Editora Cosac e Naify, 2003.\n2- BELL, Julian. Uma nova história da arte. São Paulo: Editora Martins Fontes, 2008.\n3- JANSON, Horst Woldemar. História geral da arte (Vol. I): O Mundo Antigo e a Idade Média. São Paulo: Martins Fontes, 2001.\n4- WOODFORD, Susan. A arte de ver a arte. Rio de Janeiro: Zahar, 1983.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1- GOMBRICH. E.H. A História da arte. Rio de Janeiro: LTC, 2011.\n2- JANSON, H. W. História da arte. Lisboa: Fundação Calouse Gulbenkian,  1989.\n3- LISE, Giorgio. Como reconhecer a arte egípcia. Lisboa: Edições 70, 1985.\n4- SHAVER-CRANDELL, Anne. A idade média. Rio de Janeiro: Zahar, 1984.\n5- TARELLA, Alda. Como reconhecer a arte romana. Lisboa: edições 70, 1988.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAI110",
+      "Nome": "Design Básico I",
+      "Créditos": "3.0",
+      "Teórica": "15",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Forma e seus elementos conceituais. Exploração e análise das representações da forma bi dimensional. Criatividade e resolução de problemas, dedução e intuição, princípios da Gestalt e da Semiótica, estruturas, sistemas de formas, cor, superfícies, modulações. Projetos orientados.\n___Bibliografia Recomendada___\n1- WUNCIUS, Wong. Princípios da Forma e Desenho. São Paulo: Martins Fontes, 1998.\n2- DONDIS, A. Donis. Sintaxe da Linguagem Visual. São Paulo, Martins Fontes, 1999.\n3- GOMES FILHO, J. Gestalt do Objeto. São Paulo, 2000.\n4- PEDROSA, I. Da cor à cor inexistente. Rio de Janeiro, Christiano Ed./EDUFF, 2002.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 12:00",
+        "professor": "CAMILA ASSIS PERES SILVA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 10:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "BAIX05(C)"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAIX05",
+      "Nome": "Seminário de Design I",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Práticas e discussão dos conceitos adquiridos na disciplina Design Básico I - BAI110.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAI110(C)"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAF102",
+      "Nome": "Desenho I",
+      "Créditos": "3.0",
+      "Teórica": "0",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Representação e expressão de formas simples (geométricas, naturais e artificiais) através de ensinamentos teóricos e exercícios práticos de observação e percepção do campo visual, análise estrutural, memorização, iniciação dos meios de expressão.\n___ BIBLIOGRAFIA BÁSICA ___\n1- GOMBRICH, E.H. Arte e ilusão: um estudo da psicologia da representação pictórica. São Paulo: Martins Fontes, 1986.\n2- OSTROWER, Fayga. Universos da Arte. Campinas: UNICAMP, 2013.\n3- WONG, Wucius. Princípios de forma e desenho. São Paulo: WMF Martins Fontes, 2010.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH208",
+      "Nome": "Teoria da Inf e da Comunicacao",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A informacao e a comunicacao: ambito e objetivo. Processo de comunicacao: a comunicacao e o sistema social. Importancia das artes no processo de comunicacao: aplicacao dos principios esteticos na comunicacao. Comunicacao visual e sonora.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAI117",
+      "Nome": "Oficina Básica I",
+      "Créditos": "3.0",
+      "Teórica": "15",
+      "Prática": "75",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das formas e espacos. Analise e representacao das formas tri-dimensionais, atraves dos materiais expressivos: barro, gesso, resinas, papel, madeira e metais. Tecnicas e instrumentos de trabalho: ferramentas simples e maquinas operatrizes. Uso e medidas de seguranca. Construcao e testes de modelos fisicos. Execucao de trabalhos propostos em metodologia visual i.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAR114",
+      "Nome": "Sist Geom de Representação I",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução à Geometria Descritiva e seus elementos: ponto, reta e plano. - Figuras, posições relativas, interseções, métodos descritivos. - Sólidos com referência na forma de produtos.\n___Bibliografia Recomendada___\n1- GIONGO, A. A. Curso de Desenho Geométrico. São Paulo: Nobel, 1979.\n2- WILMER, C. PEREIRA, M. R. F. Geometria para Desenho Industrial. Rio de Janeiro: Interciência, 1978.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "10:00 - 12:00",
+        "professor": "DANIEL WYLLIE LACERDA RODRIGUES"
+       },
+       {
+        "dia": "Qui",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "2º Período": [
+     {
+      "Codigo": "BAH104",
+      "Nome": "História da Arte II",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das Artes Visuais nos Séculos XV ao XVII, em seus aspectos conceituais, históricos e historiográficos. Do Renascimento ao Neoclássico.\n___BIBLIOGRAFIA BÁSICA___\n1- ARGAN, Giulio Carlo. Clássico e anticlássico. São Paulo: Companhia das Letras, 1999.\n2- ARGAN, Guilio Carlo. Imagem e persuasão. São Paulo: Companhia das Letras, 2004.\n3- ARGAN, Guilio Carlo. História da arte italiana. São Paulo: Cosac & Naify, 2003. v. 2 e 3.\n4- BAETA, Rodrigo Espinha. Teoria do Barroco. Salvador: EDUFBA-PPGAU, 2012.\n5- JANSON, H.W. História da arte. 9ª ed. Lisboa: Fundação Calouste Gulbenkian, 2010.\n___BIBLIOGRAFIA COMPLEMENTAR____\n1- HAUSER, Arnold. História social da literatura e da arte. São Paulo: Martins Fontes, 2003.\n2- OLIVEIRA, Myriam Andrade Ribeiro de. O rococó religioso no Brasil. São Paulo: Cosac & Naify, 2003.\n3- PEVSNER, Nikolaus. Panorama da arquitetura ocidental. São Paulo: Martins Fontes, 19¬¬82.\n4- SILVA, Jorge Henrique Pais da. Estudos sobre o maneirismo. Lisboa: Imprensa Universitária, 1983.\n5- WÖLFFLIN, Heinrich. Renascença e Barroco. São Paulo: Editora perspectiva, 1989.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAI122",
+      "Nome": "Teorias e Práticas em Design I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Design, apresentação da evolução da produção de objetos na história, com especial foco na idade moderna, a partir dos eventos da industrialização e do industrialismo. - Compreensão factual e estética da evolução das teorias, ideologias, tecnologias e hábitos que resultam na cultura do design. - Desenvolvimentos do design mundial entre a revolução industrial e a segunda guerra mundial.\n___Bibliografia Recomendada___\n1- NIEMEYER, L. Design no Brasil ? Origens e instalação. Rio de Janeiro, 2AB, 1998.\n2- HESKETT, J. Desenho Industrial. Rio de Janeiro, JoséOlympio. 1997.\n3- BÜRDECK, B.E. História Teoria e Prática do Design de Produtos. S.Paulo, Blücher, 2006.\n4- CARDOSO, Rafael.  Uma Introdução à História do Design. São Paulo: Blucher, 2008.\n5- FORTY, Adrian. Objetos de Desejo. São Paulo: Cosac Naif, 2007.\n6- PEVSNER, Nikolaus. Os pioneiros do Design Moderno. Rio: Martins Fontes, 2002.\n7- SCHNEIDER, Beat.  Design ? Uma Introdução. São Paulo: Blucher, 2010.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAR120",
+      "Nome": "Sist Geom de Representação II",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Problemas métricos, representação de poliedros e superfícies geométricas (desenvolvíveis e revessas), seções e interseções em geral. Aplicações práticas no Design de Produto.\n___Bibliografia Recomendada___\n1- GIONGO, A. A. Curso de Desenho Geométrico. São Paulo: Nobel, 1979.\n2- WILMER, C. PEREIRA, M. R. F. Geometria para Desenho Industrial. Rio de Janeiro: Interciência, 1978.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 15:00",
+        "professor": "DANIEL WYLLIE LACERDA RODRIGUES"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 15:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "BAR114"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAF106",
+      "Nome": "Desenho II",
+      "Créditos": "3.0",
+      "Teórica": "0",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Análise teórico - prático da representação bidimensional. Observação visual e táctil de formas e estruturas simples naturais e artificiais. Meios técnicos de expressão.\n___ BIBLIOGRAFIA BÁSICA ___\n1- MAYER, Ralph. Manual do artista: de técnicas e materiais. São Paulo: Martins fontes, 1999.\n2- PARRAMÓN, José Maria. Luz e sombra em Desenho e Pintura. Barcelona: Parramón, 1974.\n3- PARRAMÓN, José Maria. Primeiros passos em desenho artístico. Barcelona: Parramón, 1972.\n4- PEDROSA, Israel. O universo da cor. Rio de Janeiro: Ed. SENAC Nacional, 2003.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAF102"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAI121",
+      "Nome": "Design Básico II",
+      "Créditos": "3.0",
+      "Teórica": "15",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Exploração e análise das representações da forma bi e tri-dimensional. Criatividade e resolução de problemas, forma e espaço, princípios da Gestalt e da Semiótica, estruturas, sistemas de formas, modulações e volumes. Projetos orientados.\n___Bibliografia Recomendada___\n1- WUNCIUS, Wong. Princípios da Forma e Desenho. São Paulo: Martins Fontes, 1998.\n2- DONDIS, A. Donis. Sintaxe da Linguagem Visual. São Paulo, Martins Fontes, 1999.\n3- GOMES FILHO, J. Gestalt do Objeto. São Paulo, 2000.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 16:00",
+        "professor": "DEBORAH CHAGAS CHRISTO"
+       },
+       {
+        "dia": "Qui",
+        "hora": "09:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "BAI110",
+       "BAIX05"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAIX06",
+      "Nome": "Seminário de Design II",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Práticas e discussão dos conceitos adquiridos na disciplina Design Básico II - BAI121.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAI121(C)"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAR121",
+      "Nome": "Desenho Tecnico I (DI)",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceito, significado e classificacao do desenho tecnico - normas tecnicas nb 8 e nb 13.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 17:00",
+        "professor": "CRISTINA GRAFANASSI TRANJAN"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "3º Período": [
+     {
+      "Codigo": "BAI230",
+      "Nome": "Desenv e Proj do Produto I",
+      "Créditos": "5.0",
+      "Teórica": "15",
+      "Prática": "120",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Iniciacao ao desenvolvimento pratico de projetos de produtos de baixa complexidade, estimulando a criatividade e a analise tecnico-formal.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV120"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAI240",
+      "Nome": "Téc de Apresent de Produtos",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Técnicas de representação e apresentação de soluções de projeto. - Recursos materiais e computacionais para aplicação em Design de Produto. - Conhecimento e aplicação de técnicas de perspectivas, sombras, cores e suportes em projeto de produto. - Possibilidades de visualizações gráficas no processo de desenvolvimento de design de produto. - Formatação gráfica e estrutura do relatório de projeto. - Exercícios práticos.\n___Bibliografia Recomendada___\n1- POWELL, D. Presentation Techniques. London: Macdonald & Co. 1998.\n2- ERICSON STRAUB (et. al.). ABC do Rendering. Curitiba, Infolio, 2004.\n3- EISSEN, K. & STEUR, R. Sketching: Drawing Techniques for Product Designers. Amsterdam: BIS, 2010.\n4- JULIÁN, F. e ALBARRACIN, J. Desenho para Designers Industriais. Lisboa: Estampa, 2005.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 12:00",
+        "professor": "MARCOS HENRIQUE DE GUIMARAES OLIVA"
+       }
+      ],
+      "Requisitos": [
+       "BAF106"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAR232",
+      "Nome": "Desenho Técnico II (Di)",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Planejamento do Desenho Técnico para produção. Vistas e contagem. Planificação e vista explodida. Exercício de traçado a mão livre. Desenho de conjunto. Conhecimento de softwares aplicados a realização de Desenhos Técnicos Mecânicos e Exercícios de utilização.\n___Bibliografia Básica___\n1- ABNT. Normas para Desenho Técnico. Porto Alegre: Globo, 1977.\n2- GIESECKE, Frederick E. Comunicação Gráfica Moderna. Porto Alegre: Bookman, 2002.\n3- SILVA, Arlindo. Desenho Técnico Moderno. Rio de Janeiro: LTC, 4ª ed., 2006.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAR120",
+       "BAR121"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH201",
+      "Nome": "História da Arte III",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das Artes Visuais nos Séculos XIX ao XX, em seus aspectos conceituais, históricos e historiográficos. Do Romantismo às Vanguardas Históricas.\n___BIBLIOGRAFIA BÁSICA___\n1- ARGAN, Giulio Carlo. Arte Moderna. São Paulo: Cia das Letras, 2004.\n2- ARGAN, Guilio Carlo. A arte moderna da Europa: de Hogarth a Picasso. São Paulo: Cia. Das Letras, 2010.\n3- HAUSER, Arnold. História social da literatura e da arte. São Paulo: Martins Fontes, 2003.\n4- JANSON, H.W. História da arte. 9ª ed. Lisboa: Fundação Calouste Gulbenkian, 2010.\n5- PEVSNER, Nikolaus. Panorama da arquitetura ocidental. São Paulo: Martins Fontes, 19¬¬82.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1- FABRIS, Annateresa (org). O ecletismo na arquitetura brasileira. São Paulo: Edusp, 1987.\n2- GIEDION, Siegfried. Espaço, tempo e arquitetura: o desenvolvimento de uma nova tradição. São Paulo: Martins Fontes, 2004.\n3- KELLY, C. et alii. Século XIX: o romantismo. Rio de Janeiro: Museu Nacional de Belas Artes, 1979.\n4- REYNOLDS, Donald. A arte do século XIX. Rio de Janeiro: Zahar editores, 1986.\n5- PEVSNER, Nikolaus. Pioneiros do desenho moderno. São Paulo: Martins Fontes, 1995.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAI232",
+      "Nome": "Gestão e Métodos em Design",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Design e suas ações práticas. - Gestão em Design. ? A administração do escritório, setor e/ou equipes de Design. - Estratégias e planejamento de marcas e produtos.  ?Mercado, qualidade, meio ambiente e competitividade, inovação e políticas em Design. - A gerência de projetos e Ética Profissional.\n___Bibliografia Recomendada___\n1- BEST, K. Fundamentos de Gestão do Design. Porto Alegre: Bookman, 2012.\n2- MOZOTA, B. B. Gestão do Design. Porto Alegre, Bookman, 2011.\n3- MARTINS, R. & MERINO, E. A Gestão do Design como Estratégia Organizacional. Rio de Janeiro: RioBooks, 2011.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAR230",
+      "Nome": "Perspectiva (Di)",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A perspectiva: histórico, nomenclatura e notações. A teoria da perspectiva: 1. Com ponto de vista próprio: o ponto de fuga; métodos usuais. 2. Com ponto de vista improprio: a perspectiva obliqua; casos principais. Aplicações perspectivas de interiores e exteriores; sombras em perspectiva. Noções de perspectiva axonométrica cônica e cilíndrica. Aplicações: desenho isométrico, dimétrico, vistas e explodidas.\n___Bibliografia Básica___\n1- POMPEU PINHEIRO, Gerson. A Prática da Perspectiva. Tese, Biblioteca da EBA.\n2- CHINGIR, Margarita. Curso de Desenho de Perspectiva Exata. Vols. I a V. Gráfica Editorial Ltda.\n3- THEODORE DE POSTELS. Fundamentos de Perspectiva. Ed. VicturLerú. SRL.\n4- GREGORY, Roberto Muniz. Axonometria. Oficina Gráfica da Universidade do Brasil, 1962.\n5- FABRÍCIO, Ruth O. Menescal. Vistas explodidas em axonometria. Tese, Biblioteca da EBA, 1974.\n6- PILLET, J. J. Traité de Perspective. Biblioteca da EBA.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAR120"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "4º Período": [
+     {
+      "Codigo": "BAI242",
+      "Nome": "Desenv e Proj do Produto II",
+      "Créditos": "7.0",
+      "Teórica": "30",
+      "Prática": "150",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Planejamento e desenvolvimento pratico de projetos de produtos industrializaveis de media complexidade, estimulando a criatividade, na solucao de problemas de \"design\", metodos de sistematizacao de trabalho. Tecnicas de representacao e apresentacao dos projetos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAI230",
+       "BAI430",
+       "BAR121"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAI506",
+      "Nome": "Ergonomia do Produto I",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Ergonomia ? Conceitos gerais, história e evolução da Ergonomia.  - Abordagem ergonômica de sistemas (sistema homem-ambiente e máquina).  - O organismo humano. - Biomecânica ocupacional (Posturas e envoltórios de conforto e alcance).  ? Antropometria: estática e dinâmica; medidas e aplicações. - Levantamento Estatístico de dados. ? Enfoques do Posto de Trabalho. ? Manejo, controles e dispositivos de informação  - Aspectos ergonômicos para projetos de produto e estações de trabalho.\n___Bibliografia Recomendada___\n1- IIDA, I. Ergonomia: projeto e produção. 2ª Ed. São Paulo: Blücher, 2005.\n2- DUL, J.: WEERDMEESTER, B. Ergonomia Prática. São Paulo: Blücher, 2ª Ed. 2004. 137p.\n3- GRANDJEAN, E. Manual de Ergonomia - adaptando o trabalho do homem. Porto Alegre: Artes Médicas, 1998.\n4- GOMES FILHO, J. Ergonomia do objeto: sistema técnico de leitura ergonômica. São Paulo: Escrituras, 2010.\n5- PANERO, Julius; ZELNIK, Martin. Human Dimension & Interior Space. Watson-Guptill Publications, New York, 1979.\n6- CRONEY, John. Anthropometry for Designers. Batsford Academy and Educational Limited, London, 1980.\n7- DREYFUSS, Henry. The Measure of Man; Human Factors in Design. Whitney Library of Design, New York, 1978.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 16:00",
+        "professor": "BRUNA MILAM ALMEIDA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIN351",
+      "Nome": "Fisica Aplicada ao Des Industr",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Mecanica geral. Acustica. Otica fisica e geometrica. Eletricidade. Magnetismo. Atomos, moleculas e solidos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "ALEXIS RICARDO HERNANDEZ NUNEZ"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAI231",
+      "Nome": "Oficina de Modelos I",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Oficina de madeira. Estudos e construcao de modelos tridimensionais. Tecnologia reversa. Execucao e montagem de modelos de produtos. Desenho analitico. Analise das partes e das funcoes. Medicao e contagem. Desenho de producao. Confeccao e montagem. Operacoes com maquinas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAI244",
+      "Nome": "Mater e Proc de Fabricação I",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução a Ciência dos Materiais. - Propriedades dos materiais. -  Aspectos para seleção de materiais para o projeto de produtos. - Materiais naturais  (madeiras, cerâmica, vidro e metais). - Materiais Não Naturais (polímeros, borrachas e compósitos). - Processos de fabricação e transformação e tratamento dos materiais. - Superfícies e acabamentos. - Questões ambientais.  - Materiais e o projeto de Produtos Industriais.\n___Bibliografia Recomendada___\n1- LIMA,M.A.M. Introdução aos materiais e processos para designers. Rio de Janeiro: Ciência Moderna, 2006.\n2- ASHBY, M. e JOHNSON, K. Materiais e Design. Rio de Janeiro, Elsevier, 2011.\n3- FISHER, U. (Ed.) Manual de Tecnologia Metal Mecânica. São Paulo Blücher, 2008.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "15:00 - 17:00",
+        "professor": "DEBORAH CHAGAS CHRISTO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAV121",
+      "Nome": "Fotografia I",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Teoria fotográfica, a câmera, estruturação da imagem; introdução ao laboratório fotográfico.\n___Bibliografia Recomendada___\n1) ADAMS,Ansel.The Camera, New York: Litle, Brown and Company, 1991. Existe edição do SENAC SP.\n2) ____, Ansel. The Negative, New York:Litle, Brown and Company, 1991. Existe edição do SENAC SP.\n3) ____, Ansel. The Print, New York: Litle, Brown and Company, 1991. Existe edição do SENAC.\n4) SPGOLDBERG, Vicki. Photography in Print, Alburquerque: University New Mexico Press, 1988Catálogo da XXV Bienal de São Paulo, Iconografias Metropolitanas. São Paulo, 2002.\n5)CARSON, D. , MEGGS P. : Fotografiks, David Carson, Corte Madera: Gingko Press, 2000.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "5º Período": [
+     {
+      "Codigo": "BAI243",
+      "Nome": "Oficina de Modelos II",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenvolvimento teorico pratico dos conhecimentos relativos ao comportamento dos metais, metodos de trabalhos. Formas, processos industriais e manejo do ferramental. Execucao de exercicios e prototipos planejados graficamente na oficina.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAI352",
+      "Nome": "Mater e Proc de Fabicação II",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Classificação geral dos processos de fabricação e de separação aplicados a metais, não metais e materiais compostos. - Processos de gravação, modelos positivos e negativos de fabricação. - Metodologia de desenvolvimento de estampos e matrizes. - Processos de transformação à quente e à frio. - Processos de obtenção de formas originárias e processos de união.-  Metodologia de desenvolvimento de produtos: da peça a produção em série envolvendo o emprego de máquinas operatrizes, equipamentos, tolerâncias e seqüências operacionais. - Atividade Extraclasse/Visita Técnica.\n___Bibliografia Recomendada___\n1- ASHBY, M. e JOHNSON, K. Materiais e Design. Rio de Janeiro, Elsevier, 2011.\n2- LIMA, M. A. M. Introdução aos materiais e processos para designers. Rio de Janeiro: Ciência Moderna, 2006.\n3- FISHER, U. (Ed.) Manual de Tecnologia Metal Mecânica. São Paulo Blücher, 2008.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "13:00 - 15:00",
+        "professor": "VICENTE DE PAULO SANTOS CERQUEIRA"
+       }
+      ],
+      "Requisitos": [
+       "BAI244"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAD231",
+      "Nome": "Estatística",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Apuração de dados amostrais. Estatísticas. Distribuições de probabilidade. Distribuições binominal e normal. Amostragem. Estimação. Testes de hipóteses. Corrrelação e regressão linear.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH240",
+      "Nome": "Est Socio-Economicos I (DI)",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Objeto e metodo das ciencias sociais. A sociologia como instrumento de acao pratica. Evolucao social relacionada com o progresso e com as aplicacoes do saber humano. Opiniao publica propaganda. Mudanca social e resistencia.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAI350",
+      "Nome": "Desenv e Proj do Produto III",
+      "Créditos": "7.0",
+      "Teórica": "30",
+      "Prática": "150",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Planejamento e desenvolvimento pratico de projeto de produtos industriais de complexidade crescente, estimulando a criatividade na solucao de problemas de \"design\". consideracao dos fatores: socio-economicos, tecnologicos, ergonomicos e antropometricos. Metodos de sistematizacao do trabalho e tecnicas de representacao e apresentacao dos projetos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAI242",
+       "BAI244",
+       "BAI506",
+       "BAR232"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAI507",
+      "Nome": "Ergonomia do Produto II",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Técnicas de representação e apresentação de soluções de projeto. - Recursos materiais e computacionais para aplicação em Design de Produto. - Conhecimento e aplicação de técnicas de perspectivas, sombras, cores e suportes em projeto de produto. - Possibilidades de visualizações gráficas no processo de desenvolvimento de design de produto. - Formatação gráfica e estrutura do relatório de projeto. - Exercícios práticos.\n___Bibliografia Recomendada___\n1- POWELL, D. Presentation Techniques. London: Macdonald & Co. 1998.\n2- ERICSON STRAUB (et. al.). ABC do Rendering. Curitiba, Infolio, 2004.\n3- EISSEN, K. & STEUR, R. Sketching: Drawing Techniques for Product Designers. Amsterdam: BIS, 2010.\n4- JULIÁN, F. e ALBARRACIN, J. Desenho para Designers Industriais. Lisboa: Estampa, 2005.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 16:00",
+        "professor": "BRUNA MILAM ALMEIDA"
+       }
+      ],
+      "Requisitos": [
+       "BAI506"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "6º Período": [
+     {
+      "Codigo": "BAI351",
+      "Nome": "Oficina de Modelos III",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Elaboracao e construcao de formas positivas e ou negativas, estudos teorico-praticos referentes as caracteristicas comerciais e historicas, classificacao fisico-quimica, metodo para definicao da materia-prima e seus processos de transformacao, laminacao, moldagem por compressao, moldagem de espumas, injecao, sopro, extrusao e termofornagem, alem dos processos de acabamento superficiais (hot-stamp, serigrafia, pintura etc.>.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAI508",
+      "Nome": "Modelos Estrut em Des Ind I",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceitos fundamentais. Confecção de modelos, vinculações e ligaões. Elementos de maquinas e composição de sistemas mecânicos. Ajustes e tolerâncias e interpretação intuitiva dos fenômenos estruturais. Analise qualitativa através de observações experimentais em modelos reduzidos. Desenvolvimento da criatividade de sistemas estruturais aplicados ao projeto de produtos.\n___Bibliografia Recomendada___\n1- ASHBY, M. e JOHNSON, K. Materiais e Design. Rio de Janeiro, Elsevier, 2011.\n2- FISHER, U. (Ed.) Manual de Tecnologia Metal Mecânica. São Paulo Blücher, 2008.\n3- MELCONIAN, S. Elementos de máquinas. São Paulo: Érica, 2000.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 17:00",
+        "professor": "DIOGO PONTES COSTA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAW240",
+      "Nome": "Computação Gráfica nas Artes I",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introducao ao uso de computacao grafica nas artes com apresentacao: Paint Brush, Autocad, Slide Write, GFX, Doctor Hallo, Turbo Pascal (GRAPH Po). Reflexao sobre os fatores ergonomicos e sociologicos. Conhecimento e utilizacao das ferramentas de computacao grafica. Pratica de composicao, incentivo a criatvidade atraves do estimulo da pesquisa com utilizacao das ferramentas apresentadas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAF106",
+       "BAR120"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH350",
+      "Nome": "Est Socio-Economicos II (DI)",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Nocoes de macroeconomia, inflacao e desenvolvimento economico. Nocao de microeconomia. Estudos da producao e do mercado - mercadologia.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAH240"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAI361",
+      "Nome": "Mater e Proc de Fabricação III",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Polímeros e Compósitos: Materiais e Processos de Produção.  - Materiais naturais, biomateriais, semicondutores e processos de produção.  Introdução aos Métodos de Seleção de Materiais e Processos para o Design de Produtos. - Questões ambientais ligadas ao setor produtivo. Importância dos materiais e processos para atividade do design industrial. - Atividade Extraclasse/Visita Técnica.\n___Bibliografia Recomendada___\n1- KULA, D. Materiologia: o guia criativo de materiais e tecnologias. São Paulo, Senac SP, 2012.\n2- ASHBY, M. e JOHNSON, K. Materiais e Design. Rio de Janeiro, Elsevier, 2011.\n3- LESKO, J. Design Industrial Materiais e Processos de Fabricação. São Paulo: Blucher, 2004.\n4- LIMA, M. A. M. Introdução aos materiais e processos para designers. Rio de Janeiro: Ciência Moderna, 2006.\n5- FISHER, U. (Ed.) Manual de Tecnologia Metal Mecânica. São Paulo Blücher, 2008.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "15:00 - 17:00",
+        "professor": "GERSON DE AZEVEDO LESSA"
+       }
+      ],
+      "Requisitos": [
+       "BAI352"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAIX03",
+      "Nome": "Desenv e Proj do Produto IV",
+      "Créditos": "8.0",
+      "Teórica": "360",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Planejamento e desenvolvimento pratico de projetos de produtos industriais de maior complexidade, estimulando a criatividade na solucao de problemas de \"design\". consideracao dos fatores: socio-economicos, tecnologicos, ergonomicos e aritrogometricos. Metodos de sistematizacao do trabalho e tecnicas de representacao e apresentacao dos projetos para a realizacao em nivel de fabricacao.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAI350",
+       "BAI352",
+       "BAI431",
+       "BAI507"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "7º Período": [
+     {
+      "Codigo": "BAH360",
+      "Nome": "Est Socio-Economicos III (DI)",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Antropologia como campo de conhecimento. Antropologia e as demais ciencias sociais. Evolucao humana, as nocoes de natureza e a cultura material.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "8º Período": [
+     {
+      "Codigo": "BAIX04",
+      "Nome": "Proj de Grad em Proj do Prod",
+      "Créditos": "6.0",
+      "Teórica": "240",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Projeto final para conclusao do curso, proposto e gerenciado pelo aluno, previamente aprovado por docente do curso com habilitacao em projeto do produto que sera o seu orientador.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 16:00",
+        "professor": "JEANINE TORRES GEAMMAL"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 16:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "BAH360",
+       "BAI361",
+       "BAIX03"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "Disciplinas Optativas (Escolha Condicionada)": [
+     {
+      "Codigo": "BAF104",
+      "Nome": "Plástica I",
+      "Créditos": "3.0",
+      "Teórica": "0",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenvolver o sentimento da forma tridimensional ao mesmo tempo que promove conhecimentos técnicos do trabalho executado em diferentes materiais. Estuda questões estético-plásticas relacionados à composição, além das modalidades diversas de interpretação da forma, em volume e espaço.\n___Bibliografia Recomendada___\n1- KRAUSS, Rosalind. Caminhos da escultura moderna. São Paulo: Martins Fontes, 2001.\n2- WONG, Wucius. Princípios de Forma e desenho. São Paulo: Martins Fontes, 2001.\n3- BRITO, Ronaldo. Neoconcretismo: vértice e ruptura do projeto construtivo brasileiro. São Paulo: Cosac Naify, 2007.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAF205",
+      "Nome": "Modelo Vivo I",
+      "Créditos": "3.0",
+      "Teórica": "0",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenho de observação da estrutura da forma no espaço com seus atributos de ritmo, volumes e proporção. Percepção da linha e suas possibilidades expressivas e do claro-escuro.\n___Bibliografia Recomendada___\n1- ARNHEIM, Rudolf. Arte e percepção visual: uma psicologia da visão criadora. São Paulo: Cengage Learning, 2011.\n2- ARNHEIM, Rudolf. Intuição e intelecto na arte. São Paulo: Martins Fontes, 1989.\n3- KANDINSKY, Wassily. Ponto linha plano: contribuição para a análise dos elementos picturais. Lisboa: Edições 70, 1996.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAI001",
+      "Nome": "Teoria e Práticas em Design",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Referenciais históricos do Design. design e suas relações - Arte, ciência, tecnologia e cultura material. Questões teórico-conceituais em Design. Referenciais da formação profissional em design. O fazer intuitivo e o fazer projetual. Os contextos e as práticas contemporâneas em design.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAI114",
+      "Nome": "Oficina de Couro",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O couro sua obtencao, curtimento e classificacao-maquinas e ferramentas-conservacao e seguranca-o projeto-o molde-fabricacao em serie-corantes e preservativos-metodos e tecnicas de trabalho-artesanato e industria-forma-funcao e moda-prepara de material.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAI120",
+      "Nome": "Oficina Basica II",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudos das formas e espacos - analise e representacao das formas tridimensionais atraves dos materiais expressivos: madeira, metais e plasticos. Tecnologia dos materiais: ferramentas manuais e maquinas operatrizes. Uso e medidas de seguranca. Contrucao e testes de modelos fisicos. Execucao de trabalhos propostos em Metodologia Visual II.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "MARCELO LYRA DE SOUZA BRASIL"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "JOSE BENITO SANCHEZ GONZALEZ"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAI324",
+      "Nome": "Tecelagem A",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Atividade teorica e pratica para dar conhecimentos elementares da tecnica da tecelagem manual, rudimentar, artesanal e primitiva.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAI326",
+      "Nome": "Estamparia A",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Aulas teórico-práticas sobre estamparia têxtil. Técnicas, materiais e processos da estamparia por impressão. Desenvolvimento de trabalhos por métodos experimentais e artesanais. Introdução ao design têxtil para estamparia localizada e corrida.\n___Bibliografia Recomendada___\n1- BOWLES, Melanie. Diseño y estampación textil digital. Barcelona: Art Blume, 2009.\n2- COLE, Drusilla. Diseño textil contemporaneo. Barcelona: Art Blume, 2008.\n3- CONRAN, Terence. Printed textile design. London : The Studio Limited, 1975.ESTAMPARIA, tapeçaria, tecelagem: Exposição de Arte Têxtil da Escola de Belas Artes da UFRJ. Rio de Janeiro : UFRJ, 1989. 47 p.\n4- ESTAMPARIA, tapeçaria: II Exposição - Mostra de Arte Têxtil da Escola de Belas Artes da UFRJ, artistas homenageadas: Hilda Campofiorito e Tana. Rio de Janeiro : UFRJ, 1993. 48 p.\n5- JONES, Owen. A gramática do ornamento. Edição brasileira:Editora Senac São Paulo, 2010.\n6- RUBIM, Renata. Desenhando a superfície. São Paulo: Rosari, 2005. 95 p.\n7- RÜTHSCHILLING, Evelise Anicet. Design de superfície. Porto Alegre: Ed. Da UFRGS, 2008. 104 p.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAI329",
+      "Nome": "Estamparia B",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Aulas teórico-práticas sobre estamparia têxtil. Técnicas, materiais e processos da estamparia a quadro. Desenvolvimento de trabalhos por métodos semi-industriais. Introdução ao design têxtil e conceitos de Rapport para estamparia localizada e corrida.\n___Bibliografia Recomendada___\n1- BOWLES, Melanie. Diseño y estampación textil digital. Barcelona: Art Blume, 2009. - COLE, Drusilla. Diseño textil contemporaneo. Barcelona: Art Blume, 2008.\n2- ESTAMPARIA, tapeçaria, tecelagem: Exposição de Arte Têxtil da Escola de Belas Artes da UFRJ. Rio de Janeiro : UFRJ, 1989. 47 p.\n3- ESTAMPARIA, tapeçaria: II Exposição - Mostra de Arte Têxtil da Escola de Belas Artes da UFRJ, artistas homenageadas: Hilda Campofiorito e Tana. Rio de Janeiro : UFRJ, 1993. 48 p.\n4- JACQUÉ, Jacqueline. Printed textiles. In: CARLANO, Marianne et alii. French textiles; from the middle ages through the second empire. Connecticut : Wadsworth Atheneum, 1985.\n5- JONES, Owen. A gramática do ornamento. Edição brasileira:Editora Senac São Paulo, 2010.\n6- MELLER, Susan; ELFFERS, Joost. Textile designs: 200 years of patterns for printed fabrics arranged by motif, colour, period and design. London: Thames & Hudson, 2002. 464 p.\n7- PROCTOR, Richard M. , LEW, Jennifer F. Surface design for fabric. Washington : University of Washington Press, 1985. - RUBIM, Renata. Desenhando a superfície. São Paulo: Rosari, 2005. 95 p.\n8- RÜTHSCHILLING, Evelise Anicet. Design de superfície. Porto Alegre: Ed. Da UFRGS, 2008. 104 p.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAI423",
+      "Nome": "Serigrafia I",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Emprego artistico e industrial; planejamento do desenho; montagem dos chassis; processos primitivos; filme de corte; impressao monocromatica; processo fotografico; sensibilizacao da tela; montagem da linha de impressao; impressao em diversos suportes; varias cores; recuperacao das telas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAI503",
+      "Nome": "Oficina de Estamparia",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Aulas teórico-práticas sobre estamparia têxtil. Técnicas, materiais e processos da estamparia por reserva. Desenvolvimento de trabalhos exclusivos. Introdução ao design têxtil decorrente do fazer artístico em Estamparia.\n___Bibliografia Recomendada___\n1- BOWLES, Melanie. Diseño y estampación textil digital. Barcelona: Art Blume, 2009.\n2- COLE, Drusilla. Diseño textil contemporaneo. Barcelona: Art Blume, 2008.\n3- CONRAN, Terence. Printed textile design. London : The Studio Limited, 1975.\n4- ESTAMPARIA, tapeçaria, tecelagem: Exposição de Arte Têxtil da Escola de Belas Artes da UFRJ. Rio de Janeiro : UFRJ, 1989. 47 p.\n5- ESTAMPARIA, tapeçaria: II Exposição - Mostra de Arte Têxtil da Escola de Belas Artes da UFRJ, artistas homenageadas: Hilda Campofiorito e Tana. Rio de Janeiro : UFRJ, 1993. 48 p.\n6- JONES, Owen. A gramática do ornamento. Edição brasileira:Editora Senac São Paulo, 2010.\n7- LARSEN, Jack Lenor. The dyer's art; ikat, batik, plangi. New York : Van Nostrand Reinhold, 1976.\n8- MELLER, Susan; ELFFERS, Joost. Textile designs: 200 years of patterns for printed fabrics arranged by motif, colour, period and design. London: Thames & Hudson, 2002. 464 p.\n9- PROCTOR, Richard M. , LEW, Jennifer F. Surface design for fabric. Washington : University of Washington Press, 1985.\n10- RÜTHSCHILLING, Evelise Anicet. Design de superfície. Porto Alegre: Ed. Da UFRGS, 2008. 104 p._\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 12:00",
+        "professor": "MARINA BUENO MAGANO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAIY01",
+      "Nome": "Tóp Esp em Desenho Ind A.",
+      "Créditos": "1.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Topicos variaveis em projeto do produto/design industrial e da programacao visual/design grafico segundo a especialidade do professor visitante e/ou linhas de pesquisa e atuacao dos docentes da unidade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAIY03",
+      "Nome": "Tóp Esp em Desenho Ind C",
+      "Créditos": "1.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Topicos variaveis em projeto do produto/design industrial e da programacao visual/design grafico segundo a especialidade do professor visitante e/ou linhas de pesquisa e atuacao dos docentes da unidade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAIY05",
+      "Nome": "Tóp Esp em Desenho Ind E.",
+      "Créditos": "1.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Topicos especiais em projeto do produto/design industrial e de programacao visual/design grafico segundo a especialidade do professor visitante e/ou linha de pesquisa e atuacao dos docentes da unidade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV231",
+      "Nome": "Fotografia II",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Teoria da impressao fotografica, iluminacao artificial, introducao aos principios da fotografia a cores.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV121"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV361",
+      "Nome": "Tecn e Producao da Imagem A.",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Semiologia da Imagem, Imagem seqüencial, fixação da imagem e sinais sonoros.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAVX61(C)"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV363",
+      "Nome": "Tecn e Producao da Imagem C",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Semiologia da Imagem, Imagem sequencial, fixação da imagem e sinais sonoros.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAVX63(C)"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV365",
+      "Nome": "Tecn e Producao da Imagem E.",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Semiologia da Imagem, Imagem sequencial, fixação da imagem e sinais sonoros.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAVX65(C)"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV501",
+      "Nome": "Foto-criação C",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenvolvimento de experimentações na interface fotografia-arte digital.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV127"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAVX50",
+      "Nome": "Laboratório Foto-criação B",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Prática dos conceitos adquiridos nas disciplinas de FOTO-CRIAÇÃO A,B,C.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV500(C)BAV500=BAV600"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAW350",
+      "Nome": "Computacao Grafica nas Artes A",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introducao a computacao eletronica. Evolucao da Computacao Grafica.Turbo Pascal (GRAPH.P/Tool Box), revisao da algebra linear, apresentacao de estrutura de dados, tecnicas de computacao grafica, conhecimento da forma, estrutura e funcao das partes que constituem um programa de proc. grafico. Problemas da criacao artistica atraves de processamento grafico exercicios de aplicacao com diferentes tecnicas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAW240"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAW352",
+      "Nome": "Computacao Grafica nas Artes C",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Não cadastrada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAW240"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAW354",
+      "Nome": "Computacao Grafica nas Artes E",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Não cadastrada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAW240"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAWZ56",
+      "Nome": "Ativ Curricular Extensão - Di",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "0",
+      "Extensão": "280",
+      "Informação": {
+       "Info": "Atuação em atividades registradas na Pró-reitoria de Extensão da UFRJ, como programas, projetos, cursos de extensão e eventos, coordenados por docentes do quadro permanente ou técnicos de carreira de nível superior na UFRJ.\n___Bibliografia Recomendada___\nBibliografia recomendada pelo coordenador da atividade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sab",
+        "hora": "13:00 - 17:00",
+        "professor": "DEBORAH CHAGAS CHRISTO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAF103",
+      "Nome": "Desenho Anatômico I",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Proporções e relações do corpo humano; nomenclatura básica da osteologia; desenho do esqueleto dando o conhecimento da forma, estrutura e função das partes que constituem a cabeça; tronco e membros.\n___Bibliografia Recomendada___\n1- BRIDGMAN, George B. Bridgman's complete guide to drawing from life. New York: Sterling Publishing Company, Inc., 2009.\n2- GORDON, Louise. Desenho anatómico. Lisboa: Presença; [São Paulo]: Martins Fontes, 1980.\n3- LOOMIS, Andrew. Figure drawing for all it?s work. New York: The Viking Press, 1944.\n4- PERARD, Victor. Desenho e anatomia. Rio de Janeiro: Ediouro, [s.d.].\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAF203",
+      "Nome": "Desenho III",
+      "Créditos": "3.0",
+      "Teórica": "0",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O desenho como realização final. Os problemas da criação artística através do desenho. As deformações expressivas e a composição. Exercícios de aplicação dos diferentes processos do desenho.\n___ BIBLIOGRAFIA BÁSICA ___\n1- CARERI, Francesco. Walkscape: O caminhar como prática estética. São Paulo: Ed. G.Gili, 2013.\n2- CAUQUELIN, Anne. Arte contemporânea: uma introdução. São Paulo: Martins, 2005.\n3- FERREIRA, Glória e COTRIM, Cecília (Org.). Clement Greenberg e o debate crítico. Rio de Janeiro: Jorge Zahar, 2001.\n4- OSTROWER, Fayga. Universos da Arte. Campinas: UNICAMP, 2013.\n5- STANGOS, Nikos (Org.). Conceitos da Arte Moderna. Rio de Janeiro: Jorge Zahar, 1991.\n6- PIGNATTI, Terisio. O desenho: de Altamira a Picasso. São Paulo: Abril, 1982.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAF106"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAH369",
+      "Nome": "Cultura Brasileira",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Formação da cultura brasileira. Etnicidade. Culturas tradicionais, regionais, populares e urbanas no Brasil.\n___ BIBLIOGRAFIA BÁSICA ___\n1- CANDIDO, A. O significado de Raízes do Brasil (Prefácio). In: HOLANDA, S. B. de. Raízes do Brasil. 26.ed. São Paulo: Cia. das Letras, 1995.\n2- FREYRE, G. Prefácio. Casa-grande & senzala: formação da família brasileira sob o regime da economia patriarcal. São Paulo: Global, 2005.\n3- DAMATTA, R. Notas sobre o racismo à brasileira. In: SOUZA, J. (Org) Multiculturalismo e racismo: uma comparação Brasil - Estados Unidos. Brasília: Paralelo, 1997.\n4- MICELI, S. Intelectuais e classe dirigente no Brasil (1920-1945). São Paulo: Difel, 1979.\n5- ROCHA, J. C. de C. As origens e equívocos da cordialidade brasileira. In: ___. O exílio do homem cordial. Rio de Janeiro: Editora do Museu Nacional, 2004.\n___ BIBLIOGRAFIA COMPLEMENTAR ____\n1- CANDIDO, A. Dialética da malandragem. Revista do Instituto de Estudos Brasileiros, São Paulo, v.8, p.67-89, 1970.\n2- FERNANDES, F. A integração do negro na sociedade de classes. São Paulo: Ática, 1978.\n3- HOLANDA, S. B. de. Raízes do Brasil. 26.ed. São Paulo: Cia. das Letras, 1995.\n4- ROMERO, S. Estudos sobre a poesia popular do Brasil. 2.ed. Petrópolis: Vozes, 1977.\n5- WISNIK, J. M. Veneno remédio: o futebol e o Brasil. São Paulo: Cia. das Letras, 2008.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAI113",
+      "Nome": "Oficina de Texteis",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A tecelagem. O tecido. Generalidades. Definicoes. Materiais. Tecidos sem tear. Tapecaria. Tapete. O tecido como suporte. O bordado. A estamparia.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAI115",
+      "Nome": "Oficina de Cerâmica",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Cerâmica: características do material, processos de beneficiamento, acabamento, uso e aplicações. A cerâmica como linguagem cultural, como resgate da história, da cultura afro-brasileira e indígena. Os produtos utilitários em cerâmica e a sustentabilidade. O design de objetos em cerâmica. Exercícios práticos.\n___ BIBLIOGRAFIA BÁSICA ___\n1) FERRANTE, M./ WALTER, Y. A materialização da ideia-Noções de materiais para o design de produtos. Rio, LTC, 2010.\n2) TAYLOR, L. The Ceramics Bible. S. Francisco-EUA, Chronicle Books, 2011.\n3) CHAVARRIA, J. the Big Book os Ceramics. N. York, Watson-Guptill, 1994.\n4) MARTIN, A. The Essential Guide to Mold Making & Slip Casting. EUA, Lark Craft, 2007.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAI241",
+      "Nome": "Oficina de Maquete",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conhecimento dos processos de reducao e ampliacao em escala. Ferramentas manuais, maquinas operatrizes, materiais e acabamentos. Desenvolvimento das praticas de fabricacao e montagem. Tecnicas de apresentacao em dioramos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAI325",
+      "Nome": "Tapecaria A",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A tapecaria bordada. Suas caracteristicas. Os suportes. Os materiais. Os diferentes pontos. O cartao e sua execucao. Exercicios praticos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAI328",
+      "Nome": "Tapecaria B",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Tecnica de patecaria em teares de mesa e teares verticais.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAI360",
+      "Nome": "Oficina de Modelos IV",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Analise de projetos e produtos industriais para realizacao de modelos, identificacao dos meios e materiais a serem utilizados, desenho de producao, confeccao de modelos a partir de materiais diversos, acabamento superficial e pintura de simulacao.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAI426",
+      "Nome": "Serigrafia II",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Apresentacao do curso. Desenvolvimento de propostas de objeto de arte e/ou objeto utilitario. Experimentacao das alternativas que a tecnica apresenta. Producao do produto acabado/avaliacao. Desenvolvimento da tecnica serigrafica a partir do desenvolvimento criativo dos alunos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAI423"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAI509",
+      "Nome": "Modelos Estrut em des Ind II",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Analise de tensão e deformação, tipos de solicitação: tração, compressão, flexão simples e composta, torção. Analise quantitativa do comportamento estrutural e através de modelos e protótipos. Propriedades, especificação e normalização de materiais. Rigidez pela forma.\n___Bibliografia Recomendada___\n1- ASHBY, M. e JOHNSON, K. Materiais e Design. Rio de Janeiro, Elsevier, 2011.\n2- FISHER,U. (Ed.) Manual de Tecnologia Mecânica. São Paulo,  A Blücher, 2008.\n3- ELCONIAN,S. Mecânica técnica e resistência dos materiais. São Paulo: Érica, 1999.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 12:00",
+        "professor": "RONALDO JOSE FAZANELLI MIGUEIS"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAIY02",
+      "Nome": "Tóp Esp em Desenho Ind B",
+      "Créditos": "1.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Topicos especiais em projeto do produto/design industrial e de programacao visual/design grafico segundo a especialidade do professor visitante e/ou linha de pesquisa e atuacao dos docentes da unidade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAIY04",
+      "Nome": "Tóp Esp em Desenho Ind D",
+      "Créditos": "1.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Topicos especiais em projeto do produto/design industrial e de programacao visual/design grafico segundo a especialidade do professor visitante e/ou linha de pesquisa e atuacao dos docentes da unidade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV201",
+      "Nome": "Foto-criação A-",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenvolvimento de experimentações na interface fotografia-arte.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV127"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV232",
+      "Nome": "Tecnicas Graficas (DI)",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Tipologia, imagem e diagramacao; processo de impressao, medidas tipometricas; normas; reticula, papel, selecao de cores.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV362",
+      "Nome": "Tecn e Producao da Imagem B",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Semiologia da imagem, imagem seqüencial, fixação da imagem e sinais sonoros.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAVX62(C)"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV364",
+      "Nome": "Tecn e Producao da Imagem D",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Semiologia da Imagem, Imagem sequencial, fixação da imagem e sinais sonoros.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAVX64(C)"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV500",
+      "Nome": "Foto-criação B",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenvolvimento de experimentações na interface fotografia-arte.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV127"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAVX20",
+      "Nome": "Laboratório de Foto-criação A.",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Prática dos conceitos adquiridos nas disciplinas de Foto-criação A,B,C.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV201(C)BAV201=BAV231"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAVX51",
+      "Nome": "Laboratório Foto-criação C",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Prática dos conceitos adquiridos nas disciplinas de FOTO-CRIAÇÃO A,B,C.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV501(C)"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAW351",
+      "Nome": "Computacao Grafica nas Artes B",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introducao as tecnicas de computacao grafica. Sistemas de Hardware. Sistemas de Software. As tecnicas avancadas de processamento interativo. Organizacao e planejamento de pacote grafico. Implementacao de pacote grafico. Os fins visados e os procedimentos que favorecem sua obtencao. Expressao grafica computadorizada da forma aparente dos objetos. Programacao e tecnicas de trabalho. Verificacao de movimentos e animacao. Exercicios de utilizacao.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAW240"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAW353",
+      "Nome": "Computacao Grafica nas Artes D",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Não cadastrada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAW240"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAWX02",
+      "Nome": "Atividades Complementares",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Participação em atividades complementares à formação em Design - Projetos de extensão; Iniciação Científica, Monitoria, Palestras, encontros, seminários, cursos, visitas técnicas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sab",
+        "hora": "13:00 - 16:00",
+        "professor": "Não Informado"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEB599",
+      "Nome": "Est da Líng Bras de Sinais I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Nomes próprios; pronomes pessoais; demonstrativos; possessivos; locativos em sentenças simples do tipo pergunta-resposta com \"o que\" e \"quem\" e outros vocábulos básicos; numerais; quantidade; topicalização; flexão verbal; flexão de negação; expressões faciais e corporais; percepção visual; conversação; diálogos; textos: LIBRAS, cultura e comunidade surda.\n",
+       "BibliografiaBasica": "1) BRITO, L. F. Por uma gramática de língua de sinais. Rio de Janeiro: Tempo Brasileiro, 1995.\n2) FELIPE, T.; MONTEIRO, M. S. LIBRAS em contexto. Curso Básico. Brasília: Ministério da Educação e do Desporto/Secretaria de Educação Especial, 2001.\n3) GESSER, A. Libras - Que língua é essa? Crença e preconceitos em torno da língua de sinais e da realidade surda. Florianópolis: Parábola, 2009.\n4) STROBEL, K. L. As imagens do outro sobre a cultura surda. Florianópolis: EdUFSC, 2008.\n",
+       "BibliografiaComplementar": "1) PIMENTA, Nelson e QUADROS, Ronice Muller. Curso de Libras I, LSB Vídeo, volume I, Iniciante, 2006 e 3a ed., 2008.\n2) Dicionário Enciclopédico Ilustrado Triíngue da Língua de Sinais Brasileira ? vol 1 e vol. 2 Site: www.acessobrasil.org.brasil\n3) Dicionário da Língua Brasileira de Sinais, INES, versão, 2.0, ano 2006.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     }
+    ]
+   },
+   "obrigatorias": 40,
+   "eletivas": 47,
+   "ano": "1999/1 a 2023/1"
+  },
+  {
+   "materias": {
+    "1º Período": [
+     {
+      "Codigo": "BAI104",
+      "Nome": "Design e Mét Quantitativos I",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Matemática Aplicada ao Design: Tabelas numéricas; funções trigonométricas; gráficos de funções, limites, integral e derivadas. -   Fundamentos de Matemática como suporte ao desenvolvimento de produtos: Áreas e volumes; Princípios de estatística; Planilhas e bancos de dados. Estudo de casos.\n___Bibliografia Recomendada___\n1- FISHER, U. Edit. Manual de Tecnologia Metal Mecânica. São Paulo: Blücher, 2008.\n2- ARA, A. Introdução ao Cálculo Diferencial e Integral para Cursos de Tecnologia. São Paulo, Senais, 2015.\n3- AYRES JR./MENDELSON. Cálculo diferencial e integral. 3.ed. São Paulo: Makron, 1999.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 16:00",
+        "professor": "RONALDO JOSE FAZANELLI MIGUEIS"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAI110",
+      "Nome": "Design Básico I",
+      "Créditos": "4.0",
+      "Teórica": "30",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Forma e seus elementos conceituais. Exploração e análise das representações da forma bi dimensional. Criatividade e resolução de problemas, dedução e intuição. Princípios da Gestalt e da Semiótica, estruturas, sistemas de formas, cor, superfícies, modulações. Projetos orientados.\n___Bibliografia Básica___\n1- WUNCIUS, Wong. Princípios da Forma e Desenho. São Paulo: Martins Fontes, 1998.\n2- DONDIS, A. Donis. Sintaxe da Linguagem Visual. São Paulo, Martins Fontes, 1999.\n3- GOMES FILHO, J. Gestalt do Objeto. São Paulo, 2000.\n4- PEDROSA, I. Da cor à cor inexistente. Rio de Janeiro, Christiano Ed./EDUFF, 2002.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 12:00",
+        "professor": "CAMILA ASSIS PERES SILVA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 10:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAI119",
+      "Nome": "Laboratório Básico de Design a",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução a construção de modelos, mock-ups e ou maquetes. - Medidas de segurança e uso de Ferramentas manuais e máquinas operatrizes. - Tecnologia dos Materiais. - Conceitos de briefing, pesquisa temática e geração sketches. - Análise e representação de uma forma tridimensional (produto) através de desenhos e modelos em material(ais) expressivo(s) básico(s).\n___Bibliografia Recomendada___\n1- WUNCIUS, Wong. Princípios da Forma e Desenho. São Paulo: Martins Fontes, 1998.\n2- LEFTERI, Chris. Como Se Faz. São Paulo: Blucher, 2009.\n3- LIMA, Marco A. M. Introdução aos Materiais e Processos para Designers. Rio de Janeiro: Ciência Moderna, 2006.\n4- PHILIPS, Peter L. Briefing: A gestão do projeto de design. São Paulo: Blucher, 2009.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 15:00",
+        "professor": "MARCOS HENRIQUE DE GUIMARAES OLIVA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 15:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAR114",
+      "Nome": "Sist Geom de Representação I",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução à Geometria Descritiva e seus elementos: ponto, reta e plano. - Figuras, posições relativas, interseções, métodos descritivos. - Sólidos com referência na forma de produtos.\n___Bibliografia Recomendada___\n1- GIONGO, A. A. Curso de Desenho Geométrico. São Paulo: Nobel, 1979.\n2- WILMER, C. PEREIRA, M. R. F. Geometria para Desenho Industrial. Rio de Janeiro: Interciência, 1978.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "10:00 - 12:00",
+        "professor": "DANIEL WYLLIE LACERDA RODRIGUES"
+       },
+       {
+        "dia": "Qui",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAWZ56",
+      "Nome": "Ativ Curricular Extensão - Di",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "0",
+      "Extensão": "280",
+      "Informação": {
+       "Info": "Atuação em atividades registradas na Pró-reitoria de Extensão da UFRJ, como programas, projetos, cursos de extensão e eventos, coordenados por docentes do quadro permanente ou técnicos de carreira de nível superior na UFRJ.\n___Bibliografia Recomendada___\nBibliografia recomendada pelo coordenador da atividade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sab",
+        "hora": "13:00 - 17:00",
+        "professor": "DEBORAH CHAGAS CHRISTO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAF113",
+      "Nome": "Desenho Repres de Produto I",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenho - conhecimento de técnicas de representação do objeto, expressão gráfica da solução construtiva do objeto e do seu entorno em Design. Padronização e normas de representação no Design de Produtos. Princípios e instrumental Básico das técnicas do Desenho a mão livre e de representação gráfica.\n___Bibliografia Recomendada___\n1- JULIÁN, F. e ALBARRACIN, J. Desenho para Designers Industriais. Lisboa: Estampa, 2005.\n2- PIPES, A. Desenho para Designers. São Paulo: Edgard Blucher, 2010.\n3- ZEEGEN, L. & CRUSH. Fundamentos de Ilustração. Porto Alegre: Bookman, 2009.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 12:00",
+        "professor": "ARY PIMENTA DE MORAES FILHO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAI105",
+      "Nome": "Design e Sociedade I",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Antropologia - Sistemas simbólicos e de comunicação no Design de Produto. Conceito de cultura. A cultura material: indivíduo/sociedade/consumo nas sociedades contemporâneas. O método e técnicas em antropologia:trabalho de campo, observação e descrição. Sociologia ? Conceitos básicos e perspectivas de análise para o Design de Produto: indivíduo e sociedade; estratificação e estrutura de classes; crenças, valores e ideologias. - Planejamento de pesquisa: hipótese e variáveis. - Coleta de  dados.-  Análise e comunicação de resultados. -  Estudo de Casos etnográfica.\n___Bibliografia Recomendada___\n1- TOMAZI, N.D. (coord.). Iniciação à sociologia.São Paulo: Atual, 2000.\n2- FERRÉOL,G.; NORECK,J-P. Introdução à sociologia. São Paulo: Ática, 2012.\n3- DIONE,J; LAVILLE,C. A construção do Saber: manual de metodologia da pesquisa para ciências humanas. Porto Alegre: Artmed, 1999.\n4- SCHNEIDER,B. Design ? uma introdução: o design no contexto social, cultural e econômico. São Paulo: Blücher, 2010.\n5- BONSIEPE,G. Design, Cultura e Sociedade. São Paulo, Blücher, 2011.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 15:00",
+        "professor": "DEBORAH CHAGAS CHRISTO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAI118",
+      "Nome": "Linguagens e Técnicas Gráficas",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução a linguagem e técnicas gráficas: teoria, técnicas e elementos do Design Gráfico. - Linguagens Gráficas: legibilidade; hierarquia da informação; uso de cores e medidas; representação impressa e projetada. - Planejamento visual, layout; e composição gráfica.  - Técnicas gráficas: recursos tipográficos; programas gráficos; equipamentos e materiais. - Relação Custo/Benefício. Novas Tecnologias. Estudo de Casos.\n___Bibliografia Recomendada___\n1- WILLIAMS, R. Design para quem não é Designer. São Paulo, Callis, 1995\n2- KNIGHT,C. e GLASER,J. Design gráfico e digital. SãoPaulo, Rosari, 2012.\n3- GORDON, B. e GORDON, M. Design Gráfico Digital. Lisboa, Livros & Livros, 2003.\n4- BRINGHURST, Robert. Elementos do Estilo Tipográfico. São Paulo: Ed. Cosac & Naify. 2005.\n5- LUPTON, Ellen. Pensar com tipos: guia para designers, escritores, editores e estudantes. São Paulo: Cosac Naify, 2006.\n6- SAMARA, Timothy. Grid: Construção e Desconstrução. São Paulo: Cosac Naify, 2008 (Roosewelt/Gerson).\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "13:00 - 17:00",
+        "professor": "GERSON DE AZEVEDO LESSA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAI123",
+      "Nome": "Teorias e Práticas em Design I",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Design, apresentação da evolução da produção de objetos na história, com especial foco na idade moderna, a partir dos eventos da industrialização e do industrialismo. Compreensão factual e estética da evolução das teorias, ideologias, tecnologias e hábitos que resultam na cultura do design. Desenvolvimentos do design mundial entre a revolução industrial e a segunda guerra mundial.\n___Bibliografia Básica___\n1- NIEMEYER, L. Design no Brasil: Origens e instalação. Rio de Janeiro, 2AB, 1998.\n2- HESKETT, J. Desenho Industrial. Rio de Janeiro, José Olympio. 1997.\n3- BÜRDECK, B.E. História Teoria e Prática do Design de Produtos. S. Paulo, Blücher, 2006.\n4- CARDOSO, Rafael. Uma Introdução à História do Design. São Paulo: Blucher, 2008.\n5- FORTY, Adrian. Objetos de Desejo. São Paulo: Cosac Naif, 2007.\n6- PEVSNER, Nikolaus. Os pioneiros do Design Moderno. Rio: Martins Fontes, 2002.\n7- SCHNEIDER, Beat. Design, uma Introdução. São Paulo: Blucher, 2010.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "10:00 - 12:00",
+        "professor": "GERSON DE AZEVEDO LESSA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAWX07",
+      "Nome": "Atividades Complementares",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Participação em atividades complementares à formação em Design - Projetos de extensão; Iniciação Científica, Monitoria, Palestras, encontros, seminários, cursos, visitas técnicas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sab",
+        "hora": "08:00 - 12:00",
+        "professor": "DEBORAH CHAGAS CHRISTO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "2º Período": [
+     {
+      "Codigo": "BAI121",
+      "Nome": "Design Básico II",
+      "Créditos": "4.0",
+      "Teórica": "30",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Exploração e análise das representações da forma bi e tri-dimensional. Criatividade e resolução de problemas, forma e espaço, princípios da Gestalt e da Semiótica, estruturas, sistemas de formas, modulações e volumes. Projetos orientados.\n___Bibliografia Básica___\n1- WUNCIUS, Wong. Princípios da Forma e Desenho. São Paulo: Martins Fontes, 1998.\n2- DONDIS, A. Donis. Sintaxe da Linguagem Visual. São Paulo, Martins Fontes, 1999.\n3- GOMES FILHO, J. Gestalt do Objeto. São Paulo, 2000.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 16:00",
+        "professor": "DEBORAH CHAGAS CHRISTO"
+       },
+       {
+        "dia": "Qui",
+        "hora": "09:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "BAI110"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAI125",
+      "Nome": "Design e Mét Quantitativos II",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Física aplicada ao Design: constituição da matéria; átomos; moléculas e sólidos. - Mecânica Geral (Movimento, Forças, Trabalho, Potência e Eficiência, Atrito, Pressão). - Princípios de termodinâmica, eletricidade, acústica, ótica física e geométrica, magnetismo e resistência dos materiais.\n___Bibliografia Recomendada___\n1- FISCHER, U. edit. Manual de Tecnologia Metal Mecânica. São Paulo: Blücher, 2008.\n2- HALLIDAY, D.; RESNICK, R. Fundamentos de física. Rio de Janeiro: LTC, 1995.\n3- WICKERT, J. Introdução à engenharia mecânica. São Paulo: Thomson Pioneira, 2007.\n4- MELCONIAN,S. Mecânica técnica e resistência dos materiais. São Paulo: Érica, 1999.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAI104"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAI244",
+      "Nome": "Mater e Proc de Fabricação I",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução a Ciência dos Materiais. - Propriedades dos materiais. -  Aspectos para seleção de materiais para o projeto de produtos. - Materiais naturais  (madeiras, cerâmica, vidro e metais). - Materiais Não Naturais (polímeros, borrachas e compósitos). - Processos de fabricação e transformação e tratamento dos materiais. - Superfícies e acabamentos. - Questões ambientais.  - Materiais e o projeto de Produtos Industriais.\n___Bibliografia Recomendada___\n1- LIMA,M.A.M. Introdução aos materiais e processos para designers. Rio de Janeiro: Ciência Moderna, 2006.\n2- ASHBY, M. e JOHNSON, K. Materiais e Design. Rio de Janeiro, Elsevier, 2011.\n3- FISHER, U. (Ed.) Manual de Tecnologia Metal Mecânica. São Paulo Blücher, 2008.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "15:00 - 17:00",
+        "professor": "DEBORAH CHAGAS CHRISTO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAF123",
+      "Nome": "Desenho Repres de Produto II",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Técnicas e prática do desenho a mão livre (croquis) com foco na expressão através da perspectiva de observação, percepção de sombras, superfícies no processo construtivo de sólidos: cubos, paralelepípedos, pirâmides, cones, cilindros e esferas. - Tratamentos de superfícies, textura e emprego da cor , para representação no Design de Produtos. - Exercícios específicos de elaboração de croquis de volumes, humanização e ambientação do produto.\n___Bibliografia Recomendada___\n1- JULIÁN, F. e ALBARRACIN, J. Desenho para Designers Industriais. Lisboa: Estampa, 2005\n2- PIPES, A. Desenho para Designers. São Paulo: Edgard Blucher, 2010.\n3- ZEEGEN, L. & CRUSH. Fundamentos de Ilustração. Porto Alegre: Bookman, 2009\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 12:00",
+        "professor": "CARLOS AUGUSTO MOREIRA DA NOBREGA"
+       }
+      ],
+      "Requisitos": [
+       "BAF113"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAI124",
+      "Nome": "Teorias e Práticas Design II",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Design e evolução da produção de objetos na História, com especial foco na Idade Moderna, a partir dos eventos da Industrialização e do Industrialismo. - Compreensão factual e estética da evolução das teorias, ideologias, tecnologias e hábitos que resultam na cultura do design. -  Desenvolvimentos do design mundial entre a Segunda Guerra Mundial e os dias de hoje.\n___Bibliografia Recomendada___\n1- NIEMEYER, L. Design no Brasil ? Origens e instalação. Rio de Janeiro, 2AB, 1998.\n2- HESKETT, J. Desenho Industrial. Rio de Janeiro, JoséOlympio. 1997.\n3- BÜRDECK, B.E. História Teoria e Prática do Design de Produtos. S.Paulo, Blücher, 2006.\n4- CARDOSO, Rafael.  Uma Introdução à História do Design. São Paulo: Blucher, 2008.\n5- FORTY, Adrian. Objetos de Desejo. São Paulo: Cosac Naif, 2007.\n6- PEVSNER, Nikolaus. Os pioneiros do Design Moderno. Rio: Martins Fontes, 2002.          7- SCHNEIDER, Beat.  Design ? Uma Introdução. São Paulo: Blucher, 2010\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 15:00",
+        "professor": "GERSON DE AZEVEDO LESSA"
+       }
+      ],
+      "Requisitos": [
+       "BAI123"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAI126",
+      "Nome": "Design e Sociedade II",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Antropologia - Sistemas simbólicos e de comunicação no Design de Produto. Conceito de cultura. - A cultura material: indivíduo/sociedade/consumo nas sociedades contemporâneas. - O método e técnicas em antropologia:.trabalho de campo, observação e descrição etnográfica.\n___Bibliografia Recomendada___\n1- PETROSKI, H. A Evolução das Coisas Úteis. Rio de Janeiro: Zahar, 2007.\n2- MARCONI, M. A.; PRESSOTO, Z. M. N. Antropologia: uma introdução.  São Paulo: Atlas, 2007.\n3- ANGROSINO, M. V. Etnografia e Observação Participante. Porto Alegre, Bookman, 2009.\n4- SCHNEIDER, B. Design ? uma introdução: o design no contexto social, cultural e econômico. São Paulo: Blücher, 2010.\n5- BONSIEPE,G. Design, Cultura e Sociedade. São Paulo, Blücher, 2011.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "10:00 - 12:00",
+        "professor": "JEANINE TORRES GEAMMAL"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAR120",
+      "Nome": "Sist Geom de Representação II",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Problemas métricos, representação de poliedros e superfícies geométricas (desenvolvíveis e revessas), seções e interseções em geral. Aplicações práticas no Design de Produto.\n___Bibliografia Recomendada___\n1- GIONGO, A. A. Curso de Desenho Geométrico. São Paulo: Nobel, 1979.\n2- WILMER, C. PEREIRA, M. R. F. Geometria para Desenho Industrial. Rio de Janeiro: Interciência, 1978.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 15:00",
+        "professor": "DANIEL WYLLIE LACERDA RODRIGUES"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 15:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "BAR114"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "3º Período": [
+     {
+      "Codigo": "BAI234",
+      "Nome": "Design de Produto I",
+      "Créditos": "4.0",
+      "Teórica": "30",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenvolvimento prático de projetos de produtos industriais de baixa/média complexidade. - Aplicação de métodos de sistematização em Design. - Estimulo a criatividade na solução de problemas. - Aplicação de técnicas de representação, apresentação e realização de produtos industriais. -Visitas técnicas.\n___Bibliografia Recomendada___\n1- IIDA, Itiro. Ergonomia: Projeto e Produção. São Paulo: Ed. Edgard Blucher, 2010.\n2- LIMA, Marco Antônio M. Introdução aos Materiais e Processos para Designers. Rio de Janeiro: Editora Ciência Moderna, 1996.\n3- LÖBACH, Bernd. Design industrial: Bases para a configuração de produtos industriais. São Paulo: Ed. Edgard Blucher Ltda. 1976.\n4- PAZMINO, Ana Verônica. Como Criar: 40 Métodos para Designers. São Paulo: Ed. Edgard Blucher, 2015.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "09:00 - 12:00",
+        "professor": "ROOSEWELT DA SILVA TELES"
+       },
+       {
+        "dia": "Sex",
+        "hora": "09:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "BAF123",
+       "BAI121",
+       "BAI124",
+       "BAI244",
+       "BAR120"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAI352",
+      "Nome": "Mater e Proc de Fabicação II",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Classificação geral dos processos de fabricação e de separação aplicados a metais, não metais e materiais compostos. - Processos de gravação, modelos positivos e negativos de fabricação. - Metodologia de desenvolvimento de estampos e matrizes. - Processos de transformação à quente e à frio. - Processos de obtenção de formas originárias e processos de união.-  Metodologia de desenvolvimento de produtos: da peça a produção em série envolvendo o emprego de máquinas operatrizes, equipamentos, tolerâncias e seqüências operacionais. - Atividade Extraclasse/Visita Técnica.\n___Bibliografia Recomendada___\n1- ASHBY, M. e JOHNSON, K. Materiais e Design. Rio de Janeiro, Elsevier, 2011.\n2- LIMA, M. A. M. Introdução aos materiais e processos para designers. Rio de Janeiro: Ciência Moderna, 2006.\n3- FISHER, U. (Ed.) Manual de Tecnologia Metal Mecânica. São Paulo Blücher, 2008.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "13:00 - 15:00",
+        "professor": "VICENTE DE PAULO SANTOS CERQUEIRA"
+       }
+      ],
+      "Requisitos": [
+       "BAI244"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAI506",
+      "Nome": "Ergonomia do Produto I",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Ergonomia: Conceitos gerais, história e evolução da Ergonomia. Abordagem ergonômica de sistemas (sistema homem-ambiente e máquina).  O organismo humano. Biomecânica ocupacional (Posturas e envoltórios de conforto e alcance). Antropometria: estática e dinâmica; medidas e aplicações. Levantamento Estatístico de dados. Enfoques do Posto de Trabalho. Manejo, controles e dispositivos de informação. Aspectos ergonômicos para projetos de produto e estações de trabalho.\n___Bibliografia Básica___\n1- IIDA, I. Ergonomia: projeto e produção. 2ª Ed. São Paulo: Blücher, 2005.\n2- DUL, J.: WEERDMEESTER, B. Ergonomia Prática. São Paulo: Blücher, 2ª Ed. 2004. 137p.\n3- GRANDJEAN, E. Manual de Ergonomia - adaptando o trabalho do homem. Porto Alegre: Artes Médicas, 1998.\n4- GOMES FILHO, J. Ergonomia do objeto: sistema técnico de leitura ergonômica. São Paulo: Escrituras, 2010.\n5- PANERO, Julius; ZELNIK, Martin. Human Dimension & Interior Space. Watson-Guptill Publications, New York, 1979.\n6- CRONEY, John. Anthropometry for Designers. Batsford Academy and Educational Limited, London, 1980.\n7- DREYFUSS, Henry. The Measure of Man; Human Factors in Design. Whitney Library of Design, New York, 1978.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 16:00",
+        "professor": "BRUNA MILAM ALMEIDA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAI233",
+      "Nome": "Desenho Técnico Mecânico I",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceitos básicos, significado e classificação do Desenho Técnico para a representação técnica em Projeto de Produto.  - Normas para Desenho Técnico (ABNT/DIN). Planejamento do Desenho Técnico para produção. - Vistas e contagem. ? Planificação, Perspectiva, vista explodida e Desenho de conjunto. - Desenho técnico mecânico de produtos para fabricação - O traçado a mão livre e a utilização de meios tecnológicos para a representação técnica de produtos. Desenho técnico na indústria gráfica (corte e vinco).\n___Bibliografia Recomendada___\n1- ABNT. Normas para Desenho Técnico. Porto Alegre: Globo, 1977.\n2- GIESECKE, Frederick E. Comunicação Gráfica Moderna. Porto Alegre: Bookman, 2002.\n3- SILVA, Arlindo. Desenho Técnico Moderno. Rio de Janeiro: LTC, 4ª ed., 2006.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAR120"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAI235",
+      "Nome": "Model Comp Básica em Design",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Modelagem virtual tridimensional: tipos, características, vantagens, limitações e princípios básicos. - Apresentação de softwares específicos para construção e renderização de imagens. - Aplicação da modelagem virtual tridimensional em diferentes fases do projeto de um produto (conceituação, desenvolvimento, avaliação, apresentação, documentação, comunicação). - Atividade prática com uso de programas computacionais em representação e projeto em Design de Produto.\n___Bibliografia Recomendada___\n1- GIESECKE, F. E. Comunicação Gráfica Moderna. Porto Alegre: Bookman, 2002.\n2- PIPES, Alan. Desenho para designers: Habilidades de desenho, esboços de conceito, design auxiliado por computador, ilustração, ferramentas e materiais, apresentações, técnicas de produção. São Paulo: Edgard BlüscherLtda, 2010.\n3- SILVA, Arlindo; RIBEIRO, Carlos Tavares; DIAS, João. Desenho técnico moderno. 4. ed Rio de Janeiro: LTC, 2006.\n4- LESKO, J. Design industrial: materiais e processos de fabricação. São Paulo: Edgard Blücher, 2008.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "ANAEL SILVA ALVES"
+       }
+      ],
+      "Requisitos": [
+       "BAF123",
+       "BAI119"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAI430",
+      "Nome": "Metodologia de Projeto",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O Design como processo e estratégia para o projeto de produto. - Ciclo de vida de projeto e do produto e/ou informação. - Método científico e a Metodologia de Projeto, Técnicas e Ferramentas. - Processo criativo, geração e avaliação de soluções. - Estudo de casos.\n___Bibliografia Recomendada___\n1- LÖBACH,B.Design Industrial. São Paulo: Blücher,2000.\n2- BAXTER,M.Projeto de Produto. São Paulo: Blücher, 1998.\n3- BÜRDEK, B. E.  História, Teoria e Prática do Design de Produtos. São Paulo, Blücher, 2006.\n4- PAZMINO, A. V. Como se Cria: 40 Métodos para Design de Produto. São Paulo: Blücher, 2015.\n5- LIDWELL, W. [et.al]. Princípios Universais do Design. Porto Alegre, Bookman, 2010.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "10:00 - 12:00",
+        "professor": "CAMILA ASSIS PERES SILVA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAI508",
+      "Nome": "Modelos Estrut em des Ind I",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceitos fundamentais. Confecção de modelos, vinculações e ligaões. Elementos de maquinas e composição de sistemas mecânicos. Ajustes e tolerâncias e interpretação intuitiva dos fenômenos estruturais. Analise qualitativa através de observações experimentais em modelos reduzidos. Desenvolvimento da criatividade de sistemas estruturais aplicados ao projeto de produtos.\n___Bibliografia Recomendada___\n1- ASHBY, M. e JOHNSON, K. Materiais e Design. Rio de Janeiro, Elsevier, 2011.\n2- FISHER, U. (Ed.) Manual de Tecnologia Metal Mecânica. São Paulo Blücher, 2008.\n3- MELCONIAN, S. Elementos de máquinas. São Paulo: Érica, 2000.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 17:00",
+        "professor": "DIOGO PONTES COSTA"
+       }
+      ],
+      "Requisitos": [
+       "BAI125"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "4º Período": [
+     {
+      "Codigo": "BAI246",
+      "Nome": "Design de Produto II",
+      "Créditos": "4.0",
+      "Teórica": "30",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenvolvimento prático de projetos de produtos industriais de média complexidade. - Aplicação de métodos de sistematização em Design. Estimulo a criatividade na solução de problemas. - Aplicação de técnicas de representação, apresentação e realização de produtos industriais. Visitas técnicas.\n___Bibliografia Recomendada___\n1- LÖBACH, Bernd. Design industrial: Bases para a configuração de produtos industriais. São Paulo: Ed. Edgard Blucher Ltda. 1976.\n2- BAXTER, M. Projeto de Produto. São Paulo: Ed. Edgard Blucher, 1998.\n3- MORRIS, R. Fundamentos de Design de Produto. Porto Alegre: Bookman, 2010.\n4- IIDA, Itiro. Ergonomia: Projeto e Produção. São Paulo: Ed. Edgard Blucher, 2010.\n5- PAZMINO, Ana Verônica. Como Criar: 40 Métodos para Designers. São Paulo: Ed. Edgard Blucher, 2015.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 15:00",
+        "professor": "DIOGO PONTES COSTA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "BAI234",
+       "BAI506"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAI249",
+      "Nome": "Design Ambiente e Sustentab",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceitos de atividade e tarefa. -  Conceito de desenvolvimento sustentável e sua relação com o Design de Produto. - A sustentabilidade nas empresas, no ambiente produtivo e seu entorno. ? Legislação. -  Análise das condições ambientais de trabalho. -  Analise e discussão  do impacto sociedade de consumo, da cultura material e do papel do design nesse contexto. Discussão dos aspectos de sustentabilidade ambiental, social e econômica. Exploração, abordagens e métodos de sustentabilidade para o design.\n___Bibliografia Recomendada___\n1- KAZAZIAN, T. Haverá a Idade das Coisas Leves: Design e Desenvolvimento Sustentável. São Paulo: Senac, 2005.\n2- SCHNEIDER, B. Design - uma introdução: o design no contexto social, cultural e econômico. São Paulo: Blücher, 2010\n3- BRAUNGART, Michael; MCDONOUGH, William. CradletoCradle: Criar e reciclar ilimitadamente. Editora GG Brasil, 2013.\n4- MANZINI, Ezio. Design para a inovação social e sustentabilidade: Comunidades criativas, organizações colaborativas e novas redes projetuais. Editora E-papers, 2008.\n5- MANZINI, E. & VEZZOLI, C. O Desenvolvimento de Produtos Sustentáveis: os requisitos ambientais dos produtos industriais. São Paulo: EDUSP, 2005.\n6- VEZZOLI, Carlo. Design de sistemas para a sustentabilidade: Teoria, métodos e ferramentas para o design sustentável de ?sistemas de satisfação?. Salvador: EDUFBA, 2010.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 15:00",
+        "professor": "BEANY GUIMARAES MONTEIRO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAI361",
+      "Nome": "Mater e Proc de Fabricação III",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Polímeros e Compósitos: Materiais e Processos de Produção.  - Materiais naturais, biomateriais, semicondutores e processos de produção.  Introdução aos Métodos de Seleção de Materiais e Processos para o Design de Produtos. - Questões ambientais ligadas ao setor produtivo. Importância dos materiais e processos para atividade do design industrial. - Atividade Extraclasse/Visita Técnica.\n___Bibliografia Recomendada___\n1- KULA, D. Materiologia: o guia criativo de materiais e tecnologias. São Paulo, Senac SP, 2012.\n2- ASHBY, M. e JOHNSON, K. Materiais e Design. Rio de Janeiro, Elsevier, 2011.\n3- LESKO, J. Design Industrial Materiais e Processos de Fabricação. São Paulo: Blucher, 2004.\n4- LIMA, M. A. M. Introdução aos materiais e processos para designers. Rio de Janeiro: Ciência Moderna, 2006.\n5- FISHER, U. (Ed.) Manual de Tecnologia Metal Mecânica. São Paulo Blücher, 2008.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "15:00 - 17:00",
+        "professor": "GERSON DE AZEVEDO LESSA"
+       }
+      ],
+      "Requisitos": [
+       "BAI352"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAI245",
+      "Nome": "Design e Elementos de Máquinas",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Elementos de Máquinas/Apresentação: roscas; parafusos; escareadores, porcas; arruelas; pinos e pivôs; Junções eixo-cubo; molas e ferramentaria, Elementos de acionamento; Mancais. Elementos de Máquinas/Aplicação: Elementos de fixação (móveis e permanentes); Elementos de apoio de fixação; Elementos flexíveis elásticos, molas; Elementos de transmissão e acoplamento; Elementos de vedação; Comandos mecânicos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "09:00 - 12:00",
+        "professor": "RONALDO JOSE FAZANELLI MIGUEIS"
+       }
+      ],
+      "Requisitos": [
+       "BAI233"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAI248",
+      "Nome": "Design Comunicação e Semiótica",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Teoria da comunicação. - Comunicação Visual na empresa, nos produtos e na embalagem. - Símbolo, código, signo e sistemas de signos. Sistemas de objetos e sua constituição semiológica. - Elementos de proxêmica. - Especificidade do discurso em Design. - Estudo de casos.\n___Bibliografia Recomendada___\n1- BRAIDA, F. e NOJIMA, V. L. Tríades do Design. Rio de Janeiro, Rio Books, 2014.\n2- SANTAELLA, L. Semiótica Aplicada. São Paulo, Pioneira, 2005\n3- PEREZ, C. Signo da Marca. São Paulo, Pioneira/Thomson, 2004\n4- GUIMARÃES,L. A cor como informação. SãoPaulo, Annablume, 2000\n5- HOHLFELDT, A.(org.). Teorias da comunicação - conceitos, escolas e  tendências. Petrópolis, Vozes, 2011.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "10:00 - 12:00",
+        "professor": "DIOGO PONTES COSTA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAI250",
+      "Nome": "Gestão do Design",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Design, contextos, cenários e suas práticas. A gestão do design. A gerência de projetos e ética profissional. A administração e prestação de serviços de um escritório, setor e/ou equipe de projeto, consultorias em design. Políticas em design: mercado, qualidade, meio ambiente, competitividade, marcas e inovação. Estratégias e planejamento de marcas, produtos e serviços.\n___Bibliografia Básica___\n1- BEST,K. Fundamentos de Gestão do Design. Porto Alegre: Bookman, 2012.\n2- MOZOTA,B.B. Gestão do Design. Porto Alegre, Bookman, 2011.\n3- MARTINS,R. & MERINO, E. A Gestão do Design como Estratégia Organizacional. Rio de Janeiro: RioBooks, 2011.\n4- MAXIMIANO,A.C.A. Fundamentos de administração.São Paulo: Atlas, 2004.\n5- MENEZES,L.C.M. Gestão de projetos.São Paulo: Atlas, 2001.\n6- COOPER, R. & PRESS, M. The Design Agenda: A Guide to Sucessful Design Management. 2000.\n7- ABNT NBR 16585 Serviços de design - diretrizes para boas práticas. 2017.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "10:00 - 12:00",
+        "professor": "BRUNA MILAM ALMEIDA"
+       }
+      ],
+      "Requisitos": [
+       "BAI430"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAI509",
+      "Nome": "Modelos Estrut em des Ind II",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Analise de tensão e deformação, tipos de solicitação: tração, compressão, flexão simples e composta, torção. Analise quantitativa do comportamento estrutural e através de modelos e protótipos. Propriedades, especificação e normalização de materiais. Rigidez pela forma.\n___Bibliografia Recomendada___\n1- ASHBY, M. e JOHNSON, K. Materiais e Design. Rio de Janeiro, Elsevier, 2011.\n2- FISHER,U. (Ed.) Manual de Tecnologia Mecânica. São Paulo,  A Blücher, 2008.\n3- ELCONIAN,S. Mecânica técnica e resistência dos materiais. São Paulo: Érica, 1999.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 12:00",
+        "professor": "RONALDO JOSE FAZANELLI MIGUEIS"
+       }
+      ],
+      "Requisitos": [
+       "BAI508"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "5º Período": [
+     {
+      "Codigo": "BAI353",
+      "Nome": "Design de Produto III",
+      "Créditos": "4.0",
+      "Teórica": "30",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenvolvimento prático de projetos de produtos industriais de alta complexidade baseado numa demanda real.  - Aplicação de métodos de sistematização em Design. - Estimulo a criatividade na solução de problemas. -  Aplicação de técnicas de representação, apresentação e realização de produtos industriais. - Visitas e interações técnicas.\n___Bibliografia Recomendada___\n1- BAXTER, M. Projeto de Produto. São Paulo: Blucher, 1998.\n2- MORRIS, R. Fundamentos de Design de Produto. Porto Alegre: Bookman, 2010.\n3- BONSIEPE,G. Design: como prática de projeto. São Paulo, Blücher, 2012.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "RICARDO WAGNER"
+       },
+       {
+        "dia": "Sex",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "BAI010",
+       "BAI013",
+       "BAI245",
+       "BAI246",
+       "BAI361",
+       "BAI509"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAI507",
+      "Nome": "Ergonomia do Produto II",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceitos e ações práticas em Ergonomia do Produto. 1) Transmissão e processamento da informação. Fatores Ambientais. Fatores Humanos. Segurança e Organização do Trabalho. Ergonomia aplicada ao desenvolvimento de Produtos. Ergonomia nos serviços e na vida diária. Ergonomia e as novas tecnologias. 2) Levantamento e tratamento estatístico de dados ergonômicos. Estudos de casos. Análise de produtos e/ou ambientes.\n___Bibliografia Básica___\n1- IIDA, I. Ergonomia: projeto e produção. 2ª Ed. São Paulo: Blücher, 2005.\n2- DUL, J.; WEERDMEESTER, B. Ergonomia Prática. São Paulo: Blücher, 2ª Ed., 2004.\n3- GRANDJEAN, E. Manual de Ergonomia: adaptando o trabalho do homem. Porto Alegre: Artes Médicas, 1998.\n4- GOMES FILHO, J. Ergonomia do objeto: sistema técnico de leitura ergonômica. São Paulo: Escrituras, 2010.\n5- PANERO, Julius; ZELNIK, Martin. Human Dimension & Interior Space. Watson-Guptill Publications, New York, 1979.\n6- CRONEY, John. Anthropometry for Designers. Batsford Academy and Educational Limited, London, 1980.\n7- DREYFUSS, Henry. The Measure of Man: Human Factors in Design. Whitney Library of Design, New York, 1978.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 16:00",
+        "professor": "BRUNA MILAM ALMEIDA"
+       }
+      ],
+      "Requisitos": [
+       "BAI506"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAI240",
+      "Nome": "Téc de Apresent de Produtos",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Técnicas de representação e apresentação de soluções de projeto. Recursos materiais e computacionais para aplicação em Design de Produto. Conhecimento e aplicação de técnicas de perspectivas, sombras, cores e suportes em projeto de produto. Possibilidades de visualizações gráficas no processo de desenvolvimento de design de produto. Formatação gráfica e estrutura do relatório de projeto. Exercícios práticos.\n___Bibliografia Básica___\n1- POWELL, D. Presentation Techniques. London: Macdonald & Co. 1998.\n2- ERICSON STRAUB (et. al.). ABC do Rendering. Curitiba, Infolio, 2004.\n3- EISSEN, K. & STEUR, R. Sketching: Drawing Techniques for Product Designers. Amsterdam: BIS, 2010.\n4- JULIÁN, F. e ALBARRACIN, J. Desenho para Designers Industriais. Lisboa: Estampa, 2005.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 12:00",
+        "professor": "MARCOS HENRIQUE DE GUIMARAES OLIVA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAI354",
+      "Nome": "Design de Produto e Marketing",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "arketing: o contexto organizacional e o Design. - Teoria das organizações e de administração e o ambiente de marketing. - Conceitos e aplicações. - Segmentação. - Posicionamento. - Comportamento do consumidor. - Composto de marketing.-  Desenvolvimento de novos produtos e do ciclo de vida dos produtos.\n___Bibliografia Recomendada___\n1- BEST, K. Fundamentos de Gestão do Design. Porto Alegre: Bookman, 2012.\n2- KOTLER, P.; ARMSTRONG, G. Princípios de Marketing. 9. ed. São Paulo: Prentice Hall, 2003.\n3- BONAVITA, J. R & DURO,J. Marketing para não-marketeiros. Rio de Janeiro, SENAC, 2001.\n4- DIAS. S.R. (coord) Vários autores, Gestão de Markrting. São Paulo, Saraiva, 2003.\n5- MATTAR, F,N. e SANTOS, D.G. Gerencia de Produto. São Paulo, Atlas, 2003.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "10:00 - 12:00",
+        "professor": "CAMILA ASSIS PERES SILVA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "6º Período": [
+     {
+      "Codigo": "BAI363",
+      "Nome": "Design e Sociedade III",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Economia: Conceitos - O papel do design na economia brasileira. - Aspectos da viabilidade econômica de projetos. - Descrição e formação de preço para projetos e produtos. ? Empreendedorismo em Design. - Estudo de casos.\n___Bibliografia Recomendada___\n1- VASCONCELLOS, M. A. S. Economia Macro e Micro, São Paulo, Ed. Atlas, 2007.\n2- SLACK, N; CHAMBERS,S; JOHNSTON,R. Administração da produção. São Paulo: Atlas, 2009.\n3- NEUMEIER, M. A empresa orientada pelo design: como criar uma cultura de inovação permanente. Porto Alegre: Bookman, 2010.\n4- SCHNEIDER,B. Design - uma introdução: o design no contexto social, cultural e econômico. São Paulo: Blücher, 2010.\n5- SCHENINI, P. H. e MATESCO, V. R. Economia para Não Economista. Ri de Janeiro: CENAC-RJ, 2014.\n6- DORNELAS, J. Empreendedorismo na Prática: Mitos e verdades do empreendedor de sucesso. Rio de Janeiro, LTC, 2015.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "09:00 - 11:00",
+        "professor": "JEANINE TORRES GEAMMAL"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAI362",
+      "Nome": "Design Propriedade Industrial",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceito de propriedade intelectual. - Legislação e normas aplicáveis ao Design. - Direito autoral e patente. - Estudo de casos.\n___Bibliografia Recomendada___\n1- CUNHA, F. C. A proteção legal do design. Rio de Janeiro: Lucerna, 2003.\n2- LIMA, J. A. A. Curso de propriedade intelectual para designers. João Pessoa: Novas Idéias, 2006.\n3- PIMENTEL, L. O. Propriedade intelectual e universidade: aspectos legais. Florianópolis.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 10:00",
+        "professor": "CAMILA ASSIS PERES SILVA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "7º Período": [
+     {
+      "Codigo": "BAI470",
+      "Nome": "Proj Grad Design Industrial I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "ETAPA INICIAL DO PROJETO DE CONCLUSÃO DE CURSO (PGDI). -  Projeto proposto e gerenciado pelo estudante envolvendo os seguintes aspectos: 1) Escolha do tema e do orientador; 2) Apresentação  de um Plano de trabalho contendo o esclarecimento da demanda; definição de objetivos; delimitação do tema; e metodologia de sistematização do trabalho. 3) Realização do Levantamento,  Análise  e Síntese de dados; Esclarecimento do problema projetual e das estratégias de desenvolvimento. 4) Apresentação de seminário intermediário avaliador de rendimento.\n___Bibliografia Recomendada___\n1- FACCA, C. A. O Designer como Pesquisador: Uma Abordagem Metodológica da Pesquisa Aplicada ao Design de Produtos. São Paulo : Edgard Blucher, 2011.\n2- LEFTERI, C. Como se Faz: 82 Técnicas de Fabricação para Design de Produtos. São Paulo: Edgard Blucher, 2010.\n3- PAZMINO, Ana Verônica. Como Criar: 40 Métodos para Designers. São Paulo: Ed. Edgard Blucher, 2015.\n4- LAKATOS/MARCONI. Fundamentos de Metodologia Científica. São Paulo, Atlas, 2005.5- BONSIEPE,G. Design, Cultura e Sociedade. São Paulo, Blücher, 2011.\n5- BONSIEPE,G. Design: como prática de projeto. São Paulo, Blücher, 2012.\n6- LIDWELL, W. [et.al]. Princípios Universais do Design. Porto Alegre, Bookman, 2010.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "ROOSEWELT DA SILVA TELES"
+       }
+      ],
+      "Requisitos": [
+       "BAI020",
+       "BAI031",
+       "BAI249",
+       "BAI354",
+       "BAI362"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "8º Período": [
+     {
+      "Codigo": "BAIX07",
+      "Nome": "Proj Grad Design Industrial II",
+      "Créditos": "4.0",
+      "Teórica": "0",
+      "Prática": "180",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "ETAPA FINAL DO PROJETO DE CONCLUSÃO DE CURSO (PGDI). -  Continuação do Projeto proposto e gerenciado pelo estudante envolvendo os seguintes aspectos: 1) Desenvolvimento Do Projeto com o cumprimento das etapas de Concepção e Seleção da Alternativa Projetual; Desenvolvimento Técnico do Produto; 2) Realização Documental contendo Mídia ilustrativa de apoio a apresentação; Modelo Tridimensional Físico do Produto; Relatório Técnico; e Desenhos Técnicos Mecânicos); e 3) Seminário de Defesa do Projeto através da Apresentação presencial do Projeto para Banca Avaliadora.\n___Bibliografia Recomendada___\n1- FACCA, C. A. O Designer como Pesquisador: Uma Abordagem Metodológica da Pesquisa Aplicada ao Design de Produtos. São Paulo : Edgard Blucher, 2011.\n2- LEFTERI, C. Como se Faz: 82 Técnicas de Fabricação para Design de Produtos. São Paulo: Edgard Blucher, 2010.\n3- PAZMINO, Ana Verônica. Como Criar: 40 Métodos para Designers. São Paulo: Ed. Edgard Blucher, 2015.\n4- LAKATOS/MARCONI. Fundamentos de Metodologia Científica. São Paulo, Atlas, 2005.\n5- BONSIEPE,G. Design, Cultura e Sociedade. São Paulo, Blücher, 2011.\n6- BONSIEPE,G. Design: como prática de projeto. São Paulo, Blücher, 2012.\n7- LIDWELL, W. [et.al]. Princípios Universais do Design. Porto Alegre, Bookman, 2010.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 16:00",
+        "professor": "ROOSEWELT DA SILVA TELES"
+       }
+      ],
+      "Requisitos": [
+       "BAI470"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "Disciplinas Optativas (Escolha Restrita)": [
+     {
+      "Codigo": "BAI011",
+      "Nome": "Lab Design Prod B (Metal)",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Atividade prática em Design Industrial. - Apresentação da tecnologia: ferramentas e máquinas operatrizes. - Medidas de higiene e segurança no trabalho. - Aprendizado e uso de EPIs (Equipamentos de Proteção Individual). - Análise e representação das formas tridimensionais através da construção e teste de modelos físicos (protótipos/mockups/maquetes) com o uso de ferramentas manuais e máquinas operatrizes.\n___Bibliografia Recomendada___\n1- HALLGRIMSSON,B. Prototyping and modelmaking for product design.Londres: Laurence King, 2012.\n2- FISHER, U. (Ed.) Manual de Tecnologia Mecânica. São Paulo Blücher, 2008.\n3- LIMA, Marco A. M.  Introdução aos Materiais e Processos para Designers.Rio de Janeiro: Ciência Moderna, 2006.\n4- HALLGRIMSSON,B.Prototypingandmodelmaking for product design.Londres: Laurence King, 2012.\n5- KULA, Daniel. Materiologia: o guia criativo de materiais e tecnologias. São Paulo, Senac SP, 2012.\n6- LESKO,J.Designindustrial: materiais e processos de fabricação. São Paulo:Blücher, 2001.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 17:00",
+        "professor": "JEANINE TORRES GEAMMAL"
+       }
+      ],
+      "Requisitos": [
+       "BAI119"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAI013",
+      "Nome": "Lab Design Prod D (Compósitos)",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Atividade prática de construção de modelos, mockups e ou maquetes. Análise e representação das formas tridimensionais através dos compósitos (novos materiais), com o uso de ferramentas manuais e máquinas operatrizes. Aprendizado e uso de EPIs (Equipamentos de Proteção Individual) e medidas de segurança.\n___Bibliografia Recomendada___\n1- ASHBY, M. e JOHNSON, K. Materiais e Design. Rio de Janeiro, Elsevier, 2011.\n2- FISHER, U. (Ed.) Manual de Tecnologia Mecânica. São Paulo Blücher, 2008.\n3- LIMA, Marco A. M.  Introdução aos Materiais e Processos para Designers. Rio de Janeiro: Ciência Moderna, 2006.\n4- KULA, Daniel. Materiologia: o guia criativo de materiais e tecnologias. São Paulo, Senac SP, 2012.\n5- LESKO,J.Designindustrial: materiais e processos de fabricação. São Paulo: Blücher, 2001.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAI119"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAI015",
+      "Nome": "Lab Design Prod F (Des Têxtil)",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução: História e evolução do fazer têxtil artesanal, manufatureiro e industrial. - Ferramentas, equipamentos e máquinas voltadas a realização têxtil. - Apresentação de elementos estruturais para a configuração têxtil (fibras, fios: efeitos estruturais e superficiais) - Exemplos da adequação material e instrumental as finalidades da realização têxtil. Concepção: estimulo a atividade projetual em Design Têxtil (sketch, cores, estampas, motivos, tecidos, dimensões 3D). Construção e manipulação e aplicação de elementos estruturais na composição têxtil. Realização/Trabalho Prático: Seleção de técnicas, realização e presentação de prático em design Têxtil.\n___Bibliografia Recomendada___\n1- BRAHIC, Marylène. A tecelagem. Lisboa : Editorial Estampa, 1998.\n2- CAURIO, Rita. Artêxtil no Brasil. Editado pela autora, 1985.\n3- DUARTE, Claudia Renata. A tecelagem manual no Triângulo Mineiro ? História e cultura material. Uberlândia : EDUFU, 2009.\n4- LASHUK, Tatiana. Design Têxtil: da estrutura à superfície. Porto Alegre: Editora UniRitter, 2009.\n5- MUNARI, B. Das coisas nascem coisas. São Paulo: Martins Fontes, 1998.\n6- PEDROSA, Israel. Da Cor a Cor Inexistente. Brasília - DF. Editora FUNAME. 1980.\n7- CHATAIGNIER,G. Fio a Fio: Tecidos, Moda e Linguagem. Editora: Estação das Letras e Cores, São Paulo, 2006.\n8- PEZZOLO, D. B. Tecidos ? História, Tramas, Tipos e Usos. Editora: SENAC. 2009.\n9- EDWARDS,C. Como Compreender Design Textil - Senac, São Paulo, 2012.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 12:00",
+        "professor": "PATRICIA MARCH DE SOUZA"
+       }
+      ],
+      "Requisitos": [
+       "BAI119"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAI017",
+      "Nome": "Lab Design Prod H (Cerâmica)",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Cerâmica: características do material, processos de beneficiamento, acabamento, uso e aplicações;  A cerâmica como linguagem cultural, como resgate da história, da cultura afro-brasileira e indígena;  Os produtos utilitários em cerâmica e a sustentabilidade; Design de Produto e a cerâmica; Exercícios práticos.\n___Bibliografia Recomendada___\n1- MUNARI, B. Das coisas nascem coisas. São Paulo: Martins Fontes, 1998.\n2- FERRANTE,M./WALTER, Y.  A materialização da idéia-Noções de materiais para o design de produtos. Rio, LTC, 2010.\n3- TAYLOR, L. The Ceramics Bible.  S.Francisco-EUA, Chronicle Books, 2011.\n4- CHAVARRIA, J.  The Big Book of Ceramics.  N.York, Watson-Guptill, 1994.\n5- MARTIN, A.  The Essential Guide to Mold Making & Slip Casting. EUA, Lark Craft, 2007 .\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAI119"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAI021",
+      "Nome": "Modelagem Computad Avançada B",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Apresentação de métodos, técnicas ou linguagens que explorem possibilidades tecnológicas disponíveis para a modelagem computacional de produtos. - História, potencial prático e limitações do uso de softwares para representação e modelagem de Produtos industriais no campo do design. ? Prática de modelagem.\n___Bibliografia Recomendada___\n1- FIALHO, A. B. Solidworks Premium 2009: Teoria e Prática no Desenvolvimento de Produtos Industriais ? Plataforma para Projetos CAD/CAE/CAM. São Paulo: Érica, 2009.\n2- GIESECKE, Frederick E. Comunicação Gráfica Moderna. Porto Alegre: Bookman, 2002.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAI235"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAI023",
+      "Nome": "Modelagem Computad Avançada D",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Apresentação de métodos, técnicas ou linguagens que explorem possibilidades tecnológicas disponíveis para a modelagem computacional de produtos. - História, potencial prático e limitações do uso de softwares para representação e modelagem de Produtos industriais no campo do design. ? Prática de modelagem.\n___Bibliografia Recomendada___\n1- FIALHO, A. B. Solidworks Premium 2009: Teoria e Prática no Desenvolvimento de Produtos Industriais ? Plataforma para Projetos CAD/CAE/CAM. São Paulo: Érica, 2009.\n2- GIESECKE, Frederick E. Comunicação Gráfica Moderna. Porto Alegre: Bookman, 2002.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAI235"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAI032",
+      "Nome": "Design Temático de Produto B",
+      "Créditos": "4.0",
+      "Teórica": "30",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das formas e espacos. Analise e representacao das formas tri-dimensionais, atraves dos materiais expressivos: barro, gesso, resinas, papel, madeira e metais. Tecnicas e instrumentos de trabalho: ferramentas simples e maquinas operatrizes. Uso e medidas de seguranca. Construcao e testes de modelos fisicos. Execucao de trabalhos propostos em metodologia visual i.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "09:00 - 12:00",
+        "professor": "PATRICIA MARCH DE SOUZA"
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 16:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "BAI240",
+       "BAI248",
+       "BAI353",
+       "BAI507"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAI034",
+      "Nome": "Design Temático de Produto D",
+      "Créditos": "4.0",
+      "Teórica": "30",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das formas e espacos. Analise e representacao das formas tri-dimensionais, atraves dos materiais expressivos: barro, gesso, resinas, papel, madeira e metais. Tecnicas e instrumentos de trabalho: ferramentas simples e maquinas operatrizes. Uso e medidas de seguranca. Construcao e testes de modelos fisicos. Execucao de trabalhos propostos em metodologia visual i.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAI240",
+       "BAI248",
+       "BAI353",
+       "BAI507"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAI036",
+      "Nome": "Design Temático de Produto F",
+      "Créditos": "4.0",
+      "Teórica": "30",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das formas e espacos. Analise e representacao das formas tri-dimensionais, atraves dos materiais expressivos: barro, gesso, resinas, papel, madeira e metais. Tecnicas e instrumentos de trabalho: ferramentas simples e maquinas operatrizes. Uso e medidas de seguranca. Construcao e testes de modelos fisicos. Execucao de trabalhos propostos em metodologia visual i.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAI240",
+       "BAI248",
+       "BAI353",
+       "BAI507"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAI010",
+      "Nome": "Lab Design Prod A. (Madeira",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Atividade prática em Design Industrial: Introdução: apresentação do ferramental e das máquinas operatrizes; medidas de higiene e segurança no trabalho (uso de EPIs - Equipamentos de Proteção Individual). - Análise e representação das formas tridimensionais através da construção e teste de modelos físicos (protótipos/mockups/maquetes) com emprego de ferramentas manuais e máquinas operatrizes.\n___Bibliografia Recomendada___\n1- KULA, Daniel. Materiologia: o guia criativo de materiais e tecnologias. São Paulo, Senac SP, 2012.\n2- LESKO,J.Design industrial: materiais e processos de fabricação.SãoPaulo:Blücher, 2001.\n3- HALLGRIMSSON,B. Prototyping and modelmaking for product design.Londres: Laurence King, 2012.\n4- ASHBY, M. e JOHNSON, K. Materiais e Design. Rio de Janeiro, Elsevier, 2011.\n5- FISHER, U. (Ed.) Manual de Tecnologia Mecânica. São Paulo Blücher, 2008.\n6- LIMA, Marco A. M.  Introdução aos Materiais e Processos para Designers. Rio de Janeiro: Ciência Moderna, 2006.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 12:00",
+        "professor": "JOSE BENITO SANCHEZ GONZALEZ"
+       }
+      ],
+      "Requisitos": [
+       "BAI119"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAI012",
+      "Nome": "Lab Design Prod C (Polímeros)",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Atividade prática de construção de modelos, mockups e ou maquetes. Análise e representação das formas tridimensionais através dos plásticos (materiais poliméricos), com o uso de ferramentas manuais e máquinas operatrizes. Aprendizado e uso de EPIs (Equipamentos de Proteção Individual) e medidas de segurança.\n___Bibliografia Recomendada___\n1- ASHBY, M. e JOHNSON, K. Materiais e Design. Rio de Janeiro, Elsevier, 2011.\n2- FISHER, U. (Ed.) Manual de Tecnologia Mecânica. São Paulo Blücher, 2008.\n3- LIMA, Marco A. M.  Introdução aos Materiais e Processos para Designers. Rio de Janeiro: Ciência Moderna, 2006.\n4- KULA, Daniel. Materiologia: o guia criativo de materiais e tecnologias. São Paulo, Senac SP, 2012.\n5- LESKO,J.Designindustrial: materiais e processos de fabricação. São Paulo: Blücher, 2001.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAI119"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAI014",
+      "Nome": "Lab Design Prod E. (Des Super)",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Esclarecimento dos objetivos: estímulo a atividade projetual associada as características expressivas das superfícies e os diferentes aspectos da interatividade sujeito-objeto. Especificidades dos materiais e processos na criação e composição do objeto. Metodologias projetuais no campo de conhecimento e prática do design industrial associadas a responsabilidade social e ambiental (sustentabilidade). Análise e representação das formas bi e tridimensionais através de técnicas e materiais distintos, com o uso de instrumentos manuais e/ou computacionais. Exercício Prático: planejamento e desenvolvimento de superfícies voltadas a configuração de Produtos Industriais.\n___Bibliografia Recomendada___\n1- FREITAS, Renata Oliveira Teixeira de. Design de superfície: ações comunicacionais táteis nos processos de criação. São Paulo: Blücher, 2011.\n2-  PROCTOR, Richard M. , LEW, Jennifer F. Surface design for fabric. Washington : University of Washington Press, 1985.\n3- RUBIM, Renata. Desenhando a superfície. São Paulo: Rosari, 2005. 95 p.\n4- RÜTHSCHILLING, Evelise Anicet. Design de superfície. Porto Alegre: Ed. Da UFRGS, 2008. 104 p.\n5- KULA, Daniel. Materiologia: o guia criativo de materiais e tecnologias. São Paulo, Senac SP, 2012.\n6- WONG, W. Princípios da forma e desenho. São Paulo: Martins Fontes, 1996.\n7- PEDROSA, Israel. Da Cor a Cor Inexistente. Brasília - DF. Editora FUNAME. 1980.\n8- DONDIS, Donis. A sintaxe da linguagem visual. São Paulo: Martins Fontes, 1991.\n9- RUBIM, Renata. Desenhando a Superfície. São Paulo: Editora Rosari, 2004.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "MARINA BUENO MAGANO"
+       }
+      ],
+      "Requisitos": [
+       "BAI119"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAI016",
+      "Nome": "Lab Design Prod G (Cor)",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Atividade prática em Design Industrial: Introdução às teorias das cores. Colorimetria. Psicologia e simbolismo das cores. Aspectos relacionais entre luz e cor. Aspectos relacionais da cor com as formas, materiais, superfícies. Aspectos relacionais entre cor e consumo. A cor no design e nas indústrias. Exercícios práticos de cromatismo em formas e produtos.\n___Bibliografia Recomendada___\n1- ALBERS, Josef. A interação da cor. São Paulo: Martins Fontes, 2009.\n2- BIRREN, Faber. Color psycology and color  therapy. A factual study of the influence of color on human life. New York: University Book, 2013.\n3- DELONG, M.; MARTINSON, B. (eds). Color and Design. Minnesota: Berg Publishers, 2013.\n4- GAGE, John. Color and Meanning. Los Angeles: Universithy of California: Harvard University Press, 1964.\n5- OVERHEIM, R. Daniel; WAGNER, David L. Light and color. New York: John Wiley & Sons, 1982.\n6- PEDROSA, Israel. Da cor à cor Inexistente. 10ª ed. Rio de Janeiro: Senac Nacional, 2010.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAI119"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAI020",
+      "Nome": "Modelagem Computad Avançada a",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Apresentação de métodos, técnicas ou linguagens que explorem possibilidades tecnológicas disponíveis para a modelagem computacional de produtos. - História, potencial prático e limitações do uso de softwares para representação e modelagem de Produtos industriais no campo do design. ? Prática de modelagem.\n___Bibliografia Recomendada___\n1- FIALHO, A. B. Solidworks Premium 2009: Teoria e Prática no Desenvolvimento de Produtos Industriais ? Plataforma para Projetos CAD/CAE/CAM. São Paulo: Érica, 2009.\n2- GIESECKE, Frederick E. Comunicação Gráfica Moderna. Porto Alegre: Bookman, 2002.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 17:00",
+        "professor": "ANAEL SILVA ALVES"
+       }
+      ],
+      "Requisitos": [
+       "BAI235"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAI022",
+      "Nome": "Modelagem Computad Avançada C",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Apresentação de métodos, técnicas ou linguagens que explorem possibilidades tecnológicas disponíveis para a modelagem computacional de produtos. - História, potencial prático e limitações do uso de softwares para representação e modelagem de Produtos industriais no campo do design. ? Prática de modelagem.\n___Bibliografia Recomendada___\n1- FIALHO, A. B. Solidworks Premium 2009: Teoria e Prática no Desenvolvimento de Produtos Industriais ? Plataforma para Projetos CAD/CAE/CAM. São Paulo: Érica, 2009.\n2- GIESECKE, Frederick E. Comunicação Gráfica Moderna. Porto Alegre: Bookman, 2002.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAI235"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAI031",
+      "Nome": "Design Temático de Produto a",
+      "Créditos": "4.0",
+      "Teórica": "30",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das formas e espacos. Analise e representacao das formas tri-dimensionais, atraves dos materiais expressivos: barro, gesso, resinas, papel, madeira e metais. Tecnicas e instrumentos de trabalho: ferramentas simples e maquinas operatrizes. Uso e medidas de seguranca. Construcao e testes de modelos fisicos. Execucao de trabalhos propostos em metodologia visual i.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "09:00 - 12:00",
+        "professor": "VICENTE DE PAULO SANTOS CERQUEIRA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "09:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "BAI240",
+       "BAI248",
+       "BAI353",
+       "BAI507"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAI033",
+      "Nome": "Design Temático de Produto C",
+      "Créditos": "4.0",
+      "Teórica": "30",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das formas e espacos. Analise e representacao das formas tri-dimensionais, atraves dos materiais expressivos: barro, gesso, resinas, papel, madeira e metais. Tecnicas e instrumentos de trabalho: ferramentas simples e maquinas operatrizes. Uso e medidas de seguranca. Construcao e testes de modelos fisicos. Execucao de trabalhos propostos em metodologia visual i.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAI240",
+       "BAI248",
+       "BAI353",
+       "BAI507"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAI035",
+      "Nome": "Design Temático de Produto e",
+      "Créditos": "4.0",
+      "Teórica": "30",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das formas e espacos. Analise e representacao das formas tri-dimensionais, atraves dos materiais expressivos: barro, gesso, resinas, papel, madeira e metais. Tecnicas e instrumentos de trabalho: ferramentas simples e maquinas operatrizes. Uso e medidas de seguranca. Construcao e testes de modelos fisicos. Execucao de trabalhos propostos em metodologia visual i.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAI240",
+       "BAI248",
+       "BAI353",
+       "BAI507"
+      ],
+      "Tipo": "eletiva"
+     }
+    ],
+    "Disciplinas Optativas (Escolha Condicionada)": [
+     {
+      "Codigo": "BAH101",
+      "Nome": "História da Arte I",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo do fenômeno e da representações artísticas da Pré-História ao Século XIV, em seus aspectos conceituais, históricos e culturais. Do Paleolítico ao Gótico.\n___BIBLIOGRAFIA BÁSICA___\n1- ARGAN, Giulio Carlo. História da arte italiana. Da Antiguidade a Duccio. São Paulo: Editora Cosac e Naify, 2003.\n2- BELL, Julian. Uma nova história da arte. São Paulo: Editora Martins Fontes, 2008.\n3- JANSON, Horst Woldemar. História geral da arte (Vol. I): O Mundo Antigo e a Idade Média. São Paulo: Martins Fontes, 2001.\n4- WOODFORD, Susan. A arte de ver a arte. Rio de Janeiro: Zahar, 1983.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1- GOMBRICH. E.H. A História da arte. Rio de Janeiro: LTC, 2011.\n2- JANSON, H. W. História da arte. Lisboa: Fundação Calouse Gulbenkian,  1989.\n3- LISE, Giorgio. Como reconhecer a arte egípcia. Lisboa: Edições 70, 1985.\n4- SHAVER-CRANDELL, Anne. A idade média. Rio de Janeiro: Zahar, 1984.\n5- TARELLA, Alda. Como reconhecer a arte romana. Lisboa: edições 70, 1988.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAH201",
+      "Nome": "História da Arte III",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das Artes Visuais nos Séculos XIX ao XX, em seus aspectos conceituais, históricos e historiográficos. Do Romantismo às Vanguardas Históricas.\n___BIBLIOGRAFIA BÁSICA___\n1- ARGAN, Giulio Carlo. Arte Moderna. São Paulo: Cia das Letras, 2004.\n2- ARGAN, Guilio Carlo. A arte moderna da Europa: de Hogarth a Picasso. São Paulo: Cia. Das Letras, 2010.\n3- HAUSER, Arnold. História social da literatura e da arte. São Paulo: Martins Fontes, 2003.\n4- JANSON, H.W. História da arte. 9ª ed. Lisboa: Fundação Calouste Gulbenkian, 2010.\n5- PEVSNER, Nikolaus. Panorama da arquitetura ocidental. São Paulo: Martins Fontes, 19¬¬82.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1- FABRIS, Annateresa (org). O ecletismo na arquitetura brasileira. São Paulo: Edusp, 1987.\n2- GIEDION, Siegfried. Espaço, tempo e arquitetura: o desenvolvimento de uma nova tradição. São Paulo: Martins Fontes, 2004.\n3- KELLY, C. et alii. Século XIX: o romantismo. Rio de Janeiro: Museu Nacional de Belas Artes, 1979.\n4- REYNOLDS, Donald. A arte do século XIX. Rio de Janeiro: Zahar editores, 1986.\n5- PEVSNER, Nikolaus. Pioneiros do desenho moderno. São Paulo: Martins Fontes, 1995.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAH369",
+      "Nome": "Cultura Brasileira",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Formação da cultura brasileira. Etnicidade. Culturas tradicionais, regionais, populares e urbanas no Brasil.\n___ BIBLIOGRAFIA BÁSICA ___\n1- CANDIDO, A. O significado de Raízes do Brasil (Prefácio). In: HOLANDA, S. B. de. Raízes do Brasil. 26.ed. São Paulo: Cia. das Letras, 1995.\n2- FREYRE, G. Prefácio. Casa-grande & senzala: formação da família brasileira sob o regime da economia patriarcal. São Paulo: Global, 2005.\n3- DAMATTA, R. Notas sobre o racismo à brasileira. In: SOUZA, J. (Org) Multiculturalismo e racismo: uma comparação Brasil - Estados Unidos. Brasília: Paralelo, 1997.\n4- MICELI, S. Intelectuais e classe dirigente no Brasil (1920-1945). São Paulo: Difel, 1979.\n5- ROCHA, J. C. de C. As origens e equívocos da cordialidade brasileira. In: ___. O exílio do homem cordial. Rio de Janeiro: Editora do Museu Nacional, 2004.\n___ BIBLIOGRAFIA COMPLEMENTAR ____\n1- CANDIDO, A. Dialética da malandragem. Revista do Instituto de Estudos Brasileiros, São Paulo, v.8, p.67-89, 1970.\n2- FERNANDES, F. A integração do negro na sociedade de classes. São Paulo: Ática, 1978.\n3- HOLANDA, S. B. de. Raízes do Brasil. 26.ed. São Paulo: Cia. das Letras, 1995.\n4- ROMERO, S. Estudos sobre a poesia popular do Brasil. 2.ed. Petrópolis: Vozes, 1977.\n5- WISNIK, J. M. Veneno remédio: o futebol e o Brasil. São Paulo: Cia. das Letras, 2008.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAI003",
+      "Nome": "Sem Prof Design Industrial II",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Seminários acerca das estratégias de desenvolvimento técnico, apresentação, documentação e realização de Designs de Produtos Industriais.\n___Bibliografia Recomendada___\n1- FACCA, C. A. O Designer como Pesquisador: Uma Abordagem Metodológica da Pesquisa Aplicada ao Design de Produtos. São Paulo : Edgard Blucher, 2011.\n2- LEFTERI, C. Como se Faz: 82 Técnicas de Fabricação para Design de Produtos. São Paulo: Edgard Blucher, 2010.\n3- PAZMINO, Ana Verônica. Como Criar: 40 Métodos para Designers. São Paulo: Ed. Edgard Blucher, 2015.\n4- LAKATOS/MARCONI. Fundamentos de Metodologia Científica. São Paulo, Atlas, 2005.\n5- BONSIEPE,G. Design, Cultura e Sociedade. São Paulo, Blücher, 2011.\n6- BONSIEPE,G. Design: como prática de projeto. São Paulo, Blücher, 2012.\n7- LIDWELL, W. [et.al]. Princípios Universais do Design. Porto Alegre, Bookman, 2010.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAI002"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAI037",
+      "Nome": "Design Temático de Produto M",
+      "Créditos": "4.0",
+      "Teórica": "30",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das formas e espacos. Analise e representacao das formas tri-dimensionais, atraves dos materiais expressivos: barro, gesso, resinas, papel, madeira e metais. Tecnicas e instrumentos de trabalho: ferramentas simples e maquinas operatrizes. Uso e medidas de seguranca. Construcao e testes de modelos fisicos. Execucao de trabalhos propostos em metodologia visual i.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAI031"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAI039",
+      "Nome": "Design Temático de Produto o",
+      "Créditos": "4.0",
+      "Teórica": "30",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das formas e espacos. Analise e representacao das formas tri-dimensionais, atraves dos materiais expressivos: barro, gesso, resinas, papel, madeira e metais. Tecnicas e instrumentos de trabalho: ferramentas simples e maquinas operatrizes. Uso e medidas de seguranca. Construcao e testes de modelos fisicos. Execucao de trabalhos propostos em metodologia visual i.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAI031"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAI041",
+      "Nome": "Design Temático de Produto Q",
+      "Créditos": "4.0",
+      "Teórica": "30",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das formas e espacos. Analise e representacao das formas tri-dimensionais, atraves dos materiais expressivos: barro, gesso, resinas, papel, madeira e metais. Tecnicas e instrumentos de trabalho: ferramentas simples e maquinas operatrizes. Uso e medidas de seguranca. Construcao e testes de modelos fisicos. Execucao de trabalhos propostos em metodologia visual i.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAI031"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAI324",
+      "Nome": "Tecelagem a",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Atividade teórica e prática. Conhecimentos elementares da técnica da tecelagem manual, rudimentar, artesanal e primitiva.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAI326",
+      "Nome": "Estamparia a",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Aulas teórico-práticas sobre estamparia têxtil. Técnicas, materiais e processos da estamparia por impressão. Desenvolvimento de trabalhos por métodos experimentais e artesanais. Introdução ao design têxtil para estamparia localizada e corrida.\n___Bibliografia Recomendada___\n1- BOWLES, Melanie. Diseño y estampación textil digital. Barcelona: Art Blume, 2009.\n2- COLE, Drusilla. Diseño textil contemporaneo. Barcelona: Art Blume, 2008.\n3- CONRAN, Terence. Printed textile design. London : The Studio Limited, 1975.\n4- ESTAMPARIA, tapeçaria, tecelagem: Exposição de Arte Têxtil da Escola de Belas Artes da UFRJ. Rio de Janeiro : UFRJ, 1989. 47 p.\n5- ESTAMPARIA, tapeçaria: II Exposição - Mostra de Arte Têxtil da Escola de Belas Artes da UFRJ, artistas homenageadas: Hilda Campofiorito e Tana. Rio de Janeiro : UFRJ, 1993. 48 p.\n6- JONES, Owen. A gramática do ornamento. Edição Brasileira: Editora Senac São Paulo, 2010.\n7- RUBIM, Renata. Desenhando a superfície. São Paulo: Rosari, 2005. 95 p.\n8- RÜTHSCHILLING, Evelise Anicet. Design de superfície. Porto Alegre: Ed. Da UFRGS, 2008. 104 p.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAI329",
+      "Nome": "Estamparia B",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Aulas teórico-práticas sobre estamparia têxtil. Técnicas, materiais e processos da estamparia a quadro. Desenvolvimento de trabalhos por métodos semi-industriais. Introdução ao design têxtil e conceitos de Rapport para estamparia localizada e corrida.\n___Bibliografia Recomendada___\n1- BOWLES, Melanie. Diseño y estampación textil digital. Barcelona: Art Blume, 2009. - COLE, Drusilla. Diseño textil contemporaneo. Barcelona: Art Blume, 2008.\n2- ESTAMPARIA, tapeçaria, tecelagem: Exposição de Arte Têxtil da Escola de Belas Artes da UFRJ. Rio de Janeiro : UFRJ, 1989. 47 p.\n3- ESTAMPARIA, tapeçaria: II Exposição - Mostra de Arte Têxtil da Escola de Belas Artes da UFRJ, artistas homenageadas: Hilda Campofiorito e Tana. Rio de Janeiro : UFRJ, 1993. 48 p.\n4- JACQUÉ, Jacqueline. Printed textiles. In: CARLANO, Marianne et alii. French textiles; from the middle ages through the second empire. Connecticut : Wadsworth Atheneum, 1985.\n5- JONES, Owen. A gramática do ornamento. Edição brasileira:Editora Senac São Paulo, 2010.\n6- MELLER, Susan; ELFFERS, Joost. Textile designs: 200 years of patterns for printed fabrics arranged by motif, colour, period and design. London: Thames & Hudson, 2002. 464 p.\n7- PROCTOR, Richard M. , LEW, Jennifer F. Surface design for fabric. Washington : University of Washington Press, 1985. - RUBIM, Renata. Desenhando a superfície. São Paulo: Rosari, 2005. 95 p.\n8- RÜTHSCHILLING, Evelise Anicet. Design de superfície. Porto Alegre: Ed. Da UFRGS, 2008. 104 p.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAIY01",
+      "Nome": "Tóp Esp em Desenho Ind A.",
+      "Créditos": "1.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Topicos variaveis em projeto do produto/design industrial e da programacao visual/design grafico segundo a especialidade do professor visitante e/ou linhas de pesquisa e atuacao dos docentes da unidade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAIY03",
+      "Nome": "Tóp Esp em Desenho Ind C",
+      "Créditos": "1.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Topicos variaveis em projeto do produto/design industrial e da programacao visual/design grafico segundo a especialidade do professor visitante e/ou linhas de pesquisa e atuacao dos docentes da unidade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAIY05",
+      "Nome": "Tóp Esp em Desenho Ind E.",
+      "Créditos": "1.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Topicos especiais em projeto do produto/design industrial e de programacao visual/design grafico segundo a especialidade do professor visitante e/ou linha de pesquisa e atuacao dos docentes da unidade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAR230",
+      "Nome": "Perspectiva (Di)",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A perspectiva: histórico, nomenclatura e notações. A teoria da perspectiva: 1. Com ponto de vista próprio: o ponto de fuga; métodos usuais. 2. Com ponto de vista improprio: a perspectiva obliqua; casos principais. Aplicações perspectivas de interiores e exteriores; sombras em perspectiva. Noções de perspectiva axonométrica cônica e cilíndrica. Aplicações: desenho isométrico, dimétrico, vistas e explodidas.\n___Bibliografia Básica___\n1- POMPEU PINHEIRO, Gerson. A Prática da Perspectiva. Tese, Biblioteca da EBA.\n2- CHINGIR, Margarita. Curso de Desenho de Perspectiva Exata. Vols. I a V. Gráfica Editorial Ltda.\n3- THEODORE DE POSTELS. Fundamentos de Perspectiva. Ed. VicturLerú. SRL.\n4- GREGORY, Roberto Muniz. Axonometria. Oficina Gráfica da Universidade do Brasil, 1962.\n5- FABRÍCIO, Ruth O. Menescal. Vistas explodidas em axonometria. Tese, Biblioteca da EBA, 1974.\n6- PILLET, J. J. Traité de Perspective. Biblioteca da EBA.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAR120"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAR481",
+      "Nome": "Ed Ambiental-preserv de Bens C",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Convenções adotadas (regulamentações de leis e procedimentos técnicos) para preservação de bens culturais, relacionados ao meio ambiente.\n___ BIBLIOGRAFIA RECOMENDADA ___\n1- LEI Nº9.605, DE 12 DE FEVEREIRO DE 1998 - Dispõe sobre as sanções penais e administrativas derivadas de condutas e atividades lesivas ao meio ambiente.\n2- DECRETO-LEI Nº 25, DE 30 DE NOVEMBRO DE 1937 - Organiza a proteção do patrimônio histórico e artístico nacional.\n3- INSTITUTO DO PATRIMÔNIO HISTÓRICO ARTÍSTICO NACIONAL. Cartas Patrimoniais. Brasília: IPHAN, 1995.\n4- Cadernos Técnicos IPHAN - publicações on line - http://portal.iphan.gov.br/- publicações.\n5- Manuais IPHAN - publicações on line - http://portal.iphan.gov.br/- publicações\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAU305",
+      "Nome": "Detalhes de Móveis I",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Tipos de madeira e derivados. Medidas de mercado. Maquinas e equipamentos. Tipos de moveis e denominações técnicas. Dimensões básicas de compartimentos e pecas de mobiliário. Modelagem, montagem, acabamento. Planejamento de mobiliário exclusivo. Especificação e orçamento.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAR241"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV121",
+      "Nome": "Fotografia I",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Teoria fotográfica, a câmera, estruturação da imagem; introdução ao laboratório fotográfico.\n___Bibliografia Recomendada___\n1) ADAMS,Ansel.The Camera, New York: Litle, Brown and Company, 1991. Existe edição do SENAC SP.\n2) ____, Ansel. The Negative, New York:Litle, Brown and Company, 1991. Existe edição do SENAC SP.\n3) ____, Ansel. The Print, New York: Litle, Brown and Company, 1991. Existe edição do SENAC.\n4) SPGOLDBERG, Vicki. Photography in Print, Alburquerque: University New Mexico Press, 1988Catálogo da XXV Bienal de São Paulo, Iconografias Metropolitanas. São Paulo, 2002.\n5)CARSON, D. , MEGGS P. : Fotografiks, David Carson, Corte Madera: Gingko Press, 2000.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEI202",
+      "Nome": "Humanidades e Ciencias Sociais",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O pensamento econômico como fator social: uma introdução a economia e a evolução do pensamento econômico. Indústria e sociedade. A administração científica do trabalho e a administração de recursos humanos. Ciência, tecnologia e desenvolvimento. Avaliação social de projetos de engenharia. A noção orgânica e sistêmica do direito.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEF599",
+      "Nome": "Est da Líng Bras de Sinais I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Nomes próprios; pronomes pessoais; demonstrativos; possessivos; locativos em sentenças simples do tipo pergunta-resposta com \"o que\" e \"quem\" e outros vocábulos básicos; numerais; quantidade; topicalização; flexão verbal; flexão de negação; expressões faciais e corporais; percepção visual; conversação; diálogos; textos: LIBRAS, cultura e comunidade surda.\n___ BIBLIOGRAFIA BÁSICA ___\n1- FELIPE, T.; MONTEIRO, M. S. LIBRAS em contexto. Curso Básico. Brasília: Ministério da Educação e do Desporto/Secretaria de Educação Especial, 2001.\n2- PIMENTA, N.; QUADROS, R. M. Curso de LIBRAS 1 ? Iniciante. 3 ed. rev. e atualizada. Porto Alegre: Editora Pallotti, 2008.\n3- BRITO, L. F. Por uma gramática de língua de sinais. Rio de Janeiro: Tempo Brasileiro, 1995\n4- CAPOVILLA, F. C., RAPHAEL, W. D. Dicionário Enciclopédico Ilustrado Trilíngüe da Língua de Sinais Brasileira, v 1 e 2. São Paulo: Editora da Universidade de São Paulo, 2001.\n5- QUADROS, R. M. de & KARNOPP, L. Língua de sinais brasileira: estudos lingüísticos. ArtMed: Porto Alegre, 2004.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NEP110",
+      "Nome": "Fund Direitos Humanos",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Necessidade e possibilidade de uma fundamentação filosófica dos direitos humanos, para a determinação do conteúdo e construção de argumentos racionais na sua implementação. Identificação dos principais desafios para afirmação e a realização dos direitos humanos e apresentação de algumas propostas contemporâneas de Fundamentação Filosófica dos Direitos Humanos.\n",
+       "BibliografiaBasica": "1) BARBALET, J. M. A Cidadania. Lisboa: Editorial Estampa, 1989.\n2) BAUMAN, Zygmunt. Comunidade: a busca da segurança no mundo atual. Rio de Janeiro: Jorge Zahar, 2003.\n3) BECKER, Howard S. Métodos de pesquisa em ciências sociais. São Paulo: Hucitec, 1999.\n",
+       "BibliografiaComplementar": "1) BELLONI I, Magalhães h. / Souza L; Metodologia de avaliação em políticas públicas. São Paulo (Cortez) 2003.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NEP143",
+      "Nome": "Tóp Esp Polít Públ Dir Hum V",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Discussão de temas específicos em políticas públicas e direitos humanos com base no processo histórico e nas críticas contemporâneas, proporcionando ao aluno uma visão sobre o alcance e limites da sua proteção e promoção.\n___BIBLIOGRAFIA BÁSICA___\n1) BECKER, Howard S. Métodos de pesquisa em ciências sociais. São Paulo: Hucitec, 1999.\n2) BELLONI I.; Magalhães H.; Souza L; Metodologia de avaliação em políticas públicas. São Paulo (Cortez) 2003.\n3) BOBBIO, Norberto. A era dos direitos. Rio de Janeiro: Campus, 1992.\n4) BOURGUIGNON, Jussara Ayres; OLIVEIRA Jr., Constantino Ribeiro de (Orgs.).  Pesquisa em ciências sociais: interfaces, debates e metodologias. Ponta Grossa (PR): Todapalavra, 2012.\n5) BRASIL, Programa Nacional de Direitos Humanos , PNDH II, Fernando Henrique Cardoso,  Brasília, Presidência da República, Secretaria da Comunicação Social, Ministério da Justiça, 2002.\n6) BUCCI, Maria Paula Dalari Et. al. (Orgs.). Direitos Humanos e políticas públicas. São Paulo: Pólis, 2001.\n7) FAORO, Raymundo. Os donos do poder. Rio de Janeiro, Editora Globo, 1958.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAF203",
+      "Nome": "Desenho III",
+      "Créditos": "3.0",
+      "Teórica": "0",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O desenho como realização final. Os problemas da criação artística através do desenho. As deformações expressivas e a composição. Exercícios de aplicação dos diferentes processos do desenho.\n___ BIBLIOGRAFIA BÁSICA ___\n1- CARERI, Francesco. Walkscape: O caminhar como prática estética. São Paulo: Ed. G.Gili, 2013.\n2- CAUQUELIN, Anne. Arte contemporânea: uma introdução. São Paulo: Martins, 2005.\n3- FERREIRA, Glória e COTRIM, Cecília (Org.). Clement Greenberg e o debate crítico. Rio de Janeiro: Jorge Zahar, 2001.\n4- OSTROWER, Fayga. Universos da Arte. Campinas: UNICAMP, 2013.\n5- STANGOS, Nikos (Org.). Conceitos da Arte Moderna. Rio de Janeiro: Jorge Zahar, 1991.\n6- PIGNATTI, Terisio. O desenho: de Altamira a Picasso. São Paulo: Abril, 1982.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAF106"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAH104",
+      "Nome": "História da Arte II",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das Artes Visuais nos Séculos XV ao XVII, em seus aspectos conceituais, históricos e historiográficos. Do Renascimento ao Neoclássico.\n___BIBLIOGRAFIA BÁSICA___\n1- ARGAN, Giulio Carlo. Clássico e anticlássico. São Paulo: Companhia das Letras, 1999.\n2- ARGAN, Guilio Carlo. Imagem e persuasão. São Paulo: Companhia das Letras, 2004.\n3- ARGAN, Guilio Carlo. História da arte italiana. São Paulo: Cosac & Naify, 2003. v. 2 e 3.\n4- BAETA, Rodrigo Espinha. Teoria do Barroco. Salvador: EDUFBA-PPGAU, 2012.\n5- JANSON, H.W. História da arte. 9ª ed. Lisboa: Fundação Calouste Gulbenkian, 2010.\n___BIBLIOGRAFIA COMPLEMENTAR____\n1- HAUSER, Arnold. História social da literatura e da arte. São Paulo: Martins Fontes, 2003.\n2- OLIVEIRA, Myriam Andrade Ribeiro de. O rococó religioso no Brasil. São Paulo: Cosac & Naify, 2003.\n3- PEVSNER, Nikolaus. Panorama da arquitetura ocidental. São Paulo: Martins Fontes, 19¬¬82.\n4- SILVA, Jorge Henrique Pais da. Estudos sobre o maneirismo. Lisboa: Imprensa Universitária, 1983.\n5- WÖLFFLIN, Heinrich. Renascença e Barroco. São Paulo: Editora perspectiva, 1989.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAH205",
+      "Nome": "História da Arte IV",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das Artes Visuais nos Séculos XX ao XXI, em seus aspectos conceituais, históricos e historiográficos. Do Entre Guerras à Contemporaneidade.\n___ BIBLIOGRAFIA BÁSICA ___\n1- ARGAN. Giulio Carlo. Arte Moderna. São Paulo: Companhia das Letras, 1993.\n2- COTRIM, Cecília; FERREIRA, Glória (orgs.). Escritos de Artista. Rio de Janeiro: Funarte & Jorge Zahar Editor, 2006.\n3- KRAUSS, Rosalind. Caminhos da Escultura Moderna. São Paulo: Martins Fontes, 1998.\n___ BIBLIOGRAFIA COMPLEMENTAR ___\n1- BATCHELOR, David. Minimalismo. São Paulo: Cosac & Naify Edições, 2001.\n2- BELTING, Hans. O fim da História da Arte. São Paulo: Cosacnaify, 2006.\n3- DANTO, Arthur. A transfiguração do lugar comum. São Paulo: Cosacnaify, 2007.\n4- HOLMES, Brian. Investigações Extradisciplinares: para uma nova crítica das instituições. Concinnitas.  Ano 9.  vol. 1, nº 12, 06-13, julho/2008.\n5- JAMESON, Fredric. Pós-Modernismo: a lógica cultural do capitalismo tardio. São Paulo: Ática, 1997.\n6- KRAUSS, Rosalind. Vídeo : a estética do narcisismo. Arte e Ensaios∕PPGAV-EBA, ano XV, nº16, 144-157,  2008.\n7- McCARTHY, David. Arte Pop. São Paulo: Cosac & Naify Edições, 2002.\n8- ODOHERTY, Brian. No Interior do Cubo Branco. São Paulo: Martins Fontes, 2007.\n9- TIBERGHIEN, Gilles. Cabanas. Revista Conccinnitas, ano 4,  n° 4, 227-242, março/2003.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAI002",
+      "Nome": "Sem Prof Design Industrial I",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Seminários acerca das estratégias de pesquisa e desenvolvimento de princípios de solução de Designs de Produtos Industriais.\n___Bibliografia Recomendada___\n1- FACCA, C. A. O Designer como Pesquisador: Uma Abordagem Metodológica da Pesquisa Aplicada ao Design de Produtos. São Paulo : Edgard Blucher, 2011.\n2- LEFTERI, C. Como se Faz: 82 Técnicas de Fabricação para Design de Produtos. São Paulo: Edgard Blucher, 2010.\n3- PAZMINO, Ana Verônica. Como Criar: 40 Métodos para Designers. São Paulo: Ed. Edgard Blucher, 2015.\n4- LAKATOS/MARCONI. Fundamentos de Metodologia Científica. São Paulo, Atlas, 2005.\n5- BONSIEPE,G. Design, Cultura e Sociedade. São Paulo, Blücher, 2011.\n6- BONSIEPE,G. Design: como prática de projeto. São Paulo, Blücher, 2012.\n7- LIDWELL, W. [et.al]. Princípios Universais do Design. Porto Alegre, Bookman, 2010.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAI031"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAI004",
+      "Nome": "Design e Inovação Social",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Apresentação: Design e o atendimento  as necessidades do consumidor. As estratégias para transformação do quadro real. O objeto foco e a utilização de  ferramentas de co-design para atuação de atores sociais no  alcançe de objetivos. A demanda como formulação ativa contenedora de princípios da solução. Posicionamento estratégico para projetos com emprego didático no desenvolvimento de produtos de uso e projetos de pesquisa e de extensão.\n___Bibliografia Recomendada___\n1- ARAUJO Filho, Targino, THIOLLENT, Michel Jean-Marie, , Metodologia para Projetos de Extensão: Apresentação e Discussão. Universidade Federal de São Carlos (UFSCar) ? São Carlos: Cubo Multimídia, 2008.\n2- DEBORD, Guy, A sociedade do espetáculo. Comentários sobre a sociedade do espetáculo. Rio de Janeiro, Contraponto, 1997.\n3- DUQUE-ARRAZOLA, Laura Susana, THIOLLENT, Jean Marie Michel (org.), Metodologia, teoria do conhecimento e pesquisa-ação. Textos selecionados e apresentados. Belém, UFPA, Instituto de Ciências Sociais Aplicadas, 2014. 4- LÉVY, Pierre, Cibercultura. São Paulo, Editora 34, 1999.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAI038",
+      "Nome": "Design Temático de Produto n",
+      "Créditos": "4.0",
+      "Teórica": "30",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das formas e espacos. Analise e representacao das formas tri-dimensionais, atraves dos materiais expressivos: barro, gesso, resinas, papel, madeira e metais. Tecnicas e instrumentos de trabalho: ferramentas simples e maquinas operatrizes. Uso e medidas de seguranca. Construcao e testes de modelos fisicos. Execucao de trabalhos propostos em metodologia visual i.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAI031"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAI040",
+      "Nome": "Design Temático de Produto p",
+      "Créditos": "4.0",
+      "Teórica": "30",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das formas e espacos. Analise e representacao das formas tri-dimensionais, atraves dos materiais expressivos: barro, gesso, resinas, papel, madeira e metais. Tecnicas e instrumentos de trabalho: ferramentas simples e maquinas operatrizes. Uso e medidas de seguranca. Construcao e testes de modelos fisicos. Execucao de trabalhos propostos em metodologia visual i.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAI031"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAI042",
+      "Nome": "Design Temático de Produto r",
+      "Créditos": "4.0",
+      "Teórica": "30",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das formas e espacos. Analise e representacao das formas tri-dimensionais, atraves dos materiais expressivos: barro, gesso, resinas, papel, madeira e metais. Tecnicas e instrumentos de trabalho: ferramentas simples e maquinas operatrizes. Uso e medidas de seguranca. Construcao e testes de modelos fisicos. Execucao de trabalhos propostos em metodologia visual i.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAI031"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAI325",
+      "Nome": "Tapecaria a",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A tapeçaria bordada. Suas características. Os suportes. Os materiais. Os diferentes pontos. O cartão e sua execução. Exercícios práticos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAI328",
+      "Nome": "Tapecaria B",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Tecnica de patecaria em teares de mesa e teares verticais.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAI503",
+      "Nome": "Oficina de Estamparia",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Aulas teórico-práticas sobre estamparia têxtil. Técnicas, materiais e processos da estamparia por reserva. Desenvolvimento de trabalhos exclusivos. Introdução ao design têxtil decorrente do fazer artístico em Estamparia.\n___Bibliografia Recomendada___\n1- BOWLES, Melanie. Diseño y estampación textil digital. Barcelona: Art Blume, 2009.\n2- COLE, Drusilla. Diseño textil contemporaneo. Barcelona: Art Blume, 2008.\n3- CONRAN, Terence. Printed textile design. London : The Studio Limited, 1975.\n4- ESTAMPARIA, tapeçaria, tecelagem: Exposição de Arte Têxtil da Escola de Belas Artes da UFRJ. Rio de Janeiro : UFRJ, 1989. 47 p.\n5- ESTAMPARIA, tapeçaria: II Exposição - Mostra de Arte Têxtil da Escola de Belas Artes da UFRJ, artistas homenageadas: Hilda Campofiorito e Tana. Rio de Janeiro : UFRJ, 1993. 48 p.\n6- JONES, Owen. A gramática do ornamento. Edição brasileira:Editora Senac São Paulo, 2010.\n7- LARSEN, Jack Lenor. The dyer's art; ikat, batik, plangi. New York : Van Nostrand Reinhold, 1976.\n8- MELLER, Susan; ELFFERS, Joost. Textile designs: 200 years of patterns for printed fabrics arranged by motif, colour, period and design. London: Thames & Hudson, 2002. 464 p.\n9- PROCTOR, Richard M. , LEW, Jennifer F. Surface design for fabric. Washington : University of Washington Press, 1985.\n10- RÜTHSCHILLING, Evelise Anicet. Design de superfície. Porto Alegre: Ed. Da UFRGS, 2008. 104 p._\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 12:00",
+        "professor": "MARINA BUENO MAGANO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAIY02",
+      "Nome": "Tóp Esp em Desenho Ind B",
+      "Créditos": "1.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Topicos especiais em projeto do produto/design industrial e de programacao visual/design grafico segundo a especialidade do professor visitante e/ou linha de pesquisa e atuacao dos docentes da unidade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAIY04",
+      "Nome": "Tóp Esp em Desenho Ind D",
+      "Créditos": "1.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Topicos especiais em projeto do produto/design industrial e de programacao visual/design grafico segundo a especialidade do professor visitante e/ou linha de pesquisa e atuacao dos docentes da unidade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAR103",
+      "Nome": "Desenho Geométrico Básico",
+      "Créditos": "4.0",
+      "Teórica": "30",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Morfologia geométrica. Instrumentos de desenho. Construções fundamentais a régua, compasso e esquadros. Letras e algarismos padronizados. Partição do círculo. Polígonos regulares. Tangência e concordância de curvas. Linhas proporcionais. Escalas. Cônicas, cíclicas e espirais.\n___Bibliografia Recomendada___\n1) CARVALHO, B DE A. Curso  de Desenho. Rio de Janeiro:Ao Livro Técnico Ltda, 1976.\n2) NASSER, L. Curso Básico de Geometria: Módulos I, II e III. São Paulo: Editora Scipione, 1989.\n3) PTNOKI, J. C. Elementos de Geometria e Desenho Geométrico, vols. I, II e III. São Paulo: Editora Scipione, 1989.\n4) PEREIRA, A. A. Geometria Descritiva I, Rio de Janeiro: Editora 2 AB, 2001.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAR232",
+      "Nome": "Desenho Técnico II (Di)",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Planejamento do Desenho Técnico para produção. Vistas e contagem. Planificação e vista explodida. Exercício de traçado a mão livre. Desenho de conjunto. Conhecimento de softwares aplicados a realização de Desenhos Técnicos Mecânicos e Exercícios de utilização.\n___Bibliografia Básica___\n1- ABNT. Normas para Desenho Técnico. Porto Alegre: Globo, 1977.\n2- GIESECKE, Frederick E. Comunicação Gráfica Moderna. Porto Alegre: Bookman, 2002.\n3- SILVA, Arlindo. Desenho Técnico Moderno. Rio de Janeiro: LTC, 4ª ed., 2006.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAR120",
+       "BAR121"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAR503",
+      "Nome": "Desenho de Móveis",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "As técnicas construtivas, detalhes estruturais e os materiais empregados na fabricação artesanal e industrializada do mobiliário em geral.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAR101"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAU318",
+      "Nome": "Detalhe de Móveis II",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Materiais conjugados a madeira na movelaria: pedras, vidros, metais, plasticos, texteis (estofamento e acabamento). Conservacao e reparacao de moveis. Planejamento de mobiliario exclusivo. Especificacao e orcamento.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAU305"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV201",
+      "Nome": "Foto-criação A.",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenvolvimento de experimentações na interface fotografia-arte.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV127",
+       "BAVX10"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEI206",
+      "Nome": "Historia da Tecnologia",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Tecnologia e ciencia, evolucao dos conceitos. O homem e o meio ambiente, tecnologia apropriada. Tecnologia pre-historica. O calcolitico. A metalurgia. Tecnologia na antiguidade. A escola de alexandria. A idade media e os sistemas de producao, o artesanato. A idade moderna, a manufatura. A energia e sua evolucao. Revolucao industrial. A administracao cientifica do trabalho. Sistemas de transporte. A eletronica. Biotecnologia. Evolucao e tecnologia. Sistema economico. O seculoxix. A industrializacao no brasil. A era tecnologica.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NEP101",
+      "Nome": "Teoria Direitos Fundamentais",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Discussão de uma teoria dos direitos fundamentais com base nas normas positivadas constitucionais, no direito comparado e na jurisprudência, proporcionando ao estudante uma visão sobre alcance e limites da proteção e promoção desses direitos.\n___BIBLIOGRAFIA BÁSICA___\n1) ABRAMOVAY, Ricardo. Direitos fundamentais das minorias (sob o enfoque da Lei nº9.882/99). Leme: Anhanguera Editora, 2010.\n2) ALEXY, Robert. Teoria de los derechos fundamentales, trad. Ernesto Garzón Valdés. Madrid: Centro de Estudios Constitucionales, 1993.\n3) ANDRADE, José Carlos Vieira de. Os direitos fundamentais na Constituição portuguesa de 1976 . 3ª ed. Coimbra: Almedina, 2007.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) BULOS, Uádi Lammêgo. Curso de Direito Constitucional. 3. ed. São Paulo: Saraiva: 2008.\n2) CANOTILHO, José Joaquim Gomes. Direito constitucional e teoria da constituição, 7ª ed. Coimbra: Almedina, 2003.\n3) SILVA, José Afonso da. Curso de Direito Constitucional Positivo. 31. ed. São Paulo: Malheiros, 2008.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NEP120",
+      "Nome": "Fund Polít Públicas Dir Hum",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Discussão sobre a necessidade e a possibilidade de uma fundamentação filosófica das políticas públicas, para a construção de argumentos racionais na sua implementação e identificação dos principais desafios para sua afirmação e realização. Apresentação de algumas propostas contemporâneas de fundamentação filosófica das políticas em direitos humanos.\n___BIBLIOGRAFIA BÁSICA___\n1) BARBALET, J. M. A Cidadania. Lisboa: Editorial Estampa, 1989.\n2) BAUMAN, Zygmunt. Comunidade: a busca da segurança no mundo atual. Rio de Janeiro: Jorge Zahar, 2003.\n3) BECKER, Howard S. Métodos de pesquisa em ciências sociais. São Paulo: Hucitec, 1999.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) BELLONI I, Magalhães h. / Souza L; Metodologia de avaliação em políticas públicas. São Paulo (Cortez) 2003.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NEP144",
+      "Nome": "Tóp Esp Polít Públ Dir Hum VI",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Discussão de temas específicos em políticas públicas e direitos humanos com base no processo histórico e nas críticas contemporâneas, proporcionando ao aluno uma visão sobre o alcance e limites da sua proteção e promoção.\n___BIBLIOGRAFIA BÁSICA___\n1) BECKER, Howard S. Métodos de pesquisa em ciências sociais. São Paulo: Hucitec, 1999.\n2) BELLONI I.; Magalhães H.; Souza L; Metodologia de avaliação em políticas públicas. São Paulo (Cortez) 2003.\n3) BOBBIO, Norberto. A era dos direitos. Rio de Janeiro: Campus, 1992.\n4) BOURGUIGNON, Jussara Ayres; OLIVEIRA Jr., Constantino Ribeiro de (Orgs.).  Pesquisa em ciências sociais: interfaces, debates e metodologias. Ponta Grossa (PR): Todapalavra, 2012.\n5) BRASIL, Programa Nacional de Direitos Humanos , PNDH II, Fernando Henrique Cardoso,  Brasília, Presidência da República, Secretaria da Comunicação Social, Ministério da Justiça, 2002.\n6) BUCCI, Maria Paula Dalari Et. al. (Orgs.). Direitos Humanos e políticas públicas. São Paulo: Pólis, 2001.\n7) FAORO, Raymundo. Os donos do poder. Rio de Janeiro, Editora Globo, 1958.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     }
+    ]
+   },
+   "obrigatorias": 39,
+   "eletivas": 61,
+   "ano": "2023/2 a 9999/9"
+  }
+ ]
+}

@@ -1,0 +1,2611 @@
+{
+ "CMT Análise de Dados": [
+  {
+   "materias": {
+    "1º Período": [
+     {
+      "Codigo": "CMT111",
+      "Nome": "Inovações Cient Tecn e Art I",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Seminários sobre os desenvolvimentos e inovações nas áreas tecnológica, científica e artística e cultural.\n",
+       "BibliografiaBasica": "Artigos de Revistas Científicas. Base Portal CAPES.\nPeriódicos: Nature, Science, Ciência Hoje, Scientific American\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "15:00 - 17:00",
+        "professor": "JOSE RICARDO DE ALMEIDA FRANCA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIW115",
+      "Nome": "Introdução às Ciências Físicas",
+      "Créditos": "4.0",
+      "Teórica": "30",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A construção de modelos em física: modelo geométrico para a luz. Noções introdutórias de Astronomia. Observação experimental e realização de\nmedidas. Noções de mecânica: vetores e movimentos. Conceitos básicos de termometria. Conceitos básicos de eletricidade.\n",
+       "BibliografiaBasica": "1- M.A.T. Almeida et al, Introdução às Ciências Físicas 1 ? vol. 1, 2 e 3, Fundação CECIERJ\n2- M. Reis e A.M.S. Gomes, Introdução às Ciências Físicas 2, Fundação CECIERJ\n3- MÁXIMO, A. ; ALVARENGA, B. Física, Scipione, Volume único.\n4- GREF (Grupo de Reelaboração do Ensino de Física - USP) Física, EDUSP, vol. 1, 2 e 3\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "10:00 - 13:00",
+        "professor": "IRINA NASKOVA NASTEVA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "10:00 - 13:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "CMA110",
+      "Nome": "Tóp Gerais Ciências da Terra",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceitos introdutórios em Ciências da Terra. Geologia, Astronomia e Meteorologia.\n",
+       "BibliografiaBasica": "Grotzinger, J., Jordan, T. & Abreu, I. D. 2013. Para entender a Terra. 6ª Ed. Bookman, 738 p.\nOliveira Filho, K.S. & Saraiva, M. F. O. 2014. Astronomia e Astrofísica. 3ª Ed. São Paulo, Livraria da Física, 780 p.\nAhrens, C.D. 2011. Essentials of Meteorology: An Invitation to the Atmosphere. 6ª Ed. Cengage Learning, 528 p.\n",
+       "BibliografiaComplementar": "Comins, N. F. & Kaufmann, W. 2008. Descobrindo o Universo. Bookman, 624p.\nArtigos de Revistas Científicas. Base Portal CAPES.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 15:00",
+        "professor": "LEONARDO DE FARIA PERES"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 15:00",
+        "professor": ""
+       },
+       {
+        "dia": "Sex",
+        "hora": "13:00 - 15:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "CMTZ50",
+      "Nome": "Ativ Curricular Extensão Cmt",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "0",
+      "Extensão": "240",
+      "Informação": {
+       "Info": "Atuação em atividades de extensão registradas na Pró-Reitoria de Extensão da UFRJ, como programas, projetos, cursos de extensão e eventos, coordenados por docentes do quadro permanente ou técnicos da carreira de nível superior na UFRJ. Para eventos, a atuação deverá ser na organização ou na realização do evento. Para cursos, a atuação deve ser na organização ou ministrando aulas.\n",
+       "BibliografiaBasica": "Bibliografia recomendada pelo coordenador da atividade.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAW117",
+      "Nome": "Introdução ao Cálculo",
+      "Créditos": "4.0",
+      "Teórica": "30",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Problemas em Matemática e Ciências: modelagem e resolução. Modelos gráficos, numéricos e algébricos. Coordenadas e transformação geométricas no plano. Resolução gráfica de desigualdades no plano. Retas e circunferências. Funções: visão geral (domínio, imagem, comportamento dinãmico e função não-numérica). Operações com funções. Funções lineares e afins e taxas de variação. Funções definidas por partes. Resolução gráfica de sistemas lineares. Sequências aritméticas; Movimento uniforme e equações paramétricas. Funções quadráticas e relações. Seções Cônicas. Funções polinomiais e Racionais: Continuidade e descontinuidade, comportamento no infinito e assíntotas. Funções exponenciais: sequências e séries geométricas. O número e funções inversas. Funções logaritmicas. Ajuste de curvas e linearização. Funções trigonométricas e vetores. Sistema de coordenadas polares e Geometria dos números complexos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "15:00 - 17:00",
+        "professor": "AFTAB PANDE"
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 10:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "2º Período": [
+     {
+      "Codigo": "FIS111",
+      "Nome": "Física Experimental I",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução à medida: como medir. Como expressar corretamente os valores medidos. Estimar a precisão de instrumentos. Dispersão de uma medida: controle de grandezas físicas numa experiência. Como caracterizar a dispersão de um conjunto de dados por um indicador apropriado. Cinemática unidimensional: desenvolvimento intuitivo e operacional dos conceitos de velocidade e aceleração. Representação e análise gráfica. Leis de Newton. Como definir operacionalmente a inércia e um corpo. Relação massa inercial-massa gravitacional. Colisões unidimensionais elásticas, semi-elásticas e inelásticas. Modelo teórico de uma colisão unidimensional.\n",
+       "BibliografiaBasica": "1) Apostila de Física Experimental I. Instituto de Física, UFRJ.\n2) Fundamentos da Teoria de Erros. J.H. Vuolo.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 10:00",
+        "professor": "MARCELO MARTINS SANT ANNA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAC118",
+      "Nome": "Cálculo Difer e Integral I",
+      "Créditos": "6.0",
+      "Teórica": "90",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Técnicas de Integração. Integral Imprópria.\n",
+       "BibliografiaBasica": "1) SANTOS, A. R.; BIANCHINI, Waldecir. Aprendendo Cálculo com Maple: Cálculo de Uma Variável. 1ª ed. Rio de Janeiro: LTC, 2002.\n2) LEITHOLD, Louis. O Cálculo com Geometria Analítica. 3.ed. São Paulo: Harbra, 2002. vol. 1.\n3) STEWART, James. Cálculo. 4.ed. São Paulo: Pioneira Thomson Learning, 2002. vol. 1.\n",
+       "BibliografiaComplementar": "1) ANTON, H.; BIVIS. I.; DAVIS, S. Cálculo, Vol. I. 8ª ed. Editora Harbra.\n2) APOSTOL, TOM M. Calculus, Vol. 1: One Variable Calculus With an Introduction to Linear Algebra. 2ª ed. - Ed. Wiley.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "10:00 - 12:00",
+        "professor": "MARCELO TAVARES RAMOS LUIZ"
+       },
+       {
+        "dia": "Seg",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       },
+       {
+        "dia": "Qua",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       },
+       {
+        "dia": "Qua",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       },
+       {
+        "dia": "Sex",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       },
+       {
+        "dia": "Sex",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "CMT121",
+      "Nome": "Inovações Cient Tecn e Art II",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Seminários sobre os desenvolvimentos e inovações nas áreas tecnológica, científica e artística.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 15:00",
+        "professor": "MARTA SIMOES PERES"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ICP121",
+      "Nome": "Computação I",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Informações relevantes de um problema e sua respectiva representação computacional. Resolução de problemas de forma algorítmica. Aspectos sintático se semânticos de uma linguagem de programação de alto nível. Comandos, estruturas de dados e estruturas básicas para a construção de soluções computacionais. Modelagem e implementação de código modularizado. Noções de organização,reutilização e legibilidade de código. Princípios das boas práticas de programação.\n",
+       "BibliografiaBasica": "1) Nilo N. C. Menezes. Introdução a programação com Python - Algoritmos e Lógica de Programação para iniciantes. 3ª edição. Novatec. 2019.\n2) Mark Lutz e David Ascher.Aprendendo Python.Bookman Companhia Ed. 2ª edição. 2007.\n3)Carla A. D. M. Delgado, João C. P. da Silva, Fabio Mascarenhas, Ana Luisa Duboc. The teaching of functions as the first step to learn imperative programming.\n4) WORKSHOP SOBRE EDUCAÇÃO EM COMPUTAÇÃO (WEI), 24, 2016, Porto Alegre. Anais[...]. PortoAlegre: Sociedade Brasileira de Computação, 2016.p. 2393-2402. ISSN2595-6175.DOI: .\n5) Python Software Foundation. Otutorialde Python. 2001-2023.\n",
+       "BibliografiaComplementar": "1) Plataforma para prática de programação:\n2) Site oficial da linguagem Python:\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "15:00 - 17:00",
+        "professor": "HUGO DE HOLANDA CUNHA NOBREGA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "15:00 - 17:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "3º Período": [
+     {
+      "Codigo": "FIT111",
+      "Nome": "Física I",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Noções de cálculo diferencial e integral e calculo vetorial. Força, cinemática e dinâmica do ponto material. Leis de Newton. Trabalho. Energia e sua conservação. Momento linear e sua conservação. Cinemática e dinâmica do movimento de rotação. Momento angular e sua conservação. Gravitação.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "10:00 - 12:00",
+        "professor": "BRUNO DE MOURA ESCHER"
+       },
+       {
+        "dia": "Qua",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       },
+       {
+        "dia": "Sex",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "CMT231",
+      "Nome": "Inovações Cient Tecn e Art III",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Seminários sobre os desenvolvimentos e inovações nas áreas tecnológica, científica,\nartística e cultural. Elaboração de Projetos de Pesquisa e Extensão.\n",
+       "BibliografiaBasica": "1- Artigos de Revistas Científicas. Base Portal CAPES.\n2- Periódicos: Nature, Science, Ciência Hoje, Scientific American\n",
+       "BibliografiaComplementar": "Material Didático Especial produzido pelo docente da UFRJ\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "15:00 - 17:00",
+        "professor": "LUIZ FRANCISCO PIRES GUIMARAES MAIA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAC128",
+      "Nome": "Cálculo Diferen e Integral II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Equações Diferenciais Ordinárias de Primeira  Ordem. Equações Diferenciais Ordinárias Lineares de Segunda Ordem com Coeficientes Constantes. Curvas e Vetores no Plano. Vetores no Espaço Tridimensional e Geometria Analítica Sólida. Funções de R2 em R. Funções de R3 em R. Máximos e Mínimos de Funções de R2 em R. Máximos e Mínimos de Funções de R3 em R.\n",
+       "BibliografiaBasica": "1) BOYCE, W. E.; DIPRIMA, R. C. Equações Diferenciais Elementares e Problemas de Valores de Contorno. 7. ed. Rio de Janeiro: UFRJ, 2004.\n2) PINTO, D.; MORGADO, M.C.F. Cálculo Diferencial e Integral de Funções de Várias Variáveis. 3.ed. Rio de Janeiro: UFRJ, 2004.\n3) STEWART, J. Cálculo. 4. ed. São Paulo: Pioneira Thomson Learning, 2002. vol. 2.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 10:00",
+        "professor": "ADLER VIEIRA MARQUES"
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 10:00",
+        "professor": ""
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 10:00",
+        "professor": ""
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 10:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MAC118"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "4º Período": [
+     {
+      "Codigo": "MAC238",
+      "Nome": "Cálculo Diferen e Integral III",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Integrais Múltiplas. Integrais de Linha. Integrais de Superfície. Teorema de Gauss. Teorema de Stokes.\n",
+       "BibliografiaBasica": "1) PINTO, D.; MORGADO, M. C. F. Cálculo Diferencial e Integral de Funções de Várias Variáveis. 3ª ed. Rio de Janeiro: UFRJ, 2004.\n2) TROMBA, A. J.; MARSDEN, J. E. Vector Calculus. 5ª ed. New York: W. H. Freeman & Company, 2003.\n3) ANTON, H. Cálculo: Um Novo Horizonte. 6ª ed. Porto Alegre: Bookman, 2000. vol.2.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 10:00",
+        "professor": "AFTAB PANDE"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 10:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MAC128"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "5º Período": [
+     {
+      "Codigo": "ICP116",
+      "Nome": "Estruturas de Dados",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Complexidade de algoritmos. Listas lineares em alocação sequencial e dinâmica. Árvores, Árvores Binárias de Busca e Árvores balanceadas, heap. Tabelas de dispersão (hash tables). Conjuntos, coleção de conjuntos disjuntos. Listas de Prioridades. Algoritmos de ordenação: Radix sort, quick e heap sort.\n___BIBLIOGRAFIA BÁSICA___\n1) Jayme L. Szwarcfiter e Lilian Markenzon. Estruturas de Dados e seus Algoritmos. LTC, 3ª ed, 2010.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 15:00",
+        "professor": "CLAUDSON FERREIRA BORNSTEIN"
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 15:00",
+        "professor": ""
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 15:00",
+        "professor": ""
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 15:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "ICP141"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIM230",
+      "Nome": "Física III - a",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Lei de Coulomb. Campos elétricos. Lei de Gauss. Potencial Elétrico, capacitores, correntes e circuitos. Campos magnéticos, leis de Ampere e Biot - Savart, Lei de Faraday, indutância, corrente de deslocamento. Circuitos de corrente alternada, equações de Maxwell.\n",
+       "BibliografiaBasica": "1) Física, volume 2. Eletricidade e Magnetismo, Ótica (5ª edição). Paul A. Tipler e Gene Mosca. LTC Editora S.A.\n2) Curso de Física Básica, volume 1. Mecânica, Oscilações e Ondas. H. Moysés Nussenzveig - Editora Edgard Blücher Ltda.\n3) Fundamentos de Física (4ª edição). D. Halliday. R. Resnick e J. Walker - John Wiley & Sons, Inc.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "10:00 - 12:00",
+        "professor": "MAURICIO ORTIZ CALVAO"
+       },
+       {
+        "dia": "Sex",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "FIT112",
+       "MAC128"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAD124",
+      "Nome": "Introdução à Estatística",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Probabilidade - conceitos básicos, probabilidade condicional, independência, Teorema de Bayes, Variáveis aleatórias, modelos binomial e normal. Introdução à Inferência: população e amostra; distribuição amostral, amostra aleatória simples, introdução à estimação e testes de hipóteses.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 15:00",
+        "professor": "LUIZ GUILHERME GONCALVES ARRUDA DE COUTO"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 15:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "6º Período": [
+     {
+      "Codigo": "MAD233",
+      "Nome": "Cálculo das Probabilidades I",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Probabilidade. Probabilidade condicional. Independência. Variáveis aleatórias discretas e contínuas. Esperança e variância de variáveis aleatórias. Modelos de variáveis aleatórias unidimensionais.\n",
+       "BibliografiaBasica": "1) DEGROOT, Morris. H.; SCHERVISH, Mark J. Probability and statistics. Boston: Addison-Wesley, c2002.\n2) HOEL, Paul Gerhard; PORT, Sidney C.; STONE, Charles Joel. Introdução à teoria da probabilidade. Rio de Janeiro : Interciência, 1978.\n3) ROSS, Sheldon M. A first course in probability. New Jersey: Pearson/Prentice Hall, c2006.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MAC128(C)MAC128=MAE123MAC128=MAW231MAC128=MAE121MAC128=MAC124MAC128=MAC123"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ICP489",
+      "Nome": "Banco de Dados I",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução a Sistemas de Banco de Dados; Projeto de Banco de Dados; Modelo de Dados Relacional; Consultas em Dados Relacionais; Recursos Avançados em SQL.\n___BIBLIOGRAFIA BÁSICA___\n1) ELMASRI, R.; NAVATHE, S .B. Sistemas de Banco de Dados. 6ª ed. Pearson Education, 2011.\n2) HEUSER, C. A. Projeto de Banco de Dados. 6ª ed. Bookman, Porto Alegre, 2009.\n3) SILBERSCHATZ, A; KORTH, H. F.; SUDARSHAN S. Sistema de Banco de Dados. 6ª ed. Elsevier, Campus, 2012.\n4) DATE, C. J. Introdução a Sistemas de Bancos de Dados. 8ª ed. Campus, 2004.\n5) HEUSER, C. A. Banco de Dados Relacional: Conceitos, SQL e Administração. Clube dos Autores, 2019.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 10:00",
+        "professor": "VIVIAN DOS SANTOS SILVA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 10:00",
+        "professor": ""
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 10:00",
+        "professor": ""
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 10:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "ICP116"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "7º Período": [
+     {
+      "Codigo": "ICP357",
+      "Nome": "Data Warehousing e Intel Negóc",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução à Inteligência de Negócio. Arquiteturas e ambientes analíticos de suporte à decisão. Componentes e ferramentas de  apoio ao tratamento e processamento analítico. Metodologia de desenvolvimento de soluções de suporte à decisão. Modelagem multidimensional. Gerência de metadados. Tratamento (limpeza, transformação e descrição, em especial) e exploração de dados heterogêneos.\n___BIBLIOGRAFIA BÁSICA___\n1) C. Barbieri,  BI2 - Business Intelligence: Modelagem e Qualidade, Ed Campus, 2011.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) B. L Rêgo. Gestão e Governança de Dados: Promovendo dados como ativo de valor nas empresas. Brasport, 2013.\n2) R. Kimball, M. Ross, The Data Warehouse Toolkit: The definitive guide to dimensional modeling, Wiley, 2013.\n3) W. H. Inmon, A.Nesavish, Tapping into Unstructured Data, Prentice Hall, 2008.\n4) L. Moss, S. Atre. Business Intelligence Roadmap: The Complete Project Lifecycle for Decision-Support Applications. Addison- Wesley. 2003.\n5) Bouman, R., Dongen, J. Pentaho Solutions: Business Intelligence and Data Warehousing with Pentaho and MySQL.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ICP489"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ICP103",
+      "Nome": "Análise de Risco",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceitos de risco e análise de risco;  O processo de gerência de risco; Análise de risco qualitativa: tabelas Probabilidade X Impacto;  Método de Monte Carlo; Fundamentos da linguagem R; Análise quantitativa do risco de custo de projetos; Análise quantitativa do risco de prazo de projetos; Introdução a avaliação quantitativa do risco de investimentos financeiros.\n___BIBLIOGRAFIA BÁSICA___\n1- Análise de risco na gerencia de projetos, 3ª edição, Alencar e Schmitz, Brasport, 2014\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "10:00 - 12:00",
+        "professor": "EBER ASSIS SCHMITZ"
+       },
+       {
+        "dia": "Qui",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MAD243"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ICP532",
+      "Nome": "Mineração de Dados",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Técnicas de Classificação; Técnicas de Agrupamento; Aprendizado por Reforço; Detecção de anomalias; Algoritmos de seleção de atributos; Análise de dados em grafos; Abordagens para análise de grande volume de dados; Sistemas de suporte à decisão (Metodologia CRISP-DM e estágios de mineração de dados); Análise e previsão em textos; Análise de sensibilidade; Agrupamento e recuperação de documentos; Extração da informação.\n___BIBLIOGRAFIA BÁSICA___\n1) WITTEN, I. H., EIBE, F., HALL, M. A. Data Mining: practical machine learning tools and techniques. 3rd ed,  Morgan Kaufmann, 2011.\n2) SILVA, L. A., PERES, S. M., BOSCARIOLI, C. Introdução a Mineração de Dados com aplicações em R. 1ª ed, Elsevier Editora, 2016.\n3) GOLDSCHMIDT, R., BEZERRA, E., PASSOS, E. Data Mining: Conceitos, Técnicas, Algoritmos, Orientações e Aplicações. 2ª ed, Elsevier Editora, 2015.\n4) LIU, B. Web Data Mining: exploring hyperlinks, contents, and usage data. 2nd ed. Springer Verlag, 2011.\n5) LIU, B. Sentiment Analysis: mining opinions, sentiments, and emotions. 2nd ed. - Cambridge University Press, 2020.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "15:00 - 17:00",
+        "professor": "SILAS PEREIRA LIMA FILHO"
+       },
+       {
+        "dia": "Qui",
+        "hora": "15:00 - 17:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "ICP489",
+       "MAD243"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "8º Período": [
+     {
+      "Codigo": "CMTX01",
+      "Nome": "Trab Final em Ativ Extracurric",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "40",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Elaboração de relatório escrito relativo às atividades desenvolvidas em disciplina optativa do Grupo 3. Pode ser susbtituída, a critério da orientação acadêmica, por apresentação em Jornada de Iniciação Científica da UFRJ ou em Congresso de Extensão da UFRJ. Pode ser apresentada em qualquer momento do curso.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "CMTK03",
+      "Nome": "Trabalho de Conclusão Curso",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "50",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Elaboração de um trabalho de pesquisa. O Trabalho de Conclusão de Curso consiste no desenvolvimento e defesa individual e orientada de um documento de cunho científico por parte do aluno, em torno de um tema específico relacionado a uma das áreas das ênfases de Sensoriamento Remoto e Geoprocessamento, Análise de Dados ou Patrimônio Natural, denominado de Monografia, a ser defendido perante uma banca de examinadores.\n",
+       "BibliografiaBasica": "1- Variável em função da atividade realizada.\n2- Artigos de Revistas Científicas. Base Portal CAPES\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "CMT004"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ICP359",
+      "Nome": "Introd ao Suporte à Decisão",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O processo de tomada de decisão - conceitos introdutórios, aspectos humanos e técnicos, visão geral das ferramentas para suporte à decisão. Dados no suporte à decisão: análise de dados, previsão (aprendizado de máquina, estatística, inferência), recomendação, visualização da informação. Condução do processo de tomada de decisão: Técnicas, ferramentas e questões éticas. Aplicações.\n___BIBLIOGRAFIA BÁSICA___\n1) Evans, J. R., Basu,A. Statistics, Data Analysis and Decision Modeling. 5ª Ed. Pearson, 2013.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) Phillips-Wren, G., Ichalkaranje, N. & Jain, L. Intelligent Decision Making: An AI-Based Approach. Springer. 2008.\n2) McKinney, W.: Python Para Análise de Dados; Novatec Editora; 1ª ed, 2018.\n3) Bruce, A., Bruce, P. Estatística Prática Para Cientistas de Dados: 50 Conceitos Essenciais. Alta Books; 1ª edição, 2019.\n4) Russell, S.; Norvig,P.: Inteligência Artificial - GEN LTC; 3ª edição, 2017.\n5) Dumas, M., La Rosa, M., Mendling, J., Reijers, H. A.. Fundamentals of Business Process Management. Springer; 2nd ed, 2018.\n6) Parnell, G. S., Bresnick, T. A., Johnson, E. R. Handbook of Decision Analysis. Wiley; 1ª ed, 2013.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MAD243"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "Disciplinas Optativas (Escolha Restrita)": [
+     {
+      "Codigo": "IGG002",
+      "Nome": "Téc de Levantamento de Campo",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceito, definições e objeto de posicionamento terrestre. Instrumentos topográficos e expeditos, Medições angulares. Medições de distância. Métodos planimétricos de posicionamento terrestre. Métodos expeditos, tradicionais e eletrônicos. Sistemas e posicionamento a satélites: GPS GLONASS e outros. Levantamentos estático, cinemático, Posicionamento de ponto preciso (PPP). Trabalhos de campo de posicionamento plani-altimétrico.\n___BIBLIOGRAFIA BÁSICA___\n1) ROCHA, C. H. B. (2003). GPS de Navegação para Mapeadores, Trilheiros e Navegadores. Ed. do próprio autor.\n2) MONICO, J.F.G, Posicionamento Pelo GNSS: Descrição, Fundamentos e Aplicações, 2ª Edição; Editora da UNESP, Presidente Prudente, 2008.\n3) MCCORMAR, J. Topografia. 5ª edição.\n4) VENTURINI, L. A. B. Geografia ? Práticas de campo, laboratório e sala de aula. Editora Sarandi. 2011.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "IGG131"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGG013",
+      "Nome": "Geografia Ambiental",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Natureza e propósitos da Geografia Ambiental: a \"bipolarização epistemológica\" da Geografia como um desafio constante. Raízes da Geografia Ambiental na história do pensamento geográfico: o ideal da \"ciência-ponte\" e a tradição \"homem-meio\": as críticas à tradição e os impasses surgidos. A Geografia Ambiental no mundo: diferenças e convergências entre as abordagens. A Geografia Ambiental na América Latina e no Brasil: historicidade e peculiaridades. O conceito de \"ambiente\": sua potência analítica e suas relações com os conceitos de \"território\" e \"lugar\". Geografia Ambiental, transversalidade epistêmica intradisciplinar e interdisciplinaridade. Temas e problemas  selecionados: 1) dos hazards aos desastres; 2) sofrimento e vulnerabilidade social; 3) injustiça ambiental; 4) impactos ambientais ou avaliação de equidade ambiental?; 5) Conflitos ambientais no campo e na cidade: exemplos brasileiros e de outros países.\n___BIBLIOGRAFIA BÁSICA ___\n1) CUTTER, Susan (2011): A ciência da vulnerabilidade: Modelos, métodos e indicadores. Revista Crítica de Ciências Sociais, n. 93, p. 59-69.\n2) LEROY, Jean-Pierre et al. (2011): Projeto Avaliação de Equidade Ambiental (Relatório-síntese). Rio de Janeiro: FASE  e IPPUR/UFRJ.\n3) PORTO, Marcelo Firpo (2013): Injustiça ambiental no campo e nas cidades: do agronegócio químico-dependente às zonas de sacrifício urbanas. In: PORTO, Marcelo Firpo et al. (orgs.): Injustiça ambiental e saúde no Brasil: o mapa de conflitos. Rio de Janeiro: FRIOCRUZ.\n4) PORTO-GONÇALVES, Carlos Walter (2013 [2004]): O desafio ambiental. Rio de Janeiro  e São Paulo: Record, 4ª ed.\n5) PORTO-GONÇALVES, Carlos Walter (2014 [1989]): Os (des)caminhos do meio ambiente. São Paulo: Contexto, 15ª ed.\n6) SOUZA, Marcelo Lopes de (2015): Proteção ambiental para quem? A instrumentalização da ecologia contra o direito à moradia. Mercator, 14 (4), p. 25-44.\n7) SOUZA, Marcelo Lopes de (2018): Quando o trunfo se revela um fardo: Reexaminando os percalços de um campo disciplinar que se pretendeu uma ponte entre o conhecimento da natureza e o da sociedade. Geousp - Espaço e Tempo, vol. 22, nº 2, p. 274-308.\n8) SOUZA, Marcelo Lopes de (2019): O que é a Geografia Ambiental? AMBIENTES: Revista de Geografia e Ecologia Política, vol. 1, n. 1, p. 14-37.\n9) SUERTEGARAY, Dirce (2017 [2014]): Geografia e ambiente: Desafios ou novos olhares. In: (Re)ligar a Geografia: Natureza e sociedade. Porto Alegre: Compasso Lugar-Cultura.\n10) TROLL, Carl (1997 [1950]): A paisagem geográfica e sua investigação. Espaço & Cultura, n. 4, p. 1-7.\n11) VALVERDE, Orlando (1989): Grande Carajás: planejamento da destruição. Rio de Janeiro, São Paulo e Brasília: Forense Universitária, EDUSP e Editora UnB.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGG016",
+      "Nome": "Gestão de Riscos Ambientais",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Os conceitos de risco na Geografia e nas Geociências. Ameaça, suscetibilidade, vulnerabilidade, desastre, catástrofe, resiliência, adaptação. Agentes e processos naturais indutores de riscos. Desigualdade, vulnerabilidade social e vulnerabilização na desnaturalização dos riscos ambientais. Metodologias, instrumentos e legislação para a gestão de riscos ambientais. Monitoramento, prevenção e adaptação aos riscos. Mapeamento de áreas de risco. Riscos e mudanças ambientais.\n___BIBLIOGRAFIA BÁSICA___\n1) ALMEIDA, L. Q. Riscos ambientais e vulnerabilidades nas cidades brasileiras: conceitos, metodologias e aplicações. Coleção PROPG Digital (UNESP), 2012. https://repositorio.unesp.br/handle/11449/109207\n2) BECK, U. Sociedade de risco: rumo a uma outra modernidade.  São Paulo: Editora 34, 2011.\n3) KOBIYAMA M.; et al. Prevenção de desastres naturais, conceitos básicos. Curitiba: Ed. Organic Trading, 2006, 109 p.\n4) MARANDOLA Jr., E. Habitar em risco: mobilidade e vulnerabilidade na experiência metropolitana. São Paulo: Blucher, 2014, 250p.\n5) MENDONÇA, F. Riscos climáticos: Vulnerabilidades e resiliência associados. Jundiaí: Paco Editorial, 2014.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGG020",
+      "Nome": "Geodiversidade Geoconservação",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Importância da Geodiversidade e da Geoconservação como um ramo das Ciências da Terra. O papel da Geomorfologia, da Geologia e da Pedologia na análise da Geodiversidade. A Geoconservação e a conservação da natureza: importância dos componentes abióticos. Geodiversidade e Geoconservação como ferramenta para a sustentabilidade e a educação ambiental.\n___BIBLIOGRAFIA BÁSICA___\n1) BORBA, A. W. Geodiversidade e geopatrimônio como bases para estratégias de geoconservação: conceitos, abordagens, métodos de avaliação e aplicabilidade no contexto do estado do Rio Grande do Sul. Pesquisas em Geociências, v. 38, n. 1, p. 3-14, 2011.\n2) BRILHA, J. B. R. Património Geológico e geoconservação: a conservação da natureza na sua vertente geológica. São Paulo: Palimage, 2005.\n3) CPRM. (Companhia de Pesquisa de Recursos Minerais). Geodiversidade. 2006. Disponível em: . Acesso em: 3 jun. 2014.\n4) GUERRA, A.J.T. e JORGE, M.C.O. (Orgs.) Geoturismo, geodiversidade e geoconservação: abordagens geográficas e geológicas. São Paulo: Oficina de Textos, 2018, 227p.\n5) JORGE, M.C.O. e GUERRA, A.J.T. Geodiversidade, Geoturismo e Geoconservação:  Conceitos, Teorias e Métodos. Espaço Aberto, PPGG - UFRJ, v. 6, n.1, p. 151-174, 2016.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGG039",
+      "Nome": "Interpretação de Imagens",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Definição e aplicação. Tipos de fotos. Elementos e metodologia da fotointerpretação. O novo paradigma: a fotografia digital. Sensores remotos aéreos e orbitais. Tipos de imageamento. Pancromático e Composição RGB. Infravermelho. Chaves de reconhecimento. Padrões espaciais. Análise das formas fisiográficas e da rede de drenagem. Distribuição e tipos de vegetação. Estudo da rede viária. Uso da terra. Cadastro urbano. Estudo integrado de uma área.\n___BIBLIOGRAFIA BÁSICA___\n1) ANDERSON, P. Fundamentos de Fotointerpretação - SBC ? Rio. 1982.\n2) JENSEN. J. Sensoriamento Remoto do Ambiente: uma perspectiva em recursos terrestres. ISBN: 97885605070601. Publicado por Sadeckgeo. 2009.\n3) LOCH, C. - Interpretação de Imagens Aéreas - UFSC 1994.\n4) RICCI, M - Princípios de Aerofotogrametria e Interpretação Geológica ? Nacional. 1965.\n5) VERGARA, L. Manual de Fotogeologia ? Blume. 1971.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGG112",
+      "Nome": "Teoria da Geografia",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O que é a ciência. Diferença entre tipos de Saberes. A ciência como atividade. A ciência moderna. Os modelos científicos de explicação e compreensão. As definições da Geografia e seus problemas. Identidade disciplinar e dicotomias. A ordem espacial do mundo, ciência das relações espaciais. Sistemas de informação geográfica. Os conceitos chave da geografia, evolução e questões atuais: espaço, região, território, paisagem, ambiente, lugar.\n___BIBLIOGRAFIA BÁSICA___\n1) CASTRO, I. E.; GOMES, P. C..; CORRÊA, R, L. Geografia: conceitos e temas. Rio de Janeiro: Bertrand Brasil, 1995.\n2) CASTRO, I. E.; GOMES, P. C.; CORRÊA, R, L. Explorações geográficas. Rio de Janeiro: Bertrand Brasil, 1997.\n3) CASTRO, I. E.; GOMES, P. C.; CORRÊA, R, L. Olhares geográficos: modos de ver e viver o espaço. Rio de Janeiro: Bertrand Brasil, 2012.\n4) SANTOS, M. A natureza do espaço; técnica e tempo, razão e emoção. São Paulo: Hucitec, 1996.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "MARCOS PAULO FERREIRA DE GOIS"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGG118",
+      "Nome": "Climatologia Geográfica",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Tempo e Clima. Análise rítmica e abordagem geográfica do clima. Composição e estrutura vertical da atmosfera. Efeito estufa, balanço de radiação e variação espaço-temporal dos elementos. Conforto térmico. Fatores geográficos do clima. Nuvens e ciclo hidrológico. Pressão atmosférica e ventos. Escalas do movimento atmosférico e circulação geral. Massas de ar e frentes. Classificações e zoneamento climático. Clima urbano. Variabilidade e mudanças climáticas: escalas local, regional e global. Trabalho de Campo.\n___BIBLIOGRAFIA BÁSICA___\n1) AYOADE, J. O. Introdução à climatologia para os trópicos. Rio de Janeiro: Bertrand Brasil, 1992.\n2) BARRY, R. e CHORLEY, R. Atmosfera, tempo e clima. Porto Alegre: Bookman, 2013.\n3) MENDONÇA, F. e DANNI-Oliveira, I. M. Climatologia: noções básicas e climas no Brasil. São Paulo: Oficina de Textos, 2007.\n4) STEINKE, E. T. Climatologia fácil. São Paulo: Oficina de Textos, 2016.\n5) ZAVATTINI. J. A. e BOIN, M. N. Climatologia Geográfica: teoria e prática de pesquisa. Campinas: Alínea, 2013.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 12:00",
+        "professor": "RICARDO GONCALVES CESAR"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGG128",
+      "Nome": "Biogeografia",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Interface biologia-geografia. Fundamentos de ecologia. Origem e evolução da vida. Distribuição geográfica das espécies. Biogeografia de vicariância. Biogeografia insular. Regionalização biogeográfica do mundo. História geológica da vida. Biogeografia de ecossistemas de solo. Limnologia e tipologias gerais de ecossistemas marinhos. Fisionomia vegetal e tipologias de sistemas fitoecológicos. Bioinvasão e espécies invasoras. Biomas do mundo e do Brasil. Aulas práticas de laboratório e campo.\n___BIBLIOGRAFIA BÁSICA___\n1) BROWN, J.; LAMOLINO, M. Biogeografia. 2 ed. Ribeirão Preto: FUNPEC, 2006.\n2) CARVALHO, J. B.; ALMEIDA, E. A. B. Biogeografia da América do Sul: Padrões e Processos. São Paulo: Roca, 2011.\n3) COX, C. B.; MOORE, P. T. Biogeografia: uma Abordagem Ecológica e Evolucionária. 7 ed. Rio de Janeiro: LTC Editora, 2009.\n4) TROPPMAIR, H. Biogeografia e Meio Ambiente. 9 ed. Rio de Janeiro: Technical Books, 2012.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGG131",
+      "Nome": "Cartografia Básica",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Definições, histórico e metodologia; Cartografia e Geografia; Divisão da Cartografia. Forma da Terra e representação cartográfica, dimensionalidades, sistemas de coordenadas; Geoide, Elipsoide e superfície topográfica. Escalas em Geografia e Cartografia, comparações e estruturas de determinação e cálculo. Projeções cartográficas, conceitos, distorções e aplicabilidade. Principais projeções. Cartografia sistemática: Sistema Cartográfico Nacional; trabalhos práticos de planimetria e altimetria.\n___BIBLIOGRAFIA BÁSICA___\n1) MENEZES, P. M. L. e FERNANDES, M. C. Roteiro de Cartografia. 1 ed. Oficina de Textos: São Paulo, 2013.\n2) IBGE. Apostila de Noções Básicas de Cartografia. IBGE, 1997.\n3) OLIVEIRA, C. Curso de Cartografia Moderna. 2 ed. IBGE,1993.\n4) OLIVEIRA, C. Dicionário Cartográfico. 4 ed. IBGE, 1993.\n5) MATOS, J. Fundamentos da Informação Geográfica. Lidel: Lisboa, 2008.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 12:00",
+        "professor": "FELIPE GONCALVES AMARAL"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGG252",
+      "Nome": "Geografia Política",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Geografia e espacialidade da política; Política, território, territorialidade; Construção do campo da geografia política. Escalas da Geografia Política e suas transformações. Política, Poder e Poder político. Estado: conceitos, gêneses e desenvolvimento. Estados nacionais no contexto atual. Geografia e Políticas Públicas. Geografia e Democracia. Espaços Políticos. Engenharias político-territoriais, representação e participação. Geografia Eleitoral. Identidade, cultura e política.\n___ BIBLIOGRAFIA BÁSICA ___\n1) ARENDT, H. O que é política. Rio de Janeiro: Bertrand Brasil, 1998.\n2) BOBBIO, N. Dicionário de Política. 5 ed. Brasília: EdUNB, 2004.\n3) CASTRO, I. E. Geografia e Política. Rio de Janeiro: Bertrand Brasil, 2005.\n4) CASTRO, I. E.; RODRIGUES, J. N.; RIBEIRO, R. W. (Org.) Espaços da Democracia: para a agenda da Geografia Política Contemporânea. Rio de Janeiro: Bertrand Brasil, 2013.\n5) COSTA, W. M. Geografia Política e Geopolítica. São Paulo: Hucitec, 1992.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGG255",
+      "Nome": "Geografia Regional do Mundo",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Organização regional do espaço mundial. As dinâmicas da integração regional. Globalização, reestruturação produtiva e desigualdades regionais. Região e desenvolvimento. Ambiente, mudanças ambientais e análise regional. Geopolítica e regiões do mundo.\n___BIBLIOGRAFIA BÁSICA___\n1) CASTELLS, M.; Fim de Milênio. A era da informação: economia, sociedade e cultura. São Paulo: Paz e Terra, 1999.\n2) HAESBAERT, R. Morte e vida da região: paradigmas e novas perspectivas da Geografia Regional, In: SPOSITO, E. (org) Produção do espaço e redefinições regionais. Presidente Prudente: Unesp, FCT, 2005.\n3) GASPEER.  H., R.; Globalização e fragmentação no mundo contemporâneo. EDUFF, Niteroi, 220p., 2013.\n4) TROPPMAIR, H. Biogeografia e Meio Ambiente. 9 ed. Editoria Technical books. 2012.\n5) AYOADE, J.O. Introdução à climatologia para os trópicos. 4 ed. São Paulo: Bertrand Brasil, 1996.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGG264",
+      "Nome": "Geografia Econômica",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Perspectiva geográfica da economia. Abordagens neoclássicas: concentração e dispersão espacial, economias de escala e de aglomeração; padrão Centro-Periferia. Abordagens marxistas: valor, mais-valia e riqueza; circuitos do capital; ajuste espacial; divisões espaciais do trabalho. Novas abordagens: competição/cooperação; regiões que aprendem. Inserção do Estado na economia. Sistema Financeiro Global: sistemas bancários; desregulação, financeirização e novos territórios das finanças.\n___BIBLIOGRAFIA BÁSICA___\n1) ARRIGHI, G.; O Longo Século XX. São Paulo: Unesp, São Paulo, 1996.\n2) BRAUDEL, F.; A dinâmica do capitalismo. Rocco: São Paulo. 1987.\n3) DINIZ, C. C.; LEMOS, M. B. (Org.). Economia e Território. 1. ed. Belo Horizonte: Editora UFMG, 2005.\n4) HARVEY, D.; O enigma do capital: e as crises do capitalismo. São Paulo: Boitempo, 2011.\n5) IGLIORI, D.; Economia dos clusters industriais e desenvolvimento. São Paulo: FAPESP, 2001.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 12:00",
+        "professor": "REBECA STEIMAN"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGG410",
+      "Nome": "Impactos Ambientais",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Dinâmica territorial e impactos ambientais no Brasil; empreendimentos, complexidade tecnológica e abrangência espaço-temporal; procedimentos das avaliações ambientais (EIA/RIMA, EIV e AAE): conceitos e definições básicas; indicadores e previsão de impactos; triagem e definição de escopo; hipóteses de impactos e ferramentas de avaliação; diagnóstico ambiental; previsão e avaliação de impactos; análise de risco; programas ambientais complementares; deficiências dos estudos de impactos.\n___BIBLIOGRAFIA BÁSICA___\n1) ESCOLA SUPERIOR DO MINISTÉRIO PÚBLICO DA UNIÃO - \"Deficiências em estudos de impacto ambiental: síntese de uma experiência\". Relatório. Brasília, DF ? 2004.\n2) FASE e ETTERN/IPPUR/UFRJ - \"Projeto avaliação de equidade ambiental como instrumento de democratização dos procedimentos de avaliação de impacto de projetos de desenvolvimento\". 1a edição. Rio de Janeiro: FASE e ETTERN, 2011.\n3) MULLER-PLANENBERG, C. e AB´SABER, A.N (orgs.) - \"Previsão de Impactos no Leste, Oeste e Sul: experiências no Brasil, na Rússia e na Alemanha\"- 2. ed 2. reimpressão - São Paulo: Editora da Universidade de São Paulo, 2006.\n4) REY, A.E. e GALLO, J.M.AC. - \"Evaluación ambiental y desarollo sostenible\". Madrid: Ediciones Pirámide, 2007.\n5) SÁNCHEZ, l. H. ? \"Avaliação de Impacto Ambiental: conceitos e métodos\". São Paulo, Oficina de Textos, 2a ed. 2013.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGG514",
+      "Nome": "Gestão Ambiental",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Sociedade, ambiente e desenvolvimento; gestão ambiental como fórum/processo de negociação de conflitos; interdisciplinaridade e produção do conhecimento; avaliação ambiental como instrumento de planejamento e licenciamento; dinâmica territorial e questões ambientais sensíveis no Brasil (biodiversidade e espaços protegidos, recursos hídricos, energia e mudanças climáticas, riscos e desastres); políticas, instituições, práticas e regulação ambiental no Brasil;  governança ambiental internacional.\n___BIBLIOGRAFIA BÁSICA___\n1) ACSELRAD, H. (Org.) - 'Conflitos ambientais no Brasil'. Rio de Janeiro: Relume-Dumará; Fundação Heinrich Böll, 2004.\n2) LÉNA, P. e NASCIMENTO, E. P. - 'Enfrentando os limites do crescimento: sustentabilidade, decrescimento e prosperidade' - Rio de Janeiro: Garamond, 2012.\n3) PORTO-GONÇALVES, C. W. 'A globalização da natureza e a natureza da globalização'. Rio de Janeiro: Civilização Brasileira, 2006.\n4) THEODORO, S. H. (org.) - 'Os 30 anos da Política Nacional de Meio Ambiente: conquistas e perspectivas'. Rio de Janeiro: Garamond, 2011.\n5) VEIGA, J. E. 'Desenvolvimento sustentável: o desafio do século XXI'. Rio de Janeiro; Garamond, 2006 2a ed.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGT006",
+      "Nome": "Elem de Oceanografia Física",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução à oceanografia física descritiva. A dimensão dos oceanos, seus formatos e a composição do fundo. Propriedades físicas da água do mar. Distribuições típicas das características das águas. Os balanços de massa, sal e calor e o campo de ventos.\nMétodos de observação. Processos dinâmicos e forçantes da circulação oceânica. Oceano Atlântico. Oceano Pacífico. Oceano Índico. Oceano Ártico e os Mares Nórdicos. Oceano Austral. Circulação termohalina global.\n",
+       "BibliografiaBasica": "1) TALEY, L. D.; PICKARD, G. L.; EMERY, W. J.; SWIFT, J. H. Descriptive Physical Oceanography. An Introduction. Elsevier, 2011, 555 pp. (versão eletrônica disponível através do Periódicos CAPES)\nhttps://www-ciencedirect.ez29.capes.proxy.ufrj.br/book/9780750645522/descriptive-physical-oceanography\n",
+       "BibliografiaComplementar": "1) Open University (2001) Ocean Circulation. Open University Course: Oceanography. The Open University/Pergamon, Oxford, UK. 238 pp.\n2) STEWART, R. H. Introduction to Physical Oceanography. Department of Oceanography, Texas A & M University. 2005, 346 pp. http://oceanworld.tamu.edu/resources/ocng_textbook/contents.html.\n3) TOMCZAK, M.; GODFREY, J. S. Regional oceanography: an introduction. Pergamon Press, London. 1994, 422 pp. http://www.es.flinders.edu.au/~mattom/regoc/pdfversion.html.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "FIT111",
+       "MAC118"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGT110",
+      "Nome": "Introd Ciências Atmosféricas",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução: Apresentação da disciplina. Formas de atuação da Meteorologia. O ensino e a pesquisa em Meteorologia. A Terra e sua atmosfera. A radiação solar e o aquecimento da Terra e da atmosfera. A água na atmosfera. Pressão atmosférica, ventos e circulação geral da atmosfera. Massas de ar e frentes. A previsão do tempo e do clima. Tempestades severas, tornados e furacões. Poluição atmosférica. Mudanças climáticas.\n",
+       "BibliografiaBasica": "1) AHRENS, C.D. Essentials of meteorology. An invitation to the atmosphere. New York, West Publishing, 2007.\n2) WALLACE, J. M.; HOBBS, P. V.  Atmospheric Science. An Introductory Survey. International Geophysics Series. Vol. 92, Elsevier, 2006.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 15:00",
+        "professor": "WANDERSON LUIZ SILVA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 15:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGT230",
+      "Nome": "Sensoriamento Remoto",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "História do Sensoriamento Remoto. Definição de Sensoriamento Remoto e suas implicações. Princípios físicos da radiação eletromagnética, terminologia da energia radiante e Leis fundamentais da radiação. Órbitas. Aquisição de dados.\nCaracterísticas dos sensores imageadores (resolução temporal, resolução espacial e resolução radiométrica). Visão geral dos Satélites de Sensoriamento Remoto.\nPré-processamento de dados: Correção geométrica e Correção radiométrica.\n",
+       "BibliografiaBasica": "1) REES, W. G. Physical principles of remote sensing. Cambridge University Press, UK, 2001.\n2) LILLESAND, T. M.; KIEFER, R. W. Remote sensing and image interpretation. John Wiley & Sons Inc., USA, 1994\n",
+       "BibliografiaComplementar": "1) CRACKNELL, A. E., HAYES, L. Introduction to remote sensing. Taylor & Francis, UK, 1991.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "10:00 - 12:00",
+        "professor": "LEONARDO DE FARIA PERES"
+       },
+       {
+        "dia": "Qui",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGT241",
+      "Nome": "Inic à Pesq Ciênc Atmosféricas",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conhecimento e Ciência. A Produção do Conhecimento: Tipos de Pesquisa. O Método Científico. Projetos de Pesquisa: Etapas (Definição do Problema; Coleta de Dados; Análise dos Dados). Métodos de Análise: Análise Qualitativa e Análise Quantitativa. Técnicas de Comunicação e Utilização de Recursos Audiovisuais.\n",
+       "BibliografiaBasica": "1) BARROS, A. J. S; SOUZA, N. A. Fundamentos de metodologia científica. 3ª ed. São Paulo: Pearson Prentice Hall, 2007. 158p.\n2) CRUZ, C.; RIBEIRO U. Metodologia científica: teoria e prática. Rio de Janeiro: Axcel Books, 2003, 218 p.\n",
+       "BibliografiaComplementar": "1) MARCONI, Marina de Andrade; LAKATOS, Eva Maria. Fundamentos de metodologia científica. São Paulo: Atlas, 2006. 315 p.\n2) SANTOS, Antonio Raimundo dos. Metodologia científica: a construção do conhecimento 5ª ed. Rio de Janeiro: DP&A, 2002.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 15:00",
+        "professor": "RENATA LIBONATI DOS SANTOS"
+       }
+      ],
+      "Requisitos": [
+       "IGT110"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGT603",
+      "Nome": "Poluição do ar",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Histórico da Poluição do Ar.  A Atmosfera. Escalas dos Problemas de Poluição do Ar. Tipologias e características das Fontes de Poluentes Atmosféricos. Impactos da Poluição do Ar. Emissões Atmosféricas. Monitoramento da Qualidade do Ar. Meteorologia da Poluição do Ar. Transporte e Dispersão de Poluentes Atmosféricos. Estruturação e Competências de Órgãos Ambientais. Licenciamento Ambiental. Gestão da Qualidade do Ar. Estudos de Casos.\n",
+       "BibliografiaBasica": "1) FRONDIZI, C. A. Monitoramento da Qualidade do Ar: Teoria e Prática. 1ª edição. Editora e-papers. Rio de Janeiro. 2008. 276p.\n2) VALERO, D. Fundamentals of Air Pollution. 4th. Edition. Academic Press. California. USA. 2008. 942p.\n3) VIEIRA. N. R. Poluição do Ar. 1ª edição. Editora e-papers. Rio de Janeiro. 2009. 220p.\n4) Brasil. Ministério do Meio Ambiente. Guia técnico para o monitoramento e avaliação da qualidade do ar.  Departamento de Qualidade Ambiental e Gestão de Resíduos. Brasília, DF. 2020. 136 p.\nhttps://www.gov.br/mma/pt-br/centrais-de-conteudo/mma-guia-tecnico-qualidade-do-ar-pdf.\n5) SÁNCHEZ-SALINAS, E., ORTIZ-HERNÁNDEZ, M. L. e CASTREJÓN-GODÍNEZ, M. L. CONTAMINACIÓN URBANA DEL AIRE. ASPECTOS FISICOQUÍMICOS, MICROBIOLÓGICOS Y SOCIALES. Universidad Autónoma Del Estado de Morelos. Mexico. 2014. 186p.\nhttps://www.uaem.mx/dgds/files/libros/2014_LIBRO_CONTAMINACI%C3%93N%20URBANA%20DEL%20AIRE.%20ASPECTOS%20FISICOQU%C3%8DMICOS%2C%20MICROBIOL%C3%93GICOS%20Y%20SOCIALES.pdf\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "10:00 - 12:00",
+        "professor": "LUIZ FRANCISCO PIRES GUIMARAES MAIA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGT607",
+      "Nome": "Variabilidade e Mud Climáticas",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "As mudanças climáticas através das eras geológicas. Métodos para investigação dos climas do passado. Causas e consequências das mudanças climáticas. Variabilidade natural do sistema climático. Detecção e projeção das mudanças climáticas.\n",
+       "BibliografiaBasica": "1) BURROUGHS, W. J. Climate Change. A Multidisciplinary Approach. 2 ed. Cambridge: Cambridge University Press, 2012;\n2) FARMER, G. T.; COOK, J. Climate Change Science: A Modern Synthesis. Volume 1 - The Physical Climate. Springer, Dordrecht, 2013. Disponível em:   Acesso em: 25 de abril de 2022.\n",
+       "BibliografiaComplementar": "1) BRADLEY, R. S. Paleoclimatology. Reconstructing Climates of the Quaternary, 2 ed. International Geophysics Series, Volume 64. Academic Press, 1999;\n2) IPCC, 2021: Climate Change 2021: The Physical Science Basis. Contribution of Working Group I to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change [Masson-Delmotte, V., P. Zhai, A. Pirani, S.L. Connors, C. Péan, S. Berger, N. Caud, Y. Chen, L. Goldfarb, M.I. Gomis, M. Huang, K. Leitzell, E. Lonnoy, J.B.R. Matthews, T.K. Maycock, T. Waterfield, O. Yelekçi, R. Yu, and B. Zhou (eds.)]. Cambridge University Press. In Press. Disponível em:  Acesso em: 25 de abril de 2022.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "15:00 - 19:00",
+        "professor": "CLAUDINE PEREIRA DERECZYNSKI"
+       }
+      ],
+      "Requisitos": [
+       "IGT110"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IQF474",
+      "Nome": "Quimica Atmosférica e Poluição",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Interações entre a atmosfera natural e poluída. Fotoquímica da atmosfera. Cinética e mecanismo de reações na atmosfera. Poluição: mecanismo de formação de poluentes e estratégias de controle ambiental. determinação e monitoramento de poluentes legislados e não legislados. Noções sobre simulação da qualidade do ar.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IQG114",
+      "Nome": "Química Geral I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estequiometria. Teoria atômica. Classificação periódica. Ligação química, Composto de coordenação. Química nuclear.\n",
+       "BibliografiaBasica": "1- RUSSEL, John B. 1994. Química Geral. V. 1 e 2. 2ª ed., Makron Books do Brasil editora, São Paulo.\n2- BRADY, J. E., HUMISTON, G. E. 1986. Química geral. volume 1 e 2. 2 ed. LTC, São Paulo.\n3- OHLWEILER, Otto Alcides. 1967. Introdução à Química Geral. ed. Globo, Porto Alegre.\n",
+       "BibliografiaComplementar": "1- KOTZ, J.C.; PURCELL, K.F. Chemistry and chemical Reactivity. 1993. 2 edition, Saunders College Publishing,USA.\n5- BRADY J.E., John Wiley & Sons General Chemistry Principles & Structure. 1990. 5ª ed.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "10:00 - 12:00",
+        "professor": "LUCIDALVA DOS SANTOS PINHEIRO"
+       },
+       {
+        "dia": "Qui",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IQO111",
+      "Nome": "Química Geral Estrutural",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceito de modelo. Modelo e realidade fisica. Simetria: elementos de simetria. Ligacao quimica. Modelos moleculares: dimensoes e angulas. Movimentos das moleculas. Forcas intermoleculares. Estados fisicos. Fases, superficies, mudancas de fase. Fases complexas: micelas, vesiculas e cristais liquidos. Membranas. Macromoleculas naturais e artificiais. Modelos de reacao quimica. Nomenclatura.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NEP110",
+      "Nome": "Fund Direitos Humanos",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Necessidade e possibilidade de uma fundamentação filosófica dos direitos humanos, para a determinação do conteúdo e construção de argumentos racionais na sua implementação. Identificação dos principais desafios para afirmação e a realização dos direitos humanos e apresentação de algumas propostas contemporâneas de Fundamentação Filosófica dos Direitos Humanos.\n",
+       "BibliografiaBasica": "1) BARBALET, J. M. A Cidadania. Lisboa: Editorial Estampa, 1989.\n2) BAUMAN, Zygmunt. Comunidade: a busca da segurança no mundo atual. Rio de Janeiro: Jorge Zahar, 2003.\n3) BECKER, Howard S. Métodos de pesquisa em ciências sociais. São Paulo: Hucitec, 1999.\n",
+       "BibliografiaComplementar": "1) BELLONI I, Magalhães h. / Souza L; Metodologia de avaliação em políticas públicas. São Paulo (Cortez) 2003.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NEP148",
+      "Nome": "Dir Hum, Pens Negro e Racismo",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Pensamento social negro; Teorias raciais; Racismo; Teorias Etnico-raciais; Relações Étnico Raciais; Movimentos sociais negro; Políticas antirracistas e Direitos Humanos.\n___BIBLIOGRAFIA BÁSICA___\n1) FANON, Franz. Os Condenados da terra. Rio de Janeiro, Editora Civilização Brasileira, 1979.\n2) FERNANDES, Florestan. A integração do negro na sociedade de classes: o legado da \"raça branca\" (volume I). São Paulo, Dominus Editora/Editora da Universidade de São Paulo, 1965.\n3) SKIDMORE, Thomaz E. Preto no branco: raça e nacionalidade no pensamento brasileiro. Rio de Janeiro, Paz e Terra, 1976.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "CMT012",
+      "Nome": "Introdução à Programação C/c++",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Ambientes de Programação C++. Introdução à Programação em C++.  Comandos de Controle. Funções e Introdução à Recursão. Vetores. Ponteiros. Classes Parte I. Classes Parte II.  Sobreposição de Operadores.  Programação Orientada a Objetos.  Polimorfismo.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MAB121"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FIN242",
+      "Nome": "Física Moderna I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Experiências chaves para  mudança de paradigma da Mecânica Clássica para a Mecânica Quântica: Efeito foto-elétrico, Efeito Compton, Duallidade onda-partícula. O princípio da incerteza. Modelos atômicos. Equação de Schroedinger  e o átomo de hidrogênio. Introdução à Física Nuclear. Introdução à Física de partículas elementares. Introdução à Astrofísica. Os tópicos mais avançados podem ser ministrados através de seminários dados por professores convidados.\n___BIBLIOGRAFIA BÁSICA___\n1- Quantum Physics of Atoms, Molecules, Solids, Nuclei and Particles\n2- R. Eisberg and R. Resnick- Wiley and Sons, ed.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "FIM230"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FIT122",
+      "Nome": "Física II - a",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Oscilações: oscilações amortecidas e forçadas. Ondas. Som. Fluidos. Temperatura. Calor - primeira Lei da Termodinâmica. Propriedades dos gases. Segunda Lei da Termodinâmica. Teoria cinética dos gases. Transferência de calor e de massa.\n",
+       "BibliografiaBasica": "1) Física, volume 1. Mecânica, Oscilações e Ondas (5ª edição). Paul A. Tipler e Gene Mosca. LTC Editora S.A.\n2) Curso de Física Básica , volume 1. Mecânica, Oscilações e Ondas. H. Moysés Nussenzveig - Editora Edgard Blücher Ltda.\n3) Fundamentos de Física (4ª edição). D. Halliday. R. Resnick e J. Walker - John Wiley & Sons, Inc.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "15:00 - 17:00",
+        "professor": "TOMOI KOIDE"
+       },
+       {
+        "dia": "Sex",
+        "hora": "15:00 - 17:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "FIT112",
+       "MAC118"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ICP102",
+      "Nome": "Tecn para Grandes Vol de Dados",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Armazenamento de grandes volumes de dados; Modelos de programação para grandes volumes de dados; Plataformas para análise de grandes volumes de dados; Computação em nuvem; Internet das coisas; Organização e curagem de grandes volumes de dados; Streaming de dados; Integração semântica de dados; Big Social Data - Extraindo conhecimento de interações sociais; Grandes volumes de dados e redes complexas; Aprendizagem de dados em redes complexas.\n___BIBLIOGRAFIA BÁSICA___\n1) ZOMAYA, Albert Y.; SAKR, Sherif (Ed.). Handbook of big data technologies. Springer. 2017.\n2) Silva, Thiago Christiano, and Liang Zhao. Machine learning in complex networks. Vol. 1. Springer International Publishing, 2016.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "10:00 - 12:00",
+        "professor": "VIVIAN DOS SANTOS SILVA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "ICP489"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ICP132",
+      "Nome": "Processos de Software",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceitos de organização, sistema e sistema de informação; Processos de Negócio (Modelagem de Processos (BPMN)); Introdução a Engenharia de Software (Conceito de Partes Interessadas, Valor e Qualidade de Software); Processo de Software (Requisitos, Modelagem, Projeto de software, Implementação, Testes, Manutenção); Conceitos de no-code programming.\n___BIBLIOGRAFIA BÁSICA___\n1) Engineering Software Products. Ian Sommerville - Pearson, 2019;\n2) Software Engineering, 10th Ed. Ian Sommerville - Pearson 2015 (versão em português: SOMMERVILLE, Engenharia de Software, Addison Wesley, 2003);\n3) Engenharia de Software Moderna. Marco Tulio Valente. LeanPub, 2020.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ICP141",
+      "Nome": "Programação de Computadores II",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Pesquisa sequencial e pesquisa binária; Ordenação por inserção e por seleção; Ponteiros e alocação dinâmica de memória;  Estruturas de dados lineares: listas, pilhas e filas; Persistência de dados com arquivos; Noções de complexidade de algoritmos.\n",
+       "BibliografiaBasica": "1) W. Celes, R. Cerqueira, J. Rangel, Introdução a estruturas de dados: com técnicas de programação em C, Elsevier Brasil, 2017.\n2) Flávio Varejão, Introdução à programação: uma nova abordagem usando C, Campus/Elsevier, 2015.\n3) Estruturas de dados e seus algoritmos, J. Szwarcfiter e L. Markenzon. LTC, 3ª ed, 2010.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ICP131"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ICP144",
+      "Nome": "Matemática Discreta",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Contagem: Revisão sobre permutações, combinações e arranjos. Princípio de inclusão e exclusão. Números binomiais. Triângulo de Pascal. Números de Fibonacci e recorrências lineares de segunda ordem. Grafos: definição; grau de um vértice; caminhos, ciclos e conectividade; caminhos de Euler e ciclos hamiltonianos; árvores; contagem de árvores; grafos bipartidos e aplicações; grafos planares e a fórmula de Euler; coloração de mapas e grafos; teorema das cinco cores.\n___BIBLIOGRAFIA BÁSICA___\n1) L. Lovász, J. Pelikán e K. Veszterbombi, Matemática discreta, SBM (2013).\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) E. Lehman, F. T. Leighton e A. R. Meyer, Mathematics for Computer Science, pdf disponível em https://courses.csail.mit.edu/6.042/spring18/mcs.pdf\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ICP134"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ICP241",
+      "Nome": "Computação II",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Projeto e construção de programas usando modelagem orientada a objetos. Tratamento de exceções. Construção de código organizado e reutilizável. Boas práticas de programação. Construção de interfaces de interação gráfica com o usuário. Persistência de dados. Uso de pacotes científicos, matemáticos e outros na resolução de problemas do campo da engenharia ou outras áreas.\n",
+       "BibliografiaBasica": "1− Material de referência para ensino de Python do Instituto de computação.\n2− Orientação a Objetos: Aprenda seus conceitos e suas aplicabilidades de forma efetiva,: Carvalho, Thiago Leite (4a edição), 2021.\n3− MENEZES, N. N. C. Introdução à Programação com Python: Algoritmos e lógica de programação para iniciantes. Editora Novatec, 4a ed., 2024.\n4− RAMALHO, L. Python Fluente: Programação Clara, Concisa e Eficaz, Editora Novatec, 2015.\n5− Aprendendo Python, Mark Lutz, David Ascher, Bookman Companhia Ed., 2007.\n6− Learning Python: Powerful Object-Oriented Programming (English Edition), Mark Lutz, 2013\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 10:00",
+        "professor": "VINICIUS GUSMAO PEREIRA DE SA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 10:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "ICP121"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ICP248",
+      "Nome": "Comput Científ e Análise Dados",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Sistemas lineares: Modelagem de sistemas lineares, Métodos diretos: Fatoração LU e QR., Métodos iterativos:  Gauss-Jacobi; Gauss-Seidel. Ajuste de curvas: Modelagem; Método dos Mínimos quadrados; Curvas Spline. SVD e autovalores: Modelagem: Sistema lineares dinâmicos; Métodos iterativos: Método da potência; Algoritmo QR.; Aplicações: Redução de dimensão; Pseudoinversa.  Sistemas não lineares: Modelagem de sistemas não lineares; Método de Newton; Método do gradiente descendente.\n___BIBLIOGRAFIA BÁSICA___\n1) R. L. Burden e J. D. Faires, Análise numérica, Cengage Learning (2008).\n2) Mark H. Holmes, Introduction to scientific computing and data analysis. Springer (2016).\n3) Steven C. Chapra, Métodos Numéricos Aplicados com MATLAB para Engenheiros e Cientistas. Ed. AMGH, 3ª ed, 2013.\n4) L. N. Trefethen, D. Bau, Numerical Linear Algebra, SIAM (1997).\n5) Solomon, Justin. Numerical algorithms: methods for computer vision, machine learning, and graphics. CRC press (2015).\n6) Boyd, Stephen, and Lieven Vandenberghe. Introduction to applied linear algebra: vectors, matrices, and least squares. Cambridge university press, 2018.\n7) S. C. Coutinho, Notas de aula em Cálculo Numérico (2020).  https://dcc.ufrj.br/~collier/CursosGrad/calcnum/calcnum.pdf\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ICP115",
+       "ICP238",
+       "MAE992"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ICP363",
+      "Nome": "Introd Aprendizado de Máquina",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Contextualizando o aprendizado de máquina (história e paradigmas); Questões éticas; Tipos de aprendizado de máquina: supervisionado, não supervisionado, por reforço; Métricas de avaliação; Tipos de problemas; Métodos de aprendizado: classificação (árvore de decisão, regressão linear, regressão logística, classificador Bayesiano, redes neurais, SVM), agrupamento (K-means, classificação hierárquico), associação (algoritmos a priori); Aprendizado por reforço; Programação em lógica indutiva.\n___BIBLIOGRAFIA BÁSICA___\n1) Russell, S.; Norvig,P.: Inteligência Artificial - GEN LTC; 3ª edição (2017).\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) Géron, A. Mãos à obra: aprendizado de máquina com Scikit-Learn & TensorFlow; Alta Books; 1ª ed, 2019.\n2) McKinney, W. Python Para Análise de Dados; Novatec Editora; 1ª ed, 2018.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ICP248",
+       "MAD243"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ICP605",
+      "Nome": "Recuperação de Informação",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução à Recuperação de Informação; Operações de pré-processamento (sobre documentos e consultas); Modelos clássicos de Recuperação de Informação (Booleano, Vetorial e Probabilístico); Avaliação em Recuperação de Informação; Recuperação de Informação na Web; Sistemas de Recomendação; Tendências em Recuperação de Informação.\n___BIBLIOGRAFIA BÁSICA___\n1) Baeza-Yates, R.; Ribeiro-Neto, B. Recuperação de Informação: Conceitos e Tecnologia das Máquinas de Busca. 2ª ed. Bookman, 2013.\n2) Baeza-Yates, R.; Ribeiro-Neto, B. Modern Information Retrieval. Wokingham, UK: Addison-Wesley, 2ª ed, 2011.\n3) Manning, C. D.; Raghavan, P.; Schütze, H. Introduction to Information Retrieval. Cambridge University Press, 2008. Online edition 2009: http://nlp.stanford.edu/IR-book/\n4) Jannach, D.; Zanker, M.; Felfernig, A.; Friedrich, G. Recommender Systems: An Introduction. 1ª ed. Cambridge University Press, 2010.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ICP116"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAA114",
+      "Nome": "Álgebra I",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Algoritmo da divisão e máximo divisor comum; Números primos e fatoração de interiores; Relações de equivalência; Aritmética modular; Teorema chinês dos restos; Indução finita; Teorema de Fermat; Grupos, Subgrupos e teorema de Lagrange; Teorema de Euler; Testes de primalidade e pseudoprimalidade; Números de Carmichael, Marsenne e  Fermat.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAA240",
+      "Nome": "Análise I",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Construção dos números reais; Sequências e séries numéricas; Topologia da reta; Limite e continuidade; Derivadas; Integral de Riemann.\n",
+       "BibliografiaBasica": "1) FIGUEIREDO, Djairo Guedes de. Análise da reta. Rio de Janeiro: IMPA, s1973.\n2) LIMA, Elon Lages. Curso de análise. Volume 1. Rio de Janeiro: IMPA, 2011.\n3) RUDIN, Walter. Principles of mathematical analysis. New York: Mcgraw-Hill Book, c1964.\n",
+       "BibliografiaComplementar": "1)BARTLE, Robert Gardner; SHERBERT, Donald R. Introduction to real analysis. New Jersey: J. Wiley & Sons, c2011.\n2) NEVES, Wladimir Augusto das. Uma introdução à análise real. Rio de Janeiro: UFRJ/IM, 2007.\n3) TAO, Terence. Analysis I. New Delhi, India :Hindustan Book Agency, 2006.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MAA116",
+       "MAC118"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAD114",
+      "Nome": "Análise Exploratória de Dados",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Analise de dados univariados, comparacao de duas ou mais amostras univariadas, analise de dados bivariados, suavizacao, analise de tabelas de dupla entrada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 10:00",
+        "professor": "LEANDRO PINTO RODRIGUES PIMENTEL"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 10:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAD357",
+      "Nome": "Análise de Regressão",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Regressão linear simples. Análise de ajuste. Estudo dos resíduos. Regressão múltipla. Correlação múltipla. Violações de hipóteses básicas. Transformações de variáveis. Seleção de modelos por encolhimento (Lasso e Ridge) e métodos de estimação para grandes bases de dados. Tratamento, por meio de exemplos, de questões relacionadas ao meio ambiente e de questões étnico-raciais.\n",
+       "BibliografiaBasica": "1- A. Agresti. Foundations of linear and generalized linear models. 2015, Wiley.\n2- A. Dobson, A. G. Barnett. An introduction to generalized linear models 3.ed. Boca Raton : CRC Press, 2008\n3- T. Hastie, R. Tibshirani and J. Friedman. The Elements of Statistical Learning: Data Mining, Inference, and Prediction, second edition, Springer.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MAD351",
+       "MAE125"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAE115",
+      "Nome": "Cálculo Vetorial e G Analítica",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Vetores no plano e no espaço. Produto escalar e vetorial. Aplicações a geometria do plano e do espaço. Cônicas e quádricas. Construção das cônicas: traçado de tangentes.\n",
+       "BibliografiaBasica": "1- ANTON, H.A. & RORRES, C. Álgebra Linear com Aplicações. 8ª edição. Porto\nAlegre: Bookman, 2001.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAW243",
+      "Nome": "Probabilidade e Estatistica",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Noções de probabilidade. Teorema de Bayes. Estatística descritiva. Fontes de dados estatísticos. Estimação de parâmetros por pontos e intervalos. Teste de hipótese, comparação com vários modelos normais. Teste de independência e homogeneidade. Testes e estimação não paramétricas. Regressão. Correlação.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "CMT004",
+      "Nome": "Oficina Trab Pesquisa II",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Atividades de iniciação científica.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sab",
+        "hora": "11:00 - 13:00",
+        "professor": "JOSE RICARDO DE ALMEIDA FRANCA"
+       }
+      ],
+      "Requisitos": [
+       "CMT003"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "CMT009",
+      "Nome": "Oficina Trab Ensino I",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Atividades de monitoria junto a cursos de graduação.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "18:00 - 20:00",
+        "professor": "JOSE RICARDO DE ALMEIDA FRANCA"
+       },
+       {
+        "dia": "Ter",
+        "hora": "18:00 - 20:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "CMT011",
+      "Nome": "Oficina Trab Ensino III",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Atividades de monitoria junto a cursos de graduação.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sab",
+        "hora": "08:00 - 10:00",
+        "professor": "JOSE RICARDO DE ALMEIDA FRANCA"
+       },
+       {
+        "dia": "Sab",
+        "hora": "08:00 - 10:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "CMT010"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BMW114",
+      "Nome": "Origem da Vida",
+      "Créditos": "1.0",
+      "Teórica": "15",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Definição dos maiores e menores números com significado. Bases experiementais sobre origem do universo e do sistema solar. composição química da terra. Modelos sobre atmosfera primitiva. Medidas da idade da terra. O vitalismo e as reações pré-bióticas. Sintese de polímeros. Tipos de compartimentos. Virus e microorganismo. Gradientes de complexidades, homeostase e caos. Importância dos ecossistemas na evolução. Correntes modernas sobre o evolucionismo. O meio ambiente e difusão de cultura. Herança de comportamento. Criacionismo e Evolucionismo: aspectos filosóficos e principais hipóteses. Modelos de evolução pré-biótica: polimerização de moléculas auto-replicantes. O protobionte; formação de células. Modelos evolutivos para os organismo multicelulares. A questão da adaptação.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGG006",
+      "Nome": "Geoinformação",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Informação geoespacial: ontologia e objeto. Evolução histórico-crítica da Geoinformação. Georreferenciamento. GIS Science e Geoprocessamento. A corrente Geoinformacional. Natureza do dado espacial. Tecnologias associadas. Observação e métodos de aquisição. Fontes de dados. Métodos de pesquisa apoiados na exploração de dados, representação e análise espacial. Estudos de caso em Geografia.\n___BIBLIOGRAFIA BÁSICA___\n1) ALMEIDA, Claudia Maria. Geoinformação em Urbanismo: Cidade real & amp; Cidade virtual. Oficina de textos.\n2) CÂMARA, Gilberto; DAVIS, Clodoveu; MONTEIRO, Antonio M. V. Introdução à Ciência da Geoinformação. INPE. São José dos Campos: SP, 2001.\n3) LONGLEY, P. A.; GOODCHILD, M. F.; MAGUIRE, D. J.; RHIND, D. W. Sistemas e Ciência da Informação Geográfica. Porto Alegre. Bookman. 2013.\n4) RODRIGUEZ, José M. Mateo. Teoría y Metodología de la Geografía. Editorial Universitária Felix Varela, La Habana, Cuba. 2015.\n5) XAVIER DA SILVA, J.; ZAIDAN, R. T. Geoprocessamento e Meio Ambiente. Rio de Janeiro, Bertrand Brasil, 2011.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 15:00",
+        "professor": "CARLA BERNADETE MADUREIRA CRUZ"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGG015",
+      "Nome": "Política e Meio Ambiente",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Trajetória das concepções de natureza, meio e ambiente. Introdução às principais abordagens políticas do meio ambiente: geopolítica da natureza, ecologia política, geografia histórica do ambiente, geografias híbridas, governança ambiental, justiça ambiental. Serão abordados temas como: mudanças globais, população e recursos territoriais; paisagem, conservação, riscos, desastres e habitat.\n___BIBLIOGRAFIA BÁSICA___\n1) ALMEIDA, A. W. B. et al.; Capitalismo globalizado e recursos territoriais: fronteiras da acumulação no Brasil contemporâneo. Rio de Janeiro: Lamparina, 2010.\n2) BERDOULAY, V.; A Escola Francesa de Geografia: uma abordagem conceitual. São Paulo: Perspectiva, 280p., 2017.\n3) DIAS, L.; SANTOS, G.; Região, Território e meio ambiente: uma história de definições e redefinições de escalas espaciais. Revista Brasileira de Estudos Urbanos. 5 (2), p. 45-56, 2003.\n4) DESCOLA, P.; Outras naturezas, outras culturas.  São Paulo: Editora 34, 2016, 64p.\n5) LATOUR, Bruno. Políticas da natureza. Como fazer ciência na democracia. Bauru, SP: EdUSC, 411p, 2004.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGG018",
+      "Nome": "Teoria e Clima Urbano",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A cidade e o urbano em Climatologia. Teoria geossistêmica e produção do espaço geográfico. Sistema Clima Urbano. Qualidade do ar, definições e procedimentos. Poluição atmosférica e saúde humana. Ilhas de calor: conceitos e definições. Modelagem intraurbana de ilhas de calor. Conforto térmico e saúde. As chuvas na cidade. A disciplina inclui trabalhos práticos em gabinete, laboratório e trabalho de campo.\n___BIBLIOGRAFIA BÁSICA___\n1) GARTLAND, L. Ilhas de calor: como mitigar zonas de calor em áreas urbanas. São Paulo: Oficina de Textos, 2011.\n2) LOMBARDO, M. A. Ilhas de calor na metrópole: o exemplo de São Paulo. São Paulo: Hucitec, 1985.\n3) MONTEIRO, C. A. F. e MENDONÇA, F. Clima urbano. São Paulo: Contexto, 2003.\n4) SILVA, C. A.; FIALHO, E. S. e STEINKE, E. Experimentos em Climatologia Geográfica. Dourados: Editora da UFGD, 2014.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGG031",
+      "Nome": "Rec Naturais e Gest Território",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Diferentes abordagens sobre recursos naturais.  Ênfase na realidade brasileira e sul americana, estoques, recursos, reservas e matéria-prima: definição, características principais e evolução. Globalização e debate teórico em torno dos recursos naturais. Regulação de recursos naturais e energéticos. Distribuição geográfica e comércio internacional. Cadeias extrativas e desenvolvimento. Conservação e proteção como estratégia. Segurança hídrica, energética e alimentar.\n___BIBLIOGRAFIA BÁSICA___\n1) COELHO, M C N et al (2010) Questão Energética na Amazônia: disputa em torno de um novo padrão de desenvolvimento econômico e social Novos Cadernos NAEA 13 (2):83-102.\n2) MONIÉ, F e BINSZTOK, J (2012) Geografia e Geopolítica do Petróleo. Rio de Janeiro: Mauad/ FAPERJ, 368 p.\n3) PIRES DO RIO, G A (2011) Escalas de política energética: o programa nacional de biodiesel In: BERNARDES, J A e ARACRI, L A S Novas Fronteiras do Biodiesel na Amazônia: limites e desafios da incorporação da pequena produção agrícola. Arquimedes Edições.\n4) STEIMAN, R (2011) Áreas Protegidas em Zonas de Fronteira, Para Onde!?, 5 (Especial): 101-121, ago./dez. 2011 E-ISSN: 1982-0003 Instituto de Geociências. Programa de Pós- Graduação em Geografia. Universidade Federal do Rio Grande do Sul. Porto Alegre, RS, Brasil.\n5) WANDERLEY, L J (2015 b) Geografia da Mineração de Ouro no Mundo da Globalização Financeira Rev. Tamoios, São Gonçalo (RJ), ano 11, n. 2, págs. 21-48, jul/dez.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGG040",
+      "Nome": "Astrogeografia",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Interface Geografia/Astronomia. Introdução à cosmologia. Fundamentos de astrobiologia. Introdução à meteorítica. Sistema solar: aspectos básicos da geologia, geomorfologia, climatologia, hidrologia e astrobiologia de sistemas planetários e lunares. Atividade solar. Movimentos da Terra, marés e ciclos orbitais. Orientação espaço-temporal pelo céu noturno. Interface Geografia/Astronomia Indígena/Geomitologia: o céu dos povos tradicionais. A astronomia na geografia escolar.\n___BIBLIOGRAFIA BÁSICA___\n1) Galdino, Luiz. A astronomia indígena. São Paulo: Editora Nova Alexandria, 2011.\n2) Galante, D.; Silva, E.; Rodrigues, F.; Horvath, J. E.; Avellar, M. G. B. 2016. Astrobiologia: uma ciência emergente. Núcleo de Pesquisa em Astrobiologia, São Paulo. Tikinet Edição: IAG/USP.\n3) Oliveira, H. M. 2020. Meteoritos: introdução à meteorítica e uma visão geral dos meteoritos brasileiros. Higor Martins Oliveira. 3ed., 114 p.\n4) Sobreira, P. H. Z. 2005. Cosmografia geográfica: a astronomia no ensino de geografia. Tese de Doutorado (Geografia), Universidade de São Paulo (USP).\n5) Vieira, F. Identificação do céu. 2002. Fundação Planetário do Rio de Janeiro, 3ed., 117p.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGG116",
+      "Nome": "Práticas em Cartografia",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Práticas de representação cartográfica, focando em sistemas de coordenadas; escalas e projeções cartográficas.\n___BIBLIOGRAFIA BÁSICA___\n1) MENEZES, P. M. L. e FERNANDES, M. C. Roteiro de Cartografia. 1 ed. Oficina de Textos: São Paulo, 2013.\n2) IBGE. Apostila de Noções Básicas de Cartografia. IBGE, 1997.\n3) OLIVEIRA, C. Curso de Cartografia Moderna. 2 ed. IBGE,1993.\n4) OLIVEIRA, C. Dicionário Cartográfico. 4 ed. IBGE, 1993.\n5) MATOS, J. Fundamentos da Informação Geográfica. Lidel: Lisboa, 2008.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:30 - 15:30",
+        "professor": "FELIPE GONCALVES AMARAL"
+       }
+      ],
+      "Requisitos": [
+       "IGG131(C)IGG131=IGG125IGG131=IGG251"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGG126",
+      "Nome": "Métodos em Geografia",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Método e a construção do conhecimento científico. Elementos básicos da análise geográfica: localização, situação, extensão e conexão. Descrição e imaginação geográfica. Observação e morfologia. Classificação, diferenciação de áreas e regionalização. O trabalho de campo em Geografia. Sistemas, estruturas e organização espacial. Dialética socioespacial. Padrões e modelos em Geografia. Representação, percepção e experiência do espaço. O problema da escala. A dimensão temporal na análise geográfica.\n___BIBLIOGRAFIA BÁSICA___\n1) CHRISTOFOLETTI, A. (org.). Perspectivas da geografia. São Paulo: Difel, 1982.\n2) CORRÊA, R. L. Trajetórias geográficas. 3 ed. Rio de Janeiro: Bertrand Brasil, 2005.\n3) GOMES, P. C. O Lugar do olhar: elementos para uma geografia da visibilidade. Rio de Janeiro: Bertrand Brasil, 2013.\n4) SANTOS, M. Espaço e Método. 5 ed. São Paulo: EdUSP, 2014.\n5) SOUZA, M. L. Os conceitos fundamentais da pesquisa sócio-espacial. Rio de Janeiro: Bertrand Brasil, 2013.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGG130",
+      "Nome": "Geografia da População",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "As bases teóricas e conceituais da Geografia da População. Os métodos, fontes e técnicas utilizados nos estudos populacionais. A relação entre as variáveis populacionais e a organização do território. A dinâmica populacional em diferentes escalas espaciais no mundo contemporâneo. Temas emergentes: população e recursos; mudanças climáticas e migrações; migrantes para o trabalho; deslocamento forçado e o refúgio no espaço internacional. A relação entre técnica, ciência e a população.\n___BIBLIOGRAFIA BÁSICA___\n1) DUPÂQUIER, J. A População mundial no século XX.  Lisboa, Instituto Piaget, 1999.\n2) GARNIER, B. J. Geografia da População. São Paulo: Ed. Nacional, 1971.\n3) NOVAES, J. R.; ALVES, F. (Orgs). Migrantes: Trabalho e trabalhadores no complexo agroindustrial canavieiro. SP: EDUFSCAR, 2008.\n4) SANTOS, M. Metamorfoses do Espaço Habitado. SP: Hucitec, 1988.\n5) SORRE, M. Geografia. Migrações e mobilidade no ecúmeno. In: Megale, J. (Org.). SORRE, M. Coleção grandes cientistas sociais. SP: Ed. Ática, 1984.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 12:00",
+        "professor": "GISLENE APARECIDA DOS SANTOS"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGG238",
+      "Nome": "Pedologia",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Evolução da Pedologia e do conceito de solo ao longo do tempo. Intemperismo e mineralogia do solo. Horizontes e perfil de solo. Fatores de formação de solos. Propriedades físicas e químicas do solo. Processos Pedogenéticos. Levantamento e Classificação dos Solos. O Sistema Brasileiro de Classificação dos Solos. Dinâmica da água no solo. Degradação e Conservação dos Solos. Fundamentos de Pedogeomorfologia. Aulas práticas em laboratório e no campo.\n___ BIBLIOGRAFIA BÁSICA ___\n1) BRADY, N.C.; WEIL, R.R. Elementos da Natureza e Propriedades dos Solos. 3 ed. Porto Alegre: Bookman, 2013.\n2) EMBRAPA, Sistema Brasileiro de Classificação de Solos; Brasília: Serv. Produção de Informação - SPI, 2006.\n3) LEPSCH, I.F. Lições de Pedologia. São Paulo: Oficina de Textos, 2011.\n4) OLIVEIRA, J.B. Pedologia Aplicada. 5 ed. Piracicaba: FEALQ, 2011.\n5) SANTOS, R. D. et al. Manual de Descrição e Coleta de Solo no Campo. Viçosa: Sociedade Brasileira de Ciência do Solo, 2015.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGG253",
+      "Nome": "Geomorfologia Geral",
+      "Créditos": "6.0",
+      "Teórica": "60",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceitos e teorias. Abordagem morfoestrutural: processos endógenos e formas associadas a magmatismo, dobras, falhas e bacias sedimentares. Abordagens morfológica e funcional: processos e formas intempéricos, erosivos e deposicionais. Ambientes de encosta, fluvial, cársticos, glaciais, periglaciais, eólicos, costeiro e marinho. Bacia de drenagem. Aplicações da Geomorfologia: questões ambientais, planejamento, desastres e riscos. A disciplina inclui aulas práticas de laboratório e campo.\n___BIBLIOGRAFIA BÁSICA___\n1) CUNHA, S.B.; GUERRA, A. J. T. Geomorfologia. Exercícios, Técnicas e Aplicações. Rio de Janeiro: Bertrand, 1996.\n2) FLORENZANO, T. G. Geomorfologia: Conceitos e Tecnologias Atuais. São Paulo: Oficina de Textos, 2008.\n3) GUERRA, A. J. T.; CUNHA, S.B. Geomorfologia. Uma atualização de bases e conceitos. 2 ed. Rio de Janeiro: Bertrand, 1994.\n4) GUERRA, A. J. T.; CUNHA, S.B. Geomorfologia e Meio Ambiente. Rio de Janeiro: Bertrand, 1995.\n5) Manual Técnico de Geomorfologia/IBGE. 2 ed. Rio de Janeiro: IBGE, 2009.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "07:30 - 12:50",
+        "professor": "MONICA DOS SANTOS MARCAL"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGG256",
+      "Nome": "Geoprocessamento",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceito e evolução. Geoinformação e geotecnologias. Estrutura e representação espacial de dados (dados gráficos e não gráficos). Modelagem de dados. Organização de uma base georreferenciada (formatos, entrada de dados, conversão entre formatos e ajustes de dados). Consultas por atributos e espaciais. Técnicas de análise espacial. Aplicações em Geografia.\n___BIBLIOGRAFIA BÁSICA___\n1) CÂMARA, G.; CASANOVA, M. A.; HEMERLY, A. S.; MAGALHÃES, G. C.; MEDEIROS, C. M. B. Anatomia de Sistemas de Informações Geográficas. Campinas: Instituto de Computação / UNICAMP, 1996.\n2) CÂMARA, G.; DAVIS, C.; MONTEIRO, A. M.V. Introdução à Ciência da Geoinformação. São José dos Campos: INPE, 2001.\n3) LONGLEY, P.A.; GOODCHILD, M. F.; MAGUIRE, D. J.; RHIND, D. W. Sistemas e Ciência da Informação Geográfica. Porto Alegre. Bookman, 2013.\n4) MINISTÉRIO DA SAÚDE. Série Capacitação e Atualização em Geoprocessamento em Saúde. Volumes 1 e 2. FIOCRUZ. 2007.\n5) XAVIER DA SILVA, J.; ZAIDAN, R.T. Geoprocessamento e Meio Ambiente. Rio de Janeiro: Bertrand Brasil, 2011.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 17:00",
+        "professor": "ELIZABETH MARIA FEITOSA DA ROCHA DE SOUZA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGG352",
+      "Nome": "Geografia Marinha e Costeira",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudos marinhos e costeiros no âmbito da Geografia e áreas afins. Bacias oceânicas e macro relevo submarino. Circulação oceânica, ondas e marés. Geomorfologia submarina. Relação oceano-atmosfera. Processos na interface fluvio-marinha. Vida marinha. Recursos naturais costeiros e marinhos. Direitos do mar e gestão costeira. Ocupação e usos na zona costeira. Vulnerabilidade e riscos associados. Mudanças climáticas globais atuais e consequências. Inclui trabalho de campo.\n___ BIBLIOGRAFIA BÁSICA ___\n1- MUEHE, D.  O litoral brasileiro e sua compartimentação. In: CUNHA, S.B. & GUERRA, A.J.T. (Orgs.) Geomorfologia do Brasil. Rio de Janeiro: Bertrand Brasil, 1998, p.273-349.\n2- NEVES, C. e MUEHE, D.   Vulnerabilidade Impactos e Adaptações às Mudanças do Clima: a Zona Costeira. Parcerias Estratégicas. Brasília. Centro de Gestão e Estudos Estratégicos (CGEE), n. 27, 2008.\n3- NETO, J.A.B.; PONZI, V.R.A.; SICCHEL, S.E. Introdução a Geologia Marinha. Rio de Janeiro:  Interciência, 2004.\n4- TESSLER, M. G.; MAHIQUES, M. M. Processos oceânicos e a fisiografia dos fundos marinhos. In: TEIXEIRA, W.; TOLEDO, M. C. M.; FAIRCHILD, T. R.; TAIOLI, F. (Orgs.). DECIFRANDO A TERRA.  São Paulo: Oficina de Textos, 2003, p. 261-284.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGG474",
+      "Nome": "Sensoriamento Remoto",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Sensoriamento Remoto e níveis de aquisição. Tipos de sensores. Princípios físicos. Espectro eletromagnético. Bandas espectrais. Imagem digital. Resoluções. Leitura de imagens. Comportamento espectral de alvos. Processamento Digital de Imagens (PDI): contraste; composições coloridas; georreferenciamento; classificação digital. Índices espectrais. Associação com indicadores ambientais e socioeconômicos. Prática em laboratório. Trabalho de campo.\n___ BIBLIOGRAFIA BÁSICA ___\n1- JENSEN. J. Sensoriamento Remoto do Ambiente: uma perspectiva em recursos terrestres. Publicado por Sadeckgeo. 2009.\n2- MOREIRA, M. Fundamentos do Sensoriamento Remoto e Metodologias de Aplicações. 1ª. Edição. INPE. São José dos Campos, São Paulo, 2001.\n3- PONZONI, F. J.; SHIMABUKURU, Y. E. Sensoriamento Remoto no Estudo da Vegetação. Editora Oficina de Textos. 2012.\n4- MENESES, P.R.; MADEIRA N. J.S. Sensoriamento Remoto: Reflectância dos alvos naturais. Brasília: Editora UNB, 2001.\n5- SHIMABUKURU, Y. E.; PONZONI, F. J. Mistura Espectral: Modelo Linear e Aplicações. São Paulo: Editora Oficina de Textos, 2017.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 17:00",
+        "professor": "RAFAEL SILVA DE BARROS"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGL115",
+      "Nome": "Geologia Geral",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "32",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceitos fundamentais sobre a estrutura da Terra e tectônica global. Introdução ao estudo de processos e produtos magmáticos, sedimentares, metamórficos e tectônicos. Características gerais dos diversos tipos de rochas, corpos rochosos e suas estruturas. A disciplina inclui aulas práticas em laboratório e no campo.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 17:00",
+        "professor": "KATIA LEITE MANSUR"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGT015",
+      "Nome": "Camada Limite Atmosférica",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Descrição da Camada Limite Atmosférica (CLA). Termodinâmica da atmosfera. Estrutura vertical e variação diurna das variáveis micrometeorológicas. Estabilidade atmosférica. Balanço de energia.\n",
+       "BibliografiaBasica": "1) Stull, R. B. An introduction to boundary layer meteorology. Kluwer, Boston, 1988, 662 p.\n2) Arya, S. P. Introduction to micrometeorology. Academic Press, San Diego, 2001, 307 p.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "FIT111",
+       "MAC118"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGT120",
+      "Nome": "Instrum Meteorológ Mét Observ",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução: Estações meteorológicas; Plataformas de Instrumentos. Escala temporal e espacial dos fenômenos meteorológicos. Classes de instrumentos. Observações meteorológicas sensoriais. Sensores: princípio físico; características metrológicas; fontes de erros das medidas; exposição; manutenção; aferição e calibração. Estação Meteorológica Automática de Superfície: partes e funções; manutenção; operação. Redes de estações meteorológicas de altitude.\n",
+       "BibliografiaBasica": "1) WMO. Guide to Instruments and Methods of Observation Volume I: Measurement of Meteorological Variables. Geneva: WMO, 2018. 549 p. Disponível em: https://library.wmo.int/doc_num.php?explnum_id=10616. Acesso em: 04 mai. 2022.\n2) BROCK, F; RICHARDSON, S. Meteorological Measurement System. Oxford, 2001.\n",
+       "BibliografiaComplementar": "1) INMETRO. Vocabulário Internacional de Metrologia: Conceitos fundamentais e gerais e termos associados (VIM 2012). INMETRO, 2012. Disponível em: http://www.inmetro.gov.br/inovacao/publicacoes/vim_2012.pdf.\n2) MARQUES, V.S.; DERECZYNSKI, C.P. Previsão de Tempo no Brasil: Uma Breve Revisão Histórica. Anuário do Instituto de Geociências, Rio de Janeiro, v. 44, 45358, 2021. Disponível em: https://doi.org/10.11137/1982-3908_2021_44_45358.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "FIS111(C)",
+       "IGT110"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGT231",
+      "Nome": "Metodos Estat Aplic Meteor I",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Definição de clima, elementos e fatores climáticos. Análise exploratória de dados.\nMétodos estatísticos em climatologia. Dados e clima. Controle de Qualidade dos dados climáticos. Robustez e Resistência. Correlações temporais e espaciais.\nDistribuições probabilísticas e Teste de hipóteses.\n",
+       "BibliografiaBasica": "1) WILKS, D. S. Statistical methods in the atmospheric sciences: an Introduction. 3 ed. California: Academic Press, 2006, 627p.\n",
+       "BibliografiaComplementar": "PEIXOTO, J. P.; OORT, A. H. Physics of Climate. New York: Springer-Verlag, 1992, 515pp.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "IGT110"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGT376",
+      "Nome": "Aplicação Satélites Meteorológ",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Identificação de nuvens em imagens de satélites. Estimativa de precipitação.\nExtração de ventos. Estimativa da temperatura da superfície do mar e continental.\níndices de vegetação. Queimadas. Balanço de energia. Perfis atmosféricos.\n",
+       "BibliografiaBasica": "1) KIDDER, S. Q.; VONDER HAAR, T. H. Satellite meteorology: an introduction. Academic Press. London. UK. 1995.\n",
+       "BibliografiaComplementar": "1) JENSEN, J. R. Remote sensing of the environment: an earth resource perspective. 1st Edition. Prentice Hall, Upper Saddle River, 2000.\n2) LIANG, S. Quantitative remote sensing of land surfaces. John Wiley & Sons, USA, 2004.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "IGT230",
+       "IGT343"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGT604",
+      "Nome": "Físico Química da Atmosfera",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Físico química da atmosfera, extensão universitária e os objetivos do desenvolvimento sustentável da ONU. Clima e qualidade do ar: gases de efeito estufa, poluentes climáticos, radionuclídeos, poluentes primários e secundários. Química da estratosfera. Química da troposfera: processos físico químicos na fase gasosa e aquosa. Técnicas de monitoramento de gases de efeito estufa e da poluição do ar. Caracterização dos aerossóis e compostos biogênicos. Soluções baseadas na natureza.\n",
+       "BibliografiaBasica": "1) ATKINS, P.; DE PAULA, J. Físico-química. Fundamentos. 2017.\n2) SEINFELD, J. H.; SPYROS, N. P. Atmospheric Chemistry and Physics From Air Pollution to Climate Change. Ed. John Wiley & Sons, Inc. 2016.\n",
+       "BibliografiaComplementar": "1) Fuzzi et al., Particulate matter, air quality and climate: lessons learned and future needs, Atmos. Chem. Phys., 15, 8217?8299, 2015.\n;\n;\n;\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "IGT603"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IHI225",
+      "Nome": "Historia da África",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução aos estudos de História da África. Estereótipos ocidentais sobre o continente africano. Organização e diversidade das sociedades africanas. Métodos e fontes para a História da África. História da África e ensino de História. Aspectos sociais, políticos, econômicos e culturais da História da África.\n",
+       "BibliografiaBasica": "1) APPIAH, Kwame Anthony. Na Casa de Meu Pai. A África na filosofia da Cultura. Rio de Janeiro: Contraponto, 1997.\n2) BENOT, Yves. Ideologias das Independências Africanas. Lisboa: Sá da Costa, 1981. 2 vols.\n3) COQUERY-VIDROVITCH, Catherine. A descoberta da África. Lugar da História. Lisboa: Edições 70, 2004.\n4) FAGE, J. D.. História da África. Lisboa: Edições 70, 1997.\nHISTÓRIA GERAL DA ÁFRICA. São Paulo: Ática/ Comitê Científico Internacional para a Redação de uma História Geral da África (UNESCO). 8 vols.\n5.ILIFFE, John. Os Africanos - História de um Continente, Lisboa: Terramar, 1995.\n6. KI-ZERBO, Joseph. História da África Negra, vols. I e II Publicações Europa-América, s/d.\n7) LOVEJOY, Paul E. A escravidão na África. Uma história e suas transformações. Rio de Janeiro: Civilização Brasileira, 2002.\n8) MBOKOLO, Elikia. África negra. História e civilizações. t. 1 (até o séc. XVIII). Salvador/São Paulo: EDUFBA/Casa das Áfricas, 2009.\n9) MEILLASSOUX, Claude. Antropologia da escravidão. O ventre de ferro e dinheiro. Rio de Janeiro: Jorge Zahar Editor, 1995.\n10) NYONG O, Peter Anyang (org.). Estado y Sociedade en el África Actual. Mexico: El Colegio de México, 1989.\n11) OLIVER, Roland. A Experiência Africana da pré-história aos dias atuais. Rio de Janeiro: Jorge Zahar Editor, 1994.\n12) SILVA, Alberto da Costa e. A manilha e o libambo. A África e a escravidão de 1500 a 1700. Rio de Janeiro: Nova Fronteira: Fund. Biblioteca Nacional, 2002.\n13) THORNTON, John. A África e os africanos na formação do mundo atlântico, 1400-1800. Rio de Janeiro: Editora Campus: Elsevier, 2004.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "IHI111"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IQF505",
+      "Nome": "Química no Antropoceno",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Importancia e definicoes. Adsocao e cinetica nos processos cataliticos. Catalise em solucoes. Catalise em cavidades de dimensoes moleculares (zeolitos) Catalise em polimeros sinteticos. Catalise em superficies.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IQG120",
+      "Nome": "Química Geral II - Iq",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Gases, Soluções, Termodinâmica, Cinética Química, Equilíbrio Químico,\nÁcidos e Bases, Eletroquímica\n",
+       "BibliografiaBasica": "1)ATKINS P., JONES L., Bookman,2001.\n2) RUSSEL J. B.; 1994, Traduzido, 2a . Edição, Volumes 1 e 2; Makron Books do Brasil Editora Ltda..\n",
+       "BibliografiaComplementar": "1)BRADY J. E., HUMISTON G. E.; 1986, Traduzido, 2a . Edição, Volumes 1 e 2; Livros Técnicos e CientÍficos Editora S.A.\n2) KOTZ J. C., TREICHEL P.; 1998, volumes 1-2; Livros TÉcnicos e CientÍficos\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "10:00 - 12:00",
+        "professor": "JUAN OMAR MACHUCA HERRERA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "IQG114"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEB599",
+      "Nome": "Est da Líng Bras de Sinais I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Nomes próprios; pronomes pessoais; demonstrativos; possessivos; locativos em sentenças simples do tipo pergunta-resposta com \"o que\" e \"quem\" e outros vocábulos básicos; numerais; quantidade; topicalização; flexão verbal; flexão de negação; expressões faciais e corporais; percepção visual; conversação; diálogos; textos: LIBRAS, cultura e comunidade surda.\n",
+       "BibliografiaBasica": "1) BRITO, L. F. Por uma gramática de língua de sinais. Rio de Janeiro: Tempo Brasileiro, 1995.\n2) FELIPE, T.; MONTEIRO, M. S. LIBRAS em contexto. Curso Básico. Brasília: Ministério da Educação e do Desporto/Secretaria de Educação Especial, 2001.\n3) GESSER, A. Libras - Que língua é essa? Crença e preconceitos em torno da língua de sinais e da realidade surda. Florianópolis: Parábola, 2009.\n4) STROBEL, K. L. As imagens do outro sobre a cultura surda. Florianópolis: EdUFSC, 2008.\n",
+       "BibliografiaComplementar": "1) PIMENTA, Nelson e QUADROS, Ronice Muller. Curso de Libras I, LSB Vídeo, volume I, Iniciante, 2006 e 3a ed., 2008.\n2) Dicionário Enciclopédico Ilustrado Triíngue da Língua de Sinais Brasileira ? vol 1 e vol. 2 Site: www.acessobrasil.org.brasil\n3) Dicionário da Língua Brasileira de Sinais, INES, versão, 2.0, ano 2006.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NEP120",
+      "Nome": "Fund Polít Públicas Dir Hum",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Discussão sobre a necessidade e a possibilidade de uma fundamentação filosófica das políticas públicas, para a construção de argumentos racionais na sua implementação e identificação dos principais desafios para sua afirmação e realização. Apresentação de algumas propostas contemporâneas de fundamentação filosófica das políticas em direitos humanos.\n___BIBLIOGRAFIA BÁSICA___\n1) BARBALET, J. M. A Cidadania. Lisboa: Editorial Estampa, 1989.\n2) BAUMAN, Zygmunt. Comunidade: a busca da segurança no mundo atual. Rio de Janeiro: Jorge Zahar, 2003.\n3) BECKER, Howard S. Métodos de pesquisa em ciências sociais. São Paulo: Hucitec, 1999.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) BELLONI I, Magalhães h. / Souza L; Metodologia de avaliação em políticas públicas. São Paulo (Cortez) 2003.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "OVL121",
+      "Nome": "Astronomia Esférica",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Das origens da Astronomia. Sistemas de referência. Sistemas de coordenadas astronômicas. Técnicas matemáticas da Astronomia Esférica. Rotação e translação da Terra. Movimentos geocêntricos: configurações planetárias; fases; elipses; marés; ocultações. Tempo: calendários; tempo rotacional; tempo gravitacional; tempo atômico. Movimentos dos sistemas de coordenadas: precessão, nutação, movimentos dos pólos. Aberração. Paralaxe. Refração astronômica. Movimento próprio e redução ao dia.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FIM240",
+      "Nome": "Física IV - a",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Ondas eletromagnéticas. Energia e momento da luz. Noções da relatividade restrita. Ótica geométrica. Fenômenos de interferência. Difração. Polarização. Física moderna. Efeitos fotoelétricos e Compton. Átomo de hidrogênio. Difração de elétrons. Função de onda. Equação de Schroedinger. Principio de incerteza.\n",
+       "BibliografiaBasica": "1) Física, volume 2. Eletricidade e Magnetismo, Ótica (5ª edição). Paul A. Tipler e Gene Mosca. LTC Editora S.A.\n2) Física, volume 3. Física Moderna, Mecânica Quântica, Relatividade e a Estrutura da Matéria (5ª edição). Paul A. Tipler e Gene Mosca. LTC Editora S.A.\n3) Curso de Física Básica , volume 4. Ótica, Relatividade, Física Quântica H. Moysés Nussenzveig - Editora Edgard Blücher Ltda.\n4) Física IV. Ótica e Física Moderna Young & Freedman (12ª edição).\n5) Fundamentos de Física (4ª edição). D. Halliday. R. Resnick and J. Walker - John Wiley & Sons, Inc.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 15:00",
+        "professor": "PATRICIA LUSTOZA DE SOUZA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "13:00 - 15:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "FIM230"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FIS121",
+      "Nome": "Física Experimental II",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Dinâmica das rotações: cinemática das rotações, determinação de momento de inércia, pêndulo composto. Movimento oscilatório: movimento harmônico simples, movimento harmônico amortecido, combinação de movimentos harmônicos. Hidrostática: determinação de viscosidade, determinação de densidade de líquidos e sólidos. Ondas mecânicas: velocidade do som (método de ressonância), cordas vibrantes. Calorimetria: capacidade calorífica, equivalente mecânico.\n",
+       "BibliografiaBasica": "1) Apostila de Física Experimental II, Instituto de Física, UFRJ.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 15:00",
+        "professor": "VITORIA MARIA TUPINAMBA SOUZA BARTHEM"
+       }
+      ],
+      "Requisitos": [
+       "FIS111",
+       "FIT112"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ICP037",
+      "Nome": "Oficina Programação em C",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Funções e modularização na linguagem C; Recursão; Variáveis e expressões na linguagem C; Controle de fluxo e repetições na linguagem C; Tipos básicos e estruturados na linguagem C; Tipos abstratos de dados na linguagem C; Vetores e matrizes na linguagem C; Cadeias de caracteres na linguagem C; Documentação, legibilidade, manutenção e eficiência de programas.\n",
+       "BibliografiaBasica": "1) Introdução à programação: uma nova abordagem usando C, Flávio Varejão, Campus/Elsevier, 2015.\n2) Introdução a estruturas de dados: com técnicas de programação em C, W. Celes, R. Cerqueira, J. Rangel. Elsevier Brasil, 2017.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "15:00 - 17:00",
+        "professor": "RONALD CHIESSE DE SOUZA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "15:00 - 17:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "ICP121"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ICP131",
+      "Nome": "Programação de Computadores I",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Resolução de problemas de forma algorítmica; Funções e modularização; Recursão; Variáveis, expressões; Controle de fluxo e repetições; Tipos básicos e estruturados; Tipos abstratos de dados; Vetores e matrizes; Cadeias de caracteres; Documentação, legibilidade, manutenção e eficiência de programas.\n___BIBLIOGRAFIA BÁSICA___\n1) Introdução à programação: uma nova abordagem usando C, Flávio Varejão, Campus/Elsevier, 2015.\n2) Introdução a estruturas de dados: com técnicas de programação em C, W. Celes, R. Cerqueira, J. Rangel. Elsevier Brasil, 2017.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ICP133",
+      "Nome": "Fund de Sistemas de Computação",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Organização dos sistemas de computação unitários e distribuídos; Inicialização e finalização do sistema de computação; Caminho percorrido por um programa; Representação, processamento e armazenamento digital de dados (sistemas de numeração, representação de caracteres, áudio e imagem, álgebra booleana, circuitos lógicos, representação e aritmética de números inteiros e reais); Codificação, envio, transmissão e recepção de dados digitais em redes de computadores.\n___BIBLIOGRAFIA BÁSICA___\n1) R. E. Bryant e D. R. O'Hallaron, Computer Systems - a Programmer's Perspective, 3ª ed, Pearson, 2016.\n2) James F. Kurose e Keith W. Ross, Redes de Computadores e a Internet: Uma abordagem top-down,  6ª ed, 2014 (sítio da editora http://sv.pearson.com.br).\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ICP142",
+      "Nome": "Organização de Dados I",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Tipos de dados: dado bruto, dado agregado, dado primário, dado secundário, estruturado, semi e não estruturado, etc.; Ciclo de vida do dado: geração, coleta, tratamento, exploração e visualização; Valor do dado: interoperabilidade e reuso; Dado e metadado; Conceito de Transparência e Privacidade, Legislação associada; Engenharia e Ciência de Dados no apoio a gestão de dados nas organizações.\n___BIBLIOGRAFIA BÁSICA___\n1) Ailton Feitosa. Organização da Informação na Web: das tags a web semântica - Ed Thesaurus, 2006.\n2) José Oswaldo Sordi, Administração da Informação, Ed. Saraiva, 2008.\n3) Denis Alcides Rezende, Aline Franca de Abreu. Tecnologia da informação aplicada a Sistemas de Informação empresariais: o papel estratégico da informação e dos sistemas de informação nas empresas. São Paulo: Atlas, 2000.\n4) Thomas H. Davenport, Donald A. Marchand, Tim Dickson. Dominando a Gestão da Informação, Ed. Bookman, 2004.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ICP231",
+      "Nome": "Cálculo Numérico",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Erros; Zeros de Funções; Resolução de Sistemas Lineares; Interpolação; Integração Numérica; Equações Diferenciais Ordinárias.\n",
+       "BibliografiaBasica": "1) Dorn, William S. e Mc Cracken, Daniel D.; Cálculo Numérico com Estudos de Casos em Fortran IV\n2) Ruggiero, Márcia A. Gomes e Lopes, Vera Lucia Rocha; Cálculo Numérico, Aspectos Teóricos e Computacional\n3) Stark ,Peter A.; Introdução aso Métodos Numéricos\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "10:00 - 12:00",
+        "professor": "AMAURY ALVAREZ CRUZ"
+       },
+       {
+        "dia": "Qui",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "ICP121",
+       "MAC128"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ICP245",
+      "Nome": "Circuitos Lógicos",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "VHDL. Caracter sticas das portas lógicas. Circuitos combinatórios. Circuitos complexos (codificadores, decodificadores, multiplexadores, somadores, comparadores, deslocadores). Implementação de funções lógicas com multiplexadores e decodificadores. Memórias (ROM, RAM, FLASH). Dispositivos programáveis (PLA, PAL, CPLD, FPGA). Circuitos sequenciais. Flip-flops, registradores, registradores de deslocamento, contadores. Máquinas Moore e Mearly. Diagrama de estados. Análise e sintese de máquinas de estados.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ICP111"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ICP352",
+      "Nome": "Matemática Combinatória",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Permutações; Arranjos e Combinações simples e com repetições; Coeficientes binomiais e Triângulo de Pascal; Binômio de Newton e Teorema Multinomial. Princípio de Inclusão e Exclusão; Relações de Recorrência; Teoria dos Grafos: Conceitos Básicos; Conexidade; Árvores; Grafos Eulerianos e Hamiltonianos, Grafos Planares e Duais; Grafos Direcionados.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ICP624"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ICP602",
+      "Nome": "Dw no Sup à Tomada de Decisão",
+      "Créditos": "4.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Ambiente de aplicações corporativas e a tomada de decisão. Processamento transacional e processamento analítico. Conceito de DataWarehousing e DataMarts. Arquiteturas de DataWarehoung. Conceito de Operational DataStore. Processo de extração, transformação e carga. Modelagem multidimensional: esquemas estrela e floco-de-neve. Hierarquias e agregados. Aspectos de projeto físico de DataWarehouses e DataMarts. Ferramentas e aplicações OLAP. Gerência de metadados. Gerência de DataMarts de navegação. Projetos de DataWarehousing. Tratamento de dados não-estruturados em abientes analíticos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ICP624",
+      "Nome": "Números Inteiros Criptografia",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Algoritmo de divisão, algoritmo euclidiano, fatoração de inteiros, aritmética modular,  princípio de indução finita, teorema de Fermat, pseudoprimos, números de Carmichael, teste de Miller, teorema chinês do resto, grupos, subgrupos, função de Euler, teorema de Lagrange, números de Mersenne e Fermat, testes de primalidade, criptografia RSA e El Gamal.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAA233",
+      "Nome": "Álgebra II",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Grupos, subgrupos e teoremas de Lagrange; Grupos de permutações; Subgrupos normais e quocientes; Teorema dos homomorfismos; Anéis e corpos; Corpos de um anel de integridade; Anel de polinômios sobre um corpo: allgoritmo da divisão, máximo divisor comum, teorema da fatoração única, irredutibilidade e critério de Eisenstein; Extensões dos racionais; Funções simétricas; Teorema de Newton; Resolvente de Lagrange; Solução algébrica de equações de grau 3 e 4.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MAA114"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAC248",
+      "Nome": "Cálculo Diferen e Integral IV",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Serie de potências; resolução de equações diferenciais lineares ordinárias de segunda ordem com coeficientes variáveis: soluções por série próximo a um ponto ordinário; soluções por série próximo a um ponto regular (método de Frobenius). Transformada de Laplace; série de Fourier. Problemas de valores de contorno e teoria de Sturm-Liouville. Equações diferenciais parciais clássicas: onda; calor; Laplace: Dirichlet no retângulo e Dirichlet no círculo.\n",
+       "BibliografiaBasica": "1) Cálculo, volume 2 de James Stewart.\n2) Cálculo com Geometria Analítica, volume 2, Louis Leithold.\n3) Equações Diferenciais Elementares e Problemas de Valores de Contorno, de William E. Boyce e Richard C. DiPrima.\n4) Equações Diferenciais, volumes 1 e 2, de Dennis G. Zill.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MAC128"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAD351",
+      "Nome": "Inferência Estatística I",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Inferência indutiva. Distribuições amostrais. Estatísticas de ordem. Propriedades dos estimadores. Métodos de estimação pontual. Procedimentos Bayesianos. Estimação por intervalo e por região de confiança. Testes de Hipóteses.\n",
+       "BibliografiaBasica": "1- DeGroot, M. H. e Schervish, M. J. Probability and Statistics, 4. ed., Boston: Addison-Wesley, 2011.\n2- A. M. Mood, F. A. Graybill, D. C. Boes, Introduction to the Theory of Statistics, 3rd ed., New York: McGraw Hill, 1974.\n3- Migon, H. S., Gamerman, D., Louzada, F. Statistical Inference: An Integrated Approach, 2. Ed. CRC Press Taylor & Francis Group Series: Chapman & Hall/CRC, 2014\n",
+       "BibliografiaComplementar": "1- G. Casella, R. L. Berger, Statistical Inference, 2nd ed., Pacific Grove: Duxbury/Thomson Learning, 2002.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MAD233"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAD484",
+      "Nome": "Análise Estat Multivariada",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Aspectos de analise multivariada. Distribuicao normal multivariada. Inferencias sobre o vetor de medias. Classificacao e Discriminacao. Analise de variancia multivariada. Regressao Multivariada. Analise em componentes principais. Analise Fatorial. Escalonamento Multidimensional. Analise de conglomerados.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MAD357"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAE125",
+      "Nome": "Álgebra Linear",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Sistemas de equações lineares e Eliminação Gaussiana. Matrizes e determinante. Espaços vetoriais Euclidianos. Geometria dos espaços vetoriais de dimensão finita. Transformações lineares. Espaços vetoriais com produto interno. Ortogonalidade e mínimos quadrados. Autovalores e autovetores. Teorema espectral. Aplicações à solução de Equações Diferenciais Ordinárias e em Geometria Euclidiana.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "10:00 - 12:00",
+        "professor": "HEUDSON TOSTA MIRANDOLA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "CMT003",
+      "Nome": "Oficina Trab Pesquisa I",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Atividades de iniciação científica.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sab",
+        "hora": "11:00 - 13:00",
+        "professor": "JOSE RICARDO DE ALMEIDA FRANCA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "CMT005",
+      "Nome": "Oficina Trab Pesquisa III",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Atividades de iniciação científica.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "15:00 - 17:00",
+        "professor": "FERNANDA CERQUEIRA VASCONCELLOS"
+       }
+      ],
+      "Requisitos": [
+       "CMT004"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "CMT010",
+      "Nome": "Oficina Trab Ensino II",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Atividades de monitoria junto a cursos de graduação.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sab",
+        "hora": "15:00 - 17:00",
+        "professor": "JOSE RICARDO DE ALMEIDA FRANCA"
+       },
+       {
+        "dia": "Sab",
+        "hora": "15:00 - 17:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "CMT009"
+      ],
+      "Tipo": "eletiva"
+     }
+    ]
+   },
+   "obrigatorias": 24,
+   "eletivas": 90,
+   "ano": "2025/1 a 9999/9"
+  }
+ ]
+}

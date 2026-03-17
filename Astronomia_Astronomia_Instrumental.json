@@ -1,0 +1,1028 @@
+{
+ "Astronomia Astronomia Instrumental": [
+  {
+   "materias": {
+    "1º Período": [
+     {
+      "Codigo": "FIT111",
+      "Nome": "Física I",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Noções de cálculo diferencial e integral e calculo vetorial. Força, cinemática e dinâmica do ponto material. Leis de Newton. Trabalho. Energia e sua conservação. Momento linear e sua conservação. Cinemática e dinâmica do movimento de rotação. Momento angular e sua conservação. Gravitação.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAC118",
+      "Nome": "Cálculo Difer e Integral I",
+      "Créditos": "6.0",
+      "Teórica": "90",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Técnicas de Integração. Integral Imprópria.\n",
+       "BibliografiaBasica": "1) SANTOS, A. R.; BIANCHINI, Waldecir. Aprendendo Cálculo com Maple: Cálculo de Uma Variável. 1ª ed. Rio de Janeiro: LTC, 2002.\n2) LEITHOLD, Louis. O Cálculo com Geometria Analítica. 3.ed. São Paulo: Harbra, 2002. vol. 1.\n3) STEWART, James. Cálculo. 4.ed. São Paulo: Pioneira Thomson Learning, 2002. vol. 1.\n",
+       "BibliografiaComplementar": "1) ANTON, H.; BIVIS. I.; DAVIS, S. Cálculo, Vol. I. 8ª ed. Editora Harbra.\n2) APOSTOL, TOM M. Calculus, Vol. 1: One Variable Calculus With an Introduction to Linear Algebra. 2ª ed. - Ed. Wiley.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 10:00",
+        "professor": "GIANFRANCO OSMAR MANRIQUE PORTUGUEZ"
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 10:00",
+        "professor": ""
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 10:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIS111",
+      "Nome": "Física Experimental I",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução à medida: como medir. Como expressar corretamente os valores medidos. Estimar a precisão de instrumentos. Dispersão de uma medida: controle de grandezas físicas numa experiência. Como caracterizar a dispersão de um conjunto de dados por um indicador apropriado. Cinemática unidimensional: desenvolvimento intuitivo e operacional dos conceitos de velocidade e aceleração. Representação e análise gráfica. Leis de Newton. Como definir operacionalmente a inércia e um corpo. Relação massa inercial-massa gravitacional. Colisões unidimensionais elásticas, semi-elásticas e inelásticas. Modelo teórico de uma colisão unidimensional.\n",
+       "BibliografiaBasica": "1) Apostila de Física Experimental I. Instituto de Física, UFRJ.\n2) Fundamentos da Teoria de Erros. J.H. Vuolo.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "15:00 - 17:00",
+        "professor": "RUYNET LIMA DE MATOS FILHO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ICP121",
+      "Nome": "Computação I",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Informações relevantes de um problema e sua respectiva representação computacional. Resolução de problemas de forma algorítmica. Aspectos sintático se semânticos de uma linguagem de programação de alto nível. Comandos, estruturas de dados e estruturas básicas para a construção de soluções computacionais. Modelagem e implementação de código modularizado. Noções de organização,reutilização e legibilidade de código. Princípios das boas práticas de programação.\n",
+       "BibliografiaBasica": "1) Nilo N. C. Menezes. Introdução a programação com Python - Algoritmos e Lógica de Programação para iniciantes. 3ª edição. Novatec. 2019.\n2) Mark Lutz e David Ascher.Aprendendo Python.Bookman Companhia Ed. 2ª edição. 2007.\n3)Carla A. D. M. Delgado, João C. P. da Silva, Fabio Mascarenhas, Ana Luisa Duboc. The teaching of functions as the first step to learn imperative programming.\n4) WORKSHOP SOBRE EDUCAÇÃO EM COMPUTAÇÃO (WEI), 24, 2016, Porto Alegre. Anais[...]. PortoAlegre: Sociedade Brasileira de Computação, 2016.p. 2393-2402. ISSN2595-6175.DOI: .\n5) Python Software Foundation. Otutorialde Python. 2001-2023.\n",
+       "BibliografiaComplementar": "1) Plataforma para prática de programação:\n2) Site oficial da linguagem Python:\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 15:00",
+        "professor": "HUGO DE HOLANDA CUNHA NOBREGA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 15:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "OVL111",
+      "Nome": "Introdução à Astronomia",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Visão qualitativa global da Astronomia e da Astrofísica, apresentada sob a forma de seminários semanais. Visa familiarizar o aluno com as diversas áreas da Astronomia através de palestras apresentadas por diversos professores e astrônomos de instituições científicas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "14:00 - 16:00",
+        "professor": "THIAGO SIGNORINI GONCALVES"
+       },
+       {
+        "dia": "Qua",
+        "hora": "14:00 - 16:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "2º Período": [
+     {
+      "Codigo": "FIT121",
+      "Nome": "Física II",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Hidrostatica; pressao. Hidrodinamica; viscosidade. Movimento harmonico. Ondas mecanicas; interferencias. Ondas sonoras e acusticas. Termologia. Temperatura. Termometria; dilatacao termica. Calor. Primeiro principio de termodinamica. Teoria cinetica dos gases; gas perfeito de Van-der Waals. Reversibilidade. Segundo principio da termodinamica.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "FIT111",
+       "MAC114"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAE125",
+      "Nome": "Álgebra Linear",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Sistemas de equações lineares e Eliminação Gaussiana. Matrizes e determinante. Espaços vetoriais Euclidianos. Geometria dos espaços vetoriais de dimensão finita. Transformações lineares. Espaços vetoriais com produto interno. Ortogonalidade e mínimos quadrados. Autovalores e autovetores. Teorema espectral. Aplicações à solução de Equações Diferenciais Ordinárias e em Geometria Euclidiana.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 10:00",
+        "professor": "JOAO PEDRO DE ABREU MARCIANO"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 10:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIS121",
+      "Nome": "Física Experimental II",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Dinâmica das rotações: cinemática das rotações, determinação de momento de inércia, pêndulo composto. Movimento oscilatório: movimento harmônico simples, movimento harmônico amortecido, combinação de movimentos harmônicos. Hidrostática: determinação de viscosidade, determinação de densidade de líquidos e sólidos. Ondas mecânicas: velocidade do som (método de ressonância), cordas vibrantes. Calorimetria: capacidade calorífica, equivalente mecânico.\n",
+       "BibliografiaBasica": "1) Apostila de Física Experimental II, Instituto de Física, UFRJ.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "13:00 - 15:00",
+        "professor": "VITORIA MARIA TUPINAMBA SOUZA BARTHEM"
+       }
+      ],
+      "Requisitos": [
+       "FIS111",
+       "FIT112"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAC128",
+      "Nome": "Cálculo Diferen e Integral II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Equações Diferenciais Ordinárias de Primeira  Ordem. Equações Diferenciais Ordinárias Lineares de Segunda Ordem com Coeficientes Constantes. Curvas e Vetores no Plano. Vetores no Espaço Tridimensional e Geometria Analítica Sólida. Funções de R2 em R. Funções de R3 em R. Máximos e Mínimos de Funções de R2 em R. Máximos e Mínimos de Funções de R3 em R.\n",
+       "BibliografiaBasica": "1) BOYCE, W. E.; DIPRIMA, R. C. Equações Diferenciais Elementares e Problemas de Valores de Contorno. 7. ed. Rio de Janeiro: UFRJ, 2004.\n2) PINTO, D.; MORGADO, M.C.F. Cálculo Diferencial e Integral de Funções de Várias Variáveis. 3.ed. Rio de Janeiro: UFRJ, 2004.\n3) STEWART, J. Cálculo. 4. ed. São Paulo: Pioneira Thomson Learning, 2002. vol. 2.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 10:00",
+        "professor": "JOAO HENRIQUE LIRIO DA SILVA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 10:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MAC118"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "OVL121",
+      "Nome": "Astronomia Esférica",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Das origens da Astronomia. Sistemas de referência. Sistemas de coordenadas astronômicas. Técnicas matemáticas da Astronomia Esférica. Rotação e translação da Terra. Movimentos geocêntricos: configurações planetárias; fases; elipses; marés; ocultações. Tempo: calendários; tempo rotacional; tempo gravitacional; tempo atômico. Movimentos dos sistemas de coordenadas: precessão, nutação, movimentos dos pólos. Aberração. Paralaxe. Refração astronômica. Movimento próprio e redução ao dia.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "3º Período": [
+     {
+      "Codigo": "FIN231",
+      "Nome": "Física Experimental III",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Instrumentos de Medidas Elétricas. Resistores. Capacitores. Tensões e Correntes Alternadas. Campos Magnéticos Estáticos.\n",
+       "BibliografiaBasica": "1)  Apostila de Física Experimental III, Instituto de Física, UFRJ.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "15:00 - 17:00",
+        "professor": "LUCIA HELENA COUTINHO"
+       }
+      ],
+      "Requisitos": [
+       "FIS121"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAD124",
+      "Nome": "Introdução à Estatística",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Probabilidade - conceitos básicos, probabilidade condicional, independência, Teorema de Bayes, Variáveis aleatórias, modelos binomial e normal. Introdução à Inferência: população e amostra; distribuição amostral, amostra aleatória simples, introdução à estimação e testes de hipóteses.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 15:00",
+        "professor": "LUIZ GUILHERME GONCALVES ARRUDA DE COUTO"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 15:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "OVL232",
+      "Nome": "Métodos Comput da Astronomia",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Calculo numérico: diferenciação; integração (regras do trapézio, de Simpson e de Bode); zeros de equações (métodos de Newton-Raphson e da secante); método de Monte Carlo (geração de números aleatórios e integração); matrizes (resolução de equações matriciais, inversão de matrizes e calculo de autovalores); equações diferenciais ordinárias; problemas de autovalores e condições de contorno. Calculo algébrico. Familiarização com aplicativos gráficos, matemáticos e de edição de textos científicos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "16:00 - 18:00",
+        "professor": "BRUNO EDUARDO MORGADO"
+       },
+       {
+        "dia": "Ter",
+        "hora": "16:00 - 18:00",
+        "professor": ""
+       },
+       {
+        "dia": "Qua",
+        "hora": "16:00 - 18:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MAB121",
+       "MAE125"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIM231",
+      "Nome": "Física III",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Fenomenos eletricos e magneticos. Conceitos de campos eletrico e magnetico. Situacoes estacionarias e quase-estacionarias.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "FIT111",
+       "MAC128"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAC238",
+      "Nome": "Cálculo Diferen e Integral III",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Integrais Múltiplas. Integrais de Linha. Integrais de Superfície. Teorema de Gauss. Teorema de Stokes.\n",
+       "BibliografiaBasica": "1) PINTO, D.; MORGADO, M. C. F. Cálculo Diferencial e Integral de Funções de Várias Variáveis. 3ª ed. Rio de Janeiro: UFRJ, 2004.\n2) TROMBA, A. J.; MARSDEN, J. E. Vector Calculus. 5ª ed. New York: W. H. Freeman & Company, 2003.\n3) ANTON, H. Cálculo: Um Novo Horizonte. 6ª ed. Porto Alegre: Bookman, 2000. vol.2.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 10:00",
+        "professor": "ERIC ALBERTO CABEZAS BONILLA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 10:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MAC128"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "OVL231",
+      "Nome": "Laboratório de Astronomia",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Atividades que envolvem observação astronômica e experimentos de natureza não computacional. Uso de telescópios de pequeno porte. Introdução de conceitos sobre medidas, astronomia de posição, astrofísica e mecânica celeste.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "14:00 - 18:00",
+        "professor": "CARLOS ROBERTO RABACA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "4º Período": [
+     {
+      "Codigo": "FIN241",
+      "Nome": "Física Experimental IV",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Principio do magnetismo, leis de Ampere, Faraday e Lentz. Medidor de campo magnetico. Propriedades magneticas da materia, histerese, corrente alternada: circuitos de corrente alternada RLC, oscilacoes eletromagneticas. Conservacao de energia. Otica geometrica: reflexao, refracao, lentes e prismas. Otica fisica: interferencia, difracao e polarizacao.\n___ BIBLIOGRAFIA BÁSICA ___\n1) Apostila de Física Experimental IV. Instituto de Física, UFRJ.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "FIN231"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIW243",
+      "Nome": "Mecânica Clássica I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Elementos de mecânica newtoniana. Movimento de uma partícula em uma, duas e três dimensões. Movimento de um sistema de partículas. Oscilações lineares e não lineares. Corpos rígidos. Rotação em torno de um eixo. Estática. Gravitação.\n",
+       "BibliografiaBasica": "1- \"Classical Dynamics of Particles and Systems\", Stephen T. Thornton e Jerry B. Marion, Editora: Thomson ? Brooks/Cole, 5a edição (July 7, 2003)\n2- \"Mecânica: Newtoniana, Lagrangiana e Hamiltoniana\", João Barcelos Neto\nEditora: Livraria da Física\n3- \"Mecânica\", Keith R. Symon, Editora: Campus\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 10:00",
+        "professor": "FRANCOIS MICHEL CLAUDE IMPENS"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 10:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "FIT122",
+       "MAC238"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "OVL241",
+      "Nome": "Astrofísica Geral",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Transporte radiativo. Leis de Kirchoff. Corpo Negro. Átomo de Bohr. Excitação e Ionização. Leis dos gases. Classificação estelar. Sistemas fotométricos. Magnitudes e distâncias estelares. Propriedades fundamentais de estrelas. Movimentos próprios e velocidades radiais. Diagrama HR. Diagrama cor-cor e cor-magnitude. Avermelhamento interestelar. Estrutura estelar. Evolução estelar. Estrelas variáveis. Protoestrelas. Anãs brancas, estrelas de nêutrons e buracos negros. Aglomerados estelares. Nebulosas. Meio interestelar. A Galáxia. Galáxias.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "16:00 - 18:00",
+        "professor": "SILVIA LORENZ MARTINS"
+       },
+       {
+        "dia": "Qua",
+        "hora": "14:00 - 16:00",
+        "professor": ""
+       },
+       {
+        "dia": "Qui",
+        "hora": "16:00 - 18:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "FIM231",
+       "MAC118"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIM241",
+      "Nome": "Física IV",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Oscilacoes eletromagneticas. Otica. Introducao a fisica moderna.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "FIM231"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIN242",
+      "Nome": "Física Moderna I",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução à teoria especial da relatividade. A radiação de uma carga elétrica acelerada. A distribuição de Boltzmann. Teoria clássica e quântica da radiação em uma cavidade. A lei de Planck e suas aplicações. O efeito fotoelétrico. O efeito Compton. A natureza dualística da radiação eletromagnética. Ondas materiais. A dualidade onda particula. O principio da incerteza. Os modelos iniciais do núcleo atômico. O espalhamento de partículas alfa e o modelo de Rutherford do núcleo atômico. Níveis atômicos. Modelos de Bohr e Sommerfeld. O principio da correspondência.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "10:00 - 12:00",
+        "professor": "ALESSANDRA MAIA MARQUES MARTINEZ PEREZ"
+       },
+       {
+        "dia": "Qui",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "FIM231"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIW245",
+      "Nome": "Métodos da Física Teórica I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Números complexos. Funções de variáveis complexas: Teorema de Cauchy, Séries de Taylor e de Laurent, Teorema do Resíduo e aplicações ao cálculo de integrais. Séries de Fourier. Noções de Teoria das Distribuições: a Função Delta. Transformada de Fourier e aplicações. Transformada de Laplace e aplicações.\n",
+       "BibliografiaBasica": "1- ?Elementary Linear Algebra Applications? de Howard Anton, Chris Rorres, Anton Kaul - Version-Wiley (2019);\n2- \"Variáveis Complexas e aplicações\" de James Ward Brown e Ruel V. Churchill (tradução Claus Ivo Doering) 9 Ed.; AMGH (2016);\n2- ?Cálculo Avançado?, Volume II, 7a Reimpressão, de Wilfred Kaplan; Editora Edgard Blucher ltda (1996);\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 10:00",
+        "professor": "THALES AGRICOLA CALIXTO DE AZEVEDO"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 10:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MAC238"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "5º Período": [
+     {
+      "Codigo": "FIW356",
+      "Nome": "Mecânica Quântica I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução aos conceitos quânticos. Observáveis. Equações de evolução. Partículas quânticas em uma dimensão. Partículas quânticas em 3 dimensões. A notação de Dirac. O oscilador harmônico em uma dimensão . O momento angular. Potenciais centrais. O átomo de hidrogênio.\n",
+       "BibliografiaBasica": "1- ?Quantum Mechanics Volume 1?, Claude Cohen-Tannoudji, Bernard Diu, Franck Laloe\n2-  The Feynman Lectures on Physics, Vol. 3., Richard Feynman, Robert Leighton, Mathews Sands\n3- The Principles of Quantum Mechanics, P. A. M. Dirac.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 15:00",
+        "professor": "MARCELO PALEOLOGO ELEFTERIADIS DE FRANCA SANTOS"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 15:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "FIM240",
+       "FIW245"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "OVL352",
+      "Nome": "Sistemas Planetários",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Leis de Kepler. Potencial devido a uma esfera. Sistema de partículas. Forças centrais. O problema de dois corpos. Equação de Kepler. Aplicações do problema de dois corpos em Astronomia (Sistema Solar, satélites artificiais). Sistema solar: planetas rochosos e gasosos; asteróides; meio interplanetário. Planetologia comparada: composição e segregação química dos planetas; crateras; vulcanismo; atividade tectônica. Dinâmica de sistemas planetários. Discos protoplanetarios. Exoplanetas: métodos de detecção, propriedades estatísticas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "14:00 - 16:00",
+        "professor": "ADRIAN RODRIGUEZ COLUCCI"
+       },
+       {
+        "dia": "Qua",
+        "hora": "14:00 - 16:00",
+        "professor": ""
+       },
+       {
+        "dia": "Sab",
+        "hora": "06:00 - 08:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "FIW243",
+       "OVL121"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIW244",
+      "Nome": "Eletromagnetismo I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Eletrostática: campo, divergência, rotacional, potencial, trabalho e energia, condutores. Técnicas de cálculo de potenciais: equação de Laplace, método das imagens, separação de variáveis, expansão em multipolos. Eletrostática em meios materiais: polarização, campo de um objeto polarizado, deslocamento elétrico, dielétricos. Magnetostática no vácuo: lei de Lorenz, lei de biot-savart, divergência, rotacional, potencial vetorial. Magnetostática em meios materiais: magnetização, campo de um objeto magnetizado, campo auxiliar h, meios lineares e não lineares.\n",
+       "BibliografiaBasica": "1- David J. Griﬃths, ?Introduction to Electrodynamics?, 4th Edition (2013)\n2- E. M. Purcell and David J. Morin, ?Electricity and Magnetism?, 3rd Edition (2013)\n3- R. P. Feynman, R. B. Leighton, and M. Sands, ?The Feynman Lectures on Physics, vol. II? (2013)\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "15:00 - 17:00",
+        "professor": "DANIELA SZILARD LE COCQ D OLIVEIRA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "15:00 - 17:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "FIM240(C)",
+       "FIW245"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "OVL351",
+      "Nome": "Técn Observacional Astronômica",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Fontes observadas: propriedades geométricas e físicas. Processos radiativos clássicos e quânticos. Meio de propagação: influências sobre a radiação. Introdução à Óptica Astronômica. Coletores de informação nas diversas faixas espectrais. Detectores de informação: tipos e propriedades. Técnicas de análise: imageamento, polarimetria, magnetometria. Princípios de fotometria e espectroscopia.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "16:00 - 18:00",
+        "professor": "CARLOS ROBERTO RABACA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "16:00 - 18:00",
+        "professor": ""
+       },
+       {
+        "dia": "Sex",
+        "hora": "16:00 - 18:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "OVL231",
+       "OVL241"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "6º Período": [
+     {
+      "Codigo": "FIW363",
+      "Nome": "Termodinâmica Fís Estatística",
+      "Créditos": "6.0",
+      "Teórica": "90",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estados de um sistema. Entropia e temperatura. Distribuição de Bostzmann. Radiação térmica. Potencial químico. Gás ideal. Gases de Fermi e Bose. Calor e trabalho. Energia livre de Gibbs. Reações químicas. Transformações de fase. Teoria cinética. Propagação do som em gases. Condução de calor.\n___ BIBLIOGRAFIA BÁSICA ___\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "12:00 - 15:00",
+        "professor": "FERNANDO ANTONIO NAZARETH NICACIO"
+       },
+       {
+        "dia": "Qua",
+        "hora": "12:00 - 15:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "FIM240",
+       "MAC238"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIW246",
+      "Nome": "Experimentos de Fís Quântica",
+      "Créditos": "4.0",
+      "Teórica": "30",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Experiencia de Milikan. Medida da relacao e/m para eletron. Radiacao de Corpo Negro. Efeito Compton. Difracao de eletrons. Formacao de pares. Emissao alfa. Efeito fotoeletrico. Sistematica de espectros atomicos. Experiencia de Frank-Hertz. Efeito Zeeman.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "FIM240",
+       "FIN241"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "OVL361",
+      "Nome": "Evolução do Pensam Astronômico",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Cosmogonia dos povos primitivos. A ciência dos gregos. Astronomia na Idade Média. A grande revolução: Copérnico; Kepler; Galileu; Newton. Medindo a Via Láctea. Surgimento da Astrofísica. A escala de tempo do Universo. A Grande Controvérsia: Curtis x Shapley. Os limites do Universo. O Método Científico. A busca por dados: observação. A busca por hipóteses: Indução. O teste de leis: predição e controle. As descobertas empíricas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "09:00 - 11:00",
+        "professor": "GUSTAVO FREDERICO PORTO DE MELLO"
+       },
+       {
+        "dia": "Qui",
+        "hora": "09:00 - 11:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "OVL241"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "7º Período": [
+     {
+      "Codigo": "OVL471",
+      "Nome": "Prática Observac em Astronomia",
+      "Créditos": "4.0",
+      "Teórica": "30",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Programação de observações astronômicas. Astrometria: objetivos, instrumentos e medidas. Fotometria: objetivos, instrumentos e medidas. Espectroscopia: objetivos, instrumentos e medidas. Realização de observações astrométricas, fotométricas e espectroscópicas. Redução e interpretação dos dados.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "09:00 - 11:00",
+        "professor": "LUIDHY SANTANA DA SILVA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "11:00 - 13:00",
+        "professor": ""
+       },
+       {
+        "dia": "Sex",
+        "hora": "14:00 - 16:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "FIM241",
+       "OVL351"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIS352",
+      "Nome": "Fís de Mat e Dispos Semicond",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estrutura cristalina. Elementos de Mecanica Quantica. Teoria de Bandas. Metais, isolantes e semicondutores. Ligas e \"engenharia de gap\". Dopagem. Dispositivos eletronicos: juncao p-n. Diodos de juncao de barreira Schottky, Zener. Transistor bipolar. FET. MOS-FET. Dispositivos Opto-eletronicos: semicondutores de gap direto e indireto. Fotodetectores. LED. Celulas solares. Lasers semicondutores.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "8º Período": [
+     {
+      "Codigo": "OVLX01",
+      "Nome": "Proj Final de Curso Astronomia",
+      "Créditos": "0.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenvolvimento de um tema pertinente, mas não necesariamente, à opção feita pelo aluno ao final do curso, visando iniciar o aluno na técnica de pesquisa, conferindo-lhe experiência em questões de metodologia científica. O projeto será feito sob a orientação de um profissional na área escolhida e deve ser defendido pelo aluno perante uma banca formada por profissionais e/ou professores. Os projetos devem ser do tipo \"review\" ou monografias de cunho didático.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "Disciplinas Optativas (Escolha Restrita)": [
+     {
+      "Codigo": "FIW365",
+      "Nome": "Mecânica Quântica II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Spin do elétron. Perturbações estacionarias (casos não degenerado e degenerado). Outras aproximações estacionarias: método WKB. Perturbações dependentes do tempo. Teoria sem clássica da radiação. Teoria quântica do espalhamento. Partículas idênticas. O paradoxo de Einstein, Podolski e Rosen e a desigualdade de Bell.\n___ BIBLIOGRAFIA BÁSICA ___\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "FIW356"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FIW474",
+      "Nome": "Lab de Física Corpuscular",
+      "Créditos": "4.0",
+      "Teórica": "30",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Produção e detecção de raios X contínuos e de linhas. Elétrons Auger. Fontes de íons e aceleradores. Fontes radioativas. Interação de partículas e da radiação com a matéria. Detetores de partículas e de radiação. Proteção radiológica. Analise de trajetória de partículas elementares.\n___ BIBLIOGRAFIA BÁSICA ____\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FIW477",
+      "Nome": "Fís Nuclear e de Partíc.elemem",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Espalhamento de Rutherford. Núcleos estáveis e instáveis. Modelos nucleares: gota liquida. Gás de Fermi, modelo de camadas e modelos coletivos. Decaimentos alfa, beta e gama. Aplicações de física nuclear: fissão, fusão, energia nuclear e datação. Detecção e aceleração de partículas. Fenomenologia de partículas elementares. Simetrias: teorema CPT. Apresentação, modelo padrão e de algumas extensões, astrofísica.\n___ BIBLIOGRAFIA BÁSICA ___\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "FIW356"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FIW357",
+      "Nome": "Instrumentação em Fís Contemp",
+      "Créditos": "4.0",
+      "Teórica": "30",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução à instrumentação analógica e digital: filtros passivos, dispositivos semicondutores, amplificador operacional, portas logicas, multivibradores e osciladores. Introdução ao tratamento analógico de sinais: conversões analógica / digital e digital / analógica, ruídos e interferências, amplificadores lock-in, monocanal e multicanal, módulos nim, microprocessadores, interfaceamento com microcomputadores, transdutores. Introdução a tecnologia de vácuo e deposição de filmes finos. Criogenia.\n___ BIBLIOGRAFIA BÁSICA ___\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "FIN241"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FIW366",
+      "Nome": "Lab de Matéria Condensada",
+      "Créditos": "4.0",
+      "Teórica": "30",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Difração de Bragg. Interferometria. Fibras óticas. Condutividade, semicondutores e isolantes, calor especifico de sólidos. Teoria de bandas, massa efetiva e impurezas. Junções PN, diodo e transistores. Propriedades magnéticas da matéria. Ressonância magnética. Materiais supercondutores. Efeitos Josephson e Squid.\n___ BIBLIOGRAFIA BÁSICA ___\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "FIW356"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FIW475",
+      "Nome": "Física da Matéria Condensada",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Modelos de Drude e Sommerfld para metais. Redes cristalinas. Rede recíproca. Elétrons em potencial periódico. Aproximação de elétrons quase livre e de elétron fortemente ligado. Descrição semiclássica da dinâmica de elétrons em sólidos. Coesão cristalina. Isolantes, semicondutores e metais. Vibrações cristalinas, Fônons. Propriedades magnéticas da matéria. Aplicações específicas que devem variar de semestre conforme motivação do professor e da turma.\n___ BIBLIOGRAFIA BÁSICA ___\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "FIW356",
+       "FIW363"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "OVL363",
+      "Nome": "Astronomia Contemporânea",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O objetivo desta disciplina é aprofundar o conhecimento dos alunos sobre temas da Astronomia Contemporânea de maneira abrangente. Serão discutidos temas relacionados à astrofísica e os avanços recentes em instrumentação astronômica. Estrutura e Evolução Estelar, Meio Interestelar, Estrutura Galáctica, Galáxias normais, Galáxias ativas, Estruturas em grandes escalas, Formação e Evolução das galáxias, Radiação Cosmológica de Fundo, Cosmologia, Buracos negros, Instrumentação Astronômica e Astronomia Espacial.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "OVL241"
+      ],
+      "Tipo": "eletiva"
+     }
+    ],
+    "Disciplinas Optativas (Escolha Condicionada)": [
+     {
+      "Codigo": "IGAZ50",
+      "Nome": "Ativ Curricular Extensão - Ast",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "0",
+      "Extensão": "251",
+      "Informação": {
+       "Info": "Atuação em atividades de extensão registradas na Pró-Reitoria de Extensão da UFRJ, como programas, projetos, cursos de extensão e eventos, coordenados por docentes do quadro permanente ou técnicos da carreira de nível superior na UFRJ. Para eventos, a atuação deverá ser na organização ou na realização do evento. Para cursos, a atuação deve ser na organização ou ministrando aulas.\n___ BIBLIOGRAFIA BÁSICA ___\nBibliografia recomendada pelo coordenador da atividade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     }
+    ]
+   },
+   "obrigatorias": 32,
+   "eletivas": 8,
+   "ano": "2008/1 a 9999/9"
+  }
+ ]
+}

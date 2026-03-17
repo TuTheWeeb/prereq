@@ -1,0 +1,3134 @@
+{
+ "Ciências Biológicas Microbiol e Imunologia": [
+  {
+   "materias": {
+    "1º Período": [
+     {
+      "Codigo": "IMW117",
+      "Nome": "Treinamento Cientifico I",
+      "Créditos": "5.0",
+      "Teórica": "0",
+      "Prática": "150",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Protocolos experimentais para observacao de celulas, microrganismos e estruturas celulares aos microscopios otico e eletronico.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IMW115",
+      "Nome": "Fund Aplic a Microbiologia",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Fundamentos de matematica e bioestatistica necessarios a microbiologia.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IMW119",
+      "Nome": "Bioquímica Celular",
+      "Créditos": "12.0",
+      "Teórica": "120",
+      "Prática": "120",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A discilina objetiva o estudo das moléculas orgânicas presentes nos organismos vivos,o conhecimento dos tipos de ligações entre os átomos componentes das biomoléculas, os fatores que contribuem para a formação destas ligações e as estruturas e suas reatividades químicas; bem como as forças que as estabilizam, as propriedades da água, as interações fracas não covalentes que ocorrem em soluções aquosas das biomoléculas e a ionização da água e de solutos em soluções aquosas. Compreendidos no conteúdo programático estão, também, estudos covalentes que ocorrem em soluções aqosas das biomoléculas e a ionização da água e de solutos em soluções aquosas. Compreendidos no conteúdo programático estão, também, estudos sobre as enzimas, suas propriedades e reações; estruturas e funções dos carboidratos, lipídios, proteínas e ácidos nucleicos; processos (metabolismo) pelos quais os seres vivos sintetizam e degradam carboidratos, lipídios, aminoácidos e nucleotídios, com ênfase na produção e consumo de energia, e, ainda, as estratégias para o controle do metabolismo.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "2º Período": [
+     {
+      "Codigo": "IMW121",
+      "Nome": "Biologia Molecular I",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo da genetica molecular. Mecanismo de duplicacao do ADN, processo de expressao e sua regulacao. Estruturas funcionais do cromossoma das celulas procarioticas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IMW128",
+      "Nome": "Morfofisiol Tecidual Sistemica",
+      "Créditos": "9.0",
+      "Teórica": "90",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Esta disciplina enfocara as areas de conhecimento de anatomia, histologia e fisiologia.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IMW120",
+      "Nome": "Bio Cel Fisio Micorganismos",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo da biologia celular de microrganismos. Os diferentes tópicos de estudo dão ênfase às estruturas de células procarioticas e microrganismos eucarióticos que se diferenciam do modelo de células de mamíferos, estudado em Biologia Celular I. Serão também introduzidos conceitos relativos à nutrição e crescimento de microrganismos, assim como o efeito de antimicrobianos sobre as diferentes estruturas celulares.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IMW127",
+      "Nome": "Treinamento Cientifico II",
+      "Créditos": "5.0",
+      "Teórica": "0",
+      "Prática": "150",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Treinamento em laboratorio de qualquer um dos departamentos do instituto de microbiologia, visando o aprendizado no manuseio de equipamento, materiais e reagentes utilizados nas tecnicas em microbiologia e imunologia.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IMW129",
+      "Nome": "Biolog de Celulas Eucarioticas",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Celulas Eucarioticas: Estrutura, Funcao e Composicao Quimica de Menbrana, Organelas Citoplasmaticas e nucleo.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "3º Período": [
+     {
+      "Codigo": "IMW232",
+      "Nome": "Biologia Molecular II",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Propriedade geneticas da escherichia coli. Vantagens da utilizacao dos microrganismos nas pesquisas geneticas. Mutacoes espontaneas e agentes mutagenicos. Tecnica \"replica plate\" carimbo. Plasmideos bacterianos e transferencia genetica.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IMW234",
+      "Nome": "Fund de Microsc Aplic a Microb",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conhecimento teoricos e praticos de microscopia otica e eletronica. Utilizacao dos principios de fisica otica. Obtencao e analise de fotomicrografias.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IMW236",
+      "Nome": "Treinamento Cientifico III",
+      "Créditos": "5.0",
+      "Teórica": "0",
+      "Prática": "150",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenvolver no aluno pensamento cientifico fornecendo-lhe nocoes basicas para que ele se inicie em trabalhos de pesquisa.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IMW231",
+      "Nome": "Patologia dos Processos Gerais",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Disciplina teorico-pratica que introduz o conceito de doenca atraves do estudo dos agentes agressores e da resposta do organismo a esta agressao. Exemplifica tipos de agressao atraves do estudo das doencas prevalentes causadas principalmente por microorganosmo.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IMW233",
+      "Nome": "Sistema Imune",
+      "Créditos": "6.0",
+      "Teórica": "60",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Analise dos mecanismos de reconhecimento e eliminacao dos constituintes celulares ou moleculares que interagem com os organismos animais e alteram sua integridade. Estudo do processos dependentes da acao do sistema imunologico.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IMW235",
+      "Nome": "Virologia Geral",
+      "Créditos": "6.0",
+      "Teórica": "75",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Virus e viroses: organizacao estrutural das particulas virais, propriedades de seus componentes de superficie, interacao virus-celula. Mecanismo celulares de biossintese de virus e interferons e formas de deteccao dessa biossintese.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "4º Período": [
+     {
+      "Codigo": "IMW244",
+      "Nome": "Fisiopatol das Infec Virais",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo dos processos patológicos causados por vírus que infectam humanos e animais. Serão abordadas as características dos principais vírus patogênicos, a epidemiologia, diagnóstico e estratégias de combates às viroses. Também serão abordadas as estratégias de produção de drogas antivirais.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 10:00",
+        "professor": "MARIA TERESA VILLELA ROMANOS"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 10:00",
+        "professor": "JOSE NELSON DOS SANTOS SILVA COUCEIRO"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 10:00",
+        "professor": "NORMA SUELY DE OLIVEIRA SANTOS"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 10:00",
+        "professor": "GABRIELLA DA SILVA MENDES"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 10:00",
+        "professor": "JOSE NELSON DOS SANTOS SILVA COUCEIRO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IMW246",
+      "Nome": "Tec de Diag Lab das Dcs Infec",
+      "Créditos": "4.0",
+      "Teórica": "0",
+      "Prática": "120",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Tecnicas de diagnostico das doencas infecciosas provocadas por virus, bacterias, protozoarios e fungos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IMW243",
+      "Nome": "Fisiopatol Infec Bacterianas",
+      "Créditos": "5.0",
+      "Teórica": "75",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo dos mecanismos de processos patologicos causados por bacterias. Dar-se-à ênfase fatores de virulencia e caracteristicas dos microrganismos. Serão também apresentados o diagnóstico, a transmissão, a profilaxia e o tratamento das doenças.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "10:00 - 12:00",
+        "professor": "ELIANE DE OLIVEIRA FERREIRA"
+       },
+       {
+        "dia": "Ter",
+        "hora": "10:00 - 12:00",
+        "professor": "MARINELLA SILVA LAPORT"
+       },
+       {
+        "dia": "Ter",
+        "hora": "10:00 - 12:00",
+        "professor": "KATIA REGINA NETTO DOS SANTOS"
+       },
+       {
+        "dia": "Ter",
+        "hora": "10:00 - 12:00",
+        "professor": "LEONARDO ROCCHETTO COELHO"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 17:00",
+        "professor": "TATIANA DE CASTRO ABREU PINTO"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 17:00",
+        "professor": "LUCIA MARTINS TEIXEIRA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 17:00",
+        "professor": "RAQUEL REGINA BONELLI"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 17:00",
+        "professor": "MARCO ANTONIO LEMOS MIGUEL"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 17:00",
+        "professor": "MARCIA GIAMBIAGI DE MARVAL"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 17:00",
+        "professor": "KARLA RODRIGUES MIRANDA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 17:00",
+        "professor": "LEANDRO ARAUJO LOBO"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 17:00",
+        "professor": "KATIA REGINA NETTO DOS SANTOS"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IMW245",
+      "Nome": "Fisiopatol das Doenc Infec III",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Mecanismos dos processos patologicos causados por eucarioticos(protozoarios e fungos). Caracteristicas desses microrganismos, aspectos epidemiologicos, diagnostico e tratamento das doencas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IMW247",
+      "Nome": "Treinamento Cientifico IV",
+      "Créditos": "5.0",
+      "Teórica": "0",
+      "Prática": "150",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Participacao do aluno em trabalhos de iniciacao cientifica.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "5º Período": [
+     {
+      "Codigo": "IMW352",
+      "Nome": "Microb da Poluicao Ambiental",
+      "Créditos": "4.0",
+      "Teórica": "30",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Participacao dos microrganismos nos processos de poluicao e despoluicao e a sua utilizacao como indicadores de poluicao. Importancia da biotecnologia ambiental na biorremediacao e no monitoramento do ambiente.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IMW354",
+      "Nome": "Top Especiais de Microb Ambien",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conferencias sobre assuntos diversos da area de microbiologia ambiental e de aplicacao da biologia molecular no estudo da microbiologia ambiental.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IMW351",
+      "Nome": "Ecologia Microbiana",
+      "Créditos": "6.0",
+      "Teórica": "60",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Papel dos microrganismos nos ciclos biologicos dos elementos em ecossistema, solo e agua. Desempenho dos microrganismos na formacao e manutencao do solo e as relacoes entre os microrganismos, plantas e animais.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IMW353",
+      "Nome": "Biodiversidade Tax de Microrg",
+      "Créditos": "4.0",
+      "Teórica": "30",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das caracteristicas morfologicas, estruturais e geneticas de microrganismos e os criterios utilizados na sistematica, idenfiticacao, nomeclatura e classificacao de microrganismo.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IMW355",
+      "Nome": "Treinamento Cientifico V",
+      "Créditos": "5.0",
+      "Teórica": "0",
+      "Prática": "150",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Projeto de iniciacao cientifica: desenvolvimento tecnico e bibliografico.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "6º Período": [
+     {
+      "Codigo": "IMW362",
+      "Nome": "Microbiologia de Alimentos",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudos sobre a ecologia microbiana, a deterioracao, os microrganismos indicadores e os patogenicos, metodos de conservacao e controle microbiologicos, tendo como elemento central o alimento.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IMW364",
+      "Nome": "Biotecnologia Aplicada a Saude",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudos referentes a producao de vacinas bacterianas e virais e producao de insumos por engenharia genetica. Nocoes de biotecnologia vegetal serao abordadas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IMW366",
+      "Nome": "Treinamento Cientifico VI",
+      "Créditos": "5.0",
+      "Teórica": "0",
+      "Prática": "150",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Projeto de iniciacao cientifica: elaboracao da parte escrita: material e metodos, resultados, discussao e conclusao.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IMW361",
+      "Nome": "Bioprocessos Industriais",
+      "Créditos": "6.0",
+      "Teórica": "60",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudos dos processos fermentativos industriais: producao de etanol, cerveja, vinho, queijo, vinagre, acido citrico e acido latico; processos biossinteticos: producao de vitaminas, antibioticos e biopolimeros. A biolixiviacao: corrosao microbiana e tratamento biologico de residuos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "IMW117"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IMW363",
+      "Nome": "Analises Microbiologicas",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das dosagens microbiologicas de antibioticos, vitaminas e aminoacidos. Diagnostico microbiologIco: emprego de microrganismo na bio e quimiolumineScencia, bem como a determinacao de anticorpos anti-neuraminidase.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IMW365",
+      "Nome": "Integração Escola - Empresa",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Apresentar as possibilidades de atuação no mercado de trabalho, nas áreas de pesquisa, indústria, diagnóstico, meio ambiente e biotecnologia. As aulas abordam a conscientização dos alunos quanto a identificação de seus objetivos profissionais, preparo do curriculum vitae, dinâmicas de grupo em atividades de seleção. As áreas de trabalho são apresentadas através de visitas às empresas e centros de pesquisa e tecnologia, vídeos ou palestras de profissionais da área.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "10:00 - 12:00",
+        "professor": "MARCO ANTONIO LEMOS MIGUEL"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "7º Período": [
+     {
+      "Codigo": "IMW412",
+      "Nome": "Trabalhos Experimentais I",
+      "Créditos": "18.0",
+      "Teórica": "0",
+      "Prática": "540",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Inicio do desenvolvimento de um trabalho que resultara na apresentacao de uma monografia ao final do curso.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IMW411",
+      "Nome": "Seminarios de Avaliacao I",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Seminarios apresentados pelos alunos referentes aos assuntos estudados, por cada um deles, em seus estagios profissionais.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ]
+   },
+   "obrigatorias": 32,
+   "eletivas": 0,
+   "ano": "1995/1 a 2013/2"
+  },
+  {
+   "materias": {
+    "1º Período": [
+     {
+      "Codigo": "IMW102",
+      "Nome": "Treinamento Cient em Microbiol",
+      "Créditos": "4.0",
+      "Teórica": "0",
+      "Prática": "120",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A disciplina será desenvolvida de modo a apresentar aos alunos os materiais utilizados nos laboratórios de microbiologia, virologia e imunologia, bem como iniciá-los no desenvolvimento e execução de técnicas e metodologias empregadas para o cultivo e crescimento de células procariotas e eucariotas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 17:00",
+        "professor": "MATEUS GOMES DE GODOY"
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 17:00",
+        "professor": "MARCO ANTONIO LEMOS MIGUEL"
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 17:00",
+        "professor": "MARIA TERESA VILLELA ROMANOS"
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 17:00",
+        "professor": "JULIANA ECHEVARRIA NEVES DE LIMA"
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 17:00",
+        "professor": "LEANDRO ARAUJO LOBO"
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 17:00",
+        "professor": "ANDERSON GUIMARAES BAPTISTA COSTA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 17:00",
+        "professor": "MARIA TERESA VILLELA ROMANOS"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 17:00",
+        "professor": "JULIANA ECHEVARRIA NEVES DE LIMA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 17:00",
+        "professor": "KARLA RODRIGUES MIRANDA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 17:00",
+        "professor": "MARCO ANTONIO LEMOS MIGUEL"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 17:00",
+        "professor": "NORMA SUELY DE OLIVEIRA SANTOS"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 17:00",
+        "professor": "ANDERSON GUIMARAES BAPTISTA COSTA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 17:00",
+        "professor": "SHARTON VINICIUS ANTUNES COELHO"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 17:00",
+        "professor": "CAIO TAVORA RACHID COELHO DA COSTA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 17:00",
+        "professor": "LEANDRO ARAUJO LOBO"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 17:00",
+        "professor": "VITOR WON HELD RABELO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IMW106",
+      "Nome": "Biodiversidade",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Apresentar a diversidade de formas de vida do planeta e os principais componentes das comunidades microbianas que vivem com os animais e as plantas, usando a evolução como guia. Conceitos de evolução, zoologia, botânica, micologia e biodiversidade microbiana serão abordados. As formas de vida serão unidas para compreensão da biodiversidade em \"holobiontes\" ou super-organismos. As práticas incluirão vídeo, microscopia, internet e visitas a Floresta da Tijuca, Jardim Botânico, Zoo e Museu Nacional.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "09:00 - 12:00",
+        "professor": "ANDREW MACRAE"
+       },
+       {
+        "dia": "Qua",
+        "hora": "09:00 - 12:00",
+        "professor": "FLAVIA LIMA DO CARMO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IMWZ50",
+      "Nome": "Ativ Curricular Extensão - MI",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "0",
+      "Extensão": "320",
+      "Informação": {
+       "Info": "Atuação em atividades de extensão registradas na Pró-Reitoria de Extensão da UFRJ, como programas, projetos, cursos de extensão e eventos, coordenados por docentes do quadro permanente ou técnicos da carreira de nível superior na UFRJ. Para eventos, a atuação deverá ser na organização ou na realização do evento. Para cursos, a atuação deve ser na organização ou ministrando aulas.\n___ BIBLIOGRAFIA BÁSICA ___\nBibliografia recomendada pelo coordenador da atividade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "PNN008",
+      "Nome": "Fund de Química para Microbiol",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Ministrar aos alunos conceitos fundamentais em química para uma melhor compreensão nos estudos da função das principais moléculas de interesse biológico, bem como os aspectos energéticos da célula e suas vias metabólicas. Desenvolver nos alunos a habilidade de analisar, tratar matematicamente os resultados experimentais, tirar conclusões e desenvolver atividade crítica que permita análise objetiva do experimento.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 17:00",
+        "professor": "MARINA AMARAL ALVES"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BMA111",
+      "Nome": "Anatomia Humana",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceituação de anatomia. Princípios de construção corporal. Metodologia do estudo anatômico. Nomenclatura anatômica básica. Organização morfofuncional de sistemas orgânicos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 15:00",
+        "professor": "FLAVIA REGINA SOUZA LIMA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 15:00",
+        "professor": "FABIO DE ALMEIDA MENDES"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IMW103",
+      "Nome": "Biologia Celular",
+      "Créditos": "5.0",
+      "Teórica": "75",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo da biologia celular tendo como modelo células de mamíferos. Os diferentes tópicos de estudo dão ênfase às estruturas de diferentes modelos celulares, a organização interna das células e de suas organelas e a relação entre células em organismos multicelulares. Serão introduzidos também os principais métodos experimentais para o estudo de células em geral.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "09:00 - 12:00",
+        "professor": "LEONARDO NIMRICHTER"
+       },
+       {
+        "dia": "Ter",
+        "hora": "09:00 - 12:00",
+        "professor": "ANGELA HAMPSHIRE DE CARVALHO SANTOS"
+       },
+       {
+        "dia": "Ter",
+        "hora": "09:00 - 12:00",
+        "professor": "MOARA LEMOS"
+       },
+       {
+        "dia": "Sex",
+        "hora": "13:00 - 15:00",
+        "professor": "ANGELA HAMPSHIRE DE CARVALHO SANTOS"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IMW110",
+      "Nome": "Bioquímica Celular I",
+      "Créditos": "6.0",
+      "Teórica": "90",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das bases da Bioquímica Celular que abrange desde os primórdios da origem da bioquímica (através das primeiras reações bioquímicas no processo de origem da vida) até os compostos orgânicos fundamentais e essenciais para a manutenção da estrutura e metabolismos dos seres vivos (procariotos e eucariotos), como aminoácidos, proteínas/enzimas, glicídios, lipídeos e nucleotídeos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "09:00 - 12:00",
+        "professor": "LEONARDO NIMRICHTER"
+       },
+       {
+        "dia": "Qui",
+        "hora": "09:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NBE116",
+      "Nome": "Introd à Bioética e à Biosseg",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Pela íntima relação entre as ciências biológicas e a bioética, é oferecida uma visão panorâmica da segunda, oferecendo instrumentos que permitam não só um aprofundamento posterior como também um debate sobre as principais questões atuais neste terreno. A disciplina aborda a legislação em Biossegurança, perigos, níveis de risco e manejo de resíduos e de organismos geneticamente modificados, assim como as Boas Práticas Laboratoriais e uso adequado dos equipamentos de proteção na prevenção de acidentes.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "09:00 - 12:00",
+        "professor": "ANDREIA PATRICIA GOMES"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "2º Período": [
+     {
+      "Codigo": "CFF241",
+      "Nome": "Fisiologia Humana",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Neurofisiol. Neurônios Sinapse Sist. Sensor. Neuroloc. SNA; Fisiol.Cardiovasc. Miocárdio Bomba card. Hemodin. card. Hemodin.; Sist. Respiratório Ap. Respir. Mec. Ventil. Ciclo respir.Espirogr. Ventil.-Perf. Transp.Gases Regul. Resp.;Sist.Urin.F. renal Filtr. secr. reabs. glomer.; Sist.Endóc. Mec.ação horm.Mec.regul.Endóc. Metabol. Hidrossal Metabol.Energ. F.sexual; Nutr. e Metabol. Digest. Abs.Intest. Regul. digest.; Integr.Sist. Termorregul. Reg. p.a. e déb.Card. Adap.esforço Reg. Vol.Extracel e Tônus Equil. Ác-base Adap.estresse Eixo Neuro-imuno-endóc. Homeostasia\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IMW104",
+      "Nome": "Trein Cient Microb e Imun II",
+      "Créditos": "4.0",
+      "Teórica": "0",
+      "Prática": "120",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A partir do conteúdo básico apresentado em TCMI I e dos conceitos teóricos apresentados em Fundamentos de Química e Bioquímica Celular I, a proposta de TCMI II se baseia no aprendizado de técnicas que possam ser utilizadas para o estudo de macromoléculas celulares importantes que contenham carboidratos, proteínas e lipídeos. Essas substâncias seriam estudadas tanto após a extração a partir de massa celular, quanto diretamente nas células.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "IMW102"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IMW120",
+      "Nome": "Bio Cel Fisio Micorganismos",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo da biologia celular de microrganismos. Os diferentes tópicos de estudo dão ênfase às estruturas de células procarioticas e microrganismos eucarióticos que se diferenciam do modelo de células de mamíferos, estudado em Biologia Celular I. Serão também introduzidos conceitos relativos à nutrição e crescimento de microrganismos, assim como o efeito de antimicrobianos sobre as diferentes estruturas celulares.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BMH128",
+      "Nome": "Histologia e Embriologia",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Histologia: Estudos sobre os aspectos histofisiológicos, incluindo noções gerais de estrutura dos diversos tecidos que compõem os órgãos humanos.\nEmbriologia: Noções gerais da fecundação ao fechamento do embrião.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IMW101",
+      "Nome": "Bioquímica Celular II",
+      "Créditos": "6.0",
+      "Teórica": "90",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Compreensão dos mecanismos de obtenção de energia a partir da degradação dos compostos orgânicos de alto potencial energético através de rotas metabólicas distintas realizadas por células procarióticas e eucarióticas. Ao final do curso, o aluno deverá ter o completo entendimento das vias metabólicas sabendo inclusive integrá-las através das regulações como, por exemplo, de aporte energético, vias alternativas e/ou modulação enzimática.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "IMW110"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IMW105",
+      "Nome": "Biolog Molecular de Procarioto",
+      "Créditos": "5.0",
+      "Teórica": "75",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudos de: (I) ácidos nucleicos; (II) nucleases; (III) organização do DNA cromossômico e extracromossômico; (IV) código genético, principais tipos de genes, dogma central e etapas básicas para expressão; (V) mecanismos de regulação gênica; (VI) transferências genéticas vertical e horizontal, e (VII) mecanismos moleculares envolvidos na plasticidade do genoma (mutações, recombinação homóloga, sítio-específica e não-homóloga) e participação dos diferentes elementos genéticos móveis.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "3º Período": [
+     {
+      "Codigo": "IMW202",
+      "Nome": "Biodiv e Ecol de Microrganis",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Compreensão dos princípios ecológicos básicos e entendimento específico do papel dos microrganismos nos ecossistemas. Indivíduos, espécies, populações e suas interações serão explicados utilizando estudos de casos. A taxonomia, a diversidade e a biodiversidade metabólica das bactérias nos ciclos biogeoquímicos serão introduzidas. As aulas práticas abordarão estudos de microcosmos, visando compreender interações competitivas e avaliar como técnicas microbiológicas podem medir um ambiente poluído.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 17:00",
+        "professor": "RODRIGO PIRES DO NASCIMENTO"
+       },
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 17:00",
+        "professor": "CAROLINA NEUMANN KEIM"
+       },
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 17:00",
+        "professor": "CAIO TAVORA RACHID COELHO DA COSTA"
+       },
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 17:00",
+        "professor": "FERNANDA DE AVILA ABREU"
+       },
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 17:00",
+        "professor": "MARCO ANTONIO LEMOS MIGUEL"
+       },
+       {
+        "dia": "Sex",
+        "hora": "13:00 - 15:00",
+        "professor": "FERNANDA DE AVILA ABREU"
+       },
+       {
+        "dia": "Sex",
+        "hora": "13:00 - 15:00",
+        "professor": "MARCO ANTONIO LEMOS MIGUEL"
+       },
+       {
+        "dia": "Sex",
+        "hora": "13:00 - 15:00",
+        "professor": "JULIANA REIS CORTINES"
+       },
+       {
+        "dia": "Sex",
+        "hora": "13:00 - 15:00",
+        "professor": "CAIO TAVORA RACHID COELHO DA COSTA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "13:00 - 15:00",
+        "professor": "VITOR WON HELD RABELO"
+       },
+       {
+        "dia": "Sex",
+        "hora": "13:00 - 15:00",
+        "professor": "CAROLINA NEUMANN KEIM"
+       },
+       {
+        "dia": "Sex",
+        "hora": "13:00 - 15:00",
+        "professor": "RODRIGO PIRES DO NASCIMENTO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IMW230",
+      "Nome": "Biologia Molecular de Eucariot",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Será abordado o genoma eucariótico e seus principais processos como: O dogma central; O genoma eucariótico; Princípios da hereditariedade (mendeliana e não-mendeliana); Duplicação do DNA; Transcrição e processamento de RNAs; expressão gênica; Sequenciamento e Genômica evolucionária; clonagem em eucariotos (nocautes e transgênicos); diagnóstico molecular de doenças genéticas e terapias baseadas em DNA. A disciplina envolverá ainda aulas práticas e teóricas sobre diferentes técnicas moleculares.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 10:00",
+        "professor": "MAITE VASLIN DE FREITAS SILVA"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 10:00",
+        "professor": "LUCIANA JESUS DA COSTA"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 10:00",
+        "professor": "WALTER MARTIN ROLAND OELEMANN"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 10:00",
+        "professor": "TATIANA DOMITROVIC"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 10:00",
+        "professor": "LUCIANA JESUS DA COSTA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 10:00",
+        "professor": "MAITE VASLIN DE FREITAS SILVA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 10:00",
+        "professor": "TATIANA DOMITROVIC"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 10:00",
+        "professor": "ISADORA ALONSO CORREA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IMWU21",
+      "Nome": "Est Sup Inic Cient e Tecn I",
+      "Créditos": "3.0",
+      "Teórica": "0",
+      "Prática": "150",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "No decorrer do RCS o aluno deverá desenvolver seu pensamento científico, recebendo treinamento básico para que se inicie em trabalhos de pesquisa e desenvolvimento tecnológico, estando vinculado a um laboratório e projeto de pesquisa.. O aluno estará envolvido em atividades relacionadas a processos experimentais, químicos e biológicos (com enfoque na Microbiologia e Imunologia) e/ou em atividades de desenvolvimento e controle de produtos associados a processos biológicos. Além disso, receberá treinamento no uso de diversos equipamentos e instrumentos utilizados em laboratório de Biologia. Deverá apresentar ao final do RCS seminário sobre o trabalho desenvolvido e relatórios mensais, ao coordenador do RCS, para a avaliação do estágio.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 17:00",
+        "professor": "LETICIA DE ALBUQUERQUE MARANHAO CARNEIRO"
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 12:00",
+        "professor": ""
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 17:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IMW201",
+      "Nome": "Imunologia Geral",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Análise dos mecanismos de reconhecimento e interação celular no Sistema Imunológico e definição dos processos utilizados na resposta contra diferentes tipos de agressões por microrganismos. Apresentação do mecanismo de geração, áreas de localização no organismo e forma de funcionamento das células de defesa.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 12:00",
+        "professor": "FABIANNO FERREIRA DUTRA"
+       },
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 12:00",
+        "professor": "ELVIRA MARIA SARAIVA CHEQUER BOU HABIB"
+       },
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 12:00",
+        "professor": "MARCELO TORRES BOZZA"
+       },
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 12:00",
+        "professor": "ANDERSON GUIMARAES BAPTISTA COSTA"
+       },
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 12:00",
+        "professor": "LETICIA DE ALBUQUERQUE MARANHAO CARNEIRO"
+       },
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 12:00",
+        "professor": "RENATA DE MEIRELLES SANTOS PEREIRA"
+       },
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 12:00",
+        "professor": "HERBERT LEONEL DE MATOS GUEDES"
+       },
+       {
+        "dia": "Qui",
+        "hora": "10:00 - 12:00",
+        "professor": "ALESSANDRA D ALMEIDA FILARDY"
+       },
+       {
+        "dia": "Qui",
+        "hora": "10:00 - 12:00",
+        "professor": "JULIANA ECHEVARRIA NEVES DE LIMA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "10:00 - 12:00",
+        "professor": "ALBERTO FELIX ANTONIO DA NOBREGA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IMW204",
+      "Nome": "Introdução à Fisiopatologia",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Fundamentos das alterações funcionais e morfológicas que constituem os aspectos objetivos das doenças humanas, os agentes e processos envolvidos na gênese destas alterações e, ainda, os métodos de estudo utilizados para o diagnóstico e pesquisa em Patologia.\n___ BIBLIOGRAFIA BÁSICA ___\n1) BRASILEIRO FILHO, G. Bogliolo Patologia. 9ª ed. Rio de Janeiro: Guanabara Koogan, 2016.\n2) KUMAR, V.; ABBAS, A. & FAUSTO, N.; ASTER, J. C. Robbins & Cotran - as bases patológicas das doenças. 9ª ed. Rio de Janeiro: Elsevier, 2016.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "09:00 - 12:00",
+        "professor": "RENATA DE MEIRELLES SANTOS PEREIRA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "09:00 - 12:00",
+        "professor": "CLAUDIA NETO PAIVA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "09:00 - 12:00",
+        "professor": "JEFFERSON ANTONIO LEITE"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IMW243",
+      "Nome": "Fisiopatol Infec Bacterianas",
+      "Créditos": "5.0",
+      "Teórica": "75",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo dos mecanismos de processos patologicos causados por bacterias. Dar-se-à ênfase fatores de virulencia e caracteristicas dos microrganismos. Serão também apresentados o diagnóstico, a transmissão, a profilaxia e o tratamento das doenças.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "10:00 - 12:00",
+        "professor": "LEONARDO ROCCHETTO COELHO"
+       },
+       {
+        "dia": "Ter",
+        "hora": "10:00 - 12:00",
+        "professor": "ELIANE DE OLIVEIRA FERREIRA"
+       },
+       {
+        "dia": "Ter",
+        "hora": "10:00 - 12:00",
+        "professor": "KATIA REGINA NETTO DOS SANTOS"
+       },
+       {
+        "dia": "Ter",
+        "hora": "10:00 - 12:00",
+        "professor": "MARINELLA SILVA LAPORT"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 17:00",
+        "professor": "RAQUEL REGINA BONELLI"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 17:00",
+        "professor": "KATIA REGINA NETTO DOS SANTOS"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 17:00",
+        "professor": "TATIANA DE CASTRO ABREU PINTO"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 17:00",
+        "professor": "KARLA RODRIGUES MIRANDA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 17:00",
+        "professor": "LUCIA MARTINS TEIXEIRA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 17:00",
+        "professor": "MARCO ANTONIO LEMOS MIGUEL"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 17:00",
+        "professor": "LEANDRO ARAUJO LOBO"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 17:00",
+        "professor": "MARCIA GIAMBIAGI DE MARVAL"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "4º Período": [
+     {
+      "Codigo": "IMW240",
+      "Nome": "Imunopatologia",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Análise dos mecanismos de reconhecimento e eliminação de microrganismos ou de resposta aos seus componentes moleculares por organismos animais. Estudo dos processos e mecanismos de indução que levam a alteração do funcionamento do Sistema Imunológico induzindo o aparecimento de doenças associadas a disfunção deste sistema.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IMW249",
+      "Nome": "Fisiopat das Infec p Eucarioto",
+      "Créditos": "5.0",
+      "Teórica": "75",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo da etiologia, a patogenia e alterações morfológicas causados por eucariotos parasitos (fungos, protozoários e helmintos). Serão estudadas também as características gerais da biologia desses parasitos, aspectos epidemiológicos, diagnóstico e tratamento das doenças.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ISC248",
+      "Nome": "Fund de Bioestatística",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Serão apresentados conceitos gerais sobre análise exploratória de dados, probabilidade e inferência estatística.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IMW203",
+      "Nome": "Microbiologia de Alimentos",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Temas centrais: alimento, ecologia microbiana, deterioração, microrganismos indicadores, patogênicos e seus métodos de detecção, além dos métodos de controle microbiológico e garantia da qualidade na produção de alimentos. Enfocam-se as características microbiológicas de alimentos lácteos, cárneos, vegetais e bebidas, além de microrganismos probióticos e utilização de microrganismos na produção dos alimentos. São feitas visitas a indústrias de alimentos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IMW248",
+      "Nome": "Virologia Geral",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Noções básicas sobre o vírus: como são, como se replicam, como regulam a expressão de seus genomas, como são produzidas suas proteínas, como entram e saem das células infectadas, como ocorrem processos que podem levar a geração de novos vírus. Ao final do curso espera-se que o aluno tenha adquirido conhecimentos básicos sobre vírus animais, vegetais e de bactérias, compreendendo ciclos e estratégias de produção da progênie destes agentes infecciosos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IMWU22",
+      "Nome": "Est Sup Inic Cient e Tecn II",
+      "Créditos": "3.0",
+      "Teórica": "0",
+      "Prática": "150",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "No decorrer do RCS o aluno deverá desenvolver seu pensamento científico, recebendo treinamento básico para que se inicie em trabalhos de pesquisa e desenvolvimento tecnológico, estando vinculado a um laboratório e projeto de pesquisa. O aluno estará envolvido em atividades relacionadas a processos experimentais, químicos e biológicos (com enfoque na Microbiologia e Imunologia) e/ou em atividades de desenvolvimento e controle de produtos associados a processos biológicos. Além disso, receberá treinamento no uso de diversos equipamentos e instrumentos utilizados em laboratório de Biologia. Deverá apresentar ao final do RCS seminário sobre o trabalho desenvolvido, relatórios mensais ao coordenador do RCS, para a avaliação do estágio, trabalho na Semana de Microbiologia e imunologia do Instituto de microbiologia Paulo de Góes, se esta estiver ocorrendo no semestre em que o aluno está matriculado no RCS.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "5º Período": [
+     {
+      "Codigo": "IMW350",
+      "Nome": "Biotecnologia Industrial I",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução sobre os tipos de micróbios, metabolismo, principais microrganismos usados na indústria e as técnicas de engenharia genética usadas para procariotos, eucariotos e microrganismos geneticamente modificados. No segundo módulo, produtos de interesse industrial produzidos por microrganismos, como enzimas e outros bioprodutos, serão abordados. Bioprocessos serão enfocados no terceiro módulo.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 17:00",
+        "professor": "ALANE BEATRIZ VERMELHO"
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 17:00",
+        "professor": "DANIEL CLEMENTE DE MORAES"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 17:00",
+        "professor": "MATEUS GOMES DE GODOY"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 17:00",
+        "professor": "RODRIGO PIRES DO NASCIMENTO"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 17:00",
+        "professor": "ANA MARIA MAZOTTO DE ALMEIDA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 17:00",
+        "professor": "ALANE BEATRIZ VERMELHO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IMW359",
+      "Nome": "Biotecnologia Molecular",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Abordar a síntese e sequenciamento de DNA, anticorpos monoclonais, genômica, proteômica e metabolômica para produção de agentes terapêuticos, de plantas e animais transgênicos e estudo da ciência forense de disgnóstico. Serão discutidos os produtos já comercializados e os organismos recombinantes produtores; as estratégias moleculares utilizadas na sua obtenção, na produção em larga escala e em suas aplicações; além dos benefícios e as consequências éticas de sua utilização.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "13:00 - 15:00",
+        "professor": "CAIO TAVORA RACHID COELHO DA COSTA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "13:00 - 15:00",
+        "professor": "MAITE VASLIN DE FREITAS SILVA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "13:00 - 15:00",
+        "professor": "ELIANE DE OLIVEIRA FERREIRA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "13:00 - 15:00",
+        "professor": "WALTER MARTIN ROLAND OELEMANN"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IMWU31",
+      "Nome": "Est Sup Inic Cient e Tecn III",
+      "Créditos": "3.0",
+      "Teórica": "0",
+      "Prática": "150",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "No decorrer do RCS o aluno deverá desenvolver seu pensamento científico, recebendo treinamento básico para que se inicie em trabalhos de pesquisa e desenvolvimento tecnológico, estando vinculado a um laboratório e projeto de pesquisa.. O aluno estará envolvido em atividades relacionadas a processos experimentais, químicos e biológicos (com enfoque na Microbiologia e Imunologia) e/ou em atividades de desenvolvimento e controle de produtos associados a processos biológicos. Além disso, receberá treinamento no uso de diversos equipamentos e instrumentos utilizados em laboratório de Biologia. Deverá apresentar ao final do RCS seminário sobre o trabalho desenvolvido e relatórios mensais ao coordenador do RCS para a avaliação do estágio, trabalho na Semana de Microbiologia e Imunologia do Instituto de Microbiologia Paulo de Góes, se esta estiver ocorrendo no semestre em que o aluno está matriculado no RCS.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 10:00",
+        "professor": "MARCIA GIAMBIAGI DE MARVAL"
+       },
+       {
+        "dia": "Ter",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       },
+       {
+        "dia": "Sex",
+        "hora": "15:00 - 17:00",
+        "professor": ""
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IMW244",
+      "Nome": "Fisiopatol das Infec Virais",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo dos processos patológicos causados por vírus que infectam humanos e animais. Serão abordadas as características dos principais vírus patogênicos, a epidemiologia, diagnóstico e estratégias de combates às viroses. Também serão abordadas as estratégias de produção de drogas antivirais.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 10:00",
+        "professor": "MARIA TERESA VILLELA ROMANOS"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 10:00",
+        "professor": "JOSE NELSON DOS SANTOS SILVA COUCEIRO"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 10:00",
+        "professor": "NORMA SUELY DE OLIVEIRA SANTOS"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 10:00",
+        "professor": "JOSE NELSON DOS SANTOS SILVA COUCEIRO"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 10:00",
+        "professor": "GABRIELLA DA SILVA MENDES"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IMW358",
+      "Nome": "Controle de Qual Microb na Ind",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das principais análises de controle microbiológico empregadas na indústria farmacêutica e de cosméticos, de acordo com as metodologias e normas preconizadas pela legislação vigente em nosso país.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 17:00",
+        "professor": "ROBERTO GUARDATTI GAMBINE MOREIRA"
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 17:00",
+        "professor": "RAQUEL REGINA BONELLI"
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 17:00",
+        "professor": "KARLA RODRIGUES MIRANDA"
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 17:00",
+        "professor": "ANA CAROLINE NUNES BOTELHO"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 17:00",
+        "professor": "RAQUEL REGINA BONELLI"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 17:00",
+        "professor": "RAPHAEL CAVALCANTE DE MEDEIROS"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IMW365",
+      "Nome": "Integração Escola - Empresa",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Apresentar as possibilidades de atuação no mercado de trabalho, nas áreas de pesquisa, indústria, diagnóstico, meio ambiente e biotecnologia. As aulas abordam a conscientização dos alunos quanto a identificação de seus objetivos profissionais, preparo do curriculum vitae, dinâmicas de grupo em atividades de seleção. As áreas de trabalho são apresentadas através de visitas às empresas e centros de pesquisa e tecnologia, vídeos ou palestras de profissionais da área.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "10:00 - 12:00",
+        "professor": "MARCO ANTONIO LEMOS MIGUEL"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "6º Período": [
+     {
+      "Codigo": "IMW368",
+      "Nome": "Biotecnologia Industrial II",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Produção de materiais de origem microbiana e a biocorrosão; aplicação dos micorganismos na indústria de alimentos e os probióticos; biocombustíveis; técnicas de imobilização de microrganismo e seus produtos; aspectos da produção e aplicação dos microrganismos e seus produtos nas indústrias que utilizam rotas biotecnológicas; patentes e mercado.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IMW367",
+      "Nome": "Técn de Diag Lab Doenças Infec",
+      "Créditos": "3.0",
+      "Teórica": "0",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução aos principais métodos empregados para o diagnóstico laboratorial das doenças infecciosas. São executadas técnicas para a detecção e identificação de diversos agentes etiológicos, contemplando aqueles causadores de doenças de etiologia bacteriana, viral, fúngica, assim como de parasitoses. são discutidas as vantagens e desvantagens do uso de diferentes metodologias e seu impacto no diagnóstico e tratamento das doenças infecciosas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "IMW243",
+       "IMW244",
+       "IMW249"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IMWU32",
+      "Nome": "Est Sup Inic Cient e Tecn IV",
+      "Créditos": "3.0",
+      "Teórica": "0",
+      "Prática": "150",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "No decorrer do RCS o aluno deverá desenvolver seu pensamento científico, recebendo treinamento básico para que se inicie em trabalhos de pesquisa e desenvolvimento tecnológico, estando vinculado a um laboratório e projeto de pesquisa.. O aluno estará envolvido em atividades relacionadas a processos experimentais, químicos e biológicos (com enfoque na Microbiologia e Imunologia) e/ou em atividades de desenvolvimento e controle de produtos associados a processos biológicos. Além disso, receberá treinamento no uso de diversos equipamentos e instrumentos utilizados em laboratório de Biologia. Deverá apresentar ao final do RCS seminário sobre o trabalho desenvolvido e relatórios mensais ao coordenador do RCS para a avaliação do estágio, trabalho na Semana de Microbiologia e Imunologia do Instituto de Microbiologia Paulo de Góes, se esta estiver ocorrendo no semestre em que o aluno está matriculado no RCS.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "7º Período": [
+     {
+      "Codigo": "IMWK41",
+      "Nome": "Projeto Tcc",
+      "Créditos": "5.0",
+      "Teórica": "0",
+      "Prática": "220",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "No decorrer do RCS o aluno deverá desenvolver um trabalho experimental, estando vinculado a um laboratório de pesquisa industrial ou de análises clínicas. Deverá apresentar ao final do RCS, por escrito, um plano de trabalho de conclusão de curso, sob a forma de um projeto de monografia a ser defendido frente a uma banca examinadora (apresentação oral) constituída de três membros aprovados pelo COAA/CEGRIM. Deverá também preparar relatórios bimensais a serem entregues ao coordenador do RCS, para avaliação do estágio. Apresentará trabalho na Semana de Microbiologia e Imunologia do Instituto de Microbiologia Paulo de Góes, se esta estiver ocorrendo no semestre em que o aluno está matriculado no RCS.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 17:00",
+        "professor": "LEONARDO ROCCHETTO COELHO"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": ""
+       },
+       {
+        "dia": "Sex",
+        "hora": "13:00 - 17:00",
+        "professor": ""
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "8º Período": [
+     {
+      "Codigo": "IMWK42",
+      "Nome": "Tcc",
+      "Créditos": "5.0",
+      "Teórica": "0",
+      "Prática": "220",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "No decorrer do RCS o aluno deverá desenvolver um trabalho experimental, estando vinculado a um laboratório de pesquisa industrial ou de análises clínicas. Deverá apresentar ao final do RCS, por escrito, um trabalho de conclusão de curso, sob a forma de uma monografia a ser defendido frente a uma banca examinadora (apresentação oral) constituída de três membros aprovados pelo COAA/CEGRIM. Deverá também preparar relatórios bimensais a serem entregues ao coordenador do RCS, para avaliação do estágio. Apresentará trabalho na Semana de Microbiologia e Imunologia do Instituto de Microbiologia Paulo de Góes, se esta estiver ocorrendo no semestre em que o aluno está matriculado no RCS.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 17:00",
+        "professor": "MARINELLA SILVA LAPORT"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 17:00",
+        "professor": ""
+       },
+       {
+        "dia": "Sex",
+        "hora": "13:00 - 17:00",
+        "professor": ""
+       },
+       {
+        "dia": "Sex",
+        "hora": "09:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "IMWK41"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "Disciplinas Optativas (Escolha Restrita)": [
+     {
+      "Codigo": "IMWX02",
+      "Nome": "Eventos Científicos II",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Participação em Congressos e Reuniões científicas no âmbito da UFRJ ou em outros locais.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IMWX04",
+      "Nome": "Cursos II",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Participação em cursos diversos que não estejam credenciados como disciplinas na UFRJ, visando a complementação da formação do aluno em diferentes áreas, quais sejam científica, literária, administrativa, cultural ou social.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IMWX06",
+      "Nome": "Atividades Culturais II",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Participação em palestras culturais, feiras de livros, exposições, aulas ou apresentação de teatro, dança, canto, instrumento musical, atividade esportiva ou assemelhada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IMWX08",
+      "Nome": "Intercâmbio",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "50",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Atividades de intercâmbio e/ou científico regulares em outras Instituições de Ensino Superior.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IMWX01",
+      "Nome": "Eventos Científicos I",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Participação em Congressos e Reuniões científicas no âmbito da UFRJ ou em outros locais.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IMWX03",
+      "Nome": "Cursos I",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Participação em cursos diversos que não estejam credenciados como disciplinas na UFRJ, visando a complementação da formação do aluno em diferentes áreas, quais sejam científica, literária, administrativa, cultural ou social.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IMWX05",
+      "Nome": "Atividades Culturais I",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Participação em palestras culturais, feiras de livros, exposições, aulas ou apresentação de teatro, dança, canto, instrumento musical, atividade esportiva ou assemelhada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IMWX07",
+      "Nome": "Monitoria",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "50",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Assistência a aulas de disciplinas da UFRJ, cursadas anteriormente pelo aluno com aproveitamento igual ou superior a 7,0, em auxílio a um professor e/ou coordenador da disciplina.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     }
+    ],
+    "Disciplinas Optativas (Escolha Condicionada)": [
+     {
+      "Codigo": "FFC004",
+      "Nome": "Parasitologia Clínica Avançada",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A disciplina compreende aulas teóricas e práticas contemplando diversas infecções parasitárias endêmicas e emergentes. Serão abordados em profundidade conceitos clínicos, diagnóstico laboratorial e também aspectos da epidemiologia, profilaxia e erradicação das doenças parasitárias. Além disso, serão abordados diversos métodos diagnósticos avançados.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "FFC406"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FFC012",
+      "Nome": "Micologia Médica -microbio",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Morfologia e biologia de fungos, classificação e taxônomia dos fungos patogênicos, mecanismo de agressão fúngica, eco-epidemiologia dos fungos e de suas doenças, micoses humanas e veterinárias, diagnóstico laboratorial das infecções fúngicas, antifúngicos e seus mecanismos de ação e resistência, testes de susceptibilidade a drogas antifúngicas, micologia de alimentos e toxinas fúngicas, controle de qualidade no laboratório de micologia médica.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 17:00",
+        "professor": "PAULO MURILLO NEUFELD"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IMM001",
+      "Nome": "Epidemio Mol Bact Inter Médico",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A disciplina abordará os princípios e aplicações dos principais métodos moleculares utilizados para caracterização epidemiológica de agentes bacterianos, assim como algumas das principais ferramentas disponíveis para interpretação e análise dos resultados. Serão apresentadas, de forma teórica e/ou demonstrativa, através de exercícios interativos, metodologias consideradas de referência para este propósito, assim como também serão apresentadas propostas mais recentes e metodologias consideradas emergentes em Bacteriologia. É aconselhável que o aluno tenha previamente noções de biologia molecular de bactérias.\n___Bibliografia Recomendada___\n1- Riley LW. Molecular epidemiology of infectious diseases. Principles and practises. ASM Press, 2004.\n2- Forratini OP. Conceitos Básicos de Epidemiologia Molecular. EDUSP, 1ª ed, 2005.\n3- Persing DH, Tenover FC, Tang YW, Nolte FS, Hayden RT, van Belkum A. Molecular Microbiology: Diagnostic Principles and Practice. ASM Press, 2011.\n4- Filippis, McKee ML. Molecular Typing in Bacterial Infections. Springer, 2013.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IMW001",
+      "Nome": "Introdução à Microscopia",
+      "Créditos": "1.0",
+      "Teórica": "15",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conhecimentos básicos sobre microscopia de luz e microscopia eletrônica utilizados para microbiologia. Serão abordados a utilização dos princípios de física óptica e os procedimentos de preparo de amostras para a obtenção de informações microscópicas sobre espécimes microbianos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 16:00",
+        "professor": "FERNANDA DE AVILA ABREU"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IMW003",
+      "Nome": "Microb e Biotec do Petróleo",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução a microbiologia do petróleo e bioindicadores de poluição; bioprospecção/isolamento de microrganismos a partir de amostras de óleo; métodos moleculares  moleculares aplicados a Microbiologia do Petróleo; microbiologia de reservatórios e MEOR; biorremediação; biossurfactantes e biopolímeros; biocorrosão; microbiologia e fontes de energia alternativa (Biocombustíveis, Biogás); biocatálise e a indústria do petróleo; novas fronteiras (Biologia sintética, engenharia genética...)\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "IMW202"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IMW005",
+      "Nome": "Introd a Bioinf e Filogen Mol",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conhecimento básico de bioinformática e filogenia molecular. Os alunos, em grupos pequenos, vão experimentar bases de dados on-line e ferramentas para análise de sequências.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IMW007",
+      "Nome": "Microb de Ambientes Extremos",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Transmissão de conhecimentos sobre estrutura e fisiologia microbiana em ambientes extremos e sua relação com processos biotecnológicos de interesse industrial. Formas de vida primitivas. Árvore da vida. Extremófilos. Zona de habilidade extrema. Noções de astrobiologia.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "IMW202"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IMW009",
+      "Nome": "Vacinas",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Análise do impacto da utilização de vacinas em Saúde Pública e o desenvolvimento de vacinas contra infecções e câncer. A evolução de vacinas compostas pelos germes vivos, atenuados, inativados pelas suas toxinas e a sua evolução até vacinas com antígenos quimicamente definidos, recombinantes, vacinas gênicas e vacinas sintéticas. Aprofundamento do estudo dos mecanismos de ação de adjuvantes e da resposta vacinal associada com histocompatibilidade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "IMW201"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IMW011",
+      "Nome": "Gestão Lab e Sist Qual",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conhecimentos sobre normas de Práticas de Laboratório (OECD e FDA), as normas vigentes estabelecidas pelo INMETRO, documentos técnicos da qualidade de acordo com o GMP (RDC 210 / RDC17) e BPL (OECD) e série ISO, POP (Procedimento Operacional Padrão), Qualificação de Equipamentos (RDC 210 e da RDC 17), automação, validação de métodos, auditorias de Gestão da Qualidade, assim como Biossegurança, Gestão ambiental e de custos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IMW013",
+      "Nome": "Microbiologia Oral",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Caracterizar microrganismos, habitats e nichos ecológicos da cavidade oral. Reconhecer a participação bacteriana na cárie, doença periodontal e infecções pulpares e do periápice. Reconhecer a importância da saúde oral na saúde sistêmica do indivíduo. Reconhecer os principais métodos de diagnóstico laboratorial e tratamento destas doenças. Identificar e analisar a aplicação dos métodos de controle microbiano na clínica odontológica (cadeia asséptica, desinfecção, esterilização, anti-sepsia).\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IMW015",
+      "Nome": "Asp Morf e Func do Sist Imunol",
+      "Créditos": "1.0",
+      "Teórica": "15",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estrutura e funcionamento dos órgãos linfóides primários e secundários, diferenciação de linfócitos B e subpopulações destas células. Conceitos avançados de imunologia celular serão, também discutidos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "IMW201",
+       "IMW240"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IMW017",
+      "Nome": "Evolução do Sistema Imune",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo da origem e evolução do Sistema Imune em mamíferos através da comparação dos componentes da resposta Imune Inata e Adaptativa encontrados em invertebrados e vertebrados.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "IMW201",
+       "IMW240"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IMW019",
+      "Nome": "Noç Básicas de Doença Maligna",
+      "Créditos": "1.0",
+      "Teórica": "15",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Familiarizar os alunos com os conceitos básicos que definem malignidade a partir das alterações genéticas e interações com o microambiente tumoral. A doença será abordada do ponto de vista clínico e básico, com os aspectos genéticos, de biologia celular, e do microambiente do estroma e do sistema hematopoiético.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IMW021",
+      "Nome": "Fund de Virol Vegetal",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Fundamentos da virologia vegetal dando uma visão geral sobre seus diversos aspectos incluindo: características gerais do vírus vegetais, transmissão, espalhamento no hospedeiro, mecanismos de expressão de seus genomas, respostas dos hospedeiros à infecções virais e mecanismos virais da evasão da resposta de defesa.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "IMW230"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IMW023",
+      "Nome": "Terapia Gênica",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Aulas práticas e discussão de artigos científicos que abordarão os princípios, a utilização e os mecanismos de análise de vetores virais em terapia genica, vacinas, e microRNAs. Serão estudados: (I) os princípios da terapia genica e vetores virais utilizados; (II) desenvolvimento de vacinas recombinantes e resposta imune induzida; (III) o conceito e a utilização de micro e pequenos RNAs; (IV) práticas para a construção de vetores virais.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "IMW230",
+       "IMW359"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IMW025",
+      "Nome": "Patogênese Viral e Seg Aliment",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Discussão de patogênese viral e diferentes aspectos da interação vírus-hospedeiros. Alterações metabólicas induzidas por infecções virais. Demandas nutricionais e reposição de nutrientes específicas para certas viroses agudas e crônicas. Discussão de temas de relevância prática sobre segurança alimentar associados à contaminação viral.\n___BIBLIOGRAFIA BÁSICA___\n1- Santos, N. S. O.; Romanos, M. T. V. & Wigg, M. D. Introdução a Virologia Humana. 2ª edição. Editora Guanabara Koogan, 2008.\n2- Jane Flint, Vicent R. Racaniello, Glenn F. Rall, Anna Marie Skalka. Principles of Virology, volume II: Pathogenesis & Control. 4th edition. ASM Press, 2015.\n3- Guia de vigilância em saúde. 1ª edição, 2016. Secretaria de Vigilância em Saúde, Ministério da Saúde.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "IMW248"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IMW027",
+      "Nome": "Procariotos Marin Aplic Biotec",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Histórico, fundamentos e escopo da Bacteriologia Marinha. Métodos de estudo em Bacteriologia Marinha. Diversidade ecofisiológica de procariotos marinhos. Diversidade estrutural de Bateria e Archaea marinhas. Papel dos procariotos nos ciclos biogeoquímicos e interações tróficas nos ecossistemas marinhos. Procariotos marinhos em simbioses e associações mutualísticas. Patógenos bacterianos marinhos. Potencial biotecnológico de procariotos marinhos. Perspectivas futuras em Bacteriologia Marinha.\n___BIBLIOGRAFIA BÁSICA___\n1- MUNN, C. Marine Microbiology: Ecology and Applications. 2 ed. New York: Garland Science, 2011.\n2- SILVA, M. A. C. Microbiologia Marinha. 1 ed. Editora Univali, 2014.\n3- MADIGAN, M. T. et al. Microbiologia de Brock. 14 ed. Porto Alegre: Artmed, 2016.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "IMW202"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IMW029",
+      "Nome": "Conc Epidemiol Estudo Viroses",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A história das pandemias virais, os vírus como agente etiológico de pandemias, viroses emergentes, diagnóstico das viroses em saúde pública, diagnóstico de referência. Conceitos e redes, sistemas de alerta e vigilância, epidemiologia. Conceitos básicos, epidemiologia. Modelos de estudo, procedimentos para investigação de surtos\ne epidemias.\n___BIBLIOGRAFIA BÁSICA___\n1) SANTOS, Norma Suely de O. Introdução à virologia humana. 3. ed. Rio de Janeiro: Guanabara Koogan, 2015.\n2) FLINT, Jane et al. Principles of Virology. 4th. ed. Washington, DC: ASM Press, 2015.\nv. 2.\n3) BRASIL. Ministério da Saúde. Secretaria de Vigilância em Saúde. Guia de vigilância em saúde. 1. ed. atual. Brasília, DF: Ministério da Saúde, 2016. Disponível em:\nhttp://bvsms.saude.gov.br/bvs/publicacoes/guia_vigilancia_saude_1ed_atual.pdf. Acesso em: 8 jun. 2021.\n4) Alertas epidemiológicos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "IMW248"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IMW031",
+      "Nome": "Imunobiológicos",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Histórico, princípios, classificação, terapêutica, efeitos adversos e segurança dos imunobiológicos. Vacinas. Imunoterapia com anticorpos monoclonais e policlonais. Terapia com proteínas e enzimas recombinantes. Terapia celular. Kit diagnóstico.\n___BIBLIOGRAFIA BÁSICA___\n1) Artigos científicos\n2) MURPHY, Kenneth. Imunobiologia de Janeway. 8. ed. Porto Alegre: Artmed, 2014.\n3) PLOTKIN, Stanley et al. Plotkin's Vaccines. 7th. ed. Philadelphia: Elsevier, 2017.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 17:00",
+        "professor": "HERBERT LEONEL DE MATOS GUEDES"
+       }
+      ],
+      "Requisitos": [
+       "IMW201"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IMW033",
+      "Nome": "Fatores Humanit Saúde Humana",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A disciplina oferece uma visão integrativa das interfaces do sistema imune com outros sistemas do corpo, e dos fatores e mecanismos envolvidos na prevenção,\nna fisiopatologia e no tratamento de doenças relevantes em saúde humana.\n___BIBLIOGRAFIA BÁSICA___\n1) Imunobiologia de Janeway 8ª. Edição. (Murphy, K. M., Ed.). Disponível online em pdf: https://www.meulivro.biz/imunologia/509/imunobiologia-de-janeway-murphy-8-ed-pdf/\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "IMW201"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IMW036",
+      "Nome": "Imunologia Experimental",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A disciplina oferece uma visão evolutiva da imunologia como ciência experimental, partindo de seus conceitos fundamentais para os métodos e abordagens atuais, e finalizando com a análise estrutural e a interpretação de experimentos clássicos. O curso dá prioridade aos aspectos: a) trabalho participativo dos alunos em todas as etapas; b) treinamento para o estudo de temas complexos; c) interpretação de dados experimentais; d) limites e controles metodológicos; e) usos da estatística em imunologia.\n",
+       "BibliografiaBasica": "1) Imunobiologia de Janeway 8ª. Edição. (Murphy, K. M., Ed.). Disponível online em pdf: https://www.meulivro.biz/imunologia/509/imunobiologia-de-janeway-murphy-8-ed-pdf/\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 12:00",
+        "professor": "PEDRO PAULO XAVIER ELSAS"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 17:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "IMW201"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IMW038",
+      "Nome": "Metodologia da Pesquisa",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Fundamentos da metodologia científica e estrutura da pesquisa acadêmica. Gêneros e práticas de escrita científica: resumos, relatórios e monografias. Estratégias de clareza, coesão e revisão crítica de textos acadêmicos. Recursos de apoio à produção científica: referências, ilustrações e comunicação visual. Comunicação oral e processo de revisão por pares na divulgação científica. Ferramentas digitais e inteligência artificial na escrita e na pesquisa: usos, limitações e ética\nBibliografia Básica\n1) SIENA, Osmar. Metodologia da Pesquisa Científica e Elementos para Elaboração e Apresentação de Trabalhos Acadêmicos. Porto Velho: [s.n.], 2024. 200 p. ISBN 978-85-7764-023-2.\n2) Universidade Federal Do Rio de Janeiro. Manual para a elaboração e normalização de trabalhos acadêmicos / organizado por Amanda Moura de Sousa ? 9. ed. ? Rio de Janeiro : UFRJ/SiBI, 2025. 121 p.\n3) Duque, Rita de Cássia. Inteligência Artificial na Escrita Acadêmica: Uma Análise Comparativa de Ferramentas para Qualificação de Textos Científicos. OSR Journal of Business and Management 26(8):17-22.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 16:00",
+        "professor": "MARIA ISABEL NOGUEIRA DI AZEVEDO"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 16:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ISC240",
+      "Nome": "Bases Concei Vigilância Saúde",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O conceito de vigilância na saúde coletiva: histórico e evolução. Conceito e fundamentos da vigilância da saúde. Níveis de prevenção: causas, riscos e danos. Vigilância sanitária. Vigilância epidemiológica. Modelos assistenciais e vigilância da saúde. Estratégias de prevenção: enfoque populacional e de alto risco. Análise da situação de saúde de populações humanas. Operacionalização das ações de vigilância da saúde.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NEP130",
+      "Nome": "Tóp Esp Polít Públ Dir Hum I",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Discussão de temas específicos em políticas públicas e direitos humanos com base no processo histórico e nas críticas contemporâneas, proporcionando ao aluno uma visão sobre o alcance e limites da sua proteção e promoção.\n___BIBLIOGRAFIA BÁSICA___\n1) BECKER, Howard S. Métodos de pesquisa em ciências sociais. São Paulo: Hucitec, 1999.\n2) BELLONI I.; Magalhães H.; Souza L; Metodologia de avaliação em políticas públicas. São Paulo (Cortez) 2003.\n3) BOBBIO, Norberto. A era dos direitos. Rio de Janeiro: Campus, 1992.\n4) BOURGUIGNON, Jussara Ayres; OLIVEIRA Jr., Constantino Ribeiro de (Orgs.).  Pesquisa em ciências sociais: interfaces, debates e metodologias. Ponta Grossa (PR): Todapalavra, 2012.\n5) BRASIL, Programa Nacional de Direitos Humanos , PNDH II, Fernando Henrique Cardoso,  Brasília, Presidência da República, Secretaria da Comunicação Social, Ministério da Justiça, 2002.\n6) BUCCI, Maria Paula Dalari Et. al. (Orgs.). Direitos Humanos e políticas públicas. São Paulo: Pólis, 2001.\n7) FAORO, Raymundo. Os donos do poder. Rio de Janeiro, Editora Globo, 1958.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NEP148",
+      "Nome": "Dir Hum, Pens Negro e Racismo",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Pensamento social negro; Teorias raciais; Racismo; Teorias Etnico-raciais; Relações Étnico Raciais; Movimentos sociais negro; Políticas antirracistas e Direitos Humanos.\n___BIBLIOGRAFIA BÁSICA___\n1) FANON, Franz. Os Condenados da terra. Rio de Janeiro, Editora Civilização Brasileira, 1979.\n2) FERNANDES, Florestan. A integração do negro na sociedade de classes: o legado da \"raça branca\" (volume I). São Paulo, Dominus Editora/Editora da Universidade de São Paulo, 1965.\n3) SKIDMORE, Thomaz E. Preto no branco: raça e nacionalidade no pensamento brasileiro. Rio de Janeiro, Paz e Terra, 1976.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NEP155",
+      "Nome": "Dir Hum e Movimentos Sociais",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo, do ponto de vista histórico e contemporâneo, dos movimentos sociais que lutam por agendas de cidadania inclusiva, contra a discriminação e as desigualdades e em prol dos direitos humanos. Análise tanto dos denominados ?velhos? e ?novos? movimentos sociais, como, mas não limitado, dos movimentos negros, feministas, LGBTQIA+, territoriais, agrárias, sanitárias e sindicais. Reflexão sobre as teorias e práticas de resistência desenvolvidas em diversos contextos de lutas e ativismos, junto com os repertórios sendo construídos diante do cenário atual de redução de direitos.\n___BIBLIOGRAFIA BÁSICA___\n1) BUARQUE DE HOLLANDA, Heloisa. Explosão Feminista. São Paulo: Companhia das Letras. 2018.                                                                                                                     2) GALVAO, Andréia. Marxismo e Movimentos Sociais. Revista Critica Marxista. https://www.ifch.unicamp.br/criticamarxista/arquivos_biblioteca/artigo235artigo5.pdf\n3) GOHN, Maria da Gloria(2014). Movimentos sociais e redes de mobilizações civis no Brasil contemporâneo. Editora Vozes Limitada. 2014.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BMF355",
+      "Nome": "Farmacologia Básica e Aplicada",
+      "Créditos": "6.0",
+      "Teórica": "60",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Receptores farmacologicos; interacoes farmacologicas; transporte de drogas atraves de membranas biologicas; farmacocinetica; agonistas e antagonistas de diversos receptores farmacologicos; acoes de drogas no transporte ionico atraves de membranas biologicas; acoes de drogas em diversos sistemas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "CFF238",
+       "CFF242"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FFC010",
+      "Nome": "Parasitologia Clín Microbio",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A disciplina visa apresentar os principais métodos de diagnóstico parasitológico utilizados, concentrando-se basicamente, nos aspectos morfológicos e nos procedimentos para execução destes métodos.Serão utilizadas as infecções de maior interesse no quadro sanitário brasileiro.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "IMW245",
+       "IMW246"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IBW002",
+      "Nome": "História e Filosofia das Ciênc",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Construção do saber científico. Comentários sobre as ciências clássicas por outros saberes. Olhar antropológico sobre alguns acontecimentos científicos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IMV001",
+      "Nome": "Virologia Veterinária",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Os processos patológicos causados por vírus que infectam animais.  As características dos principais vírus patogênicos, a epidemiologia, diagnóstico e estratégias de combate às viroses.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "IMW248"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IMW002",
+      "Nome": "Microb da Poluição Ambiental",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo da poluição ambiental e ecotoxicologia, com ênfase nas interações dos microrganismos com poluentes químicos orgânicos e inorgânicos e na participação dos microrganismos nos processos de poluição e despoluição, assim como a sua utilização como indicadores de poluição.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "IMW202"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IMW004",
+      "Nome": "Divers Metab Microrg Procariot",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo da biodiversidade bioquímica e metabólica dos microrganismos procariotos, incluindo-se fototrofia, quimiolitrofia e respiração anaeróbica, assim como fixação de carbono e nitrogênio, com ênfase nos aspectos ecológicos desta diversidade. Ao final do curso o aluno terá fundamentos para entender a formação e manutenção dos gradientes químicos que ocorrem nos ambientes aquáticos, e os ciclos biogeoquímicos dos elementos na natureza.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "IMW202"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IMW006",
+      "Nome": "Microbiologia Agrícola",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Apresentar os microrganismos que são encontrados em associação com as plantas e suas funções.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IMW008",
+      "Nome": "Ultraest Comp de Organel Micro",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Análise da ultraestrutura e o funcionamento de organelas ou estruturas citoplasmáticas de diferentes microrganismos tendo como parâmetro de comparação organelas e estruturas de células de mamíferos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "IMW103",
+       "IMW120"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IMW010",
+      "Nome": "Diag Resist Bact aos Antimicro",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Serão discutidos os princípios para a realização de testes de susceptabilidade aos antimicrobianos, serão preparados reagentes para sua execução, e executados testes de disco-difusão, determinação de concentração mínima inibitória, e testes para detecção fenotípica de mecanismos específicos de resistência. A avaliação será baseada na participação durante as aulas e apresentação de seminários.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "IMW243"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IMW012",
+      "Nome": "Mec Molec da Virulência Bacter",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das interações entre bactérias patogênicas e o hospedeiro humano, dando ênfase aos mecanismos moleculares envolvidos nos processos infecciosos. O curso abordará temas básicos da interação patógeno-hospedeiro, incluindo oportunismo, zoonoses e sistemas de secreção bacterianos. Serão abordados, através de modelos, os mecanismos bacterianos de virulência, a regulação e expressão de fatores de virulência.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "IMW201",
+       "IMW243"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IMW014",
+      "Nome": "Microbiota Hum na Saúde e Doen",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo da interação entre bactérias residentes da microbiota e o hospedeiro humano, incluindo (I) conceitos de colonização e aquisição da microbiota e microbioma humano; (II) papel da microbiota na saúde humana com exemplos de pesquisas com animais axênicos e transgênicos, além de humanos; (III) métodos de estudo da microbiota. Ao final do curso, o aluno deverá ser capaz de compreender a natureza dualística da associação entre humanos e sua microbiota residente.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "IMW201",
+       "IMW243"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IMW016",
+      "Nome": "Bases da Inflamação",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Este curso abordará desde aspectos históricos até o conhecimento atual sobre os mecanismos celulares e moleculares da resposta inflamatória. O curso está organizado em aulas teóricas e discussão de artigos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IMW018",
+      "Nome": "Fund em Imunologia",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Apresentar aos alunos as descobertas fundamentais em imunologia que contribuíram para a elaboração dos atuais paradigmas. Espera-se que os alunos participem ativamente de trabalhos científicos históricos e resolvendo problemas, ou seja, propondo abordagens experimentais para testar determinadas hipóteses,\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IMW020",
+      "Nome": "Asp Celul e Mole Inter Vír-cel",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Aulas teóricas e discussão de artigos científicos que abordarão: (I) os mecanismos de subversão da maquinaria celular de transcrição, tradução e tráfego de proteínas em prol da biossíntese viral; (II) os mecanismos pelos quais a infecção viral modula o metabolismo celular; (III) os mecanismos pelos quais a infecção viral induz morte celular, proliferação celular ou oncogênese; (III) as estratégias de restrição celular e a replicação viral.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "09:00 - 12:00",
+        "professor": "IRANAIA ASSUNCAO MIRANDA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "09:00 - 12:00",
+        "professor": "LUCIANA BARROS DE ARRUDA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "09:00 - 12:00",
+        "professor": ""
+       },
+       {
+        "dia": "Sex",
+        "hora": "09:00 - 12:00",
+        "professor": "LUCIANA JESUS DA COSTA"
+       }
+      ],
+      "Requisitos": [
+       "IMW230",
+       "IMW248"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IMW022",
+      "Nome": "Hist da Virologia",
+      "Créditos": "1.0",
+      "Teórica": "15",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Aulas teóricas e discussão de artigos que abordarão os principais eventos da história da virologia, como as principais epidemias, os pesquisadores de maior impacto e os experimentos que mudaram o curso da virologia.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IMW024",
+      "Nome": "Micro em Pauta",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução da história da divulgação científica no Brasil. Análise do impacto das informações científicas na sociedade brasileira. Processos de produção de informação.  Reflexão sobre linguagem científica e linguagem para divulgação científica. Análise sobre a apropriação do conhecimento científico no cotidiano social. Estabelecimento de relações entre informação e cidadania. Elaboração e desenvolvimento de ações no campo da divulgação científica. Criação de meios para divulgação das pesquisas desenvolvidas na Microbiologia e Imunologia.\n___BIBLIOGRAFIA BÁSICA___\n1- SIQUEIRA, D.C.O. A Ciência na Televisão: mito, ritual, espetáculo. São Paulo: Annablume, 1998.\n2- OLIVEIRA, B. F. Cinema e imaginário científico. In: História, Ciência e Saúde v. 13, p.1333-1350. 2006. Rio de Janeiro: FIOCRUZ.\n3- MOREIRA, ILDEU, MASSARANI, LUISA. A divulgação científica no Rio de Janeiro: Algumas reflexões sobre a década de 20. História, Ciências, Saúde ? Manguinhos 7(3): 627651, 2001.\n4- Massarani, Luisa, Turney, Jon, Moreira, Ildeu. Terra Incógnita ? a interface entre ciência e público. Rio de Janeiro: Casa da Ciência, Museu da Vida e Vieira & Lent, 2005.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IMW026",
+      "Nome": "Procariotos Marinhos",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Histórico, fundamentos e escopo da Bacteriologia Marinha. Métodos de estudo em Bacteriologia Marinha. Diversidade ecofisiológica de procariotos marinhos. Diversidade estrutural de Bateria e Archaea marinhas. Papel dos procariotos nos ciclos biogeoquímicos e interações nos ecossistemas marinhos. Procariotos marinhos em simbioses e associações mutualísticas. Patógenos bacterianos marinhos. Potencial biotecnológico de procariotos marinhos. Perspectivas futuras em Bacteriologia Marinha.\n___BIBLIOGRAFIA BÁSICA___\n1- MUNN, C. Marine Microbiology: Ecology and Applications. 2 ed. New York: Garland Science, 2011.\n2- SILVA, M. A. C. Microbiologia Marinha. 1 ed. Itajaí: Editora Univali, 2014.\n3- MADIGAN, M. T. et al. Microbiologia de Brock. 14 ed. Porto Alegre: Artmed, 2016.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "IMW202"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IMW028",
+      "Nome": "Epidem Viroses Pan Surt Ep Mun",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Descrição dos conceitos de epidemiologia, modelos de estudo, investigação de surtos de epidemias. Relevância da epidemiologia para a virologia. Investigação de surtos relacionados a novos vírus e/ou vírus emergentes. Avaliação de fenótipos alterados. Destaque das epidemias ocasionadas por vírus de acordo com os sistemas alterados. Revisão da patogênese, medidas de controle e prevenção dessas viroses, assim como o controle de epidemias uma vez estabelecidas.\n___BIBLIOGRAFIA BÁSICA___\n1) SANTOS. Virologia Humana. 3ª ed. Ed. Guanabara Koogan, 2015.\n2) FLINT, Jane; RACANIELLO, Vicente; RALL, Glenn; SKALKA, Anna Marie. Principles of virology, Volume 2: pathogenesis and control.\n3) Guia de vigilância em saúde - Ministério da Saúde. http://bvsms.saude.gov.br/bvs/publicacoes/guia_vigilancia_saude_1ed_atual.pdf\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "IMW248"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IMW030",
+      "Nome": "Imunotalk: Nós Somos a Banca",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Diferentes imunologistas convidados irão conversar sobre sua carreira e artigos científicos. Os alunos irão entrevistar os pesquisadores sobre dúvidas e curiosidades sobre a carreira do convidado. Os alunos farão perguntas sobre os artigos do professor buscando a sua melhor compreensão. Os alunos ou grupos de alunos antes do encontro receberão previamente os diferentes artigos selecionados pelo professor convidado para estudarem e poderem formular suas perguntas. A avaliação será baseada na participação nas entrevistas e profundidade da discussão gerada.\n___BIBLIOGRAFIA BÁSICA___\n1) Artigos Científicos.\n2) Imunobiologia de Janeway.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "IMW201"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IMW032",
+      "Nome": "a Legislação da Biodiversidade",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A disciplina será composta pela Medida Provisória 2186-16, de 2001; Lei 13.123, de 2015 (Lei da Biodiversidade); Protocolo de Nagoia e plataforma Sisgen 1.0\ne 2.0.\n___BIBLIOGRAFIA BÁSICA___\n1) SANTOS, Hugo; SILVA, Manuela da. Manual de legislação ambiental em biodiversidade para pesquisas acadêmicas. Rio de Janeiro: Editora Conexão 7, 2019.\n2)  BRASIL. Ministério do Meio Ambiente. Conselho de Gestão do Patrimônio Genético. SisGen: manual do usuário. Versão 1.0. Brasília, DF: Ministério do Meio Ambiente, 2017. Disponível em: https://sisgen.gov.br/download/Manual_SisGen.pdf. Acesso em: 9fev. 2022.\n3) BRASIL. Ministério do Meio Ambiente. Câmara Setorial da Academia do Conselho de Gestão do Patrimônio Genético; FUNDAÇÃO OSWALDO CRUZ. Cartilha para a academia:\nlegislação de acesso ao patrimônio genético e conhecimento tradicional associado e repartição de benefícios. Versão 1. Brasília, DF: Ministério do Meio Ambiente; Rio de Janeiro: Fundação Oswaldo Cruz, 2018. Disponível em: https://portal.fiocruz.br/sites/portal.fiocruz.br/files/documentos/cartilha_para_a_academia_lei_13123_maio_2018.pdf. Acesso em: 9 fev. 2022.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IMW035",
+      "Nome": "Imunidade Ciência Sociedade",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A disciplina oferece uma visão evolutiva da imunologia dentro das ciências biológicas e biomédicas. Nossa trajetória parte dos achados experimentais da Imunologia, retraça a elaboração de conceitos e modelos, e examina o impacto do conhecimento gerado sobre a sociedade, sendo este evidenciado pela aplicação prática de princípios e ferramentas imunológicas, assim como pela reação da sociedade a essa aplicação.\nDentro desta área de conhecimento, o curso focaliza em prioridade os seguintes aspectos: a) o rigor científico na pesquisa e na clínica; b) o papel essencial de um discurso científico estruturado e baseado em evidências, e a necessidade de uma cultura robusta do debate acadêmico; c) a reprodutibilidade de achados experimentais em Imunologia; d) a natureza da formulação de hipóteses experimentais e da explicação científica sobre imunidade; e) a validade e mutabilidade das teorias imunológicas; f) e distorção da informação imunológica junto ao público profissional e leigo, alimentada pelo dogmatismo científico, pela cobertura tendenciosa, pelas fake News e por especulações conspiratórias.\n___BIBLIOGRAFIA BÁSICA___\n1) Imunobiologia de Janeway 8ª. Edição. (Murphy, K. M., Ed.).\nDisponível online em free pdf:\nhttps://www.meulivro.biz/imunologia/509/imunobiologia-de-janeway-murphy-8-ed-pdf/\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "IMW201"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IMW037",
+      "Nome": "Filosofia e Ética Ambiental",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Movimento ambiental. Principais influências científicas, econômicas e culturais no movimento ambiental. Ambientalismo de hoje. Papel da ciência como âncora em meio a uma diversidade de ideias e influências.\n",
+       "BibliografiaBasica": "1) David Schmidtz & Dan C. Shahar (2018). Environmental Ethics. What Really Matters, What Really Works. 3a Edição. Oxford University Press, 656 pp. ISBN: 9780190259228\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IMW480",
+      "Nome": "Microbiologia Forense",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Biologia dos microorganismos de relevância forense. Aplicação dos estudos de microorganismos em investigações de provas legais: bioterrorismo, infecção hospitalar, negligência médica, grandes epidemias,crimes sexuais, segurança alimentar e microbiologia de alimentos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEB599",
+      "Nome": "Est da Líng Bras de Sinais I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Nomes próprios; pronomes pessoais; demonstrativos; possessivos; locativos em sentenças simples do tipo pergunta-resposta com \"o que\" e \"quem\" e outros vocábulos básicos; numerais; quantidade; topicalização; flexão verbal; flexão de negação; expressões faciais e corporais; percepção visual; conversação; diálogos; textos: LIBRAS, cultura e comunidade surda.\n",
+       "BibliografiaBasica": "1) BRITO, L. F. Por uma gramática de língua de sinais. Rio de Janeiro: Tempo Brasileiro, 1995.\n2) FELIPE, T.; MONTEIRO, M. S. LIBRAS em contexto. Curso Básico. Brasília: Ministério da Educação e do Desporto/Secretaria de Educação Especial, 2001.\n3) GESSER, A. Libras - Que língua é essa? Crença e preconceitos em torno da língua de sinais e da realidade surda. Florianópolis: Parábola, 2009.\n4) STROBEL, K. L. As imagens do outro sobre a cultura surda. Florianópolis: EdUFSC, 2008.\n",
+       "BibliografiaComplementar": "1) PIMENTA, Nelson e QUADROS, Ronice Muller. Curso de Libras I, LSB Vídeo, volume I, Iniciante, 2006 e 3a ed., 2008.\n2) Dicionário Enciclopédico Ilustrado Triíngue da Língua de Sinais Brasileira ? vol 1 e vol. 2 Site: www.acessobrasil.org.brasil\n3) Dicionário da Língua Brasileira de Sinais, INES, versão, 2.0, ano 2006.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NEP146",
+      "Nome": "Dir Hum, Gênero e Sexualidades",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Teorias e práticas feministas sobre as diversidades de gênero, sexualidade, raça, etnia, identidade de gênero, geracional, deficiência, entre outras. Relação interseccional dessas diversidades com os direitos humanos. Avanços históricos dos direitos e políticas públicas nesses campos e dos movimentos sociais em prol da identidade de gênero e diversidade sexual. Limites e possibilidades da aplicação da interseccionalidade de gênero, sexualidade e diversidades nas políticas públicas.\n___BIBLIOGRAFIA BÁSICA___\n1) GONZALES, Lélia. Racismo e sexismo na cultura brasileira. Em Revista Ciências Sociais Hoje. Anpocs. 1984, p. 223-224.\n2) SEGATO, Rita Laura. Gênero e Colonialidade: Em busca de chaves de leitura e de um vocabulário estratégico descolonial. Tradução de Rose Barboza, Revista E-Cadernos, Publicação Trimestral, n. 18 ? Epistemologias feministas: ao encontro da crítica radical. Universidade de Coimbra, Centro de Estudos Sociais (CES). 2012.\n3) SEVERI, Fabiana Cristina. O gênero da justiça e a problemática da efetivação dos direitos humanos das mulheres. Revista Direito e Práxis. Rio de Janeiro, Vol. 07, N.13, 2016, p. 81-115.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NEP151",
+      "Nome": "Dir Hum e Cultura",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das relações profundas e complexas entre a cultura e os direitos humanos, a partir de uma abordagem crítica e interdisciplinar. Discussão de grandes assuntos sociais e culturais que atravessam discursos contemporaneos e produções audiovisuais, especialmente no que tange aos temas da violência, moralidades, verdade, justiça, ética, liberdade e direitos.\n___BIBLIOGRAFIA BÁSICA___\n1) SANTOS, Boaventura de Sousa. A gramática do tempo para uma nova cultura política. São Paulo : Cortêz, 2010;\n2) HALL, Stuart. Da diáspora identidades e mediações culturais. Belo Horizonte: UFMG, 2009;\n3) FRASER, Nancy. Reconhecimento sem ética? Lua Nova, São Paulo, n. 70, 2007.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "PNN016",
+      "Nome": "Quím Orgânica para Biociências",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Química Orgânicae Vida. Orbitais híbridos sp³, sp² e sp. Ligações covalentes e α e  π. Polaridade de ligação e molecular. Ácidos e bases em química orgânica. Uso de setas curvas: movimentação de elétrons. Estereoquímica do carbono: nomenclatura, estereoquímica configurações, conformações, racematos. Estrutura e reatividade dos compostos de carbono. Funções orgânicas. Tipos de reações em química orgânica (substituição, adição, eliminação, redox e rearranjos). Reações radicalares.\n___Bibliografia Recomendada___\n1- BRUICE, P. Y.  Química Orgânica. Tradução da 4ª edição. volumes 1 e 2. Pearson: São Paulo, 2012.\n2- CAMPBELL, M. K; FARRELL, S. O. Bioquímica.Tradução da 5ª edição americana. Thomson: São Paulo, 2007.\n3- SOLOMONS, T.W.G.; FRYHLE, C. B. Química Orgânica. Volume 2. Tradução da 7ª edição. LTC: Rio de Janeiro. 2000.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "10:00 - 12:00",
+        "professor": "FERNANDA OLIVEIRA DAS CHAGAS"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     }
+    ]
+   },
+   "obrigatorias": 37,
+   "eletivas": 61,
+   "ano": "2014/1 a 9999/9"
+  }
+ ]
+}

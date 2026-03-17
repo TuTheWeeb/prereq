@@ -1,0 +1,2659 @@
+{
+ "Engenharia de Produção M": [
+  {
+   "materias": {
+    "1º Período": [
+     {
+      "Codigo": "MCG112",
+      "Nome": "Física I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Noção de espaço, noção de tempo. Noções de cálculo diferencial e integral. Cálculo Vetorial. Cinemática da partícula. Força. Dinâmica das partículas. Leis de Newton. Trabalho; energia; momento linear; momento angular, conservação. Sistemas de partículas. Corpos rígidos: estática e dinâmica. Gravitação.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "10:00 - 12:00",
+        "professor": "RAPHAEL NUNES PUPIO MAIA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MCG115(C)MCG115=MAW111MCG115=MAC118MCG115=MAE111MCG115=MAC113"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG114",
+      "Nome": "Programação Computacional I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Componentes básicos do computador. Lógica da programação: linguagens de máquina, de montagem e de alto nível; linguagens de programação. Informação e dados. Compiladores; interpretadores. Codificação de números e caracteres. Sequências lógicas; instruções. Elementos de programação. Variáveis, algoritmos, estrutura de dados, controle de fluxo, ordenação, buscas. Predicados; valores booleanos. Listas, cadeias e tuplas. Arquivos. Programação estruturada; recursão. Programação orientada; objetos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:30 - 15:30",
+        "professor": "ANSELMO PESTANA RIBEIRO COSTA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:30 - 15:30",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG117",
+      "Nome": "Química Geral",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Elementos e compostos: moléculas e mols; Estrutura atômica e tabela periódica; Ligação química: covalente, iônica e metálica; Forças intermoleculares; Líquidos e soluções; Sólidos moleculares, covalentes reticulados e metálicos; Propriedades gerais de metais, cerâmicas, polímeros, compósitos e biomateriais. Cinética e equilíbrio químico; Ácidos e bases; Reações de oxirredução.\n___ BIBLIOGRAFIA BÁSICA ___\n1) ATKINS, P. W. Princípios de química: questionando a vida moderna e o meio ambiente. 3. ed. reimpr. - Porto Alegre: Bookman, 2007. 965 p. 14 ex. 540 A874p 3.ed. 2007.\n2) BROWN, Lawrence S.; HOLME, Thomas A. Química geral aplicada à engenharia. São Paulo: Cengage Learning, 2009. xxiv, 653 p. 1 ex. 540 B813q 2010.\n3) BRADY, James E.; RUSSELL, Joel W.; HOLUM, John R. {\\bf Química}: a matéria e suas transformações. 3. ed. -- Rio de Janeiro : LTC, 2002. 2v. 1. ex. + 8 ex. (c1986). 540 B812q 3. ed. 2002.\n4) BROWN, Theodore L. et. al. {\\bf Química}: a ciência central. 9. ed. São Paulo : Pearson Prentice Hall, 2005. 972 p. 28 ex. 540 Q6 9.ed. 2005\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:30 - 15:30",
+        "professor": "MAIRA REGINA RODRIGUES MAGINI"
+       },
+       {
+        "dia": "Sex",
+        "hora": "13:30 - 15:30",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCGZ52",
+      "Nome": "Ativ Curricular Extensão Enp",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "0",
+      "Extensão": "410",
+      "Informação": {
+       "Info": "Atuação em ações de extensão registradas na Pró-Reitoria de Extensão da UFRJ, como programas, projetos, cursos de extensão e eventos, coordenados por docentes do quadro permanente ou técnicos da carreira de nível superior na UFRJ. Para eventos, a atuação deverá ser na organização ou na realização do evento. Para cursos, a atuação deve ser na organização ou ministrando aulas.\n___ BIBLIOGRAFIA BÁSICA ___\nBibliografia recomendada pelo Coordenador da atividade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG110",
+      "Nome": "Introdução à Engenharia",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Engenharia: história; papel social. Formação: atributos, ética. Campos de atuação. Ciência e Pesquisa.Tecnologia e Técnica. Cultura e Ambiente. Qualidade. Estudo e aprendizado. Pesquisa: descoberta e invenção. Modelos. Propriedade intelectual. Simulação, projeto e manufatura assistidos por computador. Projeto: metodologia; estudos preliminares; soluções alternativas; viabilidade; decisão. Projeto básico: unidades; dimensionamento; normas; especificação. Projeto executivo. Execução. Gestão, prazos, custos. Relatórios técnicos; apresentação gráfica.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "13:30 - 15:30",
+        "professor": "MATHEUS FERREIRA DE BARROS"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG113",
+      "Nome": "Física Experimental I",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Medição e expressão de valores medidos. Introdução ao tratamento estatístico de dados. Erros. Representação gráfica. Cinemática e dinâmica da partícula. Energia. Momento Linear. Momento angular. Leis de conservação. Colisões. Corpo Rígido.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "13:30 - 15:30",
+        "professor": "ELVIS OSWALDO LOPEZ MEZA"
+       }
+      ],
+      "Requisitos": [
+       "MCG112(C)MCG112=FIT112"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG115",
+      "Nome": "Cálculo I",
+      "Créditos": "6.0",
+      "Teórica": "90",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Funções; Limites; Continuidade; Cálculo e Aplicação das Derivadas; A Integral Definida; Técnicas de integração: Logaritmo e Exponencial; Aplicações de integrais definidas; Integral Imprópria.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "15:30 - 17:30",
+        "professor": "JEFFERSON RIBEIRO NOGUEIRA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "15:30 - 17:30",
+        "professor": ""
+       },
+       {
+        "dia": "Sex",
+        "hora": "15:30 - 17:30",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG118",
+      "Nome": "Química Experimental",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução ao laboratório químico. Solubilidade. Separações. Determinação de massa molecular. Estequiometria. Reações metatéticas. Reações de oxi-redução. Eletrólise. Cinética. Equilíbrio. Coloides. Soluções. Controle e tratamento de água.\n___ BIBLIOGRAFIA BÁSICA ___\n1) INMETRO - Instituto Nacional de Metrologia, Normalização e Qualidade Industrial. SI : Sistema Internacional de Unidades. 3. ed. Duque de Caxias (RJ) : INMETRO, 1984. 72 p.\n2) MILLS, I.; CUITAS, T.; HOMANN, K.; KOLLAY, N. IUPAC?s Quantities, Units and Symbols in Physical Chemistry. Oxford : Blackwell, 1988.\n3) SILVA, Roberto R. da; ROCHA-FILHO, Romeu C. Mol : uma nova terminologia. Química Nova na Escola, n. 1, p. 12-14, 1995.\n4) MATOS, Robson Mendes. Noções Básicas de Cálculo Estequiométrico. Campinas: Editora Átomo, 2013. p. 15-16.\n5) ROCHA-FILHO, R.C.; SILVA, R.R. Sobre o uso correto de certas grandezas em Química. Química Nova, v.14, n. 4, p. 300-305, 1991.\n6) ROCHA-FILHO, R.C. Grandezas e Unidades de Medida : o Sistema Internacional de Unidades. São Paulo : Ática, 1988. 88 p.\n7) SILVA, Roberto Ribeiro da; BOCCHI, Nerilso; ROCHA FILHO, Romeu Cardozo. Introdução à Química Experimental. São Paulo : McGraw-Hill do Brasil, 1990. p. 52-54, 68-69.\n8) MORAES, ROQUE; RAMOS, MAURIVAN G. Experiências e Projetos da Química, Editora Saraiva.\n9) RÍMULO, AÍRTON. Prática de laboratório de Química Orgânica ? Cursos Emergenciais. DFQ PUC- Minas.\n10) ROGANA, EDYR; PEREIRA SEBASTIÃO A., FERREIRA, GERALDO A.L. Orgânica Experimental. Colégio Universitário da UFMG.\n11) ESPERIDIÃO, YVONE MUSSA; ALVES DE LIMA, NAÍDES. Química: dos experimentos às teorias. Editora Nacional.\n12) MACHADO, HELOÍSA; RÍMULO, AÍRTON; SABINO, CLÁUDIA. Laboratório de Química Experimental, DFQ. Cursos de Engenharia da PUC Minas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "10:00 - 12:00",
+        "professor": "ROBSON MENDES MATOS"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "2º Período": [
+     {
+      "Codigo": "MCG121",
+      "Nome": "Algorítmos e Estrutut de Dados",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Linguagens imperativas.Registros,conjuntos,apontadores e arquivos.Algoritmos de ordenação:noções básicas;eficiência.Estruturas de dados mais comuns:matrizes,listas,pilhas e árvores.Atualização,busca e ordenação em arquivos sequenciais e indexados.Técnicas de decomposição.Formas de representação.Recursão.Conjuntos:operações,representação por listas e por vetores caracterísiticos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 10:00",
+        "professor": "CARLOS AUGUSTO GARCIA ASSIS"
+       }
+      ],
+      "Requisitos": [
+       "MCG114"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG124",
+      "Nome": "Física Experimental II",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Movimento oscilatório (harmônico): simples, amortecido e forçado; Pêndulos simples e composto. Ondas mecânicas:velocidade do som, cordas vibrantes. Fluidos: densidade de líquidos e sólidos; viscosidade. Termometria e calorimetria: temperatura, capacidade calorífica; transição de fase. Conservação da energia.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "15:30 - 17:30",
+        "professor": "RICHARD JAVIER CARABALLO VIVAS"
+       }
+      ],
+      "Requisitos": [
+       "MCG113"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG126",
+      "Nome": "Programação Computacional II",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Computadores e ambientes de programação.Algoritmos.A linguagem Pascal.Estrutura de um programa.Tipos de variáveis.Comandos de atribuição,entrada e saída.Operadores e expressões.Comandos condicionais e de repetição.Funções e procedimentos.Estruturas de dados em Pascal.Manipulação de caracteres e textos.Solução de problemas diversos em Pascal.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "10:00 - 12:00",
+        "professor": "LAURA EMMANUELLA ALVES DOS SANTOS SANTANA DE OLIVEIRA"
+       }
+      ],
+      "Requisitos": [
+       "MCG114"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG120",
+      "Nome": "Álgebra Linear",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Sistemas de equações lineares e Eliminação Gaussiana. Matrizes e determinante. Espaços vetoriais Euclidianos. Geometria dos espaços vetoriais de dimensão finita. Transformações lineares. Espaços vetoriais com produto interno. Ortogonalidade e mínimos quadrados. Autovalores e autovetores. Teorema espectral. Aplicações à solução de EDOs e em Geometria Euclidiana.\n___BIBLIOGRAFIA RECOMENDADA___\n1) Anton, H.; Rorres, C.; Álgebra Linear com aplicações, 10ª edição. Editora Bookman, 2012.\n2) BOLDRINI, J. L.; Costa, S. I.; FIGUEIREDO, V. L.,WETZLER, H. G. Álgebra Linear. 3ª edição. São Paulo: Harbra, 1984.\n3) Cabral, M.; Goldfeld, P.; Curso de Álgebra Linear, Fundamentos e Aplicações. 3ª edição, 2012.\n4) Araujo, T.; Álgebra Linear: teoria e aplicações, 1ª edição. SBM, 2017.\n5) Hoffman K.; Kunze, R.; Álgebra Linear. Editora Polígono, 1976.\n6) Lang, S.; Álgebra Linear, 3ª edição. Editora Ciência Moderna.\n7) Lay, D. C.; Álgebra Linear e suas Aplicações, 5º edição. Editora LTC, 2013.\n8) Lima, E. Álgebra Linear, 9ª edição. Editora Impa, 2018.\n9) STEINBRUCH, A.; WINTERLE, P. Álgebra Linear. 1ª edição, São Paulo: Pearson Makron Books, 1995.\n10) Strang, G.; Álgebra Linear e suas Aplicações, 4ª edição. Editora Cengage, 2010.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "15:30 - 17:30",
+        "professor": "DIEGO SALAZAR GUTIERREZ"
+       },
+       {
+        "dia": "Qua",
+        "hora": "15:30 - 17:30",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG123",
+      "Nome": "Cálculo II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Equações diferenciais ordinárias de primeira ordem e equações diferenciais ordinárias de segunda ordem com coeficientes constantes. Curvas e vetores no plano. Vetores no espaço tridimensional e geometria analítica sólida: retas e planos. Cilindros e superfícies de resolução, superfícies quadráticas. Regras de cadeia, curvas de nível. Derivadas direcionais e gradientes; plano tangente e reta normal e superfície; diferencial, superfície de nível. Máximos e mínimos e multiplicadores de Lagrange.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "17:30 - 19:30",
+        "professor": "FERNANDO PEREIRA PAULUCIO REIS"
+       },
+       {
+        "dia": "Qui",
+        "hora": "17:30 - 19:30",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MCG115"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG125",
+      "Nome": "Física II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estatística dos fluidos. Viscosidade e dinâmica dos fluidos. Movimento oscilatório: harmônico simples, amortecido e forçado. Ondas mecânicas; interferência. Batimento; ondas estacionárias. Som. Termodinâmica: dilatação térmica; Calor; Leis da termodinâmica; Equação de Estado; Transição de fase; Teoria cinética dos gases; Introdução à mecânica estatística do equilíbrio.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:30 - 15:30",
+        "professor": "BERNARDO MATTOS TAVARES"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:30 - 15:30",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MCG112"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG127",
+      "Nome": "Sistemas Projetivos",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Sistemas de Projeção;Sistema de Monge.Métodos Descritivos.Seções planas.Vistas Ortográficas:cortes;seções.Axometria:perspectivas isométricas e oblíqua.Aplicações.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "10:00 - 12:00",
+        "professor": "MARCELO DOS SANTOS MAGALHAES"
+       },
+       {
+        "dia": "Qui",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "3º Período": [
+     {
+      "Codigo": "MCG231",
+      "Nome": "Física III",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estrutura elétrica da matéria: carga elétrica, condutores e dielétricos. Lei de Coulomb. Campo elétrico, potencial elétrico e energia eletrostática. Lei de Gauss. Corrente elétrica, capacitores e circuitos. Campo magnético, leis de Ampere e Bio-Savart. Indutância, Lei de Faraday. Circuitos de corrente alternada. Ondas eletromagnéticas, equações de Maxwell.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:30 - 15:30",
+        "professor": "HABIB SALOMON DUMET MONTOYA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:30 - 15:30",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MCG112",
+       "MCG123"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG233",
+      "Nome": "Física Experimental III",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Aparelhos de medidas elétricas. Elemento de circuito: Resistores, Capacitores e Indutores. Circuitos de corrente contínua. Circuito RC. Leis de Ampere, Faraday e Lenz. Propriedades magnéticas da matéria, histerese. Tensões e correntes alternadas: circuito RLC, oscilações eletromagnéticas. Conservação da energia.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "15:30 - 17:30",
+        "professor": "ANTONIO CANDIDO DE CAMARGO GUIMARAES JUNIOR"
+       }
+      ],
+      "Requisitos": [
+       "MCG123(C)",
+       "MCG124"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG236",
+      "Nome": "Probabilidade e Estatística",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A incerteza na Engenharia. Representação Estatística. Estatística Descritiva. Teoria da Probabilidade. Variáveis aleatórias. Vetores aleatórios. Estimação de parâmetros. Testes de hipóteses. Análise de Variância. Regressão Linear.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "10:00 - 12:00",
+        "professor": "MARCIO JOSE DE MEDEIROS"
+       },
+       {
+        "dia": "Sex",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MCG115"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG230",
+      "Nome": "Desenho Computacional",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Sistema de desenho por computador. Interface. Sistemas de Coordenadas. Organização de desenhos em camadas. Criação, modificação e visualização de modelos bi e tridimensionais. Normas técnicas. Representação gráfica de projetos. Aplicações.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "15:30 - 17:30",
+        "professor": "MARCELO DOS SANTOS MAGALHAES"
+       }
+      ],
+      "Requisitos": [
+       "MCG127"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG232",
+      "Nome": "Engenharia e Sustentabilidade",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Interação entre humanos e o ambiente natural. Balanço de massa e balanço de energia; mudança climática. Resíduos. Ação do homem sobre os ecossistemas terrestres - erosão, queimadas, desmatamentos, poluição do solo, práticas agrárias danosas , hídricos - poluição, eutroficação -  e sobre a atmosfera. Reversão e ações mitigadoras; controle de poluição. Ciclos de vida e ciclos econômicos. Modelos e projeções: integração de conceitos e avaliação do impacto ambiental.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "13:30 - 15:30",
+        "professor": "BEATRIZ ROHDEN BECKER"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG234",
+      "Nome": "Cálculo III",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Definição de integrais duplas e integrais triplas. Jacobiano em R2 e R3. Mudança de variável na integral dupla e na integral tripla. Integral de linha de plano: teorema de Green e campos conservativos. Parametrização de curvas no R3. Integral de linha no espaço. Integrais de superfície. Teorema de Gauss. Teorema de Stokes e independência de caminho.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MCG123"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG237",
+      "Nome": "Técnicas e Métodos de Medição",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Observação e medição de variáveis físicas: deslocamento; velocidade; aceleração; força; tensão; deformação; torque; fluxo mássico; temperatura; fluxo de calor. Princípios de transdução. Circuitos de medidas; sensores. Transformada de Fourier; ajuste a funções lineares e não lineares. Análise de incerteza; função de densidade de probabilidade, estatística. Identificação de sistemas. Experimentação auxiliada por computador. Relatos técnicos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "15:30 - 17:30",
+        "professor": "JOAO CARLOS SANT ANNA DA SILVA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "4º Período": [
+     {
+      "Codigo": "MCG241",
+      "Nome": "Sistemas de Informação",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Classificação; tipos de sistemas de informação. Desenvolvimento de sistemas, projeto de bancos de dados; modelo entidades-relacionamentos. Modelo relacional; normalização. Ambientes de desenvolvimento. Diagrama de fluxo de dados; dicionário de dados. Gestão de banco de dados relacionais. Aplicação de sistemas de informação na gerencia de sistemas de produção.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "10:00 - 12:00",
+        "professor": "CARLOS AUGUSTO GARCIA ASSIS"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG243",
+      "Nome": "Cálculo Numérico",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Erro, aproximação. Regressão estatística; ajuste de curvas. Zeros de funções; splines; interpolação. Métodos de solução de quação lineares e não-lineares; sistemas lineares; equações diferenciais ordinárias. equações parciais. Aplicações: mecânica dos sólidos; equação da difusão; mecânica dos fluidos, transferência de calor e massa.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "15:30 - 17:30",
+        "professor": "FELIPE DE MEDEIROS SALES"
+       },
+       {
+        "dia": "Qua",
+        "hora": "15:30 - 17:30",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MCG114",
+       "MCG120",
+       "MCG123"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG246",
+      "Nome": "Fundamentos da Eletrônica",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Circuitos elétricos. Circuitos de correntes continua e alternada em regime permanente . Aparelhos de medição. Componentes elétricos. transformadores. Máquinas de corrente continua, indução e síncrona. Circuito eletrônico. Diodos transitores, tiristores, circuitos integrados; circuitos lógicos. Aplicações.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "15:30 - 17:30",
+        "professor": "ELLEM PATRICIA DOS SANTOS"
+       },
+       {
+        "dia": "Qui",
+        "hora": "15:30 - 17:30",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MCG231"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG240",
+      "Nome": "Física IV",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Luz. Ondas eletromagnéticas. Interferência, difração, polarização. Noções da relatividade restrita. Física Moderna. Efeitos fotoelétrico e Compton. Átomo de hidrogênio. Difração de elétrons. Função de onda. Equação de Schrodinger. Princípio da incerteza.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:30 - 15:30",
+        "professor": "ANTONIO CANDIDO DE CAMARGO GUIMARAES JUNIOR"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:30 - 15:30",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MCG125",
+       "MCG231"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG242",
+      "Nome": "Cálculo IV",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Equações diferenciais lineares ordinárias de segunda ordem com coeficientes variáveis: soluções por série; ponto ordinário; ponto regular. Série de Fourier: oscilação; amortecimento; ressonância. Transformada de Laplace: convolução; função delta. Problemas de valores de contorno e teoria de Sturm-Liouville. equações diferenciais parciais clássicas: onda; calor.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:30 - 15:30",
+        "professor": "DIEGO SALAZAR GUTIERREZ"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:30 - 15:30",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MCG123"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG245",
+      "Nome": "Estática dos Sólidos",
+      "Créditos": "6.0",
+      "Teórica": "90",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estática: Redução de sistemas de forças, equilíbrio, estruturas, centro de massa e gravidade, centroides e atrito. Sistemas e elementos estruturais. Equações de equilíbrio da estática. Estruturas reticuladas, graus de liberdade e restrições. Estruturas isostáticas, hipostáticas e hiperestáticas. Instabilidade geométrica. Cargas e reações. Esforços internos, estado de tensão, força e momento. Trabalhos virtuais. Momento de inércia. Deformação e deslocamento. Sistemas equivalentes. Linhas de estado: hastes, vigas, pórticos, grelhas, arcos isostáticos e Vigas Gerber. Binários. Sistemas reticulados (treliças). Linhas de influência. Cabos flexíveis.\n___ BIBLIOGRAFIA BÁSICA ___\n1- SUSSEKIND, J. C. Curso de análise estrutural. 11. ed. Porto Alegre : Rio de Janeiro: Globo, 1994. 3 v.\n2- BEER, Ferdinand P.; JOHNSTON, E. Russel. Mecânica vetorial para engenheiros: estática. 9. ed. São Paulo : Mc Graw Hill, 2012. 626 p.\n3- HIBBELER, R,C. Estática: mecânica para engenharia. 12. ed. São Paulo : Pearson, 2011. 512 p.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 10:00",
+        "professor": "BRUNO BARZELLAY FERREIRA DA COSTA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 10:00",
+        "professor": ""
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 10:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MCG112"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG247",
+      "Nome": "Circuito Eletro-eletrônicos",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Multímetros; Amperímetros e Voltímetros; Aquisição de sinais; osciloscópio digital. Pontes de Wheatstone; Indutores e indutância; medida de parâmetros L e C; Medidas de capacitores Eletrolíticos; análise de Fourier de sinais periódicos; Instrumentação virtual; medidas de resistência de terra; medida de potência e fator de potência; circuito retificadores. Fontes de tensão e corrente. Polarização de transitores. transistor para chaveamento de potencia.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "17:30 - 19:30",
+        "professor": "ELLEM PATRICIA DOS SANTOS"
+       }
+      ],
+      "Requisitos": [
+       "MCG233"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "5º Período": [
+     {
+      "Codigo": "MCG351",
+      "Nome": "Fenom Difus Massa Mom e Energ",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conservação de massa. Teorema do transporte. equação da continuidade. Tensor tensão. Fluido Newtoniano. Escoamento laminar. Conservação do momentum. escoamento interno. Lei de Fourier. Conservação da energia. Condução em sólidos. Lei de Fick. Conservação de massa em meios multicomponentes. Difusão de Sólidos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "15:30 - 17:30",
+        "professor": "LUCAS DE OLIVEIRA ALVES"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:30 - 15:30",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MCG125"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG356",
+      "Nome": "Fundamentos da Termodinâmica",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Sistema e Propriedades. Transformação e Interação. Temperatura. Calor e trabalho. Primeira lei. Entropia. Segunda lei. Exergia. Trabalho máximo e disponibilidade. Gás ideal. Substâncias simplçes. Relações termodinâmicas. Processos termodinâmicos. Cicli de Carnot motor e refrigerador.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 12:00",
+        "professor": "MAIRA REGINA RODRIGUES MAGINI"
+       }
+      ],
+      "Requisitos": [
+       "MCG125"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG475",
+      "Nome": "Planej das Unidades Produtivas",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução: determinação das necessidades estratégicas das operações logísticas e de produção, física da fabricação. Localização das instalações. Planejamento da capacidade. Arranjo físico: conceitos, tipos e características. infraestrutura para projeto de arranjo físico. Métodos e ferramentas para elaboração de arranjo físico. Planejamento simplificado e sistemático de layout. Modelos quantitativos de arranjo físico. Análise de necessidade de espaço, mão obra e de movimentação. Modelos baseados no custo de material em processo, sistemas flexíveis de manufatura (FMS). Aspectos de higiene e segurança do trabalho. Ferramentas de avaliação das necessidades de mudanças nas instalações: reengenharia, simulação engenharia econômica.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "17:30 - 19:30",
+        "professor": "ANDREIA LOPES CIRINO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG313",
+      "Nome": "Estudo de Tempos e Métodos",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo de tempos e movimentos. Projeto de métodos. Técnicas de registro do trabalho. Representação de operações e tarefas de produção (fluxogramas e diagramas). Análise de operações industriais e processos de trabalho. Cronometragem, amostragem do trabalho e tempos pré-determinados. Medida do trabalho por métodos fisiológicos.  Estudo de projeto de um posto de trabalho.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "17:30 - 19:30",
+        "professor": "ALLAN MARTINS CORMACK"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG353",
+      "Nome": "Estrut e Prop dos Materiais",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Propriedades. Ligações químicas. Cristalinidade. Materiais amorfos. Direções e planos cristalinos. Polimorfismo. Desordem atômica. Cristais. Defeitos pontuais. Defeitos de linha. Escoamento plástico em cristais. Contornos de grão e policristais. Fases metálicas. Diagrama Fe-C. Endurecimento e encruamento. Fundamentos de elasticidade. Propriedades mecânicas; limite de escoamento. Materiais metálicos, cerâmicos, poliméricos, compósitos. Análise de falhas. Tratamento térmico. Corrosão. Soldagem.\n",
+       "BibliografiaBasica": "1) CALLISTER, William D. . Ciência e engenharia de materiais: uma introdução. Rio de Janeiro: LTC , 2008;\n2) COPAERT, Hulbertus, Metalografia dos Produtos Siderúrgicos Comuns, 4ª edição revista e atualizada por André Luiz V. da Costa e Silva, Editora Blucher, São Paulo, 2008.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "15:30 - 17:30",
+        "professor": "NECESIO GOMES COSTA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MCG117"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG467",
+      "Nome": "Estratégia da Produção",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estratégia: conceitos e níveis estratégicos e processos de planejamento estratégico. Estratégia de Negócios: ambiente, missão, posicionamento, formulação e avaliação de estratégias. Estratégia Corporativa: ambiente, missão, segmentação, estratégia horizontal e integração vertical. Estratégias funcionais e critérios competitivos: finanças, RH, marketing e produção. Planejamento estratégico da produção: prioridades competitivas, estratégias de suprimentos, estratégia de recursos em instalações, processos e humanos, estratégia de qualidade de conformação e estratégia de transformação. Modelos de formulação da estratégia de operações. Ferramentas e estratégia de operações. Aprofundamento da análise Ambiental: Cadeias, Redes e Alianças na Estratégia. Mediação de desempenho.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "17:30 - 19:30",
+        "professor": "ALLAN MARTINS CORMACK"
+       },
+       {
+        "dia": "Qua",
+        "hora": "17:30 - 19:30",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG497",
+      "Nome": "Teoria das Organizações",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Teoria das organizações: conceitos relacionados e antecedentes históricos. Principais perspectivas teóricas; conceito de estrutura organizacional e as principais formulações de estruturas (departamental, projetos, matricial, redes...). Arquitetura e Design Organizacional. Comportamento organizacional. Cultura organizacional: poder nas organizações, Empowerment. Aprendizagem organizacional. Sindicalismo e relações de trabalho. relação entre empresas: competição, cooperação, redes e terceirização. Implantação de mudanças organizacionais: reestruturação, reengenharia, downsizing. Estudos contemporâneos em Teoria das Organizações.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "19:30 - 21:30",
+        "professor": "BRUNO BAPTISTA BLANCO"
+       },
+       {
+        "dia": "Sex",
+        "hora": "15:30 - 17:30",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "6º Período": [
+     {
+      "Codigo": "MCG314",
+      "Nome": "Princípios de Economia",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Principais abordagens do pensamento econômico: liberalismo, nacionalismo, marxismo, monetarismo e keynesianismo. Introdução à microeconomia: demanda, utilidade, oferta, custo de produção, equilíbrio entre demanda e oferta, elasticidades de demanda. estrutura de mercado: concorrência perfeita, monopólio, oligopólio, concorrência monopolística. Introdução à macroeconomia: noções de contabilidade nacional e agregados macroeconômicos, Balanço de Pagamentos. Políticas macroeconômicas: monetária, fiscal e cambial, equilíbrio macroeconômico, modelo IS-LM-BP (Mundell-Fleming).\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "15:30 - 17:30",
+        "professor": "MATHEUS FERREIRA DE BARROS"
+       },
+       {
+        "dia": "Qua",
+        "hora": "15:30 - 17:30",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG473",
+      "Nome": "Gestão da Qualidade e Produt",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Evolução do conceito de qualidade. Gerenciamento da Qualidade Total e Modelos de Desempenho Organizacional. Abordagem Econômica da Qualidade: Custos da Qualidade. Relação entre qualidade e produtividade. Qualidade do projeto ao produto. Certificações e normas de qualidade. Qualidade e o papel da administração da empresa.Melhoria da Qualidade e o papel dos empregados. Diretrizes da qualidade e seus desdobramentos. Desdobramentos da Função Qualidade: Qualidade dos Sistemas de Gerenciamento; Gerenciamento pelas Diretrizes; Gerenciamento por Processos; gerenciamento da Rotina. Qualidade em serviços. Tendenciais atuais.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG496",
+      "Nome": "Simulação",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Teorias das filas. Amostragem aleatória simples e amostragem descritiva. Geração e testes de números aleatórios. Simulação de Monte Carlo. Análise de dados de entrada e saída de uma simulação. Distribuições usuais de probabilidades. Modelagem para simulação. Abordagem de simulação por eventos, por processo, por atividade e pelo método das três fases. Metodologias de desenvolvimento de modelos e programas de simulação. Linguagens e softwares de simulação. linguagens e softwares de simulações de simulações na indústria.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "15:30 - 17:30",
+        "professor": "ANDREIA LOPES CIRINO"
+       },
+       {
+        "dia": "Qui",
+        "hora": "15:30 - 17:30",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MCG236"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG311",
+      "Nome": "Modelagem Estat Aplic à Eng",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Regressão linear simples e múltipla. Violação das suposições básicas: diagnóstico e medidas corretivas. Diagnósticos de pontos influentes. Variáveis indicadoras. Seleção de variáveis e construção de modelos. Multicolinearidade. Validação de modelo.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "13:30 - 17:30",
+        "professor": "MARCIO JOSE DE MEDEIROS"
+       }
+      ],
+      "Requisitos": [
+       "MCG236"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG468",
+      "Nome": "Organiz Avaliação Trabalho",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceitos e noções básicas de  trabalho, organização e avaliação do trabalho. as necessidades das empresas modernas: Organização, produtividade, qualidade, flexibilidade e competitividade. Evolução da organização do trabalho na sociedade capitalista: principais formas de organização do trabalho, principais escolas de organização da produção. organização de processos. Do arranjo funcional à manufatura celular e FMS. Estudo da organização do trabalho no Brasil. Avaliação do trabalho: formas de remuneração da mão-de-obra. Novas formas de Organização do trabalho.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG476",
+      "Nome": "Planej Controle da Produção I",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceitos: utilização, produtividade, eficácia, eficiência, taxa de produção, tempo de ciclo, lead time e takt time. O PCP e o contexto estratégico. Sistemas de Produção. Abordagem de previsão e demanda. Gestão de estoques. Planejamento Mestre da produção. Programação da produção.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:30 - 15:30",
+        "professor": "MILENA ESTANISLAU DINIZ MANSUR DOS REIS"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:30 - 15:30",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG604",
+      "Nome": "Fund Engenharia de Petróleo",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "História e economia do petróleo. Como a terra foi formada. Origens do petróleo e sua acumulação. As atividades da indústria:exploração,performace e desenvolvimento de reservatórios, perfuração e completação de poços, avaliação de formações, elevação natural e artificial, processamento, transporte, distribuição. Sistemas de produção de petróleo. Contratos e regulamentação. Noções de ética e profissionalismo.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "17:30 - 19:30",
+        "professor": "HERSON OLIVEIRA DA ROCHA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "17:30 - 19:30",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "7º Período": [
+     {
+      "Codigo": "MCG474",
+      "Nome": "Gestão de Projetos",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceitos básicos de gerenciamento de projeto. Ciclo de vida de projeto. organização para projeto. Áreas de conhecimento de projetos segundo o PMI. Programação temporal de projetos. ferramentas de apoio no gerenciamento de projetos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:30 - 15:30",
+        "professor": "RICARDO FRANCA SANTOS"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:30 - 15:30",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG481",
+      "Nome": "Contabil Gerencial e Custos",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Noções de escrituração contábil: razonetes em forma de \"T\", balancetes, contas de crédito e débito, contas patrimoniais e contas de resultado. princípios contábeis geralmente aceitos. Regime de competência e regime de caixa. Demonstrações financeiras: balanço patrimonial, demonstração do resultado do exercício, demonstração das mutações do patrimônio líquido, demonstração do valor adicionado e notas explicativas. Análise econômico financeiro das demonstrações financeiras: análises vertical e horizontal,análise por indicadores de liquidez, atividade, estrutura de capital, rentabilidade e valor.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG495",
+      "Nome": "Psicologia Sociologia Trabalho",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Evolução da Psicologia e da Sociologia do trabalho.  Trabalho em equipe. Dinâmica de grupo. Estruturação das relações entre equipes. Princípios de gerenciamento da motivação e da aprendizagem.   O papel do engenheiro de produção no surgimento de uma nova cultura organizacional.  Outras abordagens em psicologia e sociologia do trabalho.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "15:30 - 17:30",
+        "professor": "THIAGO GOMES DE LIMA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "15:30 - 17:30",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG309",
+      "Nome": "Pesquisa Operacional I",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Histórico e desenvolvimento de Pesquisa Operacional. Modelagem de problemas. Programação linear. Método simplex. Dualidade. Análise de sensibilidade. Modelos de alocação e transporte. Utilização de pacotes computacionais.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "17:30 - 19:30",
+        "professor": "MATHEUS FERREIRA DE BARROS"
+       },
+       {
+        "dia": "Qui",
+        "hora": "17:30 - 19:30",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MCG120"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG480",
+      "Nome": "Controle de Qualidade",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Ferramentas básicas e gerenciais da qualidade. fundamentos do Controle Estatístico do processo. Controle estatístico de processo: causa de variação, estabilidade e capacidade de progresso, gráfico de controle para variantes e atributos. Inspeção da qualidade. Inspeção por amostragem: curvas características de operação, distribuições, planos de amostragem NBR 5426 e 5429. Delineamento de experimentos: experimentos fatoriais completos e fracionados. Capacidade do processo. Avaliação de sistemas de mediação: características e estudo de  repetitividade e reprodutibilidade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "19:30 - 21:30",
+        "professor": "ANDREIA LOPES CIRINO"
+       },
+       {
+        "dia": "Qui",
+        "hora": "19:30 - 21:30",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MCG236"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG490",
+      "Nome": "Planej Controle da Produção II",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Sequenciamento da produção. Planejamento geral da capacidade. planejamento dos recursos da manufatura - MRPII. Planejamento das necessidades de distribuição (Distribuition Requeriments Planning) - DRP. Enterprise Resource Planning - ERP. Just in time. Teoria das Restrições.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MCG476"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG598",
+      "Nome": "Engenharia do Produto I",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Contextualização do PDP. Desenvolvimento de Produtos: modelos e metodologias. Desdobramento da função qualidade (QFD). Engenharia simultânea. Ergonomia de produto. PDP e meio ambiente (produtos sustentáveis). Produção mais limpa. Ciclo de vida de um produto: enfoque energético, ambiental e no produto/produção, análise do ciclo de vida. Design for X (DFX). Engenharia e análise do valor. Confiabilidade de produtos. Análise do modo e efeito da falha (FMEA). Prototipagem rápida. Projeto de Produto, Competitividade e Inovação. Viabilidade técnica e econômica no projeto de produtos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "15:30 - 17:30",
+        "professor": "ALLAN MARTINS CORMACK"
+       },
+       {
+        "dia": "Qua",
+        "hora": "15:30 - 17:30",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "8º Período": [
+     {
+      "Codigo": "MCG477",
+      "Nome": "Pesquisa Operacional II",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Programação inteira. Programação dinâmica. Teoria dos grafos. Modelos de estoque.\n",
+       "BibliografiaBasica": "1) ANDRADE, Eduardo Leopoldino de. Introdução à pesquisa operacional: métodos e modelos para a análise de decisão. 4ª ed. Rio de Janeiro: LTC, 2009. xvi, 204 p. 2 ex. + 1 ex. (2. ed., 2002), 658.4034 A553i 4.ed. 2009;\n2) LACHTERMACHER, Gerson. Pesquisa operacional na tomada de decisões. 4ª ed. Rio de Janeiro: Elsevier: Campus, 2009. viii, 223 p. 7 ex. 658.4034 L138p 4.ed. 2009.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "17:30 - 19:30",
+        "professor": "BRUNO BAPTISTA BLANCO"
+       },
+       {
+        "dia": "Sex",
+        "hora": "17:30 - 19:30",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MCG309"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG484",
+      "Nome": "Gestão Ambiental",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Interação homem e meio ambiente. Elementos de ecologia humana. Introdução à economia ambiental. Controle da qualidade ambiental. Instrumentos de gestão ambiental. Políticas ambientais. As empresas e o desenvolvimento sustentável. Introdução à legislação ambiental. Licenciamento ambiental. Sistema de gestão ambiental. Normas da ABNT para qualidade ambiental. Certificações ambientais.\n___ BIBLIOGRAFIA BÁSICA ___\n1) BARBIERI, José Carlos. Gestão ambiental empresarial: conceitos, modelos e instrumentos. In: Gestão ambiental empresarial: conceitos, modelos e instrumentos. Saraiva, 2004.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG491",
+      "Nome": "Logíst Gestão Cadeia Sup I",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "logística e gestão da cadeia de suprimentos. Logística integrada. Enfoque sistêmico e logístico: interfaces, marketing e logística, solução global. Nível de serviço logístico. Logístico reversa. Cadeia de suprimentos: conceitos, desempenho e obstáculos, planejamento de suprimento e demanda, gestão de estoques (economia de escala e incerteza, determinação do nível de disponibilidade do produto), gestão de transporte. Projeto de rede.  TI em cadeia de suprimento. Coordenação da cadeia de suprimento.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "15:30 - 17:30",
+        "professor": "MILENA ESTANISLAU DINIZ MANSUR DOS REIS"
+       },
+       {
+        "dia": "Qui",
+        "hora": "15:30 - 17:30",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG312",
+      "Nome": "Engenharia do Trabalho",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A ergonomia e suas diferentes abordagens. Ergonomia clássica e contemporânea. Os principais conceitos de base (trabalho prescrito e trabalho real, tarefa e atividade, variabilidade, carga de trabalho, modos operatórios) da abordagem da ergonomia da atividade de trabalho.  A Análise Ergonômica do Trabalho ? AET: as principais etapas e suas especificidades como a análise da demanda, as observações detalhadas (sistemáticas) da atividade e as verbalizações sobre os fatos registrados em situação real de trabalho.  A  NR-17 (Norma regulamentadora 17) e sua aplicação. A ergonomia aplicada a projetos. A simulação em ergonomia e seus conceitos de base: a análise de situações de referência e as situações de ação caracterÍsticas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:30 - 15:30",
+        "professor": "THIAGO GOMES DE LIMA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:30 - 15:30",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG483",
+      "Nome": "Engenharia Econômica",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Regimes de capitalização. estrutura temporal da taxa de jurus. Taxas de jurus: nominal, efetiva, proporcional, equivalente e real. Taxa mínima de atratividade. Fluxo de caixa. Séries de pagamento: uniforme, perpétua e gradiente. Sistemas de amortização. Métodos de depreciação. Avaliação de investimentos: valor presente líquido, taxa interna de retorno, índice de rentabilidade, payback e payback descontado. Avaliação de projetos independentes e projetos mutuamente exclusivos. circunstâncias específicas de avaliação de investimentos: limitação de orçamento de capital, investimentos com horizontes temporais distintos, valor residual e perpetuidade do fluxo de caixa, custo anual equivalente. Análise de substituição de equipamentos. Múltiplos de valor de empresas. Determinação de valor em ambiente de incertezas: ponto de equilíbrio (break-even point) contábil e financeiro, análise de sensibilidade, análise de cenários e árvore de decisão.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG485",
+      "Nome": "Gestão da Manutenção",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Confiabilidade. Estatística aplicada à confiabilidade. Modelos de risco. Análise de dados censurados. Análise de sistemas série-paralelo. Análise de sistemas complexos. Medidas de importância de componentes. Testes acelerados. Modelos de garantia. Disponibilidade de equipamentos. FMEA e FTA. Manutenção centrada em confiabilidade - MCC. Manutenção produtiva total - MPT.\n",
+       "BibliografiaBasica": "1) COSTA, Antonio Fernando Branco; EPPRECHT, Eugenio Kahn; CARPINETTI, Luiz Cesar Ribeiro. Controle estatístico de qualidade. São Paulo: Atlas, 2005;\n2) MEYER, Paul L. Probabilidade: aplicações à estatística, 2. ed. reimpr. Rio de Janeiro: Livros Técnicos & Científicos, 2000. 426 p. 1 ex. 519.2 M613p 2. ed. 2000;\n3) TRIGGIA, Attilio Alberto et al. Fundamentos de engenharia de petróleo. Rio de Janeiro: Interciência/PETROBRAS, 2001.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "15:30 - 17:30",
+        "professor": "RICARDO FRANCA SANTOS"
+       },
+       {
+        "dia": "Qua",
+        "hora": "15:30 - 17:30",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MCG236"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG597",
+      "Nome": "Gestão da Inovação",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução à Gestão da inovação: conceito de empreendedorismo, inovação, invenção e design. Importância da inovação. Modelos de inovação. A inovação no Brasil e no mundo. Inovação e difusão tecnológica. Fontes de inovação nas empresas. Propriedade intelectual e produto patenteável. Inovação e estratégia competitiva. Cultura Organizacional para a Inovação. Gestão do Conhecimento nas Organizações. Arranjos Produtivos Locais, Parques tecnológicos, Redes de empresas e Incubadoras de empresas. Inovação e interação universidade-empresa-governo Inovações e gestão de operações. Inovação no Desenvolvimento de Produtos e Serviços. Estratégia de produto e marca. Embalagem e desenvolvimento do produto. Gestão do processo de desenvolvimento de novos produtos: Geração de oportunidades de negócios, desenvolvimento de conceitos de produtos, seleção de oportunidades de negócios, desenvolvimento de protótipos de produtos, teste técnico, teste de mercado e pesquisa junto ao consumidor e introdução no mercado.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "17:30 - 21:30",
+        "professor": "CARLOS EDUARDO LOPES DA SILVA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "9º Período": [
+     {
+      "Codigo": "MCG600",
+      "Nome": "Empreendedorismo",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Definição de Empreendedorismo e empreendedor. Perfil do empreendedor. Habilidades e qualidades do empreendedor. O papel do empreendedor. Identificação de oportunidades para novos negócios. Elaboração de plano de negócio. Identificação de fontes e financiamento para o novo negócio.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "17:30 - 19:30",
+        "professor": "CARLOS EDUARDO LOPES DA SILVA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "17:30 - 19:30",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG594",
+      "Nome": "Metod de Pesq Eng de Produção",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Fundamentos de Metodologia de Pesquisa. A pesquisa e suas Classificações. As etapas da Pesquisa. Fontes de informação para pesquisa. Métodos Científicos. Modelagem e Simulação. Survey. Estudo de Caso. Pesquisa-Ação. Citações e Referências Bibliográficas. Elaboração e redação e apresentação de trabalho Científico.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "15:30 - 17:30",
+        "professor": "HERSON OLIVEIRA DA ROCHA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "15:30 - 17:30",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "10º Período": [
+     {
+      "Codigo": "MCGX72",
+      "Nome": "Trab Conclusão Curso Eng Prod",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "120",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Síntese e integração de conhecimentos do curso e simulação da atividade profissional futura, através do desenvolvimento de um projeto, aplicando conhecimentos adquiridos ao longo do curso, com supervisão de um professor orientador.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MCG594"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCGU02",
+      "Nome": "Estágio Sup Eng Produção",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "160",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estágio curricular obrigatório em empresas ou instituições credenciadas e sob supervisão direta da instituição de ensino, através de relatórios técnicos e acompanhamento individualizado durante o período de realização da atividade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "Disciplinas Optativas (Escolha Restrita)": [
+     {
+      "Codigo": "MCGK02",
+      "Nome": "Iniciação Científica II",
+      "Créditos": "4.0",
+      "Teórica": "0",
+      "Prática": "180",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Realização Intelectual. Estudo aprofundado.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCGU21",
+      "Nome": "Estágio Não Obrigatório I",
+      "Créditos": "4.0",
+      "Teórica": "0",
+      "Prática": "180",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Experiência pré-profissional sob supervisão.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCGU23",
+      "Nome": "Estágio Não Obrigatório III",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Experiência pré-profissional sob supervisão.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCGX04",
+      "Nome": "Participação em Eventos II",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Participação/organização de eventos (semanas, congressos, etc.)\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCGX06",
+      "Nome": "Projeto Cultural I",
+      "Créditos": "4.0",
+      "Teórica": "0",
+      "Prática": "180",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "- Estrear uma peça teatral; escrever um livro literário; realizar uma apresentação de dança, canto, instrumento musical ou atividade assemelhada.\n- Promover uma exposição de arte ou um encontro literário na UFRJ; desenvolver um projeto cultural ou atividade assemelhada na UFRJ.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCGX08",
+      "Nome": "Particip em Ativ Cultural I",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "- Participar de aulas de dança, teatro, canto, artes ou atividade assemelhada na UFRJ.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCGX10",
+      "Nome": "Particip em Ativ Cultural III",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Participar de aula de dança, teatro, canto, artes ou atividade assemelhada na UFRJ.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCGX12",
+      "Nome": "Particip em Ativ Esport I",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Participar de aulas de esporte na UFRJ.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCGX14",
+      "Nome": "Particip em Ativ Esport III",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Participar de aulas de esporte na UFRJ.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCGX16",
+      "Nome": "Competição Esportiva II",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "100",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Participar como mesários  durante as eleições internas (UFRJ), municipais, estaduais e em âmbito nacional.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCGX21",
+      "Nome": "Atividade de Intercâmbio I",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Atividades de intercâmbio.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCGX31",
+      "Nome": "Trabalho Comunitário I",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Participar de trabalhos comunitários e ONGs.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCGX33",
+      "Nome": "Trabalho Comunitário III",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Participar de trabalhos comunitários e ONGs.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCGX52",
+      "Nome": "Administração Empresa Jr II",
+      "Créditos": "4.0",
+      "Teórica": "0",
+      "Prática": "180",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Realização intelectual relacionada à aplicação prática de conhecimentos teóricos (Projetos).\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCGY01",
+      "Nome": "Equipe de Competição I",
+      "Créditos": "4.0",
+      "Teórica": "0",
+      "Prática": "180",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Prática orientada em condições especiais de realização.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCGY03",
+      "Nome": "Equipe de Competição III",
+      "Créditos": "4.0",
+      "Teórica": "0",
+      "Prática": "180",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Prática orientada em condições especiais de realização.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCGY22",
+      "Nome": "Monitoria II",
+      "Créditos": "4.0",
+      "Teórica": "0",
+      "Prática": "180",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Atividade de Monitoria.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCGY31",
+      "Nome": "Viagens/ Visitas Técnicas I",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Prática orientada em condições especiais de realização.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEV121",
+      "Nome": "Português Instrumental I",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A linguagem e seu papel nas sociedades humanas. Expressão oral e escrita.\nA variação linguística em função dos fins e das situações de comunicação. A oração\ne o período.\n",
+       "BibliografiaBasica": "1) COSTA, Iara; FOLTRAN, Ma. J. (org.). A tessitura da escrita. São Paulo: Contexto, 2013.\n2) FIGUEIREDO, Luiz Carlos. A redação pelo parágrafo. Brasília: UnB, 1999.\n3) KOCH, Ingedore; ELIAS, Vanda. Ler e compreender: os sentidos do texto. São Paulo: Contexto, 2006.\n4) LUFT, Celso P. A vírgula. São Paulo: Ática, 1996.\n5) MARCUSCHI, Luiz Antonio. Produção textual, análise de gêneros e compreensão. São Paulo: Parábola, 2008.\n6) MEDEIROS, João Bosco. Redação cientÍfica. 11. ed. São Paulo: Atlas, 2009.\n7) MOTTA-ROTH, Desirée; HENDGES, Graciela. Produção textual na universidade. São Paulo: Parábola, 2010.\n",
+       "BibliografiaComplementar": "1) CARDOSO, João Batista. Teoria e prática de leitura, apreensão e produção de texto. Brasília: EDUNB, 2001.\n2) MACHADO, Anna Rachel et al. Resumo. São Paulo: Parábola Editorial, 2004.\n3) MACHADO, Anna Rachel et al. Resenha. São Paulo: Parábola Editorial, 2004.\n4) MARCUSCHI, Luiz Antônio. Gêneros Textuais: configuração, dinamicidade e circulação. In: KARWOSKI, A.;\n5) GAYDECZKA, B.; BRITO, K. (orgs.). Gêneros textuais: reflexões e ensino. 4. ed. São\nPaulo: Parábola, 2011. p. 15-28.\n6) MEDEIROS, João Bosco. Português Instrumental; para cursos de Contabilidade, Economia e Administração. 4. ed. São Paulo: Atlas, 2000.\n7) PAULIUKONIS, Ma. Aparecida L.; GAVAZZI, Sigrid (org.). Texto e discurso:\nMídia, literatura e ensino. Rio de Janeiro: Lucerna, 2003.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCG044",
+      "Nome": "Ciência, Tecnologia e Sociedad",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução à Teoria do Conhecimento. Noções de Filosofia da Ciência, Noções de Filosofia da Tecnologia. As interações entre Ciência, Tecnologia e Sociedade. O conhecimento científico-tecnológico e seus impactos sociais, culturais, éticos, políticos e ambientais. A participação da sociedade na definição de políticas relativas às questões científicas, tecnológicas, econômicas e ecológicas. Implicações das mudanças científica e tecnológicas nos Direitos Humanos e desenvolvimento socioambiental.\n",
+       "BibliografiaBasica": "1) KUHN, Thomas S. A estrutura das revoluções científicas. São Paulo : Perspectiva, 1975.\n2) ROSA, Luiz Pinguelli. Tecnociências e humanidades: novos paradigmas, velhas questões, o determinismo newtoniano na visão de mundo moderna. Editora Paz e Terra, 2006.\n3) HEIDEGGER, Martin. A Questão da Técnica, in: Ensaios e Conferências. Petrópolis, Vozes, 2003.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUP026",
+      "Nome": "Tóp Esp Éti Filo Polít Contemp",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O séc. XIX caracteriza-se por forte crítca ao modelo epistemológico moderno aplicado à ética e à política. A universalidade dos valores e sistemas de governo não mais se sustenta com tanta facilidade uma vez que ruiram seus fundamentos. Contudo, a ausência de alternativas também se mostra sombria. No presente curso se buscará estudar como o pensamento filosófico contemporâneo tem trabalhado estas questões e quais as suas possíveis contribuições para o debate ético e político no séc. XXI. Instrumentação para ensino teórico dos conteúdos supracitados.\n",
+       "BibliografiaBasica": "1- AGAMBEN ?Homo sacer?. UFMG Editora, Belo Horizonte, 2010.\n2- DELEUZE, G. ?Mil platôs?. Editora 34, 2009.\n3- ESPINOSA, B. ?Ética?. Autêntica. Belo Horizonte, 2009.\n4- FOUCAULT, M. ?Em defesa da sociedade?. Martins Fontes, São Paulo, 1999.\n5- NIETZSCHE. F.W. ?Genealogia da moral?. Companhia das letras, São Paulo, 2007.\n",
+       "BibliografiaComplementar": "1- DELEUZE, G. ?Diferença e repetição?. Graal editor. Rio de Janeiro, 2009.\n2- ESPINOSA, B. ?Tratado político?. Editora Nova Cultural. São Paulo, 1996.\n3- FOUCAULT, M. ?Hermenêutica do sujeito?, Martins Fontes, São Paulo, 2004.\n4- HARDT, M. e NEGRI, A. ?Império?. Record editora. Rio de Janeiro, 2004.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUP117",
+      "Nome": "Estudos Sócioantropológicos",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A seleção natural e a mente humana. O conceito do superorgânico na Antropologia. A construção da visão do sociocultural e a gênese do pensamento socio-antropológico no contexto da modernidade: positivismo científico, expansão colonial, urbanismo e capitalismo (hegemonia do pensamento positivista). Evolução social e a questão de raça: as experiências africanas e amerindígenas sob colonialismo, no Brasil e nas Américas. De raça a cultura: Galton, Spencer, Tylor e Boas. O método etnográfico: a construção do outro primitivo. Etnocentrismo e relativismo cultural. Marx, Durkheim e Weber: as bases clássicas do pensamento sociológico. Formas modernas de desigualdade e discriminação: raça e etnia; gênero; classe. A pluralidade sociocultural brasileira: algumas expressões.\n",
+       "BibliografiaBasica": "1- HAVILAND et al. 2011. Princípios da Antropologia. São Paulo: Cengage Learning\n2- HARARI, Y.N. 2015. Sapiens: Uma Breve História da Humanidade. São Paulo: LPM.\n3- LARAIA, R. 2005. Cultura: Um Conceito Antropológico. Ed. Jorge Zahar. Rio de Janeiro.\n4- LÉVI-STRAUSS, C. 2009. ?Natureza e Cultura?, Revista Antropos. V3, Ano 2.\n5- MINNER, H. 1956. ?O Ritual do Corpo entre os Sonacirema?. Publicação original: ?Body ritual among the Sonacirema?, American Anthropologist, Vol. 58, n° 3.\n6- QUINTANEIRO, T., et. al. 1995. Um Toque de Clássicos: Durkheim, Marx e Weber. Ed. UFMG. Belo Horizonte.\n",
+       "BibliografiaComplementar": "1- GIDDENS, A. 2006. Sociologia. Porto Alegre: Artmed.\n2- MARX, K. 1979. Marx: Sociologia. Otavio, I. (org.). São Paulo: Ática.\n3- DURKHEIM, E.: 1992. Sociologia: Coleção Grandes Cientistas Sociais. n.10. São Paulo: Ática.\n4- WEBER, M. 1999. Economia e Sociedade. Ed. UnB. Brasília.\n5- GOULD, S. J. 1991. A falsa Medida do Homem. São Paulo: Martins Fontes.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUP301",
+      "Nome": "Psicologia da Educação",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A psicologia da Educação e as relações entre desenvolvimento afetivo, cognitivo, linguístico e moral em situações de interação sócio-cultural. Inteligência e escolarização meritocrática: da tradição psicométrica às concepções contemporâneas da inteligência. Humanismo, behaviorismo, psicanálise, construtivismo e sócio-interacionismo. O processo psicológico de construção e aquisição do conhecimento diante dos sistemas de informação e comunicação.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUP371",
+      "Nome": "Educação Brasileira",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A constituição do sistema privado nacional de ensino e a relação entre Estado e Educação. Persistências e mudanças na estrutura e no funcionamento do ensino no Brasil: as relações entre público e privado, centralização e descentralização, ensino laico e ensino confessional, formação geral e formação profissional. A LDB (Lei 9394/96): avanços e recuos no processo de profissionalização do campo pedagógico e de universalização do ensino.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCG006",
+      "Nome": "Proj Eng Op e Proc de Produção",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Através de projetos teóricos e/ou práticos e/ou computacionais, a disciplina destina-se a consolidação e integração de conceitos vistos em diferentes disciplinas do eixo temático de Gestão da Produção, bem como a interação do eixo temático em questão com os demais eixos do curso.\n___ BIBLIOGRAFIA BÁSICA ___\nBibliografia recomendada pelo professor.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MCG475",
+       "MCG490"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCG008",
+      "Nome": "Projeto de Eng de Produto",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Através de projetos teóricos e/ou práticos e/ou computacionais, a disciplina destina-se a consolidação e integração de conceitos vistos em diferentes disciplinas do eixo temático de Desenvolvimento do Produto, bem como a interação do eixo temático em questão com os demais eixos do curso.\n___ BIBLIOGRAFIA BÁSICA ___\nBibliografia recomendada pelo professor.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MCG474",
+       "MCG497(C)",
+       "MCG594(C)",
+       "MCG598"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCG010",
+      "Nome": "Projeto de Eng do Trabalho",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Através de projetos teóricos e/ou práticos e/ou computacionais, a disciplina destina-se a consolidação e integração de conceitos vistos em diferentes disciplinas do eixo temático de Engenharia Organizacional e do trabalho, bem como a interação do eixo temático em questão com os demais eixos do curso.\n___ BIBLIOGRAFIA BÁSICA ___\nBibliografia recomendada pelo professor.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MCG312",
+       "MCG313(C)",
+       "MCG468"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCG012",
+      "Nome": "Projeto de Mét Quantitativos",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Através de projetos teóricos e/ou práticos e/ou computacionais, a disciplina destina-se a consolidação e integração de conceitos vistos em diferentes disciplinas do eixo temático de Engenharia de Produção, bem como a interação do eixo temático em questão com os demais eixos do curso.\n___ BIBLIOGRAFIA BÁSICA ___\nBibliografia recomendada pelo professor.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MCG309",
+       "MCG311",
+       "MCG477(C)",
+       "MCG496"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCGK01",
+      "Nome": "Iniciação Científica I",
+      "Créditos": "4.0",
+      "Teórica": "0",
+      "Prática": "180",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCGK03",
+      "Nome": "Iniciação Científica III",
+      "Créditos": "4.0",
+      "Teórica": "0",
+      "Prática": "180",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Realização Intelectual. Estudo aprofundado.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCGU22",
+      "Nome": "Estágio Não Obrigatório II",
+      "Créditos": "4.0",
+      "Teórica": "0",
+      "Prática": "180",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Experiência pré-profissional sob supervisão.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCGX03",
+      "Nome": "Participação em Eventos I",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Participação/organização de eventos (semanas, congressos, etc.)\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCGX05",
+      "Nome": "Participação em Eventos III",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Participação/organização de eventos (semanas, congressos, etc.)\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCGX07",
+      "Nome": "Projeto Cultural II",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "- Estrear uma peça teatral; escrever um livro literário; realizar uma apresentação de dança, canto, instrumento musical ou atividade assemelhada.\n- Promover uma exposição de arte ou um encontro literário na UFRJ; desenvolver um projeto cultural ou atividade assemelhada na UFRJ.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCGX09",
+      "Nome": "Particip em Ativ Cultural II",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "- Participar de aulas de dança, teatro, canto, artes ou atividade assemelhada na UFRJ.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCGX11",
+      "Nome": "Competição Esportiva I",
+      "Créditos": "11.0",
+      "Teórica": "0",
+      "Prática": "500",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Participar de competição esportiva em nível internacional, nacional ou estatal, de esporte federado.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCGX13",
+      "Nome": "Particip em Ativ Esport II",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Participar de aulas de esporte na UFRJ.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCGX15",
+      "Nome": "Participação em Eleições",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Participar como mesários  durante as eleições internas (UFRJ), municipais, estaduais e em âmbito nacional.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCGX17",
+      "Nome": "Competição Esportiva III",
+      "Créditos": "4.0",
+      "Teórica": "0",
+      "Prática": "200",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Participar como mesários  durante as eleições internas (UFRJ), municipais, estaduais e em âmbito nacional.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCGX22",
+      "Nome": "Atividade de Intercâmbio II",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Atividades de intercâmbio.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCGX32",
+      "Nome": "Trabalho Comunitário II",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Participar de trabalhos comunitários e ONGs.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCGX51",
+      "Nome": "Administração Empresa Jr I",
+      "Créditos": "4.0",
+      "Teórica": "0",
+      "Prática": "180",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Realização intelectual relacionada à aplicação prática de conhecimentos teóricos (Projetos).\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCGX53",
+      "Nome": "Administração Empresa Jr III",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Realização intelectual relacionada à aplicação prática de conhecimentos teóricos (Projetos).\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCGY02",
+      "Nome": "Equipe de Competição II",
+      "Créditos": "4.0",
+      "Teórica": "0",
+      "Prática": "180",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Prática orientada em condições especiais de realização.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCGY21",
+      "Nome": "Monitoria I",
+      "Créditos": "6.0",
+      "Teórica": "0",
+      "Prática": "270",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Atividade de Monitoria.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCGY23",
+      "Nome": "Monitoria III",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Atividade de Monitoria.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCGY32",
+      "Nome": "Viagens/ Visitas Técnicas II",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Prática orientada em condições especiais de realização.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCE026",
+      "Nome": "Introdução em Direitos Humanos",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução e Histórico sobre Direitos Humanos e Movimentos Sociais: direitos individuais, coletivos e ambientais; Dignidade Humana como condição de vida e o\nenfrentamento às desigualdades sociais: enfoque nas Políticas Públicas e Legislações; Direitos Humanos e Interdisciplinaridade na Educação e na Saúde;\nDiscriminação de etnia, origem, raça e cor e as Políticas Afirmativas; Direitos Humanos e o Respeito às Diferenças de Gênero e de Orientação Sexual; Direitos\nHumanos e Movimentos feministas; Comunicação não violenta nos Direitos Humanos; Direitos Humanos e respeito às diferenças socioculturais, religiosas,\nideológicas, filosóficas e políticas; Direitos Humanos, Capacitismo, Acessibilidade e Inclusão; Direitos Humanos e o combate às violências no cotidiano.\n",
+       "BibliografiaBasica": "1)DIBBERN, T. A.; CRISTOFOLETTI, E. C.; SERAFIM, M. P. Educação em Direitos Humanos: um panorama do compromisso social da universidade pública. Educação em Revista, v. 34, 2018;\n2) FREIRE, S. M. Extensão Universitária e Direitos Humanos: desafios na contemporaneidade. Extensão em Foco, nº 2, p. 133-142. 2008;\n3) JUBILUT, L. L.; LOPES, R. O. (Organizadoras). Direitos humanos e vulnerabilidade e a declaração universal dos direitos humanos [e-book]. Santos (SP): Editora Universitária Leopoldianum, 2018. 445 p.\n4) MINISTÉRIO DA EDUCAÇÃO. Plano Nacional de Educação em Direitos Humanos. Comitê Nacional de Educação em Direitos Humanos. Brasília: Secretaria Especial dos Direitos Humanos, Ministério da Educação, Ministério da Justiça, UNESCO, 2007. 76 p.\n5) MINISTÉRIO DA EDUCAÇÃO. Programa Ética e Cidadania: construindo valores na escola e na sociedade: inclusão e exclusão social / organização FAFE ? Fundação de Apoio à Faculdade de Educação (USP). Brasília: Ministério da Educação, Secretaria de Educação Básica, 2007. 4 v.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCG052",
+      "Nome": "Tóp Esp Ciênc Tecnol Sociedade",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Disciplina destinada à aprofundamentos de temáticas de Ciência, Tecnologia e Sociedade. Ementa variável.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "13:30 - 15:30",
+        "professor": "MATHEUS FERREIRA DE BARROS"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUP111",
+      "Nome": "Biologia Cultura Questão Raça",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceito de Raça e como essa ideia tem sido aplicada historicamente aos seres humanos na luz dos entendimentos da Antropologia Cultural. Noções de Natureza e de Cultura e a interação entre o social e o biológico. A Raça como conceito biológico e como isso tem sido aplicado aos seres humanos, tocando nas histórias imbricadas de racismo e racialismo. A Antropologia como campo de conhecimento; e a evolução humana na luz do conceito do superorgânico de A.E.Kroeber. As distinções entre o conceito de distribuição clinática de atributos versus o modelo racialista. O posicionamento dos alunos de Ciências Biológicas frente às principais discussões sobre a questão da (não) existência das raças humanas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUP300",
+      "Nome": "Fund Sociologicos da Educação",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceituação da Sociologia da Educação como campo de produção de conhecimento sobre instituições de ensino-aprendizagem socialmente reconhecidas (escolas, universidades, etc.) como também em outros ambientes de relação do mesmo perfil (laboratórios, fábricas, etc.). Apresentação das linhas teóricas e metodológicas e dos principais conceitos da Sociologia da Educação, sua constituição no processo histórico, bem como alguns principais debates - produzidos tanto no Brasil como em outros países, e verificar suas mútuas influências. Questionamentos acerca da relação entre indivíduo e sociedade, seus aspectos racionais, afetivos e o processo de simbolização do conhecimento. Compreensão das várias formas de socialização e de classificação social, através de visões de pesquisadores e outros agentes sociais, no âmbito dos tipos de educação formal e informal.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUP357",
+      "Nome": "Filosofia da Educação",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUP470",
+      "Nome": "Educação e Comunicação- Libras",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCG007",
+      "Nome": "Projeto de Gestão Econômica",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Através de projetos teóricos e/ou práticos e/ou computacionais, a disciplina destina-se a consolidação e integração de conceitos vistos em diferentes disciplinas do eixo temático de Gestão da Produção, bem como a interação do eixo temático em questão com os demais eixos do curso.\n___ BIBLIOGRAFIA BÁSICA ___\nBibliografia recomendada pelo professor.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "15:30 - 17:30",
+        "professor": "ANDREIA LOPES CIRINO"
+       }
+      ],
+      "Requisitos": [
+       "MCG314",
+       "MCG481"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCG009",
+      "Nome": "Projeto de Eng Organizacional",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Através de projetos teóricos e/ou práticos e/ou computacionais, a disciplina destina-se a consolidação e integração de conceitos vistos em diferentes disciplinas do eixo temático de Engenharia Organizacional e do trabalho, bem como a interação do eixo temático em questão com os demais eixos do curso.\n___ BIBLIOGRAFIA BÁSICA ___\nBibliografia recomendada pelo professor.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MCG467(C)",
+       "MCG474",
+       "MCG497(C)",
+       "MCG594(C)",
+       "MCG597",
+       "MCG600"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCG011",
+      "Nome": "Projeto de Gestão da Qualidade",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Através de projetos teóricos e/ou práticos e/ou computacionais, a disciplina destina-se a consolidação e integração de conceitos vistos em diferentes disciplinas do eixo temático de Gestão da Qualidade, bem como a interação do eixo temático em questão com os demais eixos do curso.\n___ BIBLIOGRAFIA BÁSICA ___\nBibliografia recomendada pelo professor.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MCG473",
+       "MCG480",
+       "MCG485"
+      ],
+      "Tipo": "eletiva"
+     }
+    ]
+   },
+   "obrigatorias": 61,
+   "eletivas": 56,
+   "ano": "2024/1 a 9999/9"
+  }
+ ]
+}

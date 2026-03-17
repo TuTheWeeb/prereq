@@ -1,0 +1,2705 @@
+{
+ "Licenciatura em Filosofia": [
+  {
+   "materias": {
+    "1º Período": [
+     {
+      "Codigo": "FCF361",
+      "Nome": "Lógica I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceitos e procedimentos de análise  básicos da lógica de primeira ordem.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "08:40 - 12:00",
+        "professor": "JEAN YVES BEZIAU"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "2º Período": [],
+    "3º Período": [],
+    "4º Período": [
+     {
+      "Codigo": "EDF245",
+      "Nome": "Psicologia da Educação",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A Psicologia da Educação e as relações entre desenvolvimento afetivo, cognitivo, linguístico e moral em situações de interação sócio-cultural. Inteligência e escolarização meritocrática: da tradição psicométrica às concepções contemporâneas de inteligência. Humanismo, behaviorismo, psicanálise, construtivismo e sócio-interacionismo. O processo psicológico da construção e aquisição do conhecimento diante dos sistemas de informação e comunicação.\n",
+       "BibliografiaBasica": "1)\tCUNHA, M. V. A Psicologia da Educação: dos paradigmas científicos às finalidades educacionais. Acessado em 10 de julho de 2013. http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0102-25551998000200004.\n2)\tAZEVEDO, E. M. K. Concepção de Carl Rogers sobre aprendizagem. Acessado em 10 de julho de 2013. http://elisakerr.wordpress.com/concepcao-de-aprendizagem-de-carl-rogers/.\n3)\tBOCK, A. M. B.; FURTADO, O; TEIXEIRA, M. L. T. Psicologias: uma introdução ao estudo de Psicologia. São Paulo, Saraiva: 2002.\n",
+       "BibliografiaComplementar": "1)\tVIGOTSKY, L. A formação social da mente. São Paulo, Martins Fontes: 1998.\n2)\tVYGOTSKY, L. Pensamento e Linguagem. São Paulo, Martins Fontes: 1989.\n3)\tCOLL, C.; MONEREO, C.; et Coll. Psicologia da Educação Virtual: aprender e ensinar com as tecnologias da informação e da comunicação. Porto Alegre, Artmed: 2010.\n4)\tAUSUBEL, D.P. et alii. Psicologia educacional. Rio de Janeiro: ed. Interamericano, 1980.\n5)\t PATTO, M.H. Introdução à psicologia escolar. São Paulo: T.A. Queiros, 1986.\n6)\tPIAGET, J. Seis estudos de psicologia. Rio de Janeiro: Forense, 1970.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:40 - 17:00",
+        "professor": "GIULIANA VOLFZON MORDENTE"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDA234",
+      "Nome": "Educação Brasileira",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A constituição do sistema nacional de ensino e a relação entre Estado e Educação. Persistências e mudanças na estrutura e no funcionamento do ensino no Brasil: as relações entre público e privado, centralização e descentralização, ensino laico e ensino confessional, formação geral e formação profissional. A LDBEN (Lei 9394/96): avanços e recuos no processo de profissionalização do campo pedagógico e de universalização do ensino.\n",
+       "BibliografiaBasica": "1)\tCUNHA, Luiz Antônio. 5ª ed. Educação e desenvolvimento Social no Brasil. Rio de Janeiro: Francisco Alves , 1980.\n2)\tBRASIL. LEI DE DIRETRIZES E BASES DA EDUCAÇÃO NACIONAL, LDBEN. LEI 9.349 de 20/12/1996.\n3)\tSAVIANI, Dermeval. A nova lei de educação - trajetórias, limites e perspectivas. Campinas: Autores Associados, 1997.\n",
+       "BibliografiaComplementar": "1)\tBRZEZINSKI, Iria. (Org.). LDB dez anos depois: reinterpretação sob diversos olhares. São Paulo: Cortez, 2008.\n2)\t______. Políticas contemporâneas de formação e professores para os anos iniciais do ensino fundamental. Educação & Sociedade, v. 29, n. 105, set/dez 2008.\n3)\tCUNHA, Luiz Antonio; GÓES, Moacyr de. O golpe na educação. Rio de Janeiro: Jorge Zahar, 1985.\n4)\t______. Educação, Estado e Democracia no Brasil. 5ª ed.São Paulo: Cortez, 2005.\n5)\tCURY, Carlos Jamil. Legislação educacional brasileira. 2ª ed. Rio de Janeiro: DP&A, 2002.\n6)\t______. A educação básica no Brasil. Educação & Sociedade, n. 80, v. 23, p. 169-202, 2002.\n7)\t______. Estado e políticas de financiamento em educação. Educação & Sociedade, v. 28, n. 100, Out. 2007.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 12:00",
+        "professor": "JUCINATO DE SEQUEIRA MARQUES"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FCWX01",
+      "Nome": "Atividades Complementares- Lic",
+      "Créditos": "5.0",
+      "Teórica": "0",
+      "Prática": "210",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Bolsas concedidas pela UFRJ (monitoria, estágio interno, outras). Apresentação de trabalhos em congressos, seminários e simpósios versando sobre temas filosóficos. Assistência a congressos, seminários, simpósios, conferências, versando sobre temas filosóficos. Bolsa de Iniciação Científica ou por agência de fomento. Assistência a defesa de dissertação de mestrado, tese de doutorado e concursos para professor. Realização de curso regular de língua estrangeira. Desenvolvimento de material didático. Artigos em revista de filosofia. Participação em projetos de extensão - declaração do responsável pelo projeto cadastrado na UFRJ. Realização de curso de extensão com declaração.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "5º Período": [
+     {
+      "Codigo": "EDD636",
+      "Nome": "Educ e Comunicação II (Libras)",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O estudo de LIBRAS na formação do professor em uma visão inclusiva de Educação. Cultura surda e comunidade. As comunidades surdas no Brasil. Surdez e Patologia. Surdez e diferença. Gramática em LIBRAS. Vocabulário básico. Exercícios e diálogos: família, apresentação, saudação, e sentimentos; objetos, alimentos e bebidas; corpo humano; animais; vestuário. Acessórios e cores; profissões e sistemas monetários; meios de transportes e viagens; países, estados e cidades; calendário, condições climáticas e estações do ano; mitos, lendas e crenças. Exercício para o desenvolvimento da percepção e uso do espaço e do corpo.\nBIBLIOGRAFIA RECOMENDADA\n1)\tBRASIL. DECRETO Nº 5.626, DE 22 DE DEZEMBRO DE 2005. Decreto Lei de Libras. Disponível em: . Acesso em: dez. 2011.\n2)\t________. LEI FEDERAL Nº 10.436 de 24/04/2002. Reconhece a Língua Brasileira de Sinais ? Libras. Brasília ? DF Disponível em: . Acesso em: dez. 2011.\n3)\tBRITO, L. F. Integração Social e Educação de Surdos. Rio de Janeiro: Ed. Babel, 1993.\n",
+       "BibliografiaBasica": "1)\tFELIPE, T. A. Libras em Contexto - manual do estudante, Brasília: MEC, 2001.\n2)\tFERNANDES, E. Linguagem e Surdez. Porto Alegre: Artmed, 2003.\n3)\tFERNANDES, S. É possível ser surdo em português? Língua de sinais e escrita: em busca de uma aproximação. In: Skliar, C. Atualidade da educação bilíngüe para surdos. Porto Alegre: Mediação, 1999.\n4)\tFERREIRA, M. C. C., ZAMPIERI, M. A. Atuação do professor ouvinte na relação com o aluno surdo: relato de experiência nas séries iniciais do ensino fundamental. In: LODI, A. C. B. (org.) Leitura e escrita no contexto da diversidade. Porto Alegre: Mediação, 2004.\n5)\tGUARINELLO, A. C. O papel do outro na escrita de sujeitos surdos. São Paulo: Plexus, 2007.\n6)\tPAULA, L. S. B. de. Linguagem e a Surdez. Revista Espaço: informativo técnico científico do INES. nº 20 dez./2003- Rio de Janeiro: INES, 2003.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "13:40 - 17:00",
+        "professor": "BETTY LOPES L ASTORINA DE ANDRADE"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FCF590",
+      "Nome": "Seminário de Licenciatura I",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Análise e avaliação de métodos e materiais didáticos para a aprendizagem da filosofia no ensino médio.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "08:40 - 12:00",
+        "professor": "SUSANA DE CASTRO AMARAL VIEIRA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDD241",
+      "Nome": "Didática",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A construção do campo da didática visto como tempo/espaço de reflexão/ação sobre o processo de ensino-aprendizagem. Teorias educacionais e o contexto sócio-histórico, político, econômico e filosófico da prática pedagógica. Estruturantes da prática pedagógica: planejamento curricular e planejamento de ensino; métodos e técnicas de ensino; avaliação do ensino.\nBIBLIOGRAFIA RECOMENDADA\n1)\tCANDAU, Vera Maria. (Org.) Ensinar e Aprender: sujeitos, saberes e pesquisa/Encontro Nacional de Didática e Prática de Ensino (ENDIPE). Rio de Janeiro: DP&A, 2000.\n2)\t________Linguagens, espaços e tempos no ensinar e aprender./Encontro Nacional de Didática e Prática de Ensino (ENDIPE). Rio de Janeiro: DP&A, 2000.\n3)\t ________(Org.)Didática, Currículo e Saberes Escolares. Rio de Janeiro: DP&A, 2001.\n4)\tFAZENDA, Ivani (org.). Didática e interdisciplinaridade. São Paulo : Papirus, 1998.\n",
+       "BibliografiaBasica": "1)\tGIMENO SACRISTÁN, Jose. Currículo e diversidade cultural. Em: SILVA, Tomaz Tadeu da; MOREIRA, Antonio Flavio Barbosa (orgs.). Territórios contestados: o currículo e os novos mapas políticos e culturais. Petrópolis/RJ : Vozes, 1999. [82-113].\n2)\tGIMENO SACRISTÁN, J. e PEREZ GÓMEZ, A. I. Compreender e transformar o ensino. 4ª ed. Porto Alegre : Artmed, 1998.\n3)\tLIBÂNEO, José Carlos. Didática: velhos e novos temas. Goiânia : edição do autor, 2002.\n4)\t_________. Pedagogia e Pedagogos, para quê? 7ª ed. SP : Cortez, 2004.\n5)\tMOREIRA, Antonio Flávio Barbosa; SILVA, Tomaz Tadeu da. Sociologia e teoria crítica do currículo: uma introdução. Em: MOREIRA, Antonio Flávio Barbosa; SILVA, Tomaz Tadeu da.(Orgs.). Currículo, cultura e sociedade. São Paulo : Cortez, 1995. [07-37].\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "13:40 - 17:00",
+        "professor": "MARIA DAS GRACAS CHAGAS DE ARRUDA NASCIMENTO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDW001",
+      "Nome": "Profissão Docente",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A formação do professor e o exercício profissional: histórico e perspectivas. O trabalho na Escola e os desafios da educação contemporânea. O saber docente e as particularidades do trabalho do professor. Políticas atuais e profissionalização docente. A questão da autonomia e da identidade profissional. Papel social e função ética e política do professor. Organizações profissionais dos professores.\n",
+       "BibliografiaBasica": "1- APPLE, M. W. Ideologia e Currículo. São Paulo: Brasiliense, 1979.\n2- BITTENCOURT, C. Livro didático e conhecimento histórico: uma História do saber escolar. São Paulo: Loyola, 1990. BITTENCOURT, C. O saber histórico na sala de aula. São Paulo: Contexto, 2001.\n3- BOURDIEU, P. Sistemas de Ensino, Sistemas de Pensamento. In: A Economia das Trocas Simbólicas. São Paulo: Perspectiva, 1992, p. 203-230.\n4- FONSECA, S. G. Caminhos da história ensinada. Campinas, SP: Papirus, 1993.\n5- FONSECA, T. N. de L. História e Ensino de História. Belo Horizonte, MG: Autêntica, 2004.\n6- FORQUIN, J.-C. Escola e Cultura. Porto Alegre: Artes Médicas, 1993.\n7- GONCALVES, M. de A. et alii. Qual o valor da história hoje? Rio de Janeiro: FGV, 2012.\n8- LOPES, A. R. C. O currículo e a construção do conhecimento na escola - controvérsias entre conhecimento comum e conhecimento científico. In: MOREIRA, A. F. B. (Org). Conhecimento Educacional e Formação do Professor. Campinas, SP: Papirus, 1994, p. 39-52.\n9- MATTOS, I. R. de (Org.). Histórias do ensino de História do Brasil. Rio de Janeiro: Access, 1998. MONTEIRO, A. M. Professores de História: entre saberes e práticas. Rio de Janeiro, Mauad, 2007.\n10- NADAI, Elza. O ensino de História no Brasil: Trajetória e perspectivas. Revista Brasileira de História, São Paulo, v. 13, n. 25/26, p. 163-174, set. 92/ago.93.\n11- OLIVEIRA, M. M. D. de. O direito ao passado. Uma discussão necessária à formação do profissional de História. Aracaju: Editora da UFS, 2011.\n12- ROCHA, H.; MAGALHÃES, M.; CONTIJO, R. (Org.). A escrita da História Escolar: memória e historiografia. Rio de Janeiro: Editora FGV, 2009.\n13- SILVA, T. T. da (Org). Alienígenas na sala de aula - uma introdução aos estudos culturais em educação. Petrópolis, RJ: Vozes, 1995.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "14:00 - 17:30",
+        "professor": "MAXIMO AUGUSTO CAMPOS MASSON"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "6º Período": [
+     {
+      "Codigo": "EDDU13",
+      "Nome": "Prát Ens Filosofia Est Superv",
+      "Créditos": "8.0",
+      "Teórica": "0",
+      "Prática": "400",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Reconhecimento de instituições, projetos e experiências de desenvolvimento curricular em diferentes espaços educativos.  Observação e análise de experiências docentes, em escolas de Educação Básica, com respaldo teórico e crítico.  Capacitação do licenciando como profissional do magistério.  Desenvolvimento de práticas pedagógicas, reflexivas, criativas e críticas, teoricamente fundamentadas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "20:20 - 22:00",
+        "professor": "CASSIANA LOPES STEPHAN"
+       }
+      ],
+      "Requisitos": [
+       "EDD241"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDD539",
+      "Nome": "Didática da Filosofia I",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Observação e análise da realidade educacional; estudo do campo profissional docente em nível médio; levantamento e análise crítica de materiais para ensino de Filosofia.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "07:00 - 09:09",
+        "professor": "FILIPE CEPPAS DE CARVALHO E FARIA"
+       }
+      ],
+      "Requisitos": [
+       "EDD241"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDF240",
+      "Nome": "Fundamentos Sociológ Educação",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O contexto do surgimento da sociologia. Durkheim e a formação de uma maneira funcional de interpretar as relações entre educação e demais instâncias da vida social. A sociologia da educação na primeira metade do século XX. Os estudos sobre educação após a segunda guerra mundial. A \"crítica radical\" dos anos 70 - educação e reprodução social. A influência do marxismo no pensamento educacional. Influências gramscianas. A \"crise dos paradigmas\" das ciências sociais e os estudos sobre educação: modelos microssociológicos e etnográficos. Abordagens weberianas em sociologia da educação.\n",
+       "BibliografiaBasica": "1)\tALVES, M. Teresa G. & FRANCO, Creso. A pesquisa em eficácia escolar no Brasil: evidências sobre o efeito das escolas e fatores associados à eficácia escolar. In: BROOKE, N.; SOARES, J. F. Pesquisa em Eficácia Escolar: Origem e Trajetórias. Belo Horizonte: Editora UFMG.\n2)\t BOURDIEU, Pierre. A escola conservadora: as desigualdades frente à escola e à cultura. In: NOGUEIRA, M. A. & CATANI, A. (orgs,) Escritos de Educação. Petrópolis: Vozes, 2010.\n3)\tDURKHEIM, E. - ?A educação: sua natureza e função? in Educação e Sociedade. São Paulo: Melhoramentos,1978.\n4)\tNOGUEIRA, M. Alice, 1995. A Sociologia da Educação do final dos anos 60/início dos anos 70: o nascimento do paradigma da reprodução. In: Em Aberto, Brasília, ano 9, n. 46, abr. jun. 1990.\n",
+       "BibliografiaComplementar": "1)\tBOURDIEU, Pierre. Reprodução Cultural e Reprodução Social in A Economia das Trocas Simbólicas. São Paulo: Ed. Perspectiva, 1987.\n2)\t LAHIRE, Bernard. Sucesso escolar nos meios populares: as razões do improvável. São Paulo: Ática, 2008.\n3)\tNOGUEIRA, Maria Alice. A Sociologia da Educação no final dos anos 60/início dos anos 70: o nascimento do paradigma da reprodução. Em Aberto, Brasília, ano 9, n.46, abr./jun. 1990.\n4)\tNOGUEIRA, Maria Alice e NOGUEIRA, Claudio M. - A Sociologia da Educação de Pierre Bourdieu: limites e contribuições. Educação e Sociedade, Campinas, n. 78, Ano XXIII, abril/2002.\n5)\tZAGO, Nadir, 2011. Fracasso e sucesso escolar no contexto das relações família e escola: questionamentos e tendências em Sociologia da Educação. Revista Luso-Brasileira de Sociologia da Educação, ano 2, n.3, março 2011.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "13:40 - 17:30",
+        "professor": "BORIS MAIA E SILVA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "7º Período": [
+     {
+      "Codigo": "EDF120",
+      "Nome": "Filos Educação Mundo Ocidental",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Contribuições das concepções filosóficas do século XX para a problemática educacional. O pensamento pedagógico brasileiro dos anos 1920 a 1980. Contribuições das concepções filosóficas para a problemática educacional. O pensamento pedagógico brasileiro à luz da filosofia da educação.\n",
+       "BibliografiaBasica": "1) ARISTÓTELES. A ética a Nicômacos. Trad. Mario da Gama Cury. Brasília, DF: EdUnb, 1985 (2ª ed).\n2) BRÉHIER, Émile. História da Filosofia. São Paulo: Mestre Jou, 1977, tomo II, fasc.4\n3) DURKHEIM, Emile. Educação e Sociologia. São Paulo: Edições 70, 2001.\n",
+       "BibliografiaComplementar": "1) JAEGER, Werner. Paidéia. São Paulo: Martins Fontes, 1995.\n2) MAZZOTTI, Tarso Bonilha, OLIVEIRA, Renato José de. O que você precisa saber em ciência (s) da educação. Rio de Janeiro: DPA, 2000.\n3) PLATÃO. República. Trad. Maria Helena Rocha. Lisboa: Fundação Calouste Gulbenkian, 1990 (6ª. ed.).\n4) ROUSSEAU, J. J. Emílio ou da educação. Trad. Roberto Leal Ferreira. São Paulo, SP: Martins Fontes, 2004 (3ª ed).\n5) GADOTTI, Moacir. Pensamento pedagógico brasileiro. São Paulo: Ática, 1991.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "13:40 - 17:00",
+        "professor": "LEONARDO MAIA BASTOS MACHADO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDD628",
+      "Nome": "Didática da Filosofia II",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O contexto do ensino de Filosofia - situação histórica.  O campo de estágio e seus atores; planejamento e avaliação em Filosofia no ensino médio.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "EDD539"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FCFK02",
+      "Nome": "Monografia - Licenciatura",
+      "Créditos": "5.0",
+      "Teórica": "0",
+      "Prática": "240",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Redação sob a orientação de um professor de monografia versando sobre tema\nfilosófico ou relacionado ao ensino de filosofia (para licenciatura).\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "8º Período": [
+     {
+      "Codigo": "FCF600",
+      "Nome": "Seminário de Licenciatura II",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenvolvimento de métodos e materiais didáticos para a aprendizagem da filosofia no ensino médio.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "13:40 - 17:00",
+        "professor": "ULYSSES PINHEIRO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "Disciplinas Optativas (Escolha Restrita)": [
+     {
+      "Codigo": "FCF624",
+      "Nome": "Estética II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Análise de uma ou mais questões do pensamento estético.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:40 - 17:00",
+        "professor": "JEAN PIERRE CARDOSO CARON"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF626",
+      "Nome": "Estética IV",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo e aprofundamento de um ou mais problemas específicos da estética.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF435",
+      "Nome": "Hist Filos Contemporânea V",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo de um ou mais problemas do pensamento contemporâneo.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "08:40 - 12:00",
+        "professor": "RAFAEL HADDOCK LOBO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF636",
+      "Nome": "Hist Filos Contemporânea II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo de um ou mais autores do pensamento contemporâneo.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF638",
+      "Nome": "Hist Filos Contemporânea IV",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo de um ou mais temas do pensamento contemporâneo.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "13:40 - 17:00",
+        "professor": "CARLA RODRIGUES"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF136",
+      "Nome": "História Filosofia Antiga VI",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo de uma ou mais questões do pensamento antigo.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "13:40 - 17:00",
+        "professor": "FERNANDO AUGUSTO DA ROCHA RODRIGUES"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF627",
+      "Nome": "História Filosofia Antiga II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo de um ou mais autores do pensamento antigo.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF629",
+      "Nome": "História Filosofia Antiga IV",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo de um ou mais temas do pensamento antigo.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "08:40 - 12:00",
+        "professor": "CAROLINA DE MELO BOMFIM ARAUJO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF235",
+      "Nome": "História Filosofia Medieval V",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo de um ou mais problemas do pensamento medieval.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF630",
+      "Nome": "História Filosofia Medieval II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo de um ou mais autores do pensamento medieval.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "08:40 - 12:00",
+        "professor": "MARKOS KLEMZ GUERRERO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF632",
+      "Nome": "História Filosofia Medieval IV",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo de um ou mais temas do pensamento medieval.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF335",
+      "Nome": "História Filosofia Moderna V",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo de um ou mais problemas do pensamento moderno.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF633",
+      "Nome": "História Filosofia Moderna II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo de um ou mais autores do pensamento moderno.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF635",
+      "Nome": "História Filosofia Moderna IV",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo de um ou mais temas do pensamento moderno.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF442",
+      "Nome": "Metafísica II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Análise de uma ou mais questões da metafísica.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF444",
+      "Nome": "Metafísica IV",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo e aprofundamento de um ou mais problemas da metafísica.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "13:40 - 17:00",
+        "professor": "FERNANDO JOSE DE SANTORO MOREIRA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF597",
+      "Nome": "Teoria do Conhecimento II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Análise de uma ou mais questões da teoria do conhecimento.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "08:40 - 12:00",
+        "professor": "GUIDO IMAGUIRE"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF599",
+      "Nome": "Teoria do Conhecimento IV",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo e aprofundamento de um ou mais problemas específicos da teoria do conhecimento.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF614",
+      "Nome": "Ética II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Análise de uma ou mais questões do pensamento ético.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF616",
+      "Nome": "Ética IV",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo e aprofundamento de um ou mais problemas específicos da ética.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:40 - 17:00",
+        "professor": "MARIA CLARA MARQUES DIAS"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF362",
+      "Nome": "Estética I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução aos principais problemas da estética.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "13:40 - 17:00",
+        "professor": "ADRIANY FERREIRA DE MENDONCA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF625",
+      "Nome": "Estética III",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das idéias estéticas de um ou mais pensadores.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF353",
+      "Nome": "Hist Filos Contemporânea I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo introdutório de conceitos fundamentais do pensamento contemporâneo.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF436",
+      "Nome": "Hist Filos Contemporânea VI",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo de uma ou mais questões do pensamento contemporâneo.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF637",
+      "Nome": "Hist Filos Contemporânea III",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo de uma ou mais obras do pensamento contemporâneo.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF135",
+      "Nome": "História Filosofia Antiga V",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo de um ou mais problemas do pensamento antigo.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF231",
+      "Nome": "História Filosofia Antiga I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo introdutório de conceitos fundamentais do pensamento antigo.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF628",
+      "Nome": "História Filosofia Antiga III",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo de uma ou mais obras do pensamento antigo.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF234",
+      "Nome": "História Filosofia Medieval I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo introdutório de conceitos fundamentais do pensamento medieval.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "13:40 - 17:00",
+        "professor": "PEDRO KONZEN CAPRA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF236",
+      "Nome": "História Filosofia Medieval VI",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo de uma ou mais questões do pensamento medieval.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF631",
+      "Nome": "História Filosofi Medieval III",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo de uma ou mais obras do pensamento medieval.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF244",
+      "Nome": "História Filosofia Moderna I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo introdutório de conceitos fundamentais do pensamento moderno.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "13:40 - 17:00",
+        "professor": "ANTONIO FREDERICO SATURNINO BRAGA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF336",
+      "Nome": "História Filosofia Moderna VI",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo de uma ou mais questões do pensamento moderno.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF634",
+      "Nome": "História Filosofia Moderna III",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo de uma ou mais obras do pensamento moderno.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "13:40 - 17:00",
+        "professor": "ETHEL MENEZES ROCHA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF441",
+      "Nome": "Metafísica I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução aos principais problemas da metafísica.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF443",
+      "Nome": "Metafísica III",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das idéias de um ou mais pensadores sobre a metafísica.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF306",
+      "Nome": "Teoria do Conhecimento I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução aos principais problemas da teoria do conhecimento.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF598",
+      "Nome": "Teoria do Conhecimento III",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das idéias de um ou mais pensadores sobre a Teoria do Conhecimento.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF108",
+      "Nome": "Ética I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução aos principais problemas da ética.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF615",
+      "Nome": "Ética III",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das idéias éticas de um ou mais pensadores.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "13:40 - 17:00",
+        "professor": "FERNANDO AUGUSTO DA ROCHA RODRIGUES"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     }
+    ],
+    "Disciplinas Optativas (Escolha Condicionada)": [
+     {
+      "Codigo": "FCF002",
+      "Nome": "Filosofia e Sexualidade II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Reflexão sobre o problema da sexualidade na Contemporaneidade. Estudo de um ou mais autores que tratem de aspectos centrais da discussão.\n",
+       "BibliografiaBasica": "BUTLER, Judith. Corpos que importam. São Paulo: n-1, 2019.\nPRECIADO, Paul B. Manifesto contrassexual. São Paulo: n-1, 2014.\nPRECIADO, Paul B. Testojunkie. São Paulo: n-1, 2018.\nSEDGWICK, Eve Kosofsky. A epistemologia do armário. Cad. Pagu [online]. 2007, n.28, pp.19-54.\nVIDARTE, Paco. Ética bixa. Proclamações libertárias para uma militância LGBTQ. São Paulo: n-1, 2019.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF004",
+      "Nome": "Filosofia e Colonialidade II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Reflexão sobre o problema da colonialidade na perspectiva decolonial e crítica da colonialidade na América Latina e no Brasil. Estudo de um ou mais autores que tratem de aspectos centrais da\ndiscussão.\n",
+       "BibliografiaBasica": "GOMES, Roberto. Crítica da razão tupiniquim. Curitiba: Criar Edições, 2008.\nGONZALES, Lélia. Primavera para as rosas negras. Diáspora africana: Editora filhos da África, 2018.\nGORENDER, Jacob. O escravismo colonial. Ed. Ática: São Paulo, 1992.\nLUGONES, Maria. Rumo a um feminismo descolonial. Estudos Feministas, Florianópolis, 22(3): 320, setembro-dezembro/2014.\nMIGNOLO; Walter D. Colonialidade: o lado mais escuro da modernidade. Revista Brasileira de Ciências Sociais. v. 32, no94.\nNASCIMENTO, Abdias. O quilombismo. São Paulo: Perspectiva, 2019.\nNASCIMENTO, Beatriz. Beatriz Nascimento, Quilombola e Intelectual: possibilidade nos dias da destruição. Diáspora africana: Editora filhos da África, 2018.\nQUIJANO, Aníbal. Colonialidade do poder, eurocentrismo e América Latina. IN: ______. A colonialidade do saber: eurocentrismo e ciências sociais. Perspectivas latino-americanas. Buenos Aires:\nCLACSO, 2005.\nSANTOS, Antônio Bispo dos. Colonização, quilombos-modos e significações. Brasília: INCT. Universidade de Brasília, 2015.\nSANTOS, Boaventura & Meneses, Maria Paula (orgs.) Epistemologias do sul. São Paulo: Cortez Editora, 2010.\nSIMAS, Luiz Antonio e RUFINO, Luiz. Fogo no mato: a ciência encantada das macumbas. Rio de Janeiro: Mórula, 2018.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF006",
+      "Nome": "Filosofia e Raça II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Reflexão sobre a questão racial na filosofia brasileira. Estudo de um ou mais autores que tratem de aspectos centrais da discussão.\n",
+       "BibliografiaBasica": "CARNEIRO, Sueli. Escritos de uma vida. São Paulo: Pólen, 2019.\nGONZALES, Lélia. Primavera para as rosas negras. Diáspora africana: Editora filhos da África, 2018.\nMUNANGA, Kabengele. Negritude: Usos e Sentidos. Belo Horizonte: Autêntica Editora, 2009.\nMUNANGA, Kabenguele e GOMES, Nilma Lino. O negro no Brasil de hoje. São Paulo: Global, 2006.\nMUNANGA, Kabenguele. Rediscutindo a mestiçagem no Brasil: identidade nacional versus identidade negra. Petrópolis: Vozes, 1999.\nNOGUERA, Renato. O ensino de Filosofia e a lei 10.369. Rio de Janeiro: Pallas, 2014.\nRIBEIRO, Djamila. O que é lugar de fala? Belo Horizonte: Letramento, 2019.\nSANTOS, Gislene Aparecida dos. A invenção do ser negro. São Paulo: Educ/Fapesp; Rio de Janeiro: Pallas, 2002.\nTHEODORO, Helena. O mito e espiritualidade. Mulheres negras. Rio de Janeiro: Pallas, 1996.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF008",
+      "Nome": "Filosofia Africana II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das principais correntes da filosofia africana na Contemporaneidade. Seus aspectos epistemológicos, éticos e políticos.\n",
+       "BibliografiaBasica": "APPIAH, Kwame Anthony. Na casa de meu pai: a África na filosofia da cultura. Tradução de Vera Ribeiro. Rio de Janeiro: Contraponto, 1997.\nCARNEIRO, Sueli. Escritos de uma vida. São Paulo: Pólen, 2019.\nGILROY, Paul. O Atlântico negro. São Paulo : Ed. 34, 2012.\nGONZALES, Lélia. Primavera para as rosas negras. Diáspora africana: Editora filhos da África, 2018.\nMBEMBE, Achile. Sair da grande noite: ensaios sobre a África desconolonizada. Trad Fábio Ribeiro. Petrópolis, RJ : Vozes, 2019.\nMBEMBE, Achille. Crítica da razão negra. São Paulo: n-1, 2018.\nMBEMBE, Achille. Necropolítica. São Paulo: n-1, 2018.\nNASCIMENTO, Abdias. O quilombismo. São Paulo: Perspectiva, 2019.\nSODRÉ, Muniz. Pensar nagô. Petrópolis: Vozes, 2017.\nTHEODORO, Helena. O mito e espiritualidade. Mulheres negras. Rio de Janeiro: Pallas, 1996.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF010",
+      "Nome": "Filosofia Ameríndia II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Reflexão sobre os principais aspectos da Filosofia Ameríndia Contemporânea e seus aspectos epistemológicos, éticos e políticos.\n",
+       "BibliografiaBasica": "KANDIWETU, Idjahure; COHN, Sergio. Tembeta: conversas com pensadores indígenas. Rio de Janeiro: Azogue, 2019.\nKAMBEBA, Márcia. Wayna. O lugar do saber. São Leopoldo: Casa Leiria, 2020.\nKRENAK, Ailton. Ideias para adiar o fim do mundo. São Paulo: Companhia das Letras, 2019.\nKRENAK, Ailton. O amanhã não está à venda. São Paulo: Companhia das Letras, 2020.\nPOTIGUARA, Eliane. Metade cara, metade máscara. Rio de Janeiro: Grumin, 2019.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF012",
+      "Nome": "Filosofia e Gênero II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Reflexão sobre o problema de gênero e seus debates na Contemporaneidade. Estudo de um ou mais autores que tratem de aspectos centrais da discussão.\n",
+       "BibliografiaBasica": "BUTLER, Judith. Problemas de gênero. Feminismo e subversão da identidade. Rio de Janeiro: José Olympio, 2015.\nDESPENTES, Virginie. Teoria King Kong. Márcia Bechara. São Paulo: n-1, 2016\nFEDERICI, Silva. O calibã e a bruxas. Trad. Coletivo Sycorax. São Paulo: Elefante, 2019.\nGONZALEZ, Lélia. Por um feminismo afro-latino-americano. São Paulo: Cia das Letras 2020.\nHOLLANDA, Heloísa Buarque. Pensamento feminista volumes 1, 2 e 3. Rio de Janeiro: Bazar do tempo, 2019.\nHOOKS, Bel. E eu não sou uma mulher? Mulheres negras e feminismo. Tradução Libânio Bhuvi. Rio de Janeiro: Rosa dos Tempos, 2019.\nRIBEIRO, Djamila. O que é lugar de fala? Belo Horizonte: Letramento, 2019.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF014",
+      "Nome": "Escrita Acadêmica I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Técnicas de escrita acadêmica.\n",
+       "BibliografiaBasica": "Carnielli, W. A. e Epstein, R. L. Pensamento crítico. O poder da lógica e da argumentação, São Paulo, Rideel, 2019.\nMartinich, A.P. Ensaio Filosófico: o que é, como se faz. São Paulo: Loyola, 2002.\nSacrini, M. Leitura e escrita de textos argumentativos, São Paulo, Edusp, 2019.\nSavian Filho, J. Argumentação. A ferramenta do filosofar, São Paulo, Martins Fontes, 2010.\nWeston, A. A construção do argumento, São Paulo, Martins Fontes, 2009.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF110",
+      "Nome": "Filosofia I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução à filosofia desde um ponto de vista temático.\n___BIBLIOGRAFIA BÁSICA___\n1- ABBAGNANO, N. História da Filosofia.  Tomos I-II.\n2- ARENDT, H. Entre o passado e o futuro. São Paulo: Perspectiva, 1997.\n3- BORHEIM, Gerd. Os Filósofos Pré-Socráticos. São Paulo: Cultrix, 1985.\n4- CHATELET, François. História da Filosofia. [Tomos I-X . Rio de Janeiro: Jorge Zahar Ed.\n5- JÄGER, Werner. PAIDEA. A formação do homem grego. São Paulo: Martins Fontes, 2003.\n6- KIRK, & RAVEN. Os Filósofos Pré-Socráticos.Lisboa: Fundação Calouste Gulbekian, 1982.\n7- MARCONDES, D. Iniciação à história da Filosofia. Rio de Janeiro: Zahar, 1997.\n8- NIETZSCHE, Friedrich. Genealogia da Moral. São Paulo: Companhia das Letras, 2003.\n9- NIETZSCHE, Friedrich. A filosofia na época trágica dos gregos. São Paulo: Elfos, 2000.\n10- REALE, Giovanni. História da Filosofia. [ Tomos I-V ]. São Paulo: Paulus, 1990.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF121",
+      "Nome": "Antropologia Filosófica I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução aos principais problemas da antropologia filosófica.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF124",
+      "Nome": "Filosofia Social I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução aos principais problemas da filosofia social.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF280",
+      "Nome": "Sem Hist Filosofia Antiga I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo e discussão de um ou mais tópicos representativos do pensamento antigo.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF282",
+      "Nome": "Sem Hist Filosofia Medieval I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo e discussão de um ou mais tópicos representativos do pensamento medieval.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "18:00 - 21:20",
+        "professor": "JOSIAS RIBEIRO COSTA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF284",
+      "Nome": "Sem Hist Filosofia Moderna I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo e discussão de um ou mais tópicos representativos do pensamento moderno.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF286",
+      "Nome": "Sem Hist Filos Contemporânea I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo e discussão de um ou mais tópicos representativos do pensamento contemporâneo.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "08:40 - 12:00",
+        "professor": "CHRISTIANE COSTA DE MATOS FERNANDES"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF288",
+      "Nome": "Seminário de Estética I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo e discussão de um ou mais tópicos representativos da estética.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "08:40 - 12:00",
+        "professor": "VITOR HUGO DOS REIS COSTA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF290",
+      "Nome": "Sem Teoria do Conhecimento I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo e discussão de um ou mais tópicos  representativos da teoria do conhecimento.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF292",
+      "Nome": "Seminário de Lógica",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo e discussão de um ou mais tópicos  representativos da lógica.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF487",
+      "Nome": "Filosofia Oriental I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução aos principais problemas do pensamento oriental.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF541",
+      "Nome": "Filosofia da Mente I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução sistemática às teorias e pontos de vista mais relevantes sobre os diferentes aspectos do problema mente/corpo na filosofia contemporânea.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF543",
+      "Nome": "Filosofia da Mente III",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Análise da consciência fenomenal e dos projetos de \"naturalização\" da mente.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:40 - 17:00",
+        "professor": "ROBERTO HORACIO DE SA PEREIRA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF591",
+      "Nome": "Temas Filosóficos da Educação",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Reflexões filosóficas sobre a educação, de um ponto de vista temático.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF611",
+      "Nome": "Lógica II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo dos sistemas de dedução natural.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF613",
+      "Nome": "Lógica IV",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceitos e procedimentos de análise básicos da lógica de segunda ordem.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF618",
+      "Nome": "Filosofia Política III",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Análise dos principais moelos de Democracia.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF642",
+      "Nome": "Filosofia da Natureza I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução sistemática  aos temas do sentido e do alcance da noção de natureza.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "08:40 - 12:00",
+        "professor": "MARKOS KLEMZ GUERRERO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF644",
+      "Nome": "Filosofia da Natureza III",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo monografico do conceito de natureza a partir de textos de um autor moderno e/ou contemporaneo.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "18:00 - 21:20",
+        "professor": "GABRIEL JOSE CORREA MOGRABI"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF646",
+      "Nome": "Filosofia da Cultura II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Cultura e civilizacao: dimensoes socio-politico-ideologicas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "08:40 - 12:00",
+        "professor": "VITOR HUGO DOS REIS COSTA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF648",
+      "Nome": "Epist e Hist das Ciências I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O conceito grego de episteme. O surgimento das ciências, seus campos e métodos, na filosofia clássica, helenista e medieval.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF650",
+      "Nome": "Epist e Hist das Ciências III",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Nascimento das ciencias humanas (sec XIX). O estatuto de cientificidade. Suas relacoes com as ciencias naturais, com a filosofia, com as ideologias e com os valores.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "13:40 - 17:00",
+        "professor": "ROBERTO HORACIO DE SA PEREIRA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF652",
+      "Nome": "Filosofia da Ciência III",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Correntes atuais da filosofia da ciência.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF654",
+      "Nome": "Hist da Filos no Brasil I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A filosofia brasileira como problema: origens e perspectivas. Causas imanentes à cultura nacional: o fator indígena e o fator africano.\n",
+       "BibliografiaBasica": "1) BERNARDES, Célia R. O. Racismo de Estado. Ed. Jurúa, 2013;\n2) BRITO, Raimundo de Farias. O mundo interior. Org. e estudo introdutório de L. A. Cerqueira. Lisboa: INCM, 2003;\n3) CERQUEIRA, Luiz Alberto. Natureza e cultura: a idéia de origem da filosofia brasileira. Lisboa: Universidade Nova de Lisboa, 1997;\n4) GUIMARÃES, Aquiles Côrtes. O tema da consciência na filosofia brasileira. São Paulo: Convívio, 1982;\n5) REALE, Miguel. Estudos de filosofia brasileira. Lisboa: Instituto de filosofia luso-brasileira, 1994;\n6) CERQUEIRA, Luiz Alberto. Filosofia brasileira ? Ontogênese da consciência de si. Petrópolis: Vozes, 2002;\n7) CERQUEIRA, Luiz Alberto (org.). Aristotelismo Antiaristotelismo Ensino de Filosofia. Rio de Janeiro: Ágora da Ilha, 1999;\n8) DESCARTES, René. Meditações Metafísicas. São Paulo: Martins Fontes, 2005;\n9) MAGALHÃES, D. J. Gonçalves de. Fatos do espírito humano. Org. e estudo introdutório de L. A. Cerqueira. Petrópolis: Vozes, 2004;\n10) VIVEIROS DE CASTRO, E. A inconstância da alma selvagem. São Paulo: Cosac & Naif, 2002.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF656",
+      "Nome": "Hist da Filos no Brasil III",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Originalidade da filosofia no Brasil: a crítica do naturalismo.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF658",
+      "Nome": "Filosofia da Linguagem II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo de um ou mais temas e/ou conceitos fundamentais relativos ao problema filosófico da linguagem em sua relação com a questão da ação.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF660",
+      "Nome": "Filosofia da Linguagem IV",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo de um ou mais temas e/ou conceitos fundamentais relativos ao problema filosófico da linguagem segundo a perspectiva de abordagem da fenomenologia e/ou da hermenêutica e/ou do estruturalismo e/ou da filosofia transcendental.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF676",
+      "Nome": "Filosofia da Religião II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo e aprofundamento de uma ou mais questões específicas da filosofia da religião.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF687",
+      "Nome": "História da Lógica II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A lógica megária e estóica. Argumentos e esquemas formais: a inferência dedutiva. A questão sobre a natureza dos condicionais. A teoria estóica do significado e da verdade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF695",
+      "Nome": "Filosofia Social II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo e aprofundamento de uma ou mais questões específicas da filosofia social.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF700",
+      "Nome": "Filosofia da Matemática I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A matemática enquanto ciência a priori e necessária e as questões ontológicas e epistemológicas clássicas relacionadas à existência das entidades matemáticas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCWZ53",
+      "Nome": "Ativ Curricular Extensão - Lif",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "0",
+      "Extensão": "400",
+      "Informação": {
+       "Info": "Atuação em atividades de extensão registradas na Pró-Reitoria de Extensão da UFRJ, como programas, projetos, cursos de extensão e eventos, coordenados por docentes do quadro permanente ou técnicos da carreira de nível superior na UFRJ. Para eventos, a atuação deverá ser na organização ou na realização do evento. Para cursos, a atuação deve ser na organização ou ministrando aulas.\n___ BIBLIOGRAFIA BÁSICA ___\nBibliografia recomendada pelo coordenador da atividade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF001",
+      "Nome": "Filosofia e Sexualidade I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Reflexão sobre o problema da sexualidade ao longo da História da Filosofia. Estudo de um ou mais autores que tratem de aspectos centrais da discussão.\n",
+       "BibliografiaBasica": "BENTO, Berenice. A reinvenção do corpo: gênero e sexualidade na experiência transexual. Garamond, 2006, 1a. edição/ EDUFRN, 201.\nFOUCAULT, Michel. História da sexualidade 1, 2 3 e 4.\nFOUCAULT, Michel. Herculine Barbin: o Diário de um Hermafrodita. Rio de Janeiro: Francisco Alves, 1993.\nRUBIN, Gayle. Políticas do sexo. São Paulo : UBU Editora, 2018.\nWITTIG. Monique. O corpo lésbico. Rio de Janeiro: A Bolha, 2019.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF003",
+      "Nome": "Filosofia e Colonialidade I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Reflexão sobre o problema da colonialidade em perspectiva Pós-Colonial. Estudo de um ou mais autores que tratem de aspectos centrais da discussão.\n",
+       "BibliografiaBasica": "BHABHA, Homi K, O Local da Cultura. Belo Horizonte: Editora UFMG, 2018.\nCÉSAIRE, Aimée. Discurso sobre o colonialismo. Ed. Veneta, 2020.\nDERRIDA, Jacques. O monolinguismo do outro ou a prótese de origem. Trad. Fernanda Bernardo. Belo Horizonte: Editora Chão de Feira, 2016.\nFANON, Frantz. Os condenados da terra. Tradução de josé Laurênio de Melo. Rio de Janeiro: Civilização Brasileira, 1979.\nFANON, Frantz. Peles negras, máscaras brancas. Salvador: EdUFBA, 2008.\nGLISSANT; Édouard. Introdução a uma poética da diversidade: Tradução de Enilce do Carmo Albergaria Rocha. Juiz de Fora: Editora UFJF, 2005. 176 p. (Coleção Cultura, v. 1).\nMBEMBE, Achille. Crítica da razão negra. São Paulo: n-1, 2018.\nMBEMBE, Achille. Necropolítica. São Paulo: n-1, 2018.\nSAID, Edward. Orientalismo. Trad. Rosaura Eichenberg. São Paulo : Cia das Letras, 2007.\nSPIVAK, Gaiatry. Pode o subalterno falar? Trad. Sandra Regina Goulart Almeida, Marcos Pereira Feitosa. Belo Horizonte: Editora UFMG, 2010.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF005",
+      "Nome": "Filosofia e Raça I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Reflexão sobre a questão étnico-racial na história da filosofia. Estudo de um ou mais autores que tratem de aspectos centrais da discussão.\n",
+       "BibliografiaBasica": "DAVIS, Angela. Mulheres, raça e classe. São Paulo: Boitempo, 2019.\nFANON, Frantz. Os condenados da terra. Tradução de josé Laurênio de Melo. Rio de\nFANON, Frantz. Peles negras, máscaras brancas. Salvador: EdUFBA, 2008.\nHOOKS, Bell. Olhares negros. Raça e representação. São Paulo: Elefante, 2019.\nJaneiro: Civilização Brasileira, 1979.\nMBEMBE, Achile. Sair da grande noite: ensaios sobre a África desconolonizada. TRad Fábio Ribeiro. Petrópolis, RJ : Vozes, 2019.\nMBEMBE, Achille. Crítica da razão negra. São Paulo: n-1, 2018.\nMBEMBE, Achille. Necropolítica. São Paulo: n-1, 2018.\nMOORE, Carlos. Racismo e Sociedade. Belo Horizonte: Nandyala, 2012.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "13:40 - 17:00",
+        "professor": "ANTONIO FREDERICO SATURNINO BRAGA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF007",
+      "Nome": "Filosofia Africana I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das principais correntes da filosofia africana na Antiguidade. Seus aspectos epistemológicos, éticos e políticos.\n",
+       "BibliografiaBasica": "ARAÚJO, Emanuel. Escrito para a eternidade: a literatura no Egito faraônico. Brasília: Editora da Universidade de Brasília: São Paulo: Imprensa Oficial do Estado, 2000.\nCARREIRA, José Nunes. Filosofia Antes dos Gregos. Mem Martins: Publicações Europa-América, 1994.\nFOURSHEY, Catherine Cymone, GONZALES, Rhonda M., SAIDI,Christine. África Bantu: De 3500 a.C. até o presente. Petrópolis: Vozes, 2019.\nHERÓDOTO. História. Ed. eBooksBrasil, 2006.\nMOKHTAR, Gamal. História geral da África: África antiga. Brasília: Vol. 2. UNESCO, 2010.\nMUDIMBE, Valentin Yves. A invenção de África: Gnose, filosofia e a ordem do conhecimento. Petrópolis: Vozes, 2019.\nNASCIMENTO, Elisa Larkin (Org.). Afrocentricidade: uma abordagem epistemológica inovadora. São Paulo: Selo Negro, 2009.\nTOWA, Marcien. A ideia de uma filosofia negro-africana. Belo Horizonte: Nandyala; Curitiba: NEAB-UFPR, 2015.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF009",
+      "Nome": "Filosofia Ameríndia I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Reflexão sobre os principais aspectos da cosmologia tradicional dos povos ameríndios e seus aspectos epistemológicos, éticos e políticos.\n",
+       "BibliografiaBasica": "CASTRO, Eduardo Viveiros de. A inconstância da alma selvagem. São Paulo: Ed. Cosac & Naify, 2002.\n__________. Metafísicas canibais: Elementos para uma antropologia pós-estrutura. São Paulo : UBU Editora, 2018\nKOPENAWA, David; ALBERT, Bruce. A queda do céu: Palavras de um xamã yanomami. São Paulo: Editora Schwarcz, 2016.\nMUSSA, Alberto. Meu destino é ser onça: mito tupinambá restaurado. Rio de Janeiro: Record, 2009.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF011",
+      "Nome": "Filosofia e Gênero I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Reflexão sobre o problema de gênero na história da filosofia. Estudo de um ou mais autores que tratem de aspectos centrais da discussão.\n",
+       "BibliografiaBasica": "BEAUVOIR, Simone. O segundo sexo. Trad. Sergio Millet. Rio de Janeiro : Editora Nova Fronteira 2009.\nCHANTER, Tina. Gênero: Conceitos-Chave em Filosofia. Editora : Penso; 1a Edição (22 fevereiro 2011).\nBRANDÃO, Izabel; CAVALCANTI, Ildney; COSTA, Claudia de Lima; e LIMA, Ana Cecília A. (orgs.), Traduções da cultura: perspectivas críticas feministas (1970-2010). Florianópolis:\nEdufal/Editora Mulheres/ Editora da UFsC, 2017.\nPINTO, Céli Regina Jardim. Uma história do feminismo no Brasil. São Paulo: Editora Fundação Perseu Abramo, 2003.\nSCOTT, Joan Scott. ?Gênero: uma categoria útil de análise histórica?. Trad. Guacira Lopes Louro. Revista de Educação e Realidade, Porto Alegre, v. 15, n. 2, 1990.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF013",
+      "Nome": "Filosofia e Argumentação",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução à teoria e à pratica argumentativa em Filosofia.\n",
+       "BibliografiaBasica": "Carnielli, W. A. e Epstein, R. L. Pensamento crítico. O poder da lógica e da argumentação, São Paulo, Rideel, 2019.\nSacrini, M. Leitura e escrita de textos argumentativos, São Paulo, Edusp, 2019.\nSavian Filho, J. Argumentação. A ferramenta do filosofar, São Paulo, Martins Fontes, 2010.\nTugendhat, E. e Wolf, U. Propedêutica lógico-semântica, Petrópolis, Vozes, 1997.\nWeston, A. A construção do argumento, São Paulo, Martins Fontes, 2009.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "18:00 - 21:20",
+        "professor": "CHRISTIANE COSTA DE MATOS FERNANDES"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF015",
+      "Nome": "Escrita Acadêmica II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Técnicas para a produção de texto filosófico.\n",
+       "BibliografiaBasica": "Carnielli, W. A. e Epstein, R. L. Pensamento crítico. O poder da lógica e da argumentação, São Paulo, Rideel, 2019.\nMartinich, A.P. Ensaio Filosófico: o que é, como se faz. São Paulo: Loyola, 2002.\nSacrini, M. Leitura e escrita de textos argumentativos, São Paulo, Edusp, 2019.\nSavian Filho, J. Argumentação. A ferramenta do filosofar, São Paulo, Martins Fontes, 2010.\nWeston, A. A construção do argumento, São Paulo, Martins Fontes, 2009.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "18:00 - 21:20",
+        "professor": "LETICIA TURY GUIMARAES NASCIMENTO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF111",
+      "Nome": "Filosofia II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução à filosofia desde um ponto de vista histórico.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF122",
+      "Nome": "Antropologia Filosófica II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo e aprofundamento de uma ou mais questões específicas da Antropologia Filosófica.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF242",
+      "Nome": "Filosofia da Ciência I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A ciência e as outras formas do saber.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF281",
+      "Nome": "Sem Hist Filosofia Antiga II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo e discussão de uma ou mais teses filosóficas do pensamento antigo.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:40 - 17:00",
+        "professor": "PEDRO KONZEN CAPRA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF283",
+      "Nome": "Sem Hist Filosofia Medieval II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo e discussão de uma ou mais teses filosóficas representativas do pensamento medieval.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF285",
+      "Nome": "Sem Hist Filosofia Moderna II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo e discussão de uma ou mais teses filosóficas representativas do pensamento moderno.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "08:40 - 12:00",
+        "professor": "WILLIAM MATTIOLI"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF287",
+      "Nome": "Sem Hist Filo Contemporânea II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo e discussão de uma ou mais teses filosóficas representativas do pensamento contemporâneo.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF289",
+      "Nome": "Seminário de Ética I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo e discussão de um ou mais tópicos filosóficos representativos da ética. Educação ambiental, ética ambiental, sustentabilidade e relações étnico-raciais.\n",
+       "BibliografiaBasica": "1) ARISTÓTELES, Ética a Nicômacos. Brasília: Ed. UNB, (Ed. M.G.Kury), 1999 (1985);\n2) KANT, I. Metafísica dos Costumes, São Paulo: Edipro, 1993;\n3) ROUSSEAU, J. Discurso Sobre a Origem e os Fundamentos da Desigualdade Entre os Homens, São Paulo, Martins Fontes, 1999. (Seleção);\n4) HUME, D. Tratado da Natureza Humana, São Paulo, UNESP, 2000. (Seleção);\n5) KANT, I. Crítica da Razão Prática, ed. A. Mourão, Lisboa: Edições 70, 1986;\n6) SPINOZA, Ética. Belo Horizonte: Autêntica, 2007;\n7) HABERMAS, J. Acerca da legitimação com base nos Direitos Humanos, em Habermas, J. A. Constelação Pós-Nacional. Ensaios políticos, São Paulo, Littera Mundi, 2001, p. 143-163;\n8) MARX, K. Para a Crítica da Economia Política. São Paulo: Nova Cultural, 1996. (Col. Os Pensadores);\n9) HABERMAS, J. Direito e Democracia entre Facticidade e Validade (Rio de Janeiro: Tempo Brasileiro, Vol I);\n10) BOBBIO, N. A era dos direitos. Rio de Janeiro, Elsevier, 2004. (Primeira Parte);\n11) DWORKIN, R. Levando os Direitos a Serio, São Paulo, Martins Fontes, 2002, Cap. 6;\n12) HART, H. Direito, liberdade, moralidade. Portos Alegre: Sergio Antonio Fabris, 1987;\n13)  HART, H. Virtude Soberana. São Paulo: Martins Fontes;\n14) KANT, I. Metafísica dos Costumes, São Paulo: Edipro, 1993;\n15) LOCKE, J. Segundo Tratado do Governo. (Seleção);\n16) SINGER, Peter. Ética Prática. São Paulo: Martins Fontes, 1994.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "08:40 - 12:00",
+        "professor": "LETICIA TURY GUIMARAES NASCIMENTO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF291",
+      "Nome": "Seminário de Metafísica I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo e discussão de um ou mais tópicos  representativos da metafísica.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "18:00 - 21:20",
+        "professor": "LUCAS DE MOURA JUSTINO SOUZA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF352",
+      "Nome": "Filosofia Política I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Reflexão sobre a questão da política dentro da Filosofia Ocidental. Seus conceitos fundamentais.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "08:40 - 12:00",
+        "professor": "MARC PIERRE OLIVIER BERDET"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF488",
+      "Nome": "Filosofia Oriental II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo e aprofundamento de uma ou mais questões específicas do pensamento oriental.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF542",
+      "Nome": "Filosofia da Mente II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Discussão do problema da causação mental.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:40 - 17:00",
+        "professor": "RODRIGO AZEVEDO DOS SANTOS GOUVEA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF554",
+      "Nome": "Filosofia da Ciência IV",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Epistemologia das ciências humanas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF592",
+      "Nome": "Perspectivas Filos da Educação",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Reflexões filosóficas sobre a educação, de um ponto de vista histórico.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:40 - 17:00",
+        "professor": "ANTONIO FREDERICO SATURNINO BRAGA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF612",
+      "Nome": "Lógica III",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Teorias axiomáticas de conjuntos desenvolvidos no século XX.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF617",
+      "Nome": "Filosofia Política II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Análise das principais teorias da justiça.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "08:40 - 12:00",
+        "professor": "JEAN PIERRE CARDOSO CARON"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF619",
+      "Nome": "Filosofia Política IV",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Ética, Política e Direito: análise de questões da filosofia política e do Direito e suas relações com a moralidade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF643",
+      "Nome": "Filosofia da Natureza II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo monografico do conceito de natureza a partir de textos de um autor grego e/ou medieval.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF645",
+      "Nome": "Filosofia da Cultura I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceito de Cultura na Filosofia.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "08:40 - 12:00",
+        "professor": "LUCAS DE MOURA JUSTINO SOUZA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF647",
+      "Nome": "Filosofia da Cultura III",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O homem como sujeito cultural. Principais contribuições da Filosofia Moderna e/ou Contemporânea.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF649",
+      "Nome": "Epist e Hist das Ciências II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Sentido e alcance da revolucao cientifica newtoniana. A ciencia no seculo das luzes. Ciencia, tecnica e mundo industrial.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF651",
+      "Nome": "Filosofia da Ciência II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Análise das questões especiais da filosofia da ciência.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF653",
+      "Nome": "Filosofia da Cultura IV",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O homem como sujeito cultural: principais contribuicoes da antropologia filosofica e das ciencias humanas. Os impactos da tecnologia sobre a cultura.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "08:40 - 12:00",
+        "professor": "CARLA COSTA PINTO FRANCALANCI"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF655",
+      "Nome": "Hist da Filos no Brasil II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A modernização como problema filosófico. A ideia de uma civilização brasileira inter-racial autossustentável.\n",
+       "BibliografiaBasica": "1) BARRETO, Tobias. Estudos de filosofia. Org., introd. e notas de Paulo Mercadante e Antonio Paim. Rio de janeiro: INL/Record, 1990;\n2) CERQUEIRA, Luiz Alberto. Filosofia brasileira ? Ontogênese da consciência de si. Petrópolis: Vozes, 2002;\n3) KANT, I. Crítica da razão pura, Prefácio à segunda edição. Lisboa: Calouste Gulbenkian, 1985;\n4) STURM, Fred Gillette. O Significado Atual do Pensamento Britiano. Anais do IV Congresso Nacional de Filosofia. São Paulo-Fortaleza: IBF, 1962;\n5) BRITO, Raimundo de Farias. O mundo interior. Org. e estudo introdutório de L. A. Cerqueira. Lisboa: INCM, 2003;\n6) MAGALHÃES, D. J. Gonçalves de. Fatos do espírito humano. Rio de Janeiro: Garnier, 1858;\n7) CERQUEIRA, Luiz Alberto. Natureza e cultura: a idéia de origem da filosofia brasileira. Lisboa: Universidade Nova de Lisboa, 1997 (mimeo);\n8) REALE, Miguel. Estudos de filosofia brasileira. Lisboa: Instituto de Filosofia Luso-Brasileira, 1994;\n9) NOGUERA, Renato. O Ensino de Filosofia e a Lei nº 10.639. Rio de Janeiro: Editora Ceap, 2011.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF657",
+      "Nome": "Filosofia da Linguagem I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo introdutório de um ou mais temas e/ou conceitos fundamentais relativos ao problema filosófico da linguagem.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF659",
+      "Nome": "Filosofia da Linguagem III",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo de um ou mais  temas e/ou conceitos fundamentais relativos ao problema filosófico da linguagem segundo a perspectiva da filosofia da mente.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF675",
+      "Nome": "Filosofia da Religião I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução aos principais problemas da Filosofia da Religião.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF686",
+      "Nome": "História da Lógica I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Formação e evolução da lógica Grega, Zenão de Eléa e a origem da Dialética. A contribuição de Platão ao surgimento da Lógica. Aristóteles: o Organon e seu desenvolvimento. Os Tópicos e a Dialética. A teoria do silogismo.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF688",
+      "Nome": "História da Lógica III",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A lógica medieval. A recepção da lógica aristotélica por Boécio e Abelardo. Teoria dos termos (categoremáticos e sincategoramáticos, abstratos e concretos, absolutos e conotativos). Teorias das intenções e das suposições. A literatura dos Sophismata e dos Insolubilia. Silogística modal. A doutrina dos modos do significar (Gramática Especulativa).\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF699",
+      "Nome": "História da Lógica IV",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A axiomatização dos sistemas dedutivos. A aritmetização da análise. Boole e a álgebra da lógica. De Morgan e Pierce: a lógica da relação. Cantor e a teoria dos conjuntos. A questão da fundamentação matemática nos séculos XIX e XX. A conceitografia fregeana e o desenvolvimento da lógica no século XX.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF701",
+      "Nome": "Metaética",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Análise de questões de metaética tais como o cognitivismo e expressivismo moral, realismo moral, externalismo e internalismo.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     }
+    ]
+   },
+   "obrigatorias": 15,
+   "eletivas": 118,
+   "ano": "2009/1 a 9999/9"
+  }
+ ]
+}

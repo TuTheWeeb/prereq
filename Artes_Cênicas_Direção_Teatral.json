@@ -1,0 +1,1392 @@
+{
+ "Artes Cênicas Direção Teatral": [
+  {
+   "materias": {
+    "1º Período": [
+     {
+      "Codigo": "ECS111",
+      "Nome": "História do Espetáculo I",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "As origens do teatro ocidental. Os teatros grego e romano. Esquilo, Sofocles, Euripedes, Aristofanes e Menandro. Plutao e Terencio. Teatro medieval. Textos anonimos, misterios e farsas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "20:20 - 22:00",
+        "professor": "LIVIA FLORES LOPES"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ECS115",
+      "Nome": "Dramaturgia I",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudos das obras da tragédia e da comédia gregas. Estudo da comédia romana e da tragédia em Sêneca.\n___ BIBLIOGRAFIA BÁSICA ___\n1) ARISTÓFANES. As rãs. Tradução, introdução e comentários de Maria de Fátima Silva. Lisboa: Calouste Gulbenkian, 2014.\n2) ___. Duas comédias. Lisístrata e as tesmoforiantes. Tradução, apresentação e notas Adriane da Silva Duarte. São Paulo: Martins Fontes, 2005.\n3) ÉSQUILO, Orestéia: Agamêmnon, Coéforas, Eumênides. Estudo e tradução de Jaa Torrano. São Paulo: Iluminuras, 2004.\n4) EURÍPEDES. Medeia. Introdução, tradução e notas de Flávio Ribeiro de Oliveira. São Paulo: Odysseus, 2006.\n5) ___. Bacantes. Estudo e tradução de Jaa Torrano. São Paulo: Hucitec, 1995.\n6) LESKY, Albin. A tragédia grega. São Paulo: perspectiva, 1996 (Debates 32).\n7) MENANDRO. Obra completa. Introdução, tradução e notas de Maria de Fátima Souza e Silva. Lisboa: INCM, 2007.\n8) PLAUTO. Anfitrião. Introdução, tradução e notas de Lilian Nunes da Costa. São Paulo: Mercado de Letras, 2013 (Aurora).\n9) SÊNECA. Agamemnon. Tradução, introdução, posfácio e notas de José Eduardo dos Santos Lohner. São Paulo: Globo, 2009.\n10) SÓFOCLES. Édipo Rei. Estudo e tradução de Trajano Vieira. São Paulo: Perspectiva, 2001.\n___BIBLIOGRAFIA COMPLEMENTAR ___\n1) SAND BACK, O. F. The comic theatre of Greece and Rome. New York: W.W. Norton & Co, 1997.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "16:40 - 18:20",
+        "professor": "HENRIQUE FORTUNA CAIRUS"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IPG111",
+      "Nome": "Psicologia I CB",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Definicao da psicologia. Dominios de investigacao. A abordagem e-r e e-o-r. A abordagem gestaltista. A abordagem cognitivista. A abordagem etologica. A abordagem psicanalitica. As relacoes da psicologia com outros campos da investigacao.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "16:40 - 20:10",
+        "professor": "PEDRO QUEIROZ FEITOSA DE ALBUQUERQUE"
+       },
+       {
+        "dia": "Sex",
+        "hora": "16:40 - 19:00",
+        "professor": "Não Informado"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MUT114",
+      "Nome": "Expr Dram Populares do Brasil",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "As danças dramáticas do folclore brasileiro. As potencialidades dramáticas do carnaval  brasileiro. As potencialidades dramáticas dos rituais afro-brasileiros.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ECL111",
+      "Nome": "Fund de Expr e Com Cenicas I",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Consciência  corporal: postura, alinhamento, equilíbrio-desequilíbrio, tonicidade muscular, locomoção. Interação.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "16:40 - 20:10",
+        "professor": "LIGIA LOSADA TOURINHO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ECS113",
+      "Nome": "Comunicação e Artes",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Fundamentos de Estética e conceito de Arte. As artes plásticas como comunicação e seu relacionamento com as outras formas de expressão artística. O contexto histórico da criação artística. Gêneros e estilos da História das Artes.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "18:30 - 22:00",
+        "professor": "DENILSON LOPES SILVA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FCF110",
+      "Nome": "Filosofia I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução à filosofia desde um ponto de vista temático.\n___BIBLIOGRAFIA BÁSICA___\n1- ABBAGNANO, N. História da Filosofia.  Tomos I-II.\n2- ARENDT, H. Entre o passado e o futuro. São Paulo: Perspectiva, 1997.\n3- BORHEIM, Gerd. Os Filósofos Pré-Socráticos. São Paulo: Cultrix, 1985.\n4- CHATELET, François. História da Filosofia. [Tomos I-X . Rio de Janeiro: Jorge Zahar Ed.\n5- JÄGER, Werner. PAIDEA. A formação do homem grego. São Paulo: Martins Fontes, 2003.\n6- KIRK, & RAVEN. Os Filósofos Pré-Socráticos.Lisboa: Fundação Calouste Gulbekian, 1982.\n7- MARCONDES, D. Iniciação à história da Filosofia. Rio de Janeiro: Zahar, 1997.\n8- NIETZSCHE, Friedrich. Genealogia da Moral. São Paulo: Companhia das Letras, 2003.\n9- NIETZSCHE, Friedrich. A filosofia na época trágica dos gregos. São Paulo: Elfos, 2000.\n10- REALE, Giovanni. História da Filosofia. [ Tomos I-V ]. São Paulo: Paulus, 1990.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEV110",
+      "Nome": "Língua Portuguesa I",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Produção e análise de textos em língua portuguesa. O vocabulário, a frase e o texto. A gramática da frase e do texto. A correção gramatical.\n___BIBLIOGRAFIA BÁSICA___\n1- Abreu, A. S. Curso de redação. S. Paulo, Ática, 1994.\n2 - Fávero, L. L. Coesão e coerência textuais. S. Paulo, Ática, 1991.\n3 - Garcia, O. M. Comunicação em prosa moderna. Rio de Janeiro, FGV, 1985.\n4 - Koch, I. Texto e coerência. S. Paulo, Cortez, 1994.\n5 - Silva, M. C., Brayner, S. Normas técnicas de editoração. Rio de Janeiro, UFRJ, 1992.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "18:30 - 22:00",
+        "professor": "MAURO JOSE ROCHA DO NASCIMENTO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "2º Período": [
+     {
+      "Codigo": "ECL121",
+      "Nome": "Fund de Expr e com Cênicas II",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Esforcos basicos. Espaco. Tempo e ritmo. Composicao corporal. Relacao com o objeto.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ECL111"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ECS129",
+      "Nome": "Teoria do Drama I",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "As propostas de Platão e o teatro. A poética de Aristóteles. A arte Poética de Horácio.\n___ BIBLIOGRAFIA BÁSICA ___\n1 - ARISTÓTELES. Poética. Tradução e notas de Ana Maria Valente. Lisboa: Calouste Gulbenkian, 2008.\n2 - GUINSBURG, J. (Org). A República de Platão. São Paulo, Perspectiva, 2010.\n3 - HORÁCIO. Arte Poética. Introdução, tradução e comentários R.M. Rosado Fernandes. Lisboa: Calouste Gulbenkian, 2012.\n___ BIBLIOGRAFIA COMPLEMENTAR ____\n1 - CARLSON, Marvin. Teorias do teatro. Estudo histórico-crítico, dos gregos à atualidade. Tradução de Gilson César de Souza. São paulo: UNESP, 1995.\n2 - ESSLIN, Martin. Uma anatomia do drama. Rio de Janeiro: Zahar, 1978.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEV120",
+      "Nome": "Língua Portuguesa II",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Analise e producao de textos em lingua portuguesa.Tipologia textual. Problemas de coesao, coerencia eargumentacao. A correcao gramatical.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEV110"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ECA120",
+      "Nome": "Direção I",
+      "Créditos": "5.0",
+      "Teórica": "45",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "As funcoes do diretor e o seu relacionamento com a equipe. Analise e interpretacao do texto teatral para fins de encenaco. O processo de concepcao e realizacao teatral. Tipos de ensaio.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ECS126",
+      "Nome": "História do Espetáculo II",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Teatro renascentista italiano: Maquiavel e comédia dell'arte. Teatro barroco jesuítico. O nascimento do teatro em língua portuguesa: Gil Vicente, Anchieta e os momos. O século de Ouro espanhol: Cervantes, Lope de Vega, Calderón de la Barca. O teatro elisabetano: Shakespeare.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ECS111"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FCF111",
+      "Nome": "Filosofia II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução à filosofia desde um ponto de vista histórico.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "3º Período": [
+     {
+      "Codigo": "ECL233",
+      "Nome": "Espetáculo: o Ator I",
+      "Créditos": "5.0",
+      "Teórica": "45",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Funcionamento sistemico das capacidades organicas, criadoras e comunicacionais do ator. A relacao ontologica jogo/obra de arte. Conceitos atraves de jogos: da questao a experiencia. Ator-jogador, espectador-jogador e o inventor de jogos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "16:40 - 22:00",
+        "professor": "ELEONORA BATISTA FABIAO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ECS235",
+      "Nome": "História do Espetáculo III",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O teatro classicista frances: Racine, Corneille, Moliere. O teatro do seculo XVIII na Europa: Diderot, Beaumarchais. O seculo XVIII no brasil. O romantismo europeu. Kleist e o ator-marionete. O romantismo brasileiro: tragedia e comedia.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "18:30 - 20:10",
+        "professor": "LIVIA FLORES LOPES"
+       }
+      ],
+      "Requisitos": [
+       "ECS111"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ECA231",
+      "Nome": "Direção II",
+      "Créditos": "5.0",
+      "Teórica": "45",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Visuallização da encenação: planta baixa, definição das áreas de atuação, composição cênica, marcação. Manipulação dos elementos de cenografia, idumentária, adereços, efeitos de som, luz e maquiagem.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "16:40 - 18:20",
+        "professor": "JOSE HENRIQUE FERREIRA BARBOSA MOREIRA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "16:40 - 20:10",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "ECA120"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ECS234",
+      "Nome": "Poéticas do Espetáculo I",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Wagner e a \"obra de arte total\". O surgimento da figura do encenador. A estetica realista-naturalista: o duque de Saxe-Meiningen, Andre Antoine, Stanislavski.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "18:30 - 20:10",
+        "professor": "CARMEM CINYRA GADELHA PEREIRA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "4º Período": [
+     {
+      "Codigo": "ECL247",
+      "Nome": "Elementos de Linguagem Musical",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Nocoes basicas de teoria musical. Compasso, andamentos ritmo. Musica popular e musica erudita. Generos e estilos em musica. Efeitos expressivos em musica. Musica e sonoplastia. Musica como expressao do momento historico.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "18:20 - 22:00",
+        "professor": "JACYAN CASTILHO DE OLIVEIRA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ECS244",
+      "Nome": "Poéticas do Espetáculo II",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A estetica teatral simbolista. O teatro expression ista. O teatro reteatralizado: Appia. Craig. O \"Cartel\"frances. Surrealismo.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ECS234"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ECA248",
+      "Nome": "Direção III",
+      "Créditos": "5.0",
+      "Teórica": "45",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A encenação previamente planejada e a encenação fruto de um laboratório de improvisação com atores. Os diferentes tipo de espaço teatral: palco italiano, arena de três lados, arena completa, organização não-convencional de palco/platéia.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ECA231"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ECL248",
+      "Nome": "Espetáculo: o Ator II",
+      "Créditos": "5.0",
+      "Teórica": "45",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conhecer e habitar o palco: corpo cenico, existencia cenica. A danca da improvisacao. Dramaturgia do ator. Representar, interpretar e atuar: reflexao sobre o conceito de mimesis. O ator atraves da historia do teatro.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ECL233"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ECS245",
+      "Nome": "História do Espetáculo IV",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O realismo e o naturalismo. Zola, Ibsen, Tchekov, Strindberg. Machado de Assis, Artur Azevedo e equipe. As teorias e sua influencia nos textos. O realismo americano. O teatro oriental. Brecht e o teatro epico.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ECS111"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "5º Período": [
+     {
+      "Codigo": "ECA372",
+      "Nome": "Direção IV",
+      "Créditos": "5.0",
+      "Teórica": "45",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Dirigindo o ator: a relacao ator-diretor, distribuicao de papeis, orientacao, estimulo, avaliacao; improvisacao como instrumento auxiliar na construcao do personagem, exercicios destinadosa resolver problemas especificos do ator.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "20:20 - 22:00",
+        "professor": "ADRIANA SCHNEIDER ALCURE"
+       },
+       {
+        "dia": "Ter",
+        "hora": "18:30 - 22:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "ECA248"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ECL373",
+      "Nome": "Espetáculo: o Ator III",
+      "Créditos": "5.0",
+      "Teórica": "45",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Criacao do personagem. Monologo e dialogo. Acao verbal. Contracenacao. A danca do personagem. Relacoes: ator-diretor-dramaturgo-espectador-personagem. O ator de teatro: especificidades.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "16:40 - 22:00",
+        "professor": "RICARDO CABRAL PEREIRA"
+       }
+      ],
+      "Requisitos": [
+       "ECL248"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ECS351",
+      "Nome": "História do Espetáculo V",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O pré-modernismo e o modernismo brasileiros. A semana de 22 e a vanguarda européia: Mário e Oswald de Andrade. O teatro na segunda metade  do século XX. Teatro brasileiro: Nélson Rodrigues, as contribuições do nordeste, TBC, Arena, Oficina, Opinião e demais tendências. Teatro brasileiro atual.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "16:40 - 18:20",
+        "professor": "JACYAN CASTILHO DE OLIVEIRA"
+       }
+      ],
+      "Requisitos": [
+       "ECS111"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ECA357",
+      "Nome": "Dicção e Interpretacão Oral",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Prática de técnicas básicas de leitura e interpretação oral de textos variados (notícias para rádio e TV, reportagens, entrevistas, apresentações públicas, apresentação oral de livros, comentários).\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "18:30 - 20:10",
+        "professor": "RICARDO CABRAL PEREIRA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ECA475",
+      "Nome": "Comunicação e Cenografia",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O espacao cenico como instrumento de comunicacao. A linguagem da cenografia. Leitura e avaliacao de um projeto cenografico. Concepcao e planejamento de cenarios. A relacao entre cenografia, o figurino e a iluminacao.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "16:40 - 18:20",
+        "professor": "RONALD TEIXEIRA DA CUNHA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ECS350",
+      "Nome": "Poéticas do Espetáculo III",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Meyerhold, o futurismo, o construtivismo. O teatro epico: Piscator e Brecht.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "20:20 - 22:00",
+        "professor": "CARMEM CINYRA GADELHA PEREIRA"
+       }
+      ],
+      "Requisitos": [
+       "ECS234"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ECS484",
+      "Nome": "Dramaturgia VII",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A dramaturgia brasileira: o teatro de catequese, tentativas esparsas nos séculos XVI e XVII. O encontro da nacionalidade no teatro romântico. A comédia de costumes nos séculos XIX e XX. Nelson Rodrigues e os dramaturgos contemporâneos.\n___ BIBLIOGRAFIA BÁSICA ___\n1 -  CAFEZEIRO, Edwald; GADELHA, Carmen. História do teatro brasileiro: um percurso de Anchieta a Nelson Rodrigues. Rio de Janeiro: UFRJ, 1996.\n2 - FARIA, João Roberto. História do Teatro Brasileiro. Volume I: das origens ao teatro profissional da primeira metade do século XX. São Paulo: Perspectiva, 2012.\n3 - RODRIGUES, Nelson. Teatro completo. Organização e introdução de Sábato Magaldi. São Paulo: Nova Fronteira, 1985.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ECS115"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "6º Período": [
+     {
+      "Codigo": "ECA360",
+      "Nome": "Legislação e Produção Teatral",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Etica profissional. Legislacao teatral. Direitos autorais. Processo de producao. Organizacao e administracao teatral.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ECA369",
+      "Nome": "Direção V",
+      "Créditos": "5.0",
+      "Teórica": "45",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Direcao de diferentes generos e estilos dramaticos: drama historico, tragedia, comedia, farsa, melodrama; drama realista, simbolista, expressionista, epico, absurdo; peca de epoca; peca contemporanea; monologo; musical.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ECA372"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ECS361",
+      "Nome": "Poéticas do Espetáculo IV",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O teatro  pobre de  Jerszy Grotowski. O teatro  antropológico de Eugenio Narba. Peter Brook e Tadeus Kantor; uma redefinição da encenação européia. Tendências do espetáculo contemporâneo (EUA,  Europa, Brasil).\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ECS234"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAT411",
+      "Nome": "Caracterização Teatral",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo da caracterização teatral e sua aplicação às Artes Cênicas. Ensino de técnicas e criação de projeto para caracterização teatral.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "09:00 - 12:00",
+        "professor": "LEONARDO AUGUSTO DE JESUS"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ECA363",
+      "Nome": "Iluminação Cênica I",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "História da iluminação cênica. Natureza da luz. Princípios de iluminação: posição da fonte, intensidade e cor. Teoria da cor. Equipamentos. Eletricidade e segurança.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "20:20 - 22:00",
+        "professor": "JOSE HENRIQUE FERREIRA BARBOSA MOREIRA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ECL377",
+      "Nome": "Espetáculo: o Ator IV",
+      "Créditos": "5.0",
+      "Teórica": "45",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Direcao do ator. A parcela diretor do ator e a porcao ator do encenador: personagem como sintese. Ato criativo conjunto: da soma a multiplicacao. Aprendizado continuo do ator: superacao dos metodos. Cena aberta: como e por que teatro hoje?\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ECL373"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "7º Período": [
+     {
+      "Codigo": "ECA480",
+      "Nome": "Iluminação Cênica II",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Projeto iluminação  teatral. Plantas e roteiros de luz. Montagem e operação de um projeto de iluminação  cênica.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ECA363"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ECA487",
+      "Nome": "Direção VI",
+      "Créditos": "5.0",
+      "Teórica": "45",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Montagem de uma peca completa de curta duracao. O processo de ensaio em suas diferentes etapas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "22:00 - 23:50",
+        "professor": "RICARDO CABRAL PEREIRA"
+       },
+       {
+        "dia": "Seg",
+        "hora": "22:00 - 23:50",
+        "professor": "JOSE HENRIQUE FERREIRA BARBOSA MOREIRA"
+       },
+       {
+        "dia": "Ter",
+        "hora": "22:00 - 23:50",
+        "professor": "ELEONORA BATISTA FABIAO"
+       },
+       {
+        "dia": "Ter",
+        "hora": "22:00 - 23:50",
+        "professor": "JACYAN CASTILHO DE OLIVEIRA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "22:00 - 23:50",
+        "professor": "LIVIA FLORES LOPES"
+       },
+       {
+        "dia": "Qui",
+        "hora": "22:00 - 23:50",
+        "professor": "CARMEM CINYRA GADELHA PEREIRA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "22:00 - 23:50",
+        "professor": "ADRIANA SCHNEIDER ALCURE"
+       }
+      ],
+      "Requisitos": [
+       "ECA369"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ECS233",
+      "Nome": "Comunicação, Vestuário e Moda",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo e pesquisa da evolução do traje. Os fundamentos da indumentária para os diversos tipos de espetáculo. A forma, a cor, texturas e materiais apropriados para a confecção de um figurino.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ECA479",
+      "Nome": "Ética no Teatro",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Os preconceitos e distorcoes da visao do ator ao longo da historia. A etica do homem de teatro na visao dos principais encenadores. A postura do homem de teatro nos dias atuais.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ECA485",
+      "Nome": "Projeto de Encenação",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Formulacao de um projeto de encenacao. Estudo do texto e/ou definicao da proposta de encenacao. Planejamento das etapas de ensaio. Relatorio final. Avaliacao.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "16:40 - 18:20",
+        "professor": "GABRIELA LIRIO GURGEL MONTEIRO"
+       }
+      ],
+      "Requisitos": [
+       "ECA369"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ECL376",
+      "Nome": "Edição de Trilha Sonora",
+      "Créditos": "3.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Sincronismo imagem-ruído-fala-música. Música incidental e integração da música no espetáculo audio-visual. Funções da música no acompanhamento do espetáculo cênico. Aplicabilidade de cores sonoras que caracterizam e ressaltam o \"som da cena\".\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ECS471",
+      "Nome": "Poéticas do Espetáculo V",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O teatro nos meios de comunicação de massa: cinema, radioteatro e teleteatro. A especificidade do teatro artesanal na era da reprodutibilidade técnica.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "20:20 - 22:00",
+        "professor": "CARMEM CINYRA GADELHA PEREIRA"
+       }
+      ],
+      "Requisitos": [
+       "ECS234"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "8º Período": [
+     {
+      "Codigo": "ECAY05",
+      "Nome": "Projeto Experimental em Teatro",
+      "Créditos": "10.0",
+      "Teórica": "300",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Encenação de espetáculo teatral completo, acompanhado de projeto inicial e relatorio final da avaliação..\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "22:10 - 23:50",
+        "professor": "Não Informado"
+       },
+       {
+        "dia": "Ter",
+        "hora": "22:10 - 23:50",
+        "professor": ""
+       },
+       {
+        "dia": "Qua",
+        "hora": "22:10 - 23:50",
+        "professor": ""
+       },
+       {
+        "dia": "Qui",
+        "hora": "22:10 - 23:50",
+        "professor": ""
+       },
+       {
+        "dia": "Sex",
+        "hora": "22:10 - 23:50",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "ECA487"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "Disciplinas Optativas (Escolha Restrita)": [
+     {
+      "Codigo": "ECS355",
+      "Nome": "Dramaturgia III",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O teatro elizabetano e a obra de William Shakespeare. O seculo de ouro espanhol. O teatro clássico francês. Goldoni, Marivaux e Beaumarchais.\n___ BIBLIOGRAFIA BÁSICA ___\n1 - GUINSBURG, J. (Org). O Clacissismo. São Paulo, Perspectiva, 2012.\n2 - GUINSBURG, J.; CUNHA, Newton (Org). Teatro espanhol do século de ouro. São Paulo: Perspectiva, 2012.\n3 - KOTT, Jan. Shakespeare, nosso contemporâneo. São Paulo: Cosac Naify, 2003.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "16:40 - 18:20",
+        "professor": "ADRIANA SCHNEIDER ALCURE"
+       }
+      ],
+      "Requisitos": [
+       "ECS115"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ECS472",
+      "Nome": "Dramaturgia V",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A proposta damatúrgica de Georg Buchner. O teatro escandinavo: Ibsen e Strindberg. Tchekov e Gorki. Oscar Wilde, Bernard Shaw.\n___ BIBLIOGRAFIA BÁSICA ___\n1- BENTLEY, Eric. O dramaturgo como pensador. Rio de Janeiro: Civilização Brasileira, 1991.\n2 - CARLSON, Marvin. Teorias do teatro: estudo histórico-crítico, dos gregos à atualidade. São Paulo: UNESP, 1997.\n3 - GUINSBURG, J.; KOUDELA, I. Buchner: na pena e na cena. São Paulo: Perspectiva, 2004.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "18:30 - 20:10",
+        "professor": "JACYAN CASTILHO DE OLIVEIRA"
+       }
+      ],
+      "Requisitos": [
+       "ECS115"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ECS485",
+      "Nome": "Dramaturgia VIII",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A estrutura do texto teatral. As técnicas de composição dramatúrgica. A elaboração de um texto de teatro a partir de uma ideia original ou de adaptação.\n___ BIBLIOGRAFIA BÁSICA ____\n1 - BAUMGÄRTEL, Stephan. Estratégias de escrita teatral não-dramática e a oficina de dramaturgia no contexto contemporâneo: algumas reflexões preliminares. O teatro Transcende. Blumenau: FURB, 2011, vol 16.\n2 - PALLOTTINI, Renata. Introdução à dramaturgia. São Paulo: Brasiliense, 1983.\n3 - SARRAZAC, Jean Pierre. A oficina de escrita dramática. Revista Educação & Realidade. Porto Alegre: UFRGS - FACED, vol 30 n. 2, 2005.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "18:30 - 22:00",
+        "professor": "GABRIELA LIRIO GURGEL MONTEIRO"
+       }
+      ],
+      "Requisitos": [
+       "ECS115"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ECS356",
+      "Nome": "Teoria do Drama III",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Teoria teatral do século XIX: Escandinávia (Kierkgaard, Ibsen e Strindberg) e França (Hugo, Zola, Dumas Filho, Brumetière, Maeterlinck e Bergson).\n___ BIBLIOGRAFIA BÁSICA ___\n1 - HUGO, Victor. Do grotesco e do sublime. São Paulo: Perspectiva, 2009.\n2 - THOMASSEAU, Jean-Marie. Melodrama. Tradução por: Claudia Braga, Jacqueline Penjon. São Paulo: Perspectiva, 2012\n3 - ZOLA, Emile. O romance experimental e o naturalismo no teatro. São Paulo: Perspectiva, 1982.\n___ BIBLIOGRAFIA COMPLEMENTAR ____\n1 - BORNHEIN, Gerd. O sentido e a máscara. Porto Alegre: UFRGS, 1965.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ECS129"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ECS475",
+      "Nome": "Teoria do Drama V",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A teoria do teatro no século XX: Inglaterra (Yeats, Esslin), Itália (Pirandello), França (Artaud, Ionesco), Alemanha (Brecht) e Estados Unidos (Wilder, Miller e Bentley).\n___ BIBLIOGRAFIA BÁSICA ___\n1 - BORIE, M; ROUGEMONT, M SCHERER, J. Estética teatral. Textos de Platão a Brecht. Tradução de Helene Barbas. Lisboa: Calouste Gulbenkian, 1996.\n2 - BORNHEIN, Gerd. Brecht: a estética do teatro. São Paulo: Graal, 1992.\n3 - ESSLIN, Martin. O teatro do absurdo. Edição revista, atualizada e ampliada. Rio de Janeiro: Zahar, 2018.\n4 - GARCIA, Silvana. as trombetas de Jericó: teatro das vanguardas históricas. Hucitec/FAPESP, 2009.\n5 - VIRMAUX, Alan. Artaud e o teatro. São Paulo: Perspectiva, 1978 (estudos 58).\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ECS129"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ECS247",
+      "Nome": "Dramaturgia II",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Teatro Medieval: misterios, milagres, moralidades e farsas. O teatro de Gil Vicente; A Celestina, de Fernando Rojas. O teatro renascentista italiano.\n___ BIBLIOGRAFIA BÁSICA ___\n1) ALIGHIERI, Dante. A divina Comédia. Belo Horizonte: Itatiaia, 1984.\n2) CARLSON, Marvin. Teorias do teatro: estudo histórico-crítico, dos gregos à atualidade. São Paulo: UNESP, 1997.\n3) GASSNER, John. Mestres do teatro I. São Paulo: Perspectiva; Universidade de São Paulo, 1974.\n___ BIBLIOGRAFIA COMPLEMENTAR ___\n1) FO, Dario. Manual mínimo do ator. São Paulo: Senac São Paulo, 2004.\n2) MOUSSINAC, Léon. História do teatro: das origens aos nossos dias. Lisboa: Livraria Bertrand, 1957.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ECS115"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ECS364",
+      "Nome": "Dramaturgia IV",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O teatro de Lessing. O Sturm und Drang e o nascimento do Romantismo. O Teatro romântico francês: o melodrama. A peça-bem-feita. A dramaturgia russa. O drama naturalista. O Vaudeville francês: Feydeau.\n___ BIBLIOGRAFIA BÁSICA ___\n1 - BERTHOLD, Margot. História mundial do teatro. São Paulo: Perspectiva, 2011.\n2 - GUINSBURG, J. (Org.) O Romantismo. São Paulo: Perspectiva, 2013.\n3 - THOMASSEAU, Jean-Marie. Melodrama. Tradução por: Claudia Braga, Jacqueline Penjon. São Paulo: Perspectiva, 2012.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ECS115"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ECS474",
+      "Nome": "Dramaturgia VI",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A dramaturgia no século XX: drama expressionista e drama simbolista. Bertolt Brecht e o teatro épico. Pirandello. O drama existencialista francês. O teatro do absurdo. O teatro da crueldade: Arrabal e Jean Genet. O teatro americano e o teatro inglês contemporâneos.\n___ BIBLIOGRAFIA BÁSICA ___\n1 - ARTAUD, Antonin. Os escritos de Antonin Artaud. Apresentação e organização Claudio Willer. São Paulo: L & PM, 1986.\n2 - BRECHT, Bertold. Peças teatrais. São Paulo: Paz e Terra, 1995, 12 volumes.\n3 - ESSLIN, Martin. O teatro do absurdo. Edição revista atualizada e ampliada. Rio de Janeiro: Zahar, 2018.\n4 - ROSENFELD, Anatol. O teatro épico. São paulo: Perspectiva, 1985.\n___ BIBLIOGRAFIA COMPLEMENTAR ___\n1 - BENTLEY, Eric. O dramaturgo como pensador. Rio de Janeiro: Civilização Brasileira, 1991.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ECS115"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ECS248",
+      "Nome": "Teoria do Drama II",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Os gêneros dramáticos e a teoria do drama no Renascimento. As teorias da Arte Dramática na Europa dos séculos XVII e XVIII.\n___ BIBLIOGRAFIA BÁSICA ___\n1 - BENJAMIN, Walter. Origem do drama barroco alemão. São Paulo: Brasiliense, 1984.\n2 - DIDEROT, Denis. Discurso sobre a poesia dramática. Rio de Janeiro. Cosac Naify, 2006.\n3 - DIDEROT, Denis. O paradoxo sobre o comediante. São Paulo: escala, 2006.\n4 - HELIODORA, Barbara. Falando de Shakespeare. São Paulo: Perspectiva, 1997.\n5 - HELIODORA, Barbara. A expressão dramática do homem político em Shakespeare. São Paulo: Paz e Terra, 1978.\n___ BIBLIOGRAFIA COMPLEMENTAR ___\n1 - BORNHEIN, Gerd. O sentido e a máscara. Porto Alegre: UFRGS, 1965.\n2 - D´AMICO, Silvio. Storia del Teatro dramático. México: U.T.E.H.A, 1961.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "16:40 - 18:20",
+        "professor": "HENRIQUE FORTUNA CAIRUS"
+       }
+      ],
+      "Requisitos": [
+       "ECS129"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ECS365",
+      "Nome": "Teoria do Drama IV",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Teoria teatral no século XIX: Alemanha (Freud, Wagner e Nietzsche) e Rússia (Tchekov e Tolstoi).\n___ BIBLIOGRAFIA BÁSICA ___\n1 - NIETZSCHE, Friedrich. O nascimento da tragédia. São Paulo: Companhia das Letras,1992.\n2 - SZONDI, Peter. Teoria do drama moderno (1881-1950). Rio de Janeiro: Cosac Naify, 2001.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "16:40 - 18:20",
+        "professor": "JACYAN CASTILHO DE OLIVEIRA"
+       }
+      ],
+      "Requisitos": [
+       "ECS129"
+      ],
+      "Tipo": "eletiva"
+     }
+    ],
+    "Disciplinas Optativas (Escolha Condicionada)": [
+     {
+      "Codigo": "LEB599",
+      "Nome": "Est da Líng Bras de Sinais I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Nomes próprios; pronomes pessoais; demonstrativos; possessivos; locativos em sentenças simples do tipo pergunta-resposta com \"o que\" e \"quem\" e outros vocábulos básicos; numerais; quantidade; topicalização; flexão verbal; flexão de negação; expressões faciais e corporais; percepção visual; conversação; diálogos; textos: LIBRAS, cultura e comunidade surda.\n",
+       "BibliografiaBasica": "1) BRITO, L. F. Por uma gramática de língua de sinais. Rio de Janeiro: Tempo Brasileiro, 1995.\n2) FELIPE, T.; MONTEIRO, M. S. LIBRAS em contexto. Curso Básico. Brasília: Ministério da Educação e do Desporto/Secretaria de Educação Especial, 2001.\n3) GESSER, A. Libras - Que língua é essa? Crença e preconceitos em torno da língua de sinais e da realidade surda. Florianópolis: Parábola, 2009.\n4) STROBEL, K. L. As imagens do outro sobre a cultura surda. Florianópolis: EdUFSC, 2008.\n",
+       "BibliografiaComplementar": "1) PIMENTA, Nelson e QUADROS, Ronice Muller. Curso de Libras I, LSB Vídeo, volume I, Iniciante, 2006 e 3a ed., 2008.\n2) Dicionário Enciclopédico Ilustrado Triíngue da Língua de Sinais Brasileira ? vol 1 e vol. 2 Site: www.acessobrasil.org.brasil\n3) Dicionário da Língua Brasileira de Sinais, INES, versão, 2.0, ano 2006.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NEP110",
+      "Nome": "Fund Direitos Humanos",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Necessidade e possibilidade de uma fundamentação filosófica dos direitos humanos, para a determinação do conteúdo e construção de argumentos racionais na sua implementação. Identificação dos principais desafios para afirmação e a realização dos direitos humanos e apresentação de algumas propostas contemporâneas de Fundamentação Filosófica dos Direitos Humanos.\n",
+       "BibliografiaBasica": "1) BARBALET, J. M. A Cidadania. Lisboa: Editorial Estampa, 1989.\n2) BAUMAN, Zygmunt. Comunidade: a busca da segurança no mundo atual. Rio de Janeiro: Jorge Zahar, 2003.\n3) BECKER, Howard S. Métodos de pesquisa em ciências sociais. São Paulo: Hucitec, 1999.\n",
+       "BibliografiaComplementar": "1) BELLONI I, Magalhães h. / Souza L; Metodologia de avaliação em políticas públicas. São Paulo (Cortez) 2003.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 17:00",
+        "professor": "Não Informado"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NEP130",
+      "Nome": "Tóp Esp Polít Públ Dir Hum I",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Discussão de temas específicos em políticas públicas e direitos humanos com base no processo histórico e nas críticas contemporâneas, proporcionando ao aluno uma visão sobre o alcance e limites da sua proteção e promoção.\n___BIBLIOGRAFIA BÁSICA___\n1) BECKER, Howard S. Métodos de pesquisa em ciências sociais. São Paulo: Hucitec, 1999.\n2) BELLONI I.; Magalhães H.; Souza L; Metodologia de avaliação em políticas públicas. São Paulo (Cortez) 2003.\n3) BOBBIO, Norberto. A era dos direitos. Rio de Janeiro: Campus, 1992.\n4) BOURGUIGNON, Jussara Ayres; OLIVEIRA Jr., Constantino Ribeiro de (Orgs.).  Pesquisa em ciências sociais: interfaces, debates e metodologias. Ponta Grossa (PR): Todapalavra, 2012.\n5) BRASIL, Programa Nacional de Direitos Humanos , PNDH II, Fernando Henrique Cardoso,  Brasília, Presidência da República, Secretaria da Comunicação Social, Ministério da Justiça, 2002.\n6) BUCCI, Maria Paula Dalari Et. al. (Orgs.). Direitos Humanos e políticas públicas. São Paulo: Pólis, 2001.\n7) FAORO, Raymundo. Os donos do poder. Rio de Janeiro, Editora Globo, 1958.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "16:30 - 20:00",
+        "professor": "Não Informado"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ECWZ51",
+      "Nome": "Ativ Curricular Extensão - Dte",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "0",
+      "Extensão": "270",
+      "Informação": {
+       "Info": "Atuação em atividades de extensão registradas na Pró-Reitoria de Extensão da UFRJ, como programas, projetos, cursos de extensão e eventos, coordenados por docentes do quadro permanente ou técnicos da carreira de nível superior na UFRJ. Para eventos, a atuação deverá ser na organização ou na realização do evento. Para cursos, a atuação deve ser na organização ou ministrando aulas.\n___ BIBLIOGRAFIA BÁSICA ___\nBibliografia recomendada pelo coordenador da atividade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NEP101",
+      "Nome": "Teoria Direitos Fundamentais",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Discussão de uma teoria dos direitos fundamentais com base nas normas positivadas constitucionais, no direito comparado e na jurisprudência, proporcionando ao estudante uma visão sobre alcance e limites da proteção e promoção desses direitos.\n___BIBLIOGRAFIA BÁSICA___\n1) ABRAMOVAY, Ricardo. Direitos fundamentais das minorias (sob o enfoque da Lei nº9.882/99). Leme: Anhanguera Editora, 2010.\n2) ALEXY, Robert. Teoria de los derechos fundamentales, trad. Ernesto Garzón Valdés. Madrid: Centro de Estudios Constitucionales, 1993.\n3) ANDRADE, José Carlos Vieira de. Os direitos fundamentais na Constituição portuguesa de 1976 . 3ª ed. Coimbra: Almedina, 2007.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) BULOS, Uádi Lammêgo. Curso de Direito Constitucional. 3. ed. São Paulo: Saraiva: 2008.\n2) CANOTILHO, José Joaquim Gomes. Direito constitucional e teoria da constituição, 7ª ed. Coimbra: Almedina, 2003.\n3) SILVA, José Afonso da. Curso de Direito Constitucional Positivo. 31. ed. São Paulo: Malheiros, 2008.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 17:00",
+        "professor": "Não Informado"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NEP120",
+      "Nome": "Fund Polít Públicas Dir Hum",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Discussão sobre a necessidade e a possibilidade de uma fundamentação filosófica das políticas públicas, para a construção de argumentos racionais na sua implementação e identificação dos principais desafios para sua afirmação e realização. Apresentação de algumas propostas contemporâneas de fundamentação filosófica das políticas em direitos humanos.\n___BIBLIOGRAFIA BÁSICA___\n1) BARBALET, J. M. A Cidadania. Lisboa: Editorial Estampa, 1989.\n2) BAUMAN, Zygmunt. Comunidade: a busca da segurança no mundo atual. Rio de Janeiro: Jorge Zahar, 2003.\n3) BECKER, Howard S. Métodos de pesquisa em ciências sociais. São Paulo: Hucitec, 1999.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) BELLONI I, Magalhães h. / Souza L; Metodologia de avaliação em políticas públicas. São Paulo (Cortez) 2003.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "13:50 - 17:50",
+        "professor": "Não Informado"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NEP140",
+      "Nome": "Tóp Esp Polít Públ Dir Hum II",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Discussão de temas específicos em políticas públicas e direitos humanos com base no processo histórico e nas críticas contemporâneas, proporcionando ao aluno uma visão sobre o alcance e limites da sua proteção e promoção.\n___BIBLIOGRAFIA BÁSICA___\n1) BECKER, Howard S. Métodos de pesquisa em ciências sociais. São Paulo: Hucitec, 1999.\n2) BELLONI I.; Magalhães H.; Souza L; Metodologia de avaliação em políticas públicas. São Paulo (Cortez) 2003.\n3) BOBBIO, Norberto. A era dos direitos. Rio de Janeiro: Campus, 1992.\n4) BOURGUIGNON, Jussara Ayres; OLIVEIRA Jr., Constantino Ribeiro de (Orgs.).  Pesquisa em ciências sociais: interfaces, debates e metodologias. Ponta Grossa (PR): Todapalavra, 2012.\n5) BRASIL, Programa Nacional de Direitos Humanos , PNDH II, Fernando Henrique Cardoso,  Brasília, Presidência da República, Secretaria da Comunicação Social, Ministério da Justiça, 2002.\n6) BUCCI, Maria Paula Dalari Et. al. (Orgs.). Direitos Humanos e políticas públicas. São Paulo: Pólis, 2001.\n7) FAORO, Raymundo. Os donos do poder. Rio de Janeiro, Editora Globo, 1958.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "18:30 - 22:00",
+        "professor": "Não Informado"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     }
+    ]
+   },
+   "obrigatorias": 44,
+   "eletivas": 17,
+   "ano": "2001/1 a 9999/9"
+  }
+ ]
+}

@@ -1,0 +1,4918 @@
+{
+ "Bac em Letras Português Inglês": [
+  {
+   "materias": {
+    "1º Período": [
+     {
+      "Codigo": "LEC161",
+      "Nome": "Intr Cult Romana Morf Latina",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Formação da língua latina. História de Roma, lenda e historiografia: o Lácio; Roma antiga; O legado de Roma. Os fonemas do Latim Clássico. O alfabeto latino. Pronúncia e acentuação. Substantivos e adjetivos da primeira e segunda declinação. Morfossintaxe comparativa do latim e português. Casos latinos. Verbo: número, pessoa, tempo, modo e voz. Textos adaptados de autores latinos.\n___Bibliografia Recomendada___\n1- AMARANTE, José Latinitas. Leitura do texto em língua latina. 1 vol. Salvador: EDUFBA, 2015. https://repositorio.ufba.br/ri/handle/ri/17071\n2- FARIA, Ernesto. Dicionário latino português. Rio de Janeiro: FAE, 1988. http://www.dominiopublico.gov.br/download/texto/me001612.pdf\n3- FUNARI, Pedro Paulo. Grécia e Roma. 2ª ed. São Paulo: Contexto, 2002. https://geopraxis.files.wordpress.com/2016/03/livro-grc3a9cia-e-roma.pdf\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEG101",
+      "Nome": "Inglês I",
+      "Créditos": "6.0",
+      "Teórica": "90",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Revisao gramatical I: sintagma verbal I. Pratica Oral, de Escrita e Leitura I.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEV101",
+      "Nome": "Portugues I",
+      "Créditos": "6.0",
+      "Teórica": "90",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A lingua portuguesa no brasil. Variedades de uso. Normas regionais e sociais. Analise gramatical e estilistica de textos contemporaneos. Tecnicas de expressao escrita.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEC111",
+      "Nome": "Introdução Língua Grega Antiga",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Os gregos antigos. Principais aspectos do Ático clássico. Tradução. O mundo grego antigo - aspectos histórico-geográficos. O alfabeto clássico (ático-jônico). Panorama do sistema nominal grego. 1ª e 2ª declinações. Panorama do sistema verbal. Noções elementares da sintaxe dos casos. Exercícios de tradução; Elementos formadores de vocábulos gregos.\n___ BIBLIOGRAFIA BÁSICA ___\n1- HORTA, Guida. os gregos e seu idioma. Manual prático de língua grega clássica e de cultura helênica para o uso dos cursos universitários de Letras. 3. ed. ver. corr. Rio de Janeiro: J. di Giorgio, 1983.\n2- JOINT ASSOCIATION OS CLASSICAL TEACHERS. Aprendendo Grego. 2. ed. São Paulo: Odysseus, 2014.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEF141",
+      "Nome": "Linguistica I",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introducao. Objeto e campos da linguistica. Ciencias afins. Estrutura das linguas. Procedimentos de descricao e analise.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEL101",
+      "Nome": "Teoria Literaria I",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A cultura: arte, ciencia, jogo, mito e ideologia. A constituicao do fenomeno literario. A questao da temporalidade e da periodizacao literaria. Teoria e critica literaria. O texto e a leitura: metodologias.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "2º Período": [
+     {
+      "Codigo": "LEC165",
+      "Nome": "Intr Orat Lat Morfossint Latim",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Substantivos e adjetivos da terceira, quarta e quinta declinação. Introdução à sintaxe dos casos latinos. Grau dos adjetivos. pronomes relativos, demonstrativos e indefinidos. A voz passiva. textos adaptados de autores latinos.\n___Bibliografia Recomendada___\n1- AMARANTE, José Latinitas. Leitura de texto em língua latina. 1 vol. Salvador: EDUFBA, 2015. https://repositorio.ufba.br/ri/handle/ri/17071\n2- FARIA, Ernesto. Dicionário latino português. Rio de Janeiro: FAE, 1988. http://www.dominiopublico.gov.br/download/texto/me001612.pdf\n3- FUNARI, Pedro Paulo. Grécia e Roma. 2ª ed. São Paulo: Contexto, 2002. https://geopraxis.files.wordpress.com/2016/03/livro-grc3a9cia-e-roma.pdf\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEC161"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEG111",
+      "Nome": "Inglês II",
+      "Créditos": "6.0",
+      "Teórica": "90",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Revisao gramatical II: sintagma verbal II. Pratica oral, de escrita e leitura II.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEG101"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEV111",
+      "Nome": "Portugues II",
+      "Créditos": "6.0",
+      "Teórica": "90",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Morfo-sintaxe sincronica. O vocabulo: sua classe, estrutura e funcao. As categorias gramaticais. Analise de textos em portugues contemporaneo.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEV101"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEC115",
+      "Nome": "Intr Literatura Grega Antiga",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Gêneros poéticos da Grécia antiga. Panorama da literatura grega antiga. Poemas homéricos. Poesia lírica. Poesia dramática. A Poética de Aristóteles.\n___ BIBLIOGRAFIA BÁSICA ___\n1- HOMERO. Ilíada. Trad. de Carlos Alberto Nunes. Várias edições.\n2- HOMERO Odisseia. Trad. de Carlos Alberto Nunes. Várias edições.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEF151",
+      "Nome": "Linguistica II",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Fonetica e fonologia. Aparelho fonador. Tipos articulatorios. Sistema de transcricao fonetica. Vogais e consoantes. Fonema e alofone. Transcricao e analise fonemicas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEF141"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEL111",
+      "Nome": "Teoria Literaria II",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Problematizacao dos generos literarios. Visao diacronica de teoria dos generos. Conceitos basicos de teoria dos generos. A diversificacao na obra literaria. Estruturacao e desestruturacao dos generos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEL101"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "3º Período": [
+     {
+      "Codigo": "LEF241",
+      "Nome": "Linguistica III",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Morfologia e sintaxe. Gramatica e lexico. Unidades, categorias e funcoes gramaticais. Estrutura sintatica. Problemas de analise gramatical do portugues.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEF151"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEG245",
+      "Nome": "Fund Cult Literaria Inglesa",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Celtas e romanos na gra-bretanha. As invasoes germanicas e normanda e suas consequencias. Nocoes da literatura anglo-saxonica. Seculo XIV: a \"merry england\". chaucer; canterbury tales.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEG111"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEL261",
+      "Nome": "Literatura Comparada I",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo diacronico e comparativo da literatura ocidental atraves de autores representativos. Caracteristicas do contexto socio-politico historico e artistico. Estilos de epoca e de autor. Periodo: da idade media ao barroco inclusive.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEV201",
+      "Nome": "Portugues III",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Fonetica e fonologia sincronica. Conceitos basicos. Analise fonetica do portugues culto do rio de janeiro.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEV111"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEC261",
+      "Nome": "Líng Lit Latina-poesia Lírica",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Verbo: formação dos tempos do infectum e do perfectum do modo indicativo e subjuntivo; formas nominais do verbo e sua sobrevivência nas línguas românticas. orações de infinitivo com acusativo (Orações subordinadas substantivas). Introdução ao ablativo absoluto (Orações subordinadas adverbiais). Gerundivo (Orações adverbiais finais). Pronomes pessoais. Textos selecionados, originais e adaptados de autores latinos. A poesia Alexandrina e os Poetas novos (Neotéricos).\n___Bibliografia Recomendada___\n1- AMARANTE, José. Latinitas. Leitura de texto em língua latina. 2º vol. Salvador: EDUFBA, 2015. https://repositorio.ufba.br/ri/handle/ri/17071\n2- MARTINS, Paulo. Litratura Latina. Curitiba: IESDE, 2009. https://www.passeidireto.com/arquivo/22786477/literatura-latina-paulo-martins\n3- SARAIVA, Francisco Rodrigues dos Santos. Novíssimo diccionario latino-portuguez. 7ª edição. Rio de Janeiro: Garnier, 1910. https://archive.org/stream/F.rDosSantosSaraivaNoviss.Dic.LatinoPortuguez/NovissimoDiccionarioLatino-Portuguez#page/n0/mode/2up\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEC165"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEG201",
+      "Nome": "Inglês III",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "1. GRAMATICA: SINTAGMA NOMINAL. 2. PRATICA ORAL III. 3. COMPOSICAO I.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEG111"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEL201",
+      "Nome": "Teoria Literaria III",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Aprofundamento do conceito de critica literaria. Poeticas e teorias criticas: tracos principais do pensamento classico, romantico e pos-romantico. A estilistica, o new-criticism e o formalismo russo.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEL111"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEL281",
+      "Nome": "Fund Cult Lit Brasileira I",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Questionamento da confluencia discurso literario/sociedade. A controversia do conceito de cultura em face da problematizacao do projeto literario brasileiro.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "4º Período": [
+     {
+      "Codigo": "LEF251",
+      "Nome": "Linguistica IV",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Linguistica aplicada ao ensino de linguas. Variacoes linguisticas. Conceito de lingua padrao. O ensino do portugues como lingua materna. O ensino de linguas estrangeiras.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEF241"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEG221",
+      "Nome": "Literatura Inglesa I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "1. PANORAMA LITERARIO DA INGLATERRA RENASCENTISTA. A LIRICA: SONETOS E CANCOES. NOCOES DE VERSIFICACAO. 2. BREVE EXPOSICAO SOBRE A EVOLUCAO DO TEATRO NA INGLATERRA ATE A EPOCA ELISABETANA, INCLUSIVE. SHAKESPEARE: OBRA DRAMATICA.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEG201",
+       "LEG245"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEL265",
+      "Nome": "Literatura Comparada II",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Leitura de autores representativos para o estudo diacrônico e comparativo da literatura ocidental.  Características do contexto sócio-político, histórico e artístico.  Período: do século XVIII até a atualidade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEL261"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEC265",
+      "Nome": "Líng Lit Latina - Narrativa",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O verbo: subjuntivo e imperativo. Particípios. Orações reduzidas de infinitivo. A interrogação direta e a indireta. O período subordinado. Trechos selecionados de autores latinos. Elementos estruturadores do gênero narrativo.\n___Bibliografia Recomendada___\n1- MARTINS, José. Latinitas. Leitura de texto em língua latina. 2º vol. Salvador: EDUFBA, 2015. https://repositorio.ufba.br/ri/handle/ri/17071\n2- MARTINS, paulo. Literatura Latina. Curitiba: IESDE, 2009. https://www.passeidireto.com/arquivo/22786477/literatura-latina-paulo-martins\n3- SARAIVA, Francisco Rodrigues dos Santos. Novissimo diccionario latino-portuguez. 7ª edição. Rio de Janeiro: Garnier, 1910. https://archive.org/stream/F.rDosSantosSaraivaNoviss.DicLatinoPortuguez/NovissimoDiccionarioLatino-Portuguez#page/n0/mode/2up\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEC261"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEG211",
+      "Nome": "Ingles IV",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Gramatica: sintagma preposicional: sintagma adverbial.Pratica oral iv. Composicao ii.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEG201"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEL211",
+      "Nome": "Teoria Literaria IV",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Poeticas e teorias criticas da contemporaneidade: hermeneutica, estruturalismo, a analise sociologica, a critica semiologica, as esteticas da recepcao e do efeito, a abordagem de base psicanalitica.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEL201"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEV211",
+      "Nome": "Portugues IV",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Historia externa e interna. Origem e formacao da lingua. Fonologia, morfologia e sintaxe historicas. O lexico. Comentario filologico.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEV201"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "5º Período": [
+     {
+      "Codigo": "LEG321",
+      "Nome": "Literatura Inglesa II",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O romantismo na inglaterra: antecedentes, culturais, influencias policas e filosoficas. Panorama literario geral. Poetas maiores (wordsworth, coleridge, shelley, keats e byron).\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEG211",
+       "LEG221"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEV305",
+      "Nome": "Portugues V (Ling)",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A frase e sua estruturacao; sujeito e predicado: regencia, concordancia e colocacao; coordenacao e subordinacao.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEV211"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEV370",
+      "Nome": "Literatura Brasileira I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O processo literario brasileiro. A poesia das origens a atualidade. Estudo das principais tendencias estetico culturais da literatura brasileira das origens a atualidade, atraves da analise de autores e obras representativas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEG301",
+      "Nome": "Fonologia da Língua Inglesa",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo descritivo da fonética e da fonologia segmental do inglês. O sistema ortográfico da língua inglesa: relação entre som e grafema. As vogais e as consoantes. Estrutura\nsilábica. Processos fonológicos obrigatórios e opcionais. Variedades da língua inglesa.\n",
+       "BibliografiaBasica": "JONES, Daniel. English Pronouncing Dictionary. ROACH, P. e HARTMAN, J., eds. Cambridge: Cambridge UP, 1997.\nCIPOLLONE, Nick et al, ed. Language Files: Materials for an Introduction to Language, 1998.\nCRYSTAL, David. The Cambridge Encyclopedia of the English Language. Cambridge: Cambridge UP, 1995.\nPRATOR, Jr., C. e ROBINETT, B. W. Manual of American English Pronunciation. 4a. ed. New York: Harcourt Brace, 1985.\nTRUDGILL, Peter. International English: A Guide to Varieties of Standard English, 1983.\n-----. Sociolinguistics: An Introduction.Harmondsworth : Penguin Books, 1975\n----- e, J. K. Dialectology Cambridge : Cambridge University Press, 1998.\nWELLS, J. C. The Longman Pronunciation Dictionary. London: Longman, 1993\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEG113"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEG341",
+      "Nome": "Literatura Norte-Americana I",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Raizes da literatura americana (puritanismo e iluminismo). grandes autores romanticos na ficcao e na poesia: irving, poe, hawthorne, melville - poemas, contos e romances.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEG211"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEV351",
+      "Nome": "Literatura Portuguesa I - A",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Linhas mestras da poesia portuguesa: estudo de seus temas fundamentais atraves da leitura sincronica e diacronica de textos do seculo XII aos nossos dias.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "6º Período": [
+     {
+      "Codigo": "LEG331",
+      "Nome": "Literatura Inglesa III",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A literatura inglesa de ficcao entre fins do sec.XVIII e inicio do sec.Xx. O romance pre-vitoriano: jane austen. O romance vitoriano: charles dickens, emily bronte e thomas hardy. O romance pos-vitoriano: d.H. Lawrence.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEG301",
+       "LEG321"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEV320",
+      "Nome": "Portugues VI (Ling)",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A sintaxe portuguesa. Padroes oracionais. A estruturacao do periodo. Leitura comentada de textos teoricos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEV305"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEV470",
+      "Nome": "Literatura Brasileira II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O processo literario brasileiro. A prosa das origens a atualidade. Estudo das principais tendencias estetico-culturais da literatura brasileira das origens a atualidade, atraves da analise de autores e obras representativas da ficcao regional.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEV370"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEG311",
+      "Nome": "Gramática da Língua Inglesa",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Análise contrastiva de estruturas linguísticas do inglês e do português para o ensino e tradução. Sintaxe da língua inglesa. Sintagma nominal e sintagma verbal. Período\nsimples e período composto. Coordenação e subordinação.\n",
+       "BibliografiaBasica": "BIBER, Douglas; CONRAD, Susan; LEECH, Geoffrey. LongmanStudent Grammar ofSpokenandWrittenEnglish. London: Longman, 2002.\nCELCE-MURCIA, Marianne & LARSEN-FREEMAN, Diane. The Grammar Book: an ESL/EFL teacher?scourse. Boston: Heinle&Heinle, 1999.\nSINCLAIR, John. Collins CobuildEnglish Grammar. 3 ed. London: Harper Collins, 1992.\n",
+       "BibliografiaComplementar": "CONNOR, Ulla& MORENO, Ana. TertiumComparationis: A vital component in contrastiveresearchmethodology. In P. Bruthiaux, D. Atkinson, W. G. Eggington, W. Grabe, & V.\nRamanathan (eds), Directions in AppliedLinguistics: Essays in Honor of Robert B. Kaplan. Clevedon, England: MultilingualMatters, pp. 153-164, 2005.\nKONIG, Ekkehard. Contrastivelinguisticsandlanguagecomparison. Languages in Contrast, v. 12, n. 1, 2012, p. 3-26.\nLEECH, Geoffrey & SVARTVIK, Jan. A Communicative Grammar ofEnglish. New York: Longman, 1994.\nQUIRK, Randolph & GREENBAUM, Sidney. A University Grammar ofEnglish. London: Longman, 1996.\nRAMON GARCIA, Noelia. Contrastivelinguisticsandtranslationstudiesinterconnected: The corpus-based approach. LinguisticaAntverpiensia, v. 1, 2002, p. 393?406.\nROSCOE-BESSA, Cristiane; PESSOA, Márcia; DIAS, Izabel. Algumas diferenças comunicativas entre o português e o inglês. Cadernos de Tradução, v. 36, n. 2, 2016, p. 91-104.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEG113"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEG345",
+      "Nome": "Literatura Norte-Americana II",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O sec. XIX na literatura americana. Transcendentalismo: facetas do movimento representadas por emerson e thoreau. Duas manifestacoes poeticas: walt whitman, emily dickinson. Humorismo: mark twain. Romance psicologico precursor: henry james.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEG301",
+       "LEG341"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEV451",
+      "Nome": "Literatura Portuguesa II - A",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo da narrativa do seculo XIX em interlocucao com textos de outras epocas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEV351"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "7º Período": [
+     {
+      "Codigo": "LEG421",
+      "Nome": "Literatura Inglesa IV",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O romance psicologico do seculo xx. Virginia woolf: mrs. Dalloway o to the lighthouse. James joyce: bubliners e a portrait of the artist as a young man.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEG311",
+       "LEG331"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEV405",
+      "Nome": "Portugues VII (Ling)",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Lexicologia e semantica. Introducao. Leitura comentada de textos teoricos selecionados.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEV320"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEG401",
+      "Nome": "Líng Ingl e Proc de Globalizaç",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "As intersecções entre linguagem, poder e ideologia em diferentes contextos., com atenção à intensa mobilidade de discursos, textos e signos em tempos de globalização, especialmente em língua inglesa. Panorama de pesquisas contemporâneas examinando questões de intersubjetividades, poder e lutas ideológicas sob uma perspectiva crítica.\nQuestões de linguagem, poder e ideologia no âmbito de práticas educacionais.\n",
+       "BibliografiaBasica": "Foucault, M. 1982. The subject & power. In H Dreyfus & P. Rabinow. Michel Foucault: Beyond Structuralism &Hermaneutics. New York: Harvester Wheatsheaf, pp. 208-226.\nGal, Susan. Irvine, Judith. 1995. The boundaries of languages and disciplines: how ideologies construct differences. Social Research 62(4):967-1001.\nPratt, Marie Louise. 1987. Linguistic utopias. In N. Fabb, D. Attridge, A. Durant & C. MacCabe (eds.) The linguistics of writing. Manchester: Manchester University Press, pp.\n48-66.\nRampton, Ben. 2009. Speech Community and Beyond. In N. Coupland &Jaworsky, A. The new sociolinguistics reader. New York: Palgrave Macmillan, pp. 694-713.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEG113"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEG441",
+      "Nome": "Literatura Norte-Americana III",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O seculo XX: poesia, ficcao e drama. Poesia: sandburg, robinson, cummings, auden, stevens, pound. Ficcao: a \"lost generation\": fitzgerald e hemingway. Faulkner. Autores do pos-guerra. Visao panoramica do teatro.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEG311",
+       "LEG345"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "8º Período": [
+     {
+      "Codigo": "LEG431",
+      "Nome": "Literatura Inglesa V",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Teatro moderno: do teatro de ideias ao do absurdo, com enfase em b. Shaw, harold pinter e samuel beckett. Poesia do fin-de-siecle, do pre e pos-guerra (sec.XX): apreciacao de tendencias varias: enfase em t.S. Eliot e g.M. Hopkins.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEG311",
+       "LEG331"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEG411",
+      "Nome": "Ingles VIII",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Analise de erros aos niveis fonologico e morfologico, sintatico e lexical.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEG311"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "Disciplinas Optativas (Escolha Condicionada)": [
+     {
+      "Codigo": "EDW112",
+      "Nome": "Alfabetizacao II",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Psicopedagogia da alfabetizacao. Fundamentos sociologicos e biologicos da alfabetizacao. Observacoes pedagogicas da pratica docente em classes de alfabetizacao.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EFC125",
+      "Nome": "Educação Física Desportiva II",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conhecimento da modalidade desportiva escolhida de modo a ser possivel usa-la futuramente para sua recreacao desportiva.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "EFC115"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF654",
+      "Nome": "Hist da Filos no Brasil I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A filosofia brasileira como problema: origens e perspectivas. Causas imanentes à cultura nacional: o fator indígena e o fator africano.\n",
+       "BibliografiaBasica": "1) BERNARDES, Célia R. O. Racismo de Estado. Ed. Jurúa, 2013;\n2) BRITO, Raimundo de Farias. O mundo interior. Org. e estudo introdutório de L. A. Cerqueira. Lisboa: INCM, 2003;\n3) CERQUEIRA, Luiz Alberto. Natureza e cultura: a idéia de origem da filosofia brasileira. Lisboa: Universidade Nova de Lisboa, 1997;\n4) GUIMARÃES, Aquiles Côrtes. O tema da consciência na filosofia brasileira. São Paulo: Convívio, 1982;\n5) REALE, Miguel. Estudos de filosofia brasileira. Lisboa: Instituto de filosofia luso-brasileira, 1994;\n6) CERQUEIRA, Luiz Alberto. Filosofia brasileira ? Ontogênese da consciência de si. Petrópolis: Vozes, 2002;\n7) CERQUEIRA, Luiz Alberto (org.). Aristotelismo Antiaristotelismo Ensino de Filosofia. Rio de Janeiro: Ágora da Ilha, 1999;\n8) DESCARTES, René. Meditações Metafísicas. São Paulo: Martins Fontes, 2005;\n9) MAGALHÃES, D. J. Gonçalves de. Fatos do espírito humano. Org. e estudo introdutório de L. A. Cerqueira. Petrópolis: Vozes, 2004;\n10) VIVEIROS DE CASTRO, E. A inconstância da alma selvagem. São Paulo: Cosac & Naif, 2002.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF657",
+      "Nome": "Filosofia da Linguagem I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo introdutório de um ou mais temas e/ou conceitos fundamentais relativos ao problema filosófico da linguagem.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEF310",
+      "Nome": "Linguistica Aplic Ling Ing Opt",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Compreensao e fluencia quanto ao uso da lingua inglesa (variedade americana). exercicios especificos destinados ao aperfeicoamento do desempenho oral por parte de nativos de lingua portuguesa.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEF342",
+      "Nome": "Linguistica B (Opt)",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Trabalho de campo nas áreas da fonologia, morfologia, sintaxe, lingüística aplicada, sociolingüistica e psicolingüistica.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEF151"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEF344",
+      "Nome": "Linguistica D",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A estrutura da sentença: funções, classes e sintagmas. Teoria X-Barra e representações sintáticas. Operações sintáticas: juntar e mover. Aplicações ao estudo da sintaxe do português: rediscussão das noções tradicionais de sujeito, complemento, adjunto, regência e concordância.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEF346",
+      "Nome": "Linguistica F",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Sintaxe de algumas construções do potuguês descritas pela gramática gerativa. Alguns tipos de orações subordinadas. Pronominalização.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEF348",
+      "Nome": "Linguistica Aplicada J",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceitos básicos: usos e atitudes. Variação: dialetos/registros. Línguas em contato. Língua padrão e correção lingüística. Lingüística aplicada ao ensino do português: como 1a. Língua e como língua 2. O ensino da alfabetização. Tarefas da lingüistica no Brasil.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEF350",
+      "Nome": "Psicolinguistica I (Opt)",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Principais caracteristicas do processo de aquisição da linguagem nas primeiras fases. Aquisição de estruturas complexas pela criança na faixa de 0 a 06 anos de idade. Pesquisas de campo. Aplicações das pesquisas a alfabetização.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEF251"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEF353",
+      "Nome": "Psicolinguistica II (Opt)",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O desenvolvimento intelectual/lingüístico infantil, na faixa etária de 05 a 10 anos. Análise desenvolvimental de algumas estruturas complexas: compreensão e produção de relativas, passivas e interrogativas. Gradação de complexidade lingüística dessas estruturas tendo em vista suas etapas de aquisição. Contribuição a lingüística aplicada ao ensino do português no primeiro grau. Trabalho de campo para aplicação de testes e seminários para apresentação de resultados.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEF350"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEF425",
+      "Nome": "Filologia Geral A (opt)",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Métodos e técnicas da filosofia. Objetos lingüísticos e objetivos fisiológicos. Fiologia e interdisciplinaridade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEF450",
+      "Nome": "Sem Est Ling e Filologia I",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Abordagem dos conteúdos desenvolvidos em uma ou mais disciplinas de lingüistica e filologia.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEF456",
+      "Nome": "Inic Pesq Ling e Filologia I",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução a atividades de pesquisa relacionadas a projetos desenvolvidos em lingüística ou filologia.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEF459",
+      "Nome": "Metod Pesq Ling Filologia II",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo de vários delineamentos de pesquisa em ciências humanas, com ênfase na análise crítica dos modelos utilizados em lingüistica ou filologia.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEF458"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEG303",
+      "Nome": "Ingles C (Opt)",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo contrastivo dos sistemas lingüísticos do inglês e do português. Análise contrastiva de gêneros discursivos em inglês e em português.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEG302"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEG305",
+      "Nome": "Ingles D (Opt)",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Produção de textos escritos de diferentes gêneros discursivos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEG312",
+      "Nome": "Ingles F (Opt)",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenvolvimento de estratégias de leitura de textos de diferentes gêneros literários.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEG325",
+      "Nome": "Literatura Inglesa A (opt)",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A poesia inglesa: das origens ao seculo xix. Obras representativas das varias tendencias.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEG211",
+       "LEG221"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEG327",
+      "Nome": "Literatura Inglesa C (Opt)",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A poesia do seculo xx. Principais tendencias inovadoras e seus representantes nos varios generos poeticos. Elementos novos e antigas raizes (aulas, leituras e avaliacao em ingles).\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEG329",
+      "Nome": "Literatura Inglesa E (opt)",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Shakespeare: a comedia em suas diversas manifestacoes ou as pecas historicas: a historia inglesa vista por shakespeare.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEG211",
+       "LEG221"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEG346",
+      "Nome": "Lit Norte-Americana E (opt)",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A ficcao americana do seculo xx. Novas direcoes e elementos revolucionarios. (Aulas, leituras e avaliacao em ingles).\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEG402",
+      "Nome": "Ingles G (Opt)",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenvolvimento de estratégias de produção oral de  textos em Inglês de diferentes gêneros discursivos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEG425",
+      "Nome": "Literatura Inglesa G (Opt)",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Novas direcoes no conto ou romance ingles. Autores e obras escolhidos. (Aulas, leituras e avaliacao em ingles)\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEG610",
+      "Nome": "Metod Pesq Letr Anglo-Germ I",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Apresentacao e discussao de diferentes tipos de investigacao cientifica na area de letras. Familiarizacao com a elaboracao de um projeto de pesquisa,etapas metodologicas, formulacao de hipoteses, aprofundamento bibliografico, coleta e analise de dados, redacao final. desenvolvimento de pequenos projetos de pesquisa vinculados a projetos mais abrangetes nivel I.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEG612",
+      "Nome": "Inic Pesq Letr Anglo-Germ I",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Apresentacao e discussao do conceito de pesquisa em geral e de diferentes tipos e questoes de pesquisa em letras. Familiarizacao com o ato de pesquisar, incluindo estudo bibliografico e participacao em coleta e analise de dados de pesquisas em andamento. Nivel I.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEG614",
+      "Nome": "Sem Est Letr Anglo-Germ I",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Abordagem pratica e teorica de conteudos desenvolvidos em uma ou mais disciplinas de Alemao ou Ingles e/ou Literaturas de lingua Alemao ou Inglesa.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEL301",
+      "Nome": "Teoria Literaria A (opt)",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Literatura de comunicacao de massa. O fenomeno literario. A questao metodologica e a critica literaria. Literatura e teoria da comunicacao. A literatura hoje.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEL311",
+      "Nome": "Teoria Literaria B (Opt)",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A questao metodologica e a critica literaria. Analise do texto. O fenomeno literario. Intencionalidade e presentificacao. Linguagem e metalinguagem.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEL313",
+      "Nome": "Teoria Literaria D (Opt)",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo da prosa lirica. Evidenciamento do processo de criacao poetica.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEL315",
+      "Nome": "Teoria Literaria F (Opt)",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Critica e historia literaria. A critica atraves dos movimentos literarios.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEL317",
+      "Nome": "Teoria Literaria G (Opt)",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Analise semiotica de textos literarios e pictoricos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEL362",
+      "Nome": "Literatura Comparada B (Opt)",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O romance na literatura ocidental: o romance no brasil e noutros paises, a partir de uma metodologia comparativista.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEL364",
+      "Nome": "Literatura Comparada D (Opt)",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Grotesco, ironia e humor nas diversas literaturas atraves dos tempos: serao examinados os topicos grotesco, ironia e humor nas literaturas de diferentes paises, atraves dos tempos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEL366",
+      "Nome": "Literatura Comparada F (Opt)",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Poesia: analise intertextual e interlinguistica. Analise de textos poeticos a partir de aspectos intertextuais e interlinguisticos presentes na poesia de diversos paises.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEL368",
+      "Nome": "Literatura Comparada H (Opt)",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Simbolo, alegoria e mito na idade media: manifestacoes em diversas culturas e transposicoes para outros periodos, com enfoque comparativo. Estudo do simbolo, alegoria e mito como manifestacao comum as literaturas e culturas da idade media; desdobramento noutros periodos da historia.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEL370",
+      "Nome": "Literatura Comparada K (Opt)",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Autonomia, dependencia e interdependencia: interrelacoes da literatura brasileira com a de outros continentes: a relacao de autonomia, dependencia e interdependencia como fonte de estudo aplicada a comparacao entre diferentes paises ou continentes.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEL386",
+      "Nome": "Fund Cult Lit Bras A (opt)",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Características da literatura infanto-juvenil.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEL388",
+      "Nome": "Fund Cult Lit Bras C (Opt)",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Exercícios críticos e leitura de textos de autres brasileiros. Reflexão sobre as questões fundamentais da formação da literatura brasileira.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEL390",
+      "Nome": "Fund Cult Lit Bras D (Opt)",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A problematica da cultura brasileira no ambito da modernidade e da pos-modernidade:tensoes entre literatura e mercado.As novas formas de legitimacao do literario.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEL402",
+      "Nome": "Teoria Literaria A (opt)",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Dimensoes da critica literaria. Fundamentos das diversas teorias emultiplicidade de convergencias teoricas e diversidades metodologicas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEL404",
+      "Nome": "Teoria Literaria F (Opt)",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Teoria do texto romanesco. Leitura poetica do romance autobiografico.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEL406",
+      "Nome": "Teoria Literaria H (Opt)",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O processo de singularizacao na arte. A critica e a obra literaria. Abordagem do texto atraves de uma perspectiva existencial.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEL408",
+      "Nome": "Teoria Literaria T (Opt)",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O estudo da imagistica, no cinema e na literatura. Recursos de estruturacao de filme e da peca literaria. Laboratorios de cinema e de literatura.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEL410",
+      "Nome": "Teoria Literaria Z (Opt)",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Documentacao e analise da producao litero-musical no periodo de 68/78. Relacoes da carnavalizacao na referida producao. Os efeitos da musica popular na poesia brasileira contemporanea.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEL499",
+      "Nome": "Estudo de Prob Brasileiros II",
+      "Créditos": "1.0",
+      "Teórica": "15",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A cultura e a civilizacao brasileira. Educacao: diagnostico e solucoes. Instituicoes e realidade nacional. Integracao do brasil na civilizacao hispano-americana e no contexto mundial.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEL601",
+      "Nome": "Teoria Literaria B (Opt)",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Procedimentos e saberes diversos para a compreensão de um texto, a partir de coordenadas transdisciplinares.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEL603",
+      "Nome": "Teoria Literaria D (Opt)",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Compreensao critica da modernidade e da pos-modernidade a partir da leitura de textos teoricos e literarios.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEL605",
+      "Nome": "Teoria Literaria F (Opt)",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Discussao dos diferentes niveis de analise e perspectivas de investigacao do discurso narrativo. Textos teoricos representativos dos modelos de abordagem narrativa.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEL607",
+      "Nome": "Teoria Literaria H (Opt)",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A partir de um roteiro de leituras teoricas e criativas serao estudados diferentes niveis de abordagem do texto poetico.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEL609",
+      "Nome": "Teoria Literaria K (Opt)",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "As diversas relacoes entre literatura e historia, realismo e vanguarda, literatura e politica, forma literaria e processo social, texto e contexto, formacao de publicos, memorialismo etc.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEL611",
+      "Nome": "Teoria Literaria M (Opt)",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A compreensão da narratividade e do literário, a partir de diferentes obras e diferentes culturas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEL613",
+      "Nome": "Teoria Literaria O (Opt)",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Leitura de textos filosoficos. A filosofia como lugar de interrogacao da experiencia artistica.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEL615",
+      "Nome": "Teoria Literaria Q (Opt)",
+      "Créditos": "4.0",
+      "Teórica": "30",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Praticas da encenacao teatral a partir da adaptacao de obras literarias.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEL617",
+      "Nome": "Teoria Literaria S (Opt)",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Leitura das grandes obras a luz de coordenadas interdisciplinares; as formas simples e a criacao literaria para jovens: das estruturas de repeticao lineares as complexas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEL619",
+      "Nome": "Teoria Literaria U (Opt)",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Informacao e ficcao no discurso da comunicacao da massa.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEL621",
+      "Nome": "Sem Est Lit Ciencia da Lit II",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Abordagem prática e teórica de conteúdos desenvolvidos em uma ou mais disciplinas obrigatórias de Ciência da Literatura I - Nível II.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEL620"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEL623",
+      "Nome": "Inic Pesq Ciencia da Lit II",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Apresentação e discussão do conceito de pesquisa em geral e de diferentes tipos de questões de pesquisa em Letras. Familiarização com o ato de pesquisar, incluindo estudo bibliográfico e participação em coleta e análise de dados de pesquisa em andamento. Nível II.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEL622"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEL625",
+      "Nome": "Metod Pesq Ciencia da Lit II",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Apresentação e discussão de diferentes tipos de investigação científica na área de Letras. familiarização com a elaboraço de um projeto de pesquisa incluindo todas as etapas metodológicas, desde a formulação de hipóteses e perguntas de pesquisa, passando, pelo aprofundamento bibliográfico, coleta e análise de dados, até a redação final do trabalho. Desenvolvimento de pequenos projetos. Nível II.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEL624"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEL627",
+      "Nome": "Poetica Filos Ciencia Modernid",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A filosofia no renascimento e na modernidade. As origens do iluminismo. O idealismo e o romantismo. A poetica cientifica da modernidade: forma, funcao e estrutura. O romance de formacao e a poetica. A ciencia da literatura. Exegese e hermeneutica. Poetica e utopia social. O jogo da poiesis.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEV258",
+      "Nome": "Fund Cult Lit Pen Iber (Opt)",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Temas e problemas dos fundamentos da cultura literaria da peninsula iberica. Estudos monograficos sobre autores, obras ou aspectos significativos do contexto iberico.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEV302",
+      "Nome": "Portugues Q (Opt)",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A lingua nacional e seu ensino. Correcao da linguagem.Problemas praticos de descricao da lingua em funcao do ensino.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEV307",
+      "Nome": "Portugues R (Opt)",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Alguns aspectos da morfofonologia dos nomes e dos verbos do Português. Estudos de fenômenos diversos, como acentuação, centralização, nasalização, ditongação e alternância morfofonêmica.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEV326",
+      "Nome": "Portugues B (Opt)",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O ensino de redação: seleção e organização de idéias. Organização do período e do parágrafo. Caracterização dos diversos tipos de redação. A leitura de textos dissertativos: identificação das idéias principais, estrutura dos parágrafos. Elaboração de resumos. O tópicos frasal. Texto e interação. Tipologia textual.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEV328",
+      "Nome": "Portugues U (Opt)",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O ensino do portugues como lingua materna. O ensino produtivo do portugues a estudantes alfabetizados. O ensino prescritivo de boa qualidade. Critica de alguns aspectos da descricao tradicional do idioma.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEV330",
+      "Nome": "Portugues F (Opt)",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Fatos semânticos no dominio da língua portuguesa. Fenômenos de desaparecimento ou desuso de termos ou expressões. Estudo de textos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEV332",
+      "Nome": "Portugues H (Opt)",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Sintaxe das preposicoes. Aspectos mais importantes. Repercurssoes na area sintatica e estilistica. Comentario e interpretacao de textos classicos e contemporaneos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEV334",
+      "Nome": "Portugues J (Opt)",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Categorias prototípicas. Domínios e esquemas. Extensões metafóricas e metonímicas. Construções gramaticais.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEV336",
+      "Nome": "Portugues L (Opt)",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Sociolingüística: variação e mudança. Teorias da mudança. Gramaticalização.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEV338",
+      "Nome": "Portugues N (Opt)",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Versificacao portuguesa. Ritmo e verso. A contagem das silabas para leitura ritmica. A cesura. Cavalgamento (enjambement). tipos de verso. A rima. A estrofacao. Poesia e prosa.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEV340",
+      "Nome": "Portugues P (Opt)",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Aquisição de L1. Alfabetização e letramento.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEV346",
+      "Nome": "Literatura Portuguesa B",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudos criticos da Poesia Portuguesa. Abordagem monográfica de autores, obras ou aspectos significativos da Poesia Portuguesa. Análise de relações inter e intratextuais de obras poéticas selecionadas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEV349",
+      "Nome": "Literatura Portuguesa E.",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudos críticos da Literatura Portuguesa Medieval. Abordagem monográfica de autores, obras ou aspectos significativos da Literatura Portuguesa Medieval. Análise de relações inter e intra textuais de obras selecionadas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEV355",
+      "Nome": "Literatura Portuguesa Q (Opt)",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O fantastico na literatura portuguesa. A ambiguidade do fantastico puro e as solucoes do estranho e do maravilhoso. As raizes do fantastico na idade media.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEV357",
+      "Nome": "Literatura Portuguesa G",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudos críticos da Literatura Portuguesa Seiscentista. Abordagem monográfica de autores, obras ou aspectos significativos da Literatura Portuguesa Seiscentista. Análise de relações inter e intratextuais de obras selecionadas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEV360",
+      "Nome": "Literatura Portuguesa P (Opt)",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Eca de queiroz e cesario verde. A questao do realismo - naturalismo na literatura portuguesa. Analise dos contos de o crime do padre amaro e a cidade e as serras de eca de queiroz e de o livro de cesario verde.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEV363",
+      "Nome": "Literatura Portuguesa J",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudos críticos da Literatura Portuguesa do Século XX. Abordagem monográfica de autores, obras ou aspectos significativos da Literatura Portuguesa do Século XX. Análise de relações inter e intratextuais de obras selecionadas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEV366",
+      "Nome": "Literatura Portuguesa M (Opt)",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Fernao lopes: a dimensao estetica na historiografia medieval. Leitura das cronicas: a narracao do acontecimento; o lugar da descricao, os varios procedimentos narrativos do autor.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEV368",
+      "Nome": "Literatura Portuguesa A (Opt)",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudos críticos da Lituratura Portuguesa. Abordagem monográfica de autores, obras ou aspectos significativos da Literatura Portuguesa. Análise de relações inter e intratextuais nos textos selecionadas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEV375",
+      "Nome": "Literatura Brasileira A (Opt)",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Barroco e arcadismo. Fundamentos esteticos e socio-culturais. Temas e formas de expressao. Literatura e artes plasticas: convergencias e divergencias. O significado no processo literario brasileiro.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEV377",
+      "Nome": "Literatura Brasileira E (Opt)",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A ficcao romantica. Fundamentos esteticos e socio-culturais. A busca da identidade nacional na tematica e na expressao. Formas narrativas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEV380",
+      "Nome": "Literatura Brasileira F (Opt)",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A relação com as vanguadas européias. Fundamentos estéticos e socioculturais. Projeto teórico e prática poética. A pesquisa da identidade nacional. Temas e formas de expressão. O significado no processo literário brasileiro.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEV383",
+      "Nome": "Literatura Brasileira H (Opt)",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Fundamentos estéticos e socioculturais. Temas e formas de expressão. A renovação e a tradição realista.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEV386",
+      "Nome": "Literatura Brasileira I (Opt)",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Fundamentos estéticos e socioculturais. Temas e formas de expressão. A caracterização dos diferentes projetos poéticos pós-45.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEV389",
+      "Nome": "Literatura Brasileira M (Opt)",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Formação e evolução da literatura dramática no Brasil. Etapas decisivas. Fundamnetos socioculturais. Tendências temáticas e formas de expressão.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEV392",
+      "Nome": "Literatura Brasileira R (Opt)",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O regionalismo na literatura brasileira. O papel das culturas regionais no processo literario. Problemas e tendencias da criacao regionalista.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEV394",
+      "Nome": "Literatura Brasileira S (Opt)",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Fundamentos estéticos e socioculturais. Elementos de convergência e divergência, de tradição e renovação. Projeto teórico e prática poética.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEV396",
+      "Nome": "Literatura Brasileira K (Opt)",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Fundamentos estéticos e socioculturais. Linhas temáticas e formas de expressão.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEV399",
+      "Nome": "Literatura Brasileira O (Opt)",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Literatura infanto-juvenil. Problemas especificos. Tendencias ideologicas e estetico_estiliisticas. Significado no contexto da literatura brasileira.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEV404",
+      "Nome": "Portugues C (Opt)",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Tecnica de interpretacao de textos. A escolha dos textos. Analise morfologica, semantica e estilistica.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEV409",
+      "Nome": "Portugues E (Opt)",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Aspectos estalísticos do português do Brasil. Análise e comentário de textos em relação aos diversos níveis de formalidade. Registro e variedade social: limites e contatos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEV413",
+      "Nome": "Portugues M (Opt)",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Fatos semânticos no domínio da língua portuguesa. Fenômenos de desaparecimento ou desuso de termos ou expressões. Estudo de textos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEV442",
+      "Nome": "Literatura Portuguesa S (Opt)",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O romance neo-realista. A constituicao do discurso neo-realista. A figuracao realista na forma romanesca. A funcao interior da descricao. Leitura de textos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEV445",
+      "Nome": "Literatura Portuguesa C",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudos críticos da Narrativa Portuguesa. Abordagem monográfica de autores, obras ou aspectos significativos da Narrativa Portuguesa. Análise de relações inter e intratextuais de obras narrativas selecionadas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEV458",
+      "Nome": "Literatura Portuguesa U.",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Aspectos da Poesia Portuguesa. Estudos monográficos sobre autores, obras ou aspectos significativos da Poesia Portuguesa. Análise de relações inter e intratextuais de obras poéticas selecionadas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEV460",
+      "Nome": "Literatura Portuguesa S.",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Aspectos do teatro português. Estudos monográficos sobre autores, obras ou aspectos significativos do teatro português. Análise de relações inter e intratextuais de obras dramáticas selecionadas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEV462",
+      "Nome": "Literatura Portuguesa U (Opt)",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Camilo castelo branco; romantismo e modernidade. A ruptura do codigo romantico. Estabelecimento da estruturacao e sentido do romance camiliano.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEV464",
+      "Nome": "Literatura Portuguesa Q",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Aspectos da Literatura Portuguesa Medieval. Estudos monográficos sobre autores, obras ou aspectos signficativos da Literatura Portuguesa da Idade Média. Análise de relações inter e intratextuais de obras selecionadas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEV466",
+      "Nome": "Literatura Portuguesa O.",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Aspectos da Literatura Portuguesa do Século XVII. Estudos monográficos sobre autores, obras ou aspectos significativos da Literatura Portuguesa do Século XVII. Análise de relações inter e intratextuais de obras selecionadas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEV468",
+      "Nome": "Literatura Portuguesa M",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Aspectos da Literatura Portuguesa do Século XIX. Estudos monográficos sobre autores, obras ou aspectos significativos da Literatura Portuguesa do Século XIX. Análise de relações inter e intratextuais de obras selecionadas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEV473",
+      "Nome": "Literatura Brasileira D (Opt)",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A ficcao no periodo realista. A crise do idealismo romantico e as novas tendencias esteticas e ideologicas. Fundamentos socio-culturais. Temas e formas narrativas\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEV477",
+      "Nome": "Literatura Brasileira Q (Opt)",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Literatura e cultura de massa. Influencias reciprocas. Os meios de comunicacao de massa e as novas formas de criacao literaria. Problemas especificos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEV482",
+      "Nome": "Literatura Brasileira X (Opt)",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Temas e problemas da poesia brasileira. Configuracao de componentes decisivos e problemas especificos do processo poetico brasileiro.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEV497",
+      "Nome": "Literatura Brasileira Z (Opt)",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A criacao literaria. Elaboracao de textos literarios pelos alunos. Discussao e analise dos processos expressionais.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEV601",
+      "Nome": "Lit Africanas de Ling Port B",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "As narrativas africanas em língua portuguesa produzidas em Angola, Moçambique, Cabo Verde, Guiné-Bissau, São Tomé e Príncipe no período anterior à Independência. As relações entre Ficção e História. O assimilacionismo, o engajamento, a luta e a libertação. Da colonização à descolonização lingüística, literária e política. Prática de análise textual de contos e romances.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEV603",
+      "Nome": "Lit Africanas de Ling Port D",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A prosa de ficção da pós-independência em Angola, Cabo Verde, Moçambique, Guiné-Bissau, São Tomé e Príncipe. Contos e romances produzidos de 1975 até os dias atuais. A presença do mítico, do animismo africano, da ironia, da paródia, da metalinguagem, da polifonia. A recriação da oratura: processos tradicionais e inovadores de narrar. Prática de análise textual de contos e romances.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEV611",
+      "Nome": "Port Estrang: Comprens Escrita",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenvolvimento da compreensao escrita atraves de textos autenticos, levando o aluno a aprofundar o seu conhecimento do lexico da ligua e a identificar jargoes e termos tecnicos de diversas areas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEV613",
+      "Nome": "Portugues para Estrangeiros B",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das especificidades do ensino de portugues como segunda lingua e analise da concepcao de lingua e de ensino feita a partir de um estudo comparado entre os materiais existentes no mercado.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEV211(C)LEV211=LEV210"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NEP110",
+      "Nome": "Fund Direitos Humanos",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Necessidade e possibilidade de uma fundamentação filosófica dos direitos humanos, para a determinação do conteúdo e construção de argumentos racionais na sua implementação. Identificação dos principais desafios para afirmação e a realização dos direitos humanos e apresentação de algumas propostas contemporâneas de Fundamentação Filosófica dos Direitos Humanos.\n",
+       "BibliografiaBasica": "1) BARBALET, J. M. A Cidadania. Lisboa: Editorial Estampa, 1989.\n2) BAUMAN, Zygmunt. Comunidade: a busca da segurança no mundo atual. Rio de Janeiro: Jorge Zahar, 2003.\n3) BECKER, Howard S. Métodos de pesquisa em ciências sociais. São Paulo: Hucitec, 1999.\n",
+       "BibliografiaComplementar": "1) BELLONI I, Magalhães h. / Souza L; Metodologia de avaliação em políticas públicas. São Paulo (Cortez) 2003.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NEP130",
+      "Nome": "Tóp Esp Polít Públ Dir Hum I",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Discussão de temas específicos em políticas públicas e direitos humanos com base no processo histórico e nas críticas contemporâneas, proporcionando ao aluno uma visão sobre o alcance e limites da sua proteção e promoção.\n___BIBLIOGRAFIA BÁSICA___\n1) BECKER, Howard S. Métodos de pesquisa em ciências sociais. São Paulo: Hucitec, 1999.\n2) BELLONI I.; Magalhães H.; Souza L; Metodologia de avaliação em políticas públicas. São Paulo (Cortez) 2003.\n3) BOBBIO, Norberto. A era dos direitos. Rio de Janeiro: Campus, 1992.\n4) BOURGUIGNON, Jussara Ayres; OLIVEIRA Jr., Constantino Ribeiro de (Orgs.).  Pesquisa em ciências sociais: interfaces, debates e metodologias. Ponta Grossa (PR): Todapalavra, 2012.\n5) BRASIL, Programa Nacional de Direitos Humanos , PNDH II, Fernando Henrique Cardoso,  Brasília, Presidência da República, Secretaria da Comunicação Social, Ministério da Justiça, 2002.\n6) BUCCI, Maria Paula Dalari Et. al. (Orgs.). Direitos Humanos e políticas públicas. São Paulo: Pólis, 2001.\n7) FAORO, Raymundo. Os donos do poder. Rio de Janeiro, Editora Globo, 1958.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NEP141",
+      "Nome": "Tóp Esp Polít Públ Dir Hum III",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Discussão de temas específicos em políticas públicas e direitos humanos com base no processo histórico e nas críticas contemporâneas, proporcionando ao aluno uma visão sobre o alcance e limites da sua proteção e promoção.\n___BIBLIOGRAFIA BÁSICA___\n1) BECKER, Howard S. Métodos de pesquisa em ciências sociais. São Paulo: Hucitec, 1999.\n2) BELLONI I.; Magalhães H.; Souza L; Metodologia de avaliação em políticas públicas. São Paulo (Cortez) 2003.\n3) BOBBIO, Norberto. A era dos direitos. Rio de Janeiro: Campus, 1992.\n4) BOURGUIGNON, Jussara Ayres; OLIVEIRA Jr., Constantino Ribeiro de (Orgs.).  Pesquisa em ciências sociais: interfaces, debates e metodologias. Ponta Grossa (PR): Todapalavra, 2012.\n5) BRASIL, Programa Nacional de Direitos Humanos , PNDH II, Fernando Henrique Cardoso,  Brasília, Presidência da República, Secretaria da Comunicação Social, Ministério da Justiça, 2002.\n6) BUCCI, Maria Paula Dalari Et. al. (Orgs.). Direitos Humanos e políticas públicas. São Paulo: Pólis, 2001.\n7) FAORO, Raymundo. Os donos do poder. Rio de Janeiro, Editora Globo, 1958.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NEP143",
+      "Nome": "Tóp Esp Polít Públ Dir Hum V",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Discussão de temas específicos em políticas públicas e direitos humanos com base no processo histórico e nas críticas contemporâneas, proporcionando ao aluno uma visão sobre o alcance e limites da sua proteção e promoção.\n___BIBLIOGRAFIA BÁSICA___\n1) BECKER, Howard S. Métodos de pesquisa em ciências sociais. São Paulo: Hucitec, 1999.\n2) BELLONI I.; Magalhães H.; Souza L; Metodologia de avaliação em políticas públicas. São Paulo (Cortez) 2003.\n3) BOBBIO, Norberto. A era dos direitos. Rio de Janeiro: Campus, 1992.\n4) BOURGUIGNON, Jussara Ayres; OLIVEIRA Jr., Constantino Ribeiro de (Orgs.).  Pesquisa em ciências sociais: interfaces, debates e metodologias. Ponta Grossa (PR): Todapalavra, 2012.\n5) BRASIL, Programa Nacional de Direitos Humanos , PNDH II, Fernando Henrique Cardoso,  Brasília, Presidência da República, Secretaria da Comunicação Social, Ministério da Justiça, 2002.\n6) BUCCI, Maria Paula Dalari Et. al. (Orgs.). Direitos Humanos e políticas públicas. São Paulo: Pólis, 2001.\n7) FAORO, Raymundo. Os donos do poder. Rio de Janeiro, Editora Globo, 1958.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NEP145",
+      "Nome": "Tóp Esp Polít Públ Dir Hum VII",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Discussão de temas específicos em políticas públicas e direitos humanos com base no processo histórico e nas críticas contemporâneas, proporcionando ao aluno uma visão sobre o alcance e limites da sua proteção e promoção.\n___BIBLIOGRAFIA BÁSICA___\n1) BECKER, Howard S. Métodos de pesquisa em ciências sociais. São Paulo: Hucitec, 1999.\n2) BELLONI I.; Magalhães H.; Souza L; Metodologia de avaliação em políticas públicas. São Paulo (Cortez) 2003.\n3) BOBBIO, Norberto. A era dos direitos. Rio de Janeiro: Campus, 1992.\n4) BOURGUIGNON, Jussara Ayres; OLIVEIRA Jr., Constantino Ribeiro de (Orgs.).  Pesquisa em ciências sociais: interfaces, debates e metodologias. Ponta Grossa (PR): Todapalavra, 2012.\n5) BRASIL, Programa Nacional de Direitos Humanos , PNDH II, Fernando Henrique Cardoso,  Brasília, Presidência da República, Secretaria da Comunicação Social, Ministério da Justiça, 2002.\n6) BUCCI, Maria Paula Dalari Et. al. (Orgs.). Direitos Humanos e políticas públicas. São Paulo: Pólis, 2001.\n7) FAORO, Raymundo. Os donos do poder. Rio de Janeiro, Editora Globo, 1958.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EDW111",
+      "Nome": "Alfabetizacao I",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Nocoes de linguistica aplicadas a alfabetizacao. Metodologia da alfabetizacao. Reflexoes sobre a pratica da alfabetizacao.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EFC115",
+      "Nome": "Educação Física Desportiva I",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "40",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Exercicios aerobicos, objetivando bom nivel de aptidao fisica. Natacao e corridas rusticas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF362",
+      "Nome": "Estética I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução aos principais problemas da estética.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF655",
+      "Nome": "Hist da Filos no Brasil II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A modernização como problema filosófico. A ideia de uma civilização brasileira inter-racial autossustentável.\n",
+       "BibliografiaBasica": "1) BARRETO, Tobias. Estudos de filosofia. Org., introd. e notas de Paulo Mercadante e Antonio Paim. Rio de janeiro: INL/Record, 1990;\n2) CERQUEIRA, Luiz Alberto. Filosofia brasileira ? Ontogênese da consciência de si. Petrópolis: Vozes, 2002;\n3) KANT, I. Crítica da razão pura, Prefácio à segunda edição. Lisboa: Calouste Gulbenkian, 1985;\n4) STURM, Fred Gillette. O Significado Atual do Pensamento Britiano. Anais do IV Congresso Nacional de Filosofia. São Paulo-Fortaleza: IBF, 1962;\n5) BRITO, Raimundo de Farias. O mundo interior. Org. e estudo introdutório de L. A. Cerqueira. Lisboa: INCM, 2003;\n6) MAGALHÃES, D. J. Gonçalves de. Fatos do espírito humano. Rio de Janeiro: Garnier, 1858;\n7) CERQUEIRA, Luiz Alberto. Natureza e cultura: a idéia de origem da filosofia brasileira. Lisboa: Universidade Nova de Lisboa, 1997 (mimeo);\n8) REALE, Miguel. Estudos de filosofia brasileira. Lisboa: Instituto de Filosofia Luso-Brasileira, 1994;\n9) NOGUERA, Renato. O Ensino de Filosofia e a Lei nº 10.639. Rio de Janeiro: Editora Ceap, 2011.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF658",
+      "Nome": "Filosofia da Linguagem II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo de um ou mais temas e/ou conceitos fundamentais relativos ao problema filosófico da linguagem em sua relação com a questão da ação.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEF341",
+      "Nome": "Linguistica A.",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Alguns modelos de análise lingüística. A descrição lingüistica desde a antiguidade greco-romana até nossos dias.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEF343",
+      "Nome": "Linguistica C (Opt)",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução as linguas indígenas no Brasil. Visão e orientação geral sobre os problemas da lingüistica indígena no Brasil. Estágio atual da classificação das línguas indígenas brasileiras. As formas de aculturação e suas implicações lingüisticas. Noções metodológicas de pesquisa de campo.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEF241"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEF345",
+      "Nome": "Linguistica E.",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Fonética: perpectivas de estudo. Segmentação e interpretação de dados de fala. Treinamento de transcrição.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEF151"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEF347",
+      "Nome": "Linguistica G",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Fundamentos  teóricos e metodológicos das correntes da lingüística moderna. Exame de alguns problemas especiais.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEF349",
+      "Nome": "Sociolinguistica I (Opt)",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A teoria de variações lingüisticas. Problemas metodológicos: definição da amostra. Dialetos sociais e educação. Trabalho de campo.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEF351",
+      "Nome": "Sociolinguistica II (Opt)",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Variação do uso lingüístico em português.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEF415",
+      "Nome": "Linguistica L -Tec de Traducao",
+      "Créditos": "6.0",
+      "Teórica": "60",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Perpectivas de estudo em fonologia. Análise de dados. Interpretação de processos fonológicos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEF435",
+      "Nome": "Filologia Geral B (Opt)",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Enfoques em lingüística histórica. Mudança lingüística. Análise e interpretação de dados diacrônicos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEF425"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEF451",
+      "Nome": "Sem Est Ling e Filologia II",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Aprofundamento da abordagem dos conteúdos desenvolvidos em uma ou mais disciplinas de lingüística ou de filologia.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEF450"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEF457",
+      "Nome": "Inic Pesq Ling e Filologia II",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução a atividades de pesquisa relacionadas a projetos em andamento no departamento.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEF456"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEG302",
+      "Nome": "Ingles A (opt)",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenvolvimento de estratégias de compreensão oral de textos em Inglês de diferentes gêneros discursivos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEG304",
+      "Nome": "Ingles B (Opt)",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Produção de textos escritos para fins específicos (especialmente para fins acadêmicos).\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEG306",
+      "Nome": "Ingles E (opt)",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenvolvimento da competência tradutória através de uma reflexão sobre o processo de tradução do aprendiz.  Experiência com diversos tipos de texto.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEG313",
+      "Nome": "Ingles J (Opt)",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenvolvimento de estratégias de compreensão escrita. Leitura de textos de diferentes gêneros discursivos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEG326",
+      "Nome": "Literatura Inglesa B (Opt)",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O teatro ingles do seculo xx. Movimentos, autores e obras representativas (aulas, leituras e avaliacao em ingles).\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEG328",
+      "Nome": "Literatura Inglesa D (Opt)",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Manifestacoes da ficcao inglesa. Enfase em autores ou periodos especificos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEG211",
+       "LEG221"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEG332",
+      "Nome": "Literatura Inglesa F (Opt)",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Tragedias ou ultimas pecas de shakespeare. Peculiaridades de cada uma e seus tracos comuns.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEG211",
+       "LEG221"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEG347",
+      "Nome": "Lit Norte-Americana B (Opt)",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O teatro norte_americano do seculo xx. Obras representativas. Influencias e rumos. (Aula, leituras e avaliacao em ingles).\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEG211"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEG412",
+      "Nome": "Ingles H (Opt)",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Reflexão sobre o ato tradutório. Principais visões teóricas. Análise de traduções de diversos gêneros à luz das teorias enfocadas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEG445",
+      "Nome": "Lit Norte-Americana A (opt)",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A poesia norte_americana da segunda metade do seculo XIX aos tempos atuais. Vertentes poeticas do periodo indicado (aulas, leituras e avaliacao em ingles).\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEG611",
+      "Nome": "Metod Pesq Letr Anglo-Germ II",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Apresentacao e discussao de diferentes tipos de investigacao cientifica na area de letras. Familiarizacao com a elaboracao de um projeto de pesquisa, etapas metodologicas, formulacao de hipoteses, aprofundamento bibliografico, coleta e analise de dados, redacao final. Desenvolvimento de pequenos projetos de pesquisa vinculados a projetos mais abrangentes-nivel II.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEG610"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEG613",
+      "Nome": "Inic Pesq Letr Anglo-Germ II",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Apresentacao e discussao do conceito de pesquisa em geral e de diferentes tipos e questoes de pesquisa em letras. Familiarizacao com o ato de pesquisar, incluindo estudo bibliografico e participacao em coleta e analise de dados de pesquisas em andamento. Nivel II.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEG612"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEG615",
+      "Nome": "Sem Est Letr Anglo-Germ II",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Abordagem prática e teórica de conteúdos desenvolvidos em uma ou mais disciplinas de alemão ou inglês e/ou literaturas de língua alemã ou inglesa e / ou literaturas de língua alemã e inglesa.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEG614"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEL302",
+      "Nome": "Teoria Litraria A (opt)",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O texto da critica. Inovacao e criatividade. Teoria da forma e do sentido da poesia.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEL312",
+      "Nome": "Teoria Literaria C (Opt)",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Metatexto e criacao literaria. Presenca e presente do texto. Semelhanca e dissemelhaanca. Leitura e producao do metatexto.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEL314",
+      "Nome": "Teoria Literaria E (opt)",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O elemento criador da critica. Revisao de conceitos criticos. Estudo do texto atraves da perspectiva ontologica.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEL316",
+      "Nome": "Teoria Literaria H (Opt)",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das diversas tendencias significativas da literatura brasileira desde sua origem ate nossos dias.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEL211"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEL361",
+      "Nome": "Literatura Comparada A (opt)",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O conto na literatura: A forma do conto no Brasil em relação a outros países, a partir de uma metodologia comparativista.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEL363",
+      "Nome": "Literatura Comparada C (Opt)",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Parodia e intertextualidade em diversos momentos da literatura universal: os topicos da parodia e intertextualidade, principalmente conforme desenvolvidas por bakhtine, kristeva e derrida, serao aplicados a analise comparativa da literatura universal.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEL365",
+      "Nome": "Literatura Comparada E (opt)",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Literatura, artes e midia: fenomenos comuns a diversas culturas e literatura: os fenomenos da midia, das artes em geral e da relacao com a literatura serao revistos numa perspectiva comparativa, em busca de modelos gerais explanativos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEL367",
+      "Nome": "Literatura Comparada G (Opt)",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Teatro: analise intertextual e interlinguistica. Analise de textos dramaticos a partir de aspectos intertextuais e interlinguisticos presentes na literatura dramatica de diversos paises.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEL369",
+      "Nome": "Literatura Comparada J (Opt)",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo da Produção Literária no século XX, segundo o Método Comparatista.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEL371",
+      "Nome": "Literatura Comparada L (Opt)",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo comparativo de temas, fontes, influencias e da intertextualidade sob o ponto de vista da literatura comparada: a literatura comparada vista discronicamente, atraves do estudo comparativista de fontes, temas influencias e da intertextualidade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEL387",
+      "Nome": "Fund Cult Lit Bras B (Opt)",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Aspectos comparativos entre cultura, pensamneto e arte.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEL389",
+      "Nome": "Fund Cult Lit Bras E (opt)",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Descricao e identidade de constituintes da cultura literaria brasileira por meio de um exame comparativo,no ambito das culturas latino-americanas e europeias.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEL401",
+      "Nome": "Teoria Literaria B (Opt)",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Fundamento da investigacao literaria. Opcao cientifica do conhecimento e especificidade do fenomeno literario. Lingua e linguagem. O fundamento e o fundado.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEL403",
+      "Nome": "Teoria Literaria D (Opt)",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A producao do texto. Fundamentos teoricos da dinamica de producao livre. A obra literaria.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEL405",
+      "Nome": "Teoria Literaria G (Opt)",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Tendencias divergentes na teoria literaria.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEL407",
+      "Nome": "Teoria Literaria J (Opt)",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A dimensao ontologica do texto poetico. Busca de uma abordagem critica mais totalizadora. Estudo de textos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEL409",
+      "Nome": "Teoria Literaria L (Opt)",
+      "Créditos": "6.0",
+      "Teórica": "60",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O moderno teatro brasileiro. A obra de oswald de andrade como centro de referencia. Movimentos e grupos teatrais modernos. Outros autores modernos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEL411",
+      "Nome": "Teoria Literaria C (Opt)",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Fundamento da investigacao literaria. Opcao cientifica do conhecimento e especificidade do fenomeno literario. Lingua e linguagem. O fundamento e o fundado.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEL600",
+      "Nome": "Teoria Literaria A (Opt)",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Momentos decisivos da critica literaria dos seculos XIX e xx. A critica romantica e a critica realista. O impressionismo critico. A nova critica e a critica contemporanea.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEL602",
+      "Nome": "Teoria Literaria C (Opt)",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Nocoes basicas da teoria das ideologias. As condicoes de producao dos textos. Pratica do texto como discurso ideologico.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEL604",
+      "Nome": "Teoria Literaria E (Opt)",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Leitura psicanalitica de textos literarios a partir do estudo de obras artisticas e de escritos psicanaliticos, problematizacao dos aspectos teoricos e metodologicos que implicam a relacao entre literatura e psicanalise.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEL606",
+      "Nome": "Teoria Literaria G (Opt)",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A literatura como lugar de investigacao da diferenca. Estudos de textos situados a margem da literatura.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEL608",
+      "Nome": "Teoria Literaria J (Opt)",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Tracos fundamentais da tradicao classica e romantica, a partir da leitura de textos teoricos e criativos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEL610",
+      "Nome": "Teoria Literaria L (Opt)",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Teorias da significacao. Estudo metodologico e pratico dos procedimentos da analise semiologica.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEL612",
+      "Nome": "Teoria Literaria N (Opt)",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A palavra literaria e as possibilidades de interpretacao; a leitura do leitor; a leitura do encenador; a leitura do ator; a participacao do canal na leitura do texto.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEL614",
+      "Nome": "Teoria Literaria P (Opt)",
+      "Créditos": "4.0",
+      "Teórica": "30",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A disciplina podera ser oferecida em dois modulos: a) oficina literaria (modelos de escritura e criatividade); b) praticas da dissertacao e comentario (trabalho concreto de analise e expressao escrita em torno de textos comuns e em funcao das dificuldades apresentadas pelos alunos), tecnicas e praticas de pesquisa.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEL616",
+      "Nome": "Teoria Literaria R (Opt)",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo teórico e prático dos processos de leitura e de produção textual.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEL618",
+      "Nome": "Teoria Literaria T (Opt)",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo monografico de autores representativos de diversas epocas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEL620",
+      "Nome": "Sem Est Lit Ciencia da Lit I",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Abordagem prática e teórica de conteúdos desenvolvidos em uma ou mais disciplinas obrigatórias de Ciência da Literatura.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEL622",
+      "Nome": "Inic Pesq Ciencia da Lit I",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Apresentação e discussão do conceito de pesquisa em geral e de diferentes tipos de questões de pesquisa em Letras. Familiarização como ato de pesquisar, incluindo estudo bibliográfico e participação em coleta e análise de dados de pesquisa em andamento.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEL624",
+      "Nome": "Metod Pesq Ciencia da Lit I",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Apresentação e discussão de diferentes tipos de investigação científica na área de Letras. Familiarização com a elaboração de um projeto de pesquisa, incluindo todas as etapas metodológicas, desde a formação de hipótese e perguntas de pesquisa, passando pelo aprofundamento bibliográfico, coleta e análise de dados, até a redação final do trabalho. Desenvolvimento de pequenos projetos. Nível I.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEL626",
+      "Nome": "Introd a Filosofia e a Poetica",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "As origens da filosofia. Filosofia e Oriente. Os pensadores originarios (pre-socraticos). As questoes da psysis, da rache e da moira. Os significados do logos. A poetica e os poetas gregos. A sofistica e a retorica. A filosofia de Platao e Aristoteles. O periodo alexandrino. Horacio, Plotino. A Escolastica.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEL628",
+      "Nome": "Poética e Mito",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O mito e sua etimologia. Os diversos conceitos do mito. Mito e: religiao, filosofia, ciencia e sagrado. Os mitos da poetica: musas, Mnemosyne, Hermes, Eros, Narciso e Prometeu. A permanencia do mito como fundamento da obra de arte e da poetica. Mito, poiesis e pensamento.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEV259",
+      "Nome": "Fund Cult Lit Portuguesa (Opt)",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Temas e problemas dos fundamentos da cultura literaria portuguesa. Estudos monograficos sobre autores, obras ou aspectos significativos do contexto portugues.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEV306",
+      "Nome": "Portugues O (Opt)",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Morfossintaxe da língua portuguesa: classes e funções dos vocábulos. Análise crítica da abordagem da mofossintaxe no ensino fundamental e no médio, com base em textos teóricos, gramáticas e livros didáticos. Aspectos problemáticos e alternativas metodológicas para o ensino da morfossintaxe, sob um ponto de vista mais produtivo.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEV325",
+      "Nome": "Portugues S (Opt)",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estilistica da lingua portuguesa. A estilistica: conceito e metodos. Analise de textos de autores brasileiros e/ou portugueses modernos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEV327",
+      "Nome": "Portugues T (Opt)",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O tramento de conteúdos programáticos de língua portuguesa em livros didáticos: apreciação crítica do material existente, bem como orientação e propostas para reformulação e/ou elaboração material didático-pedagógico.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEV329",
+      "Nome": "Portugues X (Opt)",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Caracterização dos textos falados e escritos: tipos; semelhantes e diferenças das modalidades. Os cuidados na transposição de uma modalidade para outra para que o texto resultante não seja considerado inadequado/agramatical ou artificial.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEV331",
+      "Nome": "Portugues G (Opt)",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A lígua Portuguesa e seu ensino no Brasil. Problemas práticos de descrição de língua em função do ensino.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEV333",
+      "Nome": "Portugues I (Opt)",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O fenômeno de unidade relativa e diversidade, inerente às línguas históricas. Relação entre a descrição de normas lingüísticas, a formação e o aprimoramento de competências em língua portuguesa. Contribuições das pesquisas dialectológicas e sociolingüísticas para a apreciação crítica da gramática normativa e a construção e gramáticas decritivas e reflexivas do português em sala de aula: diferença e relação entre língua materna e língua potuguesa adquirida por educação formal; definição de norma(s) exemplar(es) com base na realidade lingüística; determinação de critérios pertinentes à \"correção lingüística\".\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEV335",
+      "Nome": "Portugues K (Opt)",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Pluralidade de discursos sociais. Ensino e apredizagem de língua potuguesa sob a perspectiva do uso/funcionamento do sistema. Estudo do texto como unidade semântico-pragmática na Lingüística textual.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEV337",
+      "Nome": "Portugues Z (Opt)",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Lingua portuguesa como expressao da cultura brasileira. O uso da lingua, em diferentes situacoes pela analise de textos. Experiencias de criacao de textos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEV339",
+      "Nome": "Portugues D (Opt)",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O português no quadro das línguas românicas. Estudo comparativo de nosso idioma com os demais, nos diversos níveis da língua.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEV345",
+      "Nome": "Literatura Portuguesa A (Opt)",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O simbolismo em portugal. A vertente decadentista. Estrutura e significado do texto simbolista. O saudosismo. A permanencia simbolista em \"orpheu\" e na poesia contemporanea.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEV348",
+      "Nome": "Literatura Portuguesa D",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudos críticos do teatro português. Abordagem monográfica de autores, obras ou aspectos significativos do teatro português. Análise de relações inter e intra textuais de obras dramáticas selecionadas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEV350",
+      "Nome": "Literatura Portuguesa K",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudos críticos da Literatura Portuguesa Oitocentista. Abordagem monográfica de autores, obras ou aspectos significativos da Literatura Portuguesa Oitocentista. Análise de relações inter e intratextuais de obras selecionadas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEV356",
+      "Nome": "Literatura Portuguesa F",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudos críticos da Literatura Portuguesa Quinhentista. Abordagem monográfica de autores, obras ou aspectos significativos da Literatura Portuguesa Quinhentista. Análise de relações inter e intratextuais de obras selecionadas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEV358",
+      "Nome": "Literatura Portuguesa X (Opt)",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A poesia de fernando pessoa.A poesia de orpheu.Mario de SA-carneiro e o eu dividido.A poesia de fernando pessoa e seus heteronimos. O questionamento da linguagem.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEV362",
+      "Nome": "Literatura Portuguesa Y (Opt)",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O elemento popular na poesia portuguesa. Estruturas e significados na poesia popular da idade media e sua recomposicao na poesia classica, romantica e pos-romantica. A permanencia no cordel brasileiro.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEV365",
+      "Nome": "Literatura Portuguesa L (Opt)",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O existencialismo no romance contemporaneo. A problematica existencialista. O \"romance-ensaio\". o questionamento do fazer ficcional a luz da filosofia existencialista.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEV367",
+      "Nome": "Literatura Portuguesa N (Opt)",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Projecao da historia de portugal na literatura portuguesa. O mito de ines de castro, da cronica medieval a poesia de fiama pais brandao. O sebastianismo, de bandarra a fernando pessoa. A conquista ultramarina: o epico e o anti-epico.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEV369",
+      "Nome": "Literatura Portuguesa R (Opt)",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Maneirismo e barroco na literatura portuguesa. Estudos monograficos sobre autores, obras ou aspectos significativos do maneirismo e do barroco na literatura portuguesa. Analise das relacoes inter e intratextuais de obras selecionadas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEV376",
+      "Nome": "Literatura Brasileira B (Opt)",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A poesia romantica. Fundamentos esteticos e socio-culturais. Temas e formas de expressao. O legado romantico na lirica brasileira.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEV378",
+      "Nome": "Literatura Brasileira C (Opt)",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Parnasianismo e simbolismo. Fundamentos esteticos e socio-culturais. Projeto teorico e pratica poetica. Influencias reciprocas. Significado no processo literario brasileiro.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEV382",
+      "Nome": "Literatura Brasileira G (Opt)",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Fundamentos estéticos e socioculturais. Temas e formas de expressão. A tradição e a inovação. O significado no processo literário brasileiro.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEV384",
+      "Nome": "Literatura Brasileira J (Opt)",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Fundamentos estéticos e socioculturais. Temas e formas de expressão. As novas tendências e a renovação das formas narrativas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEV387",
+      "Nome": "Literatura Brasileira L (Opt)",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Tendencias recentes da ficcao. Fundamentos esteticos e socio-culturais. Linhas tematicas e formas de expressao.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEV390",
+      "Nome": "Literatura Brasileira N (Opt)",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O conto. O papel do genero na ficcao brasileira. Formacao e evolucao. A linguagem narrativa no conto: formas e problemas especificos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEV393",
+      "Nome": "Literatura Brasileira T (Opt)",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O conceito da vanguarda em arte e literatura. O sentido do experimentalismo. As vanguardas no processo literário brasileiro. Fundamentos estéticos e socioculturais.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEV395",
+      "Nome": "Literatura Brasileira V (Opt)",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Métodos e problemas na pesquisa e na análise da criação individual. O escritor no contexto cultural de sua época: convergências e divergências.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEV398",
+      "Nome": "Literatura Brasileira U (Opt)",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O discurso mítico e o discurso literário: natureza, função e relação. Aproveitamento, criação e reelaboração de mitos na literatura brasileira.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEV402",
+      "Nome": "Portugues A (Opt)",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Apreciacao da lingua portuguesa no periodo arcaico. Principais caracteristicas: foneticas, morfologicas e sintaticas. Observacoes no tocante ao lexico. Estudo de cantigas trovadorescas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEV406",
+      "Nome": "Portugues (Opt)",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Aspectos relevantes na área sintática da lígua portuguesa. Verificação desses aspectos em textos variados.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEV410",
+      "Nome": "Portugues Y (Opt)",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A contribuição da lingüística para a melhoria do ensino de língua nativa e estrangeira. Contribuição para uma educação interdisciplinar.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEV414",
+      "Nome": "Portugues V (Opt)",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Formacao do lexico portugues.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEV443",
+      "Nome": "Literatura Portuguesa T (Opt)",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O romance de carlos de oliveira. A ficcao neo-realista: estruturacao e sentido. A montagem da narrativa; narracao e descricao: sua dimensao estetica. Leitura dos romances.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEV448",
+      "Nome": "Literatura Portuguesa O (Opt)",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A poesia medieval. Estudos monograficos sobre autores, obras ou aspectos significativos da poesia portuguesa medieval. Analise de relacoes inter e intratextuais de obras poeticas selecionadas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEV459",
+      "Nome": "Literatura Portuguesa T.",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Aspectos da Narrativa Portuguesa. Estudos monográficos sobre autores, obras ou aspectos significativosda Narrativa Portuguesa. Análise de relações inter e intratextuais de obras narrativas selecionadas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEV461",
+      "Nome": "Literatura Portuguesa R.",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Aspectos temáticos e/ou teóricos da literatura portuguesa. Estudos temáticos recorrentes e/ou posições teóricas em autores e obras significativas da literatura portuguesa. Análise de relações inter e intratextuais nos textos selecionados.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEV463",
+      "Nome": "Literatura Portuguesa H",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudos críticos da Literatura Portuguesa Setecentista. Abordagem monográfica de autores, obras ou aspectos significativos da Literatura Portuguesa Setecentista. Análise de relações inter e intratextuais de obras selecionadas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEV465",
+      "Nome": "Literatura Portuguesa P.",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Aspectos da Literatura Portuguesa do Século XVI. Estudos monográficos sobre autores, obras ou aspectos significativos da Literatura Portuguesa do Século XVI. Análise de relações inter e intratextuais de obras selecionadas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEV467",
+      "Nome": "Literatura Portuguesa N-",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Aspectos da Literatura Portuguesa do Século XVIII. Estudos monográficos sobre autores, obras ou aspectos significativos da Literatura Portuguesa do Século XVIII. Análise de relações inter e intratextuais de obras selecionadas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEV469",
+      "Nome": "Literatura Portuguesa L",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Aspectos da Literatura Portuguesa do Século XX. Estudos monográficos sobre autores, obras ou aspectos significativos da Literatura Portuguesa do Século XX. Análise de relações inter e intratextuais de obras selecionadas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEV476",
+      "Nome": "Literatura Brasileira P (Opt)",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Folclore e literatura popular. As raizes socio-culturais da criacao oral. A narrativa de cordel: ideologia, temas e formas de expressao.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEV481",
+      "Nome": "Literatura Brasileira W (Opt)",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo comparado de correntes estetico-estilisticas. Elementos de convergencia e divergencia. Metodos e problemas da analise comparativa.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEV483",
+      "Nome": "Literatura Brasileira Y (Opt)",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Temas e problemas da prosa brasileira. Configuracao de componentes decisivos e problemas especificos na formacao e evolucao da prosa literaria no brasil.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEV600",
+      "Nome": "Lit Africanas de Ling Port A",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A poesia em língua portuguesa produzida em Angola, Moçambique, Cabo Verde, São Tomé e Príncipe, Guiné-Bissau, no período anterior à Independência. Relações entre o poético e o histórico. A procura identitária: do  exotismo e assimilacionismo à afirmação das diferenças e alteridades. Oralidade, bilingüismo, tradições. Clandestinidade, engajetamento, labor estético. Prática de análise textual de poemas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEV602",
+      "Nome": "Lit Africanas de Ling Port C",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A poesia africana de língua portuguesa da pós-independência em Angola, Moçambique, Cabo Verde, Guiné-Bissau, São Tomé e Príncipe: principais poetas. Poesia e História. Releitura crítica da poesia engajada. Bilingüsmo, crioulização, africanização da língua portuguesa. Liberdade de expressão e liberdade criadora. Tradição e ruptura. Metapoesia, transgressão e processos poéticos emergentes. Prática de análise textual de poemas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEV610",
+      "Nome": "Port Estrang: Convers Avancada",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Compreensão e produção oral e escrita da língua portuguesa. Estratégias para adequação do uso da língua portuguesa em situações do cotidiano (interação face a face) e em eventos formais de comunicação, tais como palestras, exposição de motivos, debates etc.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEV612",
+      "Nome": "Portugues para Estrangeiros A",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo comparativo dos aspectos envolvidos no ensino do portugues como lingua materna e como segunda lingua. Analise dos problemas relacionados ao seu ensino para falantes de outras linguas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEV211(C)LEV211=LEV210"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NEP101",
+      "Nome": "Teoria Direitos Fundamentais",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Discussão de uma teoria dos direitos fundamentais com base nas normas positivadas constitucionais, no direito comparado e na jurisprudência, proporcionando ao estudante uma visão sobre alcance e limites da proteção e promoção desses direitos.\n___BIBLIOGRAFIA BÁSICA___\n1) ABRAMOVAY, Ricardo. Direitos fundamentais das minorias (sob o enfoque da Lei nº9.882/99). Leme: Anhanguera Editora, 2010.\n2) ALEXY, Robert. Teoria de los derechos fundamentales, trad. Ernesto Garzón Valdés. Madrid: Centro de Estudios Constitucionales, 1993.\n3) ANDRADE, José Carlos Vieira de. Os direitos fundamentais na Constituição portuguesa de 1976 . 3ª ed. Coimbra: Almedina, 2007.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) BULOS, Uádi Lammêgo. Curso de Direito Constitucional. 3. ed. São Paulo: Saraiva: 2008.\n2) CANOTILHO, José Joaquim Gomes. Direito constitucional e teoria da constituição, 7ª ed. Coimbra: Almedina, 2003.\n3) SILVA, José Afonso da. Curso de Direito Constitucional Positivo. 31. ed. São Paulo: Malheiros, 2008.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NEP120",
+      "Nome": "Fund Polít Públicas Dir Hum",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Discussão sobre a necessidade e a possibilidade de uma fundamentação filosófica das políticas públicas, para a construção de argumentos racionais na sua implementação e identificação dos principais desafios para sua afirmação e realização. Apresentação de algumas propostas contemporâneas de fundamentação filosófica das políticas em direitos humanos.\n___BIBLIOGRAFIA BÁSICA___\n1) BARBALET, J. M. A Cidadania. Lisboa: Editorial Estampa, 1989.\n2) BAUMAN, Zygmunt. Comunidade: a busca da segurança no mundo atual. Rio de Janeiro: Jorge Zahar, 2003.\n3) BECKER, Howard S. Métodos de pesquisa em ciências sociais. São Paulo: Hucitec, 1999.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) BELLONI I, Magalhães h. / Souza L; Metodologia de avaliação em políticas públicas. São Paulo (Cortez) 2003.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NEP140",
+      "Nome": "Tóp Esp Polít Públ Dir Hum II",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Discussão de temas específicos em políticas públicas e direitos humanos com base no processo histórico e nas críticas contemporâneas, proporcionando ao aluno uma visão sobre o alcance e limites da sua proteção e promoção.\n___BIBLIOGRAFIA BÁSICA___\n1) BECKER, Howard S. Métodos de pesquisa em ciências sociais. São Paulo: Hucitec, 1999.\n2) BELLONI I.; Magalhães H.; Souza L; Metodologia de avaliação em políticas públicas. São Paulo (Cortez) 2003.\n3) BOBBIO, Norberto. A era dos direitos. Rio de Janeiro: Campus, 1992.\n4) BOURGUIGNON, Jussara Ayres; OLIVEIRA Jr., Constantino Ribeiro de (Orgs.).  Pesquisa em ciências sociais: interfaces, debates e metodologias. Ponta Grossa (PR): Todapalavra, 2012.\n5) BRASIL, Programa Nacional de Direitos Humanos , PNDH II, Fernando Henrique Cardoso,  Brasília, Presidência da República, Secretaria da Comunicação Social, Ministério da Justiça, 2002.\n6) BUCCI, Maria Paula Dalari Et. al. (Orgs.). Direitos Humanos e políticas públicas. São Paulo: Pólis, 2001.\n7) FAORO, Raymundo. Os donos do poder. Rio de Janeiro, Editora Globo, 1958.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NEP142",
+      "Nome": "Tóp Esp Polít Públ Dir Hum IV",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Discussão de temas específicos em políticas públicas e direitos humanos com base no processo histórico e nas críticas contemporâneas, proporcionando ao aluno uma visão sobre o alcance e limites da sua proteção e promoção.\n___BIBLIOGRAFIA BÁSICA___\n1) BECKER, Howard S. Métodos de pesquisa em ciências sociais. São Paulo: Hucitec, 1999.\n2) BELLONI I.; Magalhães H.; Souza L; Metodologia de avaliação em políticas públicas. São Paulo (Cortez) 2003.\n3) BOBBIO, Norberto. A era dos direitos. Rio de Janeiro: Campus, 1992.\n4) BOURGUIGNON, Jussara Ayres; OLIVEIRA Jr., Constantino Ribeiro de (Orgs.).  Pesquisa em ciências sociais: interfaces, debates e metodologias. Ponta Grossa (PR): Todapalavra, 2012.\n5) BRASIL, Programa Nacional de Direitos Humanos , PNDH II, Fernando Henrique Cardoso,  Brasília, Presidência da República, Secretaria da Comunicação Social, Ministério da Justiça, 2002.\n6) BUCCI, Maria Paula Dalari Et. al. (Orgs.). Direitos Humanos e políticas públicas. São Paulo: Pólis, 2001.\n7) FAORO, Raymundo. Os donos do poder. Rio de Janeiro, Editora Globo, 1958.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NEP144",
+      "Nome": "Tóp Esp Polít Públ Dir Hum VI",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Discussão de temas específicos em políticas públicas e direitos humanos com base no processo histórico e nas críticas contemporâneas, proporcionando ao aluno uma visão sobre o alcance e limites da sua proteção e promoção.\n___BIBLIOGRAFIA BÁSICA___\n1) BECKER, Howard S. Métodos de pesquisa em ciências sociais. São Paulo: Hucitec, 1999.\n2) BELLONI I.; Magalhães H.; Souza L; Metodologia de avaliação em políticas públicas. São Paulo (Cortez) 2003.\n3) BOBBIO, Norberto. A era dos direitos. Rio de Janeiro: Campus, 1992.\n4) BOURGUIGNON, Jussara Ayres; OLIVEIRA Jr., Constantino Ribeiro de (Orgs.).  Pesquisa em ciências sociais: interfaces, debates e metodologias. Ponta Grossa (PR): Todapalavra, 2012.\n5) BRASIL, Programa Nacional de Direitos Humanos , PNDH II, Fernando Henrique Cardoso,  Brasília, Presidência da República, Secretaria da Comunicação Social, Ministério da Justiça, 2002.\n6) BUCCI, Maria Paula Dalari Et. al. (Orgs.). Direitos Humanos e políticas públicas. São Paulo: Pólis, 2001.\n7) FAORO, Raymundo. Os donos do poder. Rio de Janeiro, Editora Globo, 1958.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     }
+    ]
+   },
+   "obrigatorias": 45,
+   "eletivas": 226,
+   "ano": "1983/1 a 9999/9"
+  }
+ ]
+}

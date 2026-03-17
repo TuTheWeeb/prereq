@@ -1,0 +1,4230 @@
+{
+ "Comunicação Visual Design": [
+  {
+   "materias": {
+    "1º Período": [
+     {
+      "Codigo": "BAV101",
+      "Nome": "Metodologia e Percepção Visual",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A Percepção visual na representação da forma bi e tridimensional e as suas relações com os fenômenos da cor.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAVX05(C)"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAV103",
+      "Nome": "Planej e Processos Gráficos",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conhecimento das técnicas gráficas e das etapas de pré-produção. Papel, tipografia e imagem. Preparação do arquivo para impressão.\nBibliografia Recomendada\n1) AMBROSE, Gavin & HARRIS, Paul. Cor. Porto Alegre: Bookman.\n2) ARAÚJO, Emanuel. A construção do livro: princípios da técnica de editoração. Rio de Janeiro: Lexikon, [2008]. BANN, David. Novo Manual de Produção Gráfica. Porto Alegre: Bookman, 2011.\n3) BOMENY, Maria Helena Werneck. Os Manuais de desenho da escrita. São Paulo: Ateliê Editorial, 2010.\n4) BRINGHURST, Robert. Elementos do Estilo Tipográfico. São Paulo: Ed. Cosac & Naify. 2005.\n5) FERNANDES, Rê. Da cor magenta. Rio de Janeiro: Synergia, 2008.\n6) FRASER, Tom & BANKS, Adam. O essencial da cor no Design. São Paulo: Senac, 2011.\n7) LUPTON, Ellen. Pensar com tipos. São Paulo: Cosac Naify, 2006.\n8) LUPTON, Ellen. Fundamentos do design. São Paulo: Cosac Naify, 2008.\n9) MÜLLER-BROCKMANN, Josef. Sistemas de retículas. Barcelona: Editora Gustavo Gili, 2012.\n10) SAUTÉ, Enric. Aldo Manuzio: Editor. Tipógrafo. Livreiro. São Paulo: Ateliê Editorial, 2004.\n11) TSCHICHOLD, Jan. A Forma do Livro. São Paulo: Ateliê Editorial, 2007.\n12) VILLAS-BOAS, André. Produção Gráfica para Designers. Rio de Janeiro: 2AB, 2010.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAVX06(C)"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAV105",
+      "Nome": "Teoria do Design I",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "As abordagens filosóficas no tratamento das questões envolvendo a concepção e o projeto de Design.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAVX05",
+      "Nome": "Lab de Experimentação da Forma",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Prática dos conceitos adquiridos nas disciplinas de METODOLOGIA E PERCEPÇÃO VISUAL.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV101(C)"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAVX07",
+      "Nome": "Lab de Design Gráfico I",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Prática dos conceitos adquiridos nas disciplinas de Projeto de Design Gráfico I.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV102(C)BAV102=BAV110"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAF109",
+      "Nome": "Desenho I - CVD",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Análise teórico - prático da representação bidimensional. Observação visual e táctil de formas e estruturas simples naturais e artificiais. Meios técnicos de expressão.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 17:00",
+        "professor": "HENRIQUE CESAR DA COSTA SOUZA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAV102",
+      "Nome": "Projeto de Design Gráfico I",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenvolvimento de projetos sob o domínio do Design Gráfico introduzindo o estudante no campo projetual, na prática de representação e conceitos de leiautes, através de metodologias específicas de projeto e aspectos ergonômicos para projetos em Comunicação Visual.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAVX07(C)"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAV104",
+      "Nome": "Design e Gênese I",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Genesis do Design sua evolução sócio-histórico. Influências do pensamento e da criação do homem através dos objetos como informação e comunicação.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAV107",
+      "Nome": "Oficina Básica CVD",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAVX06",
+      "Nome": "Lab de Processos Gráficos",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Prática dos conceitos adquiridos nas disciplinas de Planejamento e Processos Gráficos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV103(C)"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "2º Período": [
+     {
+      "Codigo": "BAV112",
+      "Nome": "Projeto de Design Gráfico II",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Tipografia como linguagem visual. Projetos de Design Gráfico envolvendo a tipografia como imagem e objeto de estudo através de metodologias específicas de projetos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV102"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAV114",
+      "Nome": "Design e Gênese II",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Genesis do Design sua evolução sócio-histórico. Influências do pensamento e da criação do homem através da Comunicação Visual.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV104"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAV116",
+      "Nome": "Oficina Gráfica Digital",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceituação do ambiente digital e sua aplicação nos campos de conhecimento da área de Comunicação Visual Design.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAVX11(C)"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAVX10",
+      "Nome": "Laboratório de Fotografia",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Prática dos conceitos adquiridos nas disciplinas de Fotografia.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV127(C)BAV127=BAV121"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAVX17",
+      "Nome": "Laboratório Design Gráfico II",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Prática dos conceitos adquiridos nas disciplinas de Projeto de Design Gráfico II.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV112(C)"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAF110",
+      "Nome": "Desenho II - CVD",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Análise teórico - prático da representação bidimensional. Observação visual e táctil de formas e estruturas simples naturais e artificiais. Meios técnicos de expressão.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 12:00",
+        "professor": "ARY PIMENTA DE MORAES FILHO"
+       }
+      ],
+      "Requisitos": [
+       "BAF109"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAV113",
+      "Nome": "Tecnologias Artes Gráficas",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conhecimento do universo da produção gráfica, pré-impressão, pós-impressão e suas tecnologias e suportes.\n___Bibliografia Recomendada___\n1) David Bann, Novo Manual de Produção Gráfica, Ed. Bookman 2010.\n2) Gavin Ambrose e Paul Harris, Impressão e Acabamento, Ed. Bookman 2009.\n3) Tom Frase,O Guia Completo da Cor, Ed Senac, 2007.\n4) Ellen Lupton, Pensar com Tipos. Ed. Cosac Naify, 2006.\n5) Ellen Lupton, Novos Fundamentos do Design. Ed. Cosac Naify, 2008. Revistas de Design: Arc Design, ABCDesign, Computer Arts Brasil.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV103"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAV115",
+      "Nome": "Teoria do Design II",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Aprofundamento das abordagens filosóficas no tratamento das questões envolvendo a concepção e o projeto de Design.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAV127",
+      "Nome": "Fotografia",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Familiarizar o discente com o processo fotográfico, equipamentos habituais. Desenvolvimento da expressão fotográfica analógica e digital.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAVX10(C)"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAVX11",
+      "Nome": "Lab de Experimentação Digital",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Exercitar e fixar os conceitos adquiridos nas disciplinas de Oficina Gráfica Digital, com o objetivo de apoio técnico na área de estudos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV116(C)"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "3º Período": [
+     {
+      "Codigo": "BAV207",
+      "Nome": "Mídia Digital I",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceituação do ambiente digital e sua aplicação nos campos de conhecimento da área de Comunicação Visual Design.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAVX26(C)"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAV209",
+      "Nome": "Design e Repres Bidimensional",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Processos de representação das formas geométricas básicas. O espaço métrico euclidiano. Métodos descritivos. Suprfícies de revolução. Poliédricas; representação projetiva (sistema de Monge), inserções. Problemas de aplicação.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAVX26",
+      "Nome": "Laboratório Mídia Digital I",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Prática dos conceitos adquiridos nas disciplinas de Mídia Digital I.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV207(C)"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAF208",
+      "Nome": "Modelo Vivo - CVD",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A figura humana e sua representação gráfica. Proporções. Anatomia. Movimento. Realização de croquis.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 17:00",
+        "professor": "ARY PIMENTA DE MORAES FILHO"
+       }
+      ],
+      "Requisitos": [
+       "BAF110"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAV208",
+      "Nome": "Design e Gênese A-",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "História e filosofia das Artes Visuais. Influências estéticas através do pensamento e da criação do homem nos períodos da história da arte.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV114"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAV319",
+      "Nome": "Metodologia de Pesquisa em CVD",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Discussão das questões teórico-metodológicas envolvidas na pesquisa em Comunicação Visual. Estuda o processo de criação projetual e desenvolve estratégias para a reflexão do projeto de comunicação Visual. Analisa os métodos de pesquisa no campo do Design e das Artes Visuais e as técnicas de elaboração de trabalhos acadêmicos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "4º Período": [
+     {
+      "Codigo": "BAV218",
+      "Nome": "Design e Gênese B",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "História e filosofia das Artes Visuais. Influências estéticas através do pensamento e da criação do homem nos períodos da história da arte.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV114"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAVX30",
+      "Nome": "Laboratório Mídia Digital II",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Prática dos conceitos adquiridos nas disciplinas de MIDIA DIGITAL II.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV217(C)"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAV217",
+      "Nome": "Mídia Digital II",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Ambiente digital e sua aplicação nos campos de conhecimento da área de Comunicação Visual Design. Modelagem tridimensional positiva, negativa de ambientes.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAVX30(C)"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAV219",
+      "Nome": "Gráfica Tridimensional",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Expor conhecimentos de natureza gráfica que envolva a bidimensionalidade e tridimensionalidade, segundo aspectos técnicos e compositivos que estejam relacionados à Comunicação Visual. Instrumentos, materiais e normas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV209"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "5º Período": [
+     {
+      "Codigo": "BAV308",
+      "Nome": "Design e Marketing",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo dos conceitos básicos de economia, dos meios de produção, do mercado, do consumo e dos  processos existentes para equilibrar estas forças.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "6º Período": [
+     {
+      "Codigo": "BAV318",
+      "Nome": "Design e Prática Profissional",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": "",
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAV317",
+      "Nome": "Teoria do Design III",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "As relações socio-culturais que envolvem a imagem e o objeto de Design na sociedade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "7º Período": [
+     {
+      "Codigo": "BAVX00",
+      "Nome": "Laboratório de Graduação",
+      "Créditos": "4.0",
+      "Teórica": "0",
+      "Prática": "120",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Pesquisa e trabalho experimental relacionado ao Projeto de Graduação em Comunicação Visual Design.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAVK01(C)"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAVK01",
+      "Nome": "Monog Proj Grad com Vis Design",
+      "Créditos": "4.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Pesquisa e desenvolvimento experimental de projeto na área da comunicação imagética, acompanhado de Monografia de conteúdo específico no campo da Comunicação Visual design.\n",
+       "BibliografiaBasica": "1) Notas de aulas;\n2) Bibliografia específica para cada projeto.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV112",
+       "BAV317",
+       "BAV318",
+       "BAV319"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "Disciplinas Optativas (Escolha Restrita)": [
+     {
+      "Codigo": "BAV352",
+      "Nome": "Analise da Imagem A.",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Filosofia da imagem. Tecnologia e ciência dos processos de criação da imagem.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV482",
+      "Nome": "Análise da Imagem C.",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Filosofias da imagem. Tecnologia e ciência dos procesos de criação da imagem.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV500",
+      "Nome": "Foto-criação B.",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenvolvimento de experimentações na interface fotografia-arte.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV127",
+       "BAVX10"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV361",
+      "Nome": "Tecn e Producao da Imagem A.",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Semiologia da Imagem, Imagem sequencial, fixação da imagem e sinais sonoros.\n",
+       "BibliografiaBasica": "1- BAIRON, S. Contato Imediato com Multimídia. Global Editora, São Paulo, 1995.\n2- JOHNSON, S. Cultura da Interface. Jorge Zahar Editor, Rio de Janeiro, 2001.\n3- MACHADO, A. Máquina e Imaginário. Edusp, São Paulo, 1993.\n4- PARENTE, A., Org. Imagem-Máquina. Editora 34, Rio de Janeiro, 1993.\n5- POPPER, F. Art of the Eletronic Age. Harry N. Abrams Inc. Publishers, Nova York, 1993.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV363",
+      "Nome": "Tecn e Producao da Imagem C.",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Semiologia da Imagem, Imagem sequencial, fixação da imagem e sinais sonoros.\n",
+       "BibliografiaBasica": "1- BAIRON, S. Contato Imediato com Multimídia. Global Editora, São Paulo, 1995.\n2- JOHNSON, S. Cultura da Interface. Jorge Zahar Editor, Rio de Janeiro, 2001.\n3- MACHADO, A. Máquina e Imaginário. Edusp, São Paulo, 1993.\n4- PARENTE, A., Org. Imagem-Máquina. Editora 34, Rio de Janeiro, 1993.\n5- POPPER, F. Art of the Eletronic Age. Harry N. Abrams Inc. Publishers, Nova York, 1993\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV365",
+      "Nome": "Tecn e Producao da Imagem E.",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Semiologia da Imagem, Imagem sequencial, fixação da imagem e sinais sonoros.\n",
+       "BibliografiaBasica": "1- BAIRON, S. Contato Imediato com Multimídia. Global Editora, São Paulo, 1995.\n2- JOHNSON, S. Cultura da Interface. Jorge Zahar Editor, Rio de Janeiro, 2001.\n3- MACHADO, A. Máquina e Imaginário. Edusp, São Paulo, 1993.\n4- PARENTE, A., Org. Imagem-Máquina. Editora 34, Rio de Janeiro, 1993.\n5- POPPER, F. Art of the Eletronic Age. Harry N. Abrams Inc. Publishers, Nova York, 1993.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAVX50",
+      "Nome": "Laboratório Foto-criação B",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Prática dos conceitos adquiridos nas disciplinas de FOTO-CRIAÇÃO A,B,C.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV500(C)BAV500=BAV600"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAVX12",
+      "Nome": "Laboratório de Projeto A.",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Prática dos conceitos adquiridos nas disciplinas de Projeto em Comunicação Visual A.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV202(C)"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAVX14",
+      "Nome": "Laboratório de Projeto C.",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Prática dos conceitos adquiridos nas disciplinas de Projeto em Comunicação Visual A.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV204(C)"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAVX16",
+      "Nome": "Laboratório de Projeto E.",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Prática dos conceitos adquiridos nas disciplinas de Projeto em Comunicação Visual A.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV206(C)"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAVX22",
+      "Nome": "Laboratório de Projeto B.",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Prática dos conceitos adquiridos nas disciplinas de Projeto A,B,C, D.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV222(C)"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAVX24",
+      "Nome": "Laboratório de Projeto D.",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Prática dos conceitos adquiridos nas disciplinas de Projetos A, B, C, D.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV224(C)"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAVX31",
+      "Nome": "Laboratório de Projeto A.",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Prática dos conceitos adquiridos nas disciplinas de Projeto A,B,C, D.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV302(C)BAV302=BAVX02"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAVX33",
+      "Nome": "Laboratório de Projeto C.",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Prática dos conceitos adquiridos nas disciplinas de Projeto A,B,C, D.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV304(C)"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAVX35",
+      "Nome": "Laboratório de Projeto E.",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Prática dos conceitos adquiridos nas disciplinas de Projeto A, B, C, D.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV306(C)"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAVX37",
+      "Nome": "Laboratório de Projeto B.",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Prática dos conceitos adquiridos nas disciplinas de Projeto A, B, C, D.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV313(C)"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAVX39",
+      "Nome": "Laboratório de Projeto D.",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Prática dos conceitos adquiridos nas disciplinas de Projeto A, B, C, D.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV315(C)"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAVX61",
+      "Nome": "Lab Experimentação Imagem A.",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Prática dos conceitos adquiridos nas disciplinas de Tecnologia e Produção da Imagem A.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV361(C)"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAVX63",
+      "Nome": "Lab Experimentação Imagem C",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Prática dos conceitos adquiridos nas disciplinas de Tecnologia e Produção da Imagem C.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV363(C)"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAVX65",
+      "Nome": "Lab Experimentação Imagem E.",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Prática dos conceitos adquiridos nas disciplinas de Tecnologia e Produção da Imagem E.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV365(C)"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV203",
+      "Nome": "Projeto Comunicação Visual B",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenvolvimento de projetos de Comunicação Visual com grau de complexidade superior, abrangendo projetos completos tanto na vertente do ?Design da Informação e Comunicação? como do ?Design da Imagem narrativa?.\n",
+       "BibliografiaBasica": "1- AMBROSE, Gavin; HARRIS, Paul. Design thinking: s.m. ação ou prática de pensar o design. Porto Alegre: Bookman, 2011.\n2- BOMFIM, G. A. Metodologia para desenvolvimento de projetos. João Pessoa: Editora Universitária/UFPB, 1995.\n3- BONSIEPE, G; KELLNER, P; POESSNECKER, H. Metodologia experimental: desenho industrial. Brasília: CNPq/Coordenação editorial. 1984.\n4- MUNARI, Bruno. Das coisas nascem coisas. São Paulo, Ed. Martins Fontes. 2008.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV112"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV205",
+      "Nome": "Projeto Comunicação Visual D",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenvolvimento de projetos de Comunicação Visual com grau de complexidade superior, abrangendo projetos completos tanto na vertente do ?Design da Informação e Comunicação? como do ?Design da Imagem narrativa?.\n",
+       "BibliografiaBasica": "1- AMBROSE, Gavin; HARRIS, Paul. Design thinking: s.m. ação ou prática de pensar o design. Porto Alegre: Bookman, 2011.\n2- BOMFIM, G. A. Metodologia para desenvolvimento de projetos. João Pessoa: Editora Universitária/UFPB, 1995.\n3- BONSIEPE, G; KELLNER, P; POESSNECKER, H. Metodologia experimental: desenho industrial. Brasília: CNPq/Coordenação editorial. 1984.\n4- MUNARI, Bruno. Das coisas nascem coisas. São Paulo, Ed. Martins Fontes. 2008\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV112"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV221",
+      "Nome": "Projeto Comunicação Visual A.",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenvolvimento de projetos de Comunicação Visual com grau de complexidade superior, abrangendo projetos completos tanto na vertente do ?Design da Informação e Comunicação? como do ?Design da Imagem narrativa?.\n",
+       "BibliografiaBasica": "1- AMBROSE, Gavin; HARRIS, Paul. Design thinking: s.m. ação ou prática de pensar o design. Porto Alegre: Bookman, 2011.\n2- BOMFIM, G. A. Metodologia para desenvolvimento de projetos. João Pessoa: Editora Universitária/UFPB, 1995.\n3- BONSIEPE, G; KELLNER, P; POESSNECKER, H. Metodologia experimental: desenho industrial. Brasília: CNPq/Coordenação editorial. 1984.\n4- MUNARI, Bruno. Das coisas nascem coisas. São Paulo, Ed. Martins Fontes. 2008.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV112",
+       "BAVX21"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV223",
+      "Nome": "Projeto Comunicação Visual C",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenvolvimento de projetos de Comunicação Visual com grau de complexidade superior, abrangendo projetos completos tanto na vertente do ?Design da Informação e Comunicação? como do ?Design da Imagem narrativa?.\n",
+       "BibliografiaBasica": "1- AMBROSE, Gavin; HARRIS, Paul. Design thinking: s.m. ação ou prática de pensar o design. Porto Alegre: Bookman, 2011.\n2- BOMFIM, G. A. Metodologia para desenvolvimento de projetos. João Pessoa: Editora Universitária/UFPB, 1995.\n3- BONSIEPE, G; KELLNER, P; POESSNECKER, H. Metodologia experimental: desenho industrial. Brasília: CNPq/Coordenação editorial. 1984.\n4- MUNARI, Bruno. Das coisas nascem coisas. São Paulo, Ed. Martins Fontes. 2008.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV112"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV225",
+      "Nome": "Projeto Comunicação Visual E.",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenvolvimento de projetos de Comunicação Visual com grau de complexidade superior, abrangendo projetos completos tanto na vertente do ?Design da Informação e Comunicação? como do ?Design da Imagem narrativa?.\n",
+       "BibliografiaBasica": "1- AMBROSE, Gavin; HARRIS, Paul. Design thinking: s.m. ação ou prática de pensar o design. Porto Alegre: Bookman, 2011.\n2- BOMFIM, G. A. Metodologia para desenvolvimento de projetos. João Pessoa: Editora Universitária/UFPB, 1995.\n3- BONSIEPE, G; KELLNER, P; POESSNECKER, H. Metodologia experimental: desenho industrial. Brasília: CNPq/Coordenação editorial. 1984.\n4- MUNARI, Bruno. Das coisas nascem coisas. São Paulo, Ed. Martins Fontes. 2008.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV112"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV303",
+      "Nome": "Projeto Comunicação Visual B",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenvolvimento de projetos de Comunicação Visual com grau de complexidade superior, abrangendo projetos completos tanto na vertente do ?Design da Informação e Comunicação? como do ?Design da Imagem narrativa?.\n",
+       "BibliografiaBasica": "1- AMBROSE, Gavin; HARRIS, Paul. Design thinking: s.m. ação ou prática de pensar o design. Porto Alegre: Bookman, 2011.\n2- BOMFIM, G. A. Metodologia para desenvolvimento de projetos. João Pessoa: Editora Universitária/UFPB, 1995.\n3- BONSIEPE, G; KELLNER, P; POESSNECKER, H. Metodologia experimental: desenho industrial. Brasília: CNPq/Coordenação editorial. 1984.\n4- MUNARI, Bruno. Das coisas nascem coisas. São Paulo, Ed. Martins Fontes. 2008.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV112",
+       "BAVX32"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV305",
+      "Nome": "Projeto Comunicação Visual D",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenvolvimento de projetos de Comunicação Visual com grau de complexidade superior, abrangendo projetos completos tanto na vertente do ?Design da Informação e Comunicação? como do ?Design da Imagem narrativa?.\n",
+       "BibliografiaBasica": "1- AMBROSE, Gavin; HARRIS, Paul. Design thinking: s.m. ação ou prática de pensar o design. Porto Alegre: Bookman, 2011.\n2- BOMFIM, G. A. Metodologia para desenvolvimento de projetos. João Pessoa: Editora Universitária/UFPB, 1995.\n3- BONSIEPE, G; KELLNER, P; POESSNECKER, H. Metodologia experimental: desenho industrial. Brasília: CNPq/Coordenação editorial. 1984.\n4- MUNARI, Bruno. Das coisas nascem coisas. São Paulo, Ed. Martins Fontes. 2008.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV112"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV312",
+      "Nome": "Projeto Comunicação Visual A.",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenvolvimento de projetos de Comunicação Visual com grau de complexidade superior, abrangendo projetos completos tanto na vertente do ?Design da Informação e Comunicação? como do ?Design da Imagem narrativa?.\n",
+       "BibliografiaBasica": "1- AMBROSE, Gavin; HARRIS, Paul. Design thinking: s.m. ação ou prática de pensar o design. Porto Alegre: Bookman, 2011.\n2- BOMFIM, G. A. Metodologia para desenvolvimento de projetos. João Pessoa: Editora Universitária/UFPB, 1995.\n3- BONSIEPE, G; KELLNER, P; POESSNECKER, H. Metodologia experimental: desenho industrial. Brasília: CNPq/Coordenação editorial. 1984.\n4- MUNARI, Bruno. Das coisas nascem coisas. São Paulo, Ed. Martins Fontes. 2008.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV112",
+       "BAVX36"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV314",
+      "Nome": "Projeto Comunicação Visual C",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenvolvimento de projetos de Comunicação Visual com grau de complexidade superior, abrangendo projetos completos tanto na vertente do ?Design da Informação e Comunicação? como do ?Design da Imagem narrativa?.\n",
+       "BibliografiaBasica": "1- AMBROSE, Gavin; HARRIS, Paul. Design thinking: s.m. ação ou prática de pensar o design. Porto Alegre: Bookman, 2011.\n2- BOMFIM, G. A. Metodologia para desenvolvimento de projetos. João Pessoa: Editora Universitária/UFPB, 1995.\n3- BONSIEPE, G; KELLNER, P; POESSNECKER, H. Metodologia experimental: desenho industrial. Brasília: CNPq/Coordenação editorial. 1984.\n4- MUNARI, Bruno. Das coisas nascem coisas. São Paulo, Ed. Martins Fontes. 2008.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV112",
+       "BAVX38"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV316",
+      "Nome": "Projeto Comunicação Visual E.",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenvolvimento de projetos de Comunicação Visual com grau de complexidade superior, abrangendo projetos completos tanto na vertente do ?Design da Informação e Comunicação? como do ?Design da Imagem narrativa?.\n",
+       "BibliografiaBasica": "1- AMBROSE, Gavin; HARRIS, Paul. Design thinking: s.m. ação ou prática de pensar o design. Porto Alegre: Bookman, 2011.\n2- BOMFIM, G. A. Metodologia para desenvolvimento de projetos. João Pessoa: Editora Universitária/UFPB, 1995.\n3- BONSIEPE, G; KELLNER, P; POESSNECKER, H. Metodologia experimental: desenho industrial. Brasília: CNPq/Coordenação editorial. 1984.\n4- MUNARI, Bruno. Das coisas nascem coisas. São Paulo, Ed. Martins Fontes. 2008.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV112",
+       "BAVX40"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV002",
+      "Nome": "Tóp Esp com Vis Design II",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Assuntos diversos relativos ao pensamento imagético - criador de apoio a formação profissional do comunicador visual design.\nBIBLIOGRAFIA BÁSICA: recomendada pelo coordenador da atividade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV004",
+      "Nome": "Tóp Esp com Vis Design IV",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Assuntos diversos relativos ao pensamento imagético - criador de apoio a formação profissional do comunicador visual design.\nBIBLIOGRAFIA BÁSICA: recomendada pelo coordenador da atividade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV006",
+      "Nome": "Tóp Esp com Vis Design VI",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Assuntos diversos relativos ao pensamento imagético - criador de apoio a formação profissional do comunicador visual design.\nBIBLIOGRAFIA BÁSICA: recomendada pelo coordenador da atividade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV008",
+      "Nome": "Tóp Esp com Vis Design VIII",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Assuntos diversos relativos ao pensamento imagético - criador de apoio a formação profissional do comunicador visual design.\nBIBLIOGRAFIA BÁSICA: recomendada pelo coordenador da atividade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV010",
+      "Nome": "Tóp Esp com Vis Design X",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Assuntos diversos relativos ao pensamento imagético - criador de apoio a formação profissional do comunicador visual design.\nBIBLIOGRAFIA BÁSICA: recomendada pelo coordenador da atividade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV012",
+      "Nome": "Tóp Esp com Vis Design XII",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Assuntos diversos relativos ao pensamento imagético - criador de apoio a formação profissional do comunicador visual design.\nBIBLIOGRAFIA BÁSICA: recomendada pelo coordenador da atividade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV014",
+      "Nome": "Tóp Esp com Vis Design XIV",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Assuntos diversos relativos ao pensamento imagético - criador de apoio a formação profissional do comunicador visual design.\nBIBLIOGRAFIA BÁSICA: recomendada pelo coordenador da atividade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV350",
+      "Nome": "Análise da Imagem D.",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Filosofias da imagem Tecnologia e ciência dos processos de criação da imagem e do texto como imagem.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV360",
+      "Nome": "Analise da Imagem B.",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Filosofias da imagem. Tecnologia e ciência dos processos de criação da imagem.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV201",
+      "Nome": "Foto-criação A.",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenvolvimento de experimentações na interface fotografia-arte.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV127",
+       "BAVX10"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV501",
+      "Nome": "Foto-criação C.",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenvolvimento de experimentações na interface fotografia-arte digital.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV127",
+       "BAVX10"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV362",
+      "Nome": "Tecn e Producao da Imagem B.",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Semiologia da imagem, imagem sequencial, fixação da imagem e sinais sonoros.\n",
+       "BibliografiaBasica": "1- BAIRON, S. Contato Imediato com Multimídia. Global Editora, São Paulo, 1995.\n2- JOHNSON, S. Cultura da Interface. Jorge Zahar Editor, Rio de Janeiro, 2001.\n3- MACHADO, A. Máquina e Imaginário. Edusp, São Paulo, 1993.\n4- PARENTE, A., Org. Imagem-Máquina. Editora 34, Rio de Janeiro, 1993.\n5- POPPER, F. Art of the Eletronic Age. Harry N. Abrams Inc. Publishers, Nova York, 1993.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV364",
+      "Nome": "Tecn e Producao da Imagem D.",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Semiologia da Imagem, Imagem sequencial, fixação da imagem e sinais sonoros.\n",
+       "BibliografiaBasica": "1- BAIRON, S. Contato Imediato com Multimídia. Global Editora, São Paulo, 1995.\n2- JOHNSON, S. Cultura da Interface. Jorge Zahar Editor, Rio de Janeiro, 2001.\n3- MACHADO, A. Máquina e Imaginário. Edusp, São Paulo, 1993.\n4- PARENTE, A., Org. Imagem-Máquina. Editora 34, Rio de Janeiro, 1993.\n5- POPPER, F. Art of the Eletronic Age. Harry N. Abrams Inc. Publishers, Nova York, 1993.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAVX20",
+      "Nome": "Laboratório de Foto-criação A.",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Prática dos conceitos adquiridos nas disciplinas de Foto-criação A,B,C.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV201(C)BAV201=BAV231"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAVX51",
+      "Nome": "Laboratório Foto-criação C",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Prática dos conceitos adquiridos nas disciplinas de FOTO-CRIAÇÃO A,B,C.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV501(C)"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAVX13",
+      "Nome": "Laboratório de Projeto B.",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Prática dos conceitos adquiridos nas disciplinas de Projeto em Comunicação Visual A.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV203(C)"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAVX15",
+      "Nome": "Laboratório de Projeto D.",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Prática dos conceitos adquiridos nas disciplinas de Projeto em Comunicação Visual A.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV205(C)"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAVX21",
+      "Nome": "Laboratório de Projeto A.",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Prática dos conceitos adquiridos nas disciplinas de Projeto A,B,C, D.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV221(C)"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAVX23",
+      "Nome": "Laboratório de Projeto C.",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Prática dos conceitos adquiridos nas disciplinas de Projetos A, B, C, D.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV223(C)"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAVX25",
+      "Nome": "Laboratório de Projeto E.",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Prática dos conceitos adquiridos nas disciplinas de Projetos A, B, C, D.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV225(C)"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAVX32",
+      "Nome": "Laboratório de Projeto B.",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Prática dos conceitos adquiridos nas disciplinas de Projeto A,B,C, D.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV303(C)BAV303=BAVX02"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAVX34",
+      "Nome": "Laboratório de Projeto D.",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Prática dos conceitos adquiridos nas disciplinas de Projeto A, B, C, D.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV305(C)"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAVX36",
+      "Nome": "Laboratório de Projeto A.",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Prática dos conceitos nas disciplinas de PROJETO A, B, C, D.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV312(C)"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAVX38",
+      "Nome": "Laboratório de Projeto C.",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Prática dos conceitos adquiridos nas disciplinas de Projeto A, B, C, D.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV314(C)"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAVX40",
+      "Nome": "Laboratório de Projeto E.",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Prática dos conceitos adquiridos nas disciplinas de Projeto A, B, C, D.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV316(C)"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAVX62",
+      "Nome": "Lab Experimentação Imagem B",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Prática dos conceitos adquiridos nas disciplinas de Tecnologia e Produção da Imagem B.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV362(C)"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAVX64",
+      "Nome": "Lab Experimentação Imagem D",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Prática dos conceitos adquiridos nas disciplinas de Tecnologia e Produção da Imagem D.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV364(C)"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV202",
+      "Nome": "Projeto Comunicação Visual A.",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenvolvimento de projetos de Comunicação Visual com grau de complexidade superior, abrangendo projetos completos tanto na vertente do ?Design da Informação e Comunicação? como do ?Design da Imagem narrativa?.\n",
+       "BibliografiaBasica": "1- AMBROSE, Gavin; HARRIS, Paul. Design thinking: s.m. ação ou prática de pensar o design. Porto Alegre: Bookman, 2011.\n2- BOMFIM, G. A. Metodologia para desenvolvimento de projetos. João Pessoa: Editora Universitária/UFPB, 1995.\n3- BONSIEPE, G; KELLNER, P; POESSNECKER, H. Metodologia experimental: desenho industrial. Brasília: CNPq/Coordenação editorial. 1984.\n4- MUNARI, Bruno. Das coisas nascem coisas. São Paulo, Ed. Martins Fontes. 2008\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV112"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV204",
+      "Nome": "Projeto Comunicação Visual C",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenvolvimento de projetos de Comunicação Visual com grau de complexidade superior, abrangendo projetos completos tanto na vertente do ?Design da Informação e Comunicação? como do ?Design da Imagem narrativa?.\n",
+       "BibliografiaBasica": "1- AMBROSE, Gavin; HARRIS, Paul. Design thinking: s.m. ação ou prática de pensar o design. Porto Alegre: Bookman, 2011.\n2- BOMFIM, G. A. Metodologia para desenvolvimento de projetos. João Pessoa: Editora Universitária/UFPB, 1995.\n3- BONSIEPE, G; KELLNER, P; POESSNECKER, H. Metodologia experimental: desenho industrial. Brasília: CNPq/Coordenação editorial. 1984.\n4- MUNARI, Bruno. Das coisas nascem coisas. São Paulo, Ed. Martins Fontes. 2008.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV112"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV206",
+      "Nome": "Projeto Comunicação Visual E.",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenvolvimento de projetos de Comunicação Visual com grau de complexidade superior, abrangendo projetos completos tanto na vertente do ?Design da Informação e Comunicação? como do ?Design da Imagem narrativa?.\n",
+       "BibliografiaBasica": "1- AMBROSE, Gavin; HARRIS, Paul. Design thinking: s.m. ação ou prática de pensar o design. Porto Alegre: Bookman, 2011.\n2- BOMFIM, G. A. Metodologia para desenvolvimento de projetos. João Pessoa: Editora Universitária/UFPB, 1995.\n3- BONSIEPE, G; KELLNER, P; POESSNECKER, H. Metodologia experimental: desenho industrial. Brasília: CNPq/Coordenação editorial. 1984.\n4- MUNARI, Bruno. Das coisas nascem coisas. São Paulo, Ed. Martins Fontes. 2008.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV112"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV222",
+      "Nome": "Projeto Comunicação Visual B",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenvolvimento de projetos de Comunicação Visual com grau de complexidade superior, abrangendo projetos completos tanto na vertente do ?Design da Informação e Comunicação? como do ?Design da Imagem narrativa?.\n",
+       "BibliografiaBasica": "1- AMBROSE, Gavin; HARRIS, Paul. Design thinking: s.m. ação ou prática de pensar o design. Porto Alegre: Bookman, 2011.\n2- BOMFIM, G. A. Metodologia para desenvolvimento de projetos. João Pessoa: Editora Universitária/UFPB, 1995.\n3- BONSIEPE, G; KELLNER, P; POESSNECKER, H. Metodologia experimental: desenho industrial. Brasília: CNPq/Coordenação editorial. 1984.\n4- MUNARI, Bruno. Das coisas nascem coisas. São Paulo, Ed. Martins Fontes. 2008.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV112"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV224",
+      "Nome": "Projeto Comunicação Visual D",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenvolvimento de projetos de Comunicação Visual com grau de complexidade superior, abrangendo projetos completos tanto na vertente do ?Design da Informação e Comunicação? como do ?Design da Imagem narrativa?.\n",
+       "BibliografiaBasica": "1- AMBROSE, Gavin; HARRIS, Paul. Design thinking: s.m. ação ou prática de pensar o design. Porto Alegre: Bookman, 2011.\n2- BOMFIM, G. A. Metodologia para desenvolvimento de projetos. João Pessoa: Editora Universitária/UFPB, 1995.\n3- BONSIEPE, G; KELLNER, P; POESSNECKER, H. Metodologia experimental: desenho industrial. Brasília: CNPq/Coordenação editorial. 1984.\n4- MUNARI, Bruno. Das coisas nascem coisas. São Paulo, Ed. Martins Fontes. 2008.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV112"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV302",
+      "Nome": "Projeto Comunicação Visual A.",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenvolvimento de projetos de Comunicação Visual com grau de complexidade superior, abrangendo projetos completos tanto na vertente do ?Design da Informação e Comunicação? como do ?Design da Imagem narrativa?.\n",
+       "BibliografiaBasica": "1- AMBROSE, Gavin; HARRIS, Paul. Design thinking: s.m. ação ou prática de pensar o design. Porto Alegre: Bookman, 2011.\n2- BOMFIM, G. A. Metodologia para desenvolvimento de projetos. João Pessoa: Editora Universitária/UFPB, 1995.\n3- BONSIEPE, G; KELLNER, P; POESSNECKER, H. Metodologia experimental: desenho industrial. Brasília: CNPq/Coordenação editorial. 1984.\n4- MUNARI, Bruno. Das coisas nascem coisas. São Paulo, Ed. Martins Fontes. 2008.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV112"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV304",
+      "Nome": "Projeto Comunicação Visual C",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenvolvimento de projetos de Comunicação Visual com grau de complexidade superior, abrangendo projetos completos tanto na vertente do ?Design da Informação e Comunicação? como do ?Design da Imagem narrativa?.\n",
+       "BibliografiaBasica": "1- AMBROSE, Gavin; HARRIS, Paul. Design thinking: s.m. ação ou prática de pensar o design. Porto Alegre: Bookman, 2011.\n2- BOMFIM, G. A. Metodologia para desenvolvimento de projetos. João Pessoa: Editora Universitária/UFPB, 1995.\n3- BONSIEPE, G; KELLNER, P; POESSNECKER, H. Metodologia experimental: desenho industrial. Brasília: CNPq/Coordenação editorial. 1984.\n4- MUNARI, Bruno. Das coisas nascem coisas. São Paulo, Ed. Martins Fontes. 2008.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV112"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV306",
+      "Nome": "Projeto Comunicação Visual E.",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Relação da Comunicação Visual com projetos de grau de complexidade superior, abrangendo projetos completos. Os projetos de PCV \"A\", ..., \"Z\", serão desenvolvidos sob o domínio da Comunicação Visual tanto na área de ênfase do \"Design da Informação e Comunicação\" como na de \"Design da Imagem narrativa e animação\".\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV112"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV313",
+      "Nome": "Projeto Comunicação Visual B",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenvolvimento de projetos de Comunicação Visual com grau de complexidade superior, abrangendo projetos completos tanto na vertente do ?Design da Informação e Comunicação? como do ?Design da Imagem narrativa?.\n",
+       "BibliografiaBasica": "1- AMBROSE, Gavin; HARRIS, Paul. Design thinking: s.m. ação ou prática de pensar o design. Porto Alegre: Bookman, 2011.\n2- BOMFIM, G. A. Metodologia para desenvolvimento de projetos. João Pessoa: Editora Universitária/UFPB, 1995.\n3- BONSIEPE, G; KELLNER, P; POESSNECKER, H. Metodologia experimental: desenho industrial. Brasília: CNPq/Coordenação editorial. 1984.\n4- MUNARI, Bruno. Das coisas nascem coisas. São Paulo, Ed. Martins Fontes. 2008.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV112"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV315",
+      "Nome": "Projeto Comunicação Visual D",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenvolvimento de projetos de Comunicação Visual com grau de complexidade superior, abrangendo projetos completos tanto na vertente do ?Design da Informação e Comunicação? como do ?Design da Imagem narrativa?.\n",
+       "BibliografiaBasica": "1- AMBROSE, Gavin; HARRIS, Paul. Design thinking: s.m. ação ou prática de pensar o design. Porto Alegre: Bookman, 2011.\n2- BOMFIM, G. A. Metodologia para desenvolvimento de projetos. João Pessoa: Editora Universitária/UFPB, 1995.\n3- BONSIEPE, G; KELLNER, P; POESSNECKER, H. Metodologia experimental: desenho industrial. Brasília: CNPq/Coordenação editorial. 1984.\n4- MUNARI, Bruno. Das coisas nascem coisas. São Paulo, Ed. Martins Fontes. 2008.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV112"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV001",
+      "Nome": "Tóp Esp com Vis Design I",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Assuntos diversos relativos ao pensamento imagético - criador de apoio a formação profissional do comunicador visual design.\nBIBLIOGRAFIA BÁSICA: recomendada pelo coordenador da atividade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV003",
+      "Nome": "Tóp Esp com Vis Design III",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Assuntos diversos relativos ao pensamento imagético - criador de apoio a formação profissional do comunicador visual design.\nBIBLIOGRAFIA BÁSICA: recomendada pelo coordenador da atividade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV005",
+      "Nome": "Tóp Esp com Vis Design V",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Assuntos diversos relativos ao pensamento imagético - criador de apoio a formação profissional do comunicador visual design.\nBIBLIOGRAFIA BÁSICA: recomendada pelo coordenador da atividade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV007",
+      "Nome": "Tóp Esp com Vis Design VII",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Assuntos diversos relativos ao pensamento imagético - criador de apoio a formação profissional do comunicador visual design.\nBIBLIOGRAFIA BÁSICA: recomendada pelo coordenador da atividade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV009",
+      "Nome": "Tóp Esp com Vis Design IX",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Assuntos diversos relativos ao pensamento imagético - criador de apoio a formação profissional do comunicador visual design.\nBIBLIOGRAFIA BÁSICA: recomendada pelo coordenador da atividade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV011",
+      "Nome": "Tóp Esp com Vis Design XI",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Assuntos diversos relativos ao pensamento imagético - criador de apoio a formação profissional do comunicador visual design.\nBIBLIOGRAFIA BÁSICA: recomendada pelo coordenador da atividade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV013",
+      "Nome": "Tóp Esp com Vis Design XIII",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Assuntos diversos relativos ao pensamento imagético - criador de apoio a formação profissional do comunicador visual design.\nBIBLIOGRAFIA BÁSICA: recomendada pelo coordenador da atividade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV015",
+      "Nome": "Tóp Esp com Vis Design Xv",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Assuntos diversos relativos ao pensamento imagético - criador de apoio a formação profissional do comunicador visual design.\nBIBLIOGRAFIA BÁSICA: recomendada pelo coordenador da atividade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     }
+    ],
+    "Disciplinas Optativas (Escolha Condicionada)": [
+     {
+      "Codigo": "BAF007",
+      "Nome": "Ilustração Científ Botânica II",
+      "Créditos": "3.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Caracterização dos grandes grupos vegetais. Tipos e campos de ação da IC. A IC como meio de comunicação. O Desenho como construção gráfica. Técnicas de representação para ilustração botânica.\n___BIBILIOGRAFIA BÁSICA___\n1) Arnheim, Rudolf - Arte e percepção visual: uma psicologia da visão criadora; São Paulo: Cengage Learning, 2019.\n2) Birch, H. - Ilustração botânica: técnicas para desenhar flores e plantas; São Paulo:\nGustavo Gili, 2019.\n3) Catálogos Centro Cultural Correios - Margareth Mee 100 anos de vida e obra. Rio de Janeiro, 2009.\n4) Hodges, E. R. S. - The Guild Handbook of Scientific Illustration; US: John Wiley &\nSons, 2003.\n5) King, Christabel. The Kew Book of Botanical Illustration; Great Britain: Search Press Ltda, 2015.\n6) Lopes, L., Castiñeira, M. I. (org). - II Anatomia de uma ilustração: os bastidores da ilustração científica; Palhoça: Ed. Unisul, 2016.\n7) Martín Roig, Gabriel - Fundamentos do Desenho Artístico. São Paulo: Martins Fontes Editora Ltda, 2007.\n8) Nascimento, Dulce. Plantas Brasileiras: a ilustração botânica de Dulce Nascimento. Rio de Janeiro: Batel, 2011.\n9) Raven, P. H. Evert, Ray, F, Eichhorn, S. E. - Biologia Vegetal. Marca: Guanabara Saúde Didático, 2014.\n10) Souza, V. C., Flores,T. B., Lorenzi, H. Introdução à botânica: morfologia. São Paulo: Instituto Plantarum de Estudos da Flora, 2013.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAF006"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAR481",
+      "Nome": "Ed Ambiental-preserv de Bens C",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Convenções adotadas (regulamentações de leis e procedimentos técnicos) para preservação de bens culturais, relacionados ao meio ambiente.\n___ BIBLIOGRAFIA RECOMENDADA ___\n1- LEI Nº9.605, DE 12 DE FEVEREIRO DE 1998 - Dispõe sobre as sanções penais e administrativas derivadas de condutas e atividades lesivas ao meio ambiente.\n2- DECRETO-LEI Nº 25, DE 30 DE NOVEMBRO DE 1937 - Organiza a proteção do patrimônio histórico e artístico nacional.\n3- INSTITUTO DO PATRIMÔNIO HISTÓRICO ARTÍSTICO NACIONAL. Cartas Patrimoniais. Brasília: IPHAN, 1995.\n4- Cadernos Técnicos IPHAN - publicações on line - http://portal.iphan.gov.br/- publicações.\n5- Manuais IPHAN - publicações on line - http://portal.iphan.gov.br/- publicações\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAWZ60",
+      "Nome": "Ativ Curricular Extensão - CVD",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "0",
+      "Extensão": "240",
+      "Informação": {
+       "Info": "Atuação em atividades registradas na Pró-reitoria de Extensão da UFRJ, como programas, projetos, cursos de extensão e eventos, coordenados por docentes do quadro permanente ou técnicos de carreira de nível superior na UFRJ.\n___  BIBLIOGRAFIA BÁSICA ___\nBibliografia recomendada pelo coordenador da atividade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAF006",
+      "Nome": "Ilustração Científ Botânica I",
+      "Créditos": "3.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A Ilustração Científica (IC). O naturalismo do século XIX. Ilustração botânica. Ilustração criativa artística. Nomenclatura e classificação botânicas. Forma e função dos órgãos vegetais. Os princípios básicos da ilustração botânica. Estudo das técnicas de representação.\n___BIBILIOGRAFIA BÁSICA___\n1) Arnheim, Rudolf - Arte e percepção visual: uma psicologia da visão criadora; São Paulo: Cengage Learning, 2019.\n2) Birch, H. - Ilustração botânica: técnicas para desenhar flores e plantas; São Paulo:\nGustavo Gili, 2019.\n3) Catálogos Centro Cultural Correios - Margareth Mee 100 anos de vida e obra. Rio de Janeiro, 2009.\n4) Hodges, E. R. S. - The Guild Handbook of Scientific Illustration; US: John Wiley &\nSons, 2003.\n5) King, Christabel. The Kew Book of Botanical Illustration; Great Britain: Search Press Ltda, 2015.\n6) Lopes, L., Castiñeira, M. I. (org). - II Anatomia de uma ilustração: os bastidores da ilustração científica; Palhoça: Ed. Unisul, 2016.\n7) Martín Roig, Gabriel - Fundamentos do Desenho Artístico. São Paulo: Martins Fontes Editora Ltda, 2007.\n8) Nascimento, Dulce. Plantas Brasileiras: a ilustração botânica de Dulce Nascimento. Rio de Janeiro: Batel, 2011.\n9) Raven, P. H. Evert, Ray, F, Eichhorn, S. E. - Biologia Vegetal. Marca: Guanabara Saúde Didático, 2014.\n10) Souza, V. C., Flores,T. B., Lorenzi, H. Introdução à botânica: morfologia. São Paulo: Instituto Plantarum de Estudos da Flora, 2013.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAH369",
+      "Nome": "Cultura Brasileira",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Formação da cultura brasileira. Etnicidade. Culturas tradicionais, regionais, populares e urbanas no Brasil.\n___ BIBLIOGRAFIA BÁSICA ___\n1- CANDIDO, A. O significado de Raízes do Brasil (Prefácio). In: HOLANDA, S. B. de. Raízes do Brasil. 26.ed. São Paulo: Cia. das Letras, 1995.\n2- FREYRE, G. Prefácio. Casa-grande & senzala: formação da família brasileira sob o regime da economia patriarcal. São Paulo: Global, 2005.\n3- DAMATTA, R. Notas sobre o racismo à brasileira. In: SOUZA, J. (Org) Multiculturalismo e racismo: uma comparação Brasil - Estados Unidos. Brasília: Paralelo, 1997.\n4- MICELI, S. Intelectuais e classe dirigente no Brasil (1920-1945). São Paulo: Difel, 1979.\n5- ROCHA, J. C. de C. As origens e equívocos da cordialidade brasileira. In: ___. O exílio do homem cordial. Rio de Janeiro: Editora do Museu Nacional, 2004.\n___ BIBLIOGRAFIA COMPLEMENTAR ____\n1- CANDIDO, A. Dialética da malandragem. Revista do Instituto de Estudos Brasileiros, São Paulo, v.8, p.67-89, 1970.\n2- FERNANDES, F. A integração do negro na sociedade de classes. São Paulo: Ática, 1978.\n3- HOLANDA, S. B. de. Raízes do Brasil. 26.ed. São Paulo: Cia. das Letras, 1995.\n4- ROMERO, S. Estudos sobre a poesia popular do Brasil. 2.ed. Petrópolis: Vozes, 1977.\n5- WISNIK, J. M. Veneno remédio: o futebol e o Brasil. São Paulo: Cia. das Letras, 2008.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAWE01",
+      "Nome": "Iniciação à Extensão",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "0",
+      "Extensão": "60",
+      "Informação": {
+       "Info": "Histórico da Extensão; Compreensão das referências históricas e institucionais para a extensão na Escola de Belas Artes, na UFRJ, no Brasil e no mundo; mapeamento das ações de extensão da UFRJ e da EBA; leitura do projeto Extensão sem Fronteiras EsF EBA 200; apresentação de seminários; participação no planejamento e realização das ações do Extensão sem Fronteiras EsF EBA 200.\n___BIBLIOGRAFIA BÁSICA___\n1- ARAUJO Filho, Targino, THIOLLENT, Michel Jean-Marie, , Metodologia para Projetos de Extensão: Apresentação e Discussão. Universidade Federal de São Carlos (UFSCar) ? São Carlos: Cubo Multimídia, 2008.\n2- DEBORD, Guy, A sociedade do espetáculo. Comentários sobre a sociedade do espetáculo. Rio de Janeiro, Contraponto, 1997.\n3- DUQUE-ARRAZOLA, Laura Susana, THIOLLENT, Jean Marie Michel (org.), Metodologia, teoria do conhecimento e pesquisa-ação. Textos selecionados e apresentados. Belém, UFPA, Instituto de Ciências Sociais Aplicadas, 2014.\n4- LÉVY, Pierre, Cibercultura. São Paulo, Editora 34, 1999.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEB599",
+      "Nome": "Est da Líng Bras de Sinais I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Nomes próprios; pronomes pessoais; demonstrativos; possessivos; locativos em sentenças simples do tipo pergunta-resposta com \"o que\" e \"quem\" e outros vocábulos básicos; numerais; quantidade; topicalização; flexão verbal; flexão de negação; expressões faciais e corporais; percepção visual; conversação; diálogos; textos: LIBRAS, cultura e comunidade surda.\n",
+       "BibliografiaBasica": "1) BRITO, L. F. Por uma gramática de língua de sinais. Rio de Janeiro: Tempo Brasileiro, 1995.\n2) FELIPE, T.; MONTEIRO, M. S. LIBRAS em contexto. Curso Básico. Brasília: Ministério da Educação e do Desporto/Secretaria de Educação Especial, 2001.\n3) GESSER, A. Libras - Que língua é essa? Crença e preconceitos em torno da língua de sinais e da realidade surda. Florianópolis: Parábola, 2009.\n4) STROBEL, K. L. As imagens do outro sobre a cultura surda. Florianópolis: EdUFSC, 2008.\n",
+       "BibliografiaComplementar": "1) PIMENTA, Nelson e QUADROS, Ronice Muller. Curso de Libras I, LSB Vídeo, volume I, Iniciante, 2006 e 3a ed., 2008.\n2) Dicionário Enciclopédico Ilustrado Triíngue da Língua de Sinais Brasileira ? vol 1 e vol. 2 Site: www.acessobrasil.org.brasil\n3) Dicionário da Língua Brasileira de Sinais, INES, versão, 2.0, ano 2006.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     }
+    ]
+   },
+   "obrigatorias": 35,
+   "eletivas": 82,
+   "ano": "2009/1 a 2023/2"
+  },
+  {
+   "materias": {
+    "1º Período": [
+     {
+      "Codigo": "BAV101",
+      "Nome": "Metodologia e Percepção Visual",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Ambiente digital e sua aplicação nos campos de conhecimento da área de Comunicação Visual Design.\n",
+       "BibliografiaBasica": "1- GUERRA, Fabiana; TERCE, Mirela. Design Digital: conceitos e aplicações para websites, vídeos e webgames. São Paulo: Editora Senac, 2019.\n2- JENKINS, Henry. Cultura da Convergência. 2.ed. São Paulo: Aleph, 2009.\n3- MANOVICH, Lev. Novas Mídias como Tecnologia e Ideia: dez definições. In: LEÃO, Lucia. O Chip e o Caleidoscópio: Reflexões sobre as novas mídias. São Paulo:\nSenac, 2005.\n4- ROYO, Javier. Design Digital. São Paulo: Rosari, 2008.\n5- SANTAELLA, Lucia. Mídias locativas: a internet móvel de lugares e coisas. Revista FAMECOS, n. 35, p. 95-101, 2008.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAV103",
+      "Nome": "Planej e Processos Gráficos",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conhecimento das técnicas gráficas e das etapas de pré-produção. Papel, tipografia e imagem. Preparação do arquivo para impressão.\nBibliografia Recomendada\n1) AMBROSE, Gavin & HARRIS, Paul. Cor. Porto Alegre: Bookman.\n2) ARAÚJO, Emanuel. A construção do livro: princípios da técnica de editoração. Rio de Janeiro: Lexikon, [2008]. BANN, David. Novo Manual de Produção Gráfica. Porto Alegre: Bookman, 2011.\n3) BOMENY, Maria Helena Werneck. Os Manuais de desenho da escrita. São Paulo: Ateliê Editorial, 2010.\n4) BRINGHURST, Robert. Elementos do Estilo Tipográfico. São Paulo: Ed. Cosac & Naify. 2005.\n5) FERNANDES, Rê. Da cor magenta. Rio de Janeiro: Synergia, 2008.\n6) FRASER, Tom & BANKS, Adam. O essencial da cor no Design. São Paulo: Senac, 2011.\n7) LUPTON, Ellen. Pensar com tipos. São Paulo: Cosac Naify, 2006.\n8) LUPTON, Ellen. Fundamentos do design. São Paulo: Cosac Naify, 2008.\n9) MÜLLER-BROCKMANN, Josef. Sistemas de retículas. Barcelona: Editora Gustavo Gili, 2012.\n10) SAUTÉ, Enric. Aldo Manuzio: Editor. Tipógrafo. Livreiro. São Paulo: Ateliê Editorial, 2004.\n11) TSCHICHOLD, Jan. A Forma do Livro. São Paulo: Ateliê Editorial, 2007.\n12) VILLAS-BOAS, André. Produção Gráfica para Designers. Rio de Janeiro: 2AB, 2010.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAV105",
+      "Nome": "Teoria do Design I",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "As abordagens filosóficas no tratamento das questões envolvendo a concepção e o projeto de Design.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAWX08",
+      "Nome": "Atividades Complementares",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Participação em projetos de pesquisa aprovados pelas instâncias competentes da UFRJ e/ou agências de fomento. Publicação de artigos científicos em periódicos indexados, nacionais ou internacionais. Participação em eventos científicos do Design e áreas afins no âmbito interno e externo à UFRJ. Realização de atividades de monitoria junto às disciplinas do curso de graduação Comunicação Visual Design.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAF109",
+      "Nome": "Desenho I - CVD",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Análise teórico - prático da representação bidimensional. Observação visual e táctil de formas e estruturas simples naturais e artificiais. Meios técnicos de expressão.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 17:00",
+        "professor": "HENRIQUE CESAR DA COSTA SOUZA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAV102",
+      "Nome": "Projeto de Design Gráfico I",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenvolvimento de projetos sob o domínio do Design Gráfico introduzindo o estudante no campo projetual, na prática de representação e conceitos de leiautes, através de metodologias específicas de projeto e aspectos ergonômicos para projetos em Comunicação Visual.\n",
+       "BibliografiaBasica": "1- ARNHEIM, R. Arte e Percepção Visual. São Paulo: EDUSP, 1980.\n2- BERGER, J. Modos de ver. Rio de Janeiro: Rocco, 1999.\n3- HURLBURT, A. Layout: o design da página impressa. S. Paulo: Livraria Nobel, 1989.\n4- DONDIS, D.A. - Sintaxe da Linguagem Visual. São Paulo: Martins Fontes, 1999.\n5- GOMES FILHO, João. Ergonomia do objeto: sistema técnico de leitura ergonômica. São Paulo: Escrituras: 2003.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAV104",
+      "Nome": "Design e Gênese I",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Genesis do Design sua evolução sócio-histórico. Influências do pensamento e da criação do homem através dos objetos como informação e comunicação.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAV107",
+      "Nome": "Oficina Básica CVD",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAWZ60",
+      "Nome": "Ativ Curricular Extensão - CVD",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "0",
+      "Extensão": "240",
+      "Informação": {
+       "Info": "Atuação em atividades registradas na Pró-reitoria de Extensão da UFRJ, como programas, projetos, cursos de extensão e eventos, coordenados por docentes do quadro permanente ou técnicos de carreira de nível superior na UFRJ.\n___  BIBLIOGRAFIA BÁSICA ___\nBibliografia recomendada pelo coordenador da atividade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "2º Período": [
+     {
+      "Codigo": "BAV112",
+      "Nome": "Projeto de Design Gráfico II",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Tipografia como linguagem visual. Projetos de Design Gráfico envolvendo a tipografia como imagem e objeto de estudo através de metodologias específicas de projetos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV102"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAV114",
+      "Nome": "Design e Gênese II",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Genesis do Design sua evolução sócio-histórico. Influências do pensamento e da criação do homem através da Comunicação Visual.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV104"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAV116",
+      "Nome": "Oficina Gráfica Digital",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceituação do ambiente digital e sua aplicação nos campos de conhecimento da área de Comunicação Visual Design.\n",
+       "BibliografiaBasica": "1. AZEVEDO, Eduardo, CONCI, Aura. Computação Gráfica, Teoria e Prática. Rio de Janeiro: Campus. 2003.\n2. COUPLAND, Ken. Webworks: navigation. Gloucester: Rockport Publishers Inc. 2000.\n3. GÖTZ, Verushka. Color & Type for the Screen. Switzerland: Rotovision. 1998.\n4. ______________. Retículas para internet y otros soportes digitales. Barcelona: Index Books, 2002.\n5. GUIMARÃES, Angelo de Moura e LAGES, Newton Alberto de Castilho. Introdução à Ciência da Computação. Rio de Janeiro, LTC ? Livros Técnicos e Científicos\nEditora SA, 1985.\n6. MONTEIRO, Rodrigo Fernandes, OLIVEIRA, Jefferson G., BARBUTO, Cláudio. Tecnologia da Informação para Todos. Bei, São Paulo, 2002.\n7. PEREIRA, Jairo Willian ? Dominando o Desktop Publishing ? Florianópolis, Bookstore, 2002.\n8. PERSIANO, Ronaldo de Souza Marinho e OLIVEIRA, Antônio Alberto Fernandes. Introdução à Computação Gráfica. Rio de Janeiro: LTC ? Livros Técnicos e\nCientíficos Editora Ltda, 1988.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAVX10",
+      "Nome": "Laboratório de Fotografia",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Prática dos conceitos adquiridos nas disciplinas de Fotografia.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV127(C)BAV127=BAV121"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAF110",
+      "Nome": "Desenho II - CVD",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Análise teórico - prático da representação bidimensional. Observação visual e táctil de formas e estruturas simples naturais e artificiais. Meios técnicos de expressão.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 12:00",
+        "professor": "ARY PIMENTA DE MORAES FILHO"
+       }
+      ],
+      "Requisitos": [
+       "BAF109"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAV113",
+      "Nome": "Tecnologias Artes Gráficas",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conhecimento do universo da produção gráfica, pré-impressão, pós-impressão e suas tecnologias e suportes.\n___Bibliografia Recomendada___\n1) David Bann, Novo Manual de Produção Gráfica, Ed. Bookman 2010.\n2) Gavin Ambrose e Paul Harris, Impressão e Acabamento, Ed. Bookman 2009.\n3) Tom Frase,O Guia Completo da Cor, Ed Senac, 2007.\n4) Ellen Lupton, Pensar com Tipos. Ed. Cosac Naify, 2006.\n5) Ellen Lupton, Novos Fundamentos do Design. Ed. Cosac Naify, 2008. Revistas de Design: Arc Design, ABCDesign, Computer Arts Brasil.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV103"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAV115",
+      "Nome": "Teoria do Design II",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Aprofundamento das abordagens filosóficas no tratamento das questões envolvendo a concepção e o projeto de Design.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAV127",
+      "Nome": "Fotografia",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Familiarizar o discente com o processo fotográfico, equipamentos habituais. Desenvolvimento da expressão fotográfica analógica e digital.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAVX10(C)"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "3º Período": [
+     {
+      "Codigo": "BAV207",
+      "Nome": "Mídia Digital I",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceituação do ambiente digital e sua aplicação nos campos de conhecimento da área de Comunicação Visual Design.\n",
+       "BibliografiaBasica": "1- AZEVEDO, Eduardo, CONCI, Aura. Computação Gráfica, Teoria e Prática. Rio de Janeiro: Campus. 2003.\n2- GÖTZ, Verushka. Color & Type for the Screen. Switzerland: Rotovision. 1998.\n3- ______________. Retículas para internet y otros soportes digitales. Barcelona: Index Books, 2002.\n4- PERSIANO, Ronaldo de Souza Marinho e OLIVEIRA, Antônio Alberto Fernandes. Introdução à Computação Gráfica. Rio de Janeiro: LTC ? Livros Técnicos e\nCientíficos Editora Ltda, 1988.\n5- ROYO, Javier. Design Digital. São Paulo: Rosari, 2008\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAV209",
+      "Nome": "Design e Repres Bidimensional",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Processos de representação das formas geométricas básicas. O espaço métrico euclidiano. Métodos descritivos. Suprfícies de revolução. Poliédricas; representação projetiva (sistema de Monge), inserções. Problemas de aplicação.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAF208",
+      "Nome": "Modelo Vivo - CVD",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A figura humana e sua representação gráfica. Proporções. Anatomia. Movimento. Realização de croquis.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 17:00",
+        "professor": "ARY PIMENTA DE MORAES FILHO"
+       }
+      ],
+      "Requisitos": [
+       "BAF110"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAV208",
+      "Nome": "Design e Gênese A-",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "História e filosofia das Artes Visuais. Influências estéticas através do pensamento e da criação do homem nos períodos da história da arte.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV114"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAV319",
+      "Nome": "Metodologia de Pesquisa em CVD",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Discussão das questões teórico-metodológicas envolvidas na pesquisa em Comunicação Visual. Estuda o processo de criação projetual e desenvolve estratégias para a reflexão do projeto de comunicação Visual. Analisa os métodos de pesquisa no campo do Design e das Artes Visuais e as técnicas de elaboração de trabalhos acadêmicos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "4º Período": [
+     {
+      "Codigo": "BAV218",
+      "Nome": "Design e Gênese B",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "História e filosofia das Artes Visuais. Influências estéticas através do pensamento e da criação do homem nos períodos da história da arte.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV208"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAV217",
+      "Nome": "Mídia Digital II",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Ambiente digital e sua aplicação nos campos de conhecimento da área de Comunicação Visual Design. Modelagem tridimensional positiva, negativa de ambientes.\n",
+       "BibliografiaBasica": "1- GUERRA, Fabiana; TERCE, Mirela. Design Digital: conceitos e aplicações para websites, vídeos e webgames. São Paulo: Editora Senac, 2019.\n2- JENKINS, Henry. Cultura da Convergência. 2.ed. São Paulo: Aleph, 2009.\n3- MANOVICH, Lev. Novas Mídias como Tecnologia e Ideia: dez definições. In: LEÃO, Lucia. O Chip e o Caleidoscópio: Reflexões sobre as novas mídias. São Paulo:\nSenac, 2005.\n4- ROYO, Javier. Design Digital. São Paulo: Rosari, 2008.\n5- SANTAELLA, Lucia. Mídias locativas: a internet móvel de lugares e coisas. Revista FAMECOS, n. 35, p. 95-101, 2008\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAV219",
+      "Nome": "Gráfica Tridimensional",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Expor conhecimentos de natureza gráfica que envolva a bidimensionalidade e tridimensionalidade, segundo aspectos técnicos e compositivos que estejam relacionados à Comunicação Visual. Instrumentos, materiais e normas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV209"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "5º Período": [
+     {
+      "Codigo": "BAV308",
+      "Nome": "Design e Marketing",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo dos conceitos básicos de economia, dos meios de produção, do mercado, do consumo e dos  processos existentes para equilibrar estas forças.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "6º Período": [
+     {
+      "Codigo": "BAV318",
+      "Nome": "Design e Prática Profissional",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O mercado do Design. Planejamento, produção e ferramentas do cotidiano profissional do Design e suas relações administrativas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAV317",
+      "Nome": "Teoria do Design III",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "As relações socio-culturais que envolvem a imagem e o objeto de Design na sociedade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "7º Período": [
+     {
+      "Codigo": "BAV472",
+      "Nome": "Iniciação à Pesquisa",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Pesquisa preliminar e desenvolvimento experimental de projeto de conteúdo específico no campo da Comunicação Visual Design.\n",
+       "BibliografiaBasica": "1- Notas de aulas.\n2- Bibliografia específica para cada projeto específico.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "8º Período": [
+     {
+      "Codigo": "BAVX08",
+      "Nome": "Laboratório de Graduação",
+      "Créditos": "5.0",
+      "Teórica": "0",
+      "Prática": "255",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Pesquisa e trabalho experimental relacionado ao Projeto de Graduação em Comunicação Visual Design.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAVK02(C)"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAVK02",
+      "Nome": "Trab Conclusão de Curso - CVD",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Pesquisa e desenvolvimento experimental de projeto na área da comunicação imagética, acompanhado de Monografia de conteúdo específico no campo da Comunicação Visual design.\n",
+       "BibliografiaBasica": "1) Notas de aulas;\n2) Bibliografia específica para cada projeto.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV112",
+       "BAV317",
+       "BAV318",
+       "BAV319",
+       "BAV472"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "Disciplinas Optativas (Escolha Restrita)": [
+     {
+      "Codigo": "BAV352",
+      "Nome": "Analise da Imagem A.",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Filosofia da imagem. Tecnologia e ciência dos processos de criação da imagem.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV482",
+      "Nome": "Análise da Imagem C.",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Filosofias da imagem. Tecnologia e ciência dos procesos de criação da imagem.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV500",
+      "Nome": "Foto-criação B.",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenvolvimento de experimentações na interface fotografia-arte.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV127",
+       "BAVX10"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV361",
+      "Nome": "Tecn e Producao da Imagem A.",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Semiologia da Imagem, Imagem sequencial, fixação da imagem e sinais sonoros.\n",
+       "BibliografiaBasica": "1- BAIRON, S. Contato Imediato com Multimídia. Global Editora, São Paulo, 1995.\n2- JOHNSON, S. Cultura da Interface. Jorge Zahar Editor, Rio de Janeiro, 2001.\n3- MACHADO, A. Máquina e Imaginário. Edusp, São Paulo, 1993.\n4- PARENTE, A., Org. Imagem-Máquina. Editora 34, Rio de Janeiro, 1993.\n5- POPPER, F. Art of the Eletronic Age. Harry N. Abrams Inc. Publishers, Nova York, 1993.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV363",
+      "Nome": "Tecn e Producao da Imagem C.",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Semiologia da Imagem, Imagem sequencial, fixação da imagem e sinais sonoros.\n",
+       "BibliografiaBasica": "1- BAIRON, S. Contato Imediato com Multimídia. Global Editora, São Paulo, 1995.\n2- JOHNSON, S. Cultura da Interface. Jorge Zahar Editor, Rio de Janeiro, 2001.\n3- MACHADO, A. Máquina e Imaginário. Edusp, São Paulo, 1993.\n4- PARENTE, A., Org. Imagem-Máquina. Editora 34, Rio de Janeiro, 1993.\n5- POPPER, F. Art of the Eletronic Age. Harry N. Abrams Inc. Publishers, Nova York, 1993\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV365",
+      "Nome": "Tecn e Producao da Imagem E.",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Semiologia da Imagem, Imagem sequencial, fixação da imagem e sinais sonoros.\n",
+       "BibliografiaBasica": "1- BAIRON, S. Contato Imediato com Multimídia. Global Editora, São Paulo, 1995.\n2- JOHNSON, S. Cultura da Interface. Jorge Zahar Editor, Rio de Janeiro, 2001.\n3- MACHADO, A. Máquina e Imaginário. Edusp, São Paulo, 1993.\n4- PARENTE, A., Org. Imagem-Máquina. Editora 34, Rio de Janeiro, 1993.\n5- POPPER, F. Art of the Eletronic Age. Harry N. Abrams Inc. Publishers, Nova York, 1993.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAVX50",
+      "Nome": "Laboratório Foto-criação B.",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Prática dos conceitos adquiridos nas disciplinas de FOTO-CRIAÇÃO A,B,C.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV500(C)"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV020",
+      "Nome": "Projeto Comunicação Visual A.",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenvolvimento de projetos de Comunicação Visual com grau de complexidade superior, abrangendo projetos completos tanto na vertente do ?Design da Informação e Comunicação? como do ?Design da Imagem narrativa?.\n",
+       "BibliografiaBasica": "1- AMBROSE, Gavin; HARRIS, Paul. Design thinking: s.m. ação ou prática de pensar o design. Porto Alegre: Bookman, 2011.\n2- BOMFIM, G. A. Metodologia para desenvolvimento de projetos. João Pessoa: Editora Universitária/UFPB, 1995.\n3- BONSIEPE, G; KELLNER, P; POESSNECKER, H. Metodologia experimental: desenho industrial. Brasília: CNPq/Coordenação editorial. 1984.\n4- MUNARI, Bruno. Das coisas nascem coisas. São Paulo, Ed. Martins Fontes. 2008\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV112",
+       "BAV319"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV022",
+      "Nome": "Projeto Comunicação Visual C.",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenvolvimento de projetos de Comunicação Visual com grau de complexidade superior, abrangendo projetos completos tanto na vertente do ?Design da Informação e Comunicação? como do ?Design da Imagem narrativa?.\n",
+       "BibliografiaBasica": "1- AMBROSE, Gavin; HARRIS, Paul. Design thinking: s.m. ação ou prática de pensar o design. Porto Alegre: Bookman, 2011.\n2- BOMFIM, G. A. Metodologia para desenvolvimento de projetos. João Pessoa: Editora Universitária/UFPB, 1995.\n3- BONSIEPE, G; KELLNER, P; POESSNECKER, H. Metodologia experimental: desenho industrial. Brasília: CNPq/Coordenação editorial. 1984.\n4- MUNARI, Bruno. Das coisas nascem coisas. São Paulo, Ed. Martins Fontes. 2008.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV112",
+       "BAV319"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV024",
+      "Nome": "Projeto Comunicação Visual E.",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenvolvimento de projetos de Comunicação Visual com grau de complexidade superior, abrangendo projetos completos tanto na vertente do ?Design da Informação e Comunicação? como do ?Design da Imagem narrativa?.\n",
+       "BibliografiaBasica": "1- AMBROSE, Gavin; HARRIS, Paul. Design thinking: s.m. ação ou prática de pensar o design. Porto Alegre: Bookman, 2011.\n2- BOMFIM, G. A. Metodologia para desenvolvimento de projetos. João Pessoa: Editora Universitária/UFPB, 1995.\n3- BONSIEPE, G; KELLNER, P; POESSNECKER, H. Metodologia experimental: desenho industrial. Brasília: CNPq/Coordenação editorial. 1984.\n4- MUNARI, Bruno. Das coisas nascem coisas. São Paulo, Ed. Martins Fontes. 2008.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV112",
+       "BAV319"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV026",
+      "Nome": "Projeto Comunicação Visual G.",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenvolvimento de projetos de Comunicação Visual com grau de complexidade superior, abrangendo projetos completos tanto na vertente do ?Design da Informação e Comunicação? como do ?Design da Imagem narrativa?.\n",
+       "BibliografiaBasica": "1- AMBROSE, Gavin; HARRIS, Paul. Design thinking: s.m. ação ou prática de pensar o design. Porto Alegre: Bookman, 2011.\n2- BOMFIM, G. A. Metodologia para desenvolvimento de projetos. João Pessoa: Editora Universitária/UFPB, 1995.\n3- BONSIEPE, G; KELLNER, P; POESSNECKER, H. Metodologia experimental: desenho industrial. Brasília: CNPq/Coordenação editorial. 1984.\n4- MUNARI, Bruno. Das coisas nascem coisas. São Paulo, Ed. Martins Fontes. 2008.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV112",
+       "BAV319"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV028",
+      "Nome": "Projeto Comunicação Visual I.",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenvolvimento de projetos de Comunicação Visual com grau de complexidade superior, abrangendo projetos completos tanto na vertente do ?Design da Informação e Comunicação? como do ?Design da Imagem narrativa?.\n",
+       "BibliografiaBasica": "1- AMBROSE, Gavin; HARRIS, Paul. Design thinking: s.m. ação ou prática de pensar o design. Porto Alegre: Bookman, 2011.\n2- BOMFIM, G. A. Metodologia para desenvolvimento de projetos. João Pessoa: Editora Universitária/UFPB, 1995.\n3- BONSIEPE, G; KELLNER, P; POESSNECKER, H. Metodologia experimental: desenho industrial. Brasília: CNPq/Coordenação editorial. 1984.\n4- MUNARI, Bruno. Das coisas nascem coisas. São Paulo, Ed. Martins Fontes. 2008.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV112",
+       "BAV319"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV030",
+      "Nome": "Projeto Comunicação Visual K.",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenvolvimento de projetos de Comunicação Visual com grau de complexidade superior, abrangendo projetos completos tanto na vertente do ?Design da Informação e Comunicação? como do ?Design da Imagem narrativa?.\n",
+       "BibliografiaBasica": "1- AMBROSE, Gavin; HARRIS, Paul. Design thinking: s.m. ação ou prática de pensar o design. Porto Alegre: Bookman, 2011.\n2- BOMFIM, G. A. Metodologia para desenvolvimento de projetos. João Pessoa: Editora Universitária/UFPB, 1995.\n3- BONSIEPE, G; KELLNER, P; POESSNECKER, H. Metodologia experimental: desenho industrial. Brasília: CNPq/Coordenação editorial. 1984.\n4- MUNARI, Bruno. Das coisas nascem coisas. São Paulo, Ed. Martins Fontes. 2008.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV112",
+       "BAV319"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV032",
+      "Nome": "Projeto Comunicação Visual M.",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenvolvimento de projetos de Comunicação Visual com grau de complexidade superior, abrangendo projetos completos tanto na vertente do ?Design da Informação e Comunicação? como do ?Design da Imagem narrativa?.\n",
+       "BibliografiaBasica": "1- AMBROSE, Gavin; HARRIS, Paul. Design thinking: s.m. ação ou prática de pensar o design. Porto Alegre: Bookman, 2011.\n2- BOMFIM, G. A. Metodologia para desenvolvimento de projetos. João Pessoa: Editora Universitária/UFPB, 1995.\n3- BONSIEPE, G; KELLNER, P; POESSNECKER, H. Metodologia experimental: desenho industrial. Brasília: CNPq/Coordenação editorial. 1984.\n4- MUNARI, Bruno. Das coisas nascem coisas. São Paulo, Ed. Martins Fontes. 2008.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV112",
+       "BAV319"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV034",
+      "Nome": "Projeto Comunicação Visual O.",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Relação da Comunicação Visual com projetos de grau de complexidade superior, abrangendo projetos completos. Os projetos de PCV \"A\", ..., \"Z\", serão desenvolvidos sob o domínio da Comunicação Visual tanto na área de ênfase do \"Design da Informação e Comunicação\" como na de \"Design da Imagem narrativa e animação\".\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV112",
+       "BAV319"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV036",
+      "Nome": "Projeto Comunicação Visual Q.",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenvolvimento de projetos de Comunicação Visual com grau de complexidade superior, abrangendo projetos completos tanto na vertente do ?Design da Informação e Comunicação? como do ?Design da Imagem narrativa?.\n",
+       "BibliografiaBasica": "1- AMBROSE, Gavin; HARRIS, Paul. Design thinking: s.m. ação ou prática de pensar o design. Porto Alegre: Bookman, 2011.\n2- BOMFIM, G. A. Metodologia para desenvolvimento de projetos. João Pessoa: Editora Universitária/UFPB, 1995.\n3- BONSIEPE, G; KELLNER, P; POESSNECKER, H. Metodologia experimental: desenho industrial. Brasília: CNPq/Coordenação editorial. 1984.\n4- MUNARI, Bruno. Das coisas nascem coisas. São Paulo, Ed. Martins Fontes. 2008.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV112",
+       "BAV319"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV038",
+      "Nome": "Projeto Comunicação Visual S.",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenvolvimento de projetos de Comunicação Visual com grau de complexidade superior, abrangendo projetos completos tanto na vertente do ?Design da Informação e Comunicação? como do ?Design da Imagem narrativa?.\n",
+       "BibliografiaBasica": "1- AMBROSE, Gavin; HARRIS, Paul. Design thinking: s.m. ação ou prática de pensar o design. Porto Alegre: Bookman, 2011.\n2- BOMFIM, G. A. Metodologia para desenvolvimento de projetos. João Pessoa: Editora Universitária/UFPB, 1995.\n3- BONSIEPE, G; KELLNER, P; POESSNECKER, H. Metodologia experimental: desenho industrial. Brasília: CNPq/Coordenação editorial. 1984.\n4- MUNARI, Bruno. Das coisas nascem coisas. São Paulo, Ed. Martins Fontes. 2008.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV112",
+       "BAV319"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV001",
+      "Nome": "Tóp Esp com Vis Design I",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Assuntos diversos relativos ao pensamento imagético - criador de apoio a formação profissional do comunicador visual design.\nBIBLIOGRAFIA BÁSICA: recomendada pelo coordenador da atividade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV003",
+      "Nome": "Tóp Esp com Vis Design III",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Assuntos diversos relativos ao pensamento imagético - criador de apoio a formação profissional do comunicador visual design.\nBIBLIOGRAFIA BÁSICA: recomendada pelo coordenador da atividade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV005",
+      "Nome": "Tóp Esp com Vis Design V",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Assuntos diversos relativos ao pensamento imagético - criador de apoio a formação profissional do comunicador visual design.\nBIBLIOGRAFIA BÁSICA: recomendada pelo coordenador da atividade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV007",
+      "Nome": "Tóp Esp com Vis Design VII",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Assuntos diversos relativos ao pensamento imagético - criador de apoio a formação profissional do comunicador visual design.\nBIBLIOGRAFIA BÁSICA: recomendada pelo coordenador da atividade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV009",
+      "Nome": "Tóp Esp com Vis Design IX",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Assuntos diversos relativos ao pensamento imagético - criador de apoio a formação profissional do comunicador visual design.\nBIBLIOGRAFIA BÁSICA: recomendada pelo coordenador da atividade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV011",
+      "Nome": "Tóp Esp com Vis Design XI",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Assuntos diversos relativos ao pensamento imagético - criador de apoio a formação profissional do comunicador visual design.\nBIBLIOGRAFIA BÁSICA: recomendada pelo coordenador da atividade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV013",
+      "Nome": "Tóp Esp com Vis Design XIII",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Assuntos diversos relativos ao pensamento imagético - criador de apoio a formação profissional do comunicador visual design.\nBIBLIOGRAFIA BÁSICA: recomendada pelo coordenador da atividade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV015",
+      "Nome": "Tóp Esp com Vis Design Xv",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Assuntos diversos relativos ao pensamento imagético - criador de apoio a formação profissional do comunicador visual design.\nBIBLIOGRAFIA BÁSICA: recomendada pelo coordenador da atividade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV350",
+      "Nome": "Análise da Imagem D.",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Filosofias da imagem Tecnologia e ciência dos processos de criação da imagem e do texto como imagem.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV360",
+      "Nome": "Analise da Imagem B.",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Filosofias da imagem. Tecnologia e ciência dos processos de criação da imagem.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV201",
+      "Nome": "Foto-criação A.",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenvolvimento de experimentações na interface fotografia-arte.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV127",
+       "BAVX10"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV501",
+      "Nome": "Foto-criação C.",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenvolvimento de experimentações na interface fotografia-arte digital.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV127",
+       "BAVX10"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV362",
+      "Nome": "Tecn e Producao da Imagem B.",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Semiologia da imagem, imagem sequencial, fixação da imagem e sinais sonoros.\n",
+       "BibliografiaBasica": "1- BAIRON, S. Contato Imediato com Multimídia. Global Editora, São Paulo, 1995.\n2- JOHNSON, S. Cultura da Interface. Jorge Zahar Editor, Rio de Janeiro, 2001.\n3- MACHADO, A. Máquina e Imaginário. Edusp, São Paulo, 1993.\n4- PARENTE, A., Org. Imagem-Máquina. Editora 34, Rio de Janeiro, 1993.\n5- POPPER, F. Art of the Eletronic Age. Harry N. Abrams Inc. Publishers, Nova York, 1993.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV364",
+      "Nome": "Tecn e Producao da Imagem D.",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Semiologia da Imagem, Imagem sequencial, fixação da imagem e sinais sonoros.\n",
+       "BibliografiaBasica": "1- BAIRON, S. Contato Imediato com Multimídia. Global Editora, São Paulo, 1995.\n2- JOHNSON, S. Cultura da Interface. Jorge Zahar Editor, Rio de Janeiro, 2001.\n3- MACHADO, A. Máquina e Imaginário. Edusp, São Paulo, 1993.\n4- PARENTE, A., Org. Imagem-Máquina. Editora 34, Rio de Janeiro, 1993.\n5- POPPER, F. Art of the Eletronic Age. Harry N. Abrams Inc. Publishers, Nova York, 1993.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAVX20",
+      "Nome": "Laboratório de Foto-criação A.",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Prática dos conceitos adquiridos nas disciplinas de Foto-criação A,B,C.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV201(C)"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAVX51",
+      "Nome": "Laboratório Foto-criação C.",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Prática dos conceitos adquiridos nas disciplinas de FOTO-CRIAÇÃO A,B,C.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV501(C)"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV021",
+      "Nome": "Projeto Comunicação Visual B.",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenvolvimento de projetos de Comunicação Visual com grau de complexidade superior, abrangendo projetos completos tanto na vertente do ?Design da Informação e Comunicação? como do ?Design da Imagem narrativa?.\n",
+       "BibliografiaBasica": "1- AMBROSE, Gavin; HARRIS, Paul. Design thinking: s.m. ação ou prática de pensar o design. Porto Alegre: Bookman, 2011.\n2- BOMFIM, G. A. Metodologia para desenvolvimento de projetos. João Pessoa: Editora Universitária/UFPB, 1995.\n3- BONSIEPE, G; KELLNER, P; POESSNECKER, H. Metodologia experimental: desenho industrial. Brasília: CNPq/Coordenação editorial. 1984.\n4- MUNARI, Bruno. Das coisas nascem coisas. São Paulo, Ed. Martins Fontes. 2008.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV112",
+       "BAV319"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV023",
+      "Nome": "Projeto Comunicação Visual D.",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenvolvimento de projetos de Comunicação Visual com grau de complexidade superior, abrangendo projetos completos tanto na vertente do ?Design da Informação e Comunicação? como do ?Design da Imagem narrativa?.\n",
+       "BibliografiaBasica": "1- AMBROSE, Gavin; HARRIS, Paul. Design thinking: s.m. ação ou prática de pensar o design. Porto Alegre: Bookman, 2011.\n2- BOMFIM, G. A. Metodologia para desenvolvimento de projetos. João Pessoa: Editora Universitária/UFPB, 1995.\n3- BONSIEPE, G; KELLNER, P; POESSNECKER, H. Metodologia experimental: desenho industrial. Brasília: CNPq/Coordenação editorial. 1984.\n4- MUNARI, Bruno. Das coisas nascem coisas. São Paulo, Ed. Martins Fontes. 2008\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV112",
+       "BAV319"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV025",
+      "Nome": "Projeto Comunicação Visual F.",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenvolvimento de projetos de Comunicação Visual com grau de complexidade superior, abrangendo projetos completos tanto na vertente do ?Design da Informação e Comunicação? como do ?Design da Imagem narrativa?.\n",
+       "BibliografiaBasica": "1- AMBROSE, Gavin; HARRIS, Paul. Design thinking: s.m. ação ou prática de pensar o design. Porto Alegre: Bookman, 2011.\n2- BOMFIM, G. A. Metodologia para desenvolvimento de projetos. João Pessoa: Editora Universitária/UFPB, 1995.\n3- BONSIEPE, G; KELLNER, P; POESSNECKER, H. Metodologia experimental: desenho industrial. Brasília: CNPq/Coordenação editorial. 1984.\n4- MUNARI, Bruno. Das coisas nascem coisas. São Paulo, Ed. Martins Fontes. 2008.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV112",
+       "BAV319"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV027",
+      "Nome": "Projeto Comunicação Visual H.",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenvolvimento de projetos de Comunicação Visual com grau de complexidade superior, abrangendo projetos completos tanto na vertente do ?Design da Informação e Comunicação? como do ?Design da Imagem narrativa?.\n",
+       "BibliografiaBasica": "1- AMBROSE, Gavin; HARRIS, Paul. Design thinking: s.m. ação ou prática de pensar o design. Porto Alegre: Bookman, 2011.\n2- BOMFIM, G. A. Metodologia para desenvolvimento de projetos. João Pessoa: Editora Universitária/UFPB, 1995.\n3- BONSIEPE, G; KELLNER, P; POESSNECKER, H. Metodologia experimental: desenho industrial. Brasília: CNPq/Coordenação editorial. 1984.\n4- MUNARI, Bruno. Das coisas nascem coisas. São Paulo, Ed. Martins Fontes. 2008.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV112",
+       "BAV319"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV029",
+      "Nome": "Projeto Comunicação Visual J.",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenvolvimento de projetos de Comunicação Visual com grau de complexidade superior, abrangendo projetos completos tanto na vertente do ?Design da Informação e Comunicação? como do ?Design da Imagem narrativa?.\n",
+       "BibliografiaBasica": "1- AMBROSE, Gavin; HARRIS, Paul. Design thinking: s.m. ação ou prática de pensar o design. Porto Alegre: Bookman, 2011.\n2- BOMFIM, G. A. Metodologia para desenvolvimento de projetos. João Pessoa: Editora Universitária/UFPB, 1995.\n3- BONSIEPE, G; KELLNER, P; POESSNECKER, H. Metodologia experimental: desenho industrial. Brasília: CNPq/Coordenação editorial. 1984.\n4- MUNARI, Bruno. Das coisas nascem coisas. São Paulo, Ed. Martins Fontes. 2008.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV112",
+       "BAV319"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV031",
+      "Nome": "Projeto Comunicação Visual L.",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenvolvimento de projetos de Comunicação Visual com grau de complexidade superior, abrangendo projetos completos tanto na vertente do ?Design da Informação e Comunicação? como do ?Design da Imagem narrativa?.\n",
+       "BibliografiaBasica": "1- AMBROSE, Gavin; HARRIS, Paul. Design thinking: s.m. ação ou prática de pensar o design. Porto Alegre: Bookman, 2011.\n2- BOMFIM, G. A. Metodologia para desenvolvimento de projetos. João Pessoa: Editora Universitária/UFPB, 1995.\n3- BONSIEPE, G; KELLNER, P; POESSNECKER, H. Metodologia experimental: desenho industrial. Brasília: CNPq/Coordenação editorial. 1984.\n4- MUNARI, Bruno. Das coisas nascem coisas. São Paulo, Ed. Martins Fontes. 2008.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV112",
+       "BAV319"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV033",
+      "Nome": "Projeto Comunicação Visual N-",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenvolvimento de projetos de Comunicação Visual com grau de complexidade superior, abrangendo projetos completos tanto na vertente do ?Design da Informação e Comunicação? como do ?Design da Imagem narrativa?.\n",
+       "BibliografiaBasica": "1- AMBROSE, Gavin; HARRIS, Paul. Design thinking: s.m. ação ou prática de pensar o design. Porto Alegre: Bookman, 2011.\n2- BOMFIM, G. A. Metodologia para desenvolvimento de projetos. João Pessoa: Editora Universitária/UFPB, 1995.\n3- BONSIEPE, G; KELLNER, P; POESSNECKER, H. Metodologia experimental: desenho industrial. Brasília: CNPq/Coordenação editorial. 1984.\n4- MUNARI, Bruno. Das coisas nascem coisas. São Paulo, Ed. Martins Fontes. 2008.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV112",
+       "BAV319"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV035",
+      "Nome": "Projeto Comunicação Visual P.",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenvolvimento de projetos de Comunicação Visual com grau de complexidade superior, abrangendo projetos completos tanto na vertente do ?Design da Informação e Comunicação? como do ?Design da Imagem narrativa?.\n",
+       "BibliografiaBasica": "1- AMBROSE, Gavin; HARRIS, Paul. Design thinking: s.m. ação ou prática de pensar o design. Porto Alegre: Bookman, 2011.\n2- BOMFIM, G. A. Metodologia para desenvolvimento de projetos. João Pessoa: Editora Universitária/UFPB, 1995.\n3- BONSIEPE, G; KELLNER, P; POESSNECKER, H. Metodologia experimental: desenho industrial. Brasília: CNPq/Coordenação editorial. 1984.\n4- MUNARI, Bruno. Das coisas nascem coisas. São Paulo, Ed. Martins Fontes. 2008.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV112",
+       "BAV319"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV037",
+      "Nome": "Projeto Comunicação Visual R.",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenvolvimento de projetos de Comunicação Visual com grau de complexidade superior, abrangendo projetos completos tanto na vertente do ?Design da Informação e Comunicação? como do ?Design da Imagem narrativa?.\n",
+       "BibliografiaBasica": "1- AMBROSE, Gavin; HARRIS, Paul. Design thinking: s.m. ação ou prática de pensar o design. Porto Alegre: Bookman, 2011.\n2- BOMFIM, G. A. Metodologia para desenvolvimento de projetos. João Pessoa: Editora Universitária/UFPB, 1995.\n3- BONSIEPE, G; KELLNER, P; POESSNECKER, H. Metodologia experimental: desenho industrial. Brasília: CNPq/Coordenação editorial. 1984.\n4- MUNARI, Bruno. Das coisas nascem coisas. São Paulo, Ed. Martins Fontes. 2008.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV112",
+       "BAV319"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV039",
+      "Nome": "Projeto Comunicação Visual T.",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenvolvimento de projetos de Comunicação Visual com grau de complexidade superior, abrangendo projetos completos tanto na vertente do ?Design da Informação e Comunicação? como do ?Design da Imagem narrativa?.\n",
+       "BibliografiaBasica": "1- AMBROSE, Gavin; HARRIS, Paul. Design thinking: s.m. ação ou prática de pensar o design. Porto Alegre: Bookman, 2011.\n2- BOMFIM, G. A. Metodologia para desenvolvimento de projetos. João Pessoa: Editora Universitária/UFPB, 1995.\n3- BONSIEPE, G; KELLNER, P; POESSNECKER, H. Metodologia experimental: desenho industrial. Brasília: CNPq/Coordenação editorial. 1984.\n4- MUNARI, Bruno. Das coisas nascem coisas. São Paulo, Ed. Martins Fontes. 2008.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV112",
+       "BAV319"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV002",
+      "Nome": "Tóp Esp com Vis Design II",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Assuntos diversos relativos ao pensamento imagético - criador de apoio a formação profissional do comunicador visual design.\nBIBLIOGRAFIA BÁSICA: recomendada pelo coordenador da atividade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV004",
+      "Nome": "Tóp Esp com Vis Design IV",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Assuntos diversos relativos ao pensamento imagético - criador de apoio a formação profissional do comunicador visual design.\nBIBLIOGRAFIA BÁSICA: recomendada pelo coordenador da atividade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV006",
+      "Nome": "Tóp Esp com Vis Design VI",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Assuntos diversos relativos ao pensamento imagético - criador de apoio a formação profissional do comunicador visual design.\nBIBLIOGRAFIA BÁSICA: recomendada pelo coordenador da atividade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV008",
+      "Nome": "Tóp Esp com Vis Design VIII",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Assuntos diversos relativos ao pensamento imagético - criador de apoio a formação profissional do comunicador visual design.\nBIBLIOGRAFIA BÁSICA: recomendada pelo coordenador da atividade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV010",
+      "Nome": "Tóp Esp com Vis Design X",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Assuntos diversos relativos ao pensamento imagético - criador de apoio a formação profissional do comunicador visual design.\nBIBLIOGRAFIA BÁSICA: recomendada pelo coordenador da atividade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV012",
+      "Nome": "Tóp Esp com Vis Design XII",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Assuntos diversos relativos ao pensamento imagético - criador de apoio a formação profissional do comunicador visual design.\nBIBLIOGRAFIA BÁSICA: recomendada pelo coordenador da atividade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV014",
+      "Nome": "Tóp Esp com Vis Design XIV",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Assuntos diversos relativos ao pensamento imagético - criador de apoio a formação profissional do comunicador visual design.\nBIBLIOGRAFIA BÁSICA: recomendada pelo coordenador da atividade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     }
+    ],
+    "Disciplinas Optativas (Escolha Condicionada)": [
+     {
+      "Codigo": "BAF009",
+      "Nome": "Ilustr Edit: Livros Narr Imag",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo de fenômenos compositivos como: forma; narrativa (imagem sequencial); estilo e sentido imaginativo, presentes na ilustração de livros. Elaboração de peças gráficas orientadas à produção do livro ilustrado e habilitação para a compreensão da visualidade de caráter literário.\nBIBILIOGRAFIA BÁSICA\n1- HASLAM, Andrew. O Livro e o Designer II - Como Criar e Produzir Livros. São Paulo: Rosari, 2010. ISBN-13: 978-8588343986\n2- MUNARI, Bruno. Das Coisas Nascem Coisas. São Paulo: Martins Fontes, 2002. ISBN: 8533608756\n3- OLIVEIRA, Rui de. Pelos Jardins Boboli: Reflexões Sobre a Arte de Ilustrar Livros para Crianças e Jovens. Rio de Janeiro: Nova Fronteira, 2008. ISBN-13: 978-8520920732\n4- SALISBURY, Martin; STYLES, Morag. Livro Infantil Ilustrado: A Arte da Narrativa Visual. São Paulo: Rosari, 2013. ISBN-13: 978-8580500295.\n5- VAN DER LINDEN, Sophie. Para Ler o Livro Ilustrado. São Paulo: Cosac Naify, 2011. ISBN- 13: 978-8575039373\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAF110"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAR481",
+      "Nome": "Ed Ambiental-preserv de Bens C",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Convenções adotadas (regulamentações de leis e procedimentos técnicos) para preservação de bens culturais, relacionados ao meio ambiente.\n___ BIBLIOGRAFIA RECOMENDADA ___\n1- LEI Nº9.605, DE 12 DE FEVEREIRO DE 1998 - Dispõe sobre as sanções penais e administrativas derivadas de condutas e atividades lesivas ao meio ambiente.\n2- DECRETO-LEI Nº 25, DE 30 DE NOVEMBRO DE 1937 - Organiza a proteção do patrimônio histórico e artístico nacional.\n3- INSTITUTO DO PATRIMÔNIO HISTÓRICO ARTÍSTICO NACIONAL. Cartas Patrimoniais. Brasília: IPHAN, 1995.\n4- Cadernos Técnicos IPHAN - publicações on line - http://portal.iphan.gov.br/- publicações.\n5- Manuais IPHAN - publicações on line - http://portal.iphan.gov.br/- publicações\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NEP101",
+      "Nome": "Teoria Direitos Fundamentais",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Discussão de uma teoria dos direitos fundamentais com base nas normas positivadas constitucionais, no direito comparado e na jurisprudência, proporcionando ao estudante uma visão sobre alcance e limites da proteção e promoção desses direitos.\n___BIBLIOGRAFIA BÁSICA___\n1) ABRAMOVAY, Ricardo. Direitos fundamentais das minorias (sob o enfoque da Lei nº9.882/99). Leme: Anhanguera Editora, 2010.\n2) ALEXY, Robert. Teoria de los derechos fundamentales, trad. Ernesto Garzón Valdés. Madrid: Centro de Estudios Constitucionales, 1993.\n3) ANDRADE, José Carlos Vieira de. Os direitos fundamentais na Constituição portuguesa de 1976 . 3ª ed. Coimbra: Almedina, 2007.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) BULOS, Uádi Lammêgo. Curso de Direito Constitucional. 3. ed. São Paulo: Saraiva: 2008.\n2) CANOTILHO, José Joaquim Gomes. Direito constitucional e teoria da constituição, 7ª ed. Coimbra: Almedina, 2003.\n3) SILVA, José Afonso da. Curso de Direito Constitucional Positivo. 31. ed. São Paulo: Malheiros, 2008.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NEP120",
+      "Nome": "Fund Polít Públicas Dir Hum",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Discussão sobre a necessidade e a possibilidade de uma fundamentação filosófica das políticas públicas, para a construção de argumentos racionais na sua implementação e identificação dos principais desafios para sua afirmação e realização. Apresentação de algumas propostas contemporâneas de fundamentação filosófica das políticas em direitos humanos.\n___BIBLIOGRAFIA BÁSICA___\n1) BARBALET, J. M. A Cidadania. Lisboa: Editorial Estampa, 1989.\n2) BAUMAN, Zygmunt. Comunidade: a busca da segurança no mundo atual. Rio de Janeiro: Jorge Zahar, 2003.\n3) BECKER, Howard S. Métodos de pesquisa em ciências sociais. São Paulo: Hucitec, 1999.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) BELLONI I, Magalhães h. / Souza L; Metodologia de avaliação em políticas públicas. São Paulo (Cortez) 2003.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NEP140",
+      "Nome": "Tóp Esp Polít Públ Dir Hum II",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Discussão de temas específicos em políticas públicas e direitos humanos com base no processo histórico e nas críticas contemporâneas, proporcionando ao aluno uma visão sobre o alcance e limites da sua proteção e promoção.\n___BIBLIOGRAFIA BÁSICA___\n1) BECKER, Howard S. Métodos de pesquisa em ciências sociais. São Paulo: Hucitec, 1999.\n2) BELLONI I.; Magalhães H.; Souza L; Metodologia de avaliação em políticas públicas. São Paulo (Cortez) 2003.\n3) BOBBIO, Norberto. A era dos direitos. Rio de Janeiro: Campus, 1992.\n4) BOURGUIGNON, Jussara Ayres; OLIVEIRA Jr., Constantino Ribeiro de (Orgs.).  Pesquisa em ciências sociais: interfaces, debates e metodologias. Ponta Grossa (PR): Todapalavra, 2012.\n5) BRASIL, Programa Nacional de Direitos Humanos , PNDH II, Fernando Henrique Cardoso,  Brasília, Presidência da República, Secretaria da Comunicação Social, Ministério da Justiça, 2002.\n6) BUCCI, Maria Paula Dalari Et. al. (Orgs.). Direitos Humanos e políticas públicas. São Paulo: Pólis, 2001.\n7) FAORO, Raymundo. Os donos do poder. Rio de Janeiro, Editora Globo, 1958.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NEP142",
+      "Nome": "Tóp Esp Polít Públ Dir Hum IV",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Discussão de temas específicos em políticas públicas e direitos humanos com base no processo histórico e nas críticas contemporâneas, proporcionando ao aluno uma visão sobre o alcance e limites da sua proteção e promoção.\n___BIBLIOGRAFIA BÁSICA___\n1) BECKER, Howard S. Métodos de pesquisa em ciências sociais. São Paulo: Hucitec, 1999.\n2) BELLONI I.; Magalhães H.; Souza L; Metodologia de avaliação em políticas públicas. São Paulo (Cortez) 2003.\n3) BOBBIO, Norberto. A era dos direitos. Rio de Janeiro: Campus, 1992.\n4) BOURGUIGNON, Jussara Ayres; OLIVEIRA Jr., Constantino Ribeiro de (Orgs.).  Pesquisa em ciências sociais: interfaces, debates e metodologias. Ponta Grossa (PR): Todapalavra, 2012.\n5) BRASIL, Programa Nacional de Direitos Humanos , PNDH II, Fernando Henrique Cardoso,  Brasília, Presidência da República, Secretaria da Comunicação Social, Ministério da Justiça, 2002.\n6) BUCCI, Maria Paula Dalari Et. al. (Orgs.). Direitos Humanos e políticas públicas. São Paulo: Pólis, 2001.\n7) FAORO, Raymundo. Os donos do poder. Rio de Janeiro, Editora Globo, 1958.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NEP144",
+      "Nome": "Tóp Esp Polít Públ Dir Hum VI",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Discussão de temas específicos em políticas públicas e direitos humanos com base no processo histórico e nas críticas contemporâneas, proporcionando ao aluno uma visão sobre o alcance e limites da sua proteção e promoção.\n___BIBLIOGRAFIA BÁSICA___\n1) BECKER, Howard S. Métodos de pesquisa em ciências sociais. São Paulo: Hucitec, 1999.\n2) BELLONI I.; Magalhães H.; Souza L; Metodologia de avaliação em políticas públicas. São Paulo (Cortez) 2003.\n3) BOBBIO, Norberto. A era dos direitos. Rio de Janeiro: Campus, 1992.\n4) BOURGUIGNON, Jussara Ayres; OLIVEIRA Jr., Constantino Ribeiro de (Orgs.).  Pesquisa em ciências sociais: interfaces, debates e metodologias. Ponta Grossa (PR): Todapalavra, 2012.\n5) BRASIL, Programa Nacional de Direitos Humanos , PNDH II, Fernando Henrique Cardoso,  Brasília, Presidência da República, Secretaria da Comunicação Social, Ministério da Justiça, 2002.\n6) BUCCI, Maria Paula Dalari Et. al. (Orgs.). Direitos Humanos e políticas públicas. São Paulo: Pólis, 2001.\n7) FAORO, Raymundo. Os donos do poder. Rio de Janeiro, Editora Globo, 1958.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NEP146",
+      "Nome": "Dir Hum, Gênero e Sexualidades",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Teorias e práticas feministas sobre as diversidades de gênero, sexualidade, raça, etnia, identidade de gênero, geracional, deficiência, entre outras. Relação interseccional dessas diversidades com os direitos humanos. Avanços históricos dos direitos e políticas públicas nesses campos e dos movimentos sociais em prol da identidade de gênero e diversidade sexual. Limites e possibilidades da aplicação da interseccionalidade de gênero, sexualidade e diversidades nas políticas públicas.\n___BIBLIOGRAFIA BÁSICA___\n1) GONZALES, Lélia. Racismo e sexismo na cultura brasileira. Em Revista Ciências Sociais Hoje. Anpocs. 1984, p. 223-224.\n2) SEGATO, Rita Laura. Gênero e Colonialidade: Em busca de chaves de leitura e de um vocabulário estratégico descolonial. Tradução de Rose Barboza, Revista E-Cadernos, Publicação Trimestral, n. 18 ? Epistemologias feministas: ao encontro da crítica radical. Universidade de Coimbra, Centro de Estudos Sociais (CES). 2012.\n3) SEVERI, Fabiana Cristina. O gênero da justiça e a problemática da efetivação dos direitos humanos das mulheres. Revista Direito e Práxis. Rio de Janeiro, Vol. 07, N.13, 2016, p. 81-115.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NEP148",
+      "Nome": "Dir Hum, Pens Negro e Racismo",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Pensamento social negro; Teorias raciais; Racismo; Teorias Etnico-raciais; Relações Étnico Raciais; Movimentos sociais negro; Políticas antirracistas e Direitos Humanos.\n___BIBLIOGRAFIA BÁSICA___\n1) FANON, Franz. Os Condenados da terra. Rio de Janeiro, Editora Civilização Brasileira, 1979.\n2) FERNANDES, Florestan. A integração do negro na sociedade de classes: o legado da \"raça branca\" (volume I). São Paulo, Dominus Editora/Editora da Universidade de São Paulo, 1965.\n3) SKIDMORE, Thomaz E. Preto no branco: raça e nacionalidade no pensamento brasileiro. Rio de Janeiro, Paz e Terra, 1976.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NEP150",
+      "Nome": "Dir Hum e Saúde",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Compreensão dos determinantes sociais da saúde e seus nexos com os direitos humanos nos contextos brasileiros, internacionais e nas interações com o campo da saúde global. Aprofundamento dos conceitos teóricos sobre o corpo e poder além das dimensões sociológicas, políticas e históricas das intervenções sanitárias e das desigualdades com um foco especial na intersecção dos direitos humanos, saúde, gênero, raça, sexualidade, etnia, deficiência, classe e território.\n___BIBLIOGRAFIA BÁSICA___\n1) Sorj, B. A democracia inesperada. Cidadania, direitos humanos e desigualdade social. Rio de Janeiro: Jorge Zahar Editor. 2004;\n2) Tomasevski, K. Aids e Direitos Humanos. In Aids no Mundo, Mann, J. Tarantola, D.J.M., Netter, T.W. (org). Rio de Janeiro: ABIA, IMS-UERJ, Relume Dumará. 1992. p.242-243;\n3) Ventura, M, et al. Direitos sexuais e direitos reprodutivos na perspectiva dos direitos humanos ? Síntese para gestores, legisladores e operadores do direito. Advocacia, 2003, Rio de Janeiro, p. 53.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NEP152",
+      "Nome": "Dir Hum, Conflit e Territórios",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Abordagem sobre o direito de povos à autodeterminação versus integridade territorial, a secessão e declaração de independência, direitos dos povos indígenas e autóctones, das minorias nacionais, étnicas, religiosas, linguísticas vistos pela ótica de direitos humanos.\n___BIBLIOGRAFIA BÁSICA___\n1) ALVES, José Augusto Lindgren. Os Direitos Humanos como tema global. São Paulo: Perspectiva, 2003.\n2) ANJOS, Alberico Teixeira dos. Autodeterminação, sua dimensão territorial e direitos humanos. Rio de Janeiro: Gramma, 2010.\n3) HUNTINGTON, SAMUEL P. O Choque de Civilizações e a Recomposição da Ordem Mundial. Editora Objetiva Ltda., 1996.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NEP154",
+      "Nome": "Dir Hum e Sistema de Justiça",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Análise crítica dos mecanismos de acesso à justiça para os grupos e populações vulnerabilizadas no Brasil e na América Latina. O acesso à Justiça será apresentando sob a consideração das suas contradições, limitações e obstáculos, bem como das suas possibilidades de superação. O direito além de ser um instrumento de controle social, em algumas situações, pode ser um mecanismo de transformação da sociedade e pressão junto ao sistema de justiça. Portanto, buscar-se-á oferecer elementos teóricos que sejam capazes de desvelar temas com relevância contemporânea como o papel do Estado, violência, estado de exceção, movimentos sociais, judicialização, dentre outros. Finalmente, haverá reflexões sobre justiça de transição, justiça restaurativa e sobre as formas coletivas e alternativas de acesso à justiça para a promoção e proteção de Direitos Humanos e Sociais.\n___BIBLIOGRAFIA BÁSICA___\n1) BOAVENTURA, S.S. et al (org). Repressão e Memória Política no Contexto Ibero- Brasileiro: estudos sobre Brasil, Guatemala, Moçambique, Peru e Portugal. Brasília:\nMinistério da Justiça, Comissão de Anistia; Portugal: Universidade de Coimbra, Centro de Estudos Sociais, 2010.\n2) LIMA Jr. Jayme Benvenuto (org.). Manual de Direitos Humanos Internacionais Humanos. Acesso aos Sistemas global e Regional de Proteção dos Direitos Humanos.\n3) MAUS, Ingeborg. Judiciário como superego da sociedade: o papel da atividade jurisprudencial na sociedade órfã. http://www.direitocontemporaneo.com/wpcontent/uploads/2014/02/JUDICIARIO-COMO-SUPEREGO-DA-SOCIEDADE.pdf\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NEP156",
+      "Nome": "Dir Hum, Globalização e Tecnol",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Abordagem de temas referentes as mudanças estruturais e institucionais acontecidas no sistema econômico e cultural internacional, a ordem social contemporânea, as variedades de capitalismo e o papel da tecnologia sobre a configuração dos Direitos Humanos.\n___BIBLIOGRAFIA BÁSICA___\n1) CASTELLS, MANUEL. Outra economia é possível: Cultura e economia em tempos de crise. Editora Zahar, 2019, Rio de Janeiro.\n2) ZUBOFF, SHOSHANA. The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power, Editora Profile Books, 2019, USA.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NEP158",
+      "Nome": "Dir Hum e Polít Internacional",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Abordagem sobre o direito humanitário durante as Guerras Mundiais, direitos humanos versus crimes de guerra e de humanidade, a justiça penal internacional, a segurança humana e a responsabilidade de proteger, bem como direitos humanos de migrantes, refugiados, deslocados e a sua proteção internacional no âmbito de conflitos internacionais e intra-estatais.\n___BIBLIOGRAFIA BÁSICA___\n1) RAMOS, A. C. 1999. A responsabilidade internacional do Estado por violação de Direitos Humanos. São Paulo. Tese (Doutorado em Direito). Universidade de São Paulo;\n2) BULL, H. 2002. A sociedade anárquica. São Paulo: Instituto de Pesquisa de Relações Internacionais;\n3) BEETHAM, D. 1999. Democracy and Human Rights. Cambridge: Polity\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NEP160",
+      "Nome": "Dir Hum na América Latina",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Compreensão por meio do estudo histórico de formação dos Estados Nação modernos a partir do processo colonial, em especial, na América Latina. Compreensão da articulação das estruturas capitalista, racial e heteropatriarcal na formação dos contextos de violência e desigualdades sociais. As conquistas realizadas por meio dos movimentos sociais e constitucionais a partir da década de 1980. Debate da conjuntura atual de violação dos direitos conquistados.\n___BIBLIOGRAFIA BÁSICA___\n1) GONZALEZ, Lélia. A categoria político-cultural de amefricanidade. In: Tempo Brasileiro. Rio de Janeiro, Nº. 92/93 (jan./jun.). 1988b, p. 69-82.\n2) SANTOS, Boaventura de Sousa; MENESES, Maria Paula (Orgs.). Epistemologias do Sul. São Paulo: Cortez Editora, 2010.\n3) TODOROV, Tzvetan. A conquista da América - A questão do Outro. trad. Beatriz Perrone Moisés. 4ª edição. São Paulo: WMF Martins Fontes, 2010. (Biblioteca do pensamento moderno).\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAF008",
+      "Nome": "Ilustr Editorial: Periódicos",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenvolvimento de projetos de ilustração com complexidade variada, relacionados a periódicos impressos e digitais, compreendendo os gêneros opinativo, informativo e de entretenimento.\nBIBILIOGRAFIA BÁSICA\n1- EISNER, Will. Narrativas gráficas. São Paulo: Devir, 2005. ISBN: 85-7532164-1\n2- SCHEINBERGER, Felix. Ser Ilustrador. São Paulo: Gustavo Gili, 2018. ISBN: 978-85-8452-139-5\n3- SIMBLET, Sarah. Desenho. São Paulo: Ambientes & Costumes Editora, 2015. ISBN: 978-85-61749-11-8\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAF110"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAH369",
+      "Nome": "Cultura Brasileira",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Formação da cultura brasileira. Etnicidade. Culturas tradicionais, regionais, populares e urbanas no Brasil.\n___ BIBLIOGRAFIA BÁSICA ___\n1- CANDIDO, A. O significado de Raízes do Brasil (Prefácio). In: HOLANDA, S. B. de. Raízes do Brasil. 26.ed. São Paulo: Cia. das Letras, 1995.\n2- FREYRE, G. Prefácio. Casa-grande & senzala: formação da família brasileira sob o regime da economia patriarcal. São Paulo: Global, 2005.\n3- DAMATTA, R. Notas sobre o racismo à brasileira. In: SOUZA, J. (Org) Multiculturalismo e racismo: uma comparação Brasil - Estados Unidos. Brasília: Paralelo, 1997.\n4- MICELI, S. Intelectuais e classe dirigente no Brasil (1920-1945). São Paulo: Difel, 1979.\n5- ROCHA, J. C. de C. As origens e equívocos da cordialidade brasileira. In: ___. O exílio do homem cordial. Rio de Janeiro: Editora do Museu Nacional, 2004.\n___ BIBLIOGRAFIA COMPLEMENTAR ____\n1- CANDIDO, A. Dialética da malandragem. Revista do Instituto de Estudos Brasileiros, São Paulo, v.8, p.67-89, 1970.\n2- FERNANDES, F. A integração do negro na sociedade de classes. São Paulo: Ática, 1978.\n3- HOLANDA, S. B. de. Raízes do Brasil. 26.ed. São Paulo: Cia. das Letras, 1995.\n4- ROMERO, S. Estudos sobre a poesia popular do Brasil. 2.ed. Petrópolis: Vozes, 1977.\n5- WISNIK, J. M. Veneno remédio: o futebol e o Brasil. São Paulo: Cia. das Letras, 2008.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEB599",
+      "Nome": "Est da Líng Bras de Sinais I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Nomes próprios; pronomes pessoais; demonstrativos; possessivos; locativos em sentenças simples do tipo pergunta-resposta com \"o que\" e \"quem\" e outros vocábulos básicos; numerais; quantidade; topicalização; flexão verbal; flexão de negação; expressões faciais e corporais; percepção visual; conversação; diálogos; textos: LIBRAS, cultura e comunidade surda.\n",
+       "BibliografiaBasica": "1) BRITO, L. F. Por uma gramática de língua de sinais. Rio de Janeiro: Tempo Brasileiro, 1995.\n2) FELIPE, T.; MONTEIRO, M. S. LIBRAS em contexto. Curso Básico. Brasília: Ministério da Educação e do Desporto/Secretaria de Educação Especial, 2001.\n3) GESSER, A. Libras - Que língua é essa? Crença e preconceitos em torno da língua de sinais e da realidade surda. Florianópolis: Parábola, 2009.\n4) STROBEL, K. L. As imagens do outro sobre a cultura surda. Florianópolis: EdUFSC, 2008.\n",
+       "BibliografiaComplementar": "1) PIMENTA, Nelson e QUADROS, Ronice Muller. Curso de Libras I, LSB Vídeo, volume I, Iniciante, 2006 e 3a ed., 2008.\n2) Dicionário Enciclopédico Ilustrado Triíngue da Língua de Sinais Brasileira ? vol 1 e vol. 2 Site: www.acessobrasil.org.brasil\n3) Dicionário da Língua Brasileira de Sinais, INES, versão, 2.0, ano 2006.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NEP110",
+      "Nome": "Fund Direitos Humanos",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Necessidade e possibilidade de uma fundamentação filosófica dos direitos humanos, para a determinação do conteúdo e construção de argumentos racionais na sua implementação. Identificação dos principais desafios para afirmação e a realização dos direitos humanos e apresentação de algumas propostas contemporâneas de Fundamentação Filosófica dos Direitos Humanos.\n",
+       "BibliografiaBasica": "1) BARBALET, J. M. A Cidadania. Lisboa: Editorial Estampa, 1989.\n2) BAUMAN, Zygmunt. Comunidade: a busca da segurança no mundo atual. Rio de Janeiro: Jorge Zahar, 2003.\n3) BECKER, Howard S. Métodos de pesquisa em ciências sociais. São Paulo: Hucitec, 1999.\n",
+       "BibliografiaComplementar": "1) BELLONI I, Magalhães h. / Souza L; Metodologia de avaliação em políticas públicas. São Paulo (Cortez) 2003.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NEP130",
+      "Nome": "Tóp Esp Polít Públ Dir Hum I",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Discussão de temas específicos em políticas públicas e direitos humanos com base no processo histórico e nas críticas contemporâneas, proporcionando ao aluno uma visão sobre o alcance e limites da sua proteção e promoção.\n___BIBLIOGRAFIA BÁSICA___\n1) BECKER, Howard S. Métodos de pesquisa em ciências sociais. São Paulo: Hucitec, 1999.\n2) BELLONI I.; Magalhães H.; Souza L; Metodologia de avaliação em políticas públicas. São Paulo (Cortez) 2003.\n3) BOBBIO, Norberto. A era dos direitos. Rio de Janeiro: Campus, 1992.\n4) BOURGUIGNON, Jussara Ayres; OLIVEIRA Jr., Constantino Ribeiro de (Orgs.).  Pesquisa em ciências sociais: interfaces, debates e metodologias. Ponta Grossa (PR): Todapalavra, 2012.\n5) BRASIL, Programa Nacional de Direitos Humanos , PNDH II, Fernando Henrique Cardoso,  Brasília, Presidência da República, Secretaria da Comunicação Social, Ministério da Justiça, 2002.\n6) BUCCI, Maria Paula Dalari Et. al. (Orgs.). Direitos Humanos e políticas públicas. São Paulo: Pólis, 2001.\n7) FAORO, Raymundo. Os donos do poder. Rio de Janeiro, Editora Globo, 1958.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NEP141",
+      "Nome": "Tóp Esp Polít Públ Dir Hum III",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Discussão de temas específicos em políticas públicas e direitos humanos com base no processo histórico e nas críticas contemporâneas, proporcionando ao aluno uma visão sobre o alcance e limites da sua proteção e promoção.\n___BIBLIOGRAFIA BÁSICA___\n1) BECKER, Howard S. Métodos de pesquisa em ciências sociais. São Paulo: Hucitec, 1999.\n2) BELLONI I.; Magalhães H.; Souza L; Metodologia de avaliação em políticas públicas. São Paulo (Cortez) 2003.\n3) BOBBIO, Norberto. A era dos direitos. Rio de Janeiro: Campus, 1992.\n4) BOURGUIGNON, Jussara Ayres; OLIVEIRA Jr., Constantino Ribeiro de (Orgs.).  Pesquisa em ciências sociais: interfaces, debates e metodologias. Ponta Grossa (PR): Todapalavra, 2012.\n5) BRASIL, Programa Nacional de Direitos Humanos , PNDH II, Fernando Henrique Cardoso,  Brasília, Presidência da República, Secretaria da Comunicação Social, Ministério da Justiça, 2002.\n6) BUCCI, Maria Paula Dalari Et. al. (Orgs.). Direitos Humanos e políticas públicas. São Paulo: Pólis, 2001.\n7) FAORO, Raymundo. Os donos do poder. Rio de Janeiro, Editora Globo, 1958.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NEP143",
+      "Nome": "Tóp Esp Polít Públ Dir Hum V",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Discussão de temas específicos em políticas públicas e direitos humanos com base no processo histórico e nas críticas contemporâneas, proporcionando ao aluno uma visão sobre o alcance e limites da sua proteção e promoção.\n___BIBLIOGRAFIA BÁSICA___\n1) BECKER, Howard S. Métodos de pesquisa em ciências sociais. São Paulo: Hucitec, 1999.\n2) BELLONI I.; Magalhães H.; Souza L; Metodologia de avaliação em políticas públicas. São Paulo (Cortez) 2003.\n3) BOBBIO, Norberto. A era dos direitos. Rio de Janeiro: Campus, 1992.\n4) BOURGUIGNON, Jussara Ayres; OLIVEIRA Jr., Constantino Ribeiro de (Orgs.).  Pesquisa em ciências sociais: interfaces, debates e metodologias. Ponta Grossa (PR): Todapalavra, 2012.\n5) BRASIL, Programa Nacional de Direitos Humanos , PNDH II, Fernando Henrique Cardoso,  Brasília, Presidência da República, Secretaria da Comunicação Social, Ministério da Justiça, 2002.\n6) BUCCI, Maria Paula Dalari Et. al. (Orgs.). Direitos Humanos e políticas públicas. São Paulo: Pólis, 2001.\n7) FAORO, Raymundo. Os donos do poder. Rio de Janeiro, Editora Globo, 1958.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NEP145",
+      "Nome": "Tóp Esp Polít Públ Dir Hum VII",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Discussão de temas específicos em políticas públicas e direitos humanos com base no processo histórico e nas críticas contemporâneas, proporcionando ao aluno uma visão sobre o alcance e limites da sua proteção e promoção.\n___BIBLIOGRAFIA BÁSICA___\n1) BECKER, Howard S. Métodos de pesquisa em ciências sociais. São Paulo: Hucitec, 1999.\n2) BELLONI I.; Magalhães H.; Souza L; Metodologia de avaliação em políticas públicas. São Paulo (Cortez) 2003.\n3) BOBBIO, Norberto. A era dos direitos. Rio de Janeiro: Campus, 1992.\n4) BOURGUIGNON, Jussara Ayres; OLIVEIRA Jr., Constantino Ribeiro de (Orgs.).  Pesquisa em ciências sociais: interfaces, debates e metodologias. Ponta Grossa (PR): Todapalavra, 2012.\n5) BRASIL, Programa Nacional de Direitos Humanos , PNDH II, Fernando Henrique Cardoso,  Brasília, Presidência da República, Secretaria da Comunicação Social, Ministério da Justiça, 2002.\n6) BUCCI, Maria Paula Dalari Et. al. (Orgs.). Direitos Humanos e políticas públicas. São Paulo: Pólis, 2001.\n7) FAORO, Raymundo. Os donos do poder. Rio de Janeiro, Editora Globo, 1958.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NEP147",
+      "Nome": "Dir Hum e Democracia",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Direitos humanos, democracia e cidadania. Ética e cidadania. Fundamentos e evolução dos direitos humanos. Precedentes históricos do processo de internacionalização e universalização dos direitos humanos. Pluralismo, tolerância e cidadania. Processos democráticos e Direitos Humanos. Direitos Humanos no Brasil. Cultura política e Direitos Humanos. Cidadania na sociedade contemporânea. Universalismo e relativismo cultura dos DH; Direitos econômicos, sociais, culturais e ambientais (DhESCA).\n___BIBLIOGRAFIA BÁSICA___\n1) COMPARATO, Fábio Konder. A Afirmação Histórica dos Direitos Humanos. São Paulo: Saraiva;\n2) BOBBIO, Norberto. A Era dos Direitos. Rio de Janeiro: Campus.;\n3) LAFER, Celso. A Reconstrução dos Direitos Humanos: um diálogo com o pensamento de Hannah Arendt. São Paulo: Companhia das Letras.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NEP149",
+      "Nome": "Dir Hum e Meio Ambiente",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Ecologia e Meio Ambiente. A crise ambiental. O movimento ecológico. Ecodesenvolvimento e desenvolvimento sustentável. Ambientalismo como fenômeno social. Desequilíbrios ecossistêmicos urbano e rural. Os princípios éticos e filosóficos da relação sociedade-natureza. A problemática do meio ambiente e suas repercussões no campo das teorias do desenvolvimento e do planejamento. O enfoque interdisciplinar da problemática sócio-ambiental. Povos tradicionais e meio ambiente. Movimentos sociais ambientais. Meio ambiente e democracia.\n___BIBLIOGRAFIA BÁSICA___\n1) BOBBIO, Norberto. A Era dos Direitos. Rio de Janeiro: Campus;\n2) PORTO-GONÇALVES, Carlos Walter La Globalizacion da la naturaleza e la naturaleza de la globalizacion, Ed. Casa de las Américas, La Habana, Cuba, 2008;\n3) PORTO-GONÇALVES, Carlos Walter em Da Geografia às geo-grafias: um mundo em busca de novas territorialidades. In CECEÑA, Ana Ester e SADER, Emir (Coord.) La Guerra Infinita, Ed. Clacso,Bueno Aires, 2001.\n4) ENZENSBERG, Hans Magnus. Para uma crítica de la ecologia política. Cuadernos Anagrama, Barcelona, 1973.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NEP151",
+      "Nome": "Dir Hum e Cultura",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das relações profundas e complexas entre a cultura e os direitos humanos, a partir de uma abordagem crítica e interdisciplinar. Discussão de grandes assuntos sociais e culturais que atravessam discursos contemporaneos e produções audiovisuais, especialmente no que tange aos temas da violência, moralidades, verdade, justiça, ética, liberdade e direitos.\n___BIBLIOGRAFIA BÁSICA___\n1) SANTOS, Boaventura de Sousa. A gramática do tempo para uma nova cultura política. São Paulo : Cortêz, 2010;\n2) HALL, Stuart. Da diáspora identidades e mediações culturais. Belo Horizonte: UFMG, 2009;\n3) FRASER, Nancy. Reconhecimento sem ética? Lua Nova, São Paulo, n. 70, 2007.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NEP153",
+      "Nome": "Dir Hum e Trabalho",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Apresentação de reflexões e referências de fenômenos político-jurídico que constroem e reconstroem o ideário de Direitos Humanos do trabalhador, discutir escravização contemporânea e as diversas relações de trabalho informais e formais (CLT, PJ, MEI, prestações de serviços, terceirizações, \"uberizações\", dentre formas outras de precarizações).\n___BIBLIOGRAFIA BÁSICA___\n1) FIGUEIRA, R. Ricardo. Pisando fora da própria sombra. Escravidão por dívida;\n2) MARQUES, Maria Celeste. Controle e Trabalho: Exclusão e Criminalização. In DORNELLES, João Ricardo e SOBRINHO, Sérgio (org.). Estado, Política e Direito. Políticas Públicas e Direitos Fundamentais. Volume 2. Criciúma: Ed. UNESC, 2011; SINGER, Paul. História da Cidadania.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NEP155",
+      "Nome": "Dir Hum e Movimentos Sociais",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo, do ponto de vista histórico e contemporâneo, dos movimentos sociais que lutam por agendas de cidadania inclusiva, contra a discriminação e as desigualdades e em prol dos direitos humanos. Análise tanto dos denominados ?velhos? e ?novos? movimentos sociais, como, mas não limitado, dos movimentos negros, feministas, LGBTQIA+, territoriais, agrárias, sanitárias e sindicais. Reflexão sobre as teorias e práticas de resistência desenvolvidas em diversos contextos de lutas e ativismos, junto com os repertórios sendo construídos diante do cenário atual de redução de direitos.\n___BIBLIOGRAFIA BÁSICA___\n1) BUARQUE DE HOLLANDA, Heloisa. Explosão Feminista. São Paulo: Companhia das Letras. 2018.                                                                                                                     2) GALVAO, Andréia. Marxismo e Movimentos Sociais. Revista Critica Marxista. https://www.ifch.unicamp.br/criticamarxista/arquivos_biblioteca/artigo235artigo5.pdf\n3) GOHN, Maria da Gloria(2014). Movimentos sociais e redes de mobilizações civis no Brasil contemporâneo. Editora Vozes Limitada. 2014.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NEP157",
+      "Nome": "Dir Hum, Violência e Democrac",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Discussão da origem e permanência do discurso de oposição à defesa dos direitos humanos no Brasil. Abordagem das origens sociais da violência e dos direitos humanos e da cidadania. Discussões sobre violência e crime e no contexto no qual o discurso ?bandido bom é bandido morto? ganhou força. Debate de estudos empíricos sobre crime, polícia e prisões que abordam o tema.\n___BIBLIOGRAFIA BÁSICA___\n1) SANTOS, Boaventura de Sousa (2007). Para além do pensamento abissal: das linhas globais a uma ecologia dos saberes, in Revista Crítica de Ciências Sociais, 78, 3-46.\n2) FLORES, Joaquin Herrera. A (re)invenção dos direitos humanos. Florianópolis, Fundação Boiteux, 2009.\n3) ABRAMOVAY, Pedro Vieira; BATISTA, Vera Malaguti (orgs). Depois do Grande Encarceramento. Rio de Janeiro, Revan, ICC, 2010.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NEP159",
+      "Nome": "Dir Hum e Desigualdade Sociais",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Abordagem de temas sobre desigualdades no sistema do mundo capitalista globalizado, nas suas dimensões econômicas, culturais, sociais e políticas; com ênfase na construção de identidades contemporâneas, na formação de movimentos sociais e os conceitos de DDHH colocados por estes.\n___BIBLIOGRAFIA BÁSICA___\n1) CASTELLS, MANUEL. A era da informação: economia, sociedade e cultura. Vol. 2. O Poder da Identidade. Editora Paz e Terra, 6 Edição, São Paulo, 1999.\n2) FRASER, NANCY & JAEGGI, RAHEL. Capitalismo em debate: uma conversa na teoria crítica, Editora Boitempo, 2020.\n3) PIKKETY, THOMAS. O Capital no Século XXI. Introdução, Editora Intrínseca, 1ª Edição, Rio de Janeiro, 2014.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     }
+    ]
+   },
+   "obrigatorias": 31,
+   "eletivas": 80,
+   "ano": "2024/1 a 9999/9"
+  }
+ ]
+}

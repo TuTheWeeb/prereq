@@ -1,0 +1,460 @@
+{
+ "Letras Libras": [
+  {
+   "materias": {
+    "1º Período": [
+     {
+      "Codigo": "LEB111",
+      "Nome": "Fundamentos Linguísticos",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A trajetória das ideias e das teorias linguísticas no ocidente. As concepções formal, funcional e discursiva nas ciências da linguagem: domínios, contrastes e interfaces. O estado da arte na pesquisa linguística: tendências e desafios.\n___BIBLIOGRAFIA BÁSICA___\n1- BAGNO, M. Língua, linguagem, linguística: pondo os pingos nos ii. São Paulo: Parábola Editorial, 2014.\n2- MARTELOTTA, M. E. (Org.) Manual de linguística. São Paulo: Contexto, 2008.\n___Bibliografia Complementar___\n1- ARAUJO, I.L., Do signo ao discurso: introdução à filosofia da linguagem. São Paulo: Parábola Editorial, 2004.\n2- CASTILHO, Ataliba. T. de. Nova gramática do português brasileiro. São Paulo: Contexto, 2012.\n3- CEZARIO, M.M.; FURTADO DA CUNHA, M.A. (Orgs.). Linguística centrada no uso: uma homenagem a Mário Martelotta. rio de Janeiro: Mauad - X, 2013.\n4- LYONS, J. Linguagem e Linguística: uma introdução. São Paulo: LTC, 1989.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "18:00 - 22:00",
+        "professor": "MARILIA UCHOA CAVALCANTI LOTT DE MORAES COSTA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEB113",
+      "Nome": "Fund da Hist da Educ de Surdos",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceitos básicos da história da Educação. História da surdez e dos surdos. Relações históricas entre educação e escolarização. Abordagens tradicionais do currículo na escolarização dos surdos: práticas e discursos. Estudos Surdos, uma área multidisciplinar. Educação dos surdos e família: os pais ouvintes e os pais surdos. Políticas linguísticas e a educação de surdos. As filosofias educacionais de educação de surdos no século XX. Os diferentes contextos pedagógicos que caracterizam a educação de surdos no Brasil.\n___BIBLIOGRAFIA BÁSICA___\n1- SÁ, Nídia R. L. Cultura, poder e educação de surdos. Manaus: EDUA, 2002.\n2- SÁ, Nídia R. L. (org.). Surdos qual escola? Manaus: Editora Valer e EDUA, 2011.\n3- BOTELHO, Paula. Linguagem e Letramento na Educação de Surdos: ideologias e práticas pedagógicas. Belo Horizonte, Ed. Aut~entica, 2002.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1- QUADROS, Ronice Muuler de. Letras-Libras: ontem, hoje e amanhã. Florianópolis, SC: Ed. da UFSC, 2015.\n2- SÁ, Nelson P.; SÁ, Nídia R. L. Escolas bilíngues de surdos: Por que não? Manaus: EDUA, 2015.\n3- KELLER, Helen. A história da minha vida. Rio de Janeiro: INES, 2014.\n4- BACELLAR, Arnaldo de Oliveira. A surdo mudez no Brasil (cadeira de hygiene). Rio de Janeiro: INES, 2013.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEB110",
+      "Nome": "Libras I- Asp Ling Soc Cult ID",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "As relações entre língua e sociedade, cultura e identidade Surda, a partir de um ponto de vista antropológico e sociolinguístico. Várias abordagens para análise qualitativa como ferramentas de pesquisa para o entendimento da relação entre língua e cultura na Comunidade Surda. Aspectos históricos, culturais, linguísticos e sociais da surdez. Introdução às práticas de compreensão e produção em LIBRAS. Estudo das correlações entre estruturas em LIBRAS e suas funções comunicativas.\n___BIBLIOGRAFIA BÁSICA___\n1- BRITO, L.F. Por uma gramática de língua de sinais. Rio de Janeiro: Tempo Brasileiro, 1995.\n2- GESSER, A. Libras? Que língua é essa? Crença e preconceitos em torno da língua de sinais e da realidade surda. Florianópolis: Parábola, 2009.\n3- STROBEL, K.L. As imagens do outro sobre a cultura surda. Florianópolis: EdUFSC, 2008.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1- CAPOVILLA, F.C.; RAPHAEL, W. D. (Ed.). enciclopédia da Língua de Sinais Brasileira. v. 1 e 2. São Paulo: EDUSP, 2004.\n2- QUADROS, R.M. de & KARNOPP, L. Língua de sinais brasileira: estudos linguísticos. ArtMed: Porto Alegre, 2004.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "18:00 - 22:00",
+        "professor": "FELIPE DE OLIVEIRA MIGUEL"
+       },
+       {
+        "dia": "Qui",
+        "hora": "18:00 - 20:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEB112",
+      "Nome": "Fund dos Estudos Literários",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução aos conceitos fundamentais da literatura. Abordagem da problemática dos gêneros literários. Noções sobre o poema,a narrativa e o drama. A importância da abordagem interdisciplinar nos estudos literários.\n___ BIBLIOGRAFIA BÁSICA ___\n1- COMPAGNON,  Antoine. O demônio da teoria: literatura e senso comum. Tradução de Consuelo F. Santiago. Belo Horizonte: Editora UFMG, 2010. 2ª Edição.\n2- EAGLETON, Terry. Teoria da Literatura: uma introdução. Tradução de Waltensir Dutra. São Paulo: Martins Fontes, 2006.\n___ BIBLIOGRAFIA COMPLEMENTAR ___\n1- BENJAMIN, Walter. Magia e técnica, arte e política. São Paulo: Brasiliense, 1994.\n2- BRANDÃO,  Junito de S. Teatro grego: tragédia e comédia. Petrópolis: Vozes, 1999.\n3- COMPAGNON, Antoine. Literatura para quê? Tradução de Laura Taddei Brandini. Belo Horizonte: Editora UFMG, 2009.\n4- PIGLIA, Ricardo. Formas Breves. São Paulo: Companhia das Letras, 2004.\n5- TODOROV, Tzvetan. A literatura em perigo. Rio de Janeiro: Difel, 2009.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "18:00 - 22:00",
+        "professor": "PAULO ROBERTO TONANI DO PATROCINIO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEB114",
+      "Nome": "Introd Estudos Tradução",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Sensibilização ao assunto \"tradução\". A tradução e as línguas num mundo globalizado. O conceito de tradução. Tradução, língua e cultura. Tradução e interpretação. Procedimentos técnicos da tradução. Importância do Estudo da Tradução para o professor bilíngue e para o intérprete Libras/Português.\n___ BIBLIOGRAFIA BÁSICA ___\n1- BARBOSA, Heloísa Gonçalves Barbosa. Procedimentos técnicos da tradução: uma nova proposta. Campinas; Pontes, 1999.\n2- CARNEIRO, Teresa Dias; HESPANHOL, Dafny & LEAL, Rodrigo. Introdução aos Estudos da Tradução. Apostila, Letras-Libras, UFRJ, 2016. Versão em português e em Libras.\n3- KAHMANN, Andrea. Introdução aos Estudos da Tradução. Apostila, UFPB.\n4- OUSTINOFF, Michael. Tradução: história, teorias e métodos. São Paulo: Parábola, 2011.\n___ BIBLIOGRAFIA COMPLEMENTAR ___\n1- BENEDETTI, Ivone & SOBRAL, Adail (orgs.). Conversas com tradutores: balanços e perspectivas da tradução. São Paulo: Parábola Editorial, 2003.\n2- RICOUER, Paul. Sobre a tradução. Trad. Patrícia Lavelle. Belo Horizonte: Ed. UFRMG, 2011.\n3- RÓNAI, Paulo. A tradução vivida. Rio de Janeiro: Educom, 1976.\n4- RÓNAI, Paulo. Escola de tradutores. Rio de Janeiro: Nova Fronteira, 1987.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "2º Período": [
+     {
+      "Codigo": "LEB122",
+      "Nome": "Estudos dos Clássicos da Liter",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Discussão sobre o significado do conceito de clássico na literatura e em outras artes. Debate acerca da importância da leitura dos clássicos. Análise crítica de obras relevantes da literatura mundial. A poesia,o teatro e o romance e suas leituras nas diferentes mídias (cinema, televisão, internet).\n___ BIBLIOGRAFIA BÁSICA ___\n1- CALVINO, Italo. Por que ler os clássicos? São Paulo: Companhia das Letras, 1993.\n2- BRANDÃO, Junito de Souza. Teatro grego: tragédia e comédia. Petrópolis: Vozes, 1988.\n3- MANGUEL, Alberto. Ilíada e Odisseia de Homero. Rio de Janeiro: Zahar, 2008.\n___ BIBLIOGRAFIA COMPLEMENTAR ___\n1- BERTHOLD, Margot. História Mundial do Teatro. São Paulo: Perspectiva, 2001.\n2- CARONE, Modesto. Lição de Kafka. São Paulo: Companhia das Letras, 2009.\n3- FRYE, Northrop. Sobre Shakespeare. São Paulo: EdUSP, 2011.\n4- RILKE, Rainer Maria. Cartas a um jovem poeta. Porto Alegre: L&PM, 2006.\n5- SHAKESPEARE, Wiliam. Teatro completo. Rio de Janeiro: Nova Aguilar, 2009.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEB112"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEB233",
+      "Nome": "Aquisição de Linguagem II",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Aquisição da linguagem pela criança: teoria e conceitos. Relação entre aquisição e desenvolvimento da língua materna e aquisição da escrita. Aquisição de Língua estrangeira: teorias e conceitos. Bilinguismo.\n___BIBLIOGRAFIA BÁSICA___\n1- BRASIL. Congresso Nacional. Câmara dos Deputados. Comissão de Educação e Cultura. III - estado da arte sobre alfabetização 6. Quebrando o segredo do código alfabético: instrução explícita em decodificação e o método fônico In: Grupo de trabalho em alfabetização infantil: os novos caminhos: relatório final. 2. ed. Brasília: Câmara dos Deputados, Coordenação de Publicações, 2007. p. 180 (Série ação parlamentar; n. 246).\n___BIBLIOGRAFIA COMPLEMENTAR___\n1- DEHAENE, S.. 2012. Aprender a Ler In: Os neurônios da leitura: como a ciência explica a nossa capacidade de ler, Porto Alegre, Penso (traduzido por Leonor Scliar-Cabral, título original: Les Neurones De La Lecture), pp 213-252.\n2- FERREIRO, Emília & TEBEROSKY, Ana. A psicogênese da língua escrita. Porto Alegre: ArtMed, 1999.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEB120",
+      "Nome": "Libras II - Fund Fonét e Fono",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Tópicos sobre fonologia, tais como contrastes fonológicos, fonética e processos fonológicos da LIBRAS. Aprofundamento das estruturas da língua, enriquecimento do léxico e aperfeiçoamento da compreensão e produção em nível pré-intermediário.\n___BIBLIOGRAFIA BÁSICA___\n1- BRITO, L.F. Por uma gramática de língua de sinais. Rio de Janeiro: Tempo Brasileiro: 1995.\n2- QUADROS, R.M. de & KARNOPP, L. Língua de sinais brasileira: estudos linguísticos. ArtMed: Porto Alegre, 2004.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEB110"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEB123",
+      "Nome": "Aquisição de Linguagem I",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Aquisição da linguagem pela criança: teorias e conceitos. Relação entre aquisição e desenvolvimento da língua materna e aquisição da escrita. Aquisição da escrita. Aquisição de língua estrangeira: teorias e conceitos. Bilinguismo.\n___BIBLIOGRAFIA BÁSICA___\n1- INGRID, Finger; RONICE, Muller Quadros (orgs.). Teorias de aquisição da linguagem. Florianópolis: Ed. da UFSC, 2008.\n2- KAIL, M. Aquisição de linguagem. São Paulo: Parábola Editorial, 2013. 118p. Tradução de Márcio Marcionilo.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEB472",
+      "Nome": "Fun da Ed Bilíngue p Surdos",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Especificidades linguísticas e pedagógicas de aprendizes surdos usuários de línguas de sinais. Representações acerca das pessoas surdas e da surdez. A surdez como diferença linguística e cultural. Políticas linguísticas e a educação de surdos. Programas de educação bilíngue. Os diferentes contextos pedagógicos que caracterizam a educação de surdos no Brasil. Diferenças entre escola inclusiva e escola bilíngue. Pedagogia visual e educadores surdos.\n___BIBLIOGRAFIA BÁSICA___\n1- ARANTES, V.A. (Org.). Educação de surdos: pontos e contrapontos. São Paulo: Summus, 2007.\n2- QUADROS, R.M. de. Educação de surdos: a aquisição da linguagem. Porto Alegre: Artes Médicas, 1997.\n3- SÁ, Nelson Pereira de; SÁ, Nídia Regina Limeira de. Escola bilíngues de surdos: por que não? Manaus: EDUA, 2015.\n4- SKLIAR, Carlos. Atualidade da educação bilíngue para surdos. Porto Alegre: Ed. Mediação, 2009.\n5- EULALIA, F. (org.). Surdez e Bilinguismo. Porto Alegre: Mediação, 2012.\n___BIBLIOGRAFIA COMPLEMENTAR____\n1- BOTELHO, Paula. Segredos e silêncios na educação dos surdos. Belo Horizonte: Autêntica, 1998.\n2- SÁ, Nídia R.L. Cultura, poder e educação de surdos. Manaus: EDUA, 2002.\n3- FREIRE, P. Pedagogia do oprimido. 13. ed. Rio de Janeiro: Paz e Terra, 1983.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "3º Período": [
+     {
+      "Codigo": "LEB230",
+      "Nome": "Libras III - Fund Morfologia",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução ao sistema morfológico da LIBRAS. Tópicos em morfologia, tais como flexão, derivação e lexicalização. Uso de expressões não-manuais gramaticais. Desenvolvimento sistemático das práticas de compreensão e produção em LIBRAS através do uso de estruturas e funções comunicativas.\n___BIBLIOGRAFIA BÁSICA___\n1- BRITO, L. F. Por uma gramática de língua de sinais. Rio de Janeiro: Tempo Brasileiro, 1995.\n2- QUADROS, R. M. de & KARNOPP, L. Língua de sinais brasileira: estudos linguísticos. ArtMed: Porto Alegre, 2004.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1- FELIPE, T.A. Sistema de flexão verbal na Libras: os classificadores enquanto marcadores de flexão de gênero. Anais do Congresso Surdez e Pós-modernidade: Novos rumos para a educação brasileira - 1 Congresso Internacional do INES. 7º Seminário Nacional do INES. Rio de Janeiro: INES, Divisão de estudos e pesquisas: 2002: 37-58\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEB110"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEB232",
+      "Nome": "Prod de Textos em Português",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Leitura, interpretação e produção de textual: gêneros textuais.\n___BIBLIOGRAFIA BÁSICA___\n1- KOCH, I. G. V. Ler e compreender os sentidos do texto. Contexto, 2006.\n2- MARCUSCHI, L. A. Produção textual, análise de gêneros e compreensão. São Paulo: Parábola Editorial, 2008.\n3- GARCIA, Othon M. Comunicação em prosa moderna: aprenda a escrever, aprendendo a pensar. Rio de Janeiro: FGV, 27ª ed., 2010.\nROJO, R. Letramentos Múltiplos, escola e inclusão social. São Paulo: Parábola, 2009.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1- AZEREDO, J. C. de. Gramática Houaiss da Língua Portuguesa. São Paulo: Publifolha, 2013.\n2- CAVALCANTI, J. R. Professor, Leitura e Escrita. São Paulo: Contexto, 2010.\n3- FÁVERO, L. L.; KOCH, I. G. V. Linguística textual: introdução. 2. ed. São Paulo: Cortez, 1988.\n4- KARNOPP, L. B.; PEREIRA, M.C.C. Concepções de leitra e de escrita e educação de surdos. In LODI, A.C.; HARRISON, K.M.P.; CAMPOS, S.R.L. (orgs.). Leitura e escrita no contexto da diversidade. Porto Alegre, RS: Mediação, 2001, 33-38.\n5- KOCH, Ingedore Vilaça & ELIAS, Vanda Maria. 2009. Ler e escrever. Estratégias de produção textual. São Paulo: Editora Contexto.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEB125",
+      "Nome": "Aval do Proc Ens-apr Línguas",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "As várias concepções de avaliação. Tipos de avaliação. Avaliação de processo e avaliação de produto. O texto e seus diferentes suportes. A questão do \"erro\" na abordagem comunicativa. Avaliação da produção oral e escrita do aprendiz de uma LE. Estudo comparado de avaliações propostas nos diferentes contextos de aprendizagem.\n___BIBLIOGRAFIA BÁSICA___\n1- ALMEIDA FILHO, J. C. P. (org.). Parâmetros atuais para o ensino de Português-Língua Estrangeira. Campinas: Pontes Editores, 1997.\n2- ALMEIDA FILHO, José Carlos Paes de. Quatro Estações de Línguas. Campinas: Pontes, 2012.\n3- LUCKESI, Cipriano Carlos. Avaliação da Aprendizagem: componente do ato pedagógico. São Paulo, 2011.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1- LODI, A.C.; HARRINSON, K.M.P.; CAMPOS, S.R.L. (orgs). Leitura e escrita no contexto da diversidade. Porto Alegre, RS: Mediação, 2004.\n2- QUADROS, R. M. de. Educação de surdos: a aquisição da linguagem. Porto Alegre: Artes Médicas, 1997.\n3- DIAS, Ana Luiza Krüger; PINTO, Joana Plaza. Ideologias linguísticas e regimes de testes de língua para migrantes no Brasil. Revista Brasileira de Linguística Aplicada, v. 17, n. 1, p. 61-81, 2017. www.scielo.br/pdf/rbla/v17n1/1984-6398-rbla-17-01-00061.pdf.\n4- SOARES, Lia Abrantes Antunes. Aspectos que caracterizam fluência em segunda língua. Matraga-Revista do Programa de Pós-Graduação em Letras da UERJ, v. 24, n. 41, p. 463-477, 2017. www.e-publicacoes.uerj.br/index.php/matraga/article/download/28174/22146.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEB231",
+      "Nome": "Fund da Liter Brasileira",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Literatura como projeto de construção de identidade. A representação das etnias na Literatura Brasileira: Culturas afro-brasileiras e indígenas. Da literatura de informação ao modernismo. O nacionalismo e o regionalismo na literatura.\n___ BIBLIOGRAFIA BÁSICA ___\n1- ALENCAR, José de. Iracema. (Iracema em Libras). Tradução e interpretação de Heloíse Gripp Diniz e Roberto Gomes de Lima. Petrópolis: Editora Arara Azul, 2002.\n2- ASSIS, Machado de. A cartomante. (A cartomante em Libras). Tradução e Interpretação de Heloíse Gripp Diniz e Roberto Gomes de Lima. Petrópolis: Editora Arara Azul, 2005.\n3- ASSIS, Machado de. O caso da vara (O caso da vara em Libras). Tradução e interpretação de Heloíse Gripp Diniz e Roberto Gomes de Lima. Petrópolis: Editora Arara Azul, 2005.\n4- AZEVEDO, Aluisio. O cortiço. (O cortiço em Libras). Tradução e interpretação de Anie Gomes e Rodrigo Rosso. Petrópolis: Editora Arara Azul, 2015.\n___ BIBLIOGRAFIA COMPLEMENTAR ___\n1- ASSIS, Machado de. A missa do galo (A missa do galo em Libras). Tradução e Interpretação de Heloíse Gripp Diniz e Roberto Gomes de Lima. Petrópolis: Editora Arara Azul, 2005.\n2- ASSIS, Machado de. O relógio de ouro (O relógio de ouro em Libras). Tradução e Interpretação de Heloíse Gripp Diniz e Roberto Gomes de Lima. Petrópolis: Editora Arara Azul, 2005.\n3- ASSIS, Machado de. O Alienista. (O Alienista em Libras). Tradução e Interpretação de Alexandre Melendez e Roberta Almeida. Petrópolis: Editora Arara Azul, 2004.\n4- CANDIDO, Antonio. Formação da Literatura Brasileira: momentos decisivos. Belo Horizonte: Itatiaia, 1993.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "4º Período": [
+     {
+      "Codigo": "LEB241",
+      "Nome": "Fund da Sociolinguística",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A língua nos contextos sociais. Modelos de teoria e análise sociolinguística. Variação e mudança linguística. Variedades padrão e não-padrão, registros, estilo. Preconceito linguístico. Contato linguístico. Pidgins e creoulos. A sociolinguística e o ensino de línguas.\n___BIBLIOGRAFIA BÁSICA___\n1- MOLLICA, M. C.; BRAGA, M. L. Introdução à Sociolinguística. São Paulo: Contexto, 2003.\n2- BORTONI-RICARDO, S. M.  Manual de Sociolinguística. São Paulo, 2004.\n3- SCHERRE, M. M. P. Doa-se lidnos filhotes de poodle: variação linguística, mídia e preconceito. São Paulo: Parábola Editorial, 2005.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1- BAGNO, M. A Língua de Eulália: Novela Sociolinguística. São Paulo: Contexto, 2003.\n2- CALVET, L. J. Sociolinguística: uma introdução crítica. São Paulo: Parábola Editorial, 2002.\n3- FERRAREZI JUNIOR, C.; MOLLICA, M.C. (orgs.). Sociolinguística, Sociolinguísticas: uma introdução. São Paulo: Contexto, 2016.\n4- LABOV, W. Padrões Sociolinguísticos. Tradução Marcos Bagno, Maria Marta Pereira Scherre, Caroline Rodrigues Cardoso. São Paulo: Parábola Editorial, 2008.\n5- MOLLICA, M.C.; BRAGA, M.L. Introdução à Sociolinguística. São Paulo: Contexto, 2003.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEB240",
+      "Nome": "Libras IV - Fund da Sintaxe",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução ao sistema sintático da LIBRAS. Exame dos vários papéis dos sinais não-manuais que determinam a estrutura das sentenças da LIBRAS. Exame da ordem dos constituintes dentro das sentenças, incluindo tópicos e foco. O uso do espaço, classes de verbos baseadas no uso do espaço e concordância verbal. Exame de tipos específicos de estruturas sintáticas da libras, incluindo orações relativas, condicionadas e construções relacionadas. Desenvolvimento sistemático das práticas de compreensão e produção em LIBRAS através do uso de estruturas e funções comunicativas em nível pré-intermediário.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1- BRITO, L.F. Por uma gramática de língua de sinais. Rio de Janeiro: Tempo Brasileiro, 1995.\n2- FELIPE, T.A. Sistema de flexão verbal na Libras: os classificadores enquanto marcadores de flexão de gênero. Anais do Congresso Surdez e Pós-modernidade: novos rumos para a educação brasileira. 1 Congresso Internacional do INES. 7º Seminário Nacional do INES. Rio de Janeiro: INES, Divisão de estudos e pesquisas: 2002: 37-58.\n3- QUADROS, R. M. de & KARNOPP, L. Língua de sinais brasileira: estudos linguísticos. ArtMed: Porto Alegre, 2004.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEB110"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEB242",
+      "Nome": "Literatura Infanto e Juvenil",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Literatura Infantil e Juvenil: problematização do conceito Origens: narrativas primordiais, contos maravilhosos e contos de fadas. As fábulas de Esopo e de La Fontaine. O papel do contador de histórias. A formação de um cânone: Charles Perrault, Irmãos Grimm e Hans Cristhian Andersen. Literatura infantil e juvenil no Brasil: dos percursores à contemporaneidade. Literatura Infantil e imagem.\n___BIBLIOGRAFIA BÁSICA___\n1- COELHO, Nelly Novaes. A literatura infantil - teoria, análise, didática. São Paulo: Moderna, 2000.\n2- GOLDIN, Daniel. Os dias e os livros. Divagações sobre a hospitalidade da leitura. São Paulo: Pulo do Gato, 2012.\n3- HUNT, Peter. Crítica, teoria e literatura infantil. Rio de janeiro: Cosac Naify, s.d.\n4- NIKOLAJEVA, Maria et SCOTT, Carole. Livro ilustrado: palavras e imagens. São Paulo: Cosac Naify, s.d.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1- CECCANTINI, João Luis & LAJOLO, Marisa (org.). Monteiro Lobato, livro a livro: obra infantil. São Paulo: Editora da UNESP, 2008.\n2- COELHO, Nelly Novaes. O conto de fadas: símbolos mitos arquétipos. São Paulo: DCL, 2003.\n3- PONDÉ, Glória. A arte de fazer artes. São Paulo: Editora SESI, 2007.\n4- ZILBERMAN, Regina. Como e por que ler a Literatura Infantil Brasileira. Rio de Janeiro: Objetiva, 2005.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "5º Período": [
+     {
+      "Codigo": "LEB351",
+      "Nome": "Notação de Dados Linguist Elan",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Destina à capacitação para o uso do programa ELAN, desenvolvido pelo Max Planck Institute for Psycholinguistics, Nijmegen - Holanda. O Eudico Lingistic Annotator é um programa multimídia que permite ao usuário fazer complexas anotações associadas a arquivos da imagem ou som. ELAN permite a identificação de unidades textuais e sua anotação; esta inclui desde transcrição (fonética ou ortográfica) e tradução até segmentação e glosagem morfológica e notas e comentários. ELAN é especificamente designado para análises de línguas, línguas de sinais; pode ser usado por qualquer pessoa que trabalhe com dados de vídeo ou som com o propósito de anotação, análise e documentação.\n___BIBLIOGRAFIA BÁSICA___\n1- HELLWIG, B.; GEERTS, J. ELAN - Linguistic Annotator. Versão 4.4.0. Disponível em http://www.mpi.nl/corpus/manuals/manuals/manual-elan.pdf.\n2- NAGY, N; MEYERHOFF, M. Extending ELAN into Variationist Sociolinguistics. Workshop apresentado no NWAV42, Pittsburgh-PA/EUA, 2013. Disponível em http://www.nwav42.pitt.edu/workshops/#elan.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEB353",
+      "Nome": "Elabor de Trabalho Monográfico",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Itens de um Projeto de Monografia: introdução, justificativa,objetivos geral e específicos, pressupostos teóricos, resultados pretendidos, revisão bibliográfica sobre o tema e cronograma. A utilização do conhecimento teórico-prático do estudante na elaboração do Projeto de Monografia. Orientação sobre as etapas da elaboração da Monografia do Departamento de Letras-Libras, em Libras e em Língua Portuguesa.\n___ BIBLIOGRAFIA BÁSICA ___\n1- BOAVENTURA, Edivaldo M. Metodologia da pesquisa: monografia, dissertação, tese. São Paulo: Atlas, 2004.\n2- MOTTA-ROTH, Desireé. HENDGES, Graciela. Produção textual na Universidade. São Paulo: Parábola Editorial, 2010.\n3- COUTINHO, Maria Tereza: CUNHA, Suzana. Os caminhos da pesquisa em ciências humanas. Belo Horizonte: Editora PUC Minas, 2004.\n___ BIBLIOGRAFIA COMPLEMENTAR ___\n1- MARQUES, Rodrigo Rosso; OLIVEIRA, Janine Soares. A normatização de artigos acadêmicos em libras e sua relevância como instrumento de constituição de corpus de referência para tradutores. Disponível em: http://www.congressotils.com.br/anais/anais/tils2012_metodologias_traducao_marquesoliveira.pdf.\n2- Normalização de trabalhos acadêmicos. Universidade Federal de Santa Catarina (UFSC). Disponível em http://portal.bu.ufsc.br/normalizacao/.\n3- RUDIO, Franz V. Introdução ao projeto de pesquisa científica. 34. ed. Petrópolis: Vozes, 2007.\n4- SEVERINO, Antônio J. Metodologia do trabalho científico. 23. ed. São Paulo: Cortez, 2007.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEB350",
+      "Nome": "Libras V - Aspec Sociolinguist",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Análise reflexiva da estrutura do discurso em língua de sinais e da variação linguística da LIBRAS. A questão do bilingüismo: português e LIBRAS. O fenômeno da língua em contato, incluindo os empréstimos lexicais, mudança de código, mistura de código, diaglosia, pidgins e crioulos. Visão geral da sociolinguística, focalizando a Comunidade Surda.\n___BIBLIOGRAFIA BÁSICA___\n1- BRITO, L.F. Por uma gramática de língua de sinais. Rio de Janeiro: Tempo Brasileiro, 1995.\n2- CEIL, L. Multicultural Aspects of Sociolinguistics in Deaf communities (Gallaudet Sociolinguistics) Paperbak - February 8, 2001. Disponível em: https://muse.jhu.edu/book/12627.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1- CAPOVILA, F.C.; RAPHAEL, W.D. Dicionário Enciclopédico Ilustrado trilíngue da Língua de Sinais Brasileira, v. 1 e 2. São Paulo: Editora da Universidade de São Paulo, 2001.\n2- QUADROS, R.M. de & KARNOPP, L. Língua de sinais brasileira: estudos linguísticos. ArteMed: Porto Alegre, 2004.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEB110"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEB352",
+      "Nome": "Metodologia Científica",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Enfoques filosófico e ideológico da investigação em ciências humanas e Sociais. Metodologia do trabalho científico em Ciências Humanas. Gêneros discursivos do domínio acadêmico (fichamentos, resenhas e etc). A periodização e o recorte do objeto de estudo de uma pesquisa. Tipo de Pesquisa. Tipos de trabalhos científicos. Usos e classificação das fontes de pesquisa. Recomendações para a apresentação de trabalhos científicos conforme a ABNT. Introdução ao conhecimento das normas de apresentação de trabalhos científicos em LIBRAS.\n___ BIBLIOGRAFIA BÁSICA ___\n1- LAKATOS, Eva M; MARCONI, Marina A. Fundamentos de metodologia científica. 6. ed. São Paulo: Atlas, 2005.\n2- MALHEIROS, Bruno Taranto. Metodologia da pesquisa em educação. Rio de Janeiro: LTC, 2011.\n3- RUIZ, J. A. Metodologia Científica: Guia para Eficiência nos Estudos. São Paulo: Atlas, 1993.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1- LUCKESI, C.C. Fazer Universidade: uma proposta metodológica. São Paulo: Cortez, 1991.\n2- MARQUES, Rodrigo Rosso; OLIVEIRA, Janine Soares. A normatização de artigos acadêmicos em libras e sua relevância como instrumento de constituição de corpus de referência para tradutores. Disponível em http://www.congressotils.com.br/anais/anais/tils2012_metodologias_traducao_marquesoliveira.pdf.\nNormalização de trabalhos acadêmicos. Universidade Federal de Santa Catarina (UFSC). Disponível em http://portal.bu.ufsc.br/normalização/\n3- SEVERINO, Antonio J. Metodologia do trabalho científico. 23. ed. São Paulo: Cortez, 2007.\n4- MOUNIN, Georges. Os problemas teóricos da tradução. Trad. Heloysa de Lima Dantas, São Paulo: Cultrix, 1975.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "6º Período": [
+     {
+      "Codigo": "LEB361",
+      "Nome": "Literatura Surda I",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Diferentes produções literárias de autores culturalmente surdos, com ênfase no conto, na piada, no poema e na dramaturgia.\n___BIBLIOGRAFIA BÁSICA___\n1- A ÁRVORE de Natal em LSB. Poema de Fernanda Machado. Rio de Janeiro: LSB Vídeo, 2005. 1 DVD (20 min).\n2- AS AVENTURAS de Pinóquio em LSB. Inspirado na obra de Carlo Lorenzini. Pesquisa e texto original Clélia Ramos. Adaptação e Roteiro Luiz Carlos Freitas & Nelson Pimenta. Rio de Janeiro: Paulinas & LSB Vídeo, 2006. DVD.\n3- HESSEL, C.; ROSA, F.; KARNOPP, L.B. Cinderela Surda. Canoas, RS: ULBRA, 2003.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1 - HESSEL, C; ROSA, S.F.; KARNOPP, L.B. Rapunzel surda. Canoas, RS: ULBRA, 2003.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEB360",
+      "Nome": "Libras VI - Fund Prag e Disc",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O foco deste curso é a comparação entre abordagens dominantes da análise do discurso: pragmática, teoria dos atos de fala, análise conversacional, sociolinguística interacional, etnografia da comunicação, análise da variação, com exame de diferentes espécies de discursos da LIBRAS.\n___BIBLIOGRAFIA BÁSICA___\n1- AUSTIN, J. L. Quando dizer é fazer. Porto Alegre: Artes Médicas, 1990.\n2- ILARI, R. e GERALDI, J.W. Semântica. São Paulo: Ática, 1985.\n3- KOCK, I.V. Argumentação e Linguagem. São Paulo: Cortez, 1984.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1- LEITE, T.A. A segmentação da língua de sinais brasileira (libras): um estudo linguístico descritivo a partir da conversação espontânea entre surdos. 2008. Tese (Doutorado em Letras) - Faculdade de Filosofia, Letras e Ciências Humanas, Universidade de São Paulo, São Paulo, 2008.\n2- LIMA, M.A.C.B.; ARAGÃO NETO, M.M. Aspectos Semânticos e Pragmáticos da Libras: Abordagem no contexto sala de aula. Disponível em http://coipesu.com.br/upload/trabalhos/2015/2/aspectos-semanticos-e-pragmaticos-da-libras-abordagem-no-contexto-sala-de-aula.pdf.\n3- SILVA, Marília da P.M. A Semântica como Negociação dos Significados em Libras, Unicamp, 2006. Disponível em: http://www.scielo.br/scielo.php?pid=S0103-18132006000200007&script=sci_abstract&tlng=pt.\n4- SOUZA, D.V.C. Um olhar sobre os aspectos linguísticos da Língua Brasileira de Sinais. LITTERA ONLINE, v. 1, n. 2, 2010. Disponível em: http://www.porsinal.pt/index.php?ps=artigos&idt=artc&cat=9&idart=129.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEB110"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ]
+   },
+   "obrigatorias": 23,
+   "eletivas": 0,
+   "ano": "2014/1 a 9999/9"
+  }
+ ]
+}

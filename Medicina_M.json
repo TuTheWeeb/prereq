@@ -1,0 +1,3652 @@
+{
+ "Medicina M": [
+  {
+   "materias": {
+    "1º Período": [
+     {
+      "Codigo": "MCW111",
+      "Nome": "Saúde da Comunidade I",
+      "Créditos": "6.0",
+      "Teórica": "30",
+      "Prática": "120",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O conceito e a prática de saúde integral do indivíduo: dimensões biológicas, ambientais, psicológica, social e ética. Introdução ao Sistema Único de Saúde (SUS) e organização da Atenção Básica em Saúde. Estudo dos aspectos básicos da estrutura e dinâmica da relação profissional de saúde-paciente e contexto social. Saúde integral da criança e do escolar. Avaliação de crianças escolares no plano individual e coletivo. Práticas educativas em saúde em ambiente escolar e unidades de saúde. Pesquisa em saúde da criança.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:30 - 17:30",
+        "professor": "MARIA DE FATIMA LIMA SANTOS"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "ULIANA PONTES VIEIRA"
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:30 - 17:30",
+        "professor": "RAQUEL MIGUEL RODRIGUES"
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:30 - 17:30",
+        "professor": "ULIANA PONTES VIEIRA"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "RAQUEL MIGUEL RODRIGUES"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "MARIA DE FATIMA LIMA SANTOS"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCW110",
+      "Nome": "Biologia para Saúde I",
+      "Créditos": "11.0",
+      "Teórica": "45",
+      "Prática": "240",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução ao estudo da anatomia humana descritiva e topográfica. Aspectos ultraestruturais e funcionais das células e tecidos. Embriologia básica. Biofísica das membranas, biologia molecular, radioisótopos e radiobiologia. Bioquímica da estrutura molecular e suas relações com as funções biológicas e o metabolismo. Princípios gerais das regulações metabólicas. Princípios morfo-funcionais do sistema locomotor. Correlações clínicas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:30 - 17:30",
+        "professor": "DAIANA VIEIRA LOPES ALVES"
+       },
+       {
+        "dia": "Seg",
+        "hora": "13:30 - 17:30",
+        "professor": "RAQUEL DE SOUZA GESTINARI"
+       },
+       {
+        "dia": "Seg",
+        "hora": "13:30 - 17:30",
+        "professor": "RICARDO DE MATTOS SANTA RITA"
+       },
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 12:00",
+        "professor": "BRUNA CAROLINE CHAVES GARCIA"
+       },
+       {
+        "dia": "Seg",
+        "hora": "13:30 - 17:30",
+        "professor": "ELANE DA SILVA RIBEIRO"
+       },
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 12:00",
+        "professor": "VIVIAN DE OLIVEIRA SOUSA CORREA"
+       },
+       {
+        "dia": "Seg",
+        "hora": "13:30 - 17:30",
+        "professor": "ANDRE LUIZ DE SOUZA CRUZ"
+       },
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 12:00",
+        "professor": "RAQUEL DE SOUZA GESTINARI"
+       },
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 12:00",
+        "professor": "ANDRE LUIZ DE SOUZA CRUZ"
+       },
+       {
+        "dia": "Seg",
+        "hora": "13:30 - 17:30",
+        "professor": "VIVIAN DE OLIVEIRA SOUSA CORREA"
+       },
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 12:00",
+        "professor": "PETTER FRANCO ENTRINGER"
+       },
+       {
+        "dia": "Seg",
+        "hora": "13:30 - 17:30",
+        "professor": ""
+       },
+       {
+        "dia": "Seg",
+        "hora": "13:30 - 17:30",
+        "professor": "BRUNA CAROLINE CHAVES GARCIA"
+       },
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 12:00",
+        "professor": "RICARDO DE MATTOS SANTA RITA"
+       },
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 12:00",
+        "professor": "DAIANA VIEIRA LOPES ALVES"
+       },
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 12:00",
+        "professor": "ELANE DA SILVA RIBEIRO"
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 12:00",
+        "professor": "RICARDO DE MATTOS SANTA RITA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:30 - 17:30",
+        "professor": "RAQUEL DE SOUZA GESTINARI"
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 12:00",
+        "professor": "PETTER FRANCO ENTRINGER"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:30 - 17:30",
+        "professor": "VIVIAN DE OLIVEIRA SOUSA CORREA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 12:00",
+        "professor": "RAQUEL DE SOUZA GESTINARI"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:30 - 17:30",
+        "professor": "ELANE DA SILVA RIBEIRO"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:30 - 17:30",
+        "professor": "ANDRE LUIZ DE SOUZA CRUZ"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:30 - 17:30",
+        "professor": "BRUNA CAROLINE CHAVES GARCIA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:30 - 17:30",
+        "professor": "DAIANA VIEIRA LOPES ALVES"
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 12:00",
+        "professor": "ELANE DA SILVA RIBEIRO"
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 12:00",
+        "professor": "DAIANA VIEIRA LOPES ALVES"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:30 - 17:30",
+        "professor": "PETTER FRANCO ENTRINGER"
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 12:00",
+        "professor": "BRUNA CAROLINE CHAVES GARCIA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:30 - 17:30",
+        "professor": "RICARDO DE MATTOS SANTA RITA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 12:00",
+        "professor": "VIVIAN DE OLIVEIRA SOUSA CORREA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 12:00",
+        "professor": "ANDRE LUIZ DE SOUZA CRUZ"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:30 - 17:30",
+        "professor": "BRUNA CAROLINE CHAVES GARCIA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:30 - 17:30",
+        "professor": "ANDRE LUIZ DE SOUZA CRUZ"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 12:00",
+        "professor": "PETTER FRANCO ENTRINGER"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 12:00",
+        "professor": "RAQUEL DE SOUZA GESTINARI"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 12:00",
+        "professor": "RICARDO DE MATTOS SANTA RITA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:30 - 17:30",
+        "professor": "DAIANA VIEIRA LOPES ALVES"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 12:00",
+        "professor": "ELANE DA SILVA RIBEIRO"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:30 - 17:30",
+        "professor": "RICARDO DE MATTOS SANTA RITA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:30 - 17:30",
+        "professor": "PETTER FRANCO ENTRINGER"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 12:00",
+        "professor": "DAIANA VIEIRA LOPES ALVES"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:30 - 17:30",
+        "professor": "ELANE DA SILVA RIBEIRO"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 12:00",
+        "professor": "VIVIAN DE OLIVEIRA SOUSA CORREA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 12:00",
+        "professor": "ANDRE LUIZ DE SOUZA CRUZ"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 12:00",
+        "professor": "BRUNA CAROLINE CHAVES GARCIA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:30 - 17:30",
+        "professor": "RAQUEL DE SOUZA GESTINARI"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:30 - 17:30",
+        "professor": "VIVIAN DE OLIVEIRA SOUSA CORREA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 12:00",
+        "professor": "RAQUEL DE SOUZA GESTINARI"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 12:00",
+        "professor": "RICARDO DE MATTOS SANTA RITA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 12:00",
+        "professor": "ANDRE LUIZ DE SOUZA CRUZ"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 12:00",
+        "professor": "PETTER FRANCO ENTRINGER"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 12:00",
+        "professor": "ELANE DA SILVA RIBEIRO"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 12:00",
+        "professor": "VIVIAN DE OLIVEIRA SOUSA CORREA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 12:00",
+        "professor": "BRUNA CAROLINE CHAVES GARCIA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 12:00",
+        "professor": "DAIANA VIEIRA LOPES ALVES"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "2º Período": [
+     {
+      "Codigo": "MCW124",
+      "Nome": "Biologia para Saúde II",
+      "Créditos": "13.0",
+      "Teórica": "90",
+      "Prática": "210",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Sistema nervoso: Bioeletrogênese. Organização geral, anatomia e ontogenia do sistema nervoso. Sistemas sensitivo-motores. Regulação das funções viscerais pelo sistema nervoso. Funções nervosas superiores. Sistemas cardiovascular, respiratório e digestivo: embriogênese, anatomia e fisiologia cardiovascular, respiratória e digestiva. Genética básica. Correlações clínicas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "13:30 - 17:30",
+        "professor": "RODRIGO NUNES DA FONSECA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 12:00",
+        "professor": "CELIA YELIMAR PALMERO QUINTANA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 12:00",
+        "professor": "HENRIQUE ROCHA MENDONCA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:30 - 17:30",
+        "professor": "KARINE DA SILVA VERDOORN"
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 12:00",
+        "professor": "FILIPE BRAGA DOS SANTOS"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:30 - 17:30",
+        "professor": "LEONARDO ARAUJO DE ABREU"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:30 - 17:30",
+        "professor": "FILIPE BRAGA DOS SANTOS"
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 12:00",
+        "professor": "RODRIGO NUNES DA FONSECA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:30 - 17:30",
+        "professor": "HENRIQUE ROCHA MENDONCA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 12:00",
+        "professor": "CARLOS HUMBERTO ANDRADE MORAES"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:30 - 17:30",
+        "professor": "CELIA YELIMAR PALMERO QUINTANA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 12:00",
+        "professor": "KARINE DA SILVA VERDOORN"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:30 - 17:30",
+        "professor": "CARLOS HUMBERTO ANDRADE MORAES"
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 12:00",
+        "professor": "LEONARDO ARAUJO DE ABREU"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 12:00",
+        "professor": "HENRIQUE ROCHA MENDONCA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 12:00",
+        "professor": "CELIA YELIMAR PALMERO QUINTANA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 12:00",
+        "professor": "RODRIGO NUNES DA FONSECA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 12:00",
+        "professor": "LEONARDO ARAUJO DE ABREU"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 12:00",
+        "professor": "FILIPE BRAGA DOS SANTOS"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 12:00",
+        "professor": "KARINE DA SILVA VERDOORN"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 12:00",
+        "professor": "CARLOS HUMBERTO ANDRADE MORAES"
+       },
+       {
+        "dia": "Sex",
+        "hora": "13:30 - 17:30",
+        "professor": "RODRIGO NUNES DA FONSECA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "13:30 - 17:30",
+        "professor": "LEONARDO ARAUJO DE ABREU"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 12:00",
+        "professor": "FILIPE BRAGA DOS SANTOS"
+       },
+       {
+        "dia": "Sex",
+        "hora": "13:30 - 17:30",
+        "professor": "CARLOS HUMBERTO ANDRADE MORAES"
+       },
+       {
+        "dia": "Sex",
+        "hora": "13:30 - 17:30",
+        "professor": "HENRIQUE ROCHA MENDONCA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "13:30 - 17:30",
+        "professor": "CELIA YELIMAR PALMERO QUINTANA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 12:00",
+        "professor": "KARINE DA SILVA VERDOORN"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 12:00",
+        "professor": "RODRIGO NUNES DA FONSECA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 12:00",
+        "professor": "HENRIQUE ROCHA MENDONCA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 12:00",
+        "professor": "CARLOS HUMBERTO ANDRADE MORAES"
+       },
+       {
+        "dia": "Sex",
+        "hora": "13:30 - 17:30",
+        "professor": "KARINE DA SILVA VERDOORN"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 12:00",
+        "professor": "CELIA YELIMAR PALMERO QUINTANA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "13:30 - 17:30",
+        "professor": "FILIPE BRAGA DOS SANTOS"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 12:00",
+        "professor": "LEONARDO ARAUJO DE ABREU"
+       }
+      ],
+      "Requisitos": [
+       "MCW110",
+       "MCW111"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCM121",
+      "Nome": "Saúde da Comunidade II - M",
+      "Créditos": "7.0",
+      "Teórica": "30",
+      "Prática": "150",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "As unidades de cuidados básicos de saúde e o Sistema Único de Saúde. A equipe multiprofissional. Saúde e Sociedade. Políticas de Saúde. Vigilância epidemiológica. Epidemiologia. Abordagem ampla dos diversos temas referentes às ações básicas de saúde que têm por objetivo final a redução da morbimortalidade infantil.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 12:00",
+        "professor": "KATHLEEN TEREZA DA CRUZ"
+       },
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 12:00",
+        "professor": "ULIANA PONTES VIEIRA"
+       },
+       {
+        "dia": "Seg",
+        "hora": "13:30 - 17:30",
+        "professor": "KARLA SANTA CRUZ COELHO"
+       },
+       {
+        "dia": "Seg",
+        "hora": "13:30 - 17:30",
+        "professor": "KATHLEEN TEREZA DA CRUZ"
+       },
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 12:00",
+        "professor": "KARLA SANTA CRUZ COELHO"
+       },
+       {
+        "dia": "Seg",
+        "hora": "13:30 - 17:30",
+        "professor": "HELVO SLOMP JUNIOR"
+       },
+       {
+        "dia": "Seg",
+        "hora": "13:30 - 17:30",
+        "professor": "ULIANA PONTES VIEIRA"
+       },
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 12:00",
+        "professor": "HELVO SLOMP JUNIOR"
+       },
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 12:00",
+        "professor": "LUCIANA FREIRE DE CARVALHO"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "HELVO SLOMP JUNIOR"
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:30 - 17:30",
+        "professor": "KATHLEEN TEREZA DA CRUZ"
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:30 - 17:30",
+        "professor": "KARLA SANTA CRUZ COELHO"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": ""
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:30 - 17:30",
+        "professor": "HELVO SLOMP JUNIOR"
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:30 - 17:30",
+        "professor": "ULIANA PONTES VIEIRA"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": ""
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "KATHLEEN TEREZA DA CRUZ"
+       }
+      ],
+      "Requisitos": [
+       "MCW110",
+       "MCW111"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "3º Período": [
+     {
+      "Codigo": "MCW235",
+      "Nome": "Saúde da Comunidade III",
+      "Créditos": "6.0",
+      "Teórica": "30",
+      "Prática": "120",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Epidemiologia e Políticas de saúde. Categorias utilizadas para avaliação de serviços de saúde: eficiência, eficácia, efetividade, eqüidade. Sistemas administrativos: infra-estrutura física, material, recursos humanos e recursos financeiros. Sistemas de informação em saúde: principais sistemas, objetivos, fluxos, instrumentos de coleta de dados. Análise da estrutura e do processo organizacional dos serviços de saúde. Análise dos resultados.Qualidade da atenção à saúde: implicações técnicas, éticas e dos sistemas de controle. Principais indicadores de avaliação de qualidade. Saúde e trabalho: semiologia e saúde do das pessoas que trabalham; avaliação e intervenções; segurança e condições de trabalho; necessidades pessoais e direitos do trabalhador; gênero e trabalho; saúde mental; programas assistenciais em saúde do trabalhador no SUS; educação e saúde; pesquisa aplicada ao trabalhador e à família. Ecologia e Saúde.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "13:30 - 17:00",
+        "professor": "HELVO SLOMP JUNIOR"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:30 - 17:00",
+        "professor": "KARLA SANTA CRUZ COELHO"
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 12:00",
+        "professor": "RAQUEL MIGUEL RODRIGUES"
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 12:00",
+        "professor": "LUCIANA FREIRE DE CARVALHO"
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 12:00",
+        "professor": "FERNANDA PEREIRA DE PAULA FREITAS"
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 12:00",
+        "professor": "KARLA SANTA CRUZ COELHO"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:30 - 17:00",
+        "professor": "FERNANDA PEREIRA DE PAULA FREITAS"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:30 - 17:00",
+        "professor": "RAQUEL MIGUEL RODRIGUES"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:30 - 17:00",
+        "professor": "LUCIANA FREIRE DE CARVALHO"
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 12:00",
+        "professor": "HELVO SLOMP JUNIOR"
+       }
+      ],
+      "Requisitos": [
+       "MCM121",
+       "MCW110",
+       "MCW111",
+       "MCW124"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCW234",
+      "Nome": "Biologia para Saúde III",
+      "Créditos": "13.0",
+      "Teórica": "90",
+      "Prática": "210",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Morfologia, fisiologia e bioquímica dos aparelhos: endócrino, urinário e reprodutor. Correlações clínicas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 17:30",
+        "professor": "CELIA YELIMAR PALMERO QUINTANA"
+       },
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 17:30",
+        "professor": "LEONARDO ARAUJO DE ABREU"
+       },
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 17:30",
+        "professor": "JACKSON DE SOUZA MENEZES"
+       },
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 17:30",
+        "professor": "RIBRIO IVAN TAVARES PEREIRA BATISTA"
+       },
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 17:30",
+        "professor": "MARINALDO PACIFICO CAVALCANTI NETO"
+       },
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 17:30",
+        "professor": "TAIS FONTOURA DE ALMEIDA"
+       },
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 17:30",
+        "professor": "GUSTAVO VIEIRA DE OLIVEIRA"
+       },
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 17:30",
+        "professor": "ALESSANDRA CORDEIRO DE SOUZA RODRIGUES CUNHA"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "RIBRIO IVAN TAVARES PEREIRA BATISTA"
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:30 - 17:30",
+        "professor": "LEONARDO ARAUJO DE ABREU"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "GUSTAVO VIEIRA DE OLIVEIRA"
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:30 - 17:30",
+        "professor": "TAIS FONTOURA DE ALMEIDA"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "ALESSANDRA CORDEIRO DE SOUZA RODRIGUES CUNHA"
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:30 - 17:30",
+        "professor": "JACKSON DE SOUZA MENEZES"
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:30 - 17:30",
+        "professor": "ALESSANDRA CORDEIRO DE SOUZA RODRIGUES CUNHA"
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:30 - 17:30",
+        "professor": "RIBRIO IVAN TAVARES PEREIRA BATISTA"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "MARINALDO PACIFICO CAVALCANTI NETO"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "JACKSON DE SOUZA MENEZES"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "LEONARDO ARAUJO DE ABREU"
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:30 - 17:30",
+        "professor": "GUSTAVO VIEIRA DE OLIVEIRA"
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:30 - 17:30",
+        "professor": "CELIA YELIMAR PALMERO QUINTANA"
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:30 - 17:30",
+        "professor": "MARINALDO PACIFICO CAVALCANTI NETO"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "TAIS FONTOURA DE ALMEIDA"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "CELIA YELIMAR PALMERO QUINTANA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 12:00",
+        "professor": ""
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 12:00",
+        "professor": "JACKSON DE SOUZA MENEZES"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 12:00",
+        "professor": "GUSTAVO VIEIRA DE OLIVEIRA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 12:00",
+        "professor": "LEONARDO ARAUJO DE ABREU"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 12:00",
+        "professor": "RIBRIO IVAN TAVARES PEREIRA BATISTA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 12:00",
+        "professor": "MARINALDO PACIFICO CAVALCANTI NETO"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 12:00",
+        "professor": "TAIS FONTOURA DE ALMEIDA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 12:00",
+        "professor": "ALESSANDRA CORDEIRO DE SOUZA RODRIGUES CUNHA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "13:30 - 17:30",
+        "professor": "GUSTAVO VIEIRA DE OLIVEIRA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 12:00",
+        "professor": "TAIS FONTOURA DE ALMEIDA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "13:30 - 17:30",
+        "professor": "ALESSANDRA CORDEIRO DE SOUZA RODRIGUES CUNHA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 12:00",
+        "professor": "LEONARDO ARAUJO DE ABREU"
+       },
+       {
+        "dia": "Sex",
+        "hora": "13:30 - 17:30",
+        "professor": "RIBRIO IVAN TAVARES PEREIRA BATISTA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "13:30 - 17:30",
+        "professor": "LEONARDO ARAUJO DE ABREU"
+       },
+       {
+        "dia": "Sex",
+        "hora": "13:30 - 17:30",
+        "professor": "CELIA YELIMAR PALMERO QUINTANA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 12:00",
+        "professor": ""
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 12:00",
+        "professor": "RIBRIO IVAN TAVARES PEREIRA BATISTA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 12:00",
+        "professor": "JACKSON DE SOUZA MENEZES"
+       },
+       {
+        "dia": "Sex",
+        "hora": "13:30 - 17:30",
+        "professor": "MARINALDO PACIFICO CAVALCANTI NETO"
+       },
+       {
+        "dia": "Sex",
+        "hora": "13:30 - 17:30",
+        "professor": "TAIS FONTOURA DE ALMEIDA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 12:00",
+        "professor": "GUSTAVO VIEIRA DE OLIVEIRA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 12:00",
+        "professor": "MARINALDO PACIFICO CAVALCANTI NETO"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 12:00",
+        "professor": "ALESSANDRA CORDEIRO DE SOUZA RODRIGUES CUNHA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "13:30 - 17:30",
+        "professor": "JACKSON DE SOUZA MENEZES"
+       }
+      ],
+      "Requisitos": [
+       "MCM121",
+       "MCW110",
+       "MCW111",
+       "MCW124"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "4º Período": [
+     {
+      "Codigo": "MCM242",
+      "Nome": "Farmacologia Geral",
+      "Créditos": "2.0",
+      "Teórica": "20",
+      "Prática": "40",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Bases da farmacologia. Farmacocinética. Relação entre efeito e concentração das drogas. Drogas que atuam nas sinapses e junções neuro-efetoras. Autacóides e antagonistas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "13:30 - 17:30",
+        "professor": "PAULA LIMA DO CARMO"
+       }
+      ],
+      "Requisitos": [
+       "MCM121",
+       "MCW110",
+       "MCW111",
+       "MCW124",
+       "MCW234",
+       "MCW235"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCM241",
+      "Nome": "Propedêutica Médica",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Semiogênese dos grandes sinais e sintomas e de síndromes clínicas prevalentes. Anamnese do adulto e da criança. Semiotécnica do adulto quanto à inspeção e sinais gerais. Propedêutica radiológica. Técnicas de enfermagem. Relação médico-paciente. Bases científicas da anestesiologia. Semiogênese dos grandes sinais, sintomas e síndromes clínicas. Semiotécnica sistematizada do adulto comparada à da criança. Conceitos de técnica operatória e de procedimentos invasivos. Prática cirúrgica de pequeno porte. Bases da farmacologia. Farmacocinética. Relação entre efeito e concentração das drogas. Drogas que atuam nas sinapses e junções neuro-efetoras. Autacóides e antagonistas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 17:30",
+        "professor": "CLAUDIA GUSMAO"
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 17:30",
+        "professor": "MARCIO XIMENDES ESPIRITO SANTO"
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 17:30",
+        "professor": "ALESSANDRA ANICETO FERREIRA DE FIGUEIREDO"
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 17:30",
+        "professor": "RENATO FARIA DA GAMA"
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 17:30",
+        "professor": "MARINA NOLASCO MANHAES GOMES BARRETO"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 17:30",
+        "professor": "RENATO FARIA DA GAMA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 17:30",
+        "professor": "MARINA NOLASCO MANHAES GOMES BARRETO"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 17:30",
+        "professor": "ALESSANDRA ANICETO FERREIRA DE FIGUEIREDO"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 17:30",
+        "professor": "MARCIO XIMENDES ESPIRITO SANTO"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 17:30",
+        "professor": "CLAUDIA GUSMAO"
+       }
+      ],
+      "Requisitos": [
+       "MCM121",
+       "MCW110",
+       "MCW111",
+       "MCW124",
+       "MCW234",
+       "MCW235"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCW244",
+      "Nome": "Mecan Básicos Saúde Doença",
+      "Créditos": "17.0",
+      "Teórica": "90",
+      "Prática": "330",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceito de doença através do estudo dos agentes agressores e da resposta do organismo a esta agressão. Estudo dos diversos tipos de agressão com ênfase na correlação clínico-patológica através da integração dos achados morfológicos com os clínicos. Estudo das características dos microorganismos patogênicos e do sistema imune. Imunidade. Métodos de controle e diagnóstico laboratorial de infecções humanas. Relação parasito-hospedeiro. Noções de epidemiologia e correlações clínicas. Estrutura, replicação e funcionamento do material genético. Classificação das doenças genéticas. Aconselhamento genético. Genética de populações. Processo evolutivo. Mecanismos genéticos e psico-sociais de produção de doenças.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 12:00",
+        "professor": "FERNANDA SAMPAIO CAVALCANTE"
+       },
+       {
+        "dia": "Seg",
+        "hora": "13:30 - 17:30",
+        "professor": "GIZELE DUARTE GARCIA"
+       },
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 12:00",
+        "professor": "DANIELLE PEREIRA VIEIRA SILVEIRA"
+       },
+       {
+        "dia": "Seg",
+        "hora": "13:30 - 17:30",
+        "professor": "KATIA CALVI LENZI DE ALMEIDA"
+       },
+       {
+        "dia": "Seg",
+        "hora": "13:30 - 17:30",
+        "professor": "FERNANDA SAMPAIO CAVALCANTE"
+       },
+       {
+        "dia": "Seg",
+        "hora": "13:30 - 17:30",
+        "professor": "DANIELLE PEREIRA VIEIRA SILVEIRA"
+       },
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 12:00",
+        "professor": "GIZELE DUARTE GARCIA"
+       },
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 12:00",
+        "professor": "KATIA CALVI LENZI DE ALMEIDA"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "FERNANDA SAMPAIO CAVALCANTE"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "DANIELLE PEREIRA VIEIRA SILVEIRA"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "KATIA CALVI LENZI DE ALMEIDA"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "GIZELE DUARTE GARCIA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "10:00 - 12:00",
+        "professor": "KATIA CALVI LENZI DE ALMEIDA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "10:00 - 12:00",
+        "professor": "DANIELLE PEREIRA VIEIRA SILVEIRA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "10:00 - 12:00",
+        "professor": "GIZELE DUARTE GARCIA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "10:00 - 12:00",
+        "professor": "FERNANDA SAMPAIO CAVALCANTE"
+       },
+       {
+        "dia": "Sex",
+        "hora": "13:30 - 17:30",
+        "professor": "KATIA CALVI LENZI DE ALMEIDA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "13:30 - 17:30",
+        "professor": "GIZELE DUARTE GARCIA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "13:30 - 17:30",
+        "professor": "FERNANDA SAMPAIO CAVALCANTE"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 12:00",
+        "professor": ""
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 12:00",
+        "professor": "KATIA CALVI LENZI DE ALMEIDA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 12:00",
+        "professor": "GIZELE DUARTE GARCIA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 12:00",
+        "professor": "DANIELLE PEREIRA VIEIRA SILVEIRA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "13:30 - 17:30",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MCM121",
+       "MCW110",
+       "MCW111",
+       "MCW124",
+       "MCW234",
+       "MCW235"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "5º Período": [
+     {
+      "Codigo": "MCM352",
+      "Nome": "Farmacologia Clínica",
+      "Créditos": "4.0",
+      "Teórica": "70",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "As atividades envolvem apresentação dos tópicos dentro da Farmacologia Renal, Cardiovascular e Hemostasia, com breve exposição objetiva do tópico do programa, seguidas do Seminário com discussão e apresentação de painéis pelos alunos pertinentes a cada assunto apresentado na sequência dos dois blocos do programa, participação na forma oral e escrita individual ou em grupo. Ao final do primeiro bloco o aluno deverá estar familiarizado com as intervenções terapêuticas que envolvem as doenças cardiovasculares, antitrombóticos e anticoagulantes, diuréticos e anti-hipertensivos. Discorrendo sobre mecanismos indicações, contraindicações e efeitos adversos dos fármacos agrupados na Farmacologia Renal e Cardiovascular. Ao final do segundo bloco o aluno deverá estar familiarizado com as intervenções terapêuticas e as substâncias comuns ao grupo apresentado no bloco de Neurofarmacologia que compreende a Farmacologia da dor, a Psicofarmacologia e os Fármacos usados nas doenças neurodegenerativas. Discorrendo sobre os mecanismos, indicações, contraindicações e efeitos adversos dos fármacos que atuam no Sistema Nervoso Central. Os assuntos do programa em cada bloco são sempre abordados procurando-se fundamentos de farmacodinâmica, farmacocinética, com ênfase da indicação terapêutica e toxicidade. Nos diferentes fármacos, reforçar com os estudantes a necessidade da individualização dos esquemas e a contínua consulta à bibliografia relacionada pelo professor como livros textos referência e periódicos como exemplo: New ERngland Journal of Medicine, JAMA, Annals of Internals Medicine,etc., além de se familiarizar e aprender usar textos, gráficos e as Tabelas de Farmacocinética do Goodman & Gilman.\n___Bibliografia Recomendada___\n1- The Pharmacological Basis of Therapeutics - Goodman Gilman - 13th Edition, Mc Graw Hill.\n2- Pharmacology - HP Rang e M. M. Dale - 8th Edition - Lange Basic Science.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 17:30",
+        "professor": "PAULO DE ASSIS MELO"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 17:30",
+        "professor": "SABRINA RIBEIRO GONSALEZ"
+       }
+      ],
+      "Requisitos": [
+       "MCM121",
+       "MCM241",
+       "MCM242",
+       "MCW110",
+       "MCW111",
+       "MCW124",
+       "MCW234",
+       "MCW235",
+       "MCW244"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCM351",
+      "Nome": "Saúde da Criança I",
+      "Créditos": "7.0",
+      "Teórica": "30",
+      "Prática": "150",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das patologias mais freqüentes em Pediatria, subdivididas em módulos: cardiologia, gastroenterologia, endocrinologia, pneumologia, neonatologia, abordando a etiopatogenia, diagnóstico,tratamento, prognóstico, prevenção e reabilitação.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "13:30 - 17:30",
+        "professor": "MICHELE SILVA THOMAZ"
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 12:00",
+        "professor": "ANA PAULA CARDOZO DA ROSA CHAVARRI"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:30 - 17:30",
+        "professor": "MARTA MACIEL DUDUS"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:30 - 17:30",
+        "professor": "MARIANA POVOA DE ALMEIDA CORREA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 12:00",
+        "professor": "MARTA MACIEL DUDUS"
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 12:00",
+        "professor": "MARIANA POVOA DE ALMEIDA CORREA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:30 - 17:30",
+        "professor": "ANA PAULA CARDOZO DA ROSA CHAVARRI"
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 12:00",
+        "professor": "MICHELE SILVA THOMAZ"
+       }
+      ],
+      "Requisitos": [
+       "MCM121",
+       "MCM241",
+       "MCM242",
+       "MCW110",
+       "MCW111",
+       "MCW124",
+       "MCW234",
+       "MCW235",
+       "MCW244"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCM353",
+      "Nome": "Saúde do Adulto a",
+      "Créditos": "11.0",
+      "Teórica": "40",
+      "Prática": "290",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Semiogênese e fisiopatologia de grandes sinais e sintomas e de síndromes clínicas. dados relativos à anamnese do adulto. Semiotécnica sistematizada do adulto. Propedêutica radiológica. Conceitos básicos de técnica operatória e de procedimentos invasivos com prática cirúrgica de pequenos portes.\n___BIBLIOGRAFIA BÁSICA___\n1- PORTO, Celmo Celeno. Semiologia m dica. 6. ed. Rio de Janeiro: Guanabara Koogan, 2009. 15 ex. 616.072 P853 2. ed. 1994; 616.072 P853s 6. ed. 2009 reimpr. 2011.\n2- MARQUES, Ruy garcia et. al. Técnica operatória e cirurgia experimental. Rio de Janeiro: Guanabara Koogan, 2005. 9 ex. 617.9 T255 2005.\n3- MARCHIORI, Edson; SANTOS, Maria Lucia. Introdução à radiologia. 2. ed. Rio de Janeiro:  Guanabara Koogan, 2015. 3 ex. 616.0757 M317i 2. ed. 2015.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:30 - 17:30",
+        "professor": "MARCIO XIMENDES ESPIRITO SANTO"
+       },
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 12:00",
+        "professor": "ELIENE DENITES DUARTE MESQUITA"
+       },
+       {
+        "dia": "Seg",
+        "hora": "13:30 - 17:30",
+        "professor": "SERGIO FERREIRA ALVES JUNIOR"
+       },
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 12:00",
+        "professor": "RENATO FARIA DA GAMA"
+       },
+       {
+        "dia": "Seg",
+        "hora": "13:30 - 17:30",
+        "professor": ""
+       },
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 12:00",
+        "professor": "MARCOS VIEIRA FERREIRA"
+       },
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 12:00",
+        "professor": "SERGIO FERREIRA ALVES JUNIOR"
+       },
+       {
+        "dia": "Seg",
+        "hora": "13:30 - 17:30",
+        "professor": "ELIENE DENITES DUARTE MESQUITA"
+       },
+       {
+        "dia": "Seg",
+        "hora": "13:30 - 17:30",
+        "professor": "MARCOS VIEIRA FERREIRA"
+       },
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 12:00",
+        "professor": "BIANCA GUARALDI COUTO"
+       },
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 12:00",
+        "professor": "MARCIO XIMENDES ESPIRITO SANTO"
+       },
+       {
+        "dia": "Seg",
+        "hora": "13:30 - 17:30",
+        "professor": "BIANCA GUARALDI COUTO"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "MARCIO XIMENDES ESPIRITO SANTO"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "MARCOS VIEIRA FERREIRA"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "BIANCA GUARALDI COUTO"
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:30 - 17:30",
+        "professor": "RENATO FARIA DA GAMA"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "ELIENE DENITES DUARTE MESQUITA"
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:30 - 17:30",
+        "professor": "SERGIO FERREIRA ALVES JUNIOR"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": ""
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:30 - 17:30",
+        "professor": "BIANCA GUARALDI COUTO"
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:30 - 17:30",
+        "professor": "MARCOS VIEIRA FERREIRA"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "RENATO FARIA DA GAMA"
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:30 - 17:30",
+        "professor": "ELIENE DENITES DUARTE MESQUITA"
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:30 - 17:30",
+        "professor": "MARCIO XIMENDES ESPIRITO SANTO"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 12:00",
+        "professor": ""
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 12:00",
+        "professor": "ELIENE DENITES DUARTE MESQUITA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "13:30 - 17:30",
+        "professor": "MARCIO XIMENDES ESPIRITO SANTO"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 12:00",
+        "professor": "BIANCA GUARALDI COUTO"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 12:00",
+        "professor": "SERGIO FERREIRA ALVES JUNIOR"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 12:00",
+        "professor": "RENATO FARIA DA GAMA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "13:30 - 17:30",
+        "professor": "MARCOS VIEIRA FERREIRA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "13:30 - 17:30",
+        "professor": "BIANCA GUARALDI COUTO"
+       },
+       {
+        "dia": "Sex",
+        "hora": "13:30 - 17:30",
+        "professor": "SERGIO FERREIRA ALVES JUNIOR"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 12:00",
+        "professor": "MARCOS VIEIRA FERREIRA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "13:30 - 17:30",
+        "professor": "ELIENE DENITES DUARTE MESQUITA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "13:30 - 17:30",
+        "professor": "RENATO FARIA DA GAMA"
+       }
+      ],
+      "Requisitos": [
+       "MCM121",
+       "MCM241",
+       "MCM242",
+       "MCW110",
+       "MCW111",
+       "MCW124",
+       "MCW234",
+       "MCW235",
+       "MCW244"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "6º Período": [
+     {
+      "Codigo": "MCM361",
+      "Nome": "Saúde da Criança II",
+      "Créditos": "7.0",
+      "Teórica": "30",
+      "Prática": "150",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das patologias mais freqüentes em Pediatria, subdivididas em módulos: reumatologia, dermatologia, genética, neurologia, hematologia, nefrologia e emergências médico-cirúrgicas, abordando a etiopatogenia, diagnóstico,tratamento, prognóstico, prevenção e reabilitação.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:30 - 17:30",
+        "professor": "ANA PAULA CARDOZO DA ROSA CHAVARRI"
+       },
+       {
+        "dia": "Seg",
+        "hora": "13:30 - 17:30",
+        "professor": "MICHELE SILVA THOMAZ"
+       },
+       {
+        "dia": "Seg",
+        "hora": "13:30 - 17:30",
+        "professor": "MARIANA POVOA DE ALMEIDA CORREA"
+       },
+       {
+        "dia": "Seg",
+        "hora": "13:30 - 17:30",
+        "professor": "MARTA MACIEL DUDUS"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:30 - 17:30",
+        "professor": "MICHELE SILVA THOMAZ"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:30 - 17:30",
+        "professor": "ANA PAULA CARDOZO DA ROSA CHAVARRI"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:30 - 17:30",
+        "professor": "MARIANA POVOA DE ALMEIDA CORREA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:30 - 17:30",
+        "professor": "MARTA MACIEL DUDUS"
+       }
+      ],
+      "Requisitos": [
+       "MCM121",
+       "MCM241",
+       "MCM242",
+       "MCM350",
+       "MCM351",
+       "MCW110",
+       "MCW111",
+       "MCW124",
+       "MCW234",
+       "MCW235",
+       "MCW244"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCM360",
+      "Nome": "Saúde do Adulto II",
+      "Créditos": "19.0",
+      "Teórica": "60",
+      "Prática": "460",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das afecções clínicas e cirúrgicas cardiovasculares , respiratórias, neurológicas, reumáticas mais freqüentes na população abordando a etiopatogenia, fisiopatologia, anatomia patológica, epidemiologia, diagnóstico clínico e laboratorial, farmacologia e terapêutica, prognóstico, prevenção e reabilitação. Relação médico paciente.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 12:00",
+        "professor": "KARINA SCHIAVONI SCANDELAI CARDOSO DOS REIS"
+       },
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 12:00",
+        "professor": "GLEISON MARINHO GUIMARAES"
+       },
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 12:00",
+        "professor": "FERNANDO MENDES SANT ANNA"
+       },
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 12:00",
+        "professor": "JUSSARA MATHIAS NETTO KHOURI"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "GLEISON MARINHO GUIMARAES"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "JUSSARA MATHIAS NETTO KHOURI"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "FERNANDO MENDES SANT ANNA"
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:30 - 17:30",
+        "professor": "GLEISON MARINHO GUIMARAES"
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:30 - 17:30",
+        "professor": "FERNANDO MENDES SANT ANNA"
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:30 - 17:30",
+        "professor": "JUSSARA MATHIAS NETTO KHOURI"
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:30 - 17:30",
+        "professor": "KARINA SCHIAVONI SCANDELAI CARDOSO DOS REIS"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": ""
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 12:00",
+        "professor": "GLEISON MARINHO GUIMARAES"
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 12:00",
+        "professor": "KARINA SCHIAVONI SCANDELAI CARDOSO DOS REIS"
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 12:00",
+        "professor": "JUSSARA MATHIAS NETTO KHOURI"
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 12:00",
+        "professor": "FERNANDO MENDES SANT ANNA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 12:00",
+        "professor": "JUSSARA MATHIAS NETTO KHOURI"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:30 - 17:30",
+        "professor": "KARINA SCHIAVONI SCANDELAI CARDOSO DOS REIS"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 12:00",
+        "professor": "FERNANDO MENDES SANT ANNA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 12:00",
+        "professor": "GLEISON MARINHO GUIMARAES"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:30 - 17:30",
+        "professor": "JUSSARA MATHIAS NETTO KHOURI"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 12:00",
+        "professor": "KARINA SCHIAVONI SCANDELAI CARDOSO DOS REIS"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:30 - 17:30",
+        "professor": "FERNANDO MENDES SANT ANNA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:30 - 17:30",
+        "professor": "GLEISON MARINHO GUIMARAES"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 12:00",
+        "professor": "JUSSARA MATHIAS NETTO KHOURI"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 12:00",
+        "professor": "FERNANDO MENDES SANT ANNA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 12:00",
+        "professor": "GLEISON MARINHO GUIMARAES"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 12:00",
+        "professor": "KARINA SCHIAVONI SCANDELAI CARDOSO DOS REIS"
+       }
+      ],
+      "Requisitos": [
+       "MCM121",
+       "MCM241",
+       "MCM242",
+       "MCM350",
+       "MCM351",
+       "MCW110",
+       "MCW111",
+       "MCW124",
+       "MCW234",
+       "MCW235",
+       "MCW244"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "7º Período": [
+     {
+      "Codigo": "MCM471",
+      "Nome": "Saúde da Mulher",
+      "Créditos": "9.0",
+      "Teórica": "45",
+      "Prática": "180",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Morfo-fisiologia e semiologia da gravidez. Parto e puerpério. Gravidez de alto risco. medicina fetal. Urgências obstétricas. Parto patológico. Obstetrícia preventiva. Dismorfismos em ginecologia. Distopias genitais. Distúrbios funcionais. Esterilidade e anticoncepção. Processos ginecológicos inflamatórios, tumorais e displásicos. Urgências. Implicações éticas da saúde da mulher.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 17:30",
+        "professor": "RAFAEL DE CASTRO FREITAS"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 17:30",
+        "professor": "CRISTIANO SALLES RODRIGUES"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 17:30",
+        "professor": "LARA SOARES MORALES BITTENCOURT EMMANUEL MATIAS"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 17:30",
+        "professor": "CARLOS ALEXANDRE RIBEIRO GOULART"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 12:00",
+        "professor": "CRISTIANO SALLES RODRIGUES"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 12:00",
+        "professor": "CARLOS ALEXANDRE RIBEIRO GOULART"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 12:00",
+        "professor": "LARA SOARES MORALES BITTENCOURT EMMANUEL MATIAS"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 12:00",
+        "professor": "RAFAEL DE CASTRO FREITAS"
+       }
+      ],
+      "Requisitos": [
+       "MCM121",
+       "MCM241",
+       "MCM242",
+       "MCM350",
+       "MCM351",
+       "MCM360",
+       "MCM361",
+       "MCW110",
+       "MCW111",
+       "MCW124",
+       "MCW234",
+       "MCW235",
+       "MCW244"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCM470",
+      "Nome": "Saúde do Adulto III",
+      "Créditos": "18.0",
+      "Teórica": "45",
+      "Prática": "460",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das afecções clínicas e cirúrgicas digestivas, renais, metabólicas, endócrinas , dermatológicas, hematológicas e oncológicas mais freqüentes na população abordando a etiopatogenia, fisiopatologia, anatomia patológica, epidemiologia, diagnóstico clínico e laboratorial, farmacologia e terapêutica, prognóstico, prevenção e reabilitação. Relação médico paciente.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 17:30",
+        "professor": "RICARDO DOS SANTOS VASCONCELOS"
+       },
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 17:30",
+        "professor": "MARCIO XIMENDES ESPIRITO SANTO"
+       },
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 17:30",
+        "professor": "KATIA CALVI LENZI DE ALMEIDA"
+       },
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 17:30",
+        "professor": "PAULO DE ASSIS MELO"
+       },
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 17:30",
+        "professor": "PATRICK BRIAN CANDIDO"
+       },
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 17:30",
+        "professor": "CLAUDIA GUSMAO"
+       },
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 17:30",
+        "professor": "GLAUBER MIRANDA DE LACERDA"
+       },
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 17:30",
+        "professor": "SABRINA RIBEIRO GONSALEZ"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 17:30",
+        "professor": "CLAUDIA GUSMAO"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 17:30",
+        "professor": "GLAUBER MIRANDA DE LACERDA"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 17:30",
+        "professor": "SABRINA RIBEIRO GONSALEZ"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 17:30",
+        "professor": "PATRICK BRIAN CANDIDO"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 17:30",
+        "professor": "MARCIO XIMENDES ESPIRITO SANTO"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 17:30",
+        "professor": "PAULO DE ASSIS MELO"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 17:30",
+        "professor": "RICARDO DOS SANTOS VASCONCELOS"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 17:30",
+        "professor": "KATIA CALVI LENZI DE ALMEIDA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 12:00",
+        "professor": "PATRICK BRIAN CANDIDO"
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 12:00",
+        "professor": "MARCIO XIMENDES ESPIRITO SANTO"
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 12:00",
+        "professor": "SABRINA RIBEIRO GONSALEZ"
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 12:00",
+        "professor": "KATIA CALVI LENZI DE ALMEIDA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 12:00",
+        "professor": "RICARDO DOS SANTOS VASCONCELOS"
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 12:00",
+        "professor": "PAULO DE ASSIS MELO"
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 12:00",
+        "professor": "GLAUBER MIRANDA DE LACERDA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 12:00",
+        "professor": "CLAUDIA GUSMAO"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 17:30",
+        "professor": "KATIA CALVI LENZI DE ALMEIDA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 17:30",
+        "professor": "CLAUDIA GUSMAO"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 17:30",
+        "professor": "PATRICK BRIAN CANDIDO"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 17:30",
+        "professor": "GLAUBER MIRANDA DE LACERDA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 17:30",
+        "professor": "MARCIO XIMENDES ESPIRITO SANTO"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 17:30",
+        "professor": "SABRINA RIBEIRO GONSALEZ"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 17:30",
+        "professor": "PAULO DE ASSIS MELO"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 17:30",
+        "professor": "RICARDO DOS SANTOS VASCONCELOS"
+       }
+      ],
+      "Requisitos": [
+       "MCM121",
+       "MCM241",
+       "MCM242",
+       "MCM350",
+       "MCM351",
+       "MCM360",
+       "MCM361",
+       "MCW110",
+       "MCW111",
+       "MCW124",
+       "MCW234",
+       "MCW235",
+       "MCW244"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "8º Período": [
+     {
+      "Codigo": "MCM481",
+      "Nome": "Saúde Mental",
+      "Créditos": "8.0",
+      "Teórica": "30",
+      "Prática": "180",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Psiquiatria preventiva. Semiologia psiquiátrica. Principais síndromes psiquiátricas. Psicoses e retardo mental. desenvolvimento e reações anormais. Urgências psiquiátricas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:30 - 17:30",
+        "professor": "HELVO SLOMP JUNIOR"
+       },
+       {
+        "dia": "Seg",
+        "hora": "13:30 - 17:30",
+        "professor": "MONICA GOMES DE ANDRADE"
+       },
+       {
+        "dia": "Seg",
+        "hora": "13:30 - 17:30",
+        "professor": "ALESSANDRA ANICETO FERREIRA DE FIGUEIREDO"
+       },
+       {
+        "dia": "Seg",
+        "hora": "13:30 - 17:30",
+        "professor": "JULIO CESAR SILVEIRA GOMES PINTO"
+       },
+       {
+        "dia": "Seg",
+        "hora": "13:30 - 17:30",
+        "professor": "MIGUEL SOARES DE BRITO JUNIOR"
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 12:00",
+        "professor": "ALESSANDRA ANICETO FERREIRA DE FIGUEIREDO"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:30 - 17:30",
+        "professor": "JULIO CESAR SILVEIRA GOMES PINTO"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:30 - 17:30",
+        "professor": "MONICA GOMES DE ANDRADE"
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 12:00",
+        "professor": ""
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:30 - 17:30",
+        "professor": "MIGUEL SOARES DE BRITO JUNIOR"
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 12:00",
+        "professor": "HELVO SLOMP JUNIOR"
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 12:00",
+        "professor": "JULIO CESAR SILVEIRA GOMES PINTO"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:30 - 17:30",
+        "professor": "ALESSANDRA ANICETO FERREIRA DE FIGUEIREDO"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:30 - 17:30",
+        "professor": "HELVO SLOMP JUNIOR"
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 12:00",
+        "professor": "MIGUEL SOARES DE BRITO JUNIOR"
+       }
+      ],
+      "Requisitos": [
+       "MCM121",
+       "MCM241",
+       "MCM242",
+       "MCM350",
+       "MCM351",
+       "MCM360",
+       "MCM361",
+       "MCM470",
+       "MCM471",
+       "MCW110",
+       "MCW111",
+       "MCW124",
+       "MCW234",
+       "MCW235",
+       "MCW244"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCM480",
+      "Nome": "Saúde do Adulto IV",
+      "Créditos": "16.0",
+      "Teórica": "45",
+      "Prática": "410",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Cirurgia geral, torácica, vascular, plástica, proctológica, urológica e neurológica. Pré e pós operatório. Patologia e radiologia cirúrgicas. Urgências cirúrgicas. Indicações,  métodos e resultados do tratamento cirúrgico. Patologia, profilaxia, clínica e tratamento das lesões mais freqüentes em ortopedia e traumatologia, oftalmologia e otorrinolaringologia. implicações psicossociais e éticas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 12:00",
+        "professor": "RICARDO DOS SANTOS VASCONCELOS"
+       },
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 12:00",
+        "professor": "MARCELO NASCIMENTO AZEVEDO"
+       },
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 12:00",
+        "professor": "LAILA ZELKCOVICZ ERTLER"
+       },
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 12:00",
+        "professor": "CLAUDIO LUIZ LOURENCO DE SOUZA"
+       },
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 12:00",
+        "professor": "MARCOS VIEIRA FERREIRA"
+       },
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 12:00",
+        "professor": "FRANCISCO EDUARDO SILVA"
+       },
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 12:00",
+        "professor": "MARCUS VINICIUS VERARDO DE MEDEIROS"
+       },
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 12:00",
+        "professor": "IRNAK MARCELO BARBOSA"
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:30 - 17:30",
+        "professor": "FRANCISCO EDUARDO SILVA"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "IRNAK MARCELO BARBOSA"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "RICARDO DOS SANTOS VASCONCELOS"
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:30 - 17:30",
+        "professor": "MARCELO NASCIMENTO AZEVEDO"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "FRANCISCO EDUARDO SILVA"
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:30 - 17:30",
+        "professor": "IRNAK MARCELO BARBOSA"
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:30 - 17:30",
+        "professor": "MARCUS VINICIUS VERARDO DE MEDEIROS"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "CLAUDIO LUIZ LOURENCO DE SOUZA"
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:30 - 17:30",
+        "professor": "LAILA ZELKCOVICZ ERTLER"
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:30 - 17:30",
+        "professor": "RICARDO DOS SANTOS VASCONCELOS"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "MARCUS VINICIUS VERARDO DE MEDEIROS"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "MARCOS VIEIRA FERREIRA"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "LAILA ZELKCOVICZ ERTLER"
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:30 - 17:30",
+        "professor": "CLAUDIO LUIZ LOURENCO DE SOUZA"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "MARCELO NASCIMENTO AZEVEDO"
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:30 - 17:30",
+        "professor": "MARCOS VIEIRA FERREIRA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 12:00",
+        "professor": "IRNAK MARCELO BARBOSA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 12:00",
+        "professor": "FRANCISCO EDUARDO SILVA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:30 - 17:30",
+        "professor": "CLAUDIO LUIZ LOURENCO DE SOUZA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 12:00",
+        "professor": "MARCUS VINICIUS VERARDO DE MEDEIROS"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:30 - 17:30",
+        "professor": "LAILA ZELKCOVICZ ERTLER"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 12:00",
+        "professor": "MARCOS VIEIRA FERREIRA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:30 - 17:30",
+        "professor": ""
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:30 - 17:30",
+        "professor": "FRANCISCO EDUARDO SILVA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 12:00",
+        "professor": "CLAUDIO LUIZ LOURENCO DE SOUZA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:30 - 17:30",
+        "professor": "MARCUS VINICIUS VERARDO DE MEDEIROS"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:30 - 17:30",
+        "professor": "IRNAK MARCELO BARBOSA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 12:00",
+        "professor": "MARCELO NASCIMENTO AZEVEDO"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 12:00",
+        "professor": "LAILA ZELKCOVICZ ERTLER"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:30 - 17:30",
+        "professor": "RICARDO DOS SANTOS VASCONCELOS"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:30 - 17:30",
+        "professor": "MARCELO NASCIMENTO AZEVEDO"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 12:00",
+        "professor": "RICARDO DOS SANTOS VASCONCELOS"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 10:00",
+        "professor": "FRANCISCO EDUARDO SILVA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 10:00",
+        "professor": "CLAUDIO LUIZ LOURENCO DE SOUZA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 10:00",
+        "professor": "MARCELO NASCIMENTO AZEVEDO"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 10:00",
+        "professor": "MARCUS VINICIUS VERARDO DE MEDEIROS"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 10:00",
+        "professor": "RICARDO DOS SANTOS VASCONCELOS"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 10:00",
+        "professor": "MARCOS VIEIRA FERREIRA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 10:00",
+        "professor": "LAILA ZELKCOVICZ ERTLER"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 10:00",
+        "professor": "IRNAK MARCELO BARBOSA"
+       }
+      ],
+      "Requisitos": [
+       "MCM121",
+       "MCM241",
+       "MCM242",
+       "MCM350",
+       "MCM351",
+       "MCM360",
+       "MCM361",
+       "MCM470",
+       "MCM471",
+       "MCW110",
+       "MCW111",
+       "MCW124",
+       "MCW234",
+       "MCW235",
+       "MCW244"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCM482",
+      "Nome": "Medicina Legal e Ética Médica",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das relações da medicina com o direito nos campos penal, civil, administrativo e ético. Código de ética médica. Uso e valorização das perícias neste contexto. Estudo conceitual da morte e dos fenômenos cadavéricos. Mortes naturais e mortes violentas. Aspectos legais das declarações de óbitos. Traumatologia forense. Causalidade do dano. Patologia geral das lesões e mortes causadas por energias externas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "10:00 - 12:00",
+        "professor": "ALFREDO DE CARVALHO MAIO FILHO"
+       }
+      ],
+      "Requisitos": [
+       "MCM121",
+       "MCM241",
+       "MCM242",
+       "MCM350",
+       "MCM351",
+       "MCM360",
+       "MCM361",
+       "MCW110",
+       "MCW111",
+       "MCW124",
+       "MCW234",
+       "MCW235",
+       "MCW244"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "9º Período": [
+     {
+      "Codigo": "MCMU01",
+      "Nome": "Estágio de Emergência",
+      "Créditos": "6.0",
+      "Teórica": "0",
+      "Prática": "290",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estágio curricular sob forma de treinamento em serviço de emergência.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 12:00",
+        "professor": "CLAUDIO LUIZ LOURENCO DE SOUZA"
+       },
+       {
+        "dia": "Seg",
+        "hora": "13:30 - 17:00",
+        "professor": "CARLOS ALEXANDRE RIBEIRO GOULART"
+       },
+       {
+        "dia": "Seg",
+        "hora": "13:30 - 17:00",
+        "professor": "LAILA ZELKCOVICZ ERTLER"
+       },
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 12:00",
+        "professor": "CARLOS ALEXANDRE RIBEIRO GOULART"
+       },
+       {
+        "dia": "Seg",
+        "hora": "13:30 - 17:00",
+        "professor": "CLAUDIO LUIZ LOURENCO DE SOUZA"
+       },
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 12:00",
+        "professor": "LAILA ZELKCOVICZ ERTLER"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "CARLOS ALEXANDRE RIBEIRO GOULART"
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:30 - 17:00",
+        "professor": "CLAUDIO LUIZ LOURENCO DE SOUZA"
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:30 - 17:00",
+        "professor": "LAILA ZELKCOVICZ ERTLER"
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:30 - 17:00",
+        "professor": "CARLOS ALEXANDRE RIBEIRO GOULART"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "CLAUDIO LUIZ LOURENCO DE SOUZA"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "LAILA ZELKCOVICZ ERTLER"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:30 - 17:00",
+        "professor": ""
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:30 - 17:00",
+        "professor": "CLAUDIO LUIZ LOURENCO DE SOUZA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 12:00",
+        "professor": ""
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:30 - 17:00",
+        "professor": "CARLOS ALEXANDRE RIBEIRO GOULART"
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 12:00",
+        "professor": "LAILA ZELKCOVICZ ERTLER"
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 12:00",
+        "professor": "CARLOS ALEXANDRE RIBEIRO GOULART"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 12:00",
+        "professor": "LAILA ZELKCOVICZ ERTLER"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 12:00",
+        "professor": "CARLOS ALEXANDRE RIBEIRO GOULART"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:30 - 17:00",
+        "professor": ""
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 12:00",
+        "professor": "CLAUDIO LUIZ LOURENCO DE SOUZA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:30 - 17:00",
+        "professor": ""
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:30 - 17:00",
+        "professor": "LAILA ZELKCOVICZ ERTLER"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 12:00",
+        "professor": "CLAUDIO LUIZ LOURENCO DE SOUZA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "13:30 - 17:00",
+        "professor": "CARLOS ALEXANDRE RIBEIRO GOULART"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 12:00",
+        "professor": "LAILA ZELKCOVICZ ERTLER"
+       },
+       {
+        "dia": "Sex",
+        "hora": "13:30 - 17:00",
+        "professor": "CLAUDIO LUIZ LOURENCO DE SOUZA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 12:00",
+        "professor": "CARLOS ALEXANDRE RIBEIRO GOULART"
+       },
+       {
+        "dia": "Sex",
+        "hora": "13:30 - 17:00",
+        "professor": "LAILA ZELKCOVICZ ERTLER"
+       }
+      ],
+      "Requisitos": [
+       "MCM471",
+       "MCM480"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "10º Período": [],
+    "11º Período": [],
+    "12º Período": [],
+    "Disciplinas Optativas (Escolha Restrita)": [
+     {
+      "Codigo": "MCMU03",
+      "Nome": "Internato Rotator Med Família",
+      "Créditos": "23.0",
+      "Teórica": "80",
+      "Prática": "800",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estágio curricular sob forma de treinamento em serviço sob supervisão docente e com responsabilidade progressiva na área de medicina de família com a finalidade de formação de médicos, capazes de utilizar conhecimentos, habilidades e atitudes necessários ao desempenho da prática da Atenção Primária à Saúde e da Estratégia Programa de Saúde Família, em consonância com os princípios consagrados pelo Sistema Único de Saúde / SUS.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MCM241",
+       "MCM242",
+       "MCM361",
+       "MCM480",
+       "MCM481",
+       "MCM482",
+       "MCW231",
+       "MCW240"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCMU05",
+      "Nome": "Internato Rotator Saúde Adulto",
+      "Créditos": "23.0",
+      "Teórica": "80",
+      "Prática": "800",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estágio curricular sob forma de treinamento em serviço sob supervisão docente e com responsabilidade progressiva na área de pediatria.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MCM480"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCMU02",
+      "Nome": "Internato Rotator Saúde Mulher",
+      "Créditos": "23.0",
+      "Teórica": "80",
+      "Prática": "800",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estágio curricular sob forma de treinamento em serviço sob supervisão docente e com responsabilidade progressiva na área de ginecologia e obstetrícia.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MCM361",
+       "MCM481"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCMU04",
+      "Nome": "Internato Rotator Saúde Crianç",
+      "Créditos": "23.0",
+      "Teórica": "80",
+      "Prática": "800",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estágio curricular sob forma de treinamento em serviço sob supervisão docente e com responsabilidade progressiva na área de pediatria.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MCM361",
+       "MCM481"
+      ],
+      "Tipo": "eletiva"
+     }
+    ],
+    "Disciplinas Optativas (Escolha Condicionada)": [
+     {
+      "Codigo": "MCE025",
+      "Nome": "Introdução à Oncologia",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Oncologia e câncer: aspectos conceituais, epidemiológicos, biológicos e clínicos. Câncer como um grave problema de saúde no Brasil e no mundo. Ações e políticas de controle e tratamento do câncer. As múltiplas interfaces da assistência ao paciente oncológico para a prática interdisciplinar.\n___ BIBLIOGRAFIA BÁSICA ___\n1) MURAD AM, Katz. Oncologia: bases clínicas do tratamento. Guanabara Koogan, Rio de Janeiro, 1990.\n2) DENARDI, U. Enfermagem em Radioterapia. Ed. Lemar, 2008.\n3) DeVITA, HELLMAN, and ROSENBERGS. Lippincott Williams & Wilkins. Cancer: Principles and Pratice of Oncology.\n___ BIBLIOGRAFIA COMPLEMENTAR ___\n1) SALVAJOLI JV; SOUHAMI, Faria SL (org.). Radioterapia em Oncologia. Ed. MedSi, 1ª Ed., 1999.\n2) SANTOS, CER; MELLO, EL. Manual de Cirurgia Oncológica. Ed. Novo Conceito, 2008.\n3) BONASSA, E. Enfermagem em Terapêutica Oncológica. Ed. Atheneu, 2000.\n4) PASQUINI, R. Fundamentos e Biologia do Transplante de Células Hematopoiéticas. In _________. Hematologia: Fundamentos e Prática. São Paulo: Atheneu, 2005. p. 914-935.\n5) KUBLER-ROSS, E. Sobre a morte e o morrer: o que os doentes têm para ensinar aos médicos, enfermeiras, religiosos e aos próprios parentes. Ed. São Paulo: Martins Fontes, 1992.\n6) BRASIL. Ministério da Saúde. Secretária de Atenção à Saúde. Instituto Nacional de Câncer. Coordenação de Prevenção e Vigilância. Parâmetros técnicos para programação de ações de detecção precoce do câncer da mama: recomendações para gestores estaduais e municipais / Ministério da Saúde. Secretária de Atenção à Saúde. Instituto Nacional de Câncer. Coordenação de Prevenção e Vigilância. Rio de Janeiro: INCA, 2006.\n7) PADILHA PC; PINHEIRO, RL. O papel dos alimentos funcionais na prevenção e controle do câncer de mama. Revista Brasileira de Cancerologia, 2004; 50(3) 251-260.\n8) BRASIL. Ministério da Saúde. Secretária de Atenção à Saúde. Instituto Nacional de Câncer José Alencar Gomes da Silva. A situação do tabagismo no Brasil: dados dos inquéritos do Sistema Internacional de Vigilância, da Organização Mundial da Saúde, realizados no Brasil, entre 2002 e 2009. Instituto Nacional de Câncer José Alencar Gomes da Silva. Rio de Janeiro: INCA, 2011, 76 p.\n9) BRASIL. Ministério da Saúde. Secretária de Atenção à Saúde. Instituto Nacional de Câncer (Brasil). Coordenação Geral de Ações Estratégicas. Divisão de Apoio à Rede de Atenção Oncológica. Diretrizes Brasileiras para o Rastreamento do Câncer do colo do útero. Instituto Nacional do Câncer. Coordenação Geral de Ações Estratégicas. Divisão de Apoio à Rede de Atenção Oncológica. Rio de Janeiro: INCA, 2011.\n10) BRASIL. Ministério da Saúde. Secretária de Atenção à Saúde. Instituto Nacional de Câncer (Brasil). Coordenação Geral de Ações Estratégicas. Coordenação de Prevenção e Vigilância. Políticas e Ações para prevenção do câncer no Brasil: alimentação, nutrição e atividade física. 1 reimpr. Instituto Nacional de Câncer. Coordenação Geral de Ações Estratégicas. Coordenação de Prevenção e Vigilância. Rio de Janeiro: INCA, 2011.\n11) BRASIL. Ministério da Saúde. Secretária de Atenção à Saúde. Instituto Nacional de Câncer (Brasil). Diagnóstico precoce do câncer na criança e no adolescente. Instituto Nacional do Câncer, Instituto Ronald McDonald. 2 ed rev. ampl. Rio de Janeiro: INCA, 2011.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MCW240"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCM002",
+      "Nome": "Radiologia - M",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "4",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Métodos de exploração radiológica. Equipamentos: RX convencional, US, TC, Angiografia, RM, Medicina Nuclear e Radioterapia. Meios de contraste. Preparo de exames radiológicos. Anatomia Radiológica do aparelho respiratório, mediastino, Aparelho cardiovascular, abdômen, aparelho digestivo, aparelho urinário, aparelho osteoarticular e sistema nervoso central. Semiologia radiológica dos principais sinais e síndromes clínicas. Terminologia radiológica utilizada na sua descrição. Correlação clínico-radiológica das principais síndromes em cardiologia, pneumonia, nefrologia, urologia, neurologia, gastroenterologia, sistema endócrino e sistema osteoarticular. Importância da radiologia e dos demais métodos por imagem na clínica médica e na pediatria. Relação médico-paciente. Questões éticas em radiologia.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "17:00 - 19:00",
+        "professor": "SERGIO FERREIRA ALVES JUNIOR"
+       }
+      ],
+      "Requisitos": [
+       "MCM350"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCM004",
+      "Nome": "Atualização em Ginecologia",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Metodologia científica, busca de artigos, métodos contraceptivos, doenças sexualmente transmissíveis, câncer de mama, câncer de colo uterino, endrometriose, desmenorreia, climatério, sexualidade.\n___ BIBLIOGRAFIA BÁSICA ___\n1) BEREK, J. S. Berek & Novak: Tratado de Ginecologia. 15ª ed., Rio de Janeiro: Guanabara Koogan, 2014.\n2) CONCEICAO, J.C. de J. Ginecologia fundamental. 5ª ed., Rio de Janeiro: Atheneu, 2005.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MCM360(C)"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCM006",
+      "Nome": "Discussão de Casos Clínicos",
+      "Créditos": "5.0",
+      "Teórica": "75",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estabelecimento de relações entre o conteúdo estudado no curso médico, desde suas bases e ciclo clínico com diagnóstico médico, através de discussão de casos clínicos. Construção, pelos alunos, de hipótese diagnóstica clínica, complementar, diferencial e tratamento, desenvolvida a partir da compreensão detalhada dos passo que constituem o raciocínio clínico e tratamento médico.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "18:00 - 20:00",
+        "professor": "PAULO DE ASSIS MELO"
+       },
+       {
+        "dia": "Qua",
+        "hora": "18:00 - 20:00",
+        "professor": "JUSSARA MATHIAS NETTO KHOURI"
+       }
+      ],
+      "Requisitos": [
+       "MCM241"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCM008",
+      "Nome": "Neurociência Cognitiva",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Metodologia Científica. Busca de artigos, Integração Sensório-Motora, Atenção, linguagem, Planejamento e tomada de decisão, Aprendizado e memória, Motivação e Emoções, Neurodegeneração e reparo do Sistema Nervoso, Regulação Neuro-imuno-endócrino, Doenças Neurodegenerativas, Transtornos Mentais, Substâncias psicoativas e dependência.\n___BIBLIOGRAFIA BÁSICA___\n1- KANDEL, Eric et al. Princípios de Neurociências. 4ª edição. Grupo A, 2014.\n2- PURVES, Dale et al. Neurociências. 4ª edição. Grupo A, 2010.\n3- BEAR, M. et aç Neuroci~encias - Desvendando o Sistema Nervoso. 3ª edição, Grupo A, 2017.\n4- LENT, R. Cem Bilhões de Neurônios. Atheneu, 2002.\n5- LENT, R. Neurociência da Mente e do Comportamento. Grupo GEN, 2008.\n___BIBLIOGRAFIA COMPLEMENTAR___\nArtigos científicos a serem indicados a cada período.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MCW120"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCM010",
+      "Nome": "Marc Soc Dinâm Dif Reper Saúde",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Racismo e sexismo em coletividades coloniais. Diferenciação como processo. As marcas da diferença e o sofrimento no corpo, individual e coletivo. Diferença é desigualdade? Desigualdade e Saúde: os determinantes sociais. Iniquidade de acesso a serviços de saúde. a atualização da opressão: a bio-necropolítica. Perspectiva interseccional, ponto de vista e ligar de fala: a centralidade política da experiência. reconhecimento e reparação. Ao oprimido cabe libertar alguém?\n___BIBLIOGRAFIA BÁSICA___\n1- ANZALDUA, Gloria E. La conciencia de La Mestiza: rumo a uma nova consciência. revista Estudos Feministas. Florianópolis, v. 13, n. 3, p. 704-719, set/dez. 2005.\n2- BARRETO, Mauricio Lima. Desigualdades em Saúde: uma perspectiva global. Ciência & Saúde Coletiva, 22(7): 2097-2108, 2017.\n3- BIEHL, João. Antropologia no campo da saúde global. Horiz. antropol. [online]. 2011, vol. 17, n. 35, pp. 227-256.\n4- BRAH, Avtar. \"Diferença, diversidade, diferenciação\". In: Cadernos Pagu, Campinas, n. 26, 2006, p. 239-276.\n5- CACOPARDO, Ana; CUSICANQUI, Silvia Rivera. Historias debidas VIII: Silvia Rivera Cusicanqui (capíyulo completo) - Canal Encuentro (VÍDEO). Disponível em: https://www.youtube.com/watch?v=1q6HfhZUGhc\n6- FANON, Frantz. A experiência vivida do negro. In: Pele Negra, Máscaras Brancas. Salvador, EDUFBA, 2008.\n7- FREIRE, Paulo. A pedagogia do oprimido. 17 ed. Rio de Janeiro: Paz e Terra, 1987.\n8-  GOES, Emanuelle Freitas; NASCIMENTO, Enilda Rosendo. Mulheres negras e brancas e os níveis de acesso aos serviços preventivos de saúde: uma análise sobre as desigualdades. Saúde em Debate - Rio de Janeiro, v. 37, n. 99, p. 571-579, out/dez 2013.\n9- GONÇALVES, Ana Maria. Um defeito de cor. Rio de Janeiro. Editora Record, 2006.\n10-  GONZALEZ, Lelia. Racismo e Sexismo na Cultura Brasileira. In: Revista Ciências Sociais Hoje, Anpocs, 1984, p. 223-244.\n11- HOOKS, Bell. O feminismo é para todo mundo: políticas arrebatadoras. Rio de Janeiro: Rosa dos Tempos, 2018. [recurso eletrônico]\n12- JESUS, Maria carolina de. Quarto de despejo: diário de uma favelada. São Paulo: Francisco Alves, 1960.\n13-  LIMA, Fatima. Bio-necropolítica: diálogos entre Michel Foucalt e Achille Mbembe. Arquivos Brasileiros de Psicologia; Rio de Janeiro, 70 (no.spe.): 20-33, 2019.\n14-  MBEMBE, Achille. Necropolítica. Arte & Ensaios, Revista do ppgav/eba/ufrj, n. 32, dezembro, 2016.\n15-  McCLINTOCK, Anne. Pós-colonialismo e o anjo do progresso. Em Couro Imperial: raça, g~enero e sexualidade no embate colonial. Campinas: Editora Unicamp. 2010. pg: 15-42.\n16- NOGUEIRA, Renato. Dos condenados da terra à necropolítica: Diálogos fisolóficos entre Frantz Fanon e Achille Mbembe. Revista Latinoamericana do Colégio Internacional de Filosofia n.3, 2016.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCM012",
+      "Nome": "Fund Fisiol, Farmacol e Fisiop",
+      "Créditos": "1.0",
+      "Teórica": "15",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Fundamentos de eletrofisiologia cardíaca aplicada ao eletrocardiograma, arritmias cardíacas, insuficiência coronariana e falência do miocárdio; Fundamentos de bioquímica, fisiologia e fisiopatologia das alterações mais frequentes do Equilíbrio hidroeletrolítico e ácido base aplicado à prática médica-cirúrgica; Farmacologia dos antimicrobianos e antivirais e fisiopatogenia e tratamento de infecções virais de interesse coletivo; Fundamentos de fisiopatologia da ventilação controlada e fundamentos da insuficiência respiratória; Fundamentos de toxicologia/toxinologia; Tratamento dos acidentes por diferentes animais peçonhentos.\nBIBLIOGRAFIA BÁSICA:\n1- Guyton and Hall Textbook of Medical Physiology, 14edth\n2- Medical Physiology by Emile L. Boulpaep and Walter F. Boron 2nd Edition\n3- Ganong?sReview of MedicalPhysiology24 th edition, LANGE\n4- Pharmacological Basis of Therapeutics -Goodman Gilman ?13th Edition, Mc Graw Hill\n5- Pharmacology -HP Rang e M. M. Dale ?8th Edition-Lange Basic Science\n6- Basic and Clinical Pharmacology-Bertram G. Katzung ?14th Edition ?Lange-Mc Graw Hill\n7- Drugs for the Heart-Lionel H Opie & Bernard Gersh -8thEdition ?Elsevier-Saunders\n8- Current Medical Diagnosis & Treatment Papadakis, McPhee & Rabow ?22ndEdition ?Lange-Mc Graw Hill\n9- Davidson?sPrinciples of Practiceof Medicine22ndEdition, ChurchillLivingstone\n10- Artigos e capítulos de livros diversos dentro do tema em Farmacologia fornecidos pelo professor.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "18:00 - 20:00",
+        "professor": "PAULO DE ASSIS MELO"
+       }
+      ],
+      "Requisitos": [
+       "MCM241",
+       "MCM242",
+       "MCW244"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCMX01",
+      "Nome": "Iniciação Científica I",
+      "Créditos": "4.0",
+      "Teórica": "20",
+      "Prática": "120",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Atividade de Iniciação Científica em áreas de interesse do curso de Medicina.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sab",
+        "hora": "08:00 - 14:00",
+        "professor": "JOAO LUIZ MENDES WANDERLEY"
+       }
+      ],
+      "Requisitos": [
+       "MCW110",
+       "MCW111"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCMX03",
+      "Nome": "Iniciação Científica III",
+      "Créditos": "4.0",
+      "Teórica": "20",
+      "Prática": "120",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Atividade de Iniciação Científica em áreas de interesse do curso de Medicina.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sab",
+        "hora": "08:00 - 14:00",
+        "professor": "JOAO LUIZ MENDES WANDERLEY"
+       }
+      ],
+      "Requisitos": [
+       "MCMX02"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCMX05",
+      "Nome": "Iniciação Científica V",
+      "Créditos": "4.0",
+      "Teórica": "20",
+      "Prática": "120",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Atividade de Iniciação Científica em áreas de interesse do curso de Medicina.\n___BIBLIOGRAFIA BÁSICA___\n1- VIEIRA, S; HOSSNE, W.S. A ética e a metodologia. São Paulo: Pioneira, 1998.\n2- GIL, A.C. Como elaborar projetos de pesquisa. Atlas, 1996.\n3- LAKATOS, E.M; MARCONI, M. DE A. Fundamentos de metodologia científica. 3 ed. São Paulo: Atlas, 1991.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sab",
+        "hora": "08:00 - 14:00",
+        "professor": "JOAO LUIZ MENDES WANDERLEY"
+       }
+      ],
+      "Requisitos": [
+       "MCMX04"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCMX07",
+      "Nome": "Iniciação Científica VII",
+      "Créditos": "4.0",
+      "Teórica": "20",
+      "Prática": "120",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Atividade de Iniciação Científica em áreas de interesse do curso de Medicina.\n___BIBLIOGRAFIA BÁSICA___\n1- VIEIRA, S; HOSSNE, W.S. A ética e a metodologia. São Paulo: Pioneira, 1998.\n2- GIL, A.C. Como elaborar projetos de pesquisa. Atlas, 1996.\n3- LAKATOS, E.M; MARCONI, M. DE A. Fundamentos de metodologia científica. 3 ed. São Paulo: Atlas, 1991.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sab",
+        "hora": "08:00 - 14:00",
+        "professor": "JOAO LUIZ MENDES WANDERLEY"
+       }
+      ],
+      "Requisitos": [
+       "MCMX06"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCMX09",
+      "Nome": "Iniciação Científica IX",
+      "Créditos": "4.0",
+      "Teórica": "20",
+      "Prática": "120",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Atividade de Iniciação Científica em áreas de interesse do curso de Medicina.\n___BIBLIOGRAFIA BÁSICA___\n1- VIEIRA, S; HOSSNE, W.S. A ética e a metodologia. São Paulo: Pioneira, 1998.\n2- GIL, A.C. Como elaborar projetos de pesquisa. Atlas, 1996.\n3- LAKATOS, E.M; MARCONI, M. DE A. Fundamentos de metodologia científica. 3 ed. São Paulo: Atlas, 1991.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sab",
+        "hora": "08:00 - 14:00",
+        "professor": "JOAO LUIZ MENDES WANDERLEY"
+       }
+      ],
+      "Requisitos": [
+       "MCMX08"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCMX11",
+      "Nome": "Iniciação Científica XI",
+      "Créditos": "4.0",
+      "Teórica": "20",
+      "Prática": "120",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Atividade de Iniciação Científica em áreas de interesse do curso de Medicina.\n___BIBLIOGRAFIA BÁSICA___\n1- VIEIRA, S; HOSSNE, W.S. A ética e a metodologia. São Paulo: Pioneira, 1998.\n2- GIL, A.C. Como elaborar projetos de pesquisa. Atlas, 1996.\n3- LAKATOS, E.M; MARCONI, M. DE A. Fundamentos de metodologia científica. 3 ed. São Paulo: Atlas, 1991.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sab",
+        "hora": "08:00 - 14:00",
+        "professor": "JOAO LUIZ MENDES WANDERLEY"
+       }
+      ],
+      "Requisitos": [
+       "MCMX10"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCN005",
+      "Nome": "Tóp Esp Envelhecimento e Saúde",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "15",
+      "Informação": {
+       "Info": "Fundamentos de geriatria e gerontologia. Políticas públicas e envelhecimento. Modalidades de assistência ao idoso. Introdução ao estudo das Síndromes Geriátricas e doenças crônicas em idosos. Processos de cuidado e atuação interdisciplinar em saúde do idoso. Vivência em projeto de extensão universitária de promoção à saúde do idoso. Projeto de Extensão \"Envelhecimento, Nutrição e Promoção da Saúde\".\n___ BIBLIOGRAFIA BÁSICA ___\n1) FREITAS, PY. Tratado de geriatria e gerontologia. 4ª Ed. Rio de Janeiro: GUANABARA KOOGAN, 2016. 1696P.\n2) LOPES, MENDES, SILVA. Envelhecimento: estudos e perspectivas. 1ª Ed. São Paulo: Martinari, 2014. 334p.\n3) MENDES, T. Geriatria e Gerontologia. 1ª Ed. São Paulo: MANOLE, 2014. 862p.\n4) TERRA, BÓS, CASTILHOS. Temas sobre envelhecimento ativo. Porto Alegre: ediPUCRS, 2013. 599p.\n5) TINOCO, ROSA. Saúde do idoso: epidemiologia, aspectos nutricionais e processo de envelhecimento. 1ª Ed. Rio de Janeiro: RUBIO, 2015. 528p.\n6) TOMARSO et al. Geriatria: guia prático. Rio de Janeiro: GUANABARA KOOGAN, 2016. 388p.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) ALCÂNTARA et  al. Política nacional do idoso: velhas e novas questões. Rio de Janeiro: Instituto de Pesquisa Econômica e Aplicada (Ipea), 2016. 615p.\n2) BATSIS et al. Weight loss interventions in older adults with obesity: a systematic review of randomized controlled trials since 2005. Journal of the American Geriatrics Society 65: 257-268, 2017.\n3) CONROY, TURPIN. New horizons: urgent care for older people with Frailty. Age and Aging 45: 579-586, 2016.\n4) MORLEY. Nutrition and ageing. Journal of the American Medical Directors Association 18: 91-94, 2017.\n5) ORGANIZAÇÃO MUNDAL DA SAÚDE.  Relatório  Mundial de Envelhecimento e Saúde. 2015. Disponível  em  WWW.who.int/about/licensing/copyright_form/en/index.html\n6) SODERSTORM et al. Malnutrition is associated with increased mortality in older adults regardless of the cause of death. British Journal of Nutrition 117: 532-540, 2017.\n7) SOUZA. Brasil, 2050: desafios de uma nação que envelhece. Centro de Estudos e Debates Estratégicos - Brasília: Câmara dos Deputados, Edições Câmara, 2017. Disponível em: www.livraria.camara.leg.br\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCN011",
+      "Nome": "Introd aos Cuidados Paliativos",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Cuidados Paliativos: histórico, fundamentos, princípios e indicações. Aspectos sociais e conceituais acerca da saúde e do adoecer. Fundamentos filosóficos e bioéticos para Cuidados Paliativos. O papel dos profissionais de saúde na equipe de Cuidados Paliativos. Legislação. Espiritualidade e Cuidados Paliativos: conceitos e intervenções. Princípios no controle de sintomas. Higiene, conforto, cuidados com a pele e hipodermóclise. Farmacologia nos Cuidados Paliativos. Abordagem psicológica do paciente e família. Avaliação nutricional, hidratação e suporte nutricional. Cuidados Paliativos pediátricos e neonatais. Cuidados Paliativos em pacientes oncológicos. Fim de vida.\n",
+       "BibliografiaBasica": "1) BYOCK, I. Principles of Palliative Medicine. In: WALSH, D. et al. Palliative Medicine. [An Expert Consult Title]. Philadelphia, USA: Saunders Elsevier, 2009. p. 33-41.\n2) CARVALHO, R. T.; PARSONS, H. A. (Org.). Manual de Cuidados Paliativos ANCP. 2. ed. São Paulo: s. n., 2012. 320p.\n3) CARVALHO, R. T.; SOUZA, M. R. B.; FRANCK, E. M.; POLASTRINI, R. T. V., CRISPIM, D.; JALES, S. M. C. P.; BARBOSA, S. S. M.; TORRES, S. H. B. Manual de Residência de Cuidados Paliativos - abordagem multiprofissional. São Paulo: Manole, 2018. 1056 p.\n4) WHO. Integrating palliative care and symptom relief into primary health care: a WHO guide for planners, implementers and managers. Switzerland. 78 p.\n5) YENNURAJALINGAM, S.; BRUERA, E. oxford American Handbook. Hospice and palliative medicine and supportive care. 2 ed. Oxford University Press., 2016. 510 p.\n6) OTHERO, M. B. et al. Profiles of palliative care services and teams composition in Brazil: First steps to the Brazilian Atkas of Palliative Care. European Journal Of Palliative Care. 14th World Congress of the European Association of Palliative Care. Copenhaguen, Dennmark. May. 2015. p. 113.\n",
+       "BibliografiaComplementar": "1) MACIEL, M. G. S. et al. Critérios de qualidade para os cuidados paliativos no Brasil. Academia Nacional de Cuidados Paliativos. Rio de Janeiro: Diagraphic, 2016. 60p.\n2) TAKENOSHITA et al. Tube feeding decreases pneumonia rate in patients with severe dementian comparison between pre- and post-intervention. BMC Geriatrics 2017; 17 (267): 2-5.\n3) VICENSI, M. C. Enfermagem em cuidados paliativos. Conselho Regional de Enfermagem de Santa Catarina: Letra Editorial, 2016. 60p.\n4) GARCIA et al. A estruturação de um serviço de cuidados paliativos no Brasil: relato de experiência. Rev Bras Anestesiol. 2014; 64(4): 286-291.\n5) ARAUJO. Comunicação em Cuidados Paliativos: Proposta Educacional para profissionais de saúde. Tese (Doutorado) - Escola de Enfermagem da Universidade de São Paulo. São Paulo, 2011. 260 p.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "09:00 - 12:00",
+        "professor": "PAULA LIMA DO CARMO"
+       },
+       {
+        "dia": "Qua",
+        "hora": "09:00 - 12:00",
+        "professor": "CASSIA QUELHO TAVARES"
+       },
+       {
+        "dia": "Qua",
+        "hora": "09:00 - 12:00",
+        "professor": "LARISSA ESCARCE BENTO WOLLZ"
+       },
+       {
+        "dia": "Qua",
+        "hora": "09:00 - 12:00",
+        "professor": "RENATA BORBA DE AMORIM OLIVEIRA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "09:00 - 12:00",
+        "professor": "GUNNAR GLAUCO DE CUNTO CARELLI TAETS"
+       }
+      ],
+      "Requisitos": [
+       "MCW240"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCW002",
+      "Nome": "Emergências Cirúrgicas",
+      "Créditos": "4.0",
+      "Teórica": "15",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das afecções clínicas e cirúrgicas relacionadas à medicina de emergência. Etiopatogenia, fisiopatologia, anatomia patológica, epidemiologia, diagnóstico clínico e laboratorial, farmacologia e terapêutuica, prognóstico, prevenção e reabilitação. Condutas em medicina de emergência. Avaliação pré-hospitalar. Relação médico-paciente.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MCM350",
+       "MCM351"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCW005",
+      "Nome": "Introd Prát Integr Compl Saúde",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Bases Paradigmáticas da Ciência. Políticas Públicas das Práticas Integrativas e Complementares em Saúde (PICS) e sua inserção no SUS. A utilização das Práticas Integrativas e Complementares pelos profissionais de saúde: aspectos relacionados a formação e a legislação vigente. PICS e a relação com a prática interdisciplinar e a integralidade no Cuidado à Saúde: possibilidades e limites. Apresentação das diferentes PICS.\n___ BIBLIOGRAFIA BÁSICA ___\n1) BRASIL, Ministério da Saúde. Secretaria de Atenção à Saúde. Departamento de Atenção Básica. Práticas Integrativas e Complementares: plantas medicinais e fitoterapia na Atenção Básica/Ministério da Saúde. Secretaria de Atenção à Saúde. Departamento de Atenção Básica. - Brasília: Ministério da Saúde, 2012.\n2) BRASIL, Ministério da Saúde. Secretaria de Atenção à Saúde. Departamento de Atenção Básica. Manual de implantação de serviços de práticas integrativas e complementares no SUS / Ministério da Saúde, Secretaria de Atenção à Saúde, Departamento de Atenção Básica. Brasília: Ministério da Saúde, 2018. 56p.\n3) BRASIL, Ministério da Saúde. Secretaria-Executiva. Secretaria de Atenção à Saúde. Glossário temático: práticas integrativas e complementares em saúde / Ministério da Saúde, Secretaria-Executiva, Secretaria de Atenção à Saúde. Brasília: Ministério da Saúde, 2018. 180 p.\n___ BIBLIOGRAFIA COMPLEMENTAR ___\n1) FRIJOT, C. Ponto de Mutação - A Ciência, a Sociedade e a Cultura emergente. Cultrix: 1982.\n2) BRASIL. Ministério da Saúde. Departamento de Atenção Básica. Política Nacional de Práticas Integrativas e Complementares no SUS - PNPIC-SUS. Braspilia: Ministério da Saúde; 2006. 92 pp.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "17:30 - 20:30",
+        "professor": "EDISON LUIS SANTANA CARVALHO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCW008",
+      "Nome": "Sem Lab Farmacologia Exp e Cli",
+      "Créditos": "1.0",
+      "Teórica": "15",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Apresentação e discussão de artigos científicos. Conceitos básicos de Farmacologia Clínica; fundamentos do projeto de pesquisa \"Envelhecimento: investigação clínica e molecular\"; desenvolvimento de modelos experimentais pré-clínicos e clínicos para o estudo de fármacos, diagnósticos e medicina translacional; análise crítica de artigos relevantes nas áreas de Medicina, Farmacologia e Fisiopatologia.\nBibliografia Básica:\n1. HULLEY, S.; CUMMINGS, S. et al. Delineando a Pesquisa Clínica: uma abordagem epidemiológica. 4ª Ed. Artmed 2015.\n2. ORGANIZAÇÃO PANAMERICANA DE SAÚDE. Boas Práticas Clínicas. 2005.\n3. JAMA Evidence: A manual for evidence-based clinical practice.\n4. FLETCHER, R.; FLETCHER, S. Epidemiologia Clínica ? Elementos essenciais. Porto Alegre: Artmed, 2006.\n5. Catalogue of Bias. Centre of Evidence-based Medicine, University of Oxford. Versão em Português disponível em: https://oxfordbrazilebm.com/index.php/catalogo-de-vieses/. Fletcher RH\n6. WOOLF, S. H. The Meaning of Translational Research and Why It Matters. JAMA, 2008; 299(2): 211?213\n7. GILMAN, G. The Pharmacological Basis of Therapeutics. 13th Edition, Mc Graw Hill\n8. KATZUNG, B. Basic and Clinical Pharmacology. 14 th Edition ?Lange- Mc Graw Hill\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MCM352"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCW122",
+      "Nome": "Int Sinais Sintomas em Clínica",
+      "Créditos": "2.0",
+      "Teórica": "40",
+      "Prática": "10",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Epidemiologia dos sintomas, doenças mais prevalentes, doenças relacionadas à pobreza; características dos sintomas; Aspectos funcionais, subjetivos e ocupacionais. Abordagem das medidas gerais e de estilo de vida (promoção de saúde e prevenção primária); Diagnósticos diferenciais e grandes síndromes. Introduzir importância de história clínica e anmnese.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MCW111"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUP111",
+      "Nome": "Biologia Cultura Questão Raça",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceito de Raça e como essa ideia tem sido aplicada historicamente aos seres humanos na luz dos entendimentos da Antropologia Cultural. Noções de Natureza e de Cultura e a interação entre o social e o biológico. A Raça como conceito biológico e como isso tem sido aplicado aos seres humanos, tocando nas histórias imbricadas de racismo e racialismo. A Antropologia como campo de conhecimento; e a evolução humana na luz do conceito do superorgânico de A.E.Kroeber. As distinções entre o conceito de distribuição clinática de atributos versus o modelo racialista. O posicionamento dos alunos de Ciências Biológicas frente às principais discussões sobre a questão da (não) existência das raças humanas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUP470",
+      "Nome": "Educação e Comunicação- Libras",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCE023",
+      "Nome": "Tóp Esp Políticas e o Sus",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Políticas públicas e aspectos organizacionais do Sistema Único de Saúde. Política social e cidadania. Desafios da atenção à saúde em Regiões Metropolitanas. Aspectos sobre o financiamento em Saúde no Brasil. O cuidado continuado no atendimento domiciliar. Temas emergentes em políticas públicas.\n___ BIBLIOGRAFIA BÁSICA ___\n1- GIOVANELLA, Ligia et. al. (org). Políticas e Sistema de Saúde no Brasil. Rio de Janeiro: Ed. FIOCRUZ, 2008.\n2- CAMPOS, et. al. (organizadores). Tratado de saúde coletiva. São Paulo - Rio de Janeiro: Hucitec, 2ed, 2012.\n3- CZERESNIA, Dina (org). Promoção da Saúde: Conceitos, reflexões, tendências. 2ª ed. 5ª reimpressão, 2017.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCM001",
+      "Nome": "Prática Obstétrica - M",
+      "Créditos": "3.0",
+      "Teórica": "15",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das afecções clínicas e cirúrgicas relacionadas à prática obstétrica. Etiopatogenia, fisiopatologia, anatomia patológica, epidemologia, diagnóstico clínico e laboratorial, farmacologia e terapêutica, prognóstico, prevenção e reabilitação. Condutas em obstetrícia. Avaliação pré-hospitalar. Relação médico paciente. Pré-natal.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MCM350"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCM003",
+      "Nome": "Patologia Forense - M",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "20",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo conceitual da morte e dos fenômenos cadavéricos. Mortes Naturais e mortes violentas (criminosas, suicidas e acidentais). Aspectos legais das declarações de óbito. Traumatologia forense. Causalidade do dano. Patologia geral das lesões, incapacidades e mortes por energias externas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MCM350"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCM005",
+      "Nome": "Sexualidade Humana",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Bases anátomo-funcionais da sexualidade humana. Diferenciação, identidade e papéis sexuais. Disfunções sexuais. Sexualidade e sociedade. Sexualidade na saúde e na doença. Educação sexual e o profissional de saúde.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MCM241",
+       "MCM242",
+       "MCW244"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCM007",
+      "Nome": "Tec Laboratoriais em Patologia",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Descrição das principais técnicas laboratoriais em patologia, com treinamento prático das mesmas.\n___BIBLIOGRAFIA BÁSICA___\n1- CONSOLARO, Márcia E. L.; MARIA-ENGLER, Silvya S. Citologia Clínica Cervicovaginal. Texto e Atlas. São Paulo: Roca.\n2- GAMBONI, Mercedes; MIZIARA, Elias F. Manual de Citopatologia Diagnóstica. Barueri, SP: Manole.\n3- KOSS, L. G.; GOMPEL, C. Introdução à Citopatologia Ginecológica com Correlações Histológicas e Clínicas. São Paulo: Roca.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MCW244"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCM009",
+      "Nome": "Aspec Clín Terap Farmacológica",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Farmacocinética clínica; Princípios didáticos em farmacologia clínica; Farmacologia clínica e terapêutica dos sistemas: cardiovascular e renal, respiratório e sistema nervoso central: psicofarmacologia; Farmacologia da dor e inflamação; farmacologia da diabetes mellitus e farmacologia dos principais processos infecciosos na clínica médica e em situações especiais (pediatria, gravidez, idosos, pacientes com insuficiência renal e hepática e profilaxia). Casos clínicos abordando a farmacoterapia para os principais processos patológicos na clínica.\n___BIBLIOGRAFIA BÁSICA___\n1- KATZUNG, B.G. Farmacologia Básica e Clínica. 12ª edição. McGraw Hill, 2014.\n2- BRUNTON, L.L.; CHABNER, B.A.; KNOLLMANN, B.C. Goodman & Gilman - As Bases Farmacológicas da Terapêutica. 12ª edição. McGraw Hill, 2012.\n3-  RANG, H.P.; RITTER, J.M.; DALE, M.M. Farmacologia. 7ª edição. Elsevier, 2012.\n4- GOLAN, D.E. Princípios da farmacologia - A base fisiopatológica da farmacologia. 3ª edição. Guanabara Koogan, 2014.\n5- TAVARES, Walter. Antibióticos e quimioterápicos para o clínico. 3ª edição. Atheneu, 2014.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MCM242",
+       "MCM352"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCM011",
+      "Nome": "Dermatologia na Atenção Básica",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introduzir o estudante do 4 ano do Curso de Medicina que adentra aos conteúdos clínico-cirúrgicos do curso ao estudo da dermatologia, com enfoque nas principais doenças dermatológicas atendidas ou de responsabilidade da Atenção Básica, desenvolvendo as habilidades do raciocínio clínico e crítico através da anamnese, exame físico geral e dermatológico, habilitação para a elaboração da hipótese clínica principal, dos diagnósticos diferenciais, necessidade ou não da solicitação criteriosa de exames laboratoriais e de diagnóstico, condutas terapêuticas e acompanhamento pessoal e familiar, quando necessário. Capacitando o estudante com conteúdos teóricos, exercícios através de casos clínicos concretos e  demonstração dos pequenos procedimentos dermatológicas pertinentes aos atendimentos na Atenção Básica.\nBIBLIOGRAFIA BÁSICA:\n1-\tAZULAY, Rubem David; AZULAY, David Rubem; AZULAY-ABULAFIA, Luna. Dermatologia. 7. ed. Rio de Janeiro, RJ: Guanabara Koogan, 2017.\n2-\tBELDA JÚNIOR, Walter; CHIACCHIO, Nilton di; CRIADO, Paulo Ricardo (Ed.). Tratado de Dermatologia. 3. ed. São Paulo, SP: Atheneu, 2018.\n3-\tGuia prático sobre a hanseníase / Ministério da Saúde, Secretaria de Vigilância em Saúde, Departamento de Vigilância das Doenças Transmissíveis. ? Brasília : Ministério da Saúde, 2017.\n4-\tProtocolo Clínico e Diretrizes Terapêuticas para Atenção Integral às Pessoas com Infecções Sexualmente Transmissíveis (IST)/Ministério da Saúde, Secretaria de Vigilância em Saúde, Departamento de Doenças de Condições Crônicas e Infecções Sexualmente Transmissíveis. ? Brasília : Ministério da Saúde, 2020.\n5-\tAcolhimento à demanda espontânea : queixas mais comuns na Atenção Básica / Ministério da Saúde, Secretaria de Atenção à Saúde, Departamento de Atenção Básica. ? Brasília : Ministério da Saúde, 2012. 290 p. : il. ? (Cadernos de Atenção Básica n. 28, Volume II).\n6-\tProcedimentos / Ministério da Saúde, Secretaria de Atenção à Saúde, Departamento de Atenção Básica. ? Brasília : Ministério da Saúde, 2011.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MCM360",
+       "MCM361"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCM014",
+      "Nome": "Prática Clínica Baseada Evidên",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Sistematização de busca de artigos científicos na área da saúde em sites indexados. Elaboração da pergunta PICO. Métodos de análise de artigos científicos em saúde (tipos de estudo científico). Pontuação da qualidade de evidência baseada no sistema GRADE (fatores moduladores). Confecção de sumário de evidências científicas em saúde. Interpretação do sumário de evidências (força de evidência) para recomendação de uso ou não uso. Prática clínica baseada em evidências científicas em saúde.\nBibliografia Básica\n1) Brasil. Ministério da Saúde. Secretaria de Ciência, Tecnologia e Insumos Estratégicos. Departamento de Ciência e Tecnologia. Diretrizes metodológicas: Sistema GRADE ? Manual de graduação da qualidade da\nevidência e força de recomendação para tomada de decisão em saúde / Ministério da Saúde, Secretaria de Ciência, Tecnologia e Insumos Estratégicos, Departamento de Ciência e Tecnologia. ? Brasília : Ministério da Saúde, 2014. 72 p. : il. ISBN 978-85-334-2186-8.\n2) Sites de busca de artigos científicos indexados (ex. PUBMED)\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCMX02",
+      "Nome": "Iniciação Científica II",
+      "Créditos": "4.0",
+      "Teórica": "20",
+      "Prática": "120",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Atividade de Iniciação Científica em áreas de interesse do curso de Medicina.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sab",
+        "hora": "08:00 - 14:00",
+        "professor": "JOAO LUIZ MENDES WANDERLEY"
+       }
+      ],
+      "Requisitos": [
+       "MCMX01"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCMX04",
+      "Nome": "Iniciação Científica IV",
+      "Créditos": "4.0",
+      "Teórica": "20",
+      "Prática": "120",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Atividade de Iniciação Científica em áreas de interesse do curso de Medicina.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sab",
+        "hora": "08:00 - 14:00",
+        "professor": "JOAO LUIZ MENDES WANDERLEY"
+       }
+      ],
+      "Requisitos": [
+       "MCMX03"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCMX06",
+      "Nome": "Iniciação Científica VI",
+      "Créditos": "4.0",
+      "Teórica": "20",
+      "Prática": "120",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Atividade de Iniciação Científica em áreas de interesse do curso de Medicina.\n___BIBLIOGRAFIA BÁSICA___\n1- VIEIRA, S; HOSSNE, W.S. A ética e a metodologia. São Paulo: Pioneira, 1998.\n2- GIL, A.C. Como elaborar projetos de pesquisa. Atlas, 1996.\n3- LAKATOS, E.M; MARCONI, M. DE A. Fundamentos de metodologia científica. 3 ed. São Paulo: Atlas, 1991.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sab",
+        "hora": "08:00 - 14:00",
+        "professor": "JOAO LUIZ MENDES WANDERLEY"
+       }
+      ],
+      "Requisitos": [
+       "MCMX05"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCMX08",
+      "Nome": "Iniciação Científica VIII",
+      "Créditos": "4.0",
+      "Teórica": "20",
+      "Prática": "120",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Atividade de Iniciação Científica em áreas de interesse do curso de Medicina.\n___BIBLIOGRAFIA BÁSICA___\n1- VIEIRA, S; HOSSNE, W.S. A ética e a metodologia. São Paulo: Pioneira, 1998.\n2- GIL, A.C. Como elaborar projetos de pesquisa. Atlas, 1996.\n3- LAKATOS, E.M; MARCONI, M. DE A. Fundamentos de metodologia científica. 3 ed. São Paulo: Atlas, 1991.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sab",
+        "hora": "08:00 - 14:00",
+        "professor": "JOAO LUIZ MENDES WANDERLEY"
+       }
+      ],
+      "Requisitos": [
+       "MCMX07"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCMX10",
+      "Nome": "Iniciação Científica X",
+      "Créditos": "4.0",
+      "Teórica": "20",
+      "Prática": "120",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Atividade de Iniciação Científica em áreas de interesse do curso de Medicina.\n___BIBLIOGRAFIA BÁSICA___\n1- VIEIRA, S; HOSSNE, W.S. A ética e a metodologia. São Paulo: Pioneira, 1998.\n2- GIL, A.C. Como elaborar projetos de pesquisa. Atlas, 1996.\n3- LAKATOS, E.M; MARCONI, M. DE A. Fundamentos de metodologia científica. 3 ed. São Paulo: Atlas, 1991.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sab",
+        "hora": "08:00 - 14:00",
+        "professor": "JOAO LUIZ MENDES WANDERLEY"
+       }
+      ],
+      "Requisitos": [
+       "MCMX09"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCMZ50",
+      "Nome": "Ativ Curricular Extensão - Med",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "0",
+      "Extensão": "400",
+      "Informação": {
+       "Info": "Atuação em atividades de extensão registradas na Pró-Reitoria de Extensão da UFRJ, como programas, projetos, cursos de extensão e eventos, coordenados por docentes do quadro permanente ou técnicos da carreira de nível superior na UFRJ. Para eventos, a atuação deverá ser na organização ou na realização do evento. Para cursos, a atuação deve ser na organização ou ministrando aulas.\n___ BIBLIOGRAFIA BÁSICA ___\nBibliografia recomendada pelo coordenador da atividade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCN010",
+      "Nome": "Diálogos Pessoa com Deficiênc",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Pessoa com Deficiência: aspectos conceituais. Direitos Humanos e Acessibilidade. História da Educação Especial. Políticas Públicas voltadas para as pessoas com deficiência. O papel da Educação Superior na promoção da acessibilidade da pessoa com deficiência. A mídia no contexto da pessoa com deficiência.\n___BIBLIOGRAFIA BÁSICA ___\n1) BRASIL. Lei nº 13.146, de 6 de julho de 2015. Institui a Lei Brasileira de Inclusão da Pessoa com Deficiência (Estatuto da Pessoa com Deficiência). Presidência da república. Casa Civil. Subchefia para assuntos jurídicos. Disponível em: http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm.\n2) BRASIL. Ministério da Saúde. Secretaria de Atenção à saúde. Departamento de Ações Programáticas Estratégicas. A pessoa com deficiência e o Sistema Único de Saúde/Ministério da Saúde, Secretaria de Atenção à Saúde, Departamento de Ações Programáticas estratégicas. - Brasília: Editora do Ministério da Saúde, 2006b. 16p. - (Série F. Comunicação e Educação e Saúde).\n3) Capelli JCS et al. (Org). A pessoa com deficiência auditiva: os múltiplos olhares da família, saúde e educação. 1. Ed. - Porto Alegre: Rede Unida, 2016. 321 p.: il. - (Série Micropolítica do Trabalho e o Cuidado em Saúde). ISBN: 978-85-66659-69-6 DOI: dx. doi.org/1018310/9788566659696.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "14:00 - 17:00",
+        "professor": "INES LEONEZA DE SOUZA"
+       },
+       {
+        "dia": "Ter",
+        "hora": "14:00 - 17:00",
+        "professor": "CHERRINE KELCE PIRES"
+       },
+       {
+        "dia": "Ter",
+        "hora": "14:00 - 17:00",
+        "professor": "JANE DE CARLOS SANTANA CAPELLI"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCW001",
+      "Nome": "Emergências Clínicas",
+      "Créditos": "4.0",
+      "Teórica": "15",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das afecções clínicas e cirúrgicas relacionadas à medicina de emergência. Etiopatogenia, fisiopatologia, anatomia patológica, epidemiologia, diagnóstico clínico e laboratorial, farmacologia e terapêutuica, prognóstico, prevenção e reabilitação. Condutas em medicina de emergência. Avaliação pré-hospitalar. Relação médico-paciente.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MCM350",
+       "MCM351"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCW004",
+      "Nome": "Biosseg Norm Boas Prát Laborat",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Histórico e legislação sobre biossegurança e normas de boas práticas em laboratórios no Brasil. Riscos em laboratórios: físicos, químicos, biológicos, ergonômicos e de acidentes. mapas de risco. Organismos geneticamente modificados. Níveis de biossegurança em laboratórios: medidas de segurança. equipamentos de proteção individual e coletiva. gerenciamento de resíduos biológicos, químicos e de Serviços de Saúde: normas regulamentadoras e aplicações. Noção básica de primeiros socorros em casos de acidentes no ambiente de trabalho.\n___ BIBLIOGRAFIA BÁSICA ___\n1) HIDRATA, Mario Hiroyuki, MANCINI FILHO, Jorge e HIDRATA, Rosario Dominguez Crespo. Manual de Biossegurança - 3 ª Ed. Manole, 2017.\n2) MASTROENI, Marco Fabio. Biossegurança Aplicada a laboratórios e Serviços de Saúde - 2ª Ed. Atheneu, 2005.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCW007",
+      "Nome": "Téc Laboratoriais em Patologia",
+      "Créditos": "3.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Principais técnicas laboratoriais aplicadas à Patologia, procedimentos de coleta, processamento e análise de materiais biológicos. Realização e interpretação das técnicas de biópsia, exame microscópico, punção aspirativa por agulha fina (PAAF), raspado, imprint, swab e exame histopatológico. Práticas demonstrativas e laboratoriais. Desenvolvimento de habilidades para a execução correta de cada técnica, biossegurança, qualidade do material coletado e importância do trabalho  multidisciplinar para o diagnóstico de doenças. Preparação de lâminas, coloração, interpretação de achados morfológicos e correlação clínico-patológica.\nBibliografia Básica\n1. BOGUSZ, M. J. Princípios de Técnicas Laboratoriais para Patologia Clínica. Rio de Janeiro: Guanabara Koogan, 2018.\n2. JUNQUEIRA, L. C.; CARNEIRO, J. Histologia Básica: Texto e Atlas. 14. ed. Rio de Janeiro: Guanabara Koogan, 2021.\n3. KUMAR, V.; ABBAS, A. K.; ASTER, J. C. Robbins & Cotran: Patologia - Bases Patológicas das Doenças. 10. ed. Rio de Janeiro: Elsevier, 2021.\n4. FARIA, M. A. C.; et al. Técnicas Laboratoriais e Biossegurança. São Paulo: Manole, 2020\n5. CARVALHO, L. F. A.; MELLO, R. A. Citopatologia Diagnóstica. São Paulo: Atheneu, 2019.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MCW244"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCW112",
+      "Nome": "Políticas Estrat Inovaç Saúde",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceitos gerais de Competitividade e Desenvolvimento Econômico; Pesquisa e desenvolvimento; Inovação. Estratégias Governamentais - Política industrial; Programas e leis de apoio ao desenvolvimento industrial e à inovação; A nova política industrial e da saúde do governo brasileiro. Estratégias empresariais - Cenário da produção e da inovação no setor de saúde; Medicamentos genéricos x acesso x inovação; Interações com demais atores do sistema: universidades, institutos de pesquisa, fornecedores e clientes.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "17:30 - 20:30",
+        "professor": "RAQUEL MIGUEL RODRIGUES"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCW123",
+      "Nome": "Imunizações",
+      "Créditos": "2.0",
+      "Teórica": "36",
+      "Prática": "12",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução à vacinação. História da vacinação. Fundamentos biomédicos e sócio-epidemiológicos da vacinação. Calendário vacinal do Programa Nacional de Imunizações e da Sociedade Brasileira de Pediatria. Vacina BCG; Tríplice Viral e Bacteriana; Anti-hepatite B; Anti-hepatite A; Anti-poliomielete; Anti-haemophilus Influenzae A; Anti-rotavírus; Anti-Influenzae, Anti-pneumocócica; Antimeningocócica; Anti-febre amarela; Anti-varicela; Anti-HPV; Rede de frio. Efeitos adversos da vacinação. Imunizações em situações especiais. Centro de referência de imunobiológicos especiais (CRIEs). Vacinação ocupacional e de viajantes.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MCW111"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUP364",
+      "Nome": "Gestão Ambiental",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Principais elementos relacionados ao gerenciamento ambiental abordando temas como Meio Ambiente e Desenvolvimento Sustentável; Políticas Ambientais; Licenciamento e Avaliação de Impacto Ambiental; Economia Ambiental, Gerenciamento de Recursos Hídricos; Energia e Meio Ambiente; e Educação Ambiental. Visitas técnicas.\n",
+       "BibliografiaBasica": "1- ALMEIDA, J.R. 2006. Gestão ambiental: para o desenvolvimento sustentável. Ed. Thex. Rio de Janeiro.\n2- MAY, P.H.; LUSTOSA, M.C. & VINHA, V. 2003. Economia do meio ambiente: teoria e prática. Rio de Janeiro: Elsevier.\n3- MILARÉ, E. 2001. Direito do ambiente: doutrina, prática, jurisprudência e glossário. 2ª ed. Revista dos Tribunais. São Paulo.\n4- Hinrichs R.; Kleinbach, M.; Reis, L.B. 2010 Energia e Meio Ambiente. Cengage Learning.\n",
+       "BibliografiaComplementar": "1- BRASIL. Ministério do Meio Ambiente ? MMA. 2004. Recursos Hídricos. Ed. Associação Brasileira de Recursos Hídricos. Brasília.\n2- CAMPOS, N. & STUDART T. 2001. Gestão das águas. Ed. Associação Brasileira de Recursos Hídricos. Fortaleza.\n3- ROMÉRO, M. A.; BRUNA, G. C.; PHILIPPI Jr., A. 2004. Curso de gestão ambiental. Ed. Manole. Barueri.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     }
+    ]
+   },
+   "obrigatorias": 20,
+   "eletivas": 46,
+   "ano": "2009/2 a 9999/9"
+  }
+ ]
+}

@@ -1,0 +1,1273 @@
+{
+ "Licenciatura em Ciências Biológicas": [
+  {
+   "materias": {
+    "1º Período": [
+     {
+      "Codigo": "IBE201",
+      "Nome": "Metodologia Cientifica I",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "18:20 - 20:00",
+        "professor": "LAISA MARIA FREIRE DOS SANTOS"
+       },
+       {
+        "dia": "Ter",
+        "hora": "18:20 - 20:00",
+        "professor": "CLARICE CASA NOVA DOS SANTOS"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IBZ112",
+      "Nome": "Introdução à Zoologia",
+      "Créditos": "7.0",
+      "Teórica": "90",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Zoologia: definição, importância e aplicação. Introdução à Biologia comparada: classificação zoológica e taxonômica, escolas sistemáticas, homologias e série de transformações de caracteres, agrupamentos taxonômicos. Origem dos metazoários e a arquitetura animal. Morfologia funcional e aspectos ecológicos dos metazoários: suporte e locomoção, alimentação e digestão, trocas gasosas e sistema circulatório, excreção e osmorregulação, sistema nervoso e órgãos dos sentidos, reprodução e desenvolvimento. Sistemática dos protistas heterotróficos: caracterização das classes. Estudo de morfologia, princípios gerais de fisiologia, variações, modificações, origens, habitats e hábitos. Ciclos dos parasitas do homem. Instrumentação didático-pedagógica referente ao conteúdo teórico pertinente ao ensino médio e fundamental.\n___Bibliografia Recomendada___\n1- Amorim,D. S. 2003. Fundamentos de sistemática filogenética. Hollos Ed., Ribeirão Preto\n2- Brusca, R. C. & Brusca, J. G. 2007.Invertebrados 2nd ed., Ed. Guanabara Koogan, Rio de Janeiro, 968 p.\n3- Souza, W. 2013. Protozoologia Médica.Rubio, Brasil, 382 pp\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "18:20 - 20:10",
+        "professor": "THIAGO DA SILVA PAIVA"
+       },
+       {
+        "dia": "Ter",
+        "hora": "20:10 - 21:50",
+        "professor": "JOSE RICARDO MIRAS MERMUDES"
+       },
+       {
+        "dia": "Qui",
+        "hora": "20:10 - 21:50",
+        "professor": "DANIEL FERNANDES DA SILVA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "18:20 - 20:10",
+        "professor": "ROMULO BARROSO BAPTISTA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAC110",
+      "Nome": "Complementos de Matematica I",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Funções: teoria elementar, função inversa, funções trigonométricas. Funções transcendentes elementares. Funções reais de variável real. Limite e continuidade. Derivada e integral. Teoremas fundamentais e propriedades técnicas de cálculo e aplicações. Área entre curvas. Introdução às equações diferenciadas ordinárias.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "18:20 - 21:50",
+        "professor": "MARIA DARCI GODINHO DA SILVA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IBB232",
+      "Nome": "Botânica I",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Sistemas de classificação em Botânica: histórico e fundamentos básicos. Origem e evolução dos seres autotófricos. Fungos, cianobactérias, algas, briófitas e plantas vasculares sem sementes: 1)Diferenciação entre filos e classses com representantes atuais 2) Caracterização quanto a aspectos citológicos e bioquímicos, morfologia, anatomia, reprodução, ciclos de vida. 3) Estratégias de adaptações ao ambiente 4) Importãncia econômica e ecológica 5) Táxons comuns em ecossistemas do estado do Rio de janeiro. Técnicas de coleta e preservação de fungos, algas, briófitas e plantas vasculares sem sementes. Instrumentação didático-pedagógica referente ao conteúdo pertinente aos ensinos médio e fundamental.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "18:20 - 21:50",
+        "professor": "CRISTINA APARECIDA GOMES NASSAR"
+       },
+       {
+        "dia": "Qui",
+        "hora": "18:20 - 20:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IBG231",
+      "Nome": "Biologia Geral (Citologia)",
+      "Créditos": "8.0",
+      "Teórica": "120",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Constituição e estrutura do material genético. Replicação dos cromossomas. Síntese e função de RNA's, Ribossomas e Síntese de Proteínas. Membranas celulares: estrutura, permeabilidade e funções. Sistemas de endomembranas (retículo, complexo de Golgi, lisossomas e vesículas secretórias), Vias secretórias, endocitose e exocitose. Núcleo, nucléolo. Mitocôndria, cloroplasto, peroxisomas, Citoesqueleto e matriz extracelular. Instrumentação didático-pedagógica referente ao conteúdo teórico pertinente aos ensinos médio e fundamental.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "20:00 - 22:30",
+        "professor": "GIOVANNI VITA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "18:00 - 22:30",
+        "professor": "CRISTIANE CARNEIRO THOMPSON"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IQG116",
+      "Nome": "Complementos de Quimica I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Matéria e sua estrutura. Classificação periódica dos elementos químicos. Teoria eletrônica das ligações químicas. Ácidos, bases e sais. Soluções. Oxidação e redução. Lei da ação das massas. Equilíbrio iônico em solução aquosa. Produto iônico da água.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 10:00",
+        "professor": "CAMILA PALOMBO FERRAZ"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 10:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "2º Período": [
+     {
+      "Codigo": "BMH121",
+      "Nome": "Histologia I B",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo da estrutura, ultra-estrutura e aspectos histofisiológicos dos diversos tecidos que compõem órgãos e sistemas do organismo animal. Estudo histofisiológico dos tecidos que compõem os organismos de animais dos vários filos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "18:20 - 21:00",
+        "professor": "JOHN LENNON DE PAIVA COIMBRA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "18:20 - 21:00",
+        "professor": "FERNANDA MARTINS DE ALMEIDA MAIA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "18:20 - 21:00",
+        "professor": "VALERIA DE MELLO COELHO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IBB242",
+      "Nome": "Botânica II",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceito, origem, estrutura, função e classificação das estruturas vegetativas e reprodutivas dos fanerógamos: raiz, caule, folha, flor, fruto e semente.\nSistemática e evolução de fanerógamos: ciclo da vida; histórico da classificação vegetal e sistemas atuais de classificação; código de nomenclatura botânica; técnicas de coleta e herborização de material botânico; utilização de chave analítica para determinação de famílias botânicas; fórmulas e diagramas florais. Instrumentação didático-pedagógica referente ao conteúdo teórico pertinente aos ensinos médio e fundamental.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "18:20 - 20:00",
+        "professor": "MARCELO TROVO LOPES DE OLIVEIRA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "20:00 - 21:50",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "IBB232"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IBZ122",
+      "Nome": "Div Diploblásticos e Protost I",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Caracterização e estudo da anatomia funcional externa e interna. biologia e aspectos ecológicos de Porífera; Cnidaria; Ctenophora; Platyhelmintes; Nemertea; grupos de pseudocelomados (blastocelomados); Nemertea; Mollusca. Instrumentação didático-pedagógica referente ao conteúdo teórico pertinente ao ensino médio e fundamental.\n___Bibliografia Recomendada___\n1- Brusca, R. C. & Brusca, J. G. 2007. Invertebrados. 2 nd ed., Ed. Guanabara Koogan, Rio de Janeiro, 968 p.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "18:20 - 20:04",
+        "professor": "ROMULO BARROSO BAPTISTA"
+       },
+       {
+        "dia": "Ter",
+        "hora": "18:20 - 20:04",
+        "professor": "CLEO DILNEI DE CASTRO OLIVEIRA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "20:10 - 21:50",
+        "professor": "SERGIO LUIZ COSTA BONECKER"
+       },
+       {
+        "dia": "Sex",
+        "hora": "18:20 - 20:10",
+        "professor": "MICHELLE REGINA LEMOS KLAUTAU"
+       }
+      ],
+      "Requisitos": [
+       "IBZ112"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAD231",
+      "Nome": "Estatística",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Apuração de dados amostrais. Estatísticas. Distribuições de probabilidade. Distribuições binominal e normal. Amostragem. Estimação. Testes de hipóteses. Corrrelação e regressão linear.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "18:20 - 21:50",
+        "professor": "WILLIAM LIMA LEAO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BMH120",
+      "Nome": "Embriologia Geral I B",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Bases celulares e genéticas nos padrões de reprodução. As bases celulares e genéticas da gametogênese, da teoria do desenvolvimento embrionário, fecundação e segmentação. Descrição e significado celular e genético da gastrulação nos seus diversos padrões. Destino dos folhetos embrionários. Primórdios dos aparelhos e sistemas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "18:20 - 21:50",
+        "professor": "CRISTIANO CARVALHO COUTINHO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIN112",
+      "Nome": "Fisica P/a Ciencias Biologicas",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Noções de cinemática e dinâmica. Medidas de grandezas físicas. Energia: conservação e fontes. Radiações: efeitos biológicos, raio-x. Fenômenos ondulatórios: som e ultra-som, ótica, instrumentos óticos, o olho humano. Fluidos. Fenômenos elétricos e magnéticos: potencial e campo, fenômenos elétricos em células nervosas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 15:00",
+        "professor": "FRANCISCO FERREIRA DE SOUZA MAIA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 15:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IBE121",
+      "Nome": "Elementos de Ecologia",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "História e âmbito da Ecologia. História Ecológica da Terra. Ambiente físico: luz, temperatura. água e solo. Adaptação. Ecossistema: conceito, propriedades. Fluxo de energia e ciclagem de materiais. Sucessão Ecológica. Alteração nos ecossistemas. Instrumentação didático-pedagógica referente ao conteúdo teórico pertinente aos ensinos médio e fundamental.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "18:20 - 20:00",
+        "professor": "RODRIGO HIPOLITO TARDIN OLIVEIRA"
+       },
+       {
+        "dia": "Seg",
+        "hora": "18:20 - 20:00",
+        "professor": "MARCIO ZIKAN CARDOSO"
+       },
+       {
+        "dia": "Sab",
+        "hora": "15:55 - 17:55",
+        "professor": "RODRIGO HIPOLITO TARDIN OLIVEIRA"
+       },
+       {
+        "dia": "Sab",
+        "hora": "15:55 - 17:55",
+        "professor": "MARCIO ZIKAN CARDOSO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IQO126",
+      "Nome": "Complementos de Quimica II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estrutura e propriedades: alcanos, alquenos, alquinos, dienos. Cicloalifáticos. Benzeno. Naftaleno. Antraceno. Fenantreno. Álcoois. Halogenetos de Alquila. Halogenetos de Arila. Éteres. Epóxidos. Ácidos Carboxílicos. Derivados funcionais dos ácidos carboxílicos. Ácidos sulfônicos. Aminas. Sais de diazônio. fenóis. Aldeídos e cetonas. Hidrato de carbono. Compostos heterocíclicos. Aminoácidos e proteínas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "20:10 - 21:50",
+        "professor": "LIDILHONE HAMERSKI CARBONEZI"
+       },
+       {
+        "dia": "Sex",
+        "hora": "18:30 - 20:10",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "3º Período": [
+     {
+      "Codigo": "IBE231",
+      "Nome": "Ecologia Básica",
+      "Créditos": "4.0",
+      "Teórica": "30",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Parâmetros populacionais. Crescimento e regulação populacional. Evolução e estratégias bionômicas. Interações entre populações. Manejo de populações. Comunidade: conceito e propriedades. Organização da comunidade. estabilidade. Sucessão. Conservação. Métodos e técnicas de estudo de populações e comunidades. Procedimentos na coleta de dados e amostras. Instrumentação didático-pedagógica referente ao conteúdo teórico pertinente aos ensinos médio e fundamental.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 15:00",
+        "professor": "NATALIA CARNEIRO LACERDA DOS SANTOS"
+       },
+       {
+        "dia": "Sex",
+        "hora": "10:00 - 13:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "IBE121"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IBM351",
+      "Nome": "Biologia Marinha Basica",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo do meio marinho. Noções de geologia e geografia marinhas. Características fisico-químicas e dinâmica dos oceanos. Estudo dos seres vivos: plâncton, necton e bentos. Classificações e adaptações. Abordagem didática e desenvolvimento de temas relativos ao conteúdo de Biologia Marinha no Ensino médio e fundamental.\n",
+       "BibliografiaBasica": "1) Nybakken, J. W. 2001. Marine Biology, an Ecological Approach. 5th Edition. Benjamin Cummings. 462pp;\n2) Crespo, R. & Soares-Gomes, A. 2009. Biologia Marinha. Editora Interciência, Brasil. 631pp;\n3) Thurman H. V. 1994. Introductory Oceanography. Macmillian Publishing Company. 550pp.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 10:00",
+        "professor": "ANA PAULA DE CASTRO RODRIGUES"
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 15:00",
+        "professor": "EUDRIANO FLORENCIO DOS SANTOS COSTA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IQB201",
+      "Nome": "Bioquimica Basica I",
+      "Créditos": "5.0",
+      "Teórica": "45",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução à Bioquímica. Propriedades químicas dos aminoácidos. Propriedades Físicas e Físico_químicas dos aminoácidos. Estrutura das proteínas. Propriedades físicas e físico-químicas das proteínas. Enzimas, nucleotídeos e ácidos nucleicos. Código genético e biossíntese de proteínas. prática: Reação de ninidra e reações específicas. Cromatografia em papel de aminoácido. Eletroforese em papel de aminoácidos. Varredura de espectro e curva  padrão de proteína pelo método de biureto e de glicídios redutores pelo método do ácido 3,5 deinitrosalicílico. Propriedades gerais de proteínas e curva de solubilidade em função do pH. Cinética enzimática. Tempo e temperatura. Cinética enzimática: concentração de substrato. Estudo dirigido.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "10:00 - 11:30",
+        "professor": "ANITA FERREIRA DO VALLE"
+       },
+       {
+        "dia": "Qui",
+        "hora": "15:00 - 16:30",
+        "professor": "BIANCA CRUZ NEVES"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 12:00",
+        "professor": "LUCIANA PIZZATTI BARBOZA"
+       }
+      ],
+      "Requisitos": [
+       "IQO126"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IBB351",
+      "Nome": "Botânica III (Anatomia)",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Célula vegetal; embriogênese; anatomia dos tecidos e órgãos vegetais incluindo estruturas de secreção; instrumentação didático pedagógica referente ao conteúdo teórico pertinente ao ensino fundamental e médio.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 15:00",
+        "professor": "RICARDO PEREIRA LOURO"
+       },
+       {
+        "dia": "Ter",
+        "hora": "15:00 - 17:00",
+        "professor": "ELIANA SCHWARTZ TAVARES"
+       },
+       {
+        "dia": "Ter",
+        "hora": "15:00 - 17:00",
+        "professor": "BRUNO GARCIA FERREIRA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IBG351",
+      "Nome": "Genética Básica",
+      "Créditos": "7.0",
+      "Teórica": "90",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Curso de introdução à Genética: Leis de Mendel. Métodos didáticos em Genética Clássica para o ensino médio e o fundamental; Importância do ambiente na expressão gênica. Teoria cromossômica da herança. Uso didático de modelos de estrutura celular (núcleo e cromossomos). Herança ligada ao sexo. \"Linkage\" e \"crossing-over\". Mapeamento cromossômico. Estrutura e replicação do DNA; trancrição , tradução e regulação da expressão Gênica; Métodos em Genética Molecular; Métodos didáticos em Genética Básica para o estudo do conteúdo teórico-prático destinados ao ensino médio e o fundamental.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "18:20 - 22:20",
+        "professor": "LEONARDO BARBOSA KOERICH"
+       },
+       {
+        "dia": "Seg",
+        "hora": "18:20 - 22:20",
+        "professor": "FLAVIO SILVA FARIA"
+       },
+       {
+        "dia": "Ter",
+        "hora": "20:05 - 22:20",
+        "professor": "MIRELA D ARC FERREIRA DA COSTA"
+       }
+      ],
+      "Requisitos": [
+       "IBG231"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IBZ232",
+      "Nome": "Diversidade de Protostomia II",
+      "Créditos": "6.0",
+      "Teórica": "60",
+      "Prática": "75",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Caracterização e estudo da anatomia funcional externa e interna, biologia e aspectos ecológicos de Sipuncula; Echiura; Annelida; Onychophora, Tardigrada e Arthropoda. Instrumentação didático-pedagógica referente ao conteúdo teórico pertinente ao ensino médio e fundamental.\n___Bibliografia Recomendada___\n1- Brusca, R. C. & Brusca, J. G. 2007. Invertebrados 2nd ed., Editora Guanabara Koogan S.A. Rio de Janeiro. 968 pp.\n2- Ruppert, E. E. &Barnes, R. D. 1996. Zoologia dos Invertebrados - 6ª ed. Roca, São Paulo, SP, 1029 pp.\n3- Barnes, R. D. 1984. Zoologia dos Invertebrados. 4ª ed., Ed Roca, São Paulo. 1179 pp.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "18:00 - 20:10",
+        "professor": "EDUARDO VIANNA DE ALMEIDA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "20:10 - 21:00",
+        "professor": "JOSE RICARDO MIRAS MERMUDES"
+       },
+       {
+        "dia": "Qua",
+        "hora": "21:00 - 22:00",
+        "professor": "PAULO CESAR DE PAIVA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "19:10 - 20:00",
+        "professor": "RENNER LUIZ CERQUEIRA BAPTISTA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "18:00 - 19:10",
+        "professor": "NELSON FERREIRA JUNIOR"
+       }
+      ],
+      "Requisitos": [
+       "IBZ112"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "4º Período": [
+     {
+      "Codigo": "IBB361",
+      "Nome": "Botânica IV (Fisiologia)",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Relações hídricas; transpiração; estrutura do xilema e a subida de água nas plantas; estrutura do floema e a condução de substâncias orgânicas; nutrição mineral; fisiologia da fotossíntese; crescimento e desenvolvimento; hormônios vegetais; o poder do movimento das plantas; fotomorfogênese; floração; germinação e dormência. Instrumentação didático-pedagógica referente ao conteúdo teórico pertinente aos ensinos médio e fundamental.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 12:00",
+        "professor": "RICARDO CARDOSO VIEIRA"
+       }
+      ],
+      "Requisitos": [
+       "IBB351"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IBW241",
+      "Nome": "Biologia de Microorganismos",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução à Biologia de Microorganismos, incluindo aspectos básicos de morfologia, estrutura celular, reprodução e evolução em microorganismos. Controle de populações microbianas, fundamentos de metabolismo celular (tipos de respiração e fotossíntese), ciclo celular e transferência horizontal genética.Fundamentos de ecologia e diversidade microbiana, incluindo interações microorganismo-microorganismo e microorganismo-hospedeiro, bacteriófagos. Metodologias modernas aplicadas ao estudo dos microorganismos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "18:20 - 21:50",
+        "professor": "RAQUEL SOARES CASAES NUNES"
+       }
+      ],
+      "Requisitos": [
+       "IBG351"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IQB202",
+      "Nome": "Bioquimica Basica II",
+      "Créditos": "5.0",
+      "Teórica": "45",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Teórica: introdução ao metabolismo; bioenergética; oxidações biológicas; glicídeos: estrutura e metabolismo; fotossíntese; lipídios: estrutura e metabolismo; integração metabólica; controle do metabolismo. Prática: propriedades gerais de glicídeos: reações e cromatografia; extração, hidrólise ácida e dosagem de glicogênio. Curva padrão de glicídeos redutores; extração de clorofila, espectro visível, reação de hill; fermentação anaeróbica; oxidações biológicas; estudo dirigido.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "RAFAEL DIAS MESQUITA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 14:30",
+        "professor": "CRISTIANE DINIS ANO BOM"
+       },
+       {
+        "dia": "Sex",
+        "hora": "13:00 - 14:30",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "IQB201"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "CFB163",
+      "Nome": "Biofisica B",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Paralelo histórico entre a física e a Biologia: o nascimento da Biofísica. Eventos em escala atômica: Átomo e Matéria. Energia e termodinâmica, radiação e radioatividade. Moléculas de interesse biológico: a Água (diluição e osmose) e o Oxigênio ( respiração e estresse oxidativo). Eventos em escala celular: membranas, receptores e comunicação celular. Metagênese e mecanismos de reparo de DNA. Eventos em escala organismica: Bioeletrogênese, Bioacústica e visão (comprimento de onda de luz). Toxicocinética e toxicodinâmica. Eventos em escala de ecossistema: a hipótese Gaia, Poluição, Atividades antrópicas e a disponibilidade de elementos no ambiente, ciclo global de transporte de compostos poluentes.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "18:20 - 21:20",
+        "professor": "CLAUDIO ERNESTO TAVEIRA PARENTE"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IBG361",
+      "Nome": "Evolução I",
+      "Créditos": "6.0",
+      "Teórica": "90",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Curso básico sobre padrões e processos evolutivos: genética de populações e forças evolutivas; Plasticidade fenotípica, plasticidade de desenvolvimento e evolução; uso didático de jogos no ensino médio e fundamental de evolução ( I - seleção); uso didático de jogos no ensino médio e fundamental de evolução (II - endocruzamento); variação geográfica e especiação; registro fóssil e padrões de macroevolução; ontogênese e evolução; evolução da espécie humana; origem da vida; uso didático de jogos no ensino de evolução (III - filogenia); relógio molecular e filogenia.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "18:20 - 21:50",
+        "professor": "ANTONIO MATEO SOLE CAVA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "18:20 - 21:50",
+        "professor": "FREDERICO HENNING"
+       }
+      ],
+      "Requisitos": [
+       "IBG351"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IBZ242",
+      "Nome": "Diversidade de Deuterostomia",
+      "Créditos": "8.0",
+      "Teórica": "90",
+      "Prática": "75",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Caracterização e estudo da anatomia funcional externa e interna, biologia e aspectos ecológicos de Deuterostomia: phoronida; ectoprocta; brachiopoda; echinodermata; hemichordata; chordata. Instrumentação didático-pedagógica referente ao conteúdo teórico pertinente ao ensino médio e fundamental.\n___Bibliografia Recomendada___\n1-Pough, F. H.; Janis, C. M. & Heiser, J.B., 2008. A vida dos Vertebrados. 4ª ed. Atheneu Ed. São Paulo Ltda, São Paulo. 699 pp.\n2- Kardong, K. V., 2010. Vertebrados. Anatomia comparada, função e evolução 5 Ed. São Paulo. Roca editora.\n3- LIEM, F. K. et al. 2010. Anatomia Funcional dos Vertebrados. 3ª ed. São Paulo: Cengage Learning.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "20:40 - 22:30",
+        "professor": "SERGIO LUIZ COSTA BONECKER"
+       },
+       {
+        "dia": "Seg",
+        "hora": "19:30 - 20:40",
+        "professor": "KARLA DIAMANTINA DE ARAUJO SOARES"
+       },
+       {
+        "dia": "Seg",
+        "hora": "18:20 - 19:30",
+        "professor": "FABIO HEPP SILVA FERNANDES DOS SANTOS"
+       },
+       {
+        "dia": "Qui",
+        "hora": "20:10 - 22:40",
+        "professor": "DANIEL FERNANDES DA SILVA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "18:20 - 20:10",
+        "professor": "WILSON JOSE EDUARDO MOREIRA DA COSTA"
+       }
+      ],
+      "Requisitos": [
+       "IBZ112"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "5º Período": [
+     {
+      "Codigo": "EDA234",
+      "Nome": "Educação Brasileira",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A constituição do sistema nacional de ensino e a relação entre Estado e Educação. Persistências e mudanças na estrutura e no funcionamento do ensino no Brasil: as relações entre público e privado, centralização e descentralização, ensino laico e ensino confessional, formação geral e formação profissional. A LDBEN (Lei 9394/96): avanços e recuos no processo de profissionalização do campo pedagógico e de universalização do ensino.\n",
+       "BibliografiaBasica": "1)\tCUNHA, Luiz Antônio. 5ª ed. Educação e desenvolvimento Social no Brasil. Rio de Janeiro: Francisco Alves , 1980.\n2)\tBRASIL. LEI DE DIRETRIZES E BASES DA EDUCAÇÃO NACIONAL, LDBEN. LEI 9.349 de 20/12/1996.\n3)\tSAVIANI, Dermeval. A nova lei de educação - trajetórias, limites e perspectivas. Campinas: Autores Associados, 1997.\n",
+       "BibliografiaComplementar": "1)\tBRZEZINSKI, Iria. (Org.). LDB dez anos depois: reinterpretação sob diversos olhares. São Paulo: Cortez, 2008.\n2)\t______. Políticas contemporâneas de formação e professores para os anos iniciais do ensino fundamental. Educação & Sociedade, v. 29, n. 105, set/dez 2008.\n3)\tCUNHA, Luiz Antonio; GÓES, Moacyr de. O golpe na educação. Rio de Janeiro: Jorge Zahar, 1985.\n4)\t______. Educação, Estado e Democracia no Brasil. 5ª ed.São Paulo: Cortez, 2005.\n5)\tCURY, Carlos Jamil. Legislação educacional brasileira. 2ª ed. Rio de Janeiro: DP&A, 2002.\n6)\t______. A educação básica no Brasil. Educação & Sociedade, n. 80, v. 23, p. 169-202, 2002.\n7)\t______. Estado e políticas de financiamento em educação. Educação & Sociedade, v. 28, n. 100, Out. 2007.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "18:00 - 22:00",
+        "professor": "BRUNO GAWRYSZEWSKI"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IBWX18",
+      "Nome": "Ativ Acad Esp I - Ensino",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "50",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Palestras e aulas proferidas na área de educação (4 horas por atividade); oferta supervisionada de oficinas visando educação científica, ambiental, e para saúde em escolas, espaços comunitários ou públicos, jornadas de iniciação científica, artística e cultural (4 horas por atividade); estágio profissional (exceto em estágio curricular obrigatório) em laboratórios e projetos que desenvolvam tecnologias estratégicas de apoio à educação formal (20 horas por cada semestre para uma carga horária média de 4 horas semanais); participação em congressos de educação (3 horas para cada dia de duração efetiva de evento); autoria e co-autoria de trabalhos sobre educação em revistas especializadas com corpo editoria (30 horas por trabalho); apresentação de trabalhos sobre educação (painéis ou exposição oral) em eventos correlatos (5 horas por trabalho). Carga horária de disciplinas de apoio no âmbito da UFRJ.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BMW350",
+      "Nome": "Elem de Fisio e Anat Huma I",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Anatomia humana: planimetria corporal e conceitos de formação do corpo, classificação dos ossos e principais acidentes anatômicos do esqueleto axial, membros superiores e inferiores, classificação e identificação das articulações e dos movimentos do corpo, classificação dos tipos de músculos, identificação dos principais músculos da cabeça, tronco, membros superiores e inferiores, divisões anatômicas do  sistema nervoso, anatomia da medula espinhal, tronco encefálico, cerebelo, diencéfalo e hemisférios cerebrais. Identificação das meninges, ventrículos e circulação do líquor. Sistema nervoso autônomo. Fisiologia humana: conceito de homeostasia, potenciais de membrana e potenciais de ação, potencial de ação neural, fisiologia das sinapses, neurotransmissores, fisiologia da contração muscular esquelética, sistema nervoso autônomo simpático e parassimpático, somestesia e dor, fisiologia sensorial. Aplicação de todos os conteúdos estudados no contexto no ensino básico.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:01 - 17:00",
+        "professor": "JEAN CHRISTOPHE HOUZEL"
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:01 - 17:00",
+        "professor": "FABIO DE ALMEIDA MENDES"
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:01 - 17:00",
+        "professor": "MARILIA ZALUAR PASSOS GUIMARAES"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDD241",
+      "Nome": "Didática",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A construção do campo da didática visto como tempo/espaço de reflexão/ação sobre o processo de ensino-aprendizagem. Teorias educacionais e o contexto sócio-histórico, político, econômico e filosófico da prática pedagógica. Estruturantes da prática pedagógica: planejamento curricular e planejamento de ensino; métodos e técnicas de ensino; avaliação do ensino.\nBIBLIOGRAFIA RECOMENDADA\n1)\tCANDAU, Vera Maria. (Org.) Ensinar e Aprender: sujeitos, saberes e pesquisa/Encontro Nacional de Didática e Prática de Ensino (ENDIPE). Rio de Janeiro: DP&A, 2000.\n2)\t________Linguagens, espaços e tempos no ensinar e aprender./Encontro Nacional de Didática e Prática de Ensino (ENDIPE). Rio de Janeiro: DP&A, 2000.\n3)\t ________(Org.)Didática, Currículo e Saberes Escolares. Rio de Janeiro: DP&A, 2001.\n4)\tFAZENDA, Ivani (org.). Didática e interdisciplinaridade. São Paulo : Papirus, 1998.\n",
+       "BibliografiaBasica": "1)\tGIMENO SACRISTÁN, Jose. Currículo e diversidade cultural. Em: SILVA, Tomaz Tadeu da; MOREIRA, Antonio Flavio Barbosa (orgs.). Territórios contestados: o currículo e os novos mapas políticos e culturais. Petrópolis/RJ : Vozes, 1999. [82-113].\n2)\tGIMENO SACRISTÁN, J. e PEREZ GÓMEZ, A. I. Compreender e transformar o ensino. 4ª ed. Porto Alegre : Artmed, 1998.\n3)\tLIBÂNEO, José Carlos. Didática: velhos e novos temas. Goiânia : edição do autor, 2002.\n4)\t_________. Pedagogia e Pedagogos, para quê? 7ª ed. SP : Cortez, 2004.\n5)\tMOREIRA, Antonio Flávio Barbosa; SILVA, Tomaz Tadeu da. Sociologia e teoria crítica do currículo: uma introdução. Em: MOREIRA, Antonio Flávio Barbosa; SILVA, Tomaz Tadeu da.(Orgs.). Currículo, cultura e sociedade. São Paulo : Cortez, 1995. [07-37].\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "18:00 - 22:00",
+        "professor": "REJANE MARIA DE ALMEIDA AMORIM"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IGL105",
+      "Nome": "Introd Geologia e Paleontolog",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Origem e estrutura da terra, Tectônica de placas, dinâmica externa e interna, minerais e rochas, tempo geológico, estratigrafia, ambientes de sedimentação. Tipos de fósseis, processos de fossalização, tafonomia, bioestratigrafia, paleobiologia, micropaleontogia, paleontologia de invertebrados, paleontologia de vertebrados, paleonbotânica. A disciplina inclui atividades práticas de campo.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "18:20 - 21:20",
+        "professor": "LILIAN PAGLARELLI BERGQVIST"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "6º Período": [
+     {
+      "Codigo": "EDD511",
+      "Nome": "Didatica Ciências Biológicas I",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Diferentes visões da ciência e do seu ensino. História do ensino de Ciências e Biologia. A pesquisa no ensino de Ciências e Biologia. Ideias dos alunos e suas influências na aprendizagem. A especificidade do conhecimento escolar em Ciências. Linguagens e discursos nas aulas de Ciências e Biologia.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "18:00 - 20:10",
+        "professor": "MARIA JACQUELINE GIRAO SOARES DE LIMA"
+       }
+      ],
+      "Requisitos": [
+       "EDD241"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDF240",
+      "Nome": "Fundamentos Sociológ Educação",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O contexto do surgimento da sociologia. Durkheim e a formação de uma maneira funcional de interpretar as relações entre educação e demais instâncias da vida social. A sociologia da educação na primeira metade do século XX. Os estudos sobre educação após a segunda guerra mundial. A \"crítica radical\" dos anos 70 - educação e reprodução social. A influência do marxismo no pensamento educacional. Influências gramscianas. A \"crise dos paradigmas\" das ciências sociais e os estudos sobre educação: modelos microssociológicos e etnográficos. Abordagens weberianas em sociologia da educação.\n",
+       "BibliografiaBasica": "1)\tALVES, M. Teresa G. & FRANCO, Creso. A pesquisa em eficácia escolar no Brasil: evidências sobre o efeito das escolas e fatores associados à eficácia escolar. In: BROOKE, N.; SOARES, J. F. Pesquisa em Eficácia Escolar: Origem e Trajetórias. Belo Horizonte: Editora UFMG.\n2)\t BOURDIEU, Pierre. A escola conservadora: as desigualdades frente à escola e à cultura. In: NOGUEIRA, M. A. & CATANI, A. (orgs,) Escritos de Educação. Petrópolis: Vozes, 2010.\n3)\tDURKHEIM, E. - ?A educação: sua natureza e função? in Educação e Sociedade. São Paulo: Melhoramentos,1978.\n4)\tNOGUEIRA, M. Alice, 1995. A Sociologia da Educação do final dos anos 60/início dos anos 70: o nascimento do paradigma da reprodução. In: Em Aberto, Brasília, ano 9, n. 46, abr. jun. 1990.\n",
+       "BibliografiaComplementar": "1)\tBOURDIEU, Pierre. Reprodução Cultural e Reprodução Social in A Economia das Trocas Simbólicas. São Paulo: Ed. Perspectiva, 1987.\n2)\t LAHIRE, Bernard. Sucesso escolar nos meios populares: as razões do improvável. São Paulo: Ática, 2008.\n3)\tNOGUEIRA, Maria Alice. A Sociologia da Educação no final dos anos 60/início dos anos 70: o nascimento do paradigma da reprodução. Em Aberto, Brasília, ano 9, n.46, abr./jun. 1990.\n4)\tNOGUEIRA, Maria Alice e NOGUEIRA, Claudio M. - A Sociologia da Educação de Pierre Bourdieu: limites e contribuições. Educação e Sociedade, Campinas, n. 78, Ano XXIII, abril/2002.\n5)\tZAGO, Nadir, 2011. Fracasso e sucesso escolar no contexto das relações família e escola: questionamentos e tendências em Sociologia da Educação. Revista Luso-Brasileira de Sociologia da Educação, ano 2, n.3, março 2011.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "18:00 - 22:00",
+        "professor": "PAULO HENRIQUE VAZ DA COSTA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IBWX19",
+      "Nome": "Ativ Acad Esp II - Extensão",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "50",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Participação no congresso de extensão da UFRJ (3hs para cada dia de efetiva duração do evento); apresentação de trabalhos, como autor ou co-autor em reuniões de extensão, com publicação de resumo (painéis ou exposição oral - 5hs de trabalho); participação no programa \"Conhecendo a UFRJ\", 5hs por dia de apresentação;participação na Semana Nacional de Biotecnologia: como assistente (4 horas/dia efetivo de participação), trabalho apresentado em resumos (10 horas por trabalho), atuação na organização em projetos sob orientação (10 horas/dia de participação efetiva no evento), participação em cursos de áreas temáticas  indicadas pela Pró-Reitoria de extensão da UFRJ (horas=duração do curso); participação em projetos do PAE (Programa de Extensão do Instituto de Biologia - 10 horas por evento); participação em eventos organizados por alunos do IB no contexto de divulgação para o trabalho em geral (biossemana, bio na rua, etc. - 10 horas por evento); participação nos projetos do Programa PIBEX (20 horas por 4 horas semanais). Participação nas apresentações de grupos da UFRJ, tais como orquestra sinfônica da UFRJ, UFRJazz Ensemble-UFRJ, companhia Folclórica do Rio, Companhia de Dança Contemporânea e Mostra de Teatro da UFRJ (4 horas por evento como assistente, 10 horas por semestre como integrante); atividades nos espaços como o Museu da Geodiversidade. Casa da Ciência - Centro Cultural de Ciência e Tecnologia da UFRJ, Fórum de Ciência e  Cultura da UFRJ, Museu Nacional, Observatório do Valongo, Museu da Escola Politécnica, Espaço COPPE M. de Simoni - Tecnologia e Desenvolvimento Humano, Museu D. João VI, Espaço Ciência - NUPEM/UFRJ (4 horas por evento e 10 horas por apresentação de trabalho), organização de visitas programadas para divulgação. visitas a outros museus, escolas de educação especial, planetários e outros espaços de enriquecimento científico-cultural (5 horas por atividade).\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BMW360",
+      "Nome": "Elem de Fisio e Anat Hum II",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Anatomia humana: vias aéreas superiores e inferiores, coração, câmaras e vasos da base do coração, a grande e pequena circulação, vasos linfáticos e linfonodos, glândulas salivares, cavidade oral, intestino delgado e grosso, estruturas acessórias do sistema digestório, rins e ductos urinários, órgãos da reprodução humana, glândulas endócrinas. Fisiologia humana: eletrofisiologia cardíaca, acoplamento excitação contração do músculo cardíaco, ciclo cardíaco, controle neural dos batimentos cardíacos, mecanismos de regulação da pressão arterial, motilidade e secreções do sistema digestório, filtração glomerular, reabsorção e secreção tubular, relações entre o sistema renal e o controle de pressão arterial, papel dos rins na regulação do equilíbrio ácido-base, eixo hipotálamo-hipófise, GH (gigantismo e nanismo), hormônios tireoidianos (hiper e hipotireodismo), funções reprodutoras masculinas e femininas. Aplicação de todos os conteúdos estudados no contexto do ensino básico.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:01 - 17:00",
+        "professor": "LUAN PEREIRA DINIZ"
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:01 - 17:00",
+        "professor": "LIDIA MOREIRA LIMA"
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:01 - 17:00",
+        "professor": "FLAVIA REGINA SOUZA LIMA"
+       }
+      ],
+      "Requisitos": [
+       "BMW350"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDDU09",
+      "Nome": "Prát Ens C Biol e Est Superv",
+      "Créditos": "8.0",
+      "Teórica": "0",
+      "Prática": "400",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Reconhecimento de instituições, projetos e experiências de desenvolvimento curricular em diferentes espaços educativos. Observação e análise de experiências docentes, em escolas de Educação Básica, com respaldo teórico e crítico. capacitação do licenciando como profissional do magistério. Desenvolvimento de práticas pedagógicas, reflexivas, criativas e críticas, teoricamente fundamentadas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "07:00 - 13:00",
+        "professor": "MARIA MARGARIDA PEREIRA DE LIMA GOMES"
+       },
+       {
+        "dia": "Qua",
+        "hora": "15:20 - 17:00",
+        "professor": ""
+       },
+       {
+        "dia": "Qui",
+        "hora": "07:00 - 13:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "EDD241"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIS122",
+      "Nome": "Fisica para Prof de Ciencias",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenvolvimento conceitual e experimental de tópicos de Mecânica, Física Térmica, Ondulatória, Eletricidade, Magnetismo e Óptica, integrados ao programa de Ciências Naturais para o segundo ciclo do Ensino Fundamental. Estratégias de ensino-aprendizagem.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "18:30 - 21:50",
+        "professor": "STAMATIOS STRIKOS"
+       }
+      ],
+      "Requisitos": [
+       "FIN112"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "7º Período": [
+     {
+      "Codigo": "EDF245",
+      "Nome": "Psicologia da Educação",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A Psicologia da Educação e as relações entre desenvolvimento afetivo, cognitivo, linguístico e moral em situações de interação sócio-cultural. Inteligência e escolarização meritocrática: da tradição psicométrica às concepções contemporâneas de inteligência. Humanismo, behaviorismo, psicanálise, construtivismo e sócio-interacionismo. O processo psicológico da construção e aquisição do conhecimento diante dos sistemas de informação e comunicação.\n",
+       "BibliografiaBasica": "1)\tCUNHA, M. V. A Psicologia da Educação: dos paradigmas científicos às finalidades educacionais. Acessado em 10 de julho de 2013. http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0102-25551998000200004.\n2)\tAZEVEDO, E. M. K. Concepção de Carl Rogers sobre aprendizagem. Acessado em 10 de julho de 2013. http://elisakerr.wordpress.com/concepcao-de-aprendizagem-de-carl-rogers/.\n3)\tBOCK, A. M. B.; FURTADO, O; TEIXEIRA, M. L. T. Psicologias: uma introdução ao estudo de Psicologia. São Paulo, Saraiva: 2002.\n",
+       "BibliografiaComplementar": "1)\tVIGOTSKY, L. A formação social da mente. São Paulo, Martins Fontes: 1998.\n2)\tVYGOTSKY, L. Pensamento e Linguagem. São Paulo, Martins Fontes: 1989.\n3)\tCOLL, C.; MONEREO, C.; et Coll. Psicologia da Educação Virtual: aprender e ensinar com as tecnologias da informação e da comunicação. Porto Alegre, Artmed: 2010.\n4)\tAUSUBEL, D.P. et alii. Psicologia educacional. Rio de Janeiro: ed. Interamericano, 1980.\n5)\t PATTO, M.H. Introdução à psicologia escolar. São Paulo: T.A. Queiros, 1986.\n6)\tPIAGET, J. Seis estudos de psicologia. Rio de Janeiro: Forense, 1970.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "18:00 - 22:00",
+        "professor": "JENNIFER ALINE ZANELA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IBWX20",
+      "Nome": "Ativ Acad Esp III - Pesquisa",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "50",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Presença em palestras, defesas públicas de monografias, dissertações e teses na área científica (4 horas por evento); monitoria (20 horas para cada semestre com carga horária média de 4 horas semanais); encontros científicos na instituição ou fora dela, como jornada de iniciação científica, artística e cultural, biossema (como participante, 3 horas para cada dia de evento, como membro da comissão organizadora, 5 horas para cada dia de evento); estágio de iniciação científica (exceto o estágio curricular obrigatório) na instituição ou fora dela (20 horas por semestre com carga semanal média de 4 horas); autoria e co-autoria de trabalhos resultantes de pesquisas sob orientação em revistas especializadas com corpo editorial (20 horas por trabalho); apresentação de seminários ou \"journals\" no laboratório onde desenvolve iniciação científica ou monitoria (2 horas por seminário, até o limite de 10 horas).\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDD624",
+      "Nome": "Did de Ciências Biológicas II",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Currículo: questões de seleção, organização e distribuição do conhecimento escolar. Aspectos teóricos do planejamento e da avaliação em Ciências e Biologia. as políticas de currículo e o ensino de Ciências e biologia. História e uso de livros didáticos em Ciências e Biologia. Os espaços não formais e o ensino de Ciências e Biologia.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "EDD511"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IBB352",
+      "Nome": "Botanica Economica",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A fitofisionomia brasileira. Historia econômica do Brasil. As grandes culturas: cana-de-açúcar, café, borracha e soja. Plantas alimentares fibrosas, forrageiras, aromáticas, tóxicas, produtoras de madeira, medicinais. Plantas e Biotecnologia, Biossegurança e Bioética. Desenvolvimento agrícola, industrial e conservação do meio ambiente.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "18:20 - 20:00",
+        "professor": "FILIPE RODRIGUES VALERIANO"
+       },
+       {
+        "dia": "Ter",
+        "hora": "18:20 - 20:00",
+        "professor": "ANAIZE BORGES HENRIQUES"
+       }
+      ],
+      "Requisitos": [
+       "IBB242"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "8º Período": [
+     {
+      "Codigo": "EDF120",
+      "Nome": "Filos Educação Mundo Ocidental",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Contribuições das concepções filosóficas do século XX para a problemática educacional. O pensamento pedagógico brasileiro dos anos 1920 a 1980. Contribuições das concepções filosóficas para a problemática educacional. O pensamento pedagógico brasileiro à luz da filosofia da educação.\n",
+       "BibliografiaBasica": "1) ARISTÓTELES. A ética a Nicômacos. Trad. Mario da Gama Cury. Brasília, DF: EdUnb, 1985 (2ª ed).\n2) BRÉHIER, Émile. História da Filosofia. São Paulo: Mestre Jou, 1977, tomo II, fasc.4\n3) DURKHEIM, Emile. Educação e Sociologia. São Paulo: Edições 70, 2001.\n",
+       "BibliografiaComplementar": "1) JAEGER, Werner. Paidéia. São Paulo: Martins Fontes, 1995.\n2) MAZZOTTI, Tarso Bonilha, OLIVEIRA, Renato José de. O que você precisa saber em ciência (s) da educação. Rio de Janeiro: DPA, 2000.\n3) PLATÃO. República. Trad. Maria Helena Rocha. Lisboa: Fundação Calouste Gulbenkian, 1990 (6ª. ed.).\n4) ROUSSEAU, J. J. Emílio ou da educação. Trad. Roberto Leal Ferreira. São Paulo, SP: Martins Fontes, 2004 (3ª ed).\n5) GADOTTI, Moacir. Pensamento pedagógico brasileiro. São Paulo: Ática, 1991.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "14:00 - 17:30",
+        "professor": "BERNARDO CARVALHO OLIVEIRA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDD636",
+      "Nome": "Educ e Comunicação II (Libras)",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O estudo de LIBRAS na formação do professor em uma visão inclusiva de Educação. Cultura surda e comunidade. As comunidades surdas no Brasil. Surdez e Patologia. Surdez e diferença. Gramática em LIBRAS. Vocabulário básico. Exercícios e diálogos: família, apresentação, saudação, e sentimentos; objetos, alimentos e bebidas; corpo humano; animais; vestuário. Acessórios e cores; profissões e sistemas monetários; meios de transportes e viagens; países, estados e cidades; calendário, condições climáticas e estações do ano; mitos, lendas e crenças. Exercício para o desenvolvimento da percepção e uso do espaço e do corpo.\nBIBLIOGRAFIA RECOMENDADA\n1)\tBRASIL. DECRETO Nº 5.626, DE 22 DE DEZEMBRO DE 2005. Decreto Lei de Libras. Disponível em: . Acesso em: dez. 2011.\n2)\t________. LEI FEDERAL Nº 10.436 de 24/04/2002. Reconhece a Língua Brasileira de Sinais ? Libras. Brasília ? DF Disponível em: . Acesso em: dez. 2011.\n3)\tBRITO, L. F. Integração Social e Educação de Surdos. Rio de Janeiro: Ed. Babel, 1993.\n",
+       "BibliografiaBasica": "1)\tFELIPE, T. A. Libras em Contexto - manual do estudante, Brasília: MEC, 2001.\n2)\tFERNANDES, E. Linguagem e Surdez. Porto Alegre: Artmed, 2003.\n3)\tFERNANDES, S. É possível ser surdo em português? Língua de sinais e escrita: em busca de uma aproximação. In: Skliar, C. Atualidade da educação bilíngüe para surdos. Porto Alegre: Mediação, 1999.\n4)\tFERREIRA, M. C. C., ZAMPIERI, M. A. Atuação do professor ouvinte na relação com o aluno surdo: relato de experiência nas séries iniciais do ensino fundamental. In: LODI, A. C. B. (org.) Leitura e escrita no contexto da diversidade. Porto Alegre: Mediação, 2004.\n5)\tGUARINELLO, A. C. O papel do outro na escrita de sujeitos surdos. São Paulo: Plexus, 2007.\n6)\tPAULA, L. S. B. de. Linguagem e a Surdez. Revista Espaço: informativo técnico científico do INES. nº 20 dez./2003- Rio de Janeiro: INES, 2003.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "18:00 - 22:00",
+        "professor": "JESSICA SILVA COSSO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IBWX21",
+      "Nome": "Ativ Acad Esp IV - Cult e Div",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "50",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Espaços formais e não formais da educação cidadã, cultural e de divulgação científica. Em função da Resolução CNE/CP 1/2004, respaldada pela lei 9131/1995, esta ACC estabelece abordagens e atividades no contexto das relações étnico-raciais e de tolerância social. Participação e organização de cursos e eventos acadêmicos, científicos, educacionais. Elaboração e divulgação de trabalhos científicos e relatos de experiências. Oferece ao aluno oportunidade de vivenciar as múltiplas formas de educação, com as quais deverá trabalhar em sua profissional, priorizando atividades no contexto das relações étnico-raciais e de tolerância social.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ]
+   },
+   "obrigatorias": 44,
+   "eletivas": 0,
+   "ano": "2014/1 a 9999/9"
+  }
+ ]
+}

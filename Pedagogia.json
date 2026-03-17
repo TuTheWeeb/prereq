@@ -1,0 +1,3304 @@
+{
+ "Pedagogia": [
+  {
+   "materias": {
+    "1º Período": [
+     {
+      "Codigo": "EDF120",
+      "Nome": "Filos Educação Mundo Ocidental",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Contribuições das concepções filosóficas do século XX para a problemática educacional. O pensamento pedagógico brasileiro dos anos 1920 a 1980. Contribuições das concepções filosóficas para a problemática educacional. O pensamento pedagógico brasileiro à luz da filosofia da educação.\n",
+       "BibliografiaBasica": "1) ARISTÓTELES. A ética a Nicômacos. Trad. Mario da Gama Cury. Brasília, DF: EdUnb, 1985 (2ª ed).\n2) BRÉHIER, Émile. História da Filosofia. São Paulo: Mestre Jou, 1977, tomo II, fasc.4\n3) DURKHEIM, Emile. Educação e Sociologia. São Paulo: Edições 70, 2001.\n",
+       "BibliografiaComplementar": "1) JAEGER, Werner. Paidéia. São Paulo: Martins Fontes, 1995.\n2) MAZZOTTI, Tarso Bonilha, OLIVEIRA, Renato José de. O que você precisa saber em ciência (s) da educação. Rio de Janeiro: DPA, 2000.\n3) PLATÃO. República. Trad. Maria Helena Rocha. Lisboa: Fundação Calouste Gulbenkian, 1990 (6ª. ed.).\n4) ROUSSEAU, J. J. Emílio ou da educação. Trad. Roberto Leal Ferreira. São Paulo, SP: Martins Fontes, 2004 (3ª ed).\n5) GADOTTI, Moacir. Pensamento pedagógico brasileiro. São Paulo: Ática, 1991.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 16:20",
+        "professor": "ANDRE DE BARROS BORGES"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDF240",
+      "Nome": "Fundamentos Sociológ Educação",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O contexto do surgimento da sociologia. Durkheim e a formação de uma maneira funcional de interpretar as relações entre educação e demais instâncias da vida social. A sociologia da educação na primeira metade do século XX. Os estudos sobre educação após a segunda guerra mundial. A \"crítica radical\" dos anos 70 - educação e reprodução social. A influência do marxismo no pensamento educacional. Influências gramscianas. A \"crise dos paradigmas\" das ciências sociais e os estudos sobre educação: modelos microssociológicos e etnográficos. Abordagens weberianas em sociologia da educação.\n",
+       "BibliografiaBasica": "1)\tALVES, M. Teresa G. & FRANCO, Creso. A pesquisa em eficácia escolar no Brasil: evidências sobre o efeito das escolas e fatores associados à eficácia escolar. In: BROOKE, N.; SOARES, J. F. Pesquisa em Eficácia Escolar: Origem e Trajetórias. Belo Horizonte: Editora UFMG.\n2)\t BOURDIEU, Pierre. A escola conservadora: as desigualdades frente à escola e à cultura. In: NOGUEIRA, M. A. & CATANI, A. (orgs,) Escritos de Educação. Petrópolis: Vozes, 2010.\n3)\tDURKHEIM, E. - ?A educação: sua natureza e função? in Educação e Sociedade. São Paulo: Melhoramentos,1978.\n4)\tNOGUEIRA, M. Alice, 1995. A Sociologia da Educação do final dos anos 60/início dos anos 70: o nascimento do paradigma da reprodução. In: Em Aberto, Brasília, ano 9, n. 46, abr. jun. 1990.\n",
+       "BibliografiaComplementar": "1)\tBOURDIEU, Pierre. Reprodução Cultural e Reprodução Social in A Economia das Trocas Simbólicas. São Paulo: Ed. Perspectiva, 1987.\n2)\t LAHIRE, Bernard. Sucesso escolar nos meios populares: as razões do improvável. São Paulo: Ática, 2008.\n3)\tNOGUEIRA, Maria Alice. A Sociologia da Educação no final dos anos 60/início dos anos 70: o nascimento do paradigma da reprodução. Em Aberto, Brasília, ano 9, n.46, abr./jun. 1990.\n4)\tNOGUEIRA, Maria Alice e NOGUEIRA, Claudio M. - A Sociologia da Educação de Pierre Bourdieu: limites e contribuições. Educação e Sociedade, Campinas, n. 78, Ano XXIII, abril/2002.\n5)\tZAGO, Nadir, 2011. Fracasso e sucesso escolar no contexto das relações família e escola: questionamentos e tendências em Sociologia da Educação. Revista Luso-Brasileira de Sociologia da Educação, ano 2, n.3, março 2011.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "13:00 - 16:20",
+        "professor": "MARIA COMES MUANIS"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDF113",
+      "Nome": "História Educ Mundo Ocidental",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Abordagem Histórica das principais idéias e práticas educacionais que assumem importância desde o início dos Tempos Modernos até o século XXI.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "07:30 - 10:50",
+        "professor": "JOSE CLAUDIO SOOMA SILVA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDF122",
+      "Nome": "Psicologia do Desen e Educação",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceitos fundamentais de Desenvolvimento Humano. Questões básicas relativas ao desenvolvimento biológico, sócio-cultural, afetivo e cognitivo da criança, do jovem, do adulto e do idoso. Perspectivas comportamentais, cognitivas, psicanalíticas, humanistas, psicossociais, para o desevolvimento psicológico e suas implicações para as práticas e atuações educacionais, em instituições e fora delas. As contribuições da psicologia da educação para a constituição de contextos educacionais não excludentes.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 16:20",
+        "professor": "GIULIANA VOLFZON MORDENTE"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDF417",
+      "Nome": "Intr ao Pens Cient em Educação",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução ao pensamento científico. Os principais tipos de conhecimento. As posições da ciência moderna. Evolução da Ciência.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 16:20",
+        "professor": "GISELI PERELI DE MOURA XAVIER"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "2º Período": [
+     {
+      "Codigo": "EDF231",
+      "Nome": "Filosofia Educ Contemporânea",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Contribuições das concepções filosóficas do século XX para a problemática educacional. O pensamento pedagógico brasileiro dos anos 1920 a 1980.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "18:30 - 21:50",
+        "professor": "REUBER GERBASSI SCOFANO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDF364",
+      "Nome": "Sociologia da Educ Brasileira",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A pesquisa social em educação no Brasil, estudos clássicos e recentes: principais temas e enfoques. Investagações quantitativas e qualitativas em pesquisa educacional, no Brasil.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "18:30 - 21:50",
+        "professor": "MARIANE CAMPELO KOSLINSKI"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDF121",
+      "Nome": "História Educação Brasileira",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Abordagem histórica das principais concepções e práticas educacionais desenvolvidas no Brasil desde o período colonial até a década de 1960.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "18:30 - 21:50",
+        "professor": "ANNA BEATRIZ ESSER DOS SANTOS"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDF232",
+      "Nome": "Psicologia da Apren e Educação",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Teorias e abordagens da psicologia da educação adotadas no estudo dos processos de aquisição de conhecimentos, representações e competências no âmbito de práticas e atuações educacionais, em instituições escolares e fora delas. A importância dos aspectos socioculturais e históricos para os processos de ensino-aprendizagem e os desafios para a geração de propostas educacionais inseridas em contextos diversos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "18:30 - 21:50",
+        "professor": "ALINE VERISSIMO MONTEIRO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDF418",
+      "Nome": "Antropologia na Educação",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Principais correntes e principais debates na atualidade: natureza e/ou cultura(s), socialização e/ou sociabilidade(s), diferença, diverdidade e/ou alteridade. O trabalho de campo do pesquisador. Cultura(s) escolar(es), cultura(s) midiática(s), cultura(s) da infãncia e cultura(s) jovem(ns).\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "18:30 - 21:50",
+        "professor": "ANA PIRES DO PRADO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "3º Período": [
+     {
+      "Codigo": "EDA351",
+      "Nome": "Quest Atuais Educ Brasileira",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A Educação como política de Estado e a questão dos direitos sociais. Instâncias de decisão e de execução da política educacional nos níveis federal, estadual e municipal. Tensões entre tradição e inovação na educação brasileira contemporânea: a relação entre nível central e unidade escolar; profissionalização do campo pedagògico e participação de comunidade; democratização do acesso à escola e garantia da qualidade do ensino. Estragégias de qualificação docente. Financiamento, autonomia escolar e democratização da gestão.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "18:30 - 21:50",
+        "professor": "ANGELA BOTH CHAGAS"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDD647",
+      "Nome": "Linguagem Corporal na Educação",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Aspectos históricos, antropológicos e culturais. Corpo, disciplina, gênero e sexualidade. O corpo e a relação com o outro. Consciência corporal e identidade. O direito de movimentar-se. O movimento como recurso de prazer, educação e saúde.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "13:00 - 15:30",
+        "professor": "BRUNO RODRIGUES GANEM"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDA234",
+      "Nome": "Educação Brasileira",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A constituição do sistema nacional de ensino e a relação entre Estado e Educação. Persistências e mudanças na estrutura e no funcionamento do ensino no Brasil: as relações entre público e privado, centralização e descentralização, ensino laico e ensino confessional, formação geral e formação profissional. A LDBEN (Lei 9394/96): avanços e recuos no processo de profissionalização do campo pedagógico e de universalização do ensino.\n",
+       "BibliografiaBasica": "1)\tCUNHA, Luiz Antônio. 5ª ed. Educação e desenvolvimento Social no Brasil. Rio de Janeiro: Francisco Alves , 1980.\n2)\tBRASIL. LEI DE DIRETRIZES E BASES DA EDUCAÇÃO NACIONAL, LDBEN. LEI 9.349 de 20/12/1996.\n3)\tSAVIANI, Dermeval. A nova lei de educação - trajetórias, limites e perspectivas. Campinas: Autores Associados, 1997.\n",
+       "BibliografiaComplementar": "1)\tBRZEZINSKI, Iria. (Org.). LDB dez anos depois: reinterpretação sob diversos olhares. São Paulo: Cortez, 2008.\n2)\t______. Políticas contemporâneas de formação e professores para os anos iniciais do ensino fundamental. Educação & Sociedade, v. 29, n. 105, set/dez 2008.\n3)\tCUNHA, Luiz Antonio; GÓES, Moacyr de. O golpe na educação. Rio de Janeiro: Jorge Zahar, 1985.\n4)\t______. Educação, Estado e Democracia no Brasil. 5ª ed.São Paulo: Cortez, 2005.\n5)\tCURY, Carlos Jamil. Legislação educacional brasileira. 2ª ed. Rio de Janeiro: DP&A, 2002.\n6)\t______. A educação básica no Brasil. Educação & Sociedade, n. 80, v. 23, p. 169-202, 2002.\n7)\t______. Estado e políticas de financiamento em educação. Educação & Sociedade, v. 28, n. 100, Out. 2007.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "18:00 - 22:00",
+        "professor": "DANIELA PATTI DO AMARAL"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDD235",
+      "Nome": "Educacao e Comunicacao I",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A negociação dos sentidos: silêncio e linguagem; os sujeitos; os códigos; os contextos; as relações. Quem conta um conto: por que se contam histórias; leitura e educação; relações sociais; os modos de inserção da Literatura Infantil na escola; materiais didáticos, seleção de textos e propostas de estudo. Imagem é tudo: imagem e conteúdo; sentidos e deslocamentos; mídia e educação; televisão e escola/ televisão na escola; educação em rede.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 15:30",
+        "professor": "REJANE MARIA DE ALMEIDA AMORIM"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDF233",
+      "Nome": "Bases Biologicas da Aprendizag",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo da filogênese  e da ontogênese do sistema nervoso humano, considerando-se o processo de aprendizagem e a gênese do conhecimento. Maturação e desenvolvimento.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 16:20",
+        "professor": "MONICA PEREIRA DOS SANTOS"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "4º Período": [
+     {
+      "Codigo": "EDD243",
+      "Nome": "Curriculo",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "História do pensamento curricular: concepções tradicionais, críticas e pós-críticas. Discussão e análise das principais questões relativas à seleção, organização e distribuição do conhecimento escolar. Políticas de currículo.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "18:30 - 21:50",
+        "professor": "ADRIANA PATRICIO DELGADO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDF351",
+      "Nome": "Concep Prát Educação Infantil",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Teorias, concepções e metodologias de Educação Infantil, história da infância e da educação da criança de 0 a 6 anos, características e alternativas pedagógicas da Educação Infantil no Brasil, inclusão social e políticas públicas de Educação Infantil, o cotidiano da Educação Infantil.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 16:20",
+        "professor": "NUBIA DE OLIVEIRA SANTOS"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDD241",
+      "Nome": "Didática",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A construção do campo da didática visto como tempo/espaço de reflexão/ação sobre o processo de ensino-aprendizagem. Teorias educacionais e o contexto sócio-histórico, político, econômico e filosófico da prática pedagógica. Estruturantes da prática pedagógica: planejamento curricular e planejamento de ensino; métodos e técnicas de ensino; avaliação do ensino.\nBIBLIOGRAFIA RECOMENDADA\n1)\tCANDAU, Vera Maria. (Org.) Ensinar e Aprender: sujeitos, saberes e pesquisa/Encontro Nacional de Didática e Prática de Ensino (ENDIPE). Rio de Janeiro: DP&A, 2000.\n2)\t________Linguagens, espaços e tempos no ensinar e aprender./Encontro Nacional de Didática e Prática de Ensino (ENDIPE). Rio de Janeiro: DP&A, 2000.\n3)\t ________(Org.)Didática, Currículo e Saberes Escolares. Rio de Janeiro: DP&A, 2001.\n4)\tFAZENDA, Ivani (org.). Didática e interdisciplinaridade. São Paulo : Papirus, 1998.\n",
+       "BibliografiaBasica": "1)\tGIMENO SACRISTÁN, Jose. Currículo e diversidade cultural. Em: SILVA, Tomaz Tadeu da; MOREIRA, Antonio Flavio Barbosa (orgs.). Territórios contestados: o currículo e os novos mapas políticos e culturais. Petrópolis/RJ : Vozes, 1999. [82-113].\n2)\tGIMENO SACRISTÁN, J. e PEREZ GÓMEZ, A. I. Compreender e transformar o ensino. 4ª ed. Porto Alegre : Artmed, 1998.\n3)\tLIBÂNEO, José Carlos. Didática: velhos e novos temas. Goiânia : edição do autor, 2002.\n4)\t_________. Pedagogia e Pedagogos, para quê? 7ª ed. SP : Cortez, 2004.\n5)\tMOREIRA, Antonio Flávio Barbosa; SILVA, Tomaz Tadeu da. Sociologia e teoria crítica do currículo: uma introdução. Em: MOREIRA, Antonio Flávio Barbosa; SILVA, Tomaz Tadeu da.(Orgs.). Currículo, cultura e sociedade. São Paulo : Cortez, 1995. [07-37].\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "18:30 - 21:50",
+        "professor": "RITA DE CASSIA DE OLIVEIRA E SILVA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDD350",
+      "Nome": "Alfabetização e Letramento",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Concepções de alfabetização na história e nas sociedades; Aspectos sócio-lingüísticos do processo de alfabetização; Metodologias na aquisição da escrita; Concepção de letramento.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "18:30 - 21:50",
+        "professor": "LUDMILA THOME DE ANDRADE"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDF607",
+      "Nome": "Fund da Educacao Especial",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "História da Educação Especial. O alunado da educação especial: concepções e trajetórias. Deficiências: características gerais e especificidades pedagógicas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "18:30 - 21:50",
+        "professor": "CRISTIANA CARNEIRO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "5º Período": [
+     {
+      "Codigo": "EDD478",
+      "Nome": "Arte - Educação",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A arte como manifestação de expressão e comunicação humana. As manifestações artísticas como reflexo de valores e características sócio-culturais. As principais correntes de arte-educação. As aplicações desses conheceimentos na educação básica.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "07:30 - 10:00",
+        "professor": "ANDREA PENTEADO DE MENEZES"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDF244",
+      "Nome": "Metod da Pesquisa em Educ",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução à pesquisa em Educação. Seleção dos sujeitos e dos instrumentos de coleta de dados para pesquisa. Tipos de pesquisa em educação; características e precedimentos metodológicos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "13:00 - 16:20",
+        "professor": "TERESA PAULA NICO REGO GONCALVES"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDD172",
+      "Nome": "Aval Proc Ensino-aprendizagem",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceitos básicos nas áreas de medida e de avaliação. Elaboração, aplicação e análise, informação e utilização de instrumentos e de resultados de avaliação.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 16:20",
+        "professor": "ELAINE CONSTANT PEREIRA DE SOUZA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDD646",
+      "Nome": "Planejamento de Cur e Ensino",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Concepções de planejamento curricular em sistemas educacionais e nas escolas. Análise de propostas curriculares e de planejamentos de ensino em uma perpectiva crítica.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 16:20",
+        "professor": "MONICA DE SOUZA HOURI"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDWU21",
+      "Nome": "Pr En Mag Disc Pedag Ens Médio",
+      "Créditos": "8.0",
+      "Teórica": "60",
+      "Prática": "120",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Propostas pedagógicas e estratégias de gestão da escola. Aspectos sócio-culturais do educando. O currículo da formação do professor de Ensino Médio. Conteúdo e metodologia do ensino das disciplinas pedagógicas do ensino médio. Trajetória escolar: aprovação, repetência e evação. Práticas docentes: inovações, criatividade e conservadorismo. Condições de trabalho dos docents. Relação da escola com o sistema e com a comunidade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 16:20",
+        "professor": "ROBERTO MARQUES"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "6º Período": [
+     {
+      "Codigo": "EDD176",
+      "Nome": "Didática das Ciên da Natureza",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Disciplina escolar Ciências: aspectos históricos e epistemológicos. A constituição dos conhecimentos científicos e escolares em ciências. A educação em ciências como área de pesquisa. Propostas curriculares, materias e didáticos e atividades de ensino para a disciplina escolar Ciências. Planejamento e avaliação da aprendizagem em ciências.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "18:30 - 21:50",
+        "professor": "VICTORIA CARDIN ALFANO RAPOSO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDF363",
+      "Nome": "Psicopedagogia e Educação",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Contextualização na história da educação. Questões atuais. Dificuldades e Distúrbios no Processo Ensino-Aprendizagem: identifição e intervenção.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "18:30 - 21:50",
+        "professor": "ADRIANA MABEL FRESQUET"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDA612",
+      "Nome": "Planej e Aval de Sistem Educac",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceito e fins do Planejamento educacional: histórico e debate corrente. O conhecimento científico aplicado ao planejamento educacional: dimensões técnica e política. Função e finalidades da avaliação de sistemas educacionais: estratégias e instrumentos da avaliação institucional. Planejamento e avaliação nas políticas educacionais em curso no Brasil.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 16:20",
+        "professor": "SILVINA JULIA FERNANDEZ"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDD362",
+      "Nome": "Didática da Matemática",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Disciplina escolar Matemática: aspectos históricos e epistemológicos. A constituição dos conhecimentos científicos e escolares em matemática. A educação em matemática como área de pesquisa. Propostas curriculares, materiais didáticos e atividades de ensino para a disciplina escolar Matemática. Planejamento e avaliação da aprendizagem em Matemática.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "18:30 - 21:50",
+        "professor": "JANETE BOLITE FRANT"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDWU24",
+      "Nome": "Prát em Polít e Administ Educ",
+      "Créditos": "8.0",
+      "Teórica": "60",
+      "Prática": "120",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Propostas pedagógicas e estratégias de gestão da escola. Aspectos sócio-culturais do educando. O currículo da formação do gestor em Educação. Trajetória escolar: aprovação, repetência e evasão. Práticas de gestão: inovações, criatividade e conservadorismo. Condição de trabalho dos gestores. Relação da escola com o sistema e com a comunidade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 16:20",
+        "professor": "JUSSARA BUENO DE QUEIROZ PASCHOALINO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "7º Período": [
+     {
+      "Codigo": "EDD361",
+      "Nome": "Didática da Língua Portuguesa",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Os processos histórico e social da construção do conhecimento de língua portuguesa. O ensino de língua portuguesa e sua adequação ao nível de desenvolvimento mental do estudante. A linguagem da escola e a linguagem do estudante. O ensino da gramática, da leitura e a produção de textos. Recursos didáticos para o ensino de língua portuguesa. Criação de materias didáticos. Análise de propostas curriculares. Avaliação da aprendizagem de língua portuguesa.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "13:00 - 16:20",
+        "professor": "PATRICIA RAQUEL BARONI"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDF609",
+      "Nome": "Educação Popular e Mov Sociais",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Movimentos de educação popular: origens e vertentes. Os movimentos sociais como práticas alternativas ao atendimento falho do sistema oficial educacional brasileiro. Concepções de educação popular. Experiências de educação popular no sistema formal de ensino e experiências não formais de ensino.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 16:20",
+        "professor": "JOYCE LOUBACK LOURENCO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDD175",
+      "Nome": "Didática das Ciências Sociais",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Disciplina escolar: aspectos históricos e epistemológicos. O ensino de Ciências Sociais (História, Geografia, Sociologia e Antropologia) na educação básica como objeto de reflexão e de pesquisa. A consturção de conceitos - basilares para a leitura e problematização da realidade social. Propostas curriculares, materais didáticos e atividades de ensino para as disciplinas escolares inseridas no âmbito das Ciências Sociais, Planejamento e avaliação de aprendizagem em Ciências Sociais.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 16:20",
+        "professor": "ROBERTO MARQUES"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDF608",
+      "Nome": "Pesquisa em Educação",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A formulação do problema de pesquisa. A definição de procedimentos metodológicos coerentes com o problema formulado. A elaboração do projeto de pesquisa. O processo de coleta de dados. A organização, a análise e a interpretação de resultados. A elaboração da monografia.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 16:20",
+        "professor": "GISELI PERELI DE MOURA XAVIER"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDWU11",
+      "Nome": "Prát de Ensin em Educ Infantil",
+      "Créditos": "8.0",
+      "Teórica": "60",
+      "Prática": "120",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Propostas pedagógicas e estratégias de gestão da escola. Aspectos sócio-culturais do educando. Currículo e metodologia de prática pedagógica na Educação Infantil. Práticas docentes: Inovações, criatividade e conservadorismo. Condições de trabalho do corpo docente. Relação da escola com o sistmea de ensino e com a comunidade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 16:20",
+        "professor": "DEISE ARENHART"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "8º Período": [
+     {
+      "Codigo": "EDA604",
+      "Nome": "Políticas Públicas em Educação",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo e análise de projetos educacionais na conjuntura atual, em níveis federal, estadual e municipal. Diagnóstico e avaliação de políticas públicas voltadas para a educação infantil. o ensino fundamental e a educação de jovens e adultos. Articulação entre políticas públicas para a educação e projetos sociais mais amplos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "18:30 - 21:50",
+        "professor": "VANIA CARDOSO DA MOTTA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDW480",
+      "Nome": "Monografia",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Discussao sobre as partes que compoem uma monografia. Acompanhamento da elaboracao dos projetos individuais ou coletivos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "07:30 - 10:50",
+        "professor": "ALESSANDRA FONTES CARVALHO DA ROCHA KUKLINSKI PEREIRA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDA242",
+      "Nome": "Organizacao do Trabalho Pedag.",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Os diferentes atores e seus papéis na organização pedagógica da escola, autonomia e identidade da escola; concepções de gestão pedagógica; projeto político pedagógico da escola.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "18:30 - 21:00",
+        "professor": "SABRINA MOEHLECKE"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDD648",
+      "Nome": "Abord Did Educ de Jov Adultos",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Abordagem histórico-político-social da EJA no Brasil. A EJA como conseqüência dos processos da exclusão social inerentes ao não cumprimento dos objetivos da educação na modalidade regular. Perspectivas teóricas possíveis para as práticas pedagógicas que resgatam o saber de indivíduos jovens, adultos e idosos. O perfil do aprendiz. O letramento como uma nova visão sobre a alfabetização. Currículos, materias didáticos e formação de professores específicos de EJA.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "18:30 - 21:50",
+        "professor": "CLAUDIA MARIA BOKEL REIS"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDWU01",
+      "Nome": "Prát Ens Sér Inic Ens Fundamen",
+      "Créditos": "8.0",
+      "Teórica": "60",
+      "Prática": "120",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Propostas pedagógicas e estratégias de gestão da escola. Aspectos sócio-culturais do educando. Currículo das séries iniciais do Ensino Fundamental. Conteúdo e metodologia do precesso de alfabetização e disciplinas das séries iniciais do Ensino Fundamental. Trajetória escolar: aprovação, repetência e evasão. Práticas docentes: inovações, criatividade e conservadorismo. Condições de trabalho do corpo docente. Relação da escola com o sistema de ensino e com a comunidade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 16:20",
+        "professor": "IRENE GIAMBIAGI"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "9º Período": [
+     {
+      "Codigo": "EDD636",
+      "Nome": "Educ e Comunicação II (Libras)",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O estudo de LIBRAS na formação do professor em uma visão inclusiva de Educação. Cultura surda e comunidade. As comunidades surdas no Brasil. Surdez e Patologia. Surdez e diferença. Gramática em LIBRAS. Vocabulário básico. Exercícios e diálogos: família, apresentação, saudação, e sentimentos; objetos, alimentos e bebidas; corpo humano; animais; vestuário. Acessórios e cores; profissões e sistemas monetários; meios de transportes e viagens; países, estados e cidades; calendário, condições climáticas e estações do ano; mitos, lendas e crenças. Exercício para o desenvolvimento da percepção e uso do espaço e do corpo.\nBIBLIOGRAFIA RECOMENDADA\n1)\tBRASIL. DECRETO Nº 5.626, DE 22 DE DEZEMBRO DE 2005. Decreto Lei de Libras. Disponível em: . Acesso em: dez. 2011.\n2)\t________. LEI FEDERAL Nº 10.436 de 24/04/2002. Reconhece a Língua Brasileira de Sinais ? Libras. Brasília ? DF Disponível em: . Acesso em: dez. 2011.\n3)\tBRITO, L. F. Integração Social e Educação de Surdos. Rio de Janeiro: Ed. Babel, 1993.\n",
+       "BibliografiaBasica": "1)\tFELIPE, T. A. Libras em Contexto - manual do estudante, Brasília: MEC, 2001.\n2)\tFERNANDES, E. Linguagem e Surdez. Porto Alegre: Artmed, 2003.\n3)\tFERNANDES, S. É possível ser surdo em português? Língua de sinais e escrita: em busca de uma aproximação. In: Skliar, C. Atualidade da educação bilíngüe para surdos. Porto Alegre: Mediação, 1999.\n4)\tFERREIRA, M. C. C., ZAMPIERI, M. A. Atuação do professor ouvinte na relação com o aluno surdo: relato de experiência nas séries iniciais do ensino fundamental. In: LODI, A. C. B. (org.) Leitura e escrita no contexto da diversidade. Porto Alegre: Mediação, 2004.\n5)\tGUARINELLO, A. C. O papel do outro na escrita de sujeitos surdos. São Paulo: Plexus, 2007.\n6)\tPAULA, L. S. B. de. Linguagem e a Surdez. Revista Espaço: informativo técnico científico do INES. nº 20 dez./2003- Rio de Janeiro: INES, 2003.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 16:20",
+        "professor": "BETTY LOPES L ASTORINA DE ANDRADE"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDWK02",
+      "Nome": "Orientação de Monografia",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Trata-se de orientação do trabalho final do curso monografia e de sua apresentação pública. Esta deverá ser aprovada pelo orientador, perante uma banca constituída pela COAA do curso que terá função de exarar o parecer do trabalho apresentado, podendo exigir reformulações.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDA480",
+      "Nome": "Educacao Comparada",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A Educação comparada: história, teorias e métodos. Os Organismos Internacionais e as políticas do MEC para a educação brasileira . Estudo Comparado da organização e funcionamento dos sistemas de ensino em nível internacional e/ou nacional, tendo como foco a realidade educacional brasileira.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 16:20",
+        "professor": "ANA LUCIA CUNHA FERNANDES"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDF419",
+      "Nome": "Educação e Trabalho",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A temática \"Trabalho-Educação\" na conjuntura histórica atual. Análises desenvolvidas por organizações internacionais e as teses desenvolvidas pela sociologia do trabalho. Repercussões para as políticas sociais e educacionais. Sociedade do conhecimneto, reestruturação produtiva e requerimentos qualificacionais - desdobramentos educacionais e possíveis alternativas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 16:20",
+        "professor": "GABRIELA DE SOUZA HONORATO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDWU25",
+      "Nome": "Prát En Est Sup Educ Jov Adult",
+      "Créditos": "8.0",
+      "Teórica": "60",
+      "Prática": "120",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Propostas pedagógicas e estratégias de gestão em educação de jovens e adultos. Aspectos sócio-culturais dos educandos. O currículo da formação do professor de Jovens e Adultos. Conteúdo e metodologia do ensino para jovens e adultos. Trajetória escolar: aprovação, repetência e evasão. Práticas docentes: inovações, criatividade e conservadorismo. Condições de trabalho dos docentes. Relação da escola com o sistema e com a comunidade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 16:20",
+        "professor": "MARTA LIMA DE SOUZA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "Disciplinas Optativas (Escolha Condicionada)": [
+     {
+      "Codigo": "EDA002",
+      "Nome": "Projetos Pedagógicos",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudos de projetos pedagógicos em curso no âmbito dos movimentos sociais, das organizações não governamentais e das demais formas de atuação de grupos organizados. Bases para a elaboração de pojetos pedagógicos que complementem a ação escolar.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EDD001",
+      "Nome": "Atualiz Cont Língua Portuguesa",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Atualização sobre o ensino da Língua Portuguesa por meio de situações-problema vivenciadas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EDD003",
+      "Nome": "Linguagem Mus na Educ Básica",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A música como forma de conhecimento humano. Conceitos e funções sociais da música. Música, consumo e indústria cultural. Formação de ouvintes críticos. Concepções e práticas educação musical na escola básica.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EDD005",
+      "Nome": "Mult Ling Alfab de Jov e Adult",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Múltiplas linguagens em alfabetização de jovens e adultos. Avaliação e alfabetização de jovens e adultos. Desenvolvimento do trabalho pedagógico de alfabetização de jovens e adultos por meio de múltiplas linguagens. Produção de materiais didáticos para estimular o processo de alfabetização em jovens e adultos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EDD360",
+      "Nome": "Alfabetização e Letramento II",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Letramentos e letramento escolar; Leitura e escrita como produção de sentido; Texto e discurso; Gêneros discursivos no ensino fundamental; O professor leitor e autor e os alunos leitores e autores.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "16:30 - 18:30",
+        "professor": "LUDMILA THOME DE ANDRADE"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EDD614",
+      "Nome": "Leitura Prod Textos Educação",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A língua portuguesa no Brasil. Variedade de uso na educação. Normas regionais e sociais. Análise gramatical e estilística de textos contemporâneos. Técnicas de expressão escrita.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "11:00 - 13:00",
+        "professor": "IRENE GIAMBIAGI"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EDD640",
+      "Nome": "Jogos e Brincadeira",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Importância do brincar no desenvolvimento infantil; o brinquedo como objeto da cultura, o brincar no contexto escolar, jogos, brincadeiroas e atividades lúdicas: questões para e educação, brinquedoteca: organização e funcionamento.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EDD642",
+      "Nome": "Atualização Cont Ciênc Sociais",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Atualização sobre o ensino das Ciências Sociais por meio de situações-problema vivenciadas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EDF001",
+      "Nome": "Educação Moral na Escola",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Perpectivas conceituais de Educação Moral em relação à Escola. Análise e discussão de diferentes teorias e a pratica pedagógicas da Educação Moral. Educação Moral como disciplina própria ou como objeto de Transversalidade. Estudo comparativo de programas de Educação Moral.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EDF003",
+      "Nome": "Psicanálise em Educação",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Possibilidades e limites de uma reflexão crítica no campo dos probelmas do desenvolvimento e da aprendizagem da criança, do adolescente e do adulto, a partir dos conceitos psicanalíticos de transferência, desejo e saber. A psicanálise como instrumento de escuta, e de contribuição para a leitura e o enfrentamento do mal-estar -violência, indisciplina, fracasso escolar, desinteresse pelo conhecimento etc. - presnte no interior da escola.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EDF005",
+      "Nome": "História da Educação no Rj",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Debate acerca dos caminhos trilhados por esta \"Cidade Maravilhosa\" e sua gente. Problematização histórica dos entrelaçamentos dos projetos de remodelação urbana da cidade do Rio de Janeiro com as experiências de escolarização da população ao longo das três primeiras décadas do século XX.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EDF007",
+      "Nome": "Form Esté Artíst Cult na Educ",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Educação e letramento midiático, imagético, cultural e artístico. Educação artística e imagética nas artes visuais, cinema, vídeo, fotografia, jogos. Cultura informacional e multiplicidade cultural.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EDF471",
+      "Nome": "Questões Atuais Hist Educação",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Discussão dos principais temas da historiografia da educação brasileira a partir dos anos 1970.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EDF601",
+      "Nome": "Dinamica de Grupo em Educacao",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo do desenvolvimento grupal atraves da vivencia de tecnicas de dinamica de grupo.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EDF610",
+      "Nome": "Educacao em Saude",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceitos de Saúde e de Educação em Saúde. Saúde e cidadania. A problemática da saúde no país. Práticas pedagógicas participativas em Educação em Saúde.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EDF612",
+      "Nome": "Anal Soc da Atual Educ no Bras",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Análise da produção dos principais cientistas sociais contemporâneos sobre a educação brasileira.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EDF644",
+      "Nome": "Educação e Novas Tecnologias",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Sociedade da informação e cibercultura; Sistemas Colaborativos (trabalho colaborativo e aprendizagem colaborativa); Ambientes Virtuais de Aprendizagem; Portais Educativos; Internet; Bibliotecas Virtuais; Software Livre.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EDW003",
+      "Nome": "Literatura Infantil",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Literatura infantil, imaginção criadora e produção de cultura; leitura literária e outras leituras; história da literatura infanto-juvenil no Brasil; escolarização da literatura e letramento literáro; formação de leitores literários; indústria cultural e literatura infantil; o mercado editorial e a escola: a produção atual de literatura infanto-juvenil. Texto e ilustrção. Literatura, cinema e novas tecnologias.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "11:00 - 13:00",
+        "professor": "PATRICIA CORSINO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EDW005",
+      "Nome": "Colon, Educ e a Pedag da Revol",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudos sobre o conceito de colonislismo e suas repercussões na educação; o teor político da educação colonial e as relações de poder em diferentes contextos; a pedagogia anticolonial, sua episteme, seus conteúdos políticos e suas potencialidades críticas na atualidade.\nA disciplina terá como enfoque a articulação entre autores como Amilcar Cabral, Paulo Freire, Frantz Fanon e José Martí, que contribuíram historicamente em diferentes contextos para as reflexões sobre uma educação libertadora.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EDW008",
+      "Nome": "Intelectuais Negras",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conhecimentos orais e escritos de mulheres negras. História, práticas e nuances dos feminismos negros(cis e transgêneros) e seus sujeitos no Brasil na América Latina e no continente Africano. Práticas educativas emancipatórias, relações de gênero e antirracismo. Pensamento feminista negro e reeducação das relações étnico-raciais em contextos escolares. Pesquisa ativista e a construção de narrativas na primeira pessoa (\"escritas de si\"). Diálogos horizontais entre produção escolar, acadêmica e militante. As relações entre subjetividade(saberes localizados) e conhecimento científico. O trabalho com gêneros literários diferenciados em sala de aula (livros e artigos, entrevistas, romances, poesias, letras de músicas, documentários). Os conceitos de intelectual negra e interseccionalidade.\n-\nBibliografia\nBENTO, marta Aparecida Muniz. A trajetória do negro como objeto e sujeito da sua história. Monografia (Especialização em História e cultura Afro-Brasileira). Rio de Janeiro: Universidade Castelo Branco, 2008.\nJABARDO, Mercedes (Ed.) Feminismos Negros: Una Antologia. Madri: Traficantes de Sueñhos, 2012. Disponível em: http://www.acuedi.org/doc/8869/feminismos-negros-una-antolog%26Atilde%3Ba.html Acesso: 22/03/2012\nJESUS, Jaqueline Gomes de. Orientações sobre identidades de gênero: conceitos e termos (Guia técnico sobre pessoas transexuais, travestis e demais transgêneros para formadores de opinião). São Paulo: Autor, 2012. Disponível em http://issuu.com/jaquelinejesus/docs/orienta_es_popular_o_trans Acesso: 22/03/2012.\nPEIXOTO,  Fabianade lima. Afrobetizar: análise das relações étnico-raciais em cinco livros didáticos de literatura para o ensino médio. Tese (Doutorado em Estudos Étnicos). Salvador: Centro de Estudos Afro-Orientais/UFBA, 2011 RIBEIRO, Janete Santos. Sala de aula: entre os rigores, labores e as vivências a serem transformadas em experiências pedagógicas emancipatórias. Dissertação (Mestrado em Educação). Niterói: Universidade Federal Fluminense, 2009.\nTRINDADE, Azoilda Lorettoda. A formação da Imagem da Mulher Negra na Mídia. Tese (Doutorado em Comunicação Social). Rio de Janeiro: Centro de Filosofia e Ciências Humanas, UFRJ, 2005. Disponível em: http://www.pos.eco.ufrj.br/site/teses_dissertações_interna.php?tease=12 Acesso: 22/03/2015.\nXAVIER, Giovana. Brancas de almas negras: beleza, cosmética e racialização na imprensa afro-americana (Eua, 1890-1930). Tese (doutorado em História) Unicamp, 2012.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EDW605",
+      "Nome": "Psicomotricidade",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo da motricidade na infância como fator de desenvolvimento físico, psicológico e biológico. Discussão dos princípios e das práticas da educação psicomotora.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EDW610",
+      "Nome": "Vigostky, Wallon e a Educação",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Identificar e analisar aspectos da aborgagem sociocultural e histórica dos teóricos Lev Vygotsky e Henri Wallon e suas implicações para a educação.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EDW612",
+      "Nome": "Educação Superior",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Educação Superior e Universidade: origens e concepções no mundo ocidental. Aspectos históricos do ensino superior no Brasil, do período colonial aos dias atuais. O tripé ensino-pesquisa-extensão. Processos de internacionalização na educação superior e suas influências nacionais e internacionais. Educação Superior como possibilidade de carreira. educação superior brasileira e sua configuração atual: repercussões sobre a vida e produção acadêmica. Possibilidade e virtualidades quanto aos futuro da universidade.\nBibliografia básica:\nSGUISSARDI, V; SILVA JÚNIOR, J. R. Educação Superior: análise e perspectiva de pesquisa. São Paulo:Xamã, 2001\nLEHER, Roberto. A universidade reformada: atualidade para pensar tendências da edcucação superior 25 anos após sua publicação. Revista contemporânea de educação, v.8, n. 16, ago./dez.2013. Disponível em: http://www.revista contemporanea.fe.ufrj.br/index.php/contemporanea/article/view/467/266. Acesso em: 05 ago 2013.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NEP110",
+      "Nome": "Fund Direitos Humanos",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Necessidade e possibilidade de uma fundamentação filosófica dos direitos humanos, para a determinação do conteúdo e construção de argumentos racionais na sua implementação. Identificação dos principais desafios para afirmação e a realização dos direitos humanos e apresentação de algumas propostas contemporâneas de Fundamentação Filosófica dos Direitos Humanos.\n",
+       "BibliografiaBasica": "1) BARBALET, J. M. A Cidadania. Lisboa: Editorial Estampa, 1989.\n2) BAUMAN, Zygmunt. Comunidade: a busca da segurança no mundo atual. Rio de Janeiro: Jorge Zahar, 2003.\n3) BECKER, Howard S. Métodos de pesquisa em ciências sociais. São Paulo: Hucitec, 1999.\n",
+       "BibliografiaComplementar": "1) BELLONI I, Magalhães h. / Souza L; Metodologia de avaliação em políticas públicas. São Paulo (Cortez) 2003.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NEP130",
+      "Nome": "Tóp Esp Polít Públ Dir Hum I",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Discussão de temas específicos em políticas públicas e direitos humanos com base no processo histórico e nas críticas contemporâneas, proporcionando ao aluno uma visão sobre o alcance e limites da sua proteção e promoção.\n___BIBLIOGRAFIA BÁSICA___\n1) BECKER, Howard S. Métodos de pesquisa em ciências sociais. São Paulo: Hucitec, 1999.\n2) BELLONI I.; Magalhães H.; Souza L; Metodologia de avaliação em políticas públicas. São Paulo (Cortez) 2003.\n3) BOBBIO, Norberto. A era dos direitos. Rio de Janeiro: Campus, 1992.\n4) BOURGUIGNON, Jussara Ayres; OLIVEIRA Jr., Constantino Ribeiro de (Orgs.).  Pesquisa em ciências sociais: interfaces, debates e metodologias. Ponta Grossa (PR): Todapalavra, 2012.\n5) BRASIL, Programa Nacional de Direitos Humanos , PNDH II, Fernando Henrique Cardoso,  Brasília, Presidência da República, Secretaria da Comunicação Social, Ministério da Justiça, 2002.\n6) BUCCI, Maria Paula Dalari Et. al. (Orgs.). Direitos Humanos e políticas públicas. São Paulo: Pólis, 2001.\n7) FAORO, Raymundo. Os donos do poder. Rio de Janeiro, Editora Globo, 1958.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NEP141",
+      "Nome": "Tóp Esp Polít Públ Dir Hum III",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Discussão de temas específicos em políticas públicas e direitos humanos com base no processo histórico e nas críticas contemporâneas, proporcionando ao aluno uma visão sobre o alcance e limites da sua proteção e promoção.\n___BIBLIOGRAFIA BÁSICA___\n1) BECKER, Howard S. Métodos de pesquisa em ciências sociais. São Paulo: Hucitec, 1999.\n2) BELLONI I.; Magalhães H.; Souza L; Metodologia de avaliação em políticas públicas. São Paulo (Cortez) 2003.\n3) BOBBIO, Norberto. A era dos direitos. Rio de Janeiro: Campus, 1992.\n4) BOURGUIGNON, Jussara Ayres; OLIVEIRA Jr., Constantino Ribeiro de (Orgs.).  Pesquisa em ciências sociais: interfaces, debates e metodologias. Ponta Grossa (PR): Todapalavra, 2012.\n5) BRASIL, Programa Nacional de Direitos Humanos , PNDH II, Fernando Henrique Cardoso,  Brasília, Presidência da República, Secretaria da Comunicação Social, Ministério da Justiça, 2002.\n6) BUCCI, Maria Paula Dalari Et. al. (Orgs.). Direitos Humanos e políticas públicas. São Paulo: Pólis, 2001.\n7) FAORO, Raymundo. Os donos do poder. Rio de Janeiro, Editora Globo, 1958.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NEP143",
+      "Nome": "Tóp Esp Polít Públ Dir Hum V",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Discussão de temas específicos em políticas públicas e direitos humanos com base no processo histórico e nas críticas contemporâneas, proporcionando ao aluno uma visão sobre o alcance e limites da sua proteção e promoção.\n___BIBLIOGRAFIA BÁSICA___\n1) BECKER, Howard S. Métodos de pesquisa em ciências sociais. São Paulo: Hucitec, 1999.\n2) BELLONI I.; Magalhães H.; Souza L; Metodologia de avaliação em políticas públicas. São Paulo (Cortez) 2003.\n3) BOBBIO, Norberto. A era dos direitos. Rio de Janeiro: Campus, 1992.\n4) BOURGUIGNON, Jussara Ayres; OLIVEIRA Jr., Constantino Ribeiro de (Orgs.).  Pesquisa em ciências sociais: interfaces, debates e metodologias. Ponta Grossa (PR): Todapalavra, 2012.\n5) BRASIL, Programa Nacional de Direitos Humanos , PNDH II, Fernando Henrique Cardoso,  Brasília, Presidência da República, Secretaria da Comunicação Social, Ministério da Justiça, 2002.\n6) BUCCI, Maria Paula Dalari Et. al. (Orgs.). Direitos Humanos e políticas públicas. São Paulo: Pólis, 2001.\n7) FAORO, Raymundo. Os donos do poder. Rio de Janeiro, Editora Globo, 1958.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NEP145",
+      "Nome": "Tóp Esp Polít Públ Dir Hum VII",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Discussão de temas específicos em políticas públicas e direitos humanos com base no processo histórico e nas críticas contemporâneas, proporcionando ao aluno uma visão sobre o alcance e limites da sua proteção e promoção.\n___BIBLIOGRAFIA BÁSICA___\n1) BECKER, Howard S. Métodos de pesquisa em ciências sociais. São Paulo: Hucitec, 1999.\n2) BELLONI I.; Magalhães H.; Souza L; Metodologia de avaliação em políticas públicas. São Paulo (Cortez) 2003.\n3) BOBBIO, Norberto. A era dos direitos. Rio de Janeiro: Campus, 1992.\n4) BOURGUIGNON, Jussara Ayres; OLIVEIRA Jr., Constantino Ribeiro de (Orgs.).  Pesquisa em ciências sociais: interfaces, debates e metodologias. Ponta Grossa (PR): Todapalavra, 2012.\n5) BRASIL, Programa Nacional de Direitos Humanos , PNDH II, Fernando Henrique Cardoso,  Brasília, Presidência da República, Secretaria da Comunicação Social, Ministério da Justiça, 2002.\n6) BUCCI, Maria Paula Dalari Et. al. (Orgs.). Direitos Humanos e políticas públicas. São Paulo: Pólis, 2001.\n7) FAORO, Raymundo. Os donos do poder. Rio de Janeiro, Editora Globo, 1958.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EDA001",
+      "Nome": "Pedagogia Empresarial",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "16:30 - 18:30",
+        "professor": "DANIELA PATTI DO AMARAL"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EDA003",
+      "Nome": "Teoria Política e Educação",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estado, Governo e Políticas Públicas. A educação como objeto das políticas públicas. O público e o privado na educação. Interesses sociais e protagonismo político no campo educacional. Partidos políticos, partidos ideológicos e hegemonia educacional. Educação popular e mudança política.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EDD002",
+      "Nome": "Expressão Oral e Docência",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EDD004",
+      "Nome": "Prat Educacionais na Creche",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "História e funções da creche no Brasil; educação e cuidado numa perspectiva dialógica e ética; interações sociais e desenvolvimento das crianças de 0 a 3 anos (linguagem, afetividade e motricidade) no cotidiano: a brincadeira, a participação das famílias, a organização de espaços e tempos, planejamento e avaliação .\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EDD128",
+      "Nome": "Currículo e Cultura",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Reflexão sobre a questão da cultura, na história das propostas curriculares, com ênfase na discussão da política de identidade. Discussão do impacto destas propostas no trabalho docente.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EDD369",
+      "Nome": "Atualiz Cont Ciênc Natureza",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Atualização sobre o ensino das Ciências Naturais por meio de situações-problema vivenciadas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EDD638",
+      "Nome": "Atualiz de Cont em Matemática",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Atualização sobre o ensino da Matemática por meio de situações-problema vivenciadas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "16:30 - 18:30",
+        "professor": "JANETE BOLITE FRANT"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EDD641",
+      "Nome": "Oficina de Artes",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "As diferentes técnicas de apropriação da linguagem artística. Pesquisa das possibilidades da expressão. Utilização de materiais disponíveis na sala de aula e no ambiente externo. Exploração dos princípios estéticos, dos materiais artísticos e tradição cultural local.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "18:30 - 21:50",
+        "professor": "ALEXANDRE PALMA DA SILVA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EDD643",
+      "Nome": "Educação a Distância",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "- Histórico. Educação a Distância na Educação Formal, no Ensino Profissionalizante e na Educação Continuada. Legislação e Programas. Iniciativas de governo (federal, estadual e municipal). Experiências Nacionais e Internacionais: Tutoria, Desenho Instrucional e desenvolvimento de material didático para Educação a Distância.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EDF002",
+      "Nome": "Inclusão em Educação",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O desenvolvimento de culturas, polícas e práticas de inclusão no campo da educação, em nível institucional, de sistemas e de prática pedagógica.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EDF004",
+      "Nome": "Psicologia Social e Educação",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Principais teorias e métodos de trabalho da psicologia social e sua relevância para o campo da educação. Aplicações na área de desenvolvimento psicológico, ensino-aprendizagem, entre outras.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EDF006",
+      "Nome": "Prát Cult Oralidade e Escrita",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Os diferentes conceitos de cultura oral como prática cultural de oralidade tradicional. Cultura escrita na convivência, superação ou ruptura às culturas orais tradicionais. O conceito de oralidade sob diversas perspectivas, sincrônicas e diacrônicas. Diferentes práticas culturais de oralidade no mundo contemporâneo: Oralidades primária, secundária e terciária. Oralidade (s) e letramento (s). Psicodinâmica do pensamento oral.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EDF124",
+      "Nome": "Informátic Aplicada à Educação",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Políticas de informática na Educação, formação de professores, recursos tecnológicos e sofwares educativos. Análise do ferramental necessário para a utilização dos recursos da Informática Educativa: software,hardware, internet. Linguagem multimídia e linguagem hipertextual. Avaliação de softwares educativos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EDF600",
+      "Nome": "Educação Ambiental",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Aspectos históricos, políticos e sociais do ambientalismo e suas implicações na Educação; o conceito de ambiente e de Educação Ambiental; o Programa Nacional de Educação Ambiental, os PCNs e a Lei Federal 9795/99 que institui a política Nacional de Educação Ambiental; princípios teóricos e metodológicos da Educação Ambiental.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EDF602",
+      "Nome": "Estatistica Aplicada a Educ.",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Medida, análise e descrição quantitativa de fenômenos educacionais: distribuição de freqüências e gráficos, medidas de tendência central, de dispersão e de posição.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EDF611",
+      "Nome": "Imaginario Social e Educacao",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceituacao do imaginario. Estudo do campo simbolico do cotidiano escolar.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "11:00 - 13:00",
+        "professor": "REUBER GERBASSI SCOFANO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EDF613",
+      "Nome": "Questões Atuais em Filos Educ",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Discussão dos principais temas da filosofia da educação no Brasil e no mundo a partir dos anos 1980.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EDW002",
+      "Nome": "Educação e Gênero",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Cultura e relações de gênero. O masculino e o feminino nas seciedades contemporâneas. Gênero e sexualidade. Relações de gênero na educação. O professor e a construção da identidade de gênero.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "11:00 - 13:00",
+        "professor": "NATHALIA TERRA BARBOSA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EDW004",
+      "Nome": "Educação e Etnia",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Raça e etnicidade segundo as perspectivas antropológicas. Racismo e etnocentrismo. A superação do conceito de raça também pelas recentes contribuições da biologia molecular. Políticas de Ação Afirmativa e educação inclusiva. Cultura(s) indígena(s) e cultura(s) afro-descendente(s) na educação brasileira.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EDW007",
+      "Nome": "Marxismo e Educação",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A dialética marxista. Trabalho e educação. Educação unilateral e politécnica. Ideologia. Alienação, estranhamento e educação. Marxismo, história e pós-modernismo. Educação, emancipação e movimentos sociais. A influência do pensamento marxiano nas teorias educacionais e pedagógicas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EDW600",
+      "Nome": "Multiculturalismo e Educação",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O conceito de multiculturalismo e sua relevância na educação. Origens, sentidos e abordagens do multiculturalismo. O impacto do multiculturalsimo nas polícas e práticas educacionais e avaliativas. Desafios e potencialidades da educação multicultural. Experiências pedagógicas em educação e formação de professores na perspectiva multicultural.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EDW606",
+      "Nome": "Tópicos Especiais: Piaget",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O pensamento de Jean Piaget e sua contribuição à prática educacional.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EDW611",
+      "Nome": "Questões Éticas em Educação",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceitos fundamentais de Moral e Ética; Deontologia e Axiologia; Educação e Valores; Princípios normativos da ação docente. Questionamentos éticos sobre Leis e normas educacionais.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "11:00 - 13:00",
+        "professor": "REUBER GERBASSI SCOFANO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NEP101",
+      "Nome": "Teoria Direitos Fundamentais",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Discussão de uma teoria dos direitos fundamentais com base nas normas positivadas constitucionais, no direito comparado e na jurisprudência, proporcionando ao estudante uma visão sobre alcance e limites da proteção e promoção desses direitos.\n___BIBLIOGRAFIA BÁSICA___\n1) ABRAMOVAY, Ricardo. Direitos fundamentais das minorias (sob o enfoque da Lei nº9.882/99). Leme: Anhanguera Editora, 2010.\n2) ALEXY, Robert. Teoria de los derechos fundamentales, trad. Ernesto Garzón Valdés. Madrid: Centro de Estudios Constitucionales, 1993.\n3) ANDRADE, José Carlos Vieira de. Os direitos fundamentais na Constituição portuguesa de 1976 . 3ª ed. Coimbra: Almedina, 2007.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) BULOS, Uádi Lammêgo. Curso de Direito Constitucional. 3. ed. São Paulo: Saraiva: 2008.\n2) CANOTILHO, José Joaquim Gomes. Direito constitucional e teoria da constituição, 7ª ed. Coimbra: Almedina, 2003.\n3) SILVA, José Afonso da. Curso de Direito Constitucional Positivo. 31. ed. São Paulo: Malheiros, 2008.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NEP120",
+      "Nome": "Fund Polít Públicas Dir Hum",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Discussão sobre a necessidade e a possibilidade de uma fundamentação filosófica das políticas públicas, para a construção de argumentos racionais na sua implementação e identificação dos principais desafios para sua afirmação e realização. Apresentação de algumas propostas contemporâneas de fundamentação filosófica das políticas em direitos humanos.\n___BIBLIOGRAFIA BÁSICA___\n1) BARBALET, J. M. A Cidadania. Lisboa: Editorial Estampa, 1989.\n2) BAUMAN, Zygmunt. Comunidade: a busca da segurança no mundo atual. Rio de Janeiro: Jorge Zahar, 2003.\n3) BECKER, Howard S. Métodos de pesquisa em ciências sociais. São Paulo: Hucitec, 1999.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) BELLONI I, Magalhães h. / Souza L; Metodologia de avaliação em políticas públicas. São Paulo (Cortez) 2003.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NEP140",
+      "Nome": "Tóp Esp Polít Públ Dir Hum II",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Discussão de temas específicos em políticas públicas e direitos humanos com base no processo histórico e nas críticas contemporâneas, proporcionando ao aluno uma visão sobre o alcance e limites da sua proteção e promoção.\n___BIBLIOGRAFIA BÁSICA___\n1) BECKER, Howard S. Métodos de pesquisa em ciências sociais. São Paulo: Hucitec, 1999.\n2) BELLONI I.; Magalhães H.; Souza L; Metodologia de avaliação em políticas públicas. São Paulo (Cortez) 2003.\n3) BOBBIO, Norberto. A era dos direitos. Rio de Janeiro: Campus, 1992.\n4) BOURGUIGNON, Jussara Ayres; OLIVEIRA Jr., Constantino Ribeiro de (Orgs.).  Pesquisa em ciências sociais: interfaces, debates e metodologias. Ponta Grossa (PR): Todapalavra, 2012.\n5) BRASIL, Programa Nacional de Direitos Humanos , PNDH II, Fernando Henrique Cardoso,  Brasília, Presidência da República, Secretaria da Comunicação Social, Ministério da Justiça, 2002.\n6) BUCCI, Maria Paula Dalari Et. al. (Orgs.). Direitos Humanos e políticas públicas. São Paulo: Pólis, 2001.\n7) FAORO, Raymundo. Os donos do poder. Rio de Janeiro, Editora Globo, 1958.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NEP142",
+      "Nome": "Tóp Esp Polít Públ Dir Hum IV",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Discussão de temas específicos em políticas públicas e direitos humanos com base no processo histórico e nas críticas contemporâneas, proporcionando ao aluno uma visão sobre o alcance e limites da sua proteção e promoção.\n___BIBLIOGRAFIA BÁSICA___\n1) BECKER, Howard S. Métodos de pesquisa em ciências sociais. São Paulo: Hucitec, 1999.\n2) BELLONI I.; Magalhães H.; Souza L; Metodologia de avaliação em políticas públicas. São Paulo (Cortez) 2003.\n3) BOBBIO, Norberto. A era dos direitos. Rio de Janeiro: Campus, 1992.\n4) BOURGUIGNON, Jussara Ayres; OLIVEIRA Jr., Constantino Ribeiro de (Orgs.).  Pesquisa em ciências sociais: interfaces, debates e metodologias. Ponta Grossa (PR): Todapalavra, 2012.\n5) BRASIL, Programa Nacional de Direitos Humanos , PNDH II, Fernando Henrique Cardoso,  Brasília, Presidência da República, Secretaria da Comunicação Social, Ministério da Justiça, 2002.\n6) BUCCI, Maria Paula Dalari Et. al. (Orgs.). Direitos Humanos e políticas públicas. São Paulo: Pólis, 2001.\n7) FAORO, Raymundo. Os donos do poder. Rio de Janeiro, Editora Globo, 1958.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NEP144",
+      "Nome": "Tóp Esp Polít Públ Dir Hum VI",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Discussão de temas específicos em políticas públicas e direitos humanos com base no processo histórico e nas críticas contemporâneas, proporcionando ao aluno uma visão sobre o alcance e limites da sua proteção e promoção.\n___BIBLIOGRAFIA BÁSICA___\n1) BECKER, Howard S. Métodos de pesquisa em ciências sociais. São Paulo: Hucitec, 1999.\n2) BELLONI I.; Magalhães H.; Souza L; Metodologia de avaliação em políticas públicas. São Paulo (Cortez) 2003.\n3) BOBBIO, Norberto. A era dos direitos. Rio de Janeiro: Campus, 1992.\n4) BOURGUIGNON, Jussara Ayres; OLIVEIRA Jr., Constantino Ribeiro de (Orgs.).  Pesquisa em ciências sociais: interfaces, debates e metodologias. Ponta Grossa (PR): Todapalavra, 2012.\n5) BRASIL, Programa Nacional de Direitos Humanos , PNDH II, Fernando Henrique Cardoso,  Brasília, Presidência da República, Secretaria da Comunicação Social, Ministério da Justiça, 2002.\n6) BUCCI, Maria Paula Dalari Et. al. (Orgs.). Direitos Humanos e políticas públicas. São Paulo: Pólis, 2001.\n7) FAORO, Raymundo. Os donos do poder. Rio de Janeiro, Editora Globo, 1958.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     }
+    ]
+   },
+   "obrigatorias": 45,
+   "eletivas": 56,
+   "ano": "2008/1 a 2015/1"
+  },
+  {
+   "materias": {
+    "1º Período": [
+     {
+      "Codigo": "EDF120",
+      "Nome": "Filos Educação Mundo Ocidental",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Contribuições das concepções filosóficas do século XX para a problemática educacional. O pensamento pedagógico brasileiro dos anos 1920 a 1980. Contribuições das concepções filosóficas para a problemática educacional. O pensamento pedagógico brasileiro à luz da filosofia da educação.\n",
+       "BibliografiaBasica": "1) ARISTÓTELES. A ética a Nicômacos. Trad. Mario da Gama Cury. Brasília, DF: EdUnb, 1985 (2ª ed).\n2) BRÉHIER, Émile. História da Filosofia. São Paulo: Mestre Jou, 1977, tomo II, fasc.4\n3) DURKHEIM, Emile. Educação e Sociologia. São Paulo: Edições 70, 2001.\n",
+       "BibliografiaComplementar": "1) JAEGER, Werner. Paidéia. São Paulo: Martins Fontes, 1995.\n2) MAZZOTTI, Tarso Bonilha, OLIVEIRA, Renato José de. O que você precisa saber em ciência (s) da educação. Rio de Janeiro: DPA, 2000.\n3) PLATÃO. República. Trad. Maria Helena Rocha. Lisboa: Fundação Calouste Gulbenkian, 1990 (6ª. ed.).\n4) ROUSSEAU, J. J. Emílio ou da educação. Trad. Roberto Leal Ferreira. São Paulo, SP: Martins Fontes, 2004 (3ª ed).\n5) GADOTTI, Moacir. Pensamento pedagógico brasileiro. São Paulo: Ática, 1991.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 16:20",
+        "professor": "ANDRE DE BARROS BORGES"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDF240",
+      "Nome": "Fundamentos Sociológ Educação",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O contexto do surgimento da sociologia. Durkheim e a formação de uma maneira funcional de interpretar as relações entre educação e demais instâncias da vida social. A sociologia da educação na primeira metade do século XX. Os estudos sobre educação após a segunda guerra mundial. A \"crítica radical\" dos anos 70 - educação e reprodução social. A influência do marxismo no pensamento educacional. Influências gramscianas. A \"crise dos paradigmas\" das ciências sociais e os estudos sobre educação: modelos microssociológicos e etnográficos. Abordagens weberianas em sociologia da educação.\n",
+       "BibliografiaBasica": "1)\tALVES, M. Teresa G. & FRANCO, Creso. A pesquisa em eficácia escolar no Brasil: evidências sobre o efeito das escolas e fatores associados à eficácia escolar. In: BROOKE, N.; SOARES, J. F. Pesquisa em Eficácia Escolar: Origem e Trajetórias. Belo Horizonte: Editora UFMG.\n2)\t BOURDIEU, Pierre. A escola conservadora: as desigualdades frente à escola e à cultura. In: NOGUEIRA, M. A. & CATANI, A. (orgs,) Escritos de Educação. Petrópolis: Vozes, 2010.\n3)\tDURKHEIM, E. - ?A educação: sua natureza e função? in Educação e Sociedade. São Paulo: Melhoramentos,1978.\n4)\tNOGUEIRA, M. Alice, 1995. A Sociologia da Educação do final dos anos 60/início dos anos 70: o nascimento do paradigma da reprodução. In: Em Aberto, Brasília, ano 9, n. 46, abr. jun. 1990.\n",
+       "BibliografiaComplementar": "1)\tBOURDIEU, Pierre. Reprodução Cultural e Reprodução Social in A Economia das Trocas Simbólicas. São Paulo: Ed. Perspectiva, 1987.\n2)\t LAHIRE, Bernard. Sucesso escolar nos meios populares: as razões do improvável. São Paulo: Ática, 2008.\n3)\tNOGUEIRA, Maria Alice. A Sociologia da Educação no final dos anos 60/início dos anos 70: o nascimento do paradigma da reprodução. Em Aberto, Brasília, ano 9, n.46, abr./jun. 1990.\n4)\tNOGUEIRA, Maria Alice e NOGUEIRA, Claudio M. - A Sociologia da Educação de Pierre Bourdieu: limites e contribuições. Educação e Sociedade, Campinas, n. 78, Ano XXIII, abril/2002.\n5)\tZAGO, Nadir, 2011. Fracasso e sucesso escolar no contexto das relações família e escola: questionamentos e tendências em Sociologia da Educação. Revista Luso-Brasileira de Sociologia da Educação, ano 2, n.3, março 2011.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "13:00 - 16:20",
+        "professor": "MARIA COMES MUANIS"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDWZ50",
+      "Nome": "Ativ Curricular Extensão - Ped",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "0",
+      "Extensão": "375",
+      "Informação": {
+       "Info": "Atuação em atividades de extensão registradas na Pró-Reitoria de Extensão da UFRJ, como programas, projetos, cursos de extensão e eventos, coordenados por docentes do quadro permanente ou técnicos da carreira de nível superior na UFRJ. Para eventos, a atuação deverá ser na organização ou na realização do evento. Para cursos, a atuação deve ser na organização ou ministrando aulas.\n___BIBLIOGRAFIA BÁSICA___\nBibliografia recomendada pelo Coordenador da atividade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDF113",
+      "Nome": "História Educ Mundo Ocidental",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Abordagem Histórica das principais idéias e práticas educacionais que assumem importância desde o início dos Tempos Modernos até o século XXI.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "07:30 - 10:50",
+        "professor": "JOSE CLAUDIO SOOMA SILVA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDF122",
+      "Nome": "Psicologia do Desen e Educação",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceitos fundamentais de Desenvolvimento Humano. Questões básicas relativas ao desenvolvimento biológico, sócio-cultural, afetivo e cognitivo da criança, do jovem, do adulto e do idoso. Perspectivas comportamentais, cognitivas, psicanalíticas, humanistas, psicossociais, para o desevolvimento psicológico e suas implicações para as práticas e atuações educacionais, em instituições e fora delas. As contribuições da psicologia da educação para a constituição de contextos educacionais não excludentes.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 16:20",
+        "professor": "GIULIANA VOLFZON MORDENTE"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDF417",
+      "Nome": "Intr ao Pens Cient em Educação",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução ao pensamento científico. Os principais tipos de conhecimento. As posições da ciência moderna. Evolução da Ciência.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 16:20",
+        "professor": "GISELI PERELI DE MOURA XAVIER"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "2º Período": [
+     {
+      "Codigo": "EDF231",
+      "Nome": "Filosofia Educ Contemporânea",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Contribuições das concepções filosóficas do século XX para a problemática educacional. O pensamento pedagógico brasileiro dos anos 1920 a 1980.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "18:30 - 21:50",
+        "professor": "REUBER GERBASSI SCOFANO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDF364",
+      "Nome": "Sociologia da Educ Brasileira",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A pesquisa social em educação no Brasil, estudos clássicos e recentes: principais temas e enfoques. Investagações quantitativas e qualitativas em pesquisa educacional, no Brasil.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "18:30 - 21:50",
+        "professor": "MARIANE CAMPELO KOSLINSKI"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDF121",
+      "Nome": "História Educação Brasileira",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Abordagem histórica das principais concepções e práticas educacionais desenvolvidas no Brasil desde o período colonial até a década de 1960.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "18:30 - 21:50",
+        "professor": "ANNA BEATRIZ ESSER DOS SANTOS"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDF232",
+      "Nome": "Psicologia da Apren e Educação",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Teorias e abordagens da psicologia da educação adotadas no estudo dos processos de aquisição de conhecimentos, representações e competências no âmbito de práticas e atuações educacionais, em instituições escolares e fora delas. A importância dos aspectos socioculturais e históricos para os processos de ensino-aprendizagem e os desafios para a geração de propostas educacionais inseridas em contextos diversos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "18:30 - 21:50",
+        "professor": "ALINE VERISSIMO MONTEIRO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDF418",
+      "Nome": "Antropologia na Educação",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Principais correntes e principais debates na atualidade: natureza e/ou cultura(s), socialização e/ou sociabilidade(s), diferença, diverdidade e/ou alteridade. O trabalho de campo do pesquisador. Cultura(s) escolar(es), cultura(s) midiática(s), cultura(s) da infãncia e cultura(s) jovem(ns).\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "18:30 - 21:50",
+        "professor": "ANA PIRES DO PRADO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "3º Período": [
+     {
+      "Codigo": "EDD235",
+      "Nome": "Educacao e Comunicacao I",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A negociação dos sentidos: silêncio e linguagem; os sujeitos; os códigos; os contextos; as relações. Quem conta um conto: por que se contam histórias; leitura e educação; relações sociais; os modos de inserção da Literatura Infantil na escola; materiais didáticos, seleção de textos e propostas de estudo. Imagem é tudo: imagem e conteúdo; sentidos e deslocamentos; mídia e educação; televisão e escola/ televisão na escola; educação em rede.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 15:30",
+        "professor": "REJANE MARIA DE ALMEIDA AMORIM"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDF233",
+      "Nome": "Bases Biologicas da Aprendizag",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo da filogênese  e da ontogênese do sistema nervoso humano, considerando-se o processo de aprendizagem e a gênese do conhecimento. Maturação e desenvolvimento.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 16:20",
+        "professor": "MONICA PEREIRA DOS SANTOS"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDA234",
+      "Nome": "Educação Brasileira",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A constituição do sistema nacional de ensino e a relação entre Estado e Educação. Persistências e mudanças na estrutura e no funcionamento do ensino no Brasil: as relações entre público e privado, centralização e descentralização, ensino laico e ensino confessional, formação geral e formação profissional. A LDBEN (Lei 9394/96): avanços e recuos no processo de profissionalização do campo pedagógico e de universalização do ensino.\n",
+       "BibliografiaBasica": "1)\tCUNHA, Luiz Antônio. 5ª ed. Educação e desenvolvimento Social no Brasil. Rio de Janeiro: Francisco Alves , 1980.\n2)\tBRASIL. LEI DE DIRETRIZES E BASES DA EDUCAÇÃO NACIONAL, LDBEN. LEI 9.349 de 20/12/1996.\n3)\tSAVIANI, Dermeval. A nova lei de educação - trajetórias, limites e perspectivas. Campinas: Autores Associados, 1997.\n",
+       "BibliografiaComplementar": "1)\tBRZEZINSKI, Iria. (Org.). LDB dez anos depois: reinterpretação sob diversos olhares. São Paulo: Cortez, 2008.\n2)\t______. Políticas contemporâneas de formação e professores para os anos iniciais do ensino fundamental. Educação & Sociedade, v. 29, n. 105, set/dez 2008.\n3)\tCUNHA, Luiz Antonio; GÓES, Moacyr de. O golpe na educação. Rio de Janeiro: Jorge Zahar, 1985.\n4)\t______. Educação, Estado e Democracia no Brasil. 5ª ed.São Paulo: Cortez, 2005.\n5)\tCURY, Carlos Jamil. Legislação educacional brasileira. 2ª ed. Rio de Janeiro: DP&A, 2002.\n6)\t______. A educação básica no Brasil. Educação & Sociedade, n. 80, v. 23, p. 169-202, 2002.\n7)\t______. Estado e políticas de financiamento em educação. Educação & Sociedade, v. 28, n. 100, Out. 2007.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "18:00 - 22:00",
+        "professor": "DANIELA PATTI DO AMARAL"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDD647",
+      "Nome": "Linguagem Corporal na Educação",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Aspectos históricos, antropológicos e culturais. Corpo, disciplina, gênero e sexualidade. O corpo e a relação com o outro. Consciência corporal e identidade. O direito de movimentar-se. O movimento como recurso de prazer, educação e saúde.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "13:00 - 15:30",
+        "professor": "BRUNO RODRIGUES GANEM"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDF351",
+      "Nome": "Concep Prát Educação Infantil",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Teorias, concepções e metodologias de Educação Infantil, história da infância e da educação da criança de 0 a 6 anos, características e alternativas pedagógicas da Educação Infantil no Brasil, inclusão social e políticas públicas de Educação Infantil, o cotidiano da Educação Infantil.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 16:20",
+        "professor": "NUBIA DE OLIVEIRA SANTOS"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "4º Período": [
+     {
+      "Codigo": "EDD241",
+      "Nome": "Didática",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A construção do campo da didática visto como tempo/espaço de reflexão/ação sobre o processo de ensino-aprendizagem. Teorias educacionais e o contexto sócio-histórico, político, econômico e filosófico da prática pedagógica. Estruturantes da prática pedagógica: planejamento curricular e planejamento de ensino; métodos e técnicas de ensino; avaliação do ensino.\nBIBLIOGRAFIA RECOMENDADA\n1)\tCANDAU, Vera Maria. (Org.) Ensinar e Aprender: sujeitos, saberes e pesquisa/Encontro Nacional de Didática e Prática de Ensino (ENDIPE). Rio de Janeiro: DP&A, 2000.\n2)\t________Linguagens, espaços e tempos no ensinar e aprender./Encontro Nacional de Didática e Prática de Ensino (ENDIPE). Rio de Janeiro: DP&A, 2000.\n3)\t ________(Org.)Didática, Currículo e Saberes Escolares. Rio de Janeiro: DP&A, 2001.\n4)\tFAZENDA, Ivani (org.). Didática e interdisciplinaridade. São Paulo : Papirus, 1998.\n",
+       "BibliografiaBasica": "1)\tGIMENO SACRISTÁN, Jose. Currículo e diversidade cultural. Em: SILVA, Tomaz Tadeu da; MOREIRA, Antonio Flavio Barbosa (orgs.). Territórios contestados: o currículo e os novos mapas políticos e culturais. Petrópolis/RJ : Vozes, 1999. [82-113].\n2)\tGIMENO SACRISTÁN, J. e PEREZ GÓMEZ, A. I. Compreender e transformar o ensino. 4ª ed. Porto Alegre : Artmed, 1998.\n3)\tLIBÂNEO, José Carlos. Didática: velhos e novos temas. Goiânia : edição do autor, 2002.\n4)\t_________. Pedagogia e Pedagogos, para quê? 7ª ed. SP : Cortez, 2004.\n5)\tMOREIRA, Antonio Flávio Barbosa; SILVA, Tomaz Tadeu da. Sociologia e teoria crítica do currículo: uma introdução. Em: MOREIRA, Antonio Flávio Barbosa; SILVA, Tomaz Tadeu da.(Orgs.). Currículo, cultura e sociedade. São Paulo : Cortez, 1995. [07-37].\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "18:30 - 21:50",
+        "professor": "RITA DE CASSIA DE OLIVEIRA E SILVA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDD350",
+      "Nome": "Alfabetização e Letramento",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Concepções de alfabetização na história e nas sociedades; Aspectos sócio-lingüísticos do processo de alfabetização; Metodologias na aquisição da escrita; Concepção de letramento.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "18:30 - 21:50",
+        "professor": "LUDMILA THOME DE ANDRADE"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDA351",
+      "Nome": "Quest Atuais Educ Brasileira",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A Educação como política de Estado e a questão dos direitos sociais. Instâncias de decisão e de execução da política educacional nos níveis federal, estadual e municipal. Tensões entre tradição e inovação na educação brasileira contemporânea: a relação entre nível central e unidade escolar; profissionalização do campo pedagògico e participação de comunidade; democratização do acesso à escola e garantia da qualidade do ensino. Estragégias de qualificação docente. Financiamento, autonomia escolar e democratização da gestão.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "18:30 - 21:50",
+        "professor": "ANGELA BOTH CHAGAS"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDD243",
+      "Nome": "Curriculo",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "História do pensamento curricular: concepções tradicionais, críticas e pós-críticas. Discussão e análise das principais questões relativas à seleção, organização e distribuição do conhecimento escolar. Políticas de currículo.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "18:30 - 21:50",
+        "professor": "ADRIANA PATRICIO DELGADO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDF607",
+      "Nome": "Fund da Educacao Especial",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "História da Educação Especial. O alunado da educação especial: concepções e trajetórias. Deficiências: características gerais e especificidades pedagógicas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "18:30 - 21:50",
+        "professor": "CRISTIANA CARNEIRO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "5º Período": [
+     {
+      "Codigo": "EDD478",
+      "Nome": "Arte - Educação",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A arte como manifestação de expressão e comunicação humana. As manifestações artísticas como reflexo de valores e características sócio-culturais. As principais correntes de arte-educação. As aplicações desses conheceimentos na educação básica.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "07:30 - 10:00",
+        "professor": "ANDREA PENTEADO DE MENEZES"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDF244",
+      "Nome": "Metod da Pesquisa em Educ",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução à pesquisa em Educação. Seleção dos sujeitos e dos instrumentos de coleta de dados para pesquisa. Tipos de pesquisa em educação; características e precedimentos metodológicos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "13:00 - 16:20",
+        "professor": "TERESA PAULA NICO REGO GONCALVES"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDD172",
+      "Nome": "Aval Proc Ensino-aprendizagem",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceitos básicos nas áreas de medida e de avaliação. Elaboração, aplicação e análise, informação e utilização de instrumentos e de resultados de avaliação.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 16:20",
+        "professor": "ELAINE CONSTANT PEREIRA DE SOUZA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDD646",
+      "Nome": "Planejamento de Cur e Ensino",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Concepções de planejamento curricular em sistemas educacionais e nas escolas. Análise de propostas curriculares e de planejamentos de ensino em uma perpectiva crítica.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 16:20",
+        "professor": "MONICA DE SOUZA HOURI"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDWU21",
+      "Nome": "Pr En Mag Disc Pedag Ens Médio",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "100",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Propostas pedagógicas e estratégias de gestão da escola. Aspectos sócio-culturais do educando. O currículo da formação do professor de Ensino Médio. Conteúdo e metodologia do ensino das disciplinas pedagógicas do ensino médio. Trajetória escolar: aprovação, repetência e evasão. Práticas docentes: inovações, criatividade e conservadorismo. Condições de trabalho dos docentes. Relação da escola com o sistema e com a comunidade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 16:20",
+        "professor": "ROBERTO MARQUES"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "6º Período": [
+     {
+      "Codigo": "EDD176",
+      "Nome": "Didática das Ciên da Natureza",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Disciplina escolar Ciências: aspectos históricos e epistemológicos. A constituição dos conhecimentos científicos e escolares em ciências. A educação em ciências como área de pesquisa. Propostas curriculares, materias e didáticos e atividades de ensino para a disciplina escolar Ciências. Planejamento e avaliação da aprendizagem em ciências.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "18:30 - 21:50",
+        "professor": "VICTORIA CARDIN ALFANO RAPOSO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDF363",
+      "Nome": "Psicopedagogia e Educação",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Contextualização na história da educação. Questões atuais. Dificuldades e Distúrbios no Processo Ensino-Aprendizagem: identifição e intervenção.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "18:30 - 21:50",
+        "professor": "ADRIANA MABEL FRESQUET"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDA612",
+      "Nome": "Planej e Aval de Sistem Educac",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceito e fins do Planejamento educacional: histórico e debate corrente. O conhecimento científico aplicado ao planejamento educacional: dimensões técnica e política. Função e finalidades da avaliação de sistemas educacionais: estratégias e instrumentos da avaliação institucional. Planejamento e avaliação nas políticas educacionais em curso no Brasil.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 16:20",
+        "professor": "SILVINA JULIA FERNANDEZ"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDD362",
+      "Nome": "Didática da Matemática",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Disciplina escolar Matemática: aspectos históricos e epistemológicos. A constituição dos conhecimentos científicos e escolares em matemática. A educação em matemática como área de pesquisa. Propostas curriculares, materiais didáticos e atividades de ensino para a disciplina escolar Matemática. Planejamento e avaliação da aprendizagem em Matemática.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "18:30 - 21:50",
+        "professor": "JANETE BOLITE FRANT"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDWU24",
+      "Nome": "Prát em Polít e Administ Educ",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "100",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Propostas pedagógicas e estratégias de gestão da escola. Aspectos sócio-culturais do educando. O currículo da formação do gestor em Educação. Trajetória escolar: aprovação, repetência e evasão. Práticas de gestão: inovações, criatividade e conservadorismo. Condição de trabalho dos gestores. Relação da escola com o sistema e com a comunidade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 16:20",
+        "professor": "JUSSARA BUENO DE QUEIROZ PASCHOALINO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "7º Período": [
+     {
+      "Codigo": "EDD361",
+      "Nome": "Didática da Língua Portuguesa",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Os processos histórico e social da construção do conhecimento de língua portuguesa. O ensino de língua portuguesa e sua adequação ao nível de desenvolvimento mental do estudante. A linguagem da escola e a linguagem do estudante. O ensino da gramática, da leitura e a produção de textos. Recursos didáticos para o ensino de língua portuguesa. Criação de materias didáticos. Análise de propostas curriculares. Avaliação da aprendizagem de língua portuguesa.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "13:00 - 16:20",
+        "professor": "PATRICIA RAQUEL BARONI"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDF609",
+      "Nome": "Educação Popular e Mov Sociais",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Movimentos de educação popular: origens e vertentes. Os movimentos sociais como práticas alternativas ao atendimento falho do sistema oficial educacional brasileiro. Concepções de educação popular. Experiências de educação popular no sistema formal de ensino e experiências não formais de ensino.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 16:20",
+        "professor": "JOYCE LOUBACK LOURENCO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDD175",
+      "Nome": "Didática das Ciências Sociais",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Disciplina escolar: aspectos históricos e epistemológicos. O ensino de Ciências Sociais (História, Geografia, Sociologia e Antropologia) na educação básica como objeto de reflexão e de pesquisa. A consturção de conceitos - basilares para a leitura e problematização da realidade social. Propostas curriculares, materais didáticos e atividades de ensino para as disciplinas escolares inseridas no âmbito das Ciências Sociais, Planejamento e avaliação de aprendizagem em Ciências Sociais.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 16:20",
+        "professor": "ROBERTO MARQUES"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDF608",
+      "Nome": "Pesquisa em Educação",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A formulação do problema de pesquisa. A definição de procedimentos metodológicos coerentes com o problema formulado. A elaboração do projeto de pesquisa. O processo de coleta de dados. A organização, a análise e a interpretação de resultados. A elaboração da monografia.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 16:20",
+        "professor": "GISELI PERELI DE MOURA XAVIER"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDWU11",
+      "Nome": "Prát de Ensin em Educ Infantil",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "100",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Propostas pedagógicas e estratégias de gestão da escola. Aspectos sócio-culturais do educando. Currículo e metodologia de prática pedagógica na Educação Infantil. Práticas docentes: Inovações, criatividade e conservadorismo. Condições de trabalho do corpo docente. Relação da escola com o sistmea de ensino e com a comunidade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 16:20",
+        "professor": "DEISE ARENHART"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "8º Período": [
+     {
+      "Codigo": "EDA604",
+      "Nome": "Políticas Públicas em Educação",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo e análise de projetos educacionais na conjuntura atual, em níveis federal, estadual e municipal. Diagnóstico e avaliação de políticas públicas voltadas para a educação infantil. o ensino fundamental e a educação de jovens e adultos. Articulação entre políticas públicas para a educação e projetos sociais mais amplos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "18:30 - 21:50",
+        "professor": "VANIA CARDOSO DA MOTTA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDW480",
+      "Nome": "Monografia",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Discussao sobre as partes que compoem uma monografia. Acompanhamento da elaboracao dos projetos individuais ou coletivos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "07:30 - 10:50",
+        "professor": "ALESSANDRA FONTES CARVALHO DA ROCHA KUKLINSKI PEREIRA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDA242",
+      "Nome": "Organizacao do Trabalho Pedag.",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Os diferentes atores e seus papéis na organização pedagógica da escola, autonomia e identidade da escola; concepções de gestão pedagógica; projeto político pedagógico da escola.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "18:30 - 21:00",
+        "professor": "SABRINA MOEHLECKE"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDD648",
+      "Nome": "Abord Did Educ de Jov Adultos",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Abordagem histórico-político-social da EJA no Brasil. A EJA como conseqüência dos processos da exclusão social inerentes ao não cumprimento dos objetivos da educação na modalidade regular. Perspectivas teóricas possíveis para as práticas pedagógicas que resgatam o saber de indivíduos jovens, adultos e idosos. O perfil do aprendiz. O letramento como uma nova visão sobre a alfabetização. Currículos, materias didáticos e formação de professores específicos de EJA.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "18:30 - 21:50",
+        "professor": "CLAUDIA MARIA BOKEL REIS"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDWU01",
+      "Nome": "Prát Ens Sér Inic Ens Fundamen",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "100",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Propostas pedagógicas e estratégias de gestão da escola. Aspectos sócio-culturais do educando. Currículo das séries iniciais do Ensino Fundamental. Conteúdo e metodologia do precesso de alfabetização e disciplinas das séries iniciais do Ensino Fundamental. Trajetória escolar: aprovação, repetência e evasão. Práticas docentes: inovações, criatividade e conservadorismo. Condições de trabalho do corpo docente. Relação da escola com o sistema de ensino e com a comunidade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 16:20",
+        "professor": "IRENE GIAMBIAGI"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "9º Período": [
+     {
+      "Codigo": "EDD636",
+      "Nome": "Educ e Comunicação II (Libras)",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O estudo de LIBRAS na formação do professor em uma visão inclusiva de Educação. Cultura surda e comunidade. As comunidades surdas no Brasil. Surdez e Patologia. Surdez e diferença. Gramática em LIBRAS. Vocabulário básico. Exercícios e diálogos: família, apresentação, saudação, e sentimentos; objetos, alimentos e bebidas; corpo humano; animais; vestuário. Acessórios e cores; profissões e sistemas monetários; meios de transportes e viagens; países, estados e cidades; calendário, condições climáticas e estações do ano; mitos, lendas e crenças. Exercício para o desenvolvimento da percepção e uso do espaço e do corpo.\nBIBLIOGRAFIA RECOMENDADA\n1)\tBRASIL. DECRETO Nº 5.626, DE 22 DE DEZEMBRO DE 2005. Decreto Lei de Libras. Disponível em: . Acesso em: dez. 2011.\n2)\t________. LEI FEDERAL Nº 10.436 de 24/04/2002. Reconhece a Língua Brasileira de Sinais ? Libras. Brasília ? DF Disponível em: . Acesso em: dez. 2011.\n3)\tBRITO, L. F. Integração Social e Educação de Surdos. Rio de Janeiro: Ed. Babel, 1993.\n",
+       "BibliografiaBasica": "1)\tFELIPE, T. A. Libras em Contexto - manual do estudante, Brasília: MEC, 2001.\n2)\tFERNANDES, E. Linguagem e Surdez. Porto Alegre: Artmed, 2003.\n3)\tFERNANDES, S. É possível ser surdo em português? Língua de sinais e escrita: em busca de uma aproximação. In: Skliar, C. Atualidade da educação bilíngüe para surdos. Porto Alegre: Mediação, 1999.\n4)\tFERREIRA, M. C. C., ZAMPIERI, M. A. Atuação do professor ouvinte na relação com o aluno surdo: relato de experiência nas séries iniciais do ensino fundamental. In: LODI, A. C. B. (org.) Leitura e escrita no contexto da diversidade. Porto Alegre: Mediação, 2004.\n5)\tGUARINELLO, A. C. O papel do outro na escrita de sujeitos surdos. São Paulo: Plexus, 2007.\n6)\tPAULA, L. S. B. de. Linguagem e a Surdez. Revista Espaço: informativo técnico científico do INES. nº 20 dez./2003- Rio de Janeiro: INES, 2003.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 16:20",
+        "professor": "BETTY LOPES L ASTORINA DE ANDRADE"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDWU25",
+      "Nome": "Prát En Est Sup Educ Jov Adult",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "100",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Propostas pedagógicas e estratégias de gestão em educação de jovens e adultos. Aspectos sócio-culturais dos educandos. O currículo da formação do professor de Jovens e Adultos. Conteúdo e metodologia do ensino para jovens e adultos. Trajetória escolar: aprovação, repetência e evasão. Práticas docentes: inovações, criatividade e conservadorismo. Condições de trabalho dos docentes. Relação da escola com o sistema e com a comunidade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 16:20",
+        "professor": "MARTA LIMA DE SOUZA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDA480",
+      "Nome": "Educacao Comparada",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A Educação comparada: história, teorias e métodos. Os Organismos Internacionais e as políticas do MEC para a educação brasileira . Estudo Comparado da organização e funcionamento dos sistemas de ensino em nível internacional e/ou nacional, tendo como foco a realidade educacional brasileira.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 16:20",
+        "professor": "ANA LUCIA CUNHA FERNANDES"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDF419",
+      "Nome": "Educação e Trabalho",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A temática \"Trabalho-Educação\" na conjuntura histórica atual. Análises desenvolvidas por organizações internacionais e as teses desenvolvidas pela sociologia do trabalho. Repercussões para as políticas sociais e educacionais. Sociedade do conhecimneto, reestruturação produtiva e requerimentos qualificacionais - desdobramentos educacionais e possíveis alternativas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 16:20",
+        "professor": "GABRIELA DE SOUZA HONORATO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDWX01",
+      "Nome": "Atividades Complementares",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "100",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "10º Período": [
+     {
+      "Codigo": "EDWK02",
+      "Nome": "Orientação de Monografia",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Trata-se de orientação do trabalho final do curso monografia e de sua apresentação pública. Esta deverá ser aprovada pelo orientador, perante uma banca constituída pela COAA do curso que terá função de exarar o parecer do trabalho apresentado, podendo exigir reformulações.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ]
+   },
+   "obrigatorias": 47,
+   "eletivas": 0,
+   "ano": "2015/2 a 9999/9"
+  }
+ ]
+}

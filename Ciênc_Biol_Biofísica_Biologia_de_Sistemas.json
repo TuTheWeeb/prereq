@@ -1,0 +1,2430 @@
+{
+ "Ciênc Biol Biofísica Biologia de Sistemas": [
+  {
+   "materias": {
+    "1º Período": [
+     {
+      "Codigo": "XEB225",
+      "Nome": "Ecologia Geral",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Ecologia: aspectos gerais. Estrutura e funcionamento dos ecossistemas. Fluxo de energia e movimento de materiais nos ecossistemas. Fatores limitantes. Fatores climáticos. Dinâmica de populações. Populações em comunidades. Sucessões ecológica. Ambiente físico e fatores limitantes. Ecossistemas: fluxo de energia e ciclos biogeoquìmicos. Parâmetros populacionais. Crescimento e regulação de populações. Relações inter-específicas. Conceitos e parâmetros de comunidades. Padrões de biodiversidade. O desenvolvimento da comunidade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "10:01 - 12:00",
+        "professor": "RODRIGO ORNELLAS MEIRE"
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 10:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XQM130",
+      "Nome": "Química para Biociências",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceitos fundamentais sobre a estrutura da matéria. Orbitais atômicos e moleculares. Modelos de ligação química. Correlação entre estrutura e propriedades físico-químicas de substâncias. Água: soluções e efeito hidrofóbico. Acidez e basicidade: pH, pKa, soluções tampão. Conceitos fundamentais de isomeria constitucional e estereoisomeria. Estrutura e propriedades químicas de substâncias orgânicas de interesse biológico: Lipídeos, Carboidratos, Amino-ácidos, Proteínas. Complexos Metálicos de Importância Biológica.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:01 - 17:00",
+        "professor": "IGOR ALVES DA SILVA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XTD119",
+      "Nome": "Boas Práticas no Laboratório",
+      "Créditos": "6.0",
+      "Teórica": "90",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Unidades e padrões de medida; precisão, dificuldades e princípios estáticos em medida e experimentação; ordens de grandeza e escolas de medida; instrumentos de medida e equipamentos de experimentação e produção; manutenção de equipamentos; controle de qualidade; boas práticas de laboratório e introdução aos sistemas ISO; segurança no trabalho; princípios de ergonometria e desenho industrial aplicados às práticas de laboratório; História e perspectivas futuras das práticas de laboratório\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 10:00",
+        "professor": "TATIANA PAULA TEIXEIRA FERREIRA"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 10:00",
+        "professor": ""
+       },
+       {
+        "dia": "Ter",
+        "hora": "10:01 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XBT118",
+      "Nome": "Biologia Celular",
+      "Créditos": "6.0",
+      "Teórica": "90",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Membrana plasmática - estrutura, fluidez e domínios; Transporte através da membrana; Receptores e sinalização Celular; Endocitose e lisossomas: Secreção celular - retículo endoplasmático, complexo de Golgi, organização e funções; Tráfego de Vesículas; Citoesqueleto - microtúbulos, microfilamentos, filamentos intermediários; Mitocôndrias; Cloroplastos; Peroxissomas; Controle do ciclo celular; divisão celular; Núcleo interfásico.\n___BIBLIOGRAFIA BÁSICA___\n1) Molecular Biology of The Cell. Albert, Johnson, Lewis, Raff, Roberts, Walter. Garland Eds, 5th edition , 2007. Ou 2th Edition;\n2) Fundamentos de Biologia Celular. Karen Hopkin, Dennis Bray, Bruce Albert. Artmed, 3a edição, 2011.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:01 - 15:00",
+        "professor": "JULIANY COLA FERNANDES RODRIGUES"
+       },
+       {
+        "dia": "Qui",
+        "hora": "10:01 - 12:00",
+        "professor": ""
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 10:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XMT116",
+      "Nome": "Métodos Matemát em Biologia I",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Números reais. Intervalos. Produtos notáveis. Fatoração. Resolução de Equações e Inequações. Funções: conceito, domínio, imagem, gráficos, função linear, função quadrática, potência, exponencial, logaritmo, funções trigonométricas e inversas. Limites. Limites laterais. Derivada. Regra do produto. Regra do quociente. Regra da cadeia. Derivada segunda. Regra de L'Hospital. Esboço do gráfico de funções. Aplicações de derivadas. Séries de Taylor. Vetores.\nBibliografia básica\n1) STEWART, J. Cálculo- Volume I. 7a edição. São Paulo: Cengage Learning, 2013.\n2) GUIDORIZZI, H. Um Curso de Cálculo. 5a edição. Rio de Janeiro: LTC, 2013.\n3) LEITHOLD, L.. Cálculo com Geometria Analítica, Harbra, 1994.\nBibliografia complementar\n1) FLEMMING, D. Cálculo A: limite, derivação e integração. Pearson, 2006.\n2) THOMAS, L. Cálculo com Geometria Analítica, Harbra, 1994.\n3) MORETTIN, P. Cálculo: função de uma evárias variáveis, Saraiva, 1994.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 10:00",
+        "professor": "DENIS MOTA DE SOUSA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XTD116",
+      "Nome": "Conceitos Fund Física Biologia",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O método científico e a descrição matemática dos fenômenos da natureza. Escalas e medidas: microscópio da biologia e as escalas atômicas e sub-atômicas. Os conceitos de tempo, espaço e movimento. o conceito de energia: formas e transformações de energia. Bioenergética. Interpretações deterministas e probabilísticas da natureza. Conceitos da genética e evolução biológica. A mecânica Quântica e a Física Estática. A descoberta da estrutura do DNA. Sistemas complexos: auto-organização, caos e fractais. Organização dos sistemas biológicos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "15:01 - 17:00",
+        "professor": "ANA PAULA SANTOS DA SILVA DE OLIVEIRA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:01 - 15:00",
+        "professor": "ANDREA CLAUDIA FREITAS FERREIRA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:01 - 15:00",
+        "professor": "ANA PAULA SANTOS DA SILVA DE OLIVEIRA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "15:01 - 17:00",
+        "professor": "ANDREA CLAUDIA FREITAS FERREIRA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "2º Período": [
+     {
+      "Codigo": "XBT129",
+      "Nome": "Biolog Tecidual (Morfo Animal)",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceitos Básicos: integração celular, moléculas de adesão, receptores, comunicação celular, matriz extracelular, pluricelularidade. Biologia Tecidual: tecido epitelial, tecido conjuntivo, tecido cartilaginoso, tecido ósseo, sangue e hematopoese, tecido linfóide, tecido muscular, tecido nervoso. Biologia do Desenvolvimento: bases celulares genéticas da morfogênese, gametogênese, fertilização, clivagem, implantação e anexos embrionários, gastrulação, mesoderma, ectoderma, endoderma, fechamento do embrião, embriologia comparada, evolução.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "15:01 - 17:00",
+        "professor": "LEANDRA SANTOS BAPTISTA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "13:01 - 15:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "XBT118"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XFS125",
+      "Nome": "Mecânica, Oscilação e Ondas",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Movimentos uni e bidimensionais.  Aplicações das Leis de Newton.  Referenciais não inerciais.  Trabalho e energia mecânica.  Conservação da energia e do momento.  Rotações e momento angular.  Dinâmica de corpos rígidos.  Movimento periódico, oscilações amortecidas e forçadas.  Mecânica dos fluidos.  Ondas mecânicas, interferência e modos normais.  Som e audição.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "15:01 - 17:00",
+        "professor": "ROBERTO JAKOMIN"
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 10:00",
+        "professor": ""
+       },
+       {
+        "dia": "Qua",
+        "hora": "10:01 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "XMT116"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XMT123",
+      "Nome": "Métodos Matemát em Biologia II",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Integral definida e indefinida, técnicas de integração e aplicações da integral definida. Equações diferenciais de primeira ordem homogêneas e não homogêneas. Aplicações à evolução de populações. Algumas equações não lineares (equações separáveis e exatas). Números complexos. Equações diferenciais lineares de segunda ordem, oscilações simples.\nBibliografia básica\n1) H.L. Guidorizzi. Um Curso de Cálculo, Vols. 1,2; LTC (2001).\n2) J. Stewart. Cálculo, Vols. 1,2; 6.ed. Editora Cengage Learning. (2013).\nBibliografia complementar\n1) T. Apostol. Calculus, Vols. 1,2.\n2) J. Stewart, T. Day. Biocalculus. Calculus for Life Sciences-Brooks Cole (2014).\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:01 - 15:00",
+        "professor": "RENAN HENRIQUE FINDER"
+       },
+       {
+        "dia": "Sex",
+        "hora": "10:01 - 12:00",
+        "professor": ""
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 10:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "XMT116"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XTDU01",
+      "Nome": "Estágio Supervisionado I",
+      "Créditos": "4.0",
+      "Teórica": "0",
+      "Prática": "120",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Treinamento do aluno em diversas áreas nos laboratóriosde de pesquisa permitindo o aprendizado de técnicas diversas e da metodologia científica. Obs.: O estágio rotativo implica na escolha de laboratórios diferentes a cada estágio.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "15:01 - 17:00",
+        "professor": "ROBERTO TARAZI"
+       }
+      ],
+      "Requisitos": [
+       "XBT118",
+       "XTD119"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XBQ124",
+      "Nome": "Bioquímica I",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Aminoácidos; técnicas de purificação de proteínas; estruturas covalentes de proteínas; estruturas 3D de proteínas; enrolamento de proteínas, dinâmica e evolução estrutural; açúcares e polissacarídeos; lipídeos e biomembranas. Princípios de enzimologia; velocidade de reação enzimática; catálise.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 10:00",
+        "professor": "GISELE CARDOSO DE AMORIM"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 10:00",
+        "professor": "FABIANA AVILA CARNEIRO"
+       },
+       {
+        "dia": "Ter",
+        "hora": "10:01 - 12:00",
+        "professor": ""
+       },
+       {
+        "dia": "Ter",
+        "hora": "10:01 - 12:00",
+        "professor": "GISELE CARDOSO DE AMORIM"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:01 - 15:00",
+        "professor": "FABIANA AVILA CARNEIRO"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:01 - 15:00",
+        "professor": "GISELE CARDOSO DE AMORIM"
+       }
+      ],
+      "Requisitos": [
+       "XQM130"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XCP211",
+      "Nome": "Arq Comp Sis Operacionais",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Sistemas numéricos. Aritmética binária: ponto fixo e flutuante. Organização de computadores: memórias, unidades centrais de processamento, entrada e saída. Linguagens de montagem. Conceitos de processos. Concorrência. Sincronização de processos. Gerenciamento de memória. Memória virtual. Escalonamento de processos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XGB125",
+      "Nome": "Genética Molecular I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Composição e estrutura de ácidos nucleicos. Estrutura de cromatina. Conceito de genes, organização gênica e famílias gênicas. Replicação de DNA. Reparo de DNA. Tipos de RNA e características estruturais. Transcrição em procariotos e eucariotos.  Maturação e processamento de RNAs.  Biossíntese de proteínas.\n___BIBLIOGRAFIA BÁSICA___\n1) ALBERTS, B. et al. Biologia molecular da célula. 5. ed. Porto Alegre: Artmed, 2009.\n2) NICHOLAS H. ACHESON, Fundamentals of Molecular Virology. 2nd Edition, Wiley, 2011.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:01 - 17:00",
+        "professor": "JANAINA FERNANDES"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XQM131",
+      "Nome": "Química Exp para Biociências",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Normas de segurança em um laboratório de Química. Técnicas elementares de laboratório como lavagem de material, uso de balança, técnicas de transferência de líquidos, uso adequado de vidraria de medida de volume de líquidos. Noções de estatística: erros, exatidão/precisão. Preparo de soluções. Solubilidade de substâncias orgânicas. Introdução à acidez e basicidade, pH, escala de pH, indicadores de pH, acidez e basicidade de substãncias orgânicas, pK, solução tampão. Espectrofotometria: varredura, curva de calibração e determinação  da concentração de um corante. Cromatografia em papel. Conceitos introdutórios de cinética.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 10:00",
+        "professor": "FELIPE CERQUEIRA DEMIDOFF"
+       },
+       {
+        "dia": "Seg",
+        "hora": "10:01 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "XQM130"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "3º Período": [
+     {
+      "Codigo": "XCP110",
+      "Nome": "Algoritmos e Programação",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Curso prático laboratorial sobre os métodos e habilidades usados para escrever e manter softwares bem estruturados.  Prática extensiva de diversas linguagens de programação, como F90, C, C++ e JAVA.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "15:01 - 17:00",
+        "professor": "ALEXANDRE DE ASSIS BENTO LIMA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "13:01 - 15:00",
+        "professor": ""
+       },
+       {
+        "dia": "Sex",
+        "hora": "15:01 - 17:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XFS230",
+      "Nome": "Eletromagnetismo e Ótica",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Lei de Coulomb.  Campo elétrico. Lei de Gauss.  Potencial eletrostático.  Capacitores e dielétricos.  Corrente e resistência. Campo magnético. Fonte de campo magnético: Lei de Ampère.  Lei de Faraday.  Indutância. Equações de Maxwuel.  Ondas eletromagnéticas.  Propriedades da luz.  Interferência e difração da luz.  Introdução à relatividade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 10:00",
+        "professor": "JOSUE XAVIER DE CARVALHO"
+       },
+       {
+        "dia": "Qua",
+        "hora": "10:01 - 12:00",
+        "professor": ""
+       },
+       {
+        "dia": "Sex",
+        "hora": "10:01 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "XFS125",
+       "XMT123"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XMT210",
+      "Nome": "Bioestatística",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Variáveis, populações e amostras. Gráficos e tabelas. Médias e mediana. Dispersão de uma amostra. Correlação. Regressão. Probabilidade. Distribuições binomiais e normais.Testes estatísticos. Intervalo de confiança. Análise de Variância.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "15:01 - 17:00",
+        "professor": "LILIAN TEREZINHA COSTA"
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:01 - 15:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XBQ212",
+      "Nome": "Bioquímica II",
+      "Créditos": "6.0",
+      "Teórica": "90",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução ao metabolismo; glicólise; metabolismo de glicogênio, transporte através de membranas; o ciclo do ácido cítrico; cadeia de transporte de elétrons e fosfoliação oxidativa; outras vias de metabolismo de carboidratos; forossíntese; metabolismo de lipídios; metabolismo de aminoácidos; metabolismo de nucleotídeos; integração do metabolismo energético.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 10:00",
+        "professor": "CAROLINA ALVARES DA CUNHA DE AZEREDO BRAGA"
+       },
+       {
+        "dia": "Ter",
+        "hora": "10:01 - 12:00",
+        "professor": "LUISA ANDREA KETZER"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 10:00",
+        "professor": ""
+       },
+       {
+        "dia": "Ter",
+        "hora": "10:01 - 12:00",
+        "professor": "CAROLINA ALVARES DA CUNHA DE AZEREDO BRAGA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:01 - 15:00",
+        "professor": ""
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:01 - 15:00",
+        "professor": "LUISA ANDREA KETZER"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XFL211",
+      "Nome": "Biofísica dos Sistemas",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Propriedade e papel da água; soluções; fluxos, compartimentos, forças osmóticas; princípios de hidrodinâmica; tampões corporais; transporte de gases; princípios de aerodinâmica; mecânica ventilatória; potenciais de equilíbrio eletroquímico; bioeletrogênese; canais iônicos e fluxos iônicos; transmissão de impulsos nervosos; sistemas de transdução de sinal luminoso; sistemas de transdução de sinal sonoro; sistemas de força no corpo humano.\n___BIBLIOGRAFIA BÁSICA___\n1) Mourão Júnior, C. A. Curso de Biofísica. Rio de Janeiro: Guanabara koogan, 2009;\n2) Heneine, I. F. Biofísica Básica. 2. ed. São Paulo: Atheneu, 2010.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 12:00",
+        "professor": "LEONARDO MACIEL DE OLIVEIRA PINTO"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 12:00",
+        "professor": "ANDREA CLAUDIA FREITAS FERREIRA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XGB213",
+      "Nome": "Genética Molecular II",
+      "Créditos": "6.0",
+      "Teórica": "90",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Controle da expressão gênica em procariotos: operons, regulons, sistemas de dois componentes. Controle da expressão gênica em eucariotos: transcripcional e pós-transcripcional. Tecnologia do DNA recombinante. Regulação gênica durante o desenvolvimento. Virologia molecular. Genômica e Proteômica.\n___BIBLIOGRAFIA BÁSICA___\n1) ALBERTS, B. et al. Biologia molecular da célula. 5. ed. Porto Alegre: Artmed, 2009.\n2) Nicholas H. Acheson, Fundamentals of Molecular Virology. 2nd Edition, Wiley, 2011.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 12:00",
+        "professor": "JANAINA FERNANDES"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 10:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XTDU02",
+      "Nome": "Estágio Supervisionado II",
+      "Créditos": "4.0",
+      "Teórica": "0",
+      "Prática": "120",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Treinamento do aluno em diversas áreas nos laboratóriosde de pesquisa permitindo o aprendizado de técnicas diversas e da metodologia científica. Obs.: O estágio rotativo implica na escolha de laboratórios diferentes a cada estágio.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "12:01 - 13:00",
+        "professor": "TATIANA PAULA TEIXEIRA FERREIRA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "12:01 - 13:00",
+        "professor": "MARCEL MENEZES LYRA DA CUNHA"
+       }
+      ],
+      "Requisitos": [
+       "XTDU01"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "4º Período": [
+     {
+      "Codigo": "XBT316",
+      "Nome": "Imunologia",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Fisiologia do sistema imune. Bases moleculares do sistema imunológico: desenvolvimento, ativação e função linfocitária. Mecanismos efetores da imunidade.  Mecanismos imunológicos em processos patológicos. Imunidade às infecções.\n___BIBLIOGRAFIA BÁSICA___\n1) ABBAS, Abul K.; LICHTMAN, Andrew H; PILLAI, Shiver. Imunologia celular e molecular. 8ª Ed. Rio de Janeiro: Elsevier, 2015.\n2) MURPHY, K. Imunobiologia de Janeway. 8. ed. Porto Alegre: Artmed, 2014.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 10:00",
+        "professor": "RAPHAEL DO CARMO VALENTE"
+       },
+       {
+        "dia": "Qui",
+        "hora": "10:01 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "XBT118"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XEB315",
+      "Nome": "Biodiversidade",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Os impactos dos seres humanos sobre a diversidade biológica e os conhecimentos teóricos e práticos para evitar a extinção de espécies. Exemplos de aplicação de biologia da conservação no Brasil e no mundo. Trabalhos publicados sobre a matéria onde se buscará através de uma análise crítica detectar as aplicações práticas e a aproximação teórica geral utilizada pelos autores na proteção e conservação da diversidade biológica.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:01 - 15:00",
+        "professor": "ARTHUR DE BARROS BAUER"
+       },
+       {
+        "dia": "Seg",
+        "hora": "13:01 - 15:00",
+        "professor": "WILLIAM CORREA TAVARES"
+       },
+       {
+        "dia": "Seg",
+        "hora": "15:01 - 17:00",
+        "professor": ""
+       },
+       {
+        "dia": "Seg",
+        "hora": "15:01 - 17:00",
+        "professor": "ARTHUR DE BARROS BAUER"
+       }
+      ],
+      "Requisitos": [
+       "XEB225"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XFS242",
+      "Nome": "Física Moderna I",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução à teoria especial da relatividade. A radiação de uma carga elétrica acelerada. A distribuição de Boltzmann. Teoria clássica e quântica da radiação em uma cavidade. A lei de Planck e suas aplicações. O efeito fotoelétrico. O efeito Compton. A natureza dualística da radiação eletromagnética. Ondas materiais. A dualidade onda particula. O principio da incerteza. Os modelos iniciais do núcleo atômico. O espalhamento de partículas alfa e o modelo de Rutherford do núcleo atômico. Níveis atômicos. Modelos de Bohr e Sommerfeld. O principio da correspondência.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "10:01 - 12:00",
+        "professor": "FERNANDO LUIZ FERREIRA RODRIGUES"
+       },
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 10:00",
+        "professor": ""
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 10:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "XFS230"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XBT223",
+      "Nome": "Fisiologia Celular",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Sinalização inter-celular - Receptores: sinalização e dessensibilização, Segundos mensageiros: CAMP, sinalização por receptores de membrana, Ciclo celular: Controles do ciclo celular, Fatores de crescimento. Citofluorometria. Diferenciação celular: \"Stem cells\", Mecanismos de histogênese, Diferenciação celular em parasitos. Diferenciação celular no sistema nervoso. Diferenciação celular no sistema imune, Fisiopatologia celular: Morte celular programada, Apoptose e outras formas de morte celular programada, Câncer.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "XBQ212",
+       "XBT118",
+       "XQM130"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XCP121",
+      "Nome": "Estrutura de Dados",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Listas lineares e suas generalizações: listas ordenadas, listas encadeadas, pilhas e filas. Aplicações de listas. Árvores e suas generalizações: árvores binárias, árvores de busca, árvores balanceadas (AVL), árvores B e B+. Aplicações de árvores.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "13:01 - 15:00",
+        "professor": "ALEXANDRE DE ASSIS BENTO LIMA"
+       }
+      ],
+      "Requisitos": [
+       "XCP110"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XFL224",
+      "Nome": "Fisiologia Geral I",
+      "Créditos": "5.0",
+      "Teórica": "75",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Neurofisiologia: Propriedades dos neurônios, transmissão sináptica: mecanismo, mediadores químicos, excitação/inibição sináptica. Plasticidade neural; Sistemas sensoriais e motores. Sistema Nervoso Autônomo. Fisiologia Cardíaca. Características funcionais e excitabilidade do músculo cardíaco. O coração como bomba. Princípios gerais da circulação. Sistema respiratório: organização morfofuncional. Mecânica ventilatória; ciclo respiratório e sua regulação. Transporte e difusão de O2, e CO2.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:01 - 15:00",
+        "professor": "LEONARDO MACIEL DE OLIVEIRA PINTO"
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:01 - 15:00",
+        "professor": "ANDREA CLAUDIA FREITAS FERREIRA"
+       },
+       {
+        "dia": "Ter",
+        "hora": "15:01 - 17:00",
+        "professor": "LEONARDO MACIEL DE OLIVEIRA PINTO"
+       },
+       {
+        "dia": "Ter",
+        "hora": "15:01 - 17:00",
+        "professor": "ANDREA CLAUDIA FREITAS FERREIRA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "10:01 - 12:00",
+        "professor": ""
+       },
+       {
+        "dia": "Qua",
+        "hora": "10:01 - 12:00",
+        "professor": "LEONARDO MACIEL DE OLIVEIRA PINTO"
+       }
+      ],
+      "Requisitos": [
+       "XBQ212",
+       "XFL211"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XTDU03",
+      "Nome": "Estágio Supervisionado III",
+      "Créditos": "4.0",
+      "Teórica": "120",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Treinamento do aluno em diversas áreas nos laboratóriosde de pesquisa permitindo o aprendizado de técnicas diversas e da metodologia científica. Obs.: O estágio rotativo implica na escolha de laboratórios diferentes a cada estágio.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "12:01 - 13:00",
+        "professor": "RAPHAEL DO CARMO VALENTE"
+       }
+      ],
+      "Requisitos": [
+       "XTDU02"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "5º Período": [
+     {
+      "Codigo": "XFL313",
+      "Nome": "Farmacologia Básica Aplicada",
+      "Créditos": "6.0",
+      "Teórica": "90",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Princípios básicos da farmacologia. Farmacocinética: vias de administração, absorção, distribuição e eliminação de fármacos. Modelos matemáticos e variabilidade farmacocinética. Farmacodinâmica: receptores, interação fármaco-receptor, agonismo e antagonismo. Avaliação do número de receptores e da afinidade do ligante. Inibição enzimática. Farmacologia da neurotransmissão central e periférica. Neurotransmissão colinérgica e adrenérgica no ACV. Anestesia de pequenos animais, convulsão experimental e anticonvulsivantes.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "10:01 - 12:00",
+        "professor": "RODRIGO TINOCO FIGUEIREDO"
+       },
+       {
+        "dia": "Ter",
+        "hora": "15:01 - 17:00",
+        "professor": ""
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:01 - 15:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "XBQ212",
+       "XFL224"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XFS311",
+      "Nome": "Físico-química Biológica",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceitos físico-químicos fundamentais; Propriedades de gases, sólidos e líquidos; princípios e desenvolvimento da termodinâmica clássica; Espontaneidade e equilíbrio; Termodinâmica de processos irreversíveis; Termodinâmica de sistemas biológicos; Eletroquímica; Fenômenos de superfície; Sistemas transportadores; Cinética química; Físico-química das origens da vida.\n___BIBLIOGRAFIA BÁSICA___\n1) Atkins, P. W. Físico-química biológica. Rio de Janeiro: LTC, 2008.\n2) Atkins, P. W. Físico-química. 9. ed. Rio de Janeiro: LTC, 2012.\n3) Artigos e revisões selecionados para discussão de visões na fronteira da físico-química de sistemas biológicos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 10:00",
+        "professor": "KARIM DAHMOUCHE"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "XMT116",
+       "XQM130"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XMP226",
+      "Nome": "Int Agentes Infec Parasitários",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Caracterização morfológica, boiológica e taxonômica dos principais vírus, bactérias, fungo, protozoários e helmintos de importância médica. Infecções oportunistas e emergentes. Ação patogênica dos agentes infecciosos e parasitários. Mecanismos de escape. Métodos atuais de diagnóstico laboratorial. Mecanismos de ação e estratégias de potencialização da ação de fármacos. Mecanismos de resistência a drogas. Avanços no desenvolvimento de vacinas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "15:01 - 17:00",
+        "professor": "MARCEL MENEZES LYRA DA CUNHA"
+       },
+       {
+        "dia": "Seg",
+        "hora": "15:01 - 17:00",
+        "professor": "LUCIO AYRES CALDAS"
+       },
+       {
+        "dia": "Seg",
+        "hora": "13:01 - 15:00",
+        "professor": ""
+       },
+       {
+        "dia": "Seg",
+        "hora": "13:01 - 15:00",
+        "professor": "MARCEL MENEZES LYRA DA CUNHA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "15:01 - 17:00",
+        "professor": "LUCIO AYRES CALDAS"
+       },
+       {
+        "dia": "Qua",
+        "hora": "15:01 - 17:00",
+        "professor": "MARCEL MENEZES LYRA DA CUNHA"
+       }
+      ],
+      "Requisitos": [
+       "XBT316"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XCP222",
+      "Nome": "Bioinformática I",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Bancos de dados Genômicos. Ferramentas de montagem e análise de seqüências gênicas. Buscas de identidade e homologia, anotação de genomas. Ferramentas de análise de proteomas e genoma funcional. Modelagem de estruturas por homologia.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "10:01 - 12:00",
+        "professor": "FRANCISCO JOSE PEREIRA LOPES"
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 10:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "XCP211"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XFL314",
+      "Nome": "Fisiologia Geral II",
+      "Créditos": "5.0",
+      "Teórica": "75",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Sistema Urinário: filtração, secreção e reabsorção tubular e sua regulação. Sistema Endócrino: Princípios da ação hormonal. Regulação do metabolismo hidrossalinoo energético e da função sexual. Sistema Digestivo: Digestão e absorção de nutrientes. Regulação funções digestivas. Integração: regulação da temperatura, PA, débito cardiáco, VEC, equilíbrio ácido-base e tonicidade do meio interno. Ajustes fisiológicos no estresse e no esforço, Eixo neuroimuno-endócrino. Meio ambiente e processos homeostáticos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "XFL224"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XGB312",
+      "Nome": "Bases Moleculares das Doenças",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Lesão e morte celular; inflamação crônica aguda; reparo tecidual; doenças genéticas; doenças imunológicas; neoplasia; doenças infecciosas; lesões vasculares e hemodinâmicas.\n___BIBLIOGRAFIA BÁSICA___\n1) Robbins Pathologic Basis of Disease. Cotran RS, Kumar V, Collins T. 6ª ed. W.B. Saunder company, 1999.\n2) Artigos científicos e revisões atualizadas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 10:00",
+        "professor": "KLEBER LUIZ DE ARAUJO E SOUZA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "10:01 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "XBQ212",
+       "XFL211"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XTDU04",
+      "Nome": "Estágio Supervisionado IV",
+      "Créditos": "4.0",
+      "Teórica": "0",
+      "Prática": "120",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Treinamento do aluno em diversas áreas nos laboratórios de pesquisa permitindo o aprendizado de técnicas diversas e da metodologia científica. Obs.: O estágio rotativo implica na escolha de laboratórios diferentes a cada estágio.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "12:01 - 13:00",
+        "professor": "MARCEL MENEZES LYRA DA CUNHA"
+       }
+      ],
+      "Requisitos": [
+       "XTDU03"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "6º Período": [
+     {
+      "Codigo": "XFL417",
+      "Nome": "Fisiologia Fisiop Respiratória",
+      "Créditos": "5.0",
+      "Teórica": "75",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Organização morfofuncional do sistema respiratório. Aspectos macro e microscópio do sistema respiratório normal e doente. Estrutura e função das vias aéreas. Mecanismos inflamatórios dos pulmões e vias aéreas: Asma, DPOC e SDRA. Mecânica Ventilatória. Ventilação mecânica. Espirografia. Sindromes obstrutivas e restritivas. Relação ventilação-perfusão. Transporte e difusão de gases: Transporte de O2 e CO2. Regulação da respiração. Equilíbrio ácido-base. Asma, DPOC, fibrose pulmonar, SDRA. Doenças ocupacionais.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "XBT118",
+       "XFL314",
+       "XTD116"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XFL327",
+      "Nome": "Neuroquímica Neurobiol Celular",
+      "Créditos": "4.0",
+      "Teórica": "30",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Aspectos metabólicos, estruturais e de comunicação inter e intra celular dos componentes do sistema nervoso. Sinapse, substâncias neuroativas, seus receptores e a transdução de sinal resultante da ativação desses receptores. Papel das substâcias neuroativas durante a formação de sinapses no decorrer do desenvolvimento do sistema nervoso; ciclo celular, diferenciação e morte celular programada no sistema nervoso central; mecanismos de neurodegeneração.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XTDU05",
+      "Nome": "Estágio Avançado I",
+      "Créditos": "4.0",
+      "Teórica": "0",
+      "Prática": "180",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Iniciação científica, em laboratório credenciado pelo curso, para desenvolvimento do projeto de pesquisa que resultará no trabalho de término do curso.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "XTDU04"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "7º Período": [
+     {
+      "Codigo": "XFL426",
+      "Nome": "Fund Fisiologia Cardiovascular",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Relação estrutura-função do sistema cardiovascular. Coração elétrico. Bases das arritmias cardíacas. Coração mecânico. Mecanismos básicos de controle da pressão arterial. Controle do diâmetro vascular e do fluxo sangüíneo. Controle integrado da circulação. Aspectos fisiopatológicos do sistema cardiovascular. Métodos de terapia gênica e celular. Envelhecimento e sistema cardiovascular.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XFL418",
+      "Nome": "Fisiol Sist Renal- Endócrino",
+      "Créditos": "6.0",
+      "Teórica": "90",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Bases biofísicas da filtração glomerular. Hemodinâmica renal. Reabsorção de solutos e água ao longo do néfron. Sistema endócrino e seus componentes. Neuro-hormônios, o eixo hipotálamo-hipófise. Hormônios da tireóide e sua função metabólica. Homeostase de cálcio. Mecanismos da regulação e efeito dos hormônios pancreáticos. hormônios adrenais e seus efeitos. Integração regulatória dos mecanismos envolvidos na manutenção da homeostase.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "XFL314"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XTDU06",
+      "Nome": "Estágio Avançado II",
+      "Créditos": "4.0",
+      "Teórica": "0",
+      "Prática": "180",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Iniciação científica, em laboratório credenciado pelo curso, para desenvolvimento do projeto de pesquisa que resultará no trabalho de término do curso.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "XTDU05"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "8º Período": [
+     {
+      "Codigo": "XFL424",
+      "Nome": "Model Neural Aprend e Cognição",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução aos conceitos de inteligência artificial. Teoria do aprendizado em redes neurais naturais e artificiais. Modelos de membrana neural. Modelos de neuronios com diferentes padrões de disparo. Modelos de redes neurais naturais. Modelos de Interconectividade entre diferentes grupos de neuronios. Geração de comportamentos complexos de circuitos neurais. Modelagem dos processos de aprendizado e cognição.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XFL423",
+      "Nome": "Fisiol Modelagem da Respiração",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Modelagem e fisiologia das curvas de fluxo, volume, pressões resistiva e elástica, trabalho e potência do sistema respiratório a partir de constantes - resistência, elastância, cargas resistiva e/ou elástica - e da função que descreve a pressão motriz do sistema. Modelagem matemática do sistema respiratório através de modelos mecânicos lineares, ou não, com um ou mais compartimentos, envolvendo propriedades reológicas do tecido pulmonar.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "XFL314"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XTDU07",
+      "Nome": "Estágio Avançado III",
+      "Créditos": "4.0",
+      "Teórica": "0",
+      "Prática": "180",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Iniciação científica, em laboratório credenciado pelo curso, para desenvolvimento do projeto de pesquisa que resultará no trabalho de término do curso.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "XTDU06"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "Disciplinas Optativas (Escolha Condicionada)": [
+     {
+      "Codigo": "CFB642",
+      "Nome": "Biosensores",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Compreensão geral dos princípios envolvidos nos biosensores.  Como os sinais biológicos podem ser traduzidos em sinais elétricos e os diversos tipos de transdutores e processamento de sinais. Exemplos de aplicações nas áreas médica e industrial.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "CFB210",
+       "CFB311",
+       "CFB316"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FIW354",
+      "Nome": "Mecânica Clássica II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Sistema de coordenadas em movimento. Equacoes de Lagrange. Equacoes de Hamilton. Introducao a mecanica dos meios continuos. Teoria de pequenas oscilacoes.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "FIW243"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEB599",
+      "Nome": "Est da Líng Bras de Sinais I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Nomes próprios; pronomes pessoais; demonstrativos; possessivos; locativos em sentenças simples do tipo pergunta-resposta com \"o que\" e \"quem\" e outros vocábulos básicos; numerais; quantidade; topicalização; flexão verbal; flexão de negação; expressões faciais e corporais; percepção visual; conversação; diálogos; textos: LIBRAS, cultura e comunidade surda.\n",
+       "BibliografiaBasica": "1) BRITO, L. F. Por uma gramática de língua de sinais. Rio de Janeiro: Tempo Brasileiro, 1995.\n2) FELIPE, T.; MONTEIRO, M. S. LIBRAS em contexto. Curso Básico. Brasília: Ministério da Educação e do Desporto/Secretaria de Educação Especial, 2001.\n3) GESSER, A. Libras - Que língua é essa? Crença e preconceitos em torno da língua de sinais e da realidade surda. Florianópolis: Parábola, 2009.\n4) STROBEL, K. L. As imagens do outro sobre a cultura surda. Florianópolis: EdUFSC, 2008.\n",
+       "BibliografiaComplementar": "1) PIMENTA, Nelson e QUADROS, Ronice Muller. Curso de Libras I, LSB Vídeo, volume I, Iniciante, 2006 e 3a ed., 2008.\n2) Dicionário Enciclopédico Ilustrado Triíngue da Língua de Sinais Brasileira ? vol 1 e vol. 2 Site: www.acessobrasil.org.brasil\n3) Dicionário da Língua Brasileira de Sinais, INES, versão, 2.0, ano 2006.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAD233",
+      "Nome": "Calculo das Probabilidades I",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Não cadastrada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MAC128"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAD364",
+      "Nome": "Processos Estocasticos",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Não cadastrada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MAD352"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAE240",
+      "Nome": "Análise Real",
+      "Créditos": "6.0",
+      "Teórica": "90",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Construções dos números reais.  Discussão dos axiomas que caracterizam R. Limites de sequências e convergência de séries.  Espaços métricos e espaços normados, limite e continuidade. Diferenciação de funções de uma variável real.  Integral de Riemann e de Kurzweil-Henstock.  Sequências de funções.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MAA114",
+       "MAE111"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "XBQ321",
+      "Nome": "Biofísica Molecular",
+      "Créditos": "6.0",
+      "Teórica": "90",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Revisão dos conceitos e fenômenos do eletromagnetismo e da física quântica aplicados à estrutura atômica e molecular. Movimentos translacionias, vibracionais e rotacionais. Estrutura e especto de átomos e moléculas. Ligação covalente e orbitais moleculares. Espectroscopia; modos rotacionais e vibracionais; transições eletrônicas; ressonância magnética nuclear. Técnicas de difração: estrutura cristalina e difração de Raios X.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "XFS125",
+       "XFS242",
+       "XFS311",
+       "XQM130"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "XBT033",
+      "Nome": "Comunic Científica Imunologia",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Análise de estrutura e conteúdo de artigos científicos de Imunologia. Dicas de como escrever um artigo científico. Bases teóricas para a publicação científica (qualidade científica), bases para redação do texto científico.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "XBT316"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "XBT038",
+      "Nome": "Imunologia Avançada",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Evolução do Sistema Imune. Dinâmica do Sistema Imune. O sistema Imune de Mucosa. Falhas no mecanismo Imune do hospedeiro, Alergia e Hipersensibilidade. Autoimunidade e transplante. Imunologia das doenças. Manipulação do Sistema Imune. Terapia Celular. Ferramentas da Imunologia e Seminários avançados em Imunologia.\nBibliografia básica\n1) Murphy, Kenneth M. ; Travers, Paul. Imunobiologia de Janeway. 7. ed. Porto Alegre: Artmed, 2010.\n2) Abbas, Abul K.; Lichtman, Andrew H. Imunologia celular e molecular. 6. ed. Rio de Janeiro: Elsevier, 2008.\n3) Abbas, Abul K. ; Lichtman, Andrew H. Imunologia básica: funções e distúrbios do sistema imunológico / Abul K. Abbas, Andrew H. Lichtman; [revisão científica Patrícia Dias Fernandes; tradução Bárbara de Alencar Leão Martins ... et al.]. 3. ed. Rio de Janeiro: Elsevier, 2009.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "RAPHAEL DO CARMO VALENTE"
+       }
+      ],
+      "Requisitos": [
+       "XBT118",
+       "XBT244"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "XBT412",
+      "Nome": "Cult Tecid Bioengenh Tecidual",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "História e objetivos da bioengenharia tecidual, as bases do crescimento e diferenciação celulares. Matriz extracelular e seus ligantes, dinâmica da interação matriz-célula, morfogênese e engenharia tecidual. Desenvolvimento tecidual \"in vitro\": cultura de células, fatores de crescimento, determinantes mecânicos e químicos do desenvolvimento tecidual. Síntese \"in vivo\" de Órgãos e tecidos: células-tronco embrionárias, células-tronco de cordão umbilical, células-tronco adultas. Transplante de Células e Tecidos: criopreservação, imunomodulação, vias de implante.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "XBT118"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "XBT429",
+      "Nome": "Ultraestrutura Celular",
+      "Créditos": "5.0",
+      "Teórica": "75",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Análise dos métodos para detecção e visualização de estruturas celulares especiais: complexos proteicos inseridos em membrana, estruturas filamentosas e citoesqueleto, membranas, íons. Os métodos incluem: técnicas especiais de microscopia eletrônica de transmissão, microscopia eletrônica de varredura de alta resolução, microscopia de força atômica, microscopia de fluorescência (confocal, multifóton, etc), microscopia correlativa, microanálise, reconstrução tridimensional.\nBibliografia básica\n1) De Souza, W (Editor), Técnicas de Microscopia Eletrônica Aplicadas às Ciências Biológicas, 3a edição, 2011, Editora da SBMM.\n2) De Souza, W (Editor), Microscopia Óptica: fundamentos e Aplicações às Ciências Biomédicas, 1a edição, 2010, Editora da SBMM.\nBibliografia complementar\n1) Trabalhos originais publicados em revistas indexadas de circulação nacional e internacional.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "XBT118"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "XBV029",
+      "Nome": "Tóp em Biotec Veget e Bioproc",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Aproveitamento biotecnológico dos metabólicos vegetais; bases moleculares em genética vegetal; desenvolvimento e melhoramento vegetal; potencial biotecnológico da biodiversidade vegetal; bio-remediação por microorganismos; produção de metabólitos por microorganismos; seleção, melhoramento e caracterização molecular de microorganismos; e virologia vegetal.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "XCP413",
+      "Nome": "Bioinfor e Modelagem Molecular",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução ao uso de programas gráficos para visualização de estruturas moleculares e animação. Introdução ao uso de \"softwares\" para modelagem e dinâmica molecular. Funções Potenciais para interações atômicas e moleculares. Métodos para Otimização de Geometria: algoritmos \"Steepest Descent\" e dos Gradientes Conjugados. modelagem computacional e otimização de estruturas moleculares. Simulação por Dinâmica Molecular: algoritmos de \"Verlet e Leapfrog\". Tratamento do solvente átomo a átomo: condições periódicas de contorno. Modelagem e dinâmica de interações moleculares.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "XBQ124",
+       "XCP222",
+       "XFS242",
+       "XFS311"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "XCP631",
+      "Nome": "Intr Progr Comp Apl Cálc Cient",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução à Programação Fortran: Nomenclatura. Fluxogramas. Algoritmos Dados inteiros, reais, caracteres e lógicos. Operadores aritméticos. Fórmulas matemáticas. Entrada e saída de dados. Tomada de decisões. Desvios condicionais simples, compostos e encadeados. Malhas de repetição. Estruturas de dados:Tabelas em Memória. Operações com vetores e matrizes. Utilização de sub-rotinas. Funções e aplicações. Introdução à Programação \"C\": Dados inteiros, reais, caracteres e lógicos. Uso de variáveis e constantes. Opradores e expressões aritmétricas. Entrada de dados, processamento e saída. Tomada de decisões.\"Loopings\". Tabelas em Memória. Operações com vetores e matrizes. \"Strings\". Funções e bibliotecas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "XCT002",
+      "Nome": "Programação Web - Html e Css",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Funcionamento da WEB; Servidores, serviços e protocolos; Editores e IDEs. HTML: Estrutura de documentos HTML, Marcadores, Formatação de texto, Links, Imagens, Frames, Listas, Tabelas, Formulários. CSS: Estrutura do CSS, Formatação de documento, Formatação de objetos, Links e formulários. JAVASCRIPT: Estrutura, Variáveis, Funções e eventos.\nBibliografia básica\n1) SILVA, M. Criando Sites com HTML. São Paulo: Novatec Editora, 2008.\n2) MONISON, M. Use a Cabeça! JavaScript. Rio de Janeiro: Alta Books, 2008.\n3) Weinman, W. E.; Weinman, L. Design Criativo com Html. 2. Rio de Janeiro: Ciência Moderna, 2002.\nBibliografia complementar\n1) W3Schools, HTML, CSS e JavaScript Tutorial, http://www.w3schools.com.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "XCP236"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "XEB415",
+      "Nome": "Cont Amb Hum Met Pes Micr Org",
+      "Créditos": "6.0",
+      "Teórica": "90",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Metais Pesados: Essenciais não essencias; Ciclo; Emissões naturais e antrópicas. Uso indusatriais. Formas dissolvidas, associação com partículas e matéria orgãnica. Especiação. Disponibilidade biológica. Sedimentos. acumulação. Meia vida. Orgãos alvo. Toxicidade. Micropoluentes orgânicos: Usos industriais e agrículas. Comportamento, persistência, degradação e volatização. Monitoração Ambiental e humana: coleta, preservação e tratamento de amostras. Extração e análise. Técnicas Espectrofotométricas (EAA) cromatográficas (CG e HPLC). Qualidade Analítica.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "XEB225"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "XEB425",
+      "Nome": "Aplic Traçad Ciên Ambientais",
+      "Créditos": "6.0",
+      "Teórica": "90",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estrutura da matéria e radioatividade. Interação das radiações ionizantes com a matéria. Dosimetria das radiações. Detectores de Radiação. Efeitos das radiações no organismo: efeitos somáticos e genéticos. Princípios de radioproteção. Gerenciamento de rejeitos radioativos. Danos e reparo do material genético. Mutagênese e câncer. O acidente de Goiânia. Planejamento de experiências com traçadores radiotivos, estudos de caso. Isótopos estáveis e seus usos em ciências ambientais, estudos de caso.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "XEB634",
+      "Nome": "Toxicologia Ambiental",
+      "Créditos": "5.0",
+      "Teórica": "75",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução à toxicologia ambiental: conceito e termos utilizados. Principais fontes de produtos tóxicos e seus efeitos. Efeitos em diferentes organismos: conceitos e metodologias para determinação de toxicidade aguda e crônica. Interação de poluentes ou biotoxinas com a biota: bioacumulação, biotransformação, biomagnificação, biodegradação e eliminação. Organismos como indicadores de qualidade ambiental, biomonitores, bioindicadores e biomarcadores de contaminantes. Avaliação de risco ecológico e para populações humanas.\nBibliografia básica\n1) Khassen, C.D. Watkins, J.B. Fundamentos em Toxicologia de Casarett e Doull. Edição 2. Editora ARTMED, 2012.\n2) Sisinno, C.L.S. Oliveira-filho, E.C. Princípios de Toxicologia Ambiental. Editora Interciência, 2013.\n3) Oga, S. Camargo, M.M.A. Batistuzzo, J.A.O. Fundamentos de Toxicologia. Edição 4 Editora. Atheneu, 2014.\nBibliografia complementar\n1) Artigos de publicação recente das revistas científicas da área de toxicologia ambiental. Indicação dos professores.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "XFL001",
+      "Nome": "Princípios de Zoologia",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução à biologia comparada; Classificação zoológica, taxonomia e escolas da sistemática; Origem e filogenia dos animais: origem, evolução e diversificação inicial da vida animal, simetria e arquitetura corporal dos animais, relações filogenéticas entre os filos de metazoários; diversidade animal: protostomados, deuterostomados.\n___ BIBLIOGRAFIA BÁSICA ___\n1- Amorim, D. S. 1997. Elementos básicos de Sistemática Filogenética. Holos, Ribeirão. 2ª edição.\n2- Rieppel, O. 1988. Fundamentals of Comparative Biology. Birkhauser Verlag, Basel.\n3- Brusca, R. C. & Brusca, J. G. 2003. Invertebrates. Sinauer Associates, Inc. Sunderland. 2ª edição.\n4- Papavero, N. 1983. Fundamentos Práticos de Taxonomia, Zoologia, Coleções, Bibliografia, Nomenclatura. Editora Museu Emílio Goeldi/CNPq, Belém.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "XFS325",
+      "Nome": "Métodos Biofísicos",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo teórico e prático de métodos biofísicos selecionados: RMN, Dicroísmo circular, fluorescência, AFM e SEM, difração, espectrometria de massa, calorimetria, patch-clamp, entre outras. Introdução conceitual; Relevância e avanços recentes; Princípios físicos. Descrição de equipamentos; Aplicações e limitações; Técnicas correlatas. Experimentos guiados ou demonstrativos: preparação de amostras; ajuste e calibração do equipamento; coleta de dados. \"Softwares\" para análise de dados e estatística.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "XFS242"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "XGB028",
+      "Nome": "Introd à Filogenia Molecular",
+      "Créditos": "4.0",
+      "Teórica": "30",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução às forças evolutivas (mutação, deriva, seleção natural e fluxo gênico); taxas de evolução e o relógio molecular; alinhamento de sequencias nucleotídicas; métodos de reconstrução filogenética: geométricos (distância), máxima parcimônia e probabilísticos (máxima verossimilhança e inferência bayesiana) medidas de apoio estatístico.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "XGB240"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "XGB636",
+      "Nome": "Biol Mol Aplic à Fisiologia",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Os principais métodos de biologia molecular utilizados no estudo da fisiologia.  As bases teóricas das seguintes metodologias:  RT-PCR, RT-PCR semiquantitativo, PCR em tempo real, ensaio de proteção contra RNAase (RPA), northern blot e western blot. Essas metologias são rotineiramente utilizadas para estudo da expressão gênica.\n___BIBLIOGRAFIA BÁSICA___\n1) Alberts, Bruce. Biologia Molecular da Célula - 5ª Ed. Porto Alegre: Artmed, 2004.\n2) Aires, Margarida de Mello. Fisiologia. Editora Guanabara Koogan. 2008.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "XMA002",
+      "Nome": "Sist Nanoestrut Lib Fármacos",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Sistemas novos e modificados de liberação controlada de fármacos: tecnologia, análise e biofarmácia. Classificação biofarmacêutica dos fármacos. Ensaio de dissolução; perfil de dissolução; modelos matemáticos de dissolução aplicados à nanotecnologia. Equivalência farmacêutica. Emulsões. Micro e Nanoencapsulados. Nanocompósitos, nanopartículas, microemulsão, lipossomos, dendrímeros, implantes, sistemas de liberação magnético, sistemas de liberação prolongada; nanocosméticos.\n___BIBLIOGRAFIA BÁSICA___\n1) ALTON, M. Delineamento de formas farmacêuticas. Editora Artmed, 2005.\n2) STORPIRTIS, S.,GONÇALVES, J. E. , CHIANN, C. GAI, M. N. Biofarmacotécnica. ed. Guanabara Koogan, 2009.\n3) ANSEL, H. C., POPOVICH N. G., ALLEN Jr., L. V. Farmacotécnica: Formas Farmacêuticas e Sistemas de Liberação de Fármacos, Editora Premier, 2000.\n4) HARRIS, D. C. Análise Química Quantitativa, 5a. Ed. Editora LTC, 2001.\n5)SKOOG, D. A., HOLLER, F. J. e NIEMAN, T. A. Princípios de análise instrumental, 5a. Ed., Editora  Bookman, 2002.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BMW118",
+       "IQO231"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "XMP638",
+      "Nome": "Biotecnologia Microorganismos",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução à biotecnologia e microbiologia industrial: produção de metabólitos a partir de microorganismos de interesse biotecnológico e industrial: isolamento e seleção.  Noções de metodologia de DNA recombinante aplicada aos microorganismos (engenharia genética).  Processos de fermentação: preparação e inóculos, recuperação e purificação de produtos de fermentação.  Produção de compostos e/ou microorganismos como: aminoácidos, enzimas, vacinas e microorganismos que degradam polímeros vegetais.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "XBQ124"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "XMT125",
+      "Nome": "Álgebra Linear II",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Sistemas de equações lineares e Eliminação Gaussiana. Matrizes e determinante. Espaços vetoriais Euclidianos. Geometria dos espaços vetoriais de dimensão finita. Transformações lineares. Espaços vetoriais com produto interno. Ortogonalidade e mínimos quadrados. Autovalores e autovetores. Teorema espectral. Aplicações à solução de Equações Diferenciais Ordinárias e em Geometria Euclidiana.\n___BIBLIOGRAFIA BÁSICA___\n1) Anton H., Algebra Linear com aplicaçoes. Porto Alegre: Bookman, 2001;\n2) Boldrini J. L., Costa, S.I.R, Wetzler H.G., Ribeiro, V. L. F. F., Algebra Linear. 3a ed. Sao Paulo: Harbra, 1980;\n3) Steinbruch, W. Algebra Linear. Sao Paulo: Makron Books, 1987.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "XTD009",
+      "Nome": "Ideação, Marketing e Competit",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Fundamentos estratégicos de marketing. Inteligência Competitiva e Pesquisa e Análise de Mercado. Posicionamento estratégico. MIX Marketing. Sistemas de Informação em Marketing. Marketing de Serviço e Relacionamento. Vendas e Canais de distribuição. Marketing Digital. Comunicação Integrada em Marketing. Comportamento consumidor e antropologia do consumo. Estratégia competitiva. Ferramentas de Marketing. Design Thinking, Branding, Neuromarketing e Marketing de experiência. Gamification e construção do Plano de Marketing.\n___ BIBLIOGRAFIA BÁSICA ___\n1- KOTLER, Philip; KELLER, Kevin Lane. Administração de Marketing. 14ª ed. 2012. Pearson Education - Br.\n2- MIGUELES, Carmen Pires (org). Antropologia do Consumo - Casos Brasileiros. Rio  de Janeiro: FGV, 2007.\n3- CHAVAGLIA Neto, José. Neuromarketing. Baraúna.\n4- VIANNA, Maurício et al. Design Thinking: inovação em negócios. Rio de Janeiro: MJV Press, 2012.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "XTD025",
+      "Nome": "Microscopia Básica",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Microscopia óptica; Microscopia Confocal; Microscopia Eletrônica de Varredura, Microscopia Eletrônica de Transmissão; FIB; Microscopia de Tunelamento e Microscopia de Força Atômica: Introdução conceitual; Relevãncia e avanços recentes; Princípios físicos. Descrição de equipamentos; Aplicações e limitações; Preparo de amostras.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "XTD641",
+      "Nome": "Propried Industr Biotecnologia",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução à propriedade intelectual em biotecnologia.  Noções sobre a legislação brasileira de propriedade industrial.  O documento de patente, patentes como fonte de informação tecnológica, propriedade intelectual e conhecimentos tradicionais.  Gestão da informação tecnológica em universidades e centros de pesquisa.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "XXWZ50",
+      "Nome": "Ativ Curricular Extensão - Bif",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "0",
+      "Extensão": "463",
+      "Informação": {
+       "Info": "Atuação em atividades registradas na Pró-reitoria de Extensão da UFRJ, como programas, projetos, cursos de extensão e eventos, coordenados por docentes do quadro permanente ou técnicos de carreira de nível superior na UFRJ.\n___  BIBLIOGRAFIA BÁSICA ___\nBibliografia recomendada pelo coordenador da atividade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "12:01 - 13:00",
+        "professor": "ALINNY ROSENDO ISAAC"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "CFB640",
+      "Nome": "Fotobiologia",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O espectro eletromagnético.  Cromóforos biológicos; espectros de absorção, de emissão e de ação.  Espectrofotometria e fluorimetria.  Fluorimetria.  Fluorescência e fosforescência: principíos e usos.  Reações fotoquímicas em sistemas biológicos; rendimento quântico; fotorreceptores.  Processos biológicos mediados por luz.  Danos produzidos ao material biológico e seu reparo.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FIW243",
+      "Nome": "Mecânica Clássica I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Elementos de mecânica newtoniana. Movimento de uma partícula em uma, duas e três dimensões. Movimento de um sistema de partículas. Oscilações lineares e não lineares. Corpos rígidos. Rotação em torno de um eixo. Estática. Gravitação.\n",
+       "BibliografiaBasica": "1- \"Classical Dynamics of Particles and Systems\", Stephen T. Thornton e Jerry B. Marion, Editora: Thomson ? Brooks/Cole, 5a edição (July 7, 2003)\n2- \"Mecânica: Newtoniana, Lagrangiana e Hamiltoniana\", João Barcelos Neto\nEditora: Livraria da Física\n3- \"Mecânica\", Keith R. Symon, Editora: Campus\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "FIT122",
+       "MAC238"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FIW363",
+      "Nome": "Termodinâmica Fís Estatística",
+      "Créditos": "6.0",
+      "Teórica": "90",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estados de um sistema. Entropia e temperatura. Distribuição de Bostzmann. Radiação térmica. Potencial químico. Gás ideal. Gases de Fermi e Bose. Calor e trabalho. Energia livre de Gibbs. Reações químicas. Transformações de fase. Teoria cinética. Propagação do som em gases. Condução de calor.\n___ BIBLIOGRAFIA BÁSICA ___\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "FIM240",
+       "MAC238"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAC233",
+      "Nome": "Cálculo III",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Teoremas da Função Implícita e Inversa; Integrais Duplas e Triplas; Mudança de Variáveis; Integrais Múltiplas Impróprias; Integral de linha escalar e vetorial; Teorema de Green; Parametrização e Área de superfícies; Integral de superfície escalar e vetorial; Teorema de Stokes e Gauss; Interpretação física; Campos conservativos.\n",
+       "BibliografiaBasica": "1) ANTON, Howard; BIVIS, Iri; DAVIS, Stephen. Cálculo. Volume II. São Paulo: Editora Harbra, 2007.\n2) PINTO, Diomara; MORGADO, Maria Cândida Ferreira. Cálculo diferencial e integral de funções de várias variáveis. Rio de Janeiro: UFRJ, 2000.\n3) STEWART, James. Cálculo. Volume II. São Paulo : Cengage Learning, 2014.\n",
+       "BibliografiaComplementar": "1) APOSTOL, Tom Mike. Calculus. Volume II. New York: J. Wiley, c1969.\n2) GUIDORIZZI, Hamilton Luiz. Um curso de cálculo. Volume II. Rio de Janeiro: LTC, 2003.\n3) MARSDEN, Jerrold E.; TROMBA, Anthony J. Vector calculus. New York : W. H. Freeman, c1988.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MAC123"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAD352",
+      "Nome": "Calculo das Probabilidades II",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Não cadastrada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MAD233"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAE127",
+      "Nome": "Equações Diferenciais",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Equações diferenciais de 1ª ordem e aplicações; Teoremas de Existência e Unicidade de Soluções; Equações diferenciais lineares de 2ª ordem e aplicações;\n",
+       "BibliografiaBasica": "1) BOYCE, William E.; DIPRIMA, Richard C. Equações diferenciais elementares e problemas de valores de contorno. Rio de Janeiro: LTC, 2006.\n2) FIGUEIREDO, Djairo Guedes de; NEVES, Aloisio Freiria. Equações diferenciais aplicadas. Rio de Janeiro : IMPA, c2007.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MAC123",
+       "MAE125"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAE242",
+      "Nome": "Modelagem Matemática",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Problemas de otimização. Derivada de Gateaux de um funcional, equações de Euler-Lagrange. Métodos de diferenças finitas. Métodos do gradiente e gradiente conjugado. Métodos diretos e métodos iterativos para a solução de sistemas lineares.\n",
+       "BibliografiaBasica": "1- Tijonov & Samarsky; Equações da Física Matemática\n2- Churchill, R.; Operational Mathematics.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MAE113",
+       "MAE127"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "XBQ428",
+      "Nome": "Interações Receptor- Ligante",
+      "Créditos": "6.0",
+      "Teórica": "90",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo de interações entre receptores e seus lingantes. Métodos e modelos para determinação de constantes de afinidade. Uso da espectroscopia de RMN na obtenção de detalhes estruturais envolvidos na interação molecular e combinação com métodos computacionais para obtenção da estrutura tridimensional do complexo receptor-ligante. Outros métodos de determinação de afinidade e moléculas: espectrometria de massas, forma atômica, calorimetria, cristalografia de Raio X e ressonância de plasmom de superfície.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "XBQ212",
+       "XQM130",
+       "XTD116"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "XBT037",
+      "Nome": "Modulação da Resposta Imune",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Reconhecimento Imune Inato, populações de leucócitos, citocinas, ativação de linfócitos T e B.\n___ BIBLIOGRAFIA BÁSICA ___\n1- ABBAS, Abul K.; LICHTMAN, Andrew H; PILLAI, Shiver. Imunologia celular e molecular. 8ª Ed. Rio de Janeiro: Elsevier, 2015.\n2- MURPHY, K. Imunobiologia de Janeway. 8. ed. Porto Alegre: Artmed, 2014. 888 p.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "XBT244"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "XBT039",
+      "Nome": "Biologia do Desenvolvimento",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Princípios da Biologia do Desenvolvimento. Evolução, aprimoramento das funções e regeneração. Gametogênese e fertilização. Biologia das células-tronco no contexto do desenvolvimento. Modelos animais de experimentação para a compreensão das etapas do desenvolvimento. Clivagens do zigoto, gastrulação e organogênese. Aplicações biotecnológicas e clínicas a partir do conhecimento acerca da biologia do desenvolvimento.\nBibliografia básica\n1) Alberts, Bruce. Biologia molecular da célula. 4. ed. Porto Alegre: Artmed, 2004.\n2) Gilbert, Scott F. Developmental biology. 8. ed. Sunderland, Mass: Sinauer Associates, 2006.\n3) Wolpert, Lewis Princípios de biologia do desenvolvimento. 3. ed. Porto Alegre: Artmed, 2008.\nBibliografia complementar\n1) Moore, Keith L. ; Persaud, T. V. N. Embriologia básica. 7. ed. Rio de Janeiro: Elsevier, 2008.\n2) Schoenwolf, Gary C. Larsen?s human embryology. 4th ed. Philadelphia: Elsevier/Churcill Livingstone, 2009.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "XBT118",
+       "XFL242"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "XBT422",
+      "Nome": "Cult Cél Bioc: Bas Des, Bioma",
+      "Créditos": "6.0",
+      "Teórica": "90",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Princípios das interações células-superfícies inertes - carga de superfície, tensão superficial e rugosidade. Adsorção e Adesão Celulares. Conceitos de Superfície Inerte e Biomaterial. Conceito de Biocompatibilidade. Sinalização Celular e Mecanotransdução. Cultivo de células em 2D e 3D. Biomimetismo e Engenharia de Tecidos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "XBT129",
+       "XBT223",
+       "XFS311",
+       "XMT210",
+       "XTD116"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "XBV007",
+      "Nome": "Plantas Medicinais",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Cultivo, coleta e secagem de plantas medicinais. Influência dos fatores bióticos e abióticos na produção de metabólitos. Biossíntese dos metabólitos vegetais. Interação entre o metabolismo Primário e Secundário. Principais grupos de princípios ativos. Abordagem fitoquímica dos princípios ativos vegetais. Estudo morfológico e anatômico dos farmacógenos vegetais. Plantas medicinais nativas, usos, princípios ativos e toxicidade.\n___ BIBLIOGRAFIA BÁSICA ___\n1- SIMÕES, C.M.O.; SCHENKEL, E.P.; GOSMANN, G.; MELLO, J.C.P.; MENTZ, L.A.; PETROVICK. P.R.(Orgs). Farmacognosia: da planta ao medicamento. 6.ed. Porto Alegre: Editora da UFRGS: Florianópolis: Editora da UFSC, 2010. 1104p.\n2- OLIVEIRA, FERNANDO DE; AKISUE, GOKITHI. Fundamentos de Farmacobotânica. 2ª. Ed. Livraria Atheneu. 1998.\n3- LORENZI H., MATOS F.J.A. 2002. Plantas medicinais no Brasil: nativas e exóticas. Nova Odessa: Plantarum.\n4- Farmacopéia Brasileira, 1ª a 5ª edição.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "XBV351"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "XBV421",
+      "Nome": "Transformação Gênica Plantas",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Clonagem molecular e isolamento de genes em plantas. Transformação genéticas para transformação: Agrobacterium como vetor para transformação, biobalística, eletroporejamento. Plantas trangênicas resistentes a vírus. Avaliação de riscos na introdução de plantas trangênicas no ambiente.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "XBQ212",
+       "XGB213",
+       "XTD119"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "XCP414",
+      "Nome": "Proc Anál Imag Biol Biomédicas",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Elementos de percepção visual. Elementos de imagem (pixels). Geometria de uma imagem. Princípios de fotografia. Imagens analógicas e digitais. Captura de imagens. Tratamentos de imagens. Restauração de imagens. Análise de imagens.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "XCP110",
+       "XMT123"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "XCT001",
+      "Nome": "Introdução às Ciências Ômicas",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Análise de genomas e transcriptomas utilizando-se tecnologias Next-generation sequencing. Análise de proteomas utilizando-se estratégias baseadas em gel (2D-PAGE/DIGE) e cromatografia líquida (LC-MS/MS). Análise de metabolomas através de GC-MS e RMN. Análise de dados de genômica, transcriptômica, proteômica e metabolômica.\n___ BIBLIOGRAFIA BÁSICA ___\n1- The 'Omics Age'. Cambridge, MA: NPG Education, 2010. January 17, 2014. Nature eBook (http://www.nature.com/wls/ebooks/the-omics-age-16549951/contents).\n2- Funari, C. S. et al. Metabolômica, uma abordagem otimizada para exploração da biodiversidade brasileira: estado da arte, perspectivas e desafios. Quím. Nova, 36, 2013.\n3- Mochida, K.; Shinozaki, K. Advances in Omics and Bioinformatics Tools for Systems.\n4- Analyses of Plant Functions. Plant. Cel. I Physiol. 52, 2017-2038, 2011.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "XBQ122",
+       "XCP350",
+       "XGB240"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "XCT003",
+      "Nome": "Introd à Comput Evolucionista",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução e breve histórico da área; Algoritmos genéticos: tipos de representação/codificação e métodos de seleção. Operadores genéticos, função aptidão; Adaptação; Multimodalidade e Métodos para formação de nichos; Hibridização; Noções de programação genética, estratégias evolutivas e problemas com múltiplos objetivos; Aplicações.\nBibliografia básica\n1) Genetic Algorithms in Search, Optimization and Machine Learning. Goldberg, D. E., Addison Wesley, 1989.\n2) Thomas H. Cormen. Algoritmos: teoria e prática. 3. ed. Rio de Janeiro: Campus: Elsevier, 2012.\nBibliografia complementar\n1) Holland, J. E., ?Adaptation in natural and artificial systems?, MIT Press, 1992.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "13:01 - 15:00",
+        "professor": "CAMILA SILVA DE MAGALHAES"
+       },
+       {
+        "dia": "Qui",
+        "hora": "15:01 - 17:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "XCP236",
+       "XCP246"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "XEB416",
+      "Nome": "Ecol Ger de Eco Aq Continental",
+      "Créditos": "5.0",
+      "Teórica": "75",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Princípios e conceitos para o ecossistema aquático: estrutura, função, fluxo de energia, ciclos biogeoquímicos, comunidades aquáticas, cadeiais tróficas, bioindicadores, evolução do ecossistema; reservatórios como ecossistemas aquáticos; poluição e deterioração da qualidade de água; abordagens para o gerenciamento da qualidade da água; princípios para o gerenciamento ecotecnológico; amostragens, monitoramento e avaliação da qualidade da água; abordagens e métodos de gerenciamento de bacias hidrográficas; modelagem como ferramenta de gerenciamento; estudos de caso.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "XEB225"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "XEB633",
+      "Nome": "Levant Anális Dados Ambientais",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Levantamento de dados e monitoramento; escolha de pontos de coleta; frequência amostral; organização de banco de daods; análises de séries temporais; aplicação de modelos; estatística multivariada - conceitos e aplicações de análises de ordenação (análise de componentes principais, análise de correspondência, análise de correspondência canônica) e análise de agrupamentos, índices bióticos (diversidade específica, abundância, dominância, análise de espécies indicadoras)\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "XEB635",
+      "Nome": "Qualidade Água e Saúde Pública",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Controle de qualidade de água. Amostragens e análises. Aspectos microbiológicos: doenças de veiculação hídrica, agentes, indicadores, recomendações e monitoramento. Aspectos químicos. Aspectos radiológicos. Determinação de limites máximos aceitáveis. Proteção ambiental e melhoria da qualidade de água. Implicações para a saúde.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "XFL002",
+      "Nome": "Evolução Aplicada",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Revisão de conceitos básicos de evolução (deriva gênica, seleção natural e coevolução) importantes para entender a relevância da evolução em áreas aplicadas. Discussão da aplicação da evolução em áreas como biotecnologia, medicina, agronomia e conservação através da leitura de artigos científicos.\n___ BIBLIOGRAFIA BÁSICA ___\n1- Bull, J. J. e Wichman, H. A. Applied Evolution. Annual Review of Ecology an Systematics 32: 183-217. 2001.\n2- Carroll, S. P., Jorgensen, P. S., Kinnison, M. T., Bergstrom, C. T., Denison, R. F., Gluckman, P., e Tabashnik, B. E. Applying evolutionary biology to address global challenges. Science, 346:1245993. 2014.\n3- Futuyma, D. Biologia Evolutiva. Funpec. 2009.\n4- Ridley, M. Evolução. Ed. Artmed. 2006.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "XGB230"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "XGB001",
+      "Nome": "Métodos em Biologia Sistemas",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Mecanismos de regulação gênica.O desenvolvivmento embrionário em Drosophila e Xenopus. A morfogênese e as proteínas morfogenética.O conceito de informação posicional.Modelagem teórica aplicada ao estudo da regulação gênica e formação de padrões.O método das redes de regulação.O conceito de biestabilidade.Modelos de reação-difusão.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "XMT116"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "XGB411",
+      "Nome": "Métodos em Biologia Molecular",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Produção de células componentes, transformação gênica escolha de vetores, estratégias de clonagem, construção de bibliotecas de cDNA ou genômicas, projetos genoma, estratégias de PCR e RT-PCR, seqüenciamento automático, análise de estruturas genômicas, técnicas de hibridação, transcrição \"in vitro\", produção de sondas marcadas radiotivas ou frias, construções complexas para estudo de função ou de regulação, técnidas de anáise de expressão gênica (RT-D, \"microarray\", \"macroorray\", SAGE), técnicas de análise de promotores \"in vitro\" (EMSA, \"footprinting\"), CAT assay.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "XGB213"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "XGB637",
+      "Nome": "Medicina Molecular",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O projeto genoma humano, o uso das informações em prol da saúde humana. A bioinformática como ferramenta de estudo genômico, desenvolvendo testes, diagnósticos e prognósticos. A farmacogenômica. Estudo de doenças complexas multifatoriais (doenças cardiovasculares e neoplasias). Doenças infecciosas.\n___BIBLIOGRAFIA BÁSICA___\n1) Rang e Dale. Farmacologia, 6. ed. Rio de Janeiro: Elsevier, 2007.\n2) Bertran G. Katzung. Farmacologia Básica e Clínica. 12. ed. Porto Alegre: AMGH, 2014.\n3) Goodman & Gilman. As Bases Farmacológicas da Terapêutica, 13ª Edição. Rio de Janeiro: Mc Graw-Hill, 2012.\n4) Abul K. Abbas, Andrew H. Lichtman, Shiv Pillai. Imunologia Celular e Molecular. 7. ed. Rio de Janeiro: Elsevier, 2012.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 10:00",
+        "professor": "RODRIGO TINOCO FIGUEIREDO"
+       }
+      ],
+      "Requisitos": [
+       "XGB213"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "XMA003",
+      "Nome": "Tópicos em Nanomagnetismo",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceitos básicos do nanomagnetismo; magnetismo em nanomateriais; gravação magnética; métodos de produção de nanomateriais magnéticos, aplicações em biomedicina, aplicações em meio ambiente.\n___ BIBLIOGRAFIA BÁSICA ___\n1- A. P. G. Guimarães, Principles of Nanomagnetism, 1 st ed. Berlin: Springer-Verlag, 2009.\n2- C. Binns, Nanomagnetism: Fundamentals and Applications, 1 st ed. Berlin: Springer-Verlag, 2014.\n3- R. A. Lukaszew, Handbook of Nanomagnetism Applications and Tools, 1 st ed. Boca Raton: Taylor & amp; Francis Group, 2016.\n4- N. T. K. Thanh, Magnetic nanoparticles From Fabrication to clinical applications, 1 st ed. Boca Raton: Taylor & amp; Francis Group, 2012.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "XFS240"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "XMP639",
+      "Nome": "Interação Parasito - Célula",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Processo de interação parasito-hospedeiro. Processos de: reconhecimento, adesão, interiorização e destino intracelular de parasitas patogênicos para o homem serão estudados, bem como estruturas destes parasitas envolvidas nestes processos. Parasitas extracelulares patogênicos para o homem: estudo dos processos de reconhecimento e resposta do hospedeiro a estes parasitas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "XBT118",
+       "XMP226"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "XTD008",
+      "Nome": "Finanças para Empreendedores",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Relação homem x dinheiro, planejamento financeiro pessoal, métricas para formulação de premissas financeiras, alinhamento estratégico e financeiro. Introdução à contabilidade financeira. Valuation e valoração de tecnologia, estruturação do planejamento financeiro. Riscos do planejamento, estrutura de custos. Planejamento de vendas. Plano de Investimento (inicial e ao longo). Capital de giro, fontes de financiamento público e privada (Seed Money, venture Capital, IPOs). Avaliação de empresas. Indicadores financeiros e análise de resultados, construção e análise de cenários.\n___ BIBLIOGRAFIA BÁSICA ___\n1- ROGER, Steven. Finanças e estratégia de negócios para empreendedores: Bookman, 2011.\n2- NETO, Alexandre Assaf. Mercado Financeiro: Atlas, 2003.\n3- CERBASI e PASCHOARELLI, Gustavo e Rafael. Finanças para Empreendedores e Profissionais Não Financeiro: Atlas.\n4- BARÇANTE, Luiz C. & PINTO, Fernando C. Jogos e Negócios. Rio de Janeiro: Impetus, 2003.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "XTD023",
+      "Nome": "Terapia Gênica e Vacinas",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Terapia gênica: Os conceitos de transferência gênica, a sua evolução técnica e seus testes através de estudos clínicos serão  abordados nas aulas. A saúde, a segurança e as questões éticas em torno da terapia gênica são discutidas, juntamente com a revisão e fiscalização de sistemas estabelecidos para regulamentar esta terapia. Serão discutidos também os aspectos relacionados ao desenvolvimento destas técnicas na indústria, tanto nas novas empresas em desenvolvimento, bem como as empresas farmacêuticas estabelecidas na biotecnologia.\nVacinologia: O objetivo da disciplina é abordar o aspecto histórico do desenvolvimento das vacinas, a importância da vacinologia para o estudo da imunologia, as vacinas em uso na clínica e o desenvolvimento de novas vacinas e adjuvantes. A ênfase da disciplina estará no estudo dos mecanismos de proteção das vacinas em uso na clínica e em experimentação. Serão abordados: 1) As vacinas de primeira geração, segunda geração, terceira geração e quarta geração. 2) As vias de administração comparando as vacinas pelas vias de mucosas versus as vacinas pelas vias periféricas. 3) O mecanismo de indução de eficácia protetora contra vírus, bactérias, fungos, helmintos, protozoários, tumores, doenças auto-imunes e alergia. 4) sistemas de entregas de vacinas (nano e microparticulares). 5) Adjuvantes 6)Mecanismos de indução de tolerância na mucosa 7)Ensaios pré-clínicos e clínicos para o desenvolvimento de vacinas 8) Controle de qualidade na produção de insumo de vacinas 9) Requerimentos da Organização Mundial da Saúde, Ministério da Saúde e FDA para aprovação de vacinas para o uso em humanos 10) Os desafios atuais no desenvolvimentod e vacinas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "XBT244"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "XTD232",
+      "Nome": "Ética e Biosegurança",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Segurança  no trabalho; conhecimento e a discussão dos fundamentos da Bioética comtemporânea, das relações profissionais com o meio ambiente na área da saúde e da ética das profissões. Visão geral da importância ético, jurídico e regulamentar de questões fundamentais para a indústria biotecnológica. Tópicos como propriedade intelectual, biosegurança e acesso à biodiversidade aplicados ao processo e produtos biotecnológicos. Conceitos fundamentais na tomada de decisões éticas na investigação através de discussões de estudos de caso. Questões centrais para estas áreas, tais como a adequada utilização de animais na investigação científica, proteçao contra os riscos em seres humanos, bem como temas relacionados com a integridade do processo de investigação, tais como: autoria, análise pelos pares, bem como a ética do negócio de Ciência. Aspectos relacionados a radiações ionizantes e suas diferenças, interações físicas e químicas de radiação com chave moléculas biológicas, efeitos sobre a matéria viva início com molecular e celular interações e proceder à colheita de tecidos, órgãos e organismo níveis, também serão discutidos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 10:00",
+        "professor": "JASMIN O BRIEN"
+       },
+       {
+        "dia": "Qui",
+        "hora": "10:01 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "XXWE01",
+      "Nome": "Introdução à Extensão",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "0",
+      "Extensão": "30",
+      "Informação": {
+       "Info": "Evolução histórica, construção conceitual, princípios e diretrizes da extensão nas universidades públicas. Políticas de extensão universitária na UFRJ e no Brasil. Tipos de ações de extensão, inserção curricular das ações de extensão na UFRJ. Metodologias aplicáveis às ações de extensão. Apresentação e aproximação com as ações de extensão da Unidade e da UFRJ.\n___ BIBLIOGRAFIA BÁSICA ___\nA ser indicada pelo supervisor conforme atividade a ser definida.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "10:01 - 12:00",
+        "professor": "ALINNY ROSENDO ISAAC"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BQMK01",
+      "Nome": "Apoio em Bioquímica",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "72",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Aulas semipresenciais de conhecimentos básicos de atomo e moléculas, água, pH, tampões, bioquímica de aminoácidos e proteínas, carboidratos e lipídios: estrutura, propriedades e funções.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     }
+    ]
+   },
+   "obrigatorias": 44,
+   "eletivas": 59,
+   "ano": "2008/1 a 9999/9"
+  }
+ ]
+}

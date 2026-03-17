@@ -1,0 +1,2678 @@
+{
+ "Engenharia Civil M": [
+  {
+   "materias": {
+    "1º Período": [
+     {
+      "Codigo": "MCG112",
+      "Nome": "Física I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Noção de espaço, noção de tempo. Noções de cálculo diferencial e integral. Cálculo Vetorial. Cinemática da partícula. Força. Dinâmica das partículas. Leis de Newton. Trabalho; energia; momento linear; momento angular, conservação. Sistemas de partículas. Corpos rígidos: estática e dinâmica. Gravitação.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "10:00 - 12:00",
+        "professor": "RAPHAEL NUNES PUPIO MAIA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MCG115(C)MCG115=MAW111MCG115=MAC118MCG115=MAE111MCG115=MAC113"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG114",
+      "Nome": "Programação Computacional I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Componentes básicos do computador. Lógica da programação: linguagens de máquina, de montagem e de alto nível; linguagens de programação. Informação e dados. Compiladores; interpretadores. Codificação de números e caracteres. Sequências lógicas; instruções. Elementos de programação. Variáveis, algoritmos, estrutura de dados, controle de fluxo, ordenação, buscas. Predicados; valores booleanos. Listas, cadeias e tuplas. Arquivos. Programação estruturada; recursão. Programação orientada; objetos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:30 - 15:30",
+        "professor": "ANSELMO PESTANA RIBEIRO COSTA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:30 - 15:30",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG117",
+      "Nome": "Química Geral",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Elementos e compostos: moléculas e mols; Estrutura atômica e tabela periódica; Ligação química: covalente, iônica e metálica; Forças intermoleculares; Líquidos e soluções; Sólidos moleculares, covalentes reticulados e metálicos; Propriedades gerais de metais, cerâmicas, polímeros, compósitos e biomateriais. Cinética e equilíbrio químico; Ácidos e bases; Reações de oxirredução.\n___ BIBLIOGRAFIA BÁSICA ___\n1) ATKINS, P. W. Princípios de química: questionando a vida moderna e o meio ambiente. 3. ed. reimpr. - Porto Alegre: Bookman, 2007. 965 p. 14 ex. 540 A874p 3.ed. 2007.\n2) BROWN, Lawrence S.; HOLME, Thomas A. Química geral aplicada à engenharia. São Paulo: Cengage Learning, 2009. xxiv, 653 p. 1 ex. 540 B813q 2010.\n3) BRADY, James E.; RUSSELL, Joel W.; HOLUM, John R. {\\bf Química}: a matéria e suas transformações. 3. ed. -- Rio de Janeiro : LTC, 2002. 2v. 1. ex. + 8 ex. (c1986). 540 B812q 3. ed. 2002.\n4) BROWN, Theodore L. et. al. {\\bf Química}: a ciência central. 9. ed. São Paulo : Pearson Prentice Hall, 2005. 972 p. 28 ex. 540 Q6 9.ed. 2005\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:30 - 15:30",
+        "professor": "MAIRA REGINA RODRIGUES MAGINI"
+       },
+       {
+        "dia": "Sex",
+        "hora": "13:30 - 15:30",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCGZ50",
+      "Nome": "Ativ Curricular Extensão Enc",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "0",
+      "Extensão": "442",
+      "Informação": {
+       "Info": "Atuação em ações de extensão registradas na Pró-Reitoria de Extensão da UFRJ, como programas, projetos, cursos de extensão e eventos, coordenados por docentes do quadro permanente ou técnicos da carreira de nível superior na UFRJ. Para eventos, a atuação deverá ser na organização ou na realização do evento. Para cursos, a atuação deve ser na organização ou ministrando aulas.\n___ BIBLIOGRAFIA BÁSICA ___\nBibliografia recomendada pelo Coordenador da atividade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG110",
+      "Nome": "Introdução à Engenharia",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Engenharia: história; papel social. Formação: atributos, ética. Campos de atuação. Ciência e Pesquisa.Tecnologia e Técnica. Cultura e Ambiente. Qualidade. Estudo e aprendizado. Pesquisa: descoberta e invenção. Modelos. Propriedade intelectual. Simulação, projeto e manufatura assistidos por computador. Projeto: metodologia; estudos preliminares; soluções alternativas; viabilidade; decisão. Projeto básico: unidades; dimensionamento; normas; especificação. Projeto executivo. Execução. Gestão, prazos, custos. Relatórios técnicos; apresentação gráfica.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "13:30 - 15:30",
+        "professor": "ANSELMO LEAL CARNEIRO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG113",
+      "Nome": "Física Experimental I",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Medição e expressão de valores medidos. Introdução ao tratamento estatístico de dados. Erros. Representação gráfica. Cinemática e dinâmica da partícula. Energia. Momento Linear. Momento angular. Leis de conservação. Colisões. Corpo Rígido.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "13:30 - 15:30",
+        "professor": "ELVIS OSWALDO LOPEZ MEZA"
+       }
+      ],
+      "Requisitos": [
+       "MCG112(C)MCG112=FIT112"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG115",
+      "Nome": "Cálculo I",
+      "Créditos": "6.0",
+      "Teórica": "90",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Funções; Limites; Continuidade; Cálculo e Aplicação das Derivadas; A Integral Definida; Técnicas de integração: Logaritmo e Exponencial; Aplicações de integrais definidas; Integral Imprópria.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "15:30 - 17:30",
+        "professor": "JEFFERSON RIBEIRO NOGUEIRA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "15:30 - 17:30",
+        "professor": ""
+       },
+       {
+        "dia": "Sex",
+        "hora": "15:30 - 17:30",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG118",
+      "Nome": "Química Experimental",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução ao laboratório químico. Solubilidade. Separações. Determinação de massa molecular. Estequiometria. Reações metatéticas. Reações de oxi-redução. Eletrólise. Cinética. Equilíbrio. Coloides. Soluções. Controle e tratamento de água.\n___ BIBLIOGRAFIA BÁSICA ___\n1) INMETRO - Instituto Nacional de Metrologia, Normalização e Qualidade Industrial. SI : Sistema Internacional de Unidades. 3. ed. Duque de Caxias (RJ) : INMETRO, 1984. 72 p.\n2) MILLS, I.; CUITAS, T.; HOMANN, K.; KOLLAY, N. IUPAC?s Quantities, Units and Symbols in Physical Chemistry. Oxford : Blackwell, 1988.\n3) SILVA, Roberto R. da; ROCHA-FILHO, Romeu C. Mol : uma nova terminologia. Química Nova na Escola, n. 1, p. 12-14, 1995.\n4) MATOS, Robson Mendes. Noções Básicas de Cálculo Estequiométrico. Campinas: Editora Átomo, 2013. p. 15-16.\n5) ROCHA-FILHO, R.C.; SILVA, R.R. Sobre o uso correto de certas grandezas em Química. Química Nova, v.14, n. 4, p. 300-305, 1991.\n6) ROCHA-FILHO, R.C. Grandezas e Unidades de Medida : o Sistema Internacional de Unidades. São Paulo : Ática, 1988. 88 p.\n7) SILVA, Roberto Ribeiro da; BOCCHI, Nerilso; ROCHA FILHO, Romeu Cardozo. Introdução à Química Experimental. São Paulo : McGraw-Hill do Brasil, 1990. p. 52-54, 68-69.\n8) MORAES, ROQUE; RAMOS, MAURIVAN G. Experiências e Projetos da Química, Editora Saraiva.\n9) RÍMULO, AÍRTON. Prática de laboratório de Química Orgânica ? Cursos Emergenciais. DFQ PUC- Minas.\n10) ROGANA, EDYR; PEREIRA SEBASTIÃO A., FERREIRA, GERALDO A.L. Orgânica Experimental. Colégio Universitário da UFMG.\n11) ESPERIDIÃO, YVONE MUSSA; ALVES DE LIMA, NAÍDES. Química: dos experimentos às teorias. Editora Nacional.\n12) MACHADO, HELOÍSA; RÍMULO, AÍRTON; SABINO, CLÁUDIA. Laboratório de Química Experimental, DFQ. Cursos de Engenharia da PUC Minas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "10:00 - 12:00",
+        "professor": "ROBSON MENDES MATOS"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "2º Período": [
+     {
+      "Codigo": "MCG121",
+      "Nome": "Algorítmos e Estrutut de Dados",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Linguagens imperativas.Registros,conjuntos,apontadores e arquivos.Algoritmos de ordenação:noções básicas;eficiência.Estruturas de dados mais comuns:matrizes,listas,pilhas e árvores.Atualização,busca e ordenação em arquivos sequenciais e indexados.Técnicas de decomposição.Formas de representação.Recursão.Conjuntos:operações,representação por listas e por vetores caracterísiticos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 10:00",
+        "professor": "CARLOS AUGUSTO GARCIA ASSIS"
+       }
+      ],
+      "Requisitos": [
+       "MCG114"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG124",
+      "Nome": "Física Experimental II",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Movimento oscilatório (harmônico): simples, amortecido e forçado; Pêndulos simples e composto. Ondas mecânicas:velocidade do som, cordas vibrantes. Fluidos: densidade de líquidos e sólidos; viscosidade. Termometria e calorimetria: temperatura, capacidade calorífica; transição de fase. Conservação da energia.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "15:30 - 17:30",
+        "professor": "RICHARD JAVIER CARABALLO VIVAS"
+       }
+      ],
+      "Requisitos": [
+       "MCG113"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG126",
+      "Nome": "Programação Computacional II",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Computadores e ambientes de programação.Algoritmos.A linguagem Pascal.Estrutura de um programa.Tipos de variáveis.Comandos de atribuição,entrada e saída.Operadores e expressões.Comandos condicionais e de repetição.Funções e procedimentos.Estruturas de dados em Pascal.Manipulação de caracteres e textos.Solução de problemas diversos em Pascal.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "10:00 - 12:00",
+        "professor": "LAURA EMMANUELLA ALVES DOS SANTOS SANTANA DE OLIVEIRA"
+       }
+      ],
+      "Requisitos": [
+       "MCG114"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG120",
+      "Nome": "Álgebra Linear",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Sistemas de equações lineares e Eliminação Gaussiana. Matrizes e determinante. Espaços vetoriais Euclidianos. Geometria dos espaços vetoriais de dimensão finita. Transformações lineares. Espaços vetoriais com produto interno. Ortogonalidade e mínimos quadrados. Autovalores e autovetores. Teorema espectral. Aplicações à solução de EDOs e em Geometria Euclidiana.\n___BIBLIOGRAFIA RECOMENDADA___\n1) Anton, H.; Rorres, C.; Álgebra Linear com aplicações, 10ª edição. Editora Bookman, 2012.\n2) BOLDRINI, J. L.; Costa, S. I.; FIGUEIREDO, V. L.,WETZLER, H. G. Álgebra Linear. 3ª edição. São Paulo: Harbra, 1984.\n3) Cabral, M.; Goldfeld, P.; Curso de Álgebra Linear, Fundamentos e Aplicações. 3ª edição, 2012.\n4) Araujo, T.; Álgebra Linear: teoria e aplicações, 1ª edição. SBM, 2017.\n5) Hoffman K.; Kunze, R.; Álgebra Linear. Editora Polígono, 1976.\n6) Lang, S.; Álgebra Linear, 3ª edição. Editora Ciência Moderna.\n7) Lay, D. C.; Álgebra Linear e suas Aplicações, 5º edição. Editora LTC, 2013.\n8) Lima, E. Álgebra Linear, 9ª edição. Editora Impa, 2018.\n9) STEINBRUCH, A.; WINTERLE, P. Álgebra Linear. 1ª edição, São Paulo: Pearson Makron Books, 1995.\n10) Strang, G.; Álgebra Linear e suas Aplicações, 4ª edição. Editora Cengage, 2010.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "15:30 - 17:30",
+        "professor": "DIEGO SALAZAR GUTIERREZ"
+       },
+       {
+        "dia": "Qua",
+        "hora": "15:30 - 17:30",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG123",
+      "Nome": "Cálculo II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Equações diferenciais ordinárias de primeira ordem e equações diferenciais ordinárias de segunda ordem com coeficientes constantes. Curvas e vetores no plano. Vetores no espaço tridimensional e geometria analítica sólida: retas e planos. Cilindros e superfícies de resolução, superfícies quadráticas. Regras de cadeia, curvas de nível. Derivadas direcionais e gradientes; plano tangente e reta normal e superfície; diferencial, superfície de nível. Máximos e mínimos e multiplicadores de Lagrange.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "17:30 - 19:30",
+        "professor": "FERNANDO PEREIRA PAULUCIO REIS"
+       },
+       {
+        "dia": "Qui",
+        "hora": "17:30 - 19:30",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MCG115"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG125",
+      "Nome": "Física II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estatística dos fluidos. Viscosidade e dinâmica dos fluidos. Movimento oscilatório: harmônico simples, amortecido e forçado. Ondas mecânicas; interferência. Batimento; ondas estacionárias. Som. Termodinâmica: dilatação térmica; Calor; Leis da termodinâmica; Equação de Estado; Transição de fase; Teoria cinética dos gases; Introdução à mecânica estatística do equilíbrio.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:30 - 15:30",
+        "professor": "BERNARDO MATTOS TAVARES"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:30 - 15:30",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MCG112"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG127",
+      "Nome": "Sistemas Projetivos",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Sistemas de Projeção;Sistema de Monge.Métodos Descritivos.Seções planas.Vistas Ortográficas:cortes;seções.Axometria:perspectivas isométricas e oblíqua.Aplicações.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "10:00 - 12:00",
+        "professor": "MARCELO DOS SANTOS MAGALHAES"
+       },
+       {
+        "dia": "Qui",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "3º Período": [
+     {
+      "Codigo": "MCG231",
+      "Nome": "Física III",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estrutura elétrica da matéria: carga elétrica, condutores e dielétricos. Lei de Coulomb. Campo elétrico, potencial elétrico e energia eletrostática. Lei de Gauss. Corrente elétrica, capacitores e circuitos. Campo magnético, leis de Ampere e Bio-Savart. Indutância, Lei de Faraday. Circuitos de corrente alternada. Ondas eletromagnéticas, equações de Maxwell.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:30 - 15:30",
+        "professor": "HABIB SALOMON DUMET MONTOYA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:30 - 15:30",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MCG112",
+       "MCG123"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG233",
+      "Nome": "Física Experimental III",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Aparelhos de medidas elétricas. Elemento de circuito: Resistores, Capacitores e Indutores. Circuitos de corrente contínua. Circuito RC. Leis de Ampere, Faraday e Lenz. Propriedades magnéticas da matéria, histerese. Tensões e correntes alternadas: circuito RLC, oscilações eletromagnéticas. Conservação da energia.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "15:30 - 17:30",
+        "professor": "ANTONIO CANDIDO DE CAMARGO GUIMARAES JUNIOR"
+       }
+      ],
+      "Requisitos": [
+       "MCG123(C)",
+       "MCG124"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG236",
+      "Nome": "Probabilidade e Estatística",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A incerteza na Engenharia. Representação Estatística. Estatística Descritiva. Teoria da Probabilidade. Variáveis aleatórias. Vetores aleatórios. Estimação de parâmetros. Testes de hipóteses. Análise de Variância. Regressão Linear.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "10:00 - 12:00",
+        "professor": "MARCIO JOSE DE MEDEIROS"
+       },
+       {
+        "dia": "Sex",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MCG115"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG230",
+      "Nome": "Desenho Computacional",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Sistema de desenho por computador. Interface. Sistemas de Coordenadas. Organização de desenhos em camadas. Criação, modificação e visualização de modelos bi e tridimensionais. Normas técnicas. Representação gráfica de projetos. Aplicações.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "15:30 - 17:30",
+        "professor": "MARCELO DOS SANTOS MAGALHAES"
+       }
+      ],
+      "Requisitos": [
+       "MCG127"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG232",
+      "Nome": "Engenharia e Sustentabilidade",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Interação entre humanos e o ambiente natural. Balanço de massa e balanço de energia; mudança climática. Resíduos. Ação do homem sobre os ecossistemas terrestres - erosão, queimadas, desmatamentos, poluição do solo, práticas agrárias danosas , hídricos - poluição, eutroficação -  e sobre a atmosfera. Reversão e ações mitigadoras; controle de poluição. Ciclos de vida e ciclos econômicos. Modelos e projeções: integração de conceitos e avaliação do impacto ambiental.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "13:30 - 15:30",
+        "professor": "BEATRIZ ROHDEN BECKER"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG234",
+      "Nome": "Cálculo III",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Definição de integrais duplas e integrais triplas. Jacobiano em R2 e R3. Mudança de variável na integral dupla e na integral tripla. Integral de linha de plano: teorema de Green e campos conservativos. Parametrização de curvas no R3. Integral de linha no espaço. Integrais de superfície. Teorema de Gauss. Teorema de Stokes e independência de caminho.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MCG123"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG237",
+      "Nome": "Técnicas e Métodos de Medição",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Observação e medição de variáveis físicas: deslocamento; velocidade; aceleração; força; tensão; deformação; torque; fluxo mássico; temperatura; fluxo de calor. Princípios de transdução. Circuitos de medidas; sensores. Transformada de Fourier; ajuste a funções lineares e não lineares. Análise de incerteza; função de densidade de probabilidade, estatística. Identificação de sistemas. Experimentação auxiliada por computador. Relatos técnicos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "15:30 - 17:30",
+        "professor": "JOAO CARLOS SANT ANNA DA SILVA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "4º Período": [
+     {
+      "Codigo": "MCG241",
+      "Nome": "Sistemas de Informação",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Classificação; tipos de sistemas de informação. Desenvolvimento de sistemas, projeto de bancos de dados; modelo entidades-relacionamentos. Modelo relacional; normalização. Ambientes de desenvolvimento. Diagrama de fluxo de dados; dicionário de dados. Gestão de banco de dados relacionais. Aplicação de sistemas de informação na gerencia de sistemas de produção.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "10:00 - 12:00",
+        "professor": "CARLOS AUGUSTO GARCIA ASSIS"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG243",
+      "Nome": "Cálculo Numérico",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Erro, aproximação. Regressão estatística; ajuste de curvas. Zeros de funções; splines; interpolação. Métodos de solução de quação lineares e não-lineares; sistemas lineares; equações diferenciais ordinárias. equações parciais. Aplicações: mecânica dos sólidos; equação da difusão; mecânica dos fluidos, transferência de calor e massa.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "15:30 - 17:30",
+        "professor": "FELIPE DE MEDEIROS SALES"
+       },
+       {
+        "dia": "Qua",
+        "hora": "15:30 - 17:30",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MCG114",
+       "MCG120",
+       "MCG123"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG246",
+      "Nome": "Fundamentos da Eletrônica",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Circuitos elétricos. Circuitos de correntes continua e alternada em regime permanente . Aparelhos de medição. Componentes elétricos. transformadores. Máquinas de corrente continua, indução e síncrona. Circuito eletrônico. Diodos transitores, tiristores, circuitos integrados; circuitos lógicos. Aplicações.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "15:30 - 17:30",
+        "professor": "ELLEM PATRICIA DOS SANTOS"
+       },
+       {
+        "dia": "Qui",
+        "hora": "15:30 - 17:30",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MCG231"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG353",
+      "Nome": "Estrut e Prop dos Materiais",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Propriedades. Ligações químicas. Cristalinidade. Materiais amorfos. Direções e planos cristalinos. Polimorfismo. Desordem atômica. Cristais. Defeitos pontuais. Defeitos de linha. Escoamento plástico em cristais. Contornos de grão e policristais. Fases metálicas. Diagrama Fe-C. Endurecimento e encruamento. Fundamentos de elasticidade. Propriedades mecânicas; limite de escoamento. Materiais metálicos, cerâmicos, poliméricos, compósitos. Análise de falhas. Tratamento térmico. Corrosão. Soldagem.\n",
+       "BibliografiaBasica": "1) CALLISTER, William D. . Ciência e engenharia de materiais: uma introdução. Rio de Janeiro: LTC , 2008;\n2) COPAERT, Hulbertus, Metalografia dos Produtos Siderúrgicos Comuns, 4ª edição revista e atualizada por André Luiz V. da Costa e Silva, Editora Blucher, São Paulo, 2008.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "15:30 - 17:30",
+        "professor": "NECESIO GOMES COSTA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MCG117"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG240",
+      "Nome": "Física IV",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Luz. Ondas eletromagnéticas. Interferência, difração, polarização. Noções da relatividade restrita. Física Moderna. Efeitos fotoelétrico e Compton. Átomo de hidrogênio. Difração de elétrons. Função de onda. Equação de Schrodinger. Princípio da incerteza.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:30 - 15:30",
+        "professor": "ANTONIO CANDIDO DE CAMARGO GUIMARAES JUNIOR"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:30 - 15:30",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MCG125",
+       "MCG231"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG242",
+      "Nome": "Cálculo IV",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Equações diferenciais lineares ordinárias de segunda ordem com coeficientes variáveis: soluções por série; ponto ordinário; ponto regular. Série de Fourier: oscilação; amortecimento; ressonância. Transformada de Laplace: convolução; função delta. Problemas de valores de contorno e teoria de Sturm-Liouville. equações diferenciais parciais clássicas: onda; calor.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:30 - 15:30",
+        "professor": "DIEGO SALAZAR GUTIERREZ"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:30 - 15:30",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MCG123"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG245",
+      "Nome": "Estática dos Sólidos",
+      "Créditos": "6.0",
+      "Teórica": "90",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estática: Redução de sistemas de forças, equilíbrio, estruturas, centro de massa e gravidade, centroides e atrito. Sistemas e elementos estruturais. Equações de equilíbrio da estática. Estruturas reticuladas, graus de liberdade e restrições. Estruturas isostáticas, hipostáticas e hiperestáticas. Instabilidade geométrica. Cargas e reações. Esforços internos, estado de tensão, força e momento. Trabalhos virtuais. Momento de inércia. Deformação e deslocamento. Sistemas equivalentes. Linhas de estado: hastes, vigas, pórticos, grelhas, arcos isostáticos e Vigas Gerber. Binários. Sistemas reticulados (treliças). Linhas de influência. Cabos flexíveis.\n___ BIBLIOGRAFIA BÁSICA ___\n1- SUSSEKIND, J. C. Curso de análise estrutural. 11. ed. Porto Alegre : Rio de Janeiro: Globo, 1994. 3 v.\n2- BEER, Ferdinand P.; JOHNSTON, E. Russel. Mecânica vetorial para engenheiros: estática. 9. ed. São Paulo : Mc Graw Hill, 2012. 626 p.\n3- HIBBELER, R,C. Estática: mecânica para engenharia. 12. ed. São Paulo : Pearson, 2011. 512 p.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 10:00",
+        "professor": "BRUNO BARZELLAY FERREIRA DA COSTA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 10:00",
+        "professor": ""
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 10:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MCG112"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG247",
+      "Nome": "Circuito Eletro-eletrônicos",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Multímetros; Amperímetros e Voltímetros; Aquisição de sinais; osciloscópio digital. Pontes de Wheatstone; Indutores e indutância; medida de parâmetros L e C; Medidas de capacitores Eletrolíticos; análise de Fourier de sinais periódicos; Instrumentação virtual; medidas de resistência de terra; medida de potência e fator de potência; circuito retificadores. Fontes de tensão e corrente. Polarização de transitores. transistor para chaveamento de potencia.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "17:30 - 19:30",
+        "professor": "ELLEM PATRICIA DOS SANTOS"
+       }
+      ],
+      "Requisitos": [
+       "MCG233"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "5º Período": [
+     {
+      "Codigo": "MCG351",
+      "Nome": "Fenom Difus Massa Mom e Energ",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conservação de massa. Teorema do transporte. equação da continuidade. Tensor tensão. Fluido Newtoniano. Escoamento laminar. Conservação do momentum. escoamento interno. Lei de Fourier. Conservação da energia. Condução em sólidos. Lei de Fick. Conservação de massa em meios multicomponentes. Difusão de Sólidos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "15:30 - 17:30",
+        "professor": "LUCAS DE OLIVEIRA ALVES"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:30 - 15:30",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MCG125"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG364",
+      "Nome": "Geomecânica",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução ao estudo da Geologia; Origem e formação da Terra; Minerais; Rochas; Rochas magmáticas; Intemperismo; Rochas sedimentares; Rochas metamórficas; Solos; Uso das rochas e dos solos como material de construção e material industrial; Elementos estruturais das rochas; Investigação do subsolo; Mapas geológico e geotécnicos; Águas subterrâneas; Águas superficiais; Ação das águas subterrâneas e superficiais na crosta da Terra; Introdução ao estudo de Geologia em obras de engenharia.\n___ BIBLIOGRAFIA BÁSICA ___\n1- CHIOSSI, N. J. Geologia de engenharia. 3. ed. São Paulo : Oficina de Textos, 2013. 424 p.\n2- ERNESTRO, M.; MARQUES, L. S.; MCREATH, I.; USSAMI, N.; PACCA, I. I. G. (2009). O Interior da Terra. In: TEIXEIRA, W. et al. (Org.). Decifrando a terra. 2. ed. São Paulo: Ed. Nacional, 2009. 623 p.\n3- ALMEIDA, F. F. M.; RIBEIRO, A. C. O. (1998). A terra em transformação. In: OLIVEIRA, A. M. S.; BRITO, S. N. A. (Ed.). Geologia de engenharia. São Paulo: ABGE, 586 p.\n- As notas de aulas a serem fornecidas durante o curso.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "15:30 - 19:30",
+        "professor": "GISELE SILVA BARBOSA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG401",
+      "Nome": "Desenho Técn Aplic à Eng CIVIL",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Instrumental básico para desenho técnico, com aplicação em projetos de engenharia e arquitetura; Escalas; Cotagem; Noções de vistas Ortográficas e Isometria; Planta baixa; planta de cobertura; cortes; fechadas; plantas de orientação, situação e locação; escadas; elevações; desenho de elementos de instalações prediais. Desenho de Elementos Estruturais.\n___ BIBLIOGRAFIA BÁSICA ___\n1- MONTENEGRO, Gildo A. Desenho arquitetônico. 4. ed. São Paulo: Edgard Blücher, 2001. 167 p.\n2- CHING, Francis D. K. Representação gráfica em arquitetura. 5. ed. Porto Alegre: Bookman, 2011. 256 p.\n3- SILVA, Arlindo. Desenho técnico moderno. 4. ed. Rio de Janeiro: LTC, 2004. 475 p.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 12:00",
+        "professor": "MONIQUE AMARO DE FREITAS ROCHA NASCIMENTO"
+       }
+      ],
+      "Requisitos": [
+       "MCG230"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG244",
+      "Nome": "Topografia",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Forma e dimensões da Terra. Relevo. Medições de ângulo e distâncias. Planimetria e altimetria. Instrumentos de topografia. Métodos de levantamento topográfico de baixa, média e alta precisão. Implantação e locomoção de projetos e obras. Plano topográfico. Nivelamento geométrico, trigonométrico e taqueométrico. Cartas topográficas. Orientação magnética e verdadeira. Áreas e volumes. Noções de aerofotogrametria. Procedimentos topográficos especiais.\n___ BIBLIOGRAFIA BÁSICA___\n1- TULER, Marcelo; SARAIVA, Sérgio. Fundamentos de Topografia. Série Tekne; Porto Alegre: Bookman, 2014.\n2- CAMPOS, B. A. Topografia Aplicada à Engenharia Civil ? Vol. I. 3ª Ed. São Paulo: Edgard Blucher, 2013.\n3- CAMPOS, B. A. Topografia Aplicada à Engenharia Civil ? Vol. II. 3ª Ed. São Paulo: Edgard Blucher, 2013.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:30 - 18:30",
+        "professor": "GISELE SILVA BARBOSA"
+       }
+      ],
+      "Requisitos": [
+       "MCG230(C)MCG230=EEG301"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG355",
+      "Nome": "Resistência dos Materiais I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estado triplo de tensões principais e critérios de resistência. Compatibilidade geométrica. Equilíbrio relações constitutivas e escoamento do material.Tração, compressão, cisalhamento e torção. Membranas. Relação momento-rotação. Superposição. Tensões na flexão em vigas. Vigas sob carregamento. Tensão de cisalhamento. Tensões combinadas. círculo de Mohr. Resistência em estados multi-axiais de tensões. Tensões residuais. Esforços combinados. deformações permanentes. Energia de deformação.\n___ BIBLIOGRAFIA BÁSICA ___\n1- BEER, Ferdinand P.; JOHNSTON, E. Russel. Resistência dos materiais. 3. ed. São Paulo: Makron Books, 1995. 1255 p.\n2- HIBBELER, R,C. Resistência dos materiais. 7. ed. São Paulo : Pearson, 2010. 641 p.\n3- RILEY, W.F.; STURGES, L. D.; MORRIS, D. H. Mecânica do materiais. 5. ed. Rio de Janeiro : LTC, 2003. 612 p.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:30 - 15:30",
+        "professor": "MARCELO COSTA CARDOSO"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:30 - 15:30",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MCG245"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG365",
+      "Nome": "Materiais de Construção",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Propriedades gerais dos materiais. Métodos de ensaio, especificações e normas de execução. Controle da qualidade. Laboratórios, máquinas e equipamentos. Novos materiais e materiais não convencionais. Normalização nacional e internacional. Noções de Ciência dos Materiais. Principais materiais utilizados na construção: agregados, aglomerantes, argamassas, concretos, madeiras, materiais cerâmicos, materiais metálicos, plásticos, vidros, tintas e vernizes. Introdução à tecnologia básica do concreto: Conceitos, materiais componentes e dosagem.\n___ BIBLIOGRAFIA BÁSICA ___\n1- BAUER, Falcão A. L., Materiais de Construção. Vol. 1. Editora Livros Técnicos e Científicos ? LTC, 5ª Edição.\n2- BAUER, Falcão A. L., Materiais de Construção. Vol. 2. Editora Livros Técnicos e Científicos ? LTC, 5ª Edição.\n3- AMBROZEWICS, Paulo H. L., Materiais de Construção ? Normas, Especificações, Aplicação e Ensaios de Laboratório. Editora PINI, 1ª Edição.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 10:00",
+        "professor": "JULIANA CORREA TRINDADE LEITE"
+       },
+       {
+        "dia": "Qui",
+        "hora": "10:00 - 12:00",
+        "professor": "Não Informado"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 12:00",
+        "professor": "JULIANA CORREA TRINDADE LEITE"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "6º Período": [
+     {
+      "Codigo": "MCG362",
+      "Nome": "Análise de Estruturas",
+      "Créditos": "6.0",
+      "Teórica": "90",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Concepção estrutural. Modelos estruturais, equilíbrio e compatibilidade. Simetria e antissimetria. Princípio dos trabalhos virtuais e princípio da carga unitária. Superposição dos efeitos, comportamento linear. Deslocamento em estruturas hiperestáticas. Método das forças. Equações de compatibilidade de deslocamentos. Influência dos esforços normal e cortante. Recalque de apoio, efeitos de temperatura e de deformação imposta. Álgebra matricial. Método dos deslocamentos. Distribuição de momentos. Cargas móveis em estruturas isostáticas e hiperestáticas: linhas de influência e envoltória de esforços. Método de Cross. Vigas contínuas, pórticos planos, treliças e grelhas. Programas computacionais para análise estrutural.\n___ BIBLIOGRAFIA BÁSICA ___\n1- MARTHA, L. F. Análise de estruturas: conceitos e métodos básicos. Rio de Janeiro : Elsevier, 2016. 560 p.\n2- HIBBELER, R,C. Análise das estruturas. 8.ed. São Paulo : Pearson, 2013. 544 p.\n3- SORIANO, H. L.; LIMA, S. S. Análise de estruturas: método das forças e método dos deslocamentos. 2.ed. Rio de Janeiro : Ciência Moderna, 2006. 310 p.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "13:30 - 15:30",
+        "professor": "ESDRAS PEREIRA DE OLIVEIRA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MCG355"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG405",
+      "Nome": "Instalações Prediais I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenvolvimento de projetos de instalações elétricas, de aterramento, de telefonia e lógica. Conceito de tensão elétrica, intensidade de corrente elétrica e de potência elétrica. Condutores elétricos. Comandos. Tomadas. Aterramento. Circuito. Disjuntores. Quadros elétricos. Eletrodutos. Alimentação monofásica e trifásica.\n___  BIBLIOGRAFIA BÁSICA ___\n1- CREDER, H., SEBASTIÃO, L.C. Instalações elétricas. 15. ed. Rio de Janeiro : LTC, 1991. 465 p.\n2- CAVALIN, G., CERVELIN, S. Instalações elétricas prediais: conforme norma NBR 5410:2004. 21. ed. São Paulo : Érica, 2012. 422 p.\n3- MAMEDE FILHO, João. Instalações elétricas industriais. 8. ed. Rio de Janeiro : LTC, 666 p.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "13:30 - 17:30",
+        "professor": "LEANDRO TOMAZ KNOPP"
+       }
+      ],
+      "Requisitos": [
+       "MCG231",
+       "MCG401"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG501",
+      "Nome": "Edificações I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Movimento da Terra. Instalação de obras. Locação da obra. Fundação. Supraestrutura. Alvenarias. Concretagem. Revestimentos. Pavimentação. Impermeabilizações. Esquadrias. Pintura. Instalações. Telhados. Introdução à Engenharia de Avaliações. Modernas técnicas de construção. Tipos de industrialização e modulação na construção civil.\n___ BIBLIOGRAFIA BÁSICA ___\n1- YAZIGI, W. A técnica de edificar. 6. ed. São Paulo : PINI, 2004. 770 p.\n2- ALLEN, E; IANO, J. Fundamentos da engenharia de edificações. 5 ed. Porto Alegre : Bookman, 2013. 1008 p.\n3- AZEREDO. H. A. O edifício até a sua cobertura. 2. ed. São Paulo :  Blucher, 1997. 182 p.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 12:00",
+        "professor": "MONIQUE AMARO DE FREITAS ROCHA NASCIMENTO"
+       }
+      ],
+      "Requisitos": [
+       "MCG365"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG361",
+      "Nome": "Resistência dos Materiais II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Deslocamentos em flexão. Relação momento curvatura. Técnicas de superposição. Efeitos térmicos. Flexão oblíqua. Flexão composta. Flambagem de colunas. Condições de estabilidade. Plasticidade. Flexão inelástica. Introdução ao estado triplo de tensões. Critérios de resistência baseados na energia de deformação. Fadiga. Fratura. Ruptura. Propagação de trincas de fadiga. Tenacidade à fratura. Comportamento a altas temperaturas. Torção de seções não circulares. Torção plástica. Flexão assimétrica.\n___ BIBLIOGRAFIA BÁSICA ___\n1- BEER, Ferdinand P.; JOHNSTON, E. Russel. Resistência dos materiais. 3. ed. São Paulo : Makron Books, 1995. 1255 p.\n2- HIBBELER, R,C. Resistência dos materiais. 7. ed. São Paulo : Pearson, 2010. 641 p.\n3- RILEY, W.F.; STURGES, L. D.; MORRIS, D. H. Mecânica do materiais. 5. ed. Rio de Janeiro : LTC, 2003. 612 p.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "15:30 - 17:30",
+        "professor": "MARCELO COSTA CARDOSO"
+       },
+       {
+        "dia": "Qua",
+        "hora": "15:30 - 17:30",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MCG355"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG404",
+      "Nome": "Hidráulica Geral",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Propriedades básicas dos fluidos. Estática dos fluidos. Cinemática dos fluidos. Dinâmica dos fluidos perfeitos. Dinâmicas dos fluidos reais. Resistência. Singularidade. Análise dimensional. Escoamento em condutos livres e escoamentos forçados. Hidrometria. Bombas e turbinas. Energia Hidráulica. Escoamento através de meios porosos.\n___ BIBLIOGRAFIA BÁSICA ___\n1- AZEVEDO NETTO, J.M.; FERNANDEZ, M.F.; ARAÚJO, R.; ITO, A.E. Manual de hidráulica. 8. ed. São Paulo: Edgard Blücher, 2009. 669 p.\n2- GILLES, R. V. Mecânica dos fluídos e hidráulica. São Paulo: McGraw Hill, 1978. 401 p.\n3- FOX , Robert W. et al. Introdução a mecânica dos fluidos. 8. ed. Rio de Janeiro : LTC, 2014. 871 p.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:30 - 15:30",
+        "professor": "RAFAEL MALHEIRO DA SILVA DO AMARAL FERREIRA"
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:30 - 15:30",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MCG123",
+       "MCG125"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG483",
+      "Nome": "Engenharia Econômica",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Regimes de capitalização. estrutura temporal da taxa de jurus. Taxas de jurus: nominal, efetiva, proporcional, equivalente e real. Taxa mínima de atratividade. Fluxo de caixa. Séries de pagamento: uniforme, perpétua e gradiente. Sistemas de amortização. Métodos de depreciação. Avaliação de investimentos: valor presente líquido, taxa interna de retorno, índice de rentabilidade, payback e payback descontado. Avaliação de projetos independentes e projetos mutuamente exclusivos. circunstâncias específicas de avaliação de investimentos: limitação de orçamento de capital, investimentos com horizontes temporais distintos, valor residual e perpetuidade do fluxo de caixa, custo anual equivalente. Análise de substituição de equipamentos. Múltiplos de valor de empresas. Determinação de valor em ambiente de incertezas: ponto de equilíbrio (break-even point) contábil e financeiro, análise de sensibilidade, análise de cenários e árvore de decisão.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG504",
+      "Nome": "Transporte e Logística",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Histórico dos transportes. Conceituação das variáveis associadas ao fluxo e à capacidade operacional dos diversos modos de transporte. Métodos de avaliação da capacidade de vias, áreas de manobras e pátios. Visão sistêmica do transporte hidroviário: rotas, embarcações, portos, sistemas auxiliares. Características técnicas operacionais de transporte hidroviário: marítimo e fluvial. Características técnicas operacionais do transporte ferroviário. Economia, custos e aspectos intermodais e de gerenciamento. Tecnologias de transporte urbano de carga e de passageiros. Interação transporte e uso do solo. Planejamento e operação de sistemas de transporte urbano. Transporte de massa: metrô, pré-metrô e trem urbano.\n",
+       "BibliografiaBasica": "1) HOEL, Lester A.; GARBER, Nicholas J.; SADEK, Adel W. Engenharia de infraestrutura de transportes: uma integração multimodal. São Paulo: Cengage Learning, 2011. 616 p.\n2) UTCHINSON, B.. Princípios de planejamento dos sistemas de transportes urbanos. Rio de Janeiro: Guanabara Dois, 1979.\n3) NOVAES, Antonio Galvão. Logística e gerenciamento da cadeia de distribuição. 4. ed. Rio de Janeiro : Elsevier, 2014. 424 p.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "13:30 - 15:30",
+        "professor": "CONRADO VIDOTTE PLAZA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "7º Período": [
+     {
+      "Codigo": "MCG400",
+      "Nome": "Estruturas Concreto Armado I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução às estruturas de concreto armado: conceitos, elementos e sistemas\nestruturais, histórico, vantagens e desvantagens, principais normas técnicas. Propriedades do concreto e do aço. Durabilidade. Estado Limite Último e de Serviço. Combinações de ações. O projeto arquitetônico e a definição da estrutura. Dimensionamento à flexão normal simples: seção retangular e seção T. Verificação da capacidade resistente. Dimensionamento e detalhamento de lajes nervuradas unidirecionais com vigotas pré-moldadas. Dimensionamento e detalhamento de vigas a flexão normal simples e à força cortante. Armadura de suspensão. Armadura de costura. Propriedades no estádio II e verificações no estado limite de serviço (ELS): flechas e abertura de fissuras. Detalhamento de armaduras ao longo da viga: ancoragem, decalagem do diagrama e escalonamento das armaduras.\n",
+       "BibliografiaBasica": "1) ARAÚJO, J. M. Curso de Concreto Armado. v. 1. 4 ed. Rio Grande: Dunas,\n2014;\n2) ARAÚJO, J. M. Curso de Concreto Armado. v. 2. 4 ed. Rio Grande: Dunas,\n2014;\n3) CARVALHO, R. C.; FIGUEIREDO, J. R. Cálculo e detalhamento de estruturais usuais de concreto armado segundo a NBR 6118:2014. 4 ed. São Carlos: Edufscar, 2014.\n",
+       "BibliografiaComplementar": "1) ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR 6118: projeto de\nestruturas de concreto ? procedimento. Rio de Janeiro, 2014;\n2) ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR 6120: Ações\npara o cálculo de estruturas de edificações. Rio de Janeiro, 2019;\n3) INSTITUTO BRASILEIRO DO CONCRETO (IBRACON). Comentários e Exemplos de Aplicação da ABNT NBR 6118:2014. 1 ed. São Paulo: IBRACON, 2015;\n4) KIMURA, A. E.; PARSEKIAN, G. A.; ALMEIDA, L. C.; SANTOS, S. H. C.;\n5) BITTENCOURT, T. N. Estruturas de concreto armado. v 1. 1 ed. São Paulo:\nIBRACON, 2022.\n5) ARAÚJO, J. M. Projeto Estrutural de Edifícios de Concreto Armado. 3 ed. Rio\nGrande: Dunas, 2014;\n6) FUSCO, P. B. Estruturas de Concreto: Solicitações Tangenciais. 1 ed. São\nPaulo: Pini, 2008;\n7) FUSCO, P. B. Técnica de armar as estruturas de concreto, 2 ed. São Paulo:\nPini, 2013;\n8) FUSCO, P. B.. Estruturas de Concreto ? Solicitações Normais. 1 ed. Rio de\nJaneiro: Livros Técnicos e Científicos Editora, 1981;\n9) LEONHARDT, F. Construções de Concreto. v.1 2 reimpr. Rio de Janeiro: Interciência, 2008;\n10) LEONHARDT, F. Construções de Concreto. v.4 1 ed. Rio de Janeiro: Interciência, 1979.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "15:30 - 17:30",
+        "professor": "ANSELMO LEAL CARNEIRO"
+       },
+       {
+        "dia": "Sex",
+        "hora": "15:30 - 17:30",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MCG361",
+       "MCG362",
+       "MCG501"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG403",
+      "Nome": "Estradas I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O traçado de uma rodovia. Elementos básicos para o projeto. Curvas horizontais circulares. Curvas horizontais com transição. Seção transversal. Superelevação e superlargura. Perfil longitudinal. Projeto de terraplenagem. Projeto de Drenagem.\n___  BIBLIOGRAFIA BÁSICA ___\n1- SHU, H. L. Introdução ao projeto geométrico de rodovias. Florianópolis : Ed. Da UFSCAR, 2002. 418 p. (Série didática).\n2- BOTELHO, C.H. MANOEL. Águas de chuva: engenharia das águas pluviais nas cidades. 3. ed. São Paulo : Blucher, 2011. 300 p.\n3- ANTAS, Paulo Mendes et al. Estradas: projeto geométrico e de terraplenagem. Rio de Janeiro: Interciência, 2010. 282 p.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:30 - 15:30",
+        "professor": "CONRADO VIDOTTE PLAZA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:30 - 15:30",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MCG504"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG409",
+      "Nome": "Instalações Prediais II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenvolvimento de projetos de instalações prediais de água fria, água quente, esgoto sanitário, sistemas preventivos contra incêndio, esgotamento pluvial, GLP, drenagem e de sistemas de reaproveitamento de água.\n___ BIBLIOGRAFIA BÁSICA ___\n1- CREDER, H. Instalações hidráulicas e sanitárias. 5. ed. Rio de Janeiro: LTC, 2007. 428 p.\n2- BOTELHO, M. H. C.; RIBEIRO JUNIOR, G. A. Instalações hidráulicas prediais: usando tubos de PVC e PPR. 3. ed. São Paulo: Blucher, 2010. 344 p.\n3- CARVALHO JÚNIOR, R. Instalações hidráulicas e o projeto de arquitetura. 4. ed. São Paulo: Blucher, 2011. 292 p.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "13:30 - 15:30",
+        "professor": "MONIQUE AMARO DE FREITAS ROCHA NASCIMENTO"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:30 - 15:30",
+        "professor": "LEANDRO TOMAZ KNOPP"
+       },
+       {
+        "dia": "Sex",
+        "hora": "17:30 - 19:30",
+        "professor": "MONIQUE AMARO DE FREITAS ROCHA NASCIMENTO"
+       },
+       {
+        "dia": "Sex",
+        "hora": "17:30 - 19:30",
+        "professor": "LEANDRO TOMAZ KNOPP"
+       }
+      ],
+      "Requisitos": [
+       "MCG404",
+       "MCG405"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG510",
+      "Nome": "Edificações II",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução à Logística na Construção Civil. Histórico do desperdício na construção; causas do desperdício; impacto do desperdício nos custos das edificações; indicadores de perdas; instrumentos de medição e/ou quantificação do desperdício; instrumentos de controle do desperdício; diretrizes para a implantação de uma política de redução de perdas. Técnicas para concretagem de grandes maciços. Técnicas de protensão. Muros de arrimo. Reservatórios. Silos, Pontes, Barragens, Usinas Atômicas. Túneis. Aeroportos, pavilhões industriais, escolas, hospitais, hotéis (tipos de projetos, instalações, normas). Introdução à Patologia das Construções.\n___  BIBLIOGRAFIA BÁSICA ___\n1- SOUZA, U. E. L. Como Reduzir Perdas nos Canteiros. Ed. PINI, 1ª Edição. São Paulo, 2008.\n2- VIEIRA, H. F. Logística Aplicada à Construção Civil. Ed. PINI. São Paulo, 1989.\n3- THOMAZ, E. Trincas em Edifícios ? Causas, Prevenção e Recuperação. Ed. PINI, 1ª Edição, 2002.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "17:30 - 20:30",
+        "professor": "LEANDRO TOMAZ KNOPP"
+       }
+      ],
+      "Requisitos": [
+       "MCG501"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG363",
+      "Nome": "Hidrologia Geral",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A água na Natureza; Hidrometeorologia. Ciclo hidrológico. Bacia hidrográfica. Escoamento superficial. Pluviologia. Evaporação. Infiltração. Fluviologia. Transporte sólido. Água subterrânea. Enchentes e estiagens; reservatório de regularização. Estação hidrosedimentológica. Modelos de previsão. Modelos de simulação: métodos racional; Hidrógrafa Unitária.\n___  BIBLIOGRAFIA BÁSICA ___\n1- PINTO, N. L. S. et al. Hidrologia básica. São Paulo : Edgard Blücher, 1976. 278 p.\n2- TUCCI, C. E. M. Hidrologia: ciência e aplicação. Porto Alegre : ABRH, UFRGS, 1993. 943 p.\n3- VILLELA, S. M.; MATOS, A. Hidrologia aplicada. São Paulo : McGraw-Hill, 1978. 245 p.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "15:30 - 17:30",
+        "professor": "RAFAEL MALHEIRO DA SILVA DO AMARAL FERREIRA"
+       },
+       {
+        "dia": "Ter",
+        "hora": "15:30 - 17:30",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MCG236"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG402",
+      "Nome": "Engenharia Portuária Costeira",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Hidrodinâmica das ondas do mar; Marés e correntes; Processos litorâneos; Estuários; Hidráulica fluvial;  Introdução ao sistema aquaviário; Atividade portuária no Brasil; Tipos de portos e terminais de carga; Obras portuárias. Arranjo geral, canais de acesso, bacia de evolução, obras de abrigo e de acostagem. Obras portuárias internas. Política e gerenciamento de portos; Obras de defesa de costa. Obras longitudinais, espigões, quebra-mares e guia-correntes. Engordamento de praias; Obras hidroviárias e estuarinas;  Aspectos ambientais da gestão costeira e portuária. Áreas de dragagem e bota-fora. Emissários submarinos. Vazamentos de óleo.\n___  BIBLIOGRAFIA BÁSICA ___\n1- ALFREDINI, Paolo; ARASAKI, Emilia. Obras e gestão de portos e costas. 2. ed. São Paulo : Blucher, 2009. 776 p.\n2- BORGO, Maximo. Elementos de engenharia portuária. São Paulo : Flor e Cultura, 2008.\n3- USACE - U.S. Army Corps of Engineers. Coastal engineering manual (CEM). Department of the Army. Washington, DC 20313-1000. 2001. Disponível em:\n. Acesso em: 24 abr. 2017.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "17:30 - 19:30",
+        "professor": "RAFAEL MALHEIRO DA SILVA DO AMARAL FERREIRA"
+       }
+      ],
+      "Requisitos": [
+       "MCG240",
+       "MCG242"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG406",
+      "Nome": "Mecânica dos Solos I",
+      "Créditos": "5.0",
+      "Teórica": "75",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Origem e formação dos solos; O estado do solo; Classificação dos solos; Compactação dos solos; Tensões nos solos - Capilaridade; Água no solo - permeabilidade, fluxo unidimensional e tensões de percolação; Fluxo bidimensional; Tensões verticais devidas a cargas aplicadas na superfície do terreno; Deformações devidas a carregamentos verticais; Adensamento unidimensional.\n___  BIBLIOGRAFIA BÁSICA ___\n1- FERNANDES, M. de M. Mecânica dos solos. São Paulo : Oficina de Textos, 2016. v. 1: conceitos e princípios fundamentais.\n2- FERNANDES, M. de M.. Mecânica dos solos. São Paulo: Oficina de Textos, 2016. v. 2: introdução à engenharia geotécnica.\n3- PINTO, C. de S. Curso básico de mecânica dos solos, em 16 aulas. 3. ed. Com exercícios resolvidos. São Paulo: Oficina de Textos, 2006. 355 p.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "17:30 - 20:30",
+        "professor": "MAURICIO DO ESPIRITO SANTO ANDRADE"
+       },
+       {
+        "dia": "Sex",
+        "hora": "13:30 - 15:30",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MCG364"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG509",
+      "Nome": "Estruturas de Madeira",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Propriedades mecânicas da madeira e fatores que influenciam nas propriedades. Produtos de madeira e sistemas estruturais. Critérios normativos: combinações e flechas. Ligações de peças estruturais: pinos, pregos, parafusos, cavilhas, anéis metálicos, entalhe e tarugo. Peças tracionadas. Vigas: critérios de cálculo, flambagem lateral, cisalhamento e vigas compostas. Peças comprimidas: flambagem por flexão, compressão simples e flexo-compressão, esbeltez, critérios de resistência e estabilidade, sistemas de contraventamento, peças compostas. Vigas treliçadas.\n___  BIBLIOGRAFIA BÁSICA ___\n1- PFEIL, W; PFEIL, M. Estruturas de Madeira. Editora Livros Técnicos e Científicos ? LTC. 6ª Edição.\n2- ALVES DIAS, A.; CALIL JÚNIOR, Carlito; LAHR, F. A. R. Dimensionamento de Elementos Estruturais de Madeira; São Paulo: Manole, 2003.\n3-  MOLITERNO, Antonio. Caderno de Projetos de Telhados em Estruturas de Madeira 2ª ed. São Paulo, Editora Edgard Blucher Ltda., 1997.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "15:30 - 17:30",
+        "professor": "ESDRAS PEREIRA DE OLIVEIRA"
+       }
+      ],
+      "Requisitos": [
+       "MCG361",
+       "MCG362"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "8º Período": [
+     {
+      "Codigo": "MCG503",
+      "Nome": "Estruturas Metálicas I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estruturas metálicas: aplicações. Obtenção do aço, propriedades físicas, comportamento tensão-deformação, produtos comerciais; aplicações. Ações e segurança nas estruturas de aço. Barras submetidas à tração: escoamento da seção bruta, ruptura da seção líquida efetiva, barras compostas. Barras submetidas à compressão: Instabilidade global, instabilidade local, barras compostas. Barras submetidas à flexão simples: mecanismo plástico e instabilidades sob momento fletor e sob força cortante, estados limites de serviço. Barras submetidas à flexão composta. Ligações parafusadas. Ligações soldadas. Sistemas estruturais de edifícios de múltiplos andares. Edifícios industriais: sistemas estruturais,  análise estrutural e dimensionamento dos pilares, bases dos pilares, tesouras, terças, longarinas; contraventamentos.\n___  BIBLIOGRAFIA BÁSICA ___\n1- PFEIL, W.; PFEIL, M. Estruturas de aço: dimensionamento prático. 8.ed. Rio de Janeiro: LTC, 2009. 357 p.\n2- BELLEI, Ildony Hélio. Edifícios industriais em aço: projeto e cálculo. 4. ed. São Paulo: PINI, 2003. 490 p.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "13:30 - 17:30",
+        "professor": "ESDRAS PEREIRA DE OLIVEIRA"
+       }
+      ],
+      "Requisitos": [
+       "MCG361",
+       "MCG362"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG507",
+      "Nome": "Saneamento Ambiental",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução à disciplina. Parâmetros de Qualidade da Água e Padrões de Potabilidade. Enquadramento de corpos de água (Resolução CONAMA nº 357/2005). Doenças de veiculação hídrica. Corpos receptores: critérios de qualidade, padrões de lançamentos de efluentes (Resolução CONAMA nº 430/2011). Preservação de corpos d'água. Sistemas de Abastecimento de Água (componentes e dimensionamento). Tratamento de Água de Abastecimento. Sistemas de Esgotamento Sanitário. Tratamento de Esgoto Sanitário. Resíduos Sólidos. Política Nacional de Resíduos Sólidos (Lei no 12.305/2010). Aterro Sanitário. Drenagem Urbana. Micro e macrodrenagem.\n___  BIBLIOGRAFIA BÁSICA ___\n1- DI BERNARDO, L.; DI BERNARDO, A. Métodos e técnicas de tratamento de água. 2. ed. São Carlos : RIMA, 2005. 1566 p.\n2- TSUTIYA, M. T. Abastecimento de água. 4. ed. São Paulo: Universidade de São Paulo, Escola Politécnica , Departamento de Engenharia Hidráulica e Saneamento, 2013. 643 p.\n3- NUVOLARI, A. Esgoto sanitário: coleta, transporte, tratamento e reúso agrícola. São Paulo: Edgard Blücher, 2003. 520 p.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "13:30 - 17:30",
+        "professor": "BEATRIZ ROHDEN BECKER"
+       }
+      ],
+      "Requisitos": [
+       "MCG363",
+       "MCG404"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG512",
+      "Nome": "Estruturas Concreto Armado II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Cálculo e detalhamento de lajes maciças e nervuradas bidirecionais. Verificação de flechas e abertura de fissuras em lajes. Escadas usuais em edifícios de Concreto Armado. Análise e dimensionamento de seções submetidas à flexo-compressão normal e flexo-compressão oblíqua. Pilares curtos, médios e esbeltos: índice de esbeltez, flambagem, efeitos de segunda ordem. Situação de projeto de pilares e disposições construtivas.\n",
+       "BibliografiaBasica": "1) ARAÚJO, J. M. Curso de Concreto Armado. 4. ed. Rio Grande: Dunas, 2014. 4\nVolumes;\n2) CARVALHO, R.C.; FIGUEIREDO FILHO, J.R. Cálculo e Detalhamento de\nEstruturas Usuais de Concreto Armado Segundo a NBR 6118:2014. 4.ed. São Carlos:\nEdUFSCar, 2014;\n3) SUSSEKIND, José Carlos - Curso de Concreto. Rio de Janeiro: Editora Globo, 1987. 2 Volumes.\n",
+       "BibliografiaComplementar": "1) FUSCO, P. B. Estruturas de Concreto: Solicitações Tangenciais. 1 ed. São Paulo:\nPini, 2008;\n2) FUSCO, P. B. Estruturas de Concreto ? Solicitações Normais. 1 ed. Rio de Janeiro:\nLivros Técnicos e Científicos Editora, 1981;\n3) FUSCO, P. B. Técnica de armar as estruturas de concreto. 1 ed. São Paulo: Pini,\n1995;\n4) LEONHARDT, F; MONNIG, E. Construções de Concreto. 1.ed. Rio de Janeiro:\nInterciência, 1979;\n5) INSTITUTO BRASILEIRO DO CONCRETO (IBRACON). Comentários e Exemplos\nde Aplicação da ABNT NBR 6118:2014. 1 ed. São Paulo: IBRACON, 2015.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MCG362(C)",
+       "MCG400"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG474",
+      "Nome": "Gestão de Projetos",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceitos básicos de gerenciamento de projeto. Ciclo de vida de projeto. organização para projeto. Áreas de conhecimento de projetos segundo o PMI. Programação temporal de projetos. ferramentas de apoio no gerenciamento de projetos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:30 - 15:30",
+        "professor": "RICARDO FRANCA SANTOS"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:30 - 15:30",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG505",
+      "Nome": "Mecânica dos Solos II",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Princípios das tensões efetivas (revisão); Estado de tensões e critério de ruptura; Carregamento; Comportamento; Resistência ao cisalhamento das areias; Resistência ao cisalhamento dos solos argilosos; Resistência não drenada das argilas; Investigações geotécnicas de campo; Empuxo de terra; Estabilidade de taludes; Obras de contenção; Introdução ao estudo de rebaixamento de lençol d´água; Introdução ao estudo de barragens de terra.\n___  BIBLIOGRAFIA BÁSICA ___\n1- FERNANDES, M. de M. Mecânica dos solos. São Paulo : Oficina de Textos, 2016. v. 1: conceitos e princípios fundamentais.\n2- FERNANDES, M. de M.. Mecânica dos solos. São Paulo: Oficina de Textos, 2016. v. 2: introdução à engenharia geotécnica.\n3- PINTO, C. de S. Curso básico de mecânica dos solos, em 16 aulas. 3. ed. Com exercícios resolvidos. São Paulo: Oficina de Textos, 2006. 355 p.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "10:00 - 12:00",
+        "professor": "MAURICIO DO ESPIRITO SANTO ANDRADE"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MCG406"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG508",
+      "Nome": "Fundações I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Prospecção: sondagens a percussão, rotativas e mistas; Recalque de fundações superficiais e conceito de tensões admissíveis; Fundações diretas e profundas - critérios de escolha; Fundações diretas: tipos, características, métodos construtivos, cálculo das tensões no solo; Capacidade de carga de fundações superficiais: abordagens de Terzaghi e Vesic; Avaliação da carga de ruptura; Efeitos de inclinação e excentricidade das cargas; Influência do nível d'água. Aplicações; Recalque de fundações superficiais - Métodos de Terzaghi-Peck, Housel e Barata; Execução de fundações superficiais em solo e em rocha; Dimensionamento de blocos, sapatas (isoladas, associadas, contínuas e em divisas), vigas de equilíbrio e radier.\n___  BIBLIOGRAFIA BÁSICA ___\n1- VELLOSO, Dirceu de Alencar; LOPES, Francisco de Rezende. Fundações. São Paulo : Oficina de Textos, 2011. 584 p.\n2- FERNANDES, Manoel de Matos. Introdução a engenharia geotécnica. São Paulo : Oficina de Textos, 2014. v. 2.\n3- HACHICH, W. et al. Fundações: teoria e pratica. 2 ed., São Paulo : PINI, 2003. 751 p.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:30 - 17:30",
+        "professor": "GUSTAVO VAZ DE MELLO GUIMARAES"
+       }
+      ],
+      "Requisitos": [
+       "MCG400(C)",
+       "MCG406"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "9º Período": [
+     {
+      "Codigo": "MCG514",
+      "Nome": "Fundações II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Fundações profundas: tipos, características e métodos construtivos; Dimensionamento e execução de estacas de madeira, tipo Franki, metálicas, pré-moldadas, raiz, escavadas e hélice contínua; Capacidade de carga: Métodos de Aoki-Velloso e Décourt; Quaresma; Capacidade de carga - Fórmulas dinâmicas - controle de estaqueamento; Noções sobre cravação de estacas e provas de carga; Dimensionamento e execução de tubulões, caixões, blocos de coroamento e estacas inclinadas; Introdução ao Projeto de fundações; Soluções especiais: substituição do solo, \"jet-grouting\", estacas tracionadas;  Patologia e Reforço de fundações; Análise dos esforços e cálculo estrutural de estruturas de contenção.\n___ BIBLIOGRAFIA BÁSICA ___\n1- VELLOSO, Dirceu de Alencar; LOPES, Francisco de Rezende. Fundações. São Paulo : Oficina de Textos, 2011. 584 p.\n2- FERNANDES, Manoel de Matos. Mecânica dos solos: conceitos e princípios fundamentais. São Paulo : Oficina dos textos, 2014. v. 1.\n3- HACHICH, W. et al. Fundações: teoria e pratica. 2 ed., São Paulo : PINI, 2003. 751 p.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "15:30 - 19:30",
+        "professor": "GUSTAVO VAZ DE MELLO GUIMARAES"
+       }
+      ],
+      "Requisitos": [
+       "MCG400",
+       "MCG505"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG591",
+      "Nome": "Estruturas Concreto Armado III",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Dimensionamento de vigas à Momento Torçor. Elementos especiais de concreto\narmado: vigas-parede, consolos, pilares-parede, vigas de transição e reservatórios. Projeto de edifício de pequeno porte em concreto armado. Estabilidade global, parâmetros de instabilidade e ação do vento em edifícios de concreto.\n",
+       "BibliografiaBasica": "1) ARAÚJO, J. M. Projeto estrutural de edifícios de concreto armado. 3. ed. Rio\nGrande: Dunas, 2014. 318 p;\n2) ARAÚJO, J. M. Curso de concreto armado. 4. ed. Rio Grande: Dunas, 2014. Volume 4;\n3) CARVALHO, R.C.; PINHEIRO, L.M. Cálculo e detalhamento de estruturas usuais\nde concreto armado. 2. ed. São Paulo: PINI, 2014.\n",
+       "BibliografiaComplementar": "1) SUSSEKIND, José Carlos - Curso de Concreto. Rio de Janeiro: Editora Globo, 1987. 2 Volumes;\n2) LEONHARDT, F; MONNIG, E. Construções de Concreto. 1.ed. Rio de Janeiro:\nInterciência, 1979;\n3) FUSCO, Péricles B. ? Fundamentos do projeto estrutural. São Paulo: Editora McGraw-Hill do Brasil, 1977;\n4) INSTITUTO BRASILEIRO DO CONCRETO (IBRACON). Comentários e Exemplos\nde Aplicação da ABNT NBR 6118:2014. 1 ed. São Paulo: IBRACON, 2015.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "15:30 - 19:30",
+        "professor": "Não Informado"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:30 - 17:30",
+        "professor": "JULIANA CORREA TRINDADE LEITE"
+       }
+      ],
+      "Requisitos": [
+       "MCG362",
+       "MCG512"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG593",
+      "Nome": "Planejamento Ambiental",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Planejamento e Desenvolvimento Sustentável. Poluição Ambiental. Legislação Ambiental Brasileira. Processo de Urbanização e seus impactos. Gestão Ambiental. Implantação das normas de Gestão Ambiental (conjunto de normas ISO 14.000). Instrumentos de Planejamento Ambiental. Temáticas e Temas usados em Planejamento Ambiental. Indicadores Ambientais. Tomada de Decisão. Participação pública e Educação no Planejamento Ambiental.\n___ BIBLIOGRAFIA BÁSICA ___\n1- SANTOS, R. F. Planejamento ambiental: teoria e prática. São Paulo: Oficina Textos, 2007. 184 p.\n2- SANCHEZ, L. E. Avaliação de impacto ambiental: conceitos e métodos. 2. ed. São Paulo: Oficina de Textos, 2013. 583 p.\n3- ALMEIDA, J. R. et al. Política e planejamento ambiental. Rio de Janeiro : Thex, 2008. 480 de p.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:30 - 15:30",
+        "professor": "BEATRIZ ROHDEN BECKER"
+       }
+      ],
+      "Requisitos": [
+       "MCG507"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG511",
+      "Nome": "Estradas II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Análise de projetos. Investigação e classificação dos solos. Dimensionamento de pavimentos flexíveis e rígidos. Técnicas de estabilização de solos. Misturas betuminosas. Técnicas de construção. Pavimentação urbana.\n___ BIBLIOGRAFIA BÁSICA ___\n1- BALBO, José Tadeu. Pavimentação Asfáltica: materiais, projeto e restauração, 1ª ed. São Paulo: Oficina de Textos, 2007.\n2-  SENÇO, Wlastermiler de. Manual de técnicas de pavimentação. Vol. I. São Paulo: Pini, 1997.\n3- SENÇO, Wlastermiler de. Manual de técnicas de pavimentação. Vol. II. São Paulo: Pini, 2001.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "15:30 - 17:30",
+        "professor": "CONRADO VIDOTTE PLAZA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "15:30 - 17:30",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MCG403"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG590",
+      "Nome": "Pontes Concr Arm Protendido I",
+      "Créditos": "5.0",
+      "Teórica": "75",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceitos gerais. Concreto protendido: conceito, tipos de protensão, aplicações,\ndimensionamento de vigas protendidas à flexão e à força cortante, verificações no ELS e ELU. Sistemas estruturais. Seções transversais. Métodos construtivos. Ações. Linhas de influência. Distribuição transversal em vigas múltiplas. Determinação das cargas. Análise e dimensionamento de longarinas em concreto armado e protendido. Verificação de fadiga. Detalhamento das armaduras.\n",
+       "BibliografiaBasica": "1) EL DEBS, M. K. Pontes de concreto: com ênfase na aplicação de elementos\npré-moldados. 1 ed. São Paulo: Oficina de Textos, 2021;\n2) VALERIANO, R. Pontes. 1 ed. São Paulo: Oficina de Textos, 2021;\n3) ARAUJO, D. L. Projeto de ponte em concreto armado com duas longarinas. 1\ned. Goiás: Editora UFG, 2013.\n",
+       "BibliografiaComplementar": "1) ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR 7188: Carga\nmóvel rodoviária e de pedestres em pontes, viadutos, passarelas e outras estruturas. Rio de Janeiro, 2013;\n2) ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR 8681: Ações e\nsegurança nas estruturas ? Procedimento. Rio de Janeiro, 2003;\n3) ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR 6118: projeto de\nestruturas de concreto ? procedimento. Rio de Janeiro, 2014;\n4) ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR 7187: projeto de\npontes, viadutos e passarelas de concreto. Rio de Janeiro, 2021;\n5) ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR 9452: Inspeções\nem pontes, viadutos e passarelas de concreto, Rio de Janeiro, 2016;\n6) PFEIL, W. Pontes em concreto armado. Rio de Janeiro: LTC, 1979;\n7) LEONHARDT, F. Construções de Concreto, v.6: Princípios Básicos da\nConstrução de Pontes de Concreto. 1 ed. Rio de Janeiro: Interciência, 1979;\n8) MARCHETTI, O. Pontes de Concreto Armado. 2 ed. São Paulo: Blucher, 2018;\n9) CAVALCANTE, G. H. Pontes em concreto armado: análise e dimensionamento. São Paulo: Blucher, 2019;\n10) VITÓRIO, J. A. P. Pontes rodoviárias: Fundamentos, Conservação e Gestão.\nRecife: CREA-PE, 2002;\n11) LIMA, N. A; ALMEIDA, S. M. F. Vantagens das Lajes de Continuidade nas\nPontes Pré-Moldadas. Juiz de Fora: Templo, 2013;\n12) MASON, J. Pontes em concreto armado e protendido. Rio de Janeiro: Livros\nTécnicos e Científicos, 1977;\n13) VASCONCELOS, A. C. Pontes brasileiras. 2 ed. São Paulo, 2012.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "17:30 - 20:30",
+        "professor": "ANSELMO LEAL CARNEIRO"
+       },
+       {
+        "dia": "Sex",
+        "hora": "17:30 - 19:30",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MCG362",
+       "MCG400"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG592",
+      "Nome": "Planejam Orçam e Control Obras",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Administração da construção. Modalidades de contratos de obras. Licitações. Caderno de encargos, memorial descritivo. Leis sociais aplicadas à construção civil. Custos unitários, custos totais. Orçamentação de obras. Características básicas de gerenciamento e controle da construção, A técnica PERT/CPM (Project Evolution Review Technique/Critical Path Method). Uso de software aplicado a programação de uma obra de engenharia. Noções de planejamento. Metodologia de planejamento de um empreendimento. Cronograma físico. Cronograma físico-financeiro.\n___  BIBLIOGRAFIA BÁSICA ___\n1- MATTOS, A. D. Planejamento e controle de obras. São Paulo : PINI, 2010. 420 p.\n2- MATTOS, A. D. Como preparar orçamentos de obras. 2. ed. São Paulo : PINI, 2014. 278 p.\n3- CARDOSO, R. S. Orçamento de obras em foco: um novo olhar sobre a engenharia de custos. 3. ed. São Paulo : PINI, 2014. 492 p.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "13:30 - 16:30",
+        "professor": "BRUNO BARZELLAY FERREIRA DA COSTA"
+       }
+      ],
+      "Requisitos": [
+       "MCG510"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "10º Período": [
+     {
+      "Codigo": "MCGX73",
+      "Nome": "Trab Conclus Curso Eng Civil.",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "120",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Síntese e integração de conhecimentos do curso e simulação da atividade profissional futura, através do desenvolvimento de um projeto, aplicando conhecimentos adquiridos ao longo do curso, com supervisão de um professor orientador.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCGU03",
+      "Nome": "Estágio Sup Eng Civil.",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "160",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estágio curricular obrigatório em empresas ou instituições credenciadas e sob supervisão direta da instituição de ensino, através de relatórios técnicos e acompanhamento individualizado durante o período de realização da atividade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "Disciplinas Optativas (Escolha Restrita)": [
+     {
+      "Codigo": "MCGK02",
+      "Nome": "Iniciação Científica II",
+      "Créditos": "4.0",
+      "Teórica": "0",
+      "Prática": "180",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Realização Intelectual. Estudo aprofundado.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCGU21",
+      "Nome": "Estágio Não Obrigatório I",
+      "Créditos": "4.0",
+      "Teórica": "0",
+      "Prática": "180",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Experiência pré-profissional sob supervisão.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCGU23",
+      "Nome": "Estágio Não Obrigatório III",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Experiência pré-profissional sob supervisão.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCGX04",
+      "Nome": "Participação em Eventos II",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Participação/organização de eventos (semanas, congressos, etc.)\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCGX06",
+      "Nome": "Projeto Cultural I",
+      "Créditos": "4.0",
+      "Teórica": "0",
+      "Prática": "180",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "- Estrear uma peça teatral; escrever um livro literário; realizar uma apresentação de dança, canto, instrumento musical ou atividade assemelhada.\n- Promover uma exposição de arte ou um encontro literário na UFRJ; desenvolver um projeto cultural ou atividade assemelhada na UFRJ.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCGX08",
+      "Nome": "Particip em Ativ Cultural I",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "- Participar de aulas de dança, teatro, canto, artes ou atividade assemelhada na UFRJ.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCGX10",
+      "Nome": "Particip em Ativ Cultural III",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Participar de aula de dança, teatro, canto, artes ou atividade assemelhada na UFRJ.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCGX12",
+      "Nome": "Particip em Ativ Esport I",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Participar de aulas de esporte na UFRJ.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCGX14",
+      "Nome": "Particip em Ativ Esport III",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Participar de aulas de esporte na UFRJ.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCGX16",
+      "Nome": "Competição Esportiva II",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "100",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Participar como mesários  durante as eleições internas (UFRJ), municipais, estaduais e em âmbito nacional.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCGX21",
+      "Nome": "Atividade de Intercâmbio I",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Atividades de intercâmbio.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCGX31",
+      "Nome": "Trabalho Comunitário I",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Participar de trabalhos comunitários e ONGs.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCGX33",
+      "Nome": "Trabalho Comunitário III",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Participar de trabalhos comunitários e ONGs.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCGX52",
+      "Nome": "Administração Empresa Jr II",
+      "Créditos": "4.0",
+      "Teórica": "0",
+      "Prática": "180",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Realização intelectual relacionada à aplicação prática de conhecimentos teóricos (Projetos).\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCGY01",
+      "Nome": "Equipe de Competição I",
+      "Créditos": "4.0",
+      "Teórica": "0",
+      "Prática": "180",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Prática orientada em condições especiais de realização.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCGY03",
+      "Nome": "Equipe de Competição III",
+      "Créditos": "4.0",
+      "Teórica": "0",
+      "Prática": "180",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Prática orientada em condições especiais de realização.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCGY22",
+      "Nome": "Monitoria II",
+      "Créditos": "4.0",
+      "Teórica": "0",
+      "Prática": "180",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Atividade de Monitoria.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCGY31",
+      "Nome": "Viagens/ Visitas Técnicas I",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Prática orientada em condições especiais de realização.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEV121",
+      "Nome": "Português Instrumental I",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A linguagem e seu papel nas sociedades humanas. Expressão oral e escrita.\nA variação linguística em função dos fins e das situações de comunicação. A oração\ne o período.\n",
+       "BibliografiaBasica": "1) COSTA, Iara; FOLTRAN, Ma. J. (org.). A tessitura da escrita. São Paulo: Contexto, 2013.\n2) FIGUEIREDO, Luiz Carlos. A redação pelo parágrafo. Brasília: UnB, 1999.\n3) KOCH, Ingedore; ELIAS, Vanda. Ler e compreender: os sentidos do texto. São Paulo: Contexto, 2006.\n4) LUFT, Celso P. A vírgula. São Paulo: Ática, 1996.\n5) MARCUSCHI, Luiz Antonio. Produção textual, análise de gêneros e compreensão. São Paulo: Parábola, 2008.\n6) MEDEIROS, João Bosco. Redação cientÍfica. 11. ed. São Paulo: Atlas, 2009.\n7) MOTTA-ROTH, Desirée; HENDGES, Graciela. Produção textual na universidade. São Paulo: Parábola, 2010.\n",
+       "BibliografiaComplementar": "1) CARDOSO, João Batista. Teoria e prática de leitura, apreensão e produção de texto. Brasília: EDUNB, 2001.\n2) MACHADO, Anna Rachel et al. Resumo. São Paulo: Parábola Editorial, 2004.\n3) MACHADO, Anna Rachel et al. Resenha. São Paulo: Parábola Editorial, 2004.\n4) MARCUSCHI, Luiz Antônio. Gêneros Textuais: configuração, dinamicidade e circulação. In: KARWOSKI, A.;\n5) GAYDECZKA, B.; BRITO, K. (orgs.). Gêneros textuais: reflexões e ensino. 4. ed. São\nPaulo: Parábola, 2011. p. 15-28.\n6) MEDEIROS, João Bosco. Português Instrumental; para cursos de Contabilidade, Economia e Administração. 4. ed. São Paulo: Atlas, 2000.\n7) PAULIUKONIS, Ma. Aparecida L.; GAVAZZI, Sigrid (org.). Texto e discurso:\nMídia, literatura e ensino. Rio de Janeiro: Lucerna, 2003.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCG044",
+      "Nome": "Ciência, Tecnologia e Sociedad",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução à Teoria do Conhecimento. Noções de Filosofia da Ciência, Noções de Filosofia da Tecnologia. As interações entre Ciência, Tecnologia e Sociedade. O conhecimento científico-tecnológico e seus impactos sociais, culturais, éticos, políticos e ambientais. A participação da sociedade na definição de políticas relativas às questões científicas, tecnológicas, econômicas e ecológicas. Implicações das mudanças científica e tecnológicas nos Direitos Humanos e desenvolvimento socioambiental.\n",
+       "BibliografiaBasica": "1) KUHN, Thomas S. A estrutura das revoluções científicas. São Paulo : Perspectiva, 1975.\n2) ROSA, Luiz Pinguelli. Tecnociências e humanidades: novos paradigmas, velhas questões, o determinismo newtoniano na visão de mundo moderna. Editora Paz e Terra, 2006.\n3) HEIDEGGER, Martin. A Questão da Técnica, in: Ensaios e Conferências. Petrópolis, Vozes, 2003.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCG495",
+      "Nome": "Psicologia Sociologia Trabalho",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Evolução da Psicologia e da Sociologia do trabalho.  Trabalho em equipe. Dinâmica de grupo. Estruturação das relações entre equipes. Princípios de gerenciamento da motivação e da aprendizagem.   O papel do engenheiro de produção no surgimento de uma nova cultura organizacional.  Outras abordagens em psicologia e sociologia do trabalho.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "15:30 - 17:30",
+        "professor": "THIAGO GOMES DE LIMA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "15:30 - 17:30",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUP111",
+      "Nome": "Biologia Cultura Questão Raça",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceito de Raça e como essa ideia tem sido aplicada historicamente aos seres humanos na luz dos entendimentos da Antropologia Cultural. Noções de Natureza e de Cultura e a interação entre o social e o biológico. A Raça como conceito biológico e como isso tem sido aplicado aos seres humanos, tocando nas histórias imbricadas de racismo e racialismo. A Antropologia como campo de conhecimento; e a evolução humana na luz do conceito do superorgânico de A.E.Kroeber. As distinções entre o conceito de distribuição clinática de atributos versus o modelo racialista. O posicionamento dos alunos de Ciências Biológicas frente às principais discussões sobre a questão da (não) existência das raças humanas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUP300",
+      "Nome": "Fund Sociologicos da Educação",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceituação da Sociologia da Educação como campo de produção de conhecimento sobre instituições de ensino-aprendizagem socialmente reconhecidas (escolas, universidades, etc.) como também em outros ambientes de relação do mesmo perfil (laboratórios, fábricas, etc.). Apresentação das linhas teóricas e metodológicas e dos principais conceitos da Sociologia da Educação, sua constituição no processo histórico, bem como alguns principais debates - produzidos tanto no Brasil como em outros países, e verificar suas mútuas influências. Questionamentos acerca da relação entre indivíduo e sociedade, seus aspectos racionais, afetivos e o processo de simbolização do conhecimento. Compreensão das várias formas de socialização e de classificação social, através de visões de pesquisadores e outros agentes sociais, no âmbito dos tipos de educação formal e informal.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUP357",
+      "Nome": "Filosofia da Educação",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUP470",
+      "Nome": "Educação e Comunicação- Libras",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCGK01",
+      "Nome": "Iniciação Científica I",
+      "Créditos": "4.0",
+      "Teórica": "0",
+      "Prática": "180",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCGK03",
+      "Nome": "Iniciação Científica III",
+      "Créditos": "4.0",
+      "Teórica": "0",
+      "Prática": "180",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Realização Intelectual. Estudo aprofundado.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCGU22",
+      "Nome": "Estágio Não Obrigatório II",
+      "Créditos": "4.0",
+      "Teórica": "0",
+      "Prática": "180",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Experiência pré-profissional sob supervisão.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCGX03",
+      "Nome": "Participação em Eventos I",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Participação/organização de eventos (semanas, congressos, etc.)\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCGX05",
+      "Nome": "Participação em Eventos III",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Participação/organização de eventos (semanas, congressos, etc.)\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCGX07",
+      "Nome": "Projeto Cultural II",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "- Estrear uma peça teatral; escrever um livro literário; realizar uma apresentação de dança, canto, instrumento musical ou atividade assemelhada.\n- Promover uma exposição de arte ou um encontro literário na UFRJ; desenvolver um projeto cultural ou atividade assemelhada na UFRJ.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCGX09",
+      "Nome": "Particip em Ativ Cultural II",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "- Participar de aulas de dança, teatro, canto, artes ou atividade assemelhada na UFRJ.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCGX11",
+      "Nome": "Competição Esportiva I",
+      "Créditos": "11.0",
+      "Teórica": "0",
+      "Prática": "500",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Participar de competição esportiva em nível internacional, nacional ou estatal, de esporte federado.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCGX13",
+      "Nome": "Particip em Ativ Esport II",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Participar de aulas de esporte na UFRJ.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCGX15",
+      "Nome": "Participação em Eleições",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Participar como mesários  durante as eleições internas (UFRJ), municipais, estaduais e em âmbito nacional.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCGX17",
+      "Nome": "Competição Esportiva III",
+      "Créditos": "4.0",
+      "Teórica": "0",
+      "Prática": "200",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Participar como mesários  durante as eleições internas (UFRJ), municipais, estaduais e em âmbito nacional.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCGX22",
+      "Nome": "Atividade de Intercâmbio II",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Atividades de intercâmbio.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCGX32",
+      "Nome": "Trabalho Comunitário II",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Participar de trabalhos comunitários e ONGs.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCGX51",
+      "Nome": "Administração Empresa Jr I",
+      "Créditos": "4.0",
+      "Teórica": "0",
+      "Prática": "180",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Realização intelectual relacionada à aplicação prática de conhecimentos teóricos (Projetos).\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCGX53",
+      "Nome": "Administração Empresa Jr III",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Realização intelectual relacionada à aplicação prática de conhecimentos teóricos (Projetos).\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCGY02",
+      "Nome": "Equipe de Competição II",
+      "Créditos": "4.0",
+      "Teórica": "0",
+      "Prática": "180",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Prática orientada em condições especiais de realização.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCGY21",
+      "Nome": "Monitoria I",
+      "Créditos": "6.0",
+      "Teórica": "0",
+      "Prática": "270",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Atividade de Monitoria.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCGY23",
+      "Nome": "Monitoria III",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Atividade de Monitoria.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCGY32",
+      "Nome": "Viagens/ Visitas Técnicas II",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Prática orientada em condições especiais de realização.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCE026",
+      "Nome": "Introdução em Direitos Humanos",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução e Histórico sobre Direitos Humanos e Movimentos Sociais: direitos individuais, coletivos e ambientais; Dignidade Humana como condição de vida e o\nenfrentamento às desigualdades sociais: enfoque nas Políticas Públicas e Legislações; Direitos Humanos e Interdisciplinaridade na Educação e na Saúde;\nDiscriminação de etnia, origem, raça e cor e as Políticas Afirmativas; Direitos Humanos e o Respeito às Diferenças de Gênero e de Orientação Sexual; Direitos\nHumanos e Movimentos feministas; Comunicação não violenta nos Direitos Humanos; Direitos Humanos e respeito às diferenças socioculturais, religiosas,\nideológicas, filosóficas e políticas; Direitos Humanos, Capacitismo, Acessibilidade e Inclusão; Direitos Humanos e o combate às violências no cotidiano.\n",
+       "BibliografiaBasica": "1)DIBBERN, T. A.; CRISTOFOLETTI, E. C.; SERAFIM, M. P. Educação em Direitos Humanos: um panorama do compromisso social da universidade pública. Educação em Revista, v. 34, 2018;\n2) FREIRE, S. M. Extensão Universitária e Direitos Humanos: desafios na contemporaneidade. Extensão em Foco, nº 2, p. 133-142. 2008;\n3) JUBILUT, L. L.; LOPES, R. O. (Organizadoras). Direitos humanos e vulnerabilidade e a declaração universal dos direitos humanos [e-book]. Santos (SP): Editora Universitária Leopoldianum, 2018. 445 p.\n4) MINISTÉRIO DA EDUCAÇÃO. Plano Nacional de Educação em Direitos Humanos. Comitê Nacional de Educação em Direitos Humanos. Brasília: Secretaria Especial dos Direitos Humanos, Ministério da Educação, Ministério da Justiça, UNESCO, 2007. 76 p.\n5) MINISTÉRIO DA EDUCAÇÃO. Programa Ética e Cidadania: construindo valores na escola e na sociedade: inclusão e exclusão social / organização FAFE ? Fundação de Apoio à Faculdade de Educação (USP). Brasília: Ministério da Educação, Secretaria de Educação Básica, 2007. 4 v.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCG052",
+      "Nome": "Tóp Esp Ciênc Tecnol Sociedade",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Disciplina destinada à aprofundamentos de temáticas de Ciência, Tecnologia e Sociedade. Ementa variável.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "13:30 - 15:30",
+        "professor": "MATHEUS FERREIRA DE BARROS"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUP026",
+      "Nome": "Tóp Esp Éti Filo Polít Contemp",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O séc. XIX caracteriza-se por forte crítca ao modelo epistemológico moderno aplicado à ética e à política. A universalidade dos valores e sistemas de governo não mais se sustenta com tanta facilidade uma vez que ruiram seus fundamentos. Contudo, a ausência de alternativas também se mostra sombria. No presente curso se buscará estudar como o pensamento filosófico contemporâneo tem trabalhado estas questões e quais as suas possíveis contribuições para o debate ético e político no séc. XXI. Instrumentação para ensino teórico dos conteúdos supracitados.\n",
+       "BibliografiaBasica": "1- AGAMBEN ?Homo sacer?. UFMG Editora, Belo Horizonte, 2010.\n2- DELEUZE, G. ?Mil platôs?. Editora 34, 2009.\n3- ESPINOSA, B. ?Ética?. Autêntica. Belo Horizonte, 2009.\n4- FOUCAULT, M. ?Em defesa da sociedade?. Martins Fontes, São Paulo, 1999.\n5- NIETZSCHE. F.W. ?Genealogia da moral?. Companhia das letras, São Paulo, 2007.\n",
+       "BibliografiaComplementar": "1- DELEUZE, G. ?Diferença e repetição?. Graal editor. Rio de Janeiro, 2009.\n2- ESPINOSA, B. ?Tratado político?. Editora Nova Cultural. São Paulo, 1996.\n3- FOUCAULT, M. ?Hermenêutica do sujeito?, Martins Fontes, São Paulo, 2004.\n4- HARDT, M. e NEGRI, A. ?Império?. Record editora. Rio de Janeiro, 2004.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUP117",
+      "Nome": "Estudos Sócioantropológicos",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A seleção natural e a mente humana. O conceito do superorgânico na Antropologia. A construção da visão do sociocultural e a gênese do pensamento socio-antropológico no contexto da modernidade: positivismo científico, expansão colonial, urbanismo e capitalismo (hegemonia do pensamento positivista). Evolução social e a questão de raça: as experiências africanas e amerindígenas sob colonialismo, no Brasil e nas Américas. De raça a cultura: Galton, Spencer, Tylor e Boas. O método etnográfico: a construção do outro primitivo. Etnocentrismo e relativismo cultural. Marx, Durkheim e Weber: as bases clássicas do pensamento sociológico. Formas modernas de desigualdade e discriminação: raça e etnia; gênero; classe. A pluralidade sociocultural brasileira: algumas expressões.\n",
+       "BibliografiaBasica": "1- HAVILAND et al. 2011. Princípios da Antropologia. São Paulo: Cengage Learning\n2- HARARI, Y.N. 2015. Sapiens: Uma Breve História da Humanidade. São Paulo: LPM.\n3- LARAIA, R. 2005. Cultura: Um Conceito Antropológico. Ed. Jorge Zahar. Rio de Janeiro.\n4- LÉVI-STRAUSS, C. 2009. ?Natureza e Cultura?, Revista Antropos. V3, Ano 2.\n5- MINNER, H. 1956. ?O Ritual do Corpo entre os Sonacirema?. Publicação original: ?Body ritual among the Sonacirema?, American Anthropologist, Vol. 58, n° 3.\n6- QUINTANEIRO, T., et. al. 1995. Um Toque de Clássicos: Durkheim, Marx e Weber. Ed. UFMG. Belo Horizonte.\n",
+       "BibliografiaComplementar": "1- GIDDENS, A. 2006. Sociologia. Porto Alegre: Artmed.\n2- MARX, K. 1979. Marx: Sociologia. Otavio, I. (org.). São Paulo: Ática.\n3- DURKHEIM, E.: 1992. Sociologia: Coleção Grandes Cientistas Sociais. n.10. São Paulo: Ática.\n4- WEBER, M. 1999. Economia e Sociedade. Ed. UnB. Brasília.\n5- GOULD, S. J. 1991. A falsa Medida do Homem. São Paulo: Martins Fontes.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUP301",
+      "Nome": "Psicologia da Educação",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A psicologia da Educação e as relações entre desenvolvimento afetivo, cognitivo, linguístico e moral em situações de interação sócio-cultural. Inteligência e escolarização meritocrática: da tradição psicométrica às concepções contemporâneas da inteligência. Humanismo, behaviorismo, psicanálise, construtivismo e sócio-interacionismo. O processo psicológico de construção e aquisição do conhecimento diante dos sistemas de informação e comunicação.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUP371",
+      "Nome": "Educação Brasileira",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A constituição do sistema privado nacional de ensino e a relação entre Estado e Educação. Persistências e mudanças na estrutura e no funcionamento do ensino no Brasil: as relações entre público e privado, centralização e descentralização, ensino laico e ensino confessional, formação geral e formação profissional. A LDB (Lei 9394/96): avanços e recuos no processo de profissionalização do campo pedagógico e de universalização do ensino.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     }
+    ]
+   },
+   "obrigatorias": 65,
+   "eletivas": 50,
+   "ano": "2024/1 a 9999/9"
+  }
+ ]
+}

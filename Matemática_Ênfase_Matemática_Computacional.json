@@ -1,0 +1,3624 @@
+{
+ "Matemática Ênfase Matemática Computacional": [
+  {
+   "materias": {
+    "1º Período": [
+     {
+      "Codigo": "MAA114",
+      "Nome": "Álgebra I",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Algoritmo da divisão e máximo divisor comum; Números primos e fatoração de interiores; Relações de equivalência; Aritmética modular; Teorema chinês dos restos; Indução finita; Teorema de Fermat; Grupos, Subgrupos e teorema de Lagrange; Teorema de Euler; Testes de primalidade e pseudoprimalidade; Números de Carmichael, Marsenne e  Fermat.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAC118",
+      "Nome": "Cálculo Difer e Integral I",
+      "Créditos": "6.0",
+      "Teórica": "90",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Técnicas de Integração. Integral Imprópria.\n",
+       "BibliografiaBasica": "1) SANTOS, A. R.; BIANCHINI, Waldecir. Aprendendo Cálculo com Maple: Cálculo de Uma Variável. 1ª ed. Rio de Janeiro: LTC, 2002.\n2) LEITHOLD, Louis. O Cálculo com Geometria Analítica. 3.ed. São Paulo: Harbra, 2002. vol. 1.\n3) STEWART, James. Cálculo. 4.ed. São Paulo: Pioneira Thomson Learning, 2002. vol. 1.\n",
+       "BibliografiaComplementar": "1) ANTON, H.; BIVIS. I.; DAVIS, S. Cálculo, Vol. I. 8ª ed. Editora Harbra.\n2) APOSTOL, TOM M. Calculus, Vol. 1: One Variable Calculus With an Introduction to Linear Algebra. 2ª ed. - Ed. Wiley.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "17:00 - 18:30",
+        "professor": "AFTAB PANDE"
+       },
+       {
+        "dia": "Qua",
+        "hora": "17:00 - 18:30",
+        "professor": ""
+       },
+       {
+        "dia": "Sex",
+        "hora": "17:00 - 18:30",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ICP121",
+      "Nome": "Computação I",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Informações relevantes de um problema e sua respectiva representação computacional. Resolução de problemas de forma algorítmica. Aspectos sintático se semânticos de uma linguagem de programação de alto nível. Comandos, estruturas de dados e estruturas básicas para a construção de soluções computacionais. Modelagem e implementação de código modularizado. Noções de organização,reutilização e legibilidade de código. Princípios das boas práticas de programação.\n",
+       "BibliografiaBasica": "1) Nilo N. C. Menezes. Introdução a programação com Python - Algoritmos e Lógica de Programação para iniciantes. 3ª edição. Novatec. 2019.\n2) Mark Lutz e David Ascher.Aprendendo Python.Bookman Companhia Ed. 2ª edição. 2007.\n3)Carla A. D. M. Delgado, João C. P. da Silva, Fabio Mascarenhas, Ana Luisa Duboc. The teaching of functions as the first step to learn imperative programming.\n4) WORKSHOP SOBRE EDUCAÇÃO EM COMPUTAÇÃO (WEI), 24, 2016, Porto Alegre. Anais[...]. PortoAlegre: Sociedade Brasileira de Computação, 2016.p. 2393-2402. ISSN2595-6175.DOI: .\n5) Python Software Foundation. Otutorialde Python. 2001-2023.\n",
+       "BibliografiaComplementar": "1) Plataforma para prática de programação:\n2) Site oficial da linguagem Python:\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 10:00",
+        "professor": "HUGO DE HOLANDA CUNHA NOBREGA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 10:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAC117",
+      "Nome": "Geometria I",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Breve histórico do trabalho de Euclides; Axiomas e postulados; Proposições, Teoremas e Corolários; Elementos de um resultado: hipóteses e tese; Geometria Plana- Modelos de Geometrias Discretas; Axiomas de incidência, de ordem e de mediição de segmentos; Função distância; Sistemas de Coordenadas na reta; Semiplanos; Ângulos; Convexidade; Congruência; Teorema do ângulo externo e consequências; O quinto postulado de Euclides; Teorema de Tales; Semelhança de triângulos; Teorema de Pitágoras; Círculos; Polígonos; Funções Trigonométricas; Áreas; Geometria Espacial- Axiomas de incidência e da tridimensionalidade; Retas: Planos; Construção de Sólidos; Volumes: Princípio de Cavalieri.\n",
+       "BibliografiaBasica": "1) BARBOSA, João Lucas Marques. Geometria euclidiana plana. Rio de Janeiro: SBM, c2006.\n2) CARVALHO, Paulo Cezar Pinto. Introdução à geometria espacial. Rio de Janeiro: SBM,\nc2005.\n3) GREENBERG, M.J. Euclidean and non-euclidean Geometries. New York: W.H. Freeman and Company, c1993 .\n",
+       "BibliografiaComplementar": "1) HILBERT, D; COHN-VOSSEN, S. Geometry and the imagination. Utrecht: Information Doc Centregeog Netherlands, c1952.\n2) MOISE, Edwin E. Elementary Geometry from an advanced standpoint. Reading [Mass., Estados Unidos]; Menlo Park: Addison-Wesley, c1974.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 10:00",
+        "professor": "VINICIUS BOUCA MARQUES DA COSTA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 10:00",
+        "professor": ""
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 10:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "2º Período": [
+     {
+      "Codigo": "MAC123",
+      "Nome": "Cálculo II",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Polinômios de Taylor; Séries Infinitas; Séries de potências; Curvas e vetores no espaço; Superfícies; Funções de Várias Variáveis; Máximos e Mínimos de Funções IR² em IR ;\nMáximos e Mínimos Condicionados de funções de IR² em IR e de IR³ em IR.\n",
+       "BibliografiaBasica": "1) ANTON, Howard; BIVIS, Iri; DAVIS, Stephen. Cálculo. Volume II. São Paulo: Editora Harbra, 2007.\n2) PINTO, Diomara; MORGADO, Maria Cândida Ferreira. Cálculo diferencial e integral de funções de várias variáveis. Rio de Janeiro: UFRJ, 2000.\n3) STEWART, James. Cálculo. Volume II. São Paulo : Cengage Learning, 2014.\n",
+       "BibliografiaComplementar": "1) APOSTOL, Tom Mike. Calculus. Volume II. New York: J. Wiley, c1969.\n2) COURANT, Richard. Differential and integral calculus. New York: Interscience, 1950[1936].\n3) GUIDORIZZI, Hamilton Luiz. Um curso de cálculo. Volume II. Rio de Janeiro: LTC, 2001.\n4) LEITHOLD, Louis. O Cálculo com geometria analítica. Volume II. São Paulo: Habra, 1994\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "10:00 - 12:00",
+        "professor": "WILLIAM MATHEUS MICHEL BRAUCKS"
+       },
+       {
+        "dia": "Qua",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       },
+       {
+        "dia": "Sex",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MAC113"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAE125",
+      "Nome": "Álgebra Linear",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Sistemas de equações lineares e Eliminação Gaussiana. Matrizes e determinante. Espaços vetoriais Euclidianos. Geometria dos espaços vetoriais de dimensão finita. Transformações lineares. Espaços vetoriais com produto interno. Ortogonalidade e mínimos quadrados. Autovalores e autovetores. Teorema espectral. Aplicações à solução de Equações Diferenciais Ordinárias e em Geometria Euclidiana.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "10:00 - 12:00",
+        "professor": "HEUDSON TOSTA MIRANDOLA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIT111",
+      "Nome": "Física I",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Noções de cálculo diferencial e integral e calculo vetorial. Força, cinemática e dinâmica do ponto material. Leis de Newton. Trabalho. Energia e sua conservação. Momento linear e sua conservação. Cinemática e dinâmica do movimento de rotação. Momento angular e sua conservação. Gravitação.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAD124",
+      "Nome": "Introdução à Estatística",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Probabilidade - conceitos básicos, probabilidade condicional, independência, Teorema de Bayes, Variáveis aleatórias, modelos binomial e normal. Introdução à Inferência: população e amostra; distribuição amostral, amostra aleatória simples, introdução à estimação e testes de hipóteses.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 15:00",
+        "professor": "LUIZ GUILHERME GONCALVES ARRUDA DE COUTO"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 15:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "3º Período": [
+     {
+      "Codigo": "ICP231",
+      "Nome": "Cálculo Numérico",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Erros; Zeros de Funções; Resolução de Sistemas Lineares; Interpolação; Integração Numérica; Equações Diferenciais Ordinárias.\n",
+       "BibliografiaBasica": "1) Dorn, William S. e Mc Cracken, Daniel D.; Cálculo Numérico com Estudos de Casos em Fortran IV\n2) Ruggiero, Márcia A. Gomes e Lopes, Vera Lucia Rocha; Cálculo Numérico, Aspectos Teóricos e Computacional\n3) Stark ,Peter A.; Introdução aso Métodos Numéricos\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "10:00 - 12:00",
+        "professor": "MARCELLO GOULART TEIXEIRA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "ICP121",
+       "MAC128"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAC233",
+      "Nome": "Cálculo III",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Teoremas da Função Implícita e Inversa; Integrais Duplas e Triplas; Mudança de Variáveis; Integrais Múltiplas Impróprias; Integral de linha escalar e vetorial; Teorema de Green; Parametrização e Área de superfícies; Integral de superfície escalar e vetorial; Teorema de Stokes e Gauss; Interpretação física; Campos conservativos.\n",
+       "BibliografiaBasica": "1) ANTON, Howard; BIVIS, Iri; DAVIS, Stephen. Cálculo. Volume II. São Paulo: Editora Harbra, 2007.\n2) PINTO, Diomara; MORGADO, Maria Cândida Ferreira. Cálculo diferencial e integral de funções de várias variáveis. Rio de Janeiro: UFRJ, 2000.\n3) STEWART, James. Cálculo. Volume II. São Paulo : Cengage Learning, 2014.\n",
+       "BibliografiaComplementar": "1) APOSTOL, Tom Mike. Calculus. Volume II. New York: J. Wiley, c1969.\n2) GUIDORIZZI, Hamilton Luiz. Um curso de cálculo. Volume II. Rio de Janeiro: LTC, 2003.\n3) MARSDEN, Jerrold E.; TROMBA, Anthony J. Vector calculus. New York : W. H. Freeman, c1988.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "10:00 - 12:00",
+        "professor": "ERWIN MAXIMILIANO TOPP PAREDES"
+       },
+       {
+        "dia": "Qua",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       },
+       {
+        "dia": "Sex",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MAC123"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIS111",
+      "Nome": "Física Experimental I",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução à medida: como medir. Como expressar corretamente os valores medidos. Estimar a precisão de instrumentos. Dispersão de uma medida: controle de grandezas físicas numa experiência. Como caracterizar a dispersão de um conjunto de dados por um indicador apropriado. Cinemática unidimensional: desenvolvimento intuitivo e operacional dos conceitos de velocidade e aceleração. Representação e análise gráfica. Leis de Newton. Como definir operacionalmente a inércia e um corpo. Relação massa inercial-massa gravitacional. Colisões unidimensionais elásticas, semi-elásticas e inelásticas. Modelo teórico de uma colisão unidimensional.\n",
+       "BibliografiaBasica": "1) Apostila de Física Experimental I. Instituto de Física, UFRJ.\n2) Fundamentos da Teoria de Erros. J.H. Vuolo.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 10:00",
+        "professor": "RUYNET LIMA DE MATOS FILHO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAA233",
+      "Nome": "Álgebra II",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Grupos, subgrupos e teoremas de Lagrange; Grupos de permutações; Subgrupos normais e quocientes; Teorema dos homomorfismos; Anéis e corpos; Corpos de um anel de integridade; Anel de polinômios sobre um corpo: allgoritmo da divisão, máximo divisor comum, teorema da fatoração única, irredutibilidade e critério de Eisenstein; Extensões dos racionais; Funções simétricas; Teorema de Newton; Resolvente de Lagrange; Solução algébrica de equações de grau 3 e 4.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MAA114"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAE127",
+      "Nome": "Equações Diferenciais",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Equações diferenciais de 1ª ordem e aplicações; Teoremas de Existência e Unicidade de Soluções; Equações diferenciais lineares de 2ª ordem e aplicações;\n",
+       "BibliografiaBasica": "1) BOYCE, William E.; DIPRIMA, Richard C. Equações diferenciais elementares e problemas de valores de contorno. Rio de Janeiro: LTC, 2006.\n2) FIGUEIREDO, Djairo Guedes de; NEVES, Aloisio Freiria. Equações diferenciais aplicadas. Rio de Janeiro : IMPA, c2007.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "10:00 - 12:00",
+        "professor": "STEFANELLA BOATTO"
+       },
+       {
+        "dia": "Qui",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MAC123",
+       "MAE125"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "4º Período": [
+     {
+      "Codigo": "MAA240",
+      "Nome": "Analise I",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Construção dos números reais; Seqüências e séries numéricas; Topologia da reta; Limite e continuidade; Derivadas; Integral de Riemann.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 10:00",
+        "professor": "FELIPPE SOARES GUIMARAES"
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 10:00",
+        "professor": ""
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 10:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MAA114",
+       "MAC118"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MACX10",
+      "Nome": "Seminário Métodos Matemáticos",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Atividade acadêmico-cultural, visando mostrar aos alunos avanços recentes na área em palestras com conferencistas convidados, apresentação de trabalhos de iniciação científica de alunos de graduação do curso e de outros cursos em áreas afins, palestras com ex-alunos sobre futuras oportunidades de trabalho.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIM231",
+      "Nome": "Física III",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Fenomenos eletricos e magneticos. Conceitos de campos eletrico e magnetico. Situacoes estacionarias e quase-estacionarias.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "FIT111",
+       "MAC128"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAA355",
+      "Nome": "Álgebra Linear III",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Espaços vetoriais reais e complexos; Matriz de mudança de base; Transformações lineares; Funcionais lineares e anuladores; Operadores diagonalizáveis; Base bandeira e triangularização de uma matriz quadrada; A formas canônica de Jordan; Operadores autoadjuntos e normais; Diagonalização simultânea de Operadores Normais.\n",
+       "BibliografiaBasica": "1) HOFFMAN, Kenneth; KUNZE, Ray Alden. Álgebra linear. New York: UNCTE, 1976.\n2) LANG, Serge. Algebra. New York: Springer Science, c2002.\n3) LIMA, Elon Lages. Álgebra linear. Rio de Janeiro: IMPA, 2003.\n",
+       "BibliografiaComplementar": "1)LIPSCHUTZ, Seymour. Álgebra linear. São Paulo: McGraw-Hill Brasil, 1974.\n2)SHILOV, Georgi Evgen'evich. Linear algebra. Englewood Cliffs, N.J.: Prentice-Hall, c1971.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "10:00 - 12:00",
+        "professor": "SEYED HAMID HASSANZADEH HAFSHEJANI"
+       },
+       {
+        "dia": "Qui",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MAE125"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "5º Período": [
+     {
+      "Codigo": "MAA245",
+      "Nome": "Análise II",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A topologia de espaços Euclidianos; Sequências e séries; Limite e Continuidade; Diferenciabilidade em IRn; Integral de Riemann para Funções de várias variáveis.\n",
+       "BibliografiaBasica": "1) DIEUDONNÉ, Jean. Foundations of Modern Analysis. New York: Academic Press, 1969.\n2) LIMA, Elon Lages. Curso de análise. Volume 1. Rio de Janeiro: IMPA, 2011.\n3) RUDIN, Walter. Principles of mathematical analysis. New York: Mcgraw-Hill Book, c1964.\n",
+       "BibliografiaComplementar": "1) BARTLE, Robert Gardner. Elements of real analysis. New York; London: J. Wiley, c1976.\n2) CIPOLATTI, Rolci de Almeida. Cálculo avançado I. Rio de Janeiro: UFRJ, 2012.\n3) TAO, Terence. Analysis II. New Delhi, India :Hindustan Book Agency, 2006.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 10:00",
+        "professor": "ISAIA NISOLI"
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 10:00",
+        "professor": ""
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 10:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MAA240"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MACX11",
+      "Nome": "Projeto Métodos Matemáticos I",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "180",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Atividade acadêmico-cultural, visando aperfeiçoar a formação dos alunos na área de Matemática ou áreas afins, visando um curso de pós-graduação nestas áreas. Também pode ser uma oportunidade para iniciar um processo de aprendizado didático, para os alunos que pretenderem seguir uma carreira docente.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIM241",
+      "Nome": "Física IV",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Oscilacoes eletromagneticas. Otica. Introducao a fisica moderna.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "FIM231"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAC351",
+      "Nome": "Equações Dif Parciais I",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Classificação das EDP e curvas características; Séries de Fourier; Equação de Ondas ;\nquação do Calor na Barra finita; Problema de Dirichlet e de Neumann para a Equação de laplace o disco e no retângulo.\n",
+       "BibliografiaBasica": "1) FIGUEIREDO, Djairo Guedes de. Análise de Fourier e equações diferenciais parciais. Rio de Janeiro: IMPA, c2003.\n2) IORIO, Valéria de Magalhães. EDP: um curso de graduação. Rio de Janeiro: IMPA, c2010.\n3) KREIDER, Donald L.; KULLER, Robert G.; OSTBERG, D. R.; PERKINS, F. W. Introdução à Análise Linear.Rio de Janeiro: Ao Livro Técnico, 1972.\n",
+       "BibliografiaComplementar": "1) MEDEIROS, Luis Adauto; ANDRADE, Nirzi Gonçalves. Introdução às Equações Diferenciais Parciais. Rio de Janeiro: LTC, 1978.\n2) TIJONOV, A. N.; SAMARSKY, A. A. Ecuaciones de la Fisica Matematica. Moscou: Editorial Mir, 1980\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MAC233"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "6º Período": [
+     {
+      "Codigo": "MAC360",
+      "Nome": "Geometria Diferencial I",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Curvas planas; Fórmulas de Frenet. Curvas no espaço; Teorema Fundamental das curvas em R3. Teoria local das superfícies: superfícies parametrizadas em R3; plano tangente; primeira forma fundamental; aplicação normal de Gauss; segunda forma fundamental; curvaturas média e gaussiana; classificação de pontos na superfície; linhas de curvatura; linhas assintóticas; geodésicas; Teorema Egregium de Gauss; Equações de Gauss e Mainardi-Codazzi; Teorema de Bonnet, Teorema de Gauss-Bonnet.\n",
+       "BibliografiaBasica": "1) ARAUJO, Paulo Ventura. Geometria diferencial. Rio de Janeiro : IMPA, c2008.\n2) CARMO, Manfredo Perdigão do. Geometria diferencial de curvas e superfícies. Rio de Janeiro: SBM, c2005.\n3) TENENBLAT, Keti. Introducao a Geometria Diferencial. Brasília: UNB, 1988.\n",
+       "BibliografiaComplementar": "1) KUHNEL, Wolfgang. Differential Geometry: Curves ? Surfaces ? Manifolds. AMS, 2006.\n2) STRUIK, D.J. Geometria Diferencial Clásica. Madrid: Aguilar, 1955.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MAC233",
+       "MAE125"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAA353",
+      "Nome": "Funcoes Complexas I",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Número Complexos. Funções Analíticas; Funções elementares. Integrais. Séries de potências. Resíduos e polos. Transformações por funções elementares.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 15:00",
+        "professor": "ALEXANDER EDUARDO ARBIETO MENDOZA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 15:00",
+        "professor": ""
+       },
+       {
+        "dia": "Sex",
+        "hora": "13:00 - 15:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MAA233",
+       "MAC233"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "7º Período": [
+     {
+      "Codigo": "MAAX12",
+      "Nome": "Projeto Matemática Pura II",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "180",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Atividade acadêmico-cultural, visando aperfeiçoar a formação dos alunos na área de Matemática ou áreas afins, visando um curso de pós-graduação nestas áreas. Também pode ser uma oportunidade para iniciar um processo de aprendizado didático, para os alunos que pretenderem seguir uma carreira docente.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "8º Período": [],
+    "Disciplinas Optativas (Escolha Condicionada)": [
+     {
+      "Codigo": "ICP236",
+      "Nome": "Lógica",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "LÓGICA CLÁSSICA PROPOSICIONAL: LINGUAGEM, SEMÂNTICA, SISTEMA DEDUTIVOS (DEDUÇÃO NATURAL, PROVADOR AUTOMÁTICO DE TEOREMAS E MÉTODO AXIOMÁTICO) E RELAÇÕES ENTRE SINTAXE E SEMÃNTICA. LÓGICA CLASSICA DE PRIMEIRA ORDEM: LINGUAGEM, SEMÂNTICA, SISTEMAS DEDUTIVOS (DEDUÇÃO NATURAL E MÉTODO AXIOMÁTICO) E RELAÇÕES ENTRE SINTAXE E SEMÂNTICA. APLICAÇÃO DE LÓGICA EM COMPUTAÇÃO.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ICP624"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ICP243",
+      "Nome": "Organização de Dados I",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceitos basicos: dados, tipos abstratos, estruturacao, estruturas. Nocoes de complexidade de algoritmos. Estruras lineares. Estruturas nao lineares. Alocacao dinamica. Recuperacao de memoria. Ordenacao interna: contagem, insercao, selecao, fusao, distribuicao. Exame do caso medio e pior caso.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ICP241"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ICP368",
+      "Nome": "Algoritmos e Grafos",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Representação de Grafos; Ordenação Topológica; Buscas em grafos e Digrafos (largura e profundidade); Técnicas de Desenvolvimento de Algoritmos; Decomposição; Recursão; Algoritmo Guloso; Programação Dinâmica; Aplicação das Técnicas Usadas; Fluxo Máximo.\n___BIBLIOGRAFIA BÁSICA___\n1) Teoria Computacional de Grafos; os algoritmos. Jayme Luiz Swarcfiter, Fabiano S. Oliveira e Paulo E. D. Pinto. Elsevier, 2018.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ICP116",
+       "ICP144"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ICP479",
+      "Nome": "Tóp Computação I",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Topicos variaveis em computacao segundo interesse dos alunos e tendencias atuais na area.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ICP517",
+      "Nome": "Análise Num Eq Dif Parciais I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Fundamentos em equacoes diferenciais parciais. Metodo das diferencas finitas aplicadas as equacoes elipticas, parabolicas e hiperbolicas. Consistencia, estabilidade, convergencia. Problemas nao lineares.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ICP230"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ICP522",
+      "Nome": "Análise Num Eq Dif Parciais II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Fundamentos em equacoes diferenciais parciais. Metodo dos elementos finitos aplicados as equacoes diferenciais parciais.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ICP230"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAWZ52",
+      "Nome": "Ativ Curricular Extensão - Bma",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "0",
+      "Extensão": "240",
+      "Informação": {
+       "Info": "Atuação em atividades de extensão registradas na Pró-Reitoria de Extensão da UFRJ, tais como: programas, projetos, cursos de extensão e eventos; atuação em quaisquer outras atividades de extensão, assim caracterizadas em conformidade com as definições contidas em ?Extensão Universitária: Organização e Sistematização?, do FÓRUM DE PRÓ-REITORES DE EXTENSÃO DAS UNIVERSIDADES PÚBLICAS BRASILEIRAS. Belo Horizonte: COOPMED, 2007, a critério da coordenação do curso.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ICP232",
+      "Nome": "Programação Linear I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Modelagem.Resolução Gráfica.Teoremas básicos.Algoritmo Simplex.Técnicas de Inicialização.Métodos das Duas Fases.Problemas de Convergência e Degeneração.Método Simplex revisado.Dualidade.Método Dual do Simplex.Análise de Sensibilidade.O Problema do Transporte.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MAE125"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ICP241",
+      "Nome": "Computação II",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Projeto e construção de programas usando modelagem orientada a objetos. Tratamento de exceções. Construção de código organizado e reutilizável. Boas práticas de programação. Construção de interfaces de interação gráfica com o usuário. Persistência de dados. Uso de pacotes científicos, matemáticos e outros na resolução de problemas do campo da engenharia ou outras áreas.\n",
+       "BibliografiaBasica": "1− Material de referência para ensino de Python do Instituto de computação.\n2− Orientação a Objetos: Aprenda seus conceitos e suas aplicabilidades de forma efetiva,: Carvalho, Thiago Leite (4a edição), 2021.\n3− MENEZES, N. N. C. Introdução à Programação com Python: Algoritmos e lógica de programação para iniciantes. Editora Novatec, 4a ed., 2024.\n4− RAMALHO, L. Python Fluente: Programação Clara, Concisa e Eficaz, Editora Novatec, 2015.\n5− Aprendendo Python, Mark Lutz, David Ascher, Bookman Companhia Ed., 2007.\n6− Learning Python: Powerful Object-Oriented Programming (English Edition), Mark Lutz, 2013\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ICP121"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ICP352",
+      "Nome": "Matemática Combinatória",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Permutações; Arranjos e Combinações simples e com repetições; Coeficientes binomiais e Triângulo de Pascal; Binômio de Newton e Teorema Multinomial. Princípio de Inclusão e Exclusão; Relações de Recorrência; Teoria dos Grafos: Conceitos Básicos; Conexidade; Árvores; Grafos Eulerianos e Hamiltonianos, Grafos Planares e Duais; Grafos Direcionados.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ICP624"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ICP478",
+      "Nome": "Métodos Numéricos I",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "INTERPOLAÇÃO POLINOMIAL. FUNÇÕES SPLINE. AJUSTE DE CURVAS. INTEGRAÇÃO NUMÉRICA. MATRIZ SIMÉTRICA. MATRIZ DEFINIDA POSITIVA. MÉTODOS DIRETOS (GRAUSS, LU, CHOLESKY), E ITERATIVOS (GAUSS-JACOBI, GAUSS-SEIDEL, GRADIENTE CONJUGADO) PARA SISTEMA LINEAR. SISTEMA NÃO LINEAR. ELEMENTOS DE ÁLGEBRA LINEAR. NÚMERO DE CONDICIONAMENTO. PROPAGAÇÃO DE ERROS. RESOLUÇÃO NUMÉRICA DE GRANDES SISTEMAS ESPARSOS. MÉTODOS NUMÉRICOS PARA EQUAÇÕES DIFERENCIAIS.\n",
+       "BibliografiaBasica": "1- Argimiro R. Secchi e Evaristo C. Biscaia Jr.: ?Métodos Numéricos para Engenheiros Químicos?, 2020\n2- Dalcídio Moraes Cláudio e Jussara Maria Marins: ?Cálculo Numérico Computacional?, Atlas, 2a Edição, 1994\n3- Décio Sperandio, João Teixeira Mendes e Luiz Henry Monken e Silva: ?Cálculo Numérico: Características Matemáticas e Computacionais dos Métodos Numéricos?, Pearson - Prentice Hall, São Paulo, 2003\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 10:00",
+        "professor": "MAURO ANTONIO RINCON"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 10:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "ICP231"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ICP516",
+      "Nome": "Análise Num Eq Dif Ordinárias",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Fundamentos de Equações Diferenciais Ordinárias. Discretizacao. Compatibilidade. Estabilidade e convergencia. Problemas de valor inicial e de contornos. Metodos de passos simples e multiplos, predicao - correcao, tiro, diferencas finitas. Metodos integrais e variacionais.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ICP230"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ICP518",
+      "Nome": "Teoria de Grafos",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Revisão dos Conceitos Básicos de Teoria dos Grafos. Representação de Grafos. Subgrafos. Árvores, articulações, pontes. Conectividade, blocos. Circuitos eulerianos. Ciclos hamiltonianos. Emparelhamentos. Coloração de arestas. Conjuntos independentes e cliques. Coloração de vértices. Grafos planares.\n___BIBLIOGRAFIA BÁSICA___\n1) Szwarcfiter, J. L, Grafos e Algoritmos Computacionais, Editora Campus.\n2) J. A. Bondy and U. S. R. Murty, Graph Theory with Applications, North-Holland, 1976.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ICP368"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEB599",
+      "Nome": "Est da Líng Bras de Sinais I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Nomes próprios; pronomes pessoais; demonstrativos; possessivos; locativos em sentenças simples do tipo pergunta-resposta com \"o que\" e \"quem\" e outros vocábulos básicos; numerais; quantidade; topicalização; flexão verbal; flexão de negação; expressões faciais e corporais; percepção visual; conversação; diálogos; textos: LIBRAS, cultura e comunidade surda.\n",
+       "BibliografiaBasica": "1) BRITO, L. F. Por uma gramática de língua de sinais. Rio de Janeiro: Tempo Brasileiro, 1995.\n2) FELIPE, T.; MONTEIRO, M. S. LIBRAS em contexto. Curso Básico. Brasília: Ministério da Educação e do Desporto/Secretaria de Educação Especial, 2001.\n3) GESSER, A. Libras - Que língua é essa? Crença e preconceitos em torno da língua de sinais e da realidade surda. Florianópolis: Parábola, 2009.\n4) STROBEL, K. L. As imagens do outro sobre a cultura surda. Florianópolis: EdUFSC, 2008.\n",
+       "BibliografiaComplementar": "1) PIMENTA, Nelson e QUADROS, Ronice Muller. Curso de Libras I, LSB Vídeo, volume I, Iniciante, 2006 e 3a ed., 2008.\n2) Dicionário Enciclopédico Ilustrado Triíngue da Língua de Sinais Brasileira ? vol 1 e vol. 2 Site: www.acessobrasil.org.brasil\n3) Dicionário da Língua Brasileira de Sinais, INES, versão, 2.0, ano 2006.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     }
+    ]
+   },
+   "obrigatorias": 24,
+   "eletivas": 14,
+   "ano": "2008/1 a 2024/2"
+  },
+  {
+   "materias": {
+    "1º Período": [
+     {
+      "Codigo": "MAA116",
+      "Nome": "Fundamentos de Matemática",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Elementos de lógica. Elementos da Teoria dos conjuntos. Funções. Relações de equivalência. Relações de ordem. Indução matemática. Algorítmo da divisão e máximo divisor comum, Teorema de Bezout. Números primos e fatoração de inteiros. Aritmética modular, Pequeno Teorema de Fermat, Teorema de Euler e Teorema chinês dos restos.\n",
+       "BibliografiaBasica": "1- HALMOS Paul R. Naive set theory. Princeton: Van Nostrand, 1966.\n2- HEFEZ, Abramo. Curso de álgebra. Rio de Janeiro : IMPA, 2013.\n3- POLCINO MILIES, César; COELHO, Sônia Pitta. Números: uma introdução à matemática. São Paulo :EDUSP, 2001.\n",
+       "BibliografiaComplementar": "1- HUNGERFORD, Thomas W. Algebra. New York: Springer Verlag; Heidelberg: Springer Verlag, c1974.\n2- LIMA, Elon Lages. Curso de análise. Volume 1. Rio de Janeiro: IMPA, 2011.\n3- MUNKRES, James R. Topology. New Jersey: Prentice Hall, c2000.\n4- NEVES, Wladimir Augusto das. Uma introdução à análise real. Rio de Janeiro: UFRJ/IM, 2007.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 15:00",
+        "professor": "JOAO MIRANDA CARNEVALE"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 15:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAC118",
+      "Nome": "Cálculo Difer e Integral I",
+      "Créditos": "6.0",
+      "Teórica": "90",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Técnicas de Integração. Integral Imprópria.\n",
+       "BibliografiaBasica": "1) SANTOS, A. R.; BIANCHINI, Waldecir. Aprendendo Cálculo com Maple: Cálculo de Uma Variável. 1ª ed. Rio de Janeiro: LTC, 2002.\n2) LEITHOLD, Louis. O Cálculo com Geometria Analítica. 3.ed. São Paulo: Harbra, 2002. vol. 1.\n3) STEWART, James. Cálculo. 4.ed. São Paulo: Pioneira Thomson Learning, 2002. vol. 1.\n",
+       "BibliografiaComplementar": "1) ANTON, H.; BIVIS. I.; DAVIS, S. Cálculo, Vol. I. 8ª ed. Editora Harbra.\n2) APOSTOL, TOM M. Calculus, Vol. 1: One Variable Calculus With an Introduction to Linear Algebra. 2ª ed. - Ed. Wiley.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "17:00 - 18:30",
+        "professor": "AFTAB PANDE"
+       },
+       {
+        "dia": "Qua",
+        "hora": "17:00 - 18:30",
+        "professor": ""
+       },
+       {
+        "dia": "Sex",
+        "hora": "17:00 - 18:30",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ICP121",
+      "Nome": "Computação I",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Informações relevantes de um problema e sua respectiva representação computacional. Resolução de problemas de forma algorítmica. Aspectos sintático se semânticos de uma linguagem de programação de alto nível. Comandos, estruturas de dados e estruturas básicas para a construção de soluções computacionais. Modelagem e implementação de código modularizado. Noções de organização,reutilização e legibilidade de código. Princípios das boas práticas de programação.\n",
+       "BibliografiaBasica": "1) Nilo N. C. Menezes. Introdução a programação com Python - Algoritmos e Lógica de Programação para iniciantes. 3ª edição. Novatec. 2019.\n2) Mark Lutz e David Ascher.Aprendendo Python.Bookman Companhia Ed. 2ª edição. 2007.\n3)Carla A. D. M. Delgado, João C. P. da Silva, Fabio Mascarenhas, Ana Luisa Duboc. The teaching of functions as the first step to learn imperative programming.\n4) WORKSHOP SOBRE EDUCAÇÃO EM COMPUTAÇÃO (WEI), 24, 2016, Porto Alegre. Anais[...]. PortoAlegre: Sociedade Brasileira de Computação, 2016.p. 2393-2402. ISSN2595-6175.DOI: .\n5) Python Software Foundation. Otutorialde Python. 2001-2023.\n",
+       "BibliografiaComplementar": "1) Plataforma para prática de programação:\n2) Site oficial da linguagem Python:\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 10:00",
+        "professor": "HUGO DE HOLANDA CUNHA NOBREGA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 10:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAC117",
+      "Nome": "Geometria I",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Breve histórico do trabalho de Euclides; Axiomas e postulados; Proposições, Teoremas e Corolários; Elementos de um resultado: hipóteses e tese; Geometria Plana- Modelos de Geometrias Discretas; Axiomas de incidência, de ordem e de mediição de segmentos; Função distância; Sistemas de Coordenadas na reta; Semiplanos; Ângulos; Convexidade; Congruência; Teorema do ângulo externo e consequências; O quinto postulado de Euclides; Teorema de Tales; Semelhança de triângulos; Teorema de Pitágoras; Círculos; Polígonos; Funções Trigonométricas; Áreas; Geometria Espacial- Axiomas de incidência e da tridimensionalidade; Retas: Planos; Construção de Sólidos; Volumes: Princípio de Cavalieri.\n",
+       "BibliografiaBasica": "1) BARBOSA, João Lucas Marques. Geometria euclidiana plana. Rio de Janeiro: SBM, c2006.\n2) CARVALHO, Paulo Cezar Pinto. Introdução à geometria espacial. Rio de Janeiro: SBM,\nc2005.\n3) GREENBERG, M.J. Euclidean and non-euclidean Geometries. New York: W.H. Freeman and Company, c1993 .\n",
+       "BibliografiaComplementar": "1) HILBERT, D; COHN-VOSSEN, S. Geometry and the imagination. Utrecht: Information Doc Centregeog Netherlands, c1952.\n2) MOISE, Edwin E. Elementary Geometry from an advanced standpoint. Reading [Mass., Estados Unidos]; Menlo Park: Addison-Wesley, c1974.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 10:00",
+        "professor": "VINICIUS BOUCA MARQUES DA COSTA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 10:00",
+        "professor": ""
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 10:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAWZ52",
+      "Nome": "Ativ Curricular Extensão - Bma",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "0",
+      "Extensão": "240",
+      "Informação": {
+       "Info": "Atuação em atividades de extensão registradas na Pró-Reitoria de Extensão da UFRJ, tais como: programas, projetos, cursos de extensão e eventos; atuação em quaisquer outras atividades de extensão, assim caracterizadas em conformidade com as definições contidas em ?Extensão Universitária: Organização e Sistematização?, do FÓRUM DE PRÓ-REITORES DE EXTENSÃO DAS UNIVERSIDADES PÚBLICAS BRASILEIRAS. Belo Horizonte: COOPMED, 2007, a critério da coordenação do curso.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "2º Período": [
+     {
+      "Codigo": "MAD233",
+      "Nome": "Cálculo das Probabilidades I",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Probabilidade. Probabilidade condicional. Independência. Variáveis aleatórias discretas e contínuas. Esperança e variância de variáveis aleatórias. Modelos de variáveis aleatórias unidimensionais.\n",
+       "BibliografiaBasica": "1) DEGROOT, Morris. H.; SCHERVISH, Mark J. Probability and statistics. Boston: Addison-Wesley, c2002.\n2) HOEL, Paul Gerhard; PORT, Sidney C.; STONE, Charles Joel. Introdução à teoria da probabilidade. Rio de Janeiro : Interciência, 1978.\n3) ROSS, Sheldon M. A first course in probability. New Jersey: Pearson/Prentice Hall, c2006.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 15:00",
+        "professor": "GIULIO IACOBELLI"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 15:00",
+        "professor": ""
+       },
+       {
+        "dia": "Sex",
+        "hora": "13:00 - 15:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MAC128(C)MAC128=MAE123MAC128=MAW231MAC128=MAE121MAC128=MAC124MAC128=MAC123"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAC123",
+      "Nome": "Cálculo II",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Polinômios de Taylor; Séries Infinitas; Séries de potências; Curvas e vetores no espaço; Superfícies; Funções de Várias Variáveis; Máximos e Mínimos de Funções IR² em IR ;\nMáximos e Mínimos Condicionados de funções de IR² em IR e de IR³ em IR.\n",
+       "BibliografiaBasica": "1) ANTON, Howard; BIVIS, Iri; DAVIS, Stephen. Cálculo. Volume II. São Paulo: Editora Harbra, 2007.\n2) PINTO, Diomara; MORGADO, Maria Cândida Ferreira. Cálculo diferencial e integral de funções de várias variáveis. Rio de Janeiro: UFRJ, 2000.\n3) STEWART, James. Cálculo. Volume II. São Paulo : Cengage Learning, 2014.\n",
+       "BibliografiaComplementar": "1) APOSTOL, Tom Mike. Calculus. Volume II. New York: J. Wiley, c1969.\n2) COURANT, Richard. Differential and integral calculus. New York: Interscience, 1950[1936].\n3) GUIDORIZZI, Hamilton Luiz. Um curso de cálculo. Volume II. Rio de Janeiro: LTC, 2001.\n4) LEITHOLD, Louis. O Cálculo com geometria analítica. Volume II. São Paulo: Habra, 1994\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "10:00 - 12:00",
+        "professor": "WILLIAM MATHEUS MICHEL BRAUCKS"
+       },
+       {
+        "dia": "Qua",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       },
+       {
+        "dia": "Sex",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MAC113"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAE125",
+      "Nome": "Álgebra Linear",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Sistemas de equações lineares e Eliminação Gaussiana. Matrizes e determinante. Espaços vetoriais Euclidianos. Geometria dos espaços vetoriais de dimensão finita. Transformações lineares. Espaços vetoriais com produto interno. Ortogonalidade e mínimos quadrados. Autovalores e autovetores. Teorema espectral. Aplicações à solução de Equações Diferenciais Ordinárias e em Geometria Euclidiana.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "10:00 - 12:00",
+        "professor": "HEUDSON TOSTA MIRANDOLA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "3º Período": [
+     {
+      "Codigo": "MAA236",
+      "Nome": "Teoria de Grupos",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Grupos, subgrupos, anéis e corpos; Relações de equivalência; Grupos finitos e Teorema de Lagrange; Grupos cíclicos e abelianos; Grupo quociente; Subgrupos normais; Homomorfismos; Os teoremas de isomorfismo; Grupos de permutações; Grupo alternado e dihedral; Aplicações: classificação de sólidos.\n",
+       "BibliografiaBasica": "1- Cohn, P., Algebra (vol 1.)\n2- Dummit, D. S. & Richard M. Foote, Abstract Algebra.\n3- Garcia, A. & Lequain Y., Elementos de Álgebra.\n",
+       "BibliografiaComplementar": "1- Artin, M. Algebra, Prentice Hall.\n2- Gonçalves, A., Introdução a Álgebra.\n3- Hefez, A., Curso de Àlgebra, vol 1.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 10:00",
+        "professor": "ERIK ANTONIO ROJAS MENDOZA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 10:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MAA116"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAE127",
+      "Nome": "Equações Diferenciais",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Equações diferenciais de 1ª ordem e aplicações; Teoremas de Existência e Unicidade de Soluções; Equações diferenciais lineares de 2ª ordem e aplicações;\n",
+       "BibliografiaBasica": "1) BOYCE, William E.; DIPRIMA, Richard C. Equações diferenciais elementares e problemas de valores de contorno. Rio de Janeiro: LTC, 2006.\n2) FIGUEIREDO, Djairo Guedes de; NEVES, Aloisio Freiria. Equações diferenciais aplicadas. Rio de Janeiro : IMPA, c2007.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "10:00 - 12:00",
+        "professor": "STEFANELLA BOATTO"
+       },
+       {
+        "dia": "Qui",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MAC123",
+       "MAE125"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIT112",
+      "Nome": "Física I - a",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução. Vetores. Velocidade e aceleração vetoriais. Os princípios da dinâmica. Aplicações das leis de Newton. Trabalho e energia mecânica. Conservação da energia. Momento linear e conservação do momento linear. Colisões. Rotação e momento angular. Dinâmica de corpos rígidos. Força que varia inversamente ao quadrado da distancia (gravitação).\n___ BIBLIOGRAFIA BÁSICA ___\n1) Física para Cientistas e Engenheiros, v.1. Mecânica, Oscilações e Ondas, Termodinâmica (6ª edição).\n2) Fundamentos de Física (4ª edição) D. Halliday. R. Resnick and J. Walker - John Wiley & Sons, Inc.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "15:00 - 17:00",
+        "professor": "BRUNO DE MOURA ESCHER"
+       },
+       {
+        "dia": "Sex",
+        "hora": "15:00 - 17:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAC233",
+      "Nome": "Cálculo III",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Teoremas da Função Implícita e Inversa; Integrais Duplas e Triplas; Mudança de Variáveis; Integrais Múltiplas Impróprias; Integral de linha escalar e vetorial; Teorema de Green; Parametrização e Área de superfícies; Integral de superfície escalar e vetorial; Teorema de Stokes e Gauss; Interpretação física; Campos conservativos.\n",
+       "BibliografiaBasica": "1) ANTON, Howard; BIVIS, Iri; DAVIS, Stephen. Cálculo. Volume II. São Paulo: Editora Harbra, 2007.\n2) PINTO, Diomara; MORGADO, Maria Cândida Ferreira. Cálculo diferencial e integral de funções de várias variáveis. Rio de Janeiro: UFRJ, 2000.\n3) STEWART, James. Cálculo. Volume II. São Paulo : Cengage Learning, 2014.\n",
+       "BibliografiaComplementar": "1) APOSTOL, Tom Mike. Calculus. Volume II. New York: J. Wiley, c1969.\n2) GUIDORIZZI, Hamilton Luiz. Um curso de cálculo. Volume II. Rio de Janeiro: LTC, 2003.\n3) MARSDEN, Jerrold E.; TROMBA, Anthony J. Vector calculus. New York : W. H. Freeman, c1988.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "10:00 - 12:00",
+        "professor": "ERWIN MAXIMILIANO TOPP PAREDES"
+       },
+       {
+        "dia": "Qua",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       },
+       {
+        "dia": "Sex",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MAC123"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAWX08",
+      "Nome": "Atividades Complementares",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "4º Período": [
+     {
+      "Codigo": "ICP231",
+      "Nome": "Cálculo Numérico",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Erros; Zeros de Funções; Resolução de Sistemas Lineares; Interpolação; Integração Numérica; Equações Diferenciais Ordinárias.\n",
+       "BibliografiaBasica": "1) Dorn, William S. e Mc Cracken, Daniel D.; Cálculo Numérico com Estudos de Casos em Fortran IV\n2) Ruggiero, Márcia A. Gomes e Lopes, Vera Lucia Rocha; Cálculo Numérico, Aspectos Teóricos e Computacional\n3) Stark ,Peter A.; Introdução aso Métodos Numéricos\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "10:00 - 12:00",
+        "professor": "MARCELLO GOULART TEIXEIRA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "ICP121",
+       "MAC128"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAA246",
+      "Nome": "Teoria de Anéis",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Anéis e subanéis, domínios e corpos; Ideais, ideais principais e ideais maximais; Anéis de polinômios; Domínios euclidianos e seus ideais; Domínios de ideais principais e Anéis fatoriais; Quociente de um anel por um ideal; Corpo de frações de um domínio; Homomorfismos de anéis; Anel de coordenadas de um conjunto algébrico; Teorema dos Zeros de Hilbert; Aplicações.\n",
+       "BibliografiaBasica": "1- Artin, M. Algebra. New Jersey: Prentice-Hall, 1991.\n2- Dummit, David Steven; Foote, Richard M. Abstract Algebra, c2004.\n3- Herstein, I. N., Tópicos de álgebra. São Paulo : Edusp, 1970.\n",
+       "BibliografiaComplementar": "1- Garcia, Arnaldo; Lequain, Yves. Elementos de álgebra. Rio de Janeiro: IMPA, c2002.\n2- Hungerford, Thomas W. Algebra, C1974.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MAA116"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIM230",
+      "Nome": "Física III - a",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Lei de Coulomb. Campos elétricos. Lei de Gauss. Potencial Elétrico, capacitores, correntes e circuitos. Campos magnéticos, leis de Ampere e Biot - Savart, Lei de Faraday, indutância, corrente de deslocamento. Circuitos de corrente alternada, equações de Maxwell.\n",
+       "BibliografiaBasica": "1) Física, volume 2. Eletricidade e Magnetismo, Ótica (5ª edição). Paul A. Tipler e Gene Mosca. LTC Editora S.A.\n2) Curso de Física Básica, volume 1. Mecânica, Oscilações e Ondas. H. Moysés Nussenzveig - Editora Edgard Blücher Ltda.\n3) Fundamentos de Física (4ª edição). D. Halliday. R. Resnick e J. Walker - John Wiley & Sons, Inc.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "FIT112",
+       "MAC128"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAA240",
+      "Nome": "Análise I",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Construção dos números reais; Sequências e séries numéricas; Topologia da reta; Limite e continuidade; Derivadas; Integral de Riemann.\n",
+       "BibliografiaBasica": "1) FIGUEIREDO, Djairo Guedes de. Análise da reta. Rio de Janeiro: IMPA, s1973.\n2) LIMA, Elon Lages. Curso de análise. Volume 1. Rio de Janeiro: IMPA, 2011.\n3) RUDIN, Walter. Principles of mathematical analysis. New York: Mcgraw-Hill Book, c1964.\n",
+       "BibliografiaComplementar": "1)BARTLE, Robert Gardner; SHERBERT, Donald R. Introduction to real analysis. New Jersey: J. Wiley & Sons, c2011.\n2) NEVES, Wladimir Augusto das. Uma introdução à análise real. Rio de Janeiro: UFRJ/IM, 2007.\n3) TAO, Terence. Analysis I. New Delhi, India :Hindustan Book Agency, 2006.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 10:00",
+        "professor": "FELIPPE SOARES GUIMARAES"
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 10:00",
+        "professor": ""
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 10:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MAA116",
+       "MAC118"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAAX13",
+      "Nome": "Seminário de Matemática",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Palestras dirigidas à orientação profissional dos alunos, ministradas por docentes da área de Matemática ou de áreas afins e também por profissionais de áreas do mercado de trabalho sobre temas que possam vir a interessar aos futuros Matemáticos.\n",
+       "BibliografiaBasica": "Variável\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "5º Período": [
+     {
+      "Codigo": "MAA245",
+      "Nome": "Análise II",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A topologia de espaços Euclidianos; Sequências e séries; Limite e Continuidade; Diferenciabilidade em IRn; Integral de Riemann para Funções de várias variáveis.\n",
+       "BibliografiaBasica": "1) DIEUDONNÉ, Jean. Foundations of Modern Analysis. New York: Academic Press, 1969.\n2) LIMA, Elon Lages. Curso de análise. Volume 1. Rio de Janeiro: IMPA, 2011.\n3) RUDIN, Walter. Principles of mathematical analysis. New York: Mcgraw-Hill Book, c1964.\n",
+       "BibliografiaComplementar": "1) BARTLE, Robert Gardner. Elements of real analysis. New York; London: J. Wiley, c1976.\n2) CIPOLATTI, Rolci de Almeida. Cálculo avançado I. Rio de Janeiro: UFRJ, 2012.\n3) TAO, Terence. Analysis II. New Delhi, India :Hindustan Book Agency, 2006.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 10:00",
+        "professor": "ISAIA NISOLI"
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 10:00",
+        "professor": ""
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 10:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MAA240"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIM240",
+      "Nome": "Física IV - a",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Ondas eletromagnéticas. Energia e momento da luz. Noções da relatividade restrita. Ótica geométrica. Fenômenos de interferência. Difração. Polarização. Física moderna. Efeitos fotoelétricos e Compton. Átomo de hidrogênio. Difração de elétrons. Função de onda. Equação de Schroedinger. Principio de incerteza.\n",
+       "BibliografiaBasica": "1) Física, volume 2. Eletricidade e Magnetismo, Ótica (5ª edição). Paul A. Tipler e Gene Mosca. LTC Editora S.A.\n2) Física, volume 3. Física Moderna, Mecânica Quântica, Relatividade e a Estrutura da Matéria (5ª edição). Paul A. Tipler e Gene Mosca. LTC Editora S.A.\n3) Curso de Física Básica , volume 4. Ótica, Relatividade, Física Quântica H. Moysés Nussenzveig - Editora Edgard Blücher Ltda.\n4) Física IV. Ótica e Física Moderna Young & Freedman (12ª edição).\n5) Fundamentos de Física (4ª edição). D. Halliday. R. Resnick and J. Walker - John Wiley & Sons, Inc.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "10:00 - 12:00",
+        "professor": "PATRICIA LUSTOZA DE SOUZA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "FIM230"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAA355",
+      "Nome": "Álgebra Linear III",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Espaços vetoriais reais e complexos; Matriz de mudança de base; Transformações lineares; Funcionais lineares e anuladores; Operadores diagonalizáveis; Base bandeira e triangularização de uma matriz quadrada; A formas canônica de Jordan; Operadores autoadjuntos e normais; Diagonalização simultânea de Operadores Normais.\n",
+       "BibliografiaBasica": "1) HOFFMAN, Kenneth; KUNZE, Ray Alden. Álgebra linear. New York: UNCTE, 1976.\n2) LANG, Serge. Algebra. New York: Springer Science, c2002.\n3) LIMA, Elon Lages. Álgebra linear. Rio de Janeiro: IMPA, 2003.\n",
+       "BibliografiaComplementar": "1)LIPSCHUTZ, Seymour. Álgebra linear. São Paulo: McGraw-Hill Brasil, 1974.\n2)SHILOV, Georgi Evgen'evich. Linear algebra. Englewood Cliffs, N.J.: Prentice-Hall, c1971.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "10:00 - 12:00",
+        "professor": "SEYED HAMID HASSANZADEH HAFSHEJANI"
+       },
+       {
+        "dia": "Qui",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MAE125"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "6º Período": [
+     {
+      "Codigo": "MAC351",
+      "Nome": "Equações Dif Parciais I",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Classificação das EDP e curvas características; Séries de Fourier; Equação de Ondas ;\nquação do Calor na Barra finita; Problema de Dirichlet e de Neumann para a Equação de laplace o disco e no retângulo.\n",
+       "BibliografiaBasica": "1) FIGUEIREDO, Djairo Guedes de. Análise de Fourier e equações diferenciais parciais. Rio de Janeiro: IMPA, c2003.\n2) IORIO, Valéria de Magalhães. EDP: um curso de graduação. Rio de Janeiro: IMPA, c2010.\n3) KREIDER, Donald L.; KULLER, Robert G.; OSTBERG, D. R.; PERKINS, F. W. Introdução à Análise Linear.Rio de Janeiro: Ao Livro Técnico, 1972.\n",
+       "BibliografiaComplementar": "1) MEDEIROS, Luis Adauto; ANDRADE, Nirzi Gonçalves. Introdução às Equações Diferenciais Parciais. Rio de Janeiro: LTC, 1978.\n2) TIJONOV, A. N.; SAMARSKY, A. A. Ecuaciones de la Fisica Matematica. Moscou: Editorial Mir, 1980\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MAC233"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MACX13",
+      "Nome": "Projeto de Matemática",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "120",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Atividade acadêmico-científico-cultural, visando aperfeiçoar a formação dos alunos na área de Matemática ou áreas afins, visando um curso de pós-graduação nestas áreas ou a inserção em projetos aplicados. Também pode ser uma oportunidade para iniciar um processo de aprendizado didático para os alunos que pretenderem seguir uma carreira docente.\n",
+       "BibliografiaBasica": "Variável\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAA353",
+      "Nome": "Funções Complexas I",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Números Complexos. Funções Analíticas; Funções elementares. Integrais. Séries de potências. Resíduos e polos. Transformações por funções elementares.\n",
+       "BibliografiaBasica": "1) ÁVILA, G. Variável complexa e aplicação. Rio de Janeiro: Livros técnicos e científicos, 2000.\n2) CHURCHILL, Ruel Vance. Variáveis complexas e suas aplicações. São Paulo: EDUSP, 1975.\n3) FERNANDEZ, Cecilia de Souza; BERNARDES Jr, Nilson C. Introdução às funções de uma variável complexa. Rio de Janeiro: SBM, 2008.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 15:00",
+        "professor": "ALEXANDER EDUARDO ARBIETO MENDOZA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 15:00",
+        "professor": ""
+       },
+       {
+        "dia": "Sex",
+        "hora": "13:00 - 15:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MAA236",
+       "MAC233"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAC360",
+      "Nome": "Geometria Diferencial I",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Curvas planas; Fórmulas de Frenet. Curvas no espaço; Teorema Fundamental das curvas em R3. Teoria local das superfícies: superfícies parametrizadas em R3; plano tangente; primeira forma fundamental; aplicação normal de Gauss; segunda forma fundamental; curvaturas média e gaussiana; classificação de pontos na superfície; linhas de curvatura; linhas assintóticas; geodésicas; Teorema Egregium de Gauss; Equações de Gauss e Mainardi-Codazzi; Teorema de Bonnet, Teorema de Gauss-Bonnet.\n",
+       "BibliografiaBasica": "1) ARAUJO, Paulo Ventura. Geometria diferencial. Rio de Janeiro : IMPA, c2008.\n2) CARMO, Manfredo Perdigão do. Geometria diferencial de curvas e superfícies. Rio de Janeiro: SBM, c2005.\n3) TENENBLAT, Keti. Introducao a Geometria Diferencial. Brasília: UNB, 1988.\n",
+       "BibliografiaComplementar": "1) KUHNEL, Wolfgang. Differential Geometry: Curves ? Surfaces ? Manifolds. AMS, 2006.\n2) STRUIK, D.J. Geometria Diferencial Clásica. Madrid: Aguilar, 1955.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MAC233",
+       "MAE125"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "7º Período": [],
+    "8º Período": [],
+    "Disciplinas Optativas (Escolha Restrita)": [
+     {
+      "Codigo": "ICP015",
+      "Nome": "Comput Científ Equaç Dif Parc",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Modelagem matemática com Equações Diferenciais Parciais (EDPs) de problemas de diferentes áreas: Leis físicas e relações constitutivas; leis de conservação; modelos baseados em EDPs; exemplos e aplicações. Aplicação do método das diferenças finitas: Introdução ao método; problemas estacionários e de autovalores: equações de Laplace e Poisson; problemas de propagação: equação de difusão; equação da onda ou de advecção.\n___BIBLIOGRAFIA BÁSICA___\n1) R. L. Burden e J. D. Faires, Análise Numérica, Cengage Learning (2008).\n2) Steven C. Chapra e Raymond P. Canale, Métodos Numéricos para Engenharia, AMGH; 7ª edição (2016).\n3) R. Cipolatti e J. L. Gondar, Iniciação à Física Matemática, 2ª edição. Coleção Matemática e Aplicações, IMPA (2016).\n4) J. A. Cuminato e M. Meneguette Jr. Discretização de Equações Diferenciais Parciais, SBM (2013).\n5) Stig Larsson e Vidar Thomée, Partial Differential Equations with Numerical Methods, Springer (2009).\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ICP014"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ICP017",
+      "Nome": "Otimização Linear",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Modelagem e Caracterização dos Problemas de Programação Linear. Revisão sobre Método Simplex, Dualidade, Problema Dual e Método Dual Simplex. Técnicas de Inicialização: Métodos das Duas Fases. Problemas de Convergência e Degeneração. Análise de Sensibilidade. Condições de Otimalidade. Método dos Pontos Interiores. Aplicações: Problemas de Transporte, Fluxo em Rede, Alocação e Caminho Mínimo.\n___BIBLIOGRAFIA BÁSICA___\n1) M. S. Bazaraa, J. J. Jarvis e H.D. Sherali, Linear Programming and Network Flows. John Wiley & Sons, 4th edition (2009).\n2) M. Goldbarg e H. Pacca Luna, Otimização Combinatória e Programação Linear. Elsevier, 2ª Edição (2005).\n3) S. J. Wright, Primal-Dual Interior-Point Methods. Society for Industrial and Applied Mathematics (1997).\n4) J. Nocedal e S. J. Wright, Numerical Optimization. Springer, 2nd. edition (2006).\n5) D. Bertsimas e J. N. Tsitsiklis, Introduction to Linear Optimization, Athena Scientific (1997).\n6) N. Maculan e  M. H. C. Fampa, Otimização Linear, Editora da UnB (2006).\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ICP365"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ICP027",
+      "Nome": "Criptografia",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Algoritmos simétricos: cifra em blocos, Algoritmos assimétricos. Algoritmos de fatoração, Algoritmos de resolução do logaritmo discreto. Assinatura digital. Funções hash seguras.\n___BIBLIOGRAFIA BÁSICA___\n1) Buchmann, Introduction to cryptography, segunda edição, Springer (2004).\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) Coutinho, S. C. Números inteiros e criptografia RSA, segunda edição, IMPA (2000).\n2) Hoffstein, J.; Pipher, J. e Silverman, J. H. An Introduction to Mathematical Cryptography, segunda edição, Springer (2014).\n3) Menezes, A. J.; van Oorschot, P. C. e Vanstone, S. A., Handbook of Applied Cryptography, CRC Press (2001).\n4) Schechter, L. M. Uma Introdução à Criptografia de chave pública através do método El Gamal, SBMAC (2014).\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ICP115",
+       "ICP131",
+       "ICP134"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ICP116",
+      "Nome": "Estrutura dos Dados",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Complexidade de algoritmos. Listas lineares em alocação sequencial e dinâmica. Árvores, Árvores Binárias de Busca e Árvores balanceadas, heap. Tabelas de dispersão (hash tables). Conjuntos, coleção de conjuntos disjuntos. Listas de Prioridades. Algoritmos de ordenação: Radix sort, quick e heap sort.\n___BIBLIOGRAFIA BÁSICA___\n1) Jayme L. Szwarcfiter e Lilian Markenzon. Estruturas de Dados e seus Algoritmos. LTC, 3ª ed, 2010.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ICP141"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ICP141",
+      "Nome": "Programação de Computadores II",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Pesquisa sequencial e pesquisa binária; Ordenação por inserção e por seleção; Ponteiros e alocação dinâmica de memória;  Estruturas de dados lineares: listas, pilhas e filas; Persistência de dados com arquivos; Noções de complexidade de algoritmos.\n",
+       "BibliografiaBasica": "1) W. Celes, R. Cerqueira, J. Rangel, Introdução a estruturas de dados: com técnicas de programação em C, Elsevier Brasil, 2017.\n2) Flávio Varejão, Introdução à programação: uma nova abordagem usando C, Campus/Elsevier, 2015.\n3) Estruturas de dados e seus algoritmos, J. Szwarcfiter e L. Markenzon. LTC, 3ª ed, 2010.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ICP131"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ICP241",
+      "Nome": "Computação II",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Projeto e construção de programas usando modelagem orientada a objetos. Tratamento de exceções. Construção de código organizado e reutilizável. Boas práticas de programação. Construção de interfaces de interação gráfica com o usuário. Persistência de dados. Uso de pacotes científicos, matemáticos e outros na resolução de problemas do campo da engenharia ou outras áreas.\n",
+       "BibliografiaBasica": "1− Material de referência para ensino de Python do Instituto de computação.\n2− Orientação a Objetos: Aprenda seus conceitos e suas aplicabilidades de forma efetiva,: Carvalho, Thiago Leite (4a edição), 2021.\n3− MENEZES, N. N. C. Introdução à Programação com Python: Algoritmos e lógica de programação para iniciantes. Editora Novatec, 4a ed., 2024.\n4− RAMALHO, L. Python Fluente: Programação Clara, Concisa e Eficaz, Editora Novatec, 2015.\n5− Aprendendo Python, Mark Lutz, David Ascher, Bookman Companhia Ed., 2007.\n6− Learning Python: Powerful Object-Oriented Programming (English Edition), Mark Lutz, 2013\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ICP121"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ICP368",
+      "Nome": "Algoritmos e Grafos",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Representação de Grafos; Ordenação Topológica; Buscas em grafos e Digrafos (largura e profundidade); Técnicas de Desenvolvimento de Algoritmos; Decomposição; Recursão; Algoritmo Guloso; Programação Dinâmica; Aplicação das Técnicas Usadas; Fluxo Máximo.\n___BIBLIOGRAFIA BÁSICA___\n1) Teoria Computacional de Grafos; os algoritmos. Jayme Luiz Swarcfiter, Fabiano S. Oliveira e Paulo E. D. Pinto. Elsevier, 2018.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ICP116",
+       "ICP144"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ICP478",
+      "Nome": "Métodos Numéricos I",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "INTERPOLAÇÃO POLINOMIAL. FUNÇÕES SPLINE. AJUSTE DE CURVAS. INTEGRAÇÃO NUMÉRICA. MATRIZ SIMÉTRICA. MATRIZ DEFINIDA POSITIVA. MÉTODOS DIRETOS (GRAUSS, LU, CHOLESKY), E ITERATIVOS (GAUSS-JACOBI, GAUSS-SEIDEL, GRADIENTE CONJUGADO) PARA SISTEMA LINEAR. SISTEMA NÃO LINEAR. ELEMENTOS DE ÁLGEBRA LINEAR. NÚMERO DE CONDICIONAMENTO. PROPAGAÇÃO DE ERROS. RESOLUÇÃO NUMÉRICA DE GRANDES SISTEMAS ESPARSOS. MÉTODOS NUMÉRICOS PARA EQUAÇÕES DIFERENCIAIS.\n",
+       "BibliografiaBasica": "1- Argimiro R. Secchi e Evaristo C. Biscaia Jr.: ?Métodos Numéricos para Engenheiros Químicos?, 2020\n2- Dalcídio Moraes Cláudio e Jussara Maria Marins: ?Cálculo Numérico Computacional?, Atlas, 2a Edição, 1994\n3- Décio Sperandio, João Teixeira Mendes e Luiz Henry Monken e Silva: ?Cálculo Numérico: Características Matemáticas e Computacionais dos Métodos Numéricos?, Pearson - Prentice Hall, São Paulo, 2003\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 10:00",
+        "professor": "MAURO ANTONIO RINCON"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 10:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "ICP231"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ICP638",
+      "Nome": "Computação Algébrica",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Modelagem polinomial de problemas de geometria plana; anéis, domínios, corpos e ideais; polinômios em uma variável: divisão de polinômios, máximo divisor comum, algoritmo euclidiano estendido e ideais; polinômios em várias variáveis: ideais, radicais e geometria; ordens monomiais; divisão em várias variáveis; bases de Gröbner; o algoritmo de Buchberger; o critério de Buchberger; problema da pertinência a um ideal; aplicações à geometria plana.\n___BIBLIOGRAFIA BÁSICA___\n1) Coutinho, S. C., Polinômios e computação algébrica, IMPA (2012).\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) Adams,W. W. e Loustaunau,P. An introduction to Gröbner bases, AMS (1994).\n2) Cox, D., Little, J.  e O'Shea, D. Ideals, varieties and algorithms, Springer (1992).\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ICP115",
+       "ICP131",
+       "ICP134"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ICP014",
+      "Nome": "Comput Científ Equaç Dif Ordin",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Modelagem matemática de problemas que resultam em Problemas de Valor Inicial (PVIs) e Problemas de Valor de Contorno (PVCs) para Equações Diferenciais Ordinárias (EDOs). Métodos numéricos para PVIs. Métodos para EDOs rígidas. Método das Diferenças Finitas aplicado a PVCs.\n___BIBLIOGRAFIA BÁSICA___\n1) R. L. Burden e J. D. Faires, Análise Numérica, Cengage Learning (2008).\n2) Steven C. Chapra e Raymond P. Canale, Métodos Numéricos para Engenharia. AMGH; 7ª edição (2016).\n3) Kendall E. Atkinson, Weimin Han e David E. Stewart, Numerical Solution of Ordinary Differential Equations, John Wiley & Sons (2009).\n4) Angela B. Shiflet and George W. Shiflet, Introduction to computational science: modeling and simulation for the sciences,  2ª edição, Princeton University Press (2014).\n5) Ricardo Rosa, Notas de aula em Equações Diferenciais Ordinárias -   http://www.labma.ufrj.br/~rrosa/dvifiles/apostila-ed-agosto2009\n6) Uri M. Ascher, Numerical Methods for Evolutionary Differential Equations, SIAM  (2008).\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ICP248",
+       "ICP351"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ICP016",
+      "Nome": "Introd Métod Elementos Finitos",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Exemplos da Física Matemática; Leis de conservação e equações constitutivas. Relação com outros métodos numéricos. Discussão sobre convergência e cálculo de erros. Funções base e peso. Formulações forte e fraca em problemas uni e bi dimensionais estacionários.  Abordagem de aspectos computacionais do método. Apresentação diferentes classes de elementos finitos. Introdução de outras complexidades: problemas envolvendo o tempo ou mais de um campo a ser resolvido, a critério do professor.\n___BIBLIOGRAFIA BÁSICA___\n1) M. A. Rincon e I-S. Liu.  Introdução ao Método de Elementos Finitos, UFRJ/IM (2020).\n2) M. S. Carvalho e J. V. Valerio.  Introdução ao Método de Elementos Finitos: Aplicação em Dinâmica dos Fluidos, SBMAC (2012).\nhttp://dx.doi.org/10.5540/001.2012.0061.01\n3) T. J. R. Hughes, ?The Finite Element Method: Linear Static and Dynamic Finite Element Analysis?, Dover Publications, 2000.\n4) C. Johnson, ?Numerical Solution of Partial Differential Equations by the Finite Element Method?, Dover Publications, 2009.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ICP248"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ICP018",
+      "Nome": "Otimização Não Linear",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Modelagem e Caracterização de Problemas Não Lineares. Revisão Programação Não Linear irrestrita: Condições de otimalidade, direções de descida e busca linear, métodos Gradiente e Newton. Métodos: Gradientes Conjugados, Quase-Newton e sem derivada. Programação Não Linear com restrições: modelagem, condições KKT. Métodos Gradiente Projetado e Reduzido; Penalização e Barreira; Lagrangeano Aumentado; Programação Quadrática Sequencial; Planos Cortantes.Aplicações.\n___BIBLIOGRAFIA BÁSICA___\n1) D. Bertsekas, Nonlinear Programming. Athena Scientific, 3rd edition (2016).\n2) A. Friedlander, Elementos de Programação Não Linear. Editora Unicamp (1994).\n3) A. Izmailov, M. Solodov, Otimização - Métodos Computacionais. Vol. 2. IMPA (2007).\n4) J. Nocedal e S. J. Wright, Numerical Optimization. Springer, 2nd. edition (2006).\n5) A. Ribeiro e E. Karas, Otimização Contínua: Aspectos Teóricos e Computacionais. Cengage Learning, 1ª Edição (2013).\n6) D. Bertsimas e J.N. Tsitsiklis, Optimization, Cambridge University Press (2004).\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ICP365"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ICP037",
+      "Nome": "Oficina Programação em C",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Funções e modularização na linguagem C; Recursão; Variáveis e expressões na linguagem C; Controle de fluxo e repetições na linguagem C; Tipos básicos e estruturados na linguagem C; Tipos abstratos de dados na linguagem C; Vetores e matrizes na linguagem C; Cadeias de caracteres na linguagem C; Documentação, legibilidade, manutenção e eficiência de programas.\n",
+       "BibliografiaBasica": "1) Introdução à programação: uma nova abordagem usando C, Flávio Varejão, Campus/Elsevier, 2015.\n2) Introdução a estruturas de dados: com técnicas de programação em C, W. Celes, R. Cerqueira, J. Rangel. Elsevier Brasil, 2017.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ICP121"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ICP123",
+      "Nome": "Linguagens Formais",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Hierarquia de Chomsky. Linguagens e gramáticas (regulares, livres de contexto, sensíveis ao contexto). Máquinas de estados finitos (modelos não determinísticos, expressões regulares, minimização). Autômato de pilha. Algoritmos e ferramentas de análise léxica e sintática (LL(k) e LR(k)).\n___BIBLIOGRAFIA BÁSICA___\n1) J. E. Hopcroft e J. Ullman, R. Motwani, Introdução à teoria dos autômatos, linguagens e computação, Editora Campus (2002).\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) P. F. Blauth Menezes. Linguagens Formais e Autômatos (6ª edição). Editora Bookman (2010).\n2) J. E. Hopcroft, R. Motwani e J. Ullman, Introduction to Automata Theory, Languages, and Computation. Pearson New International Edition (2013).\n3) A. V. Aho, M. S. Lam, R. Sethi, J. Ullman. Compiladores: Princípios, Técnicas e Ferramentas (2ª edição). Ed. Person (2006).\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ICP141",
+       "ICP144"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ICP144",
+      "Nome": "Matemática Discreta",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Contagem: Revisão sobre permutações, combinações e arranjos. Princípio de inclusão e exclusão. Números binomiais. Triângulo de Pascal. Números de Fibonacci e recorrências lineares de segunda ordem. Grafos: definição; grau de um vértice; caminhos, ciclos e conectividade; caminhos de Euler e ciclos hamiltonianos; árvores; contagem de árvores; grafos bipartidos e aplicações; grafos planares e a fórmula de Euler; coloração de mapas e grafos; teorema das cinco cores.\n___BIBLIOGRAFIA BÁSICA___\n1) L. Lovász, J. Pelikán e K. Veszterbombi, Matemática discreta, SBM (2013).\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) E. Lehman, F. T. Leighton e A. R. Meyer, Mathematics for Computer Science, pdf disponível em https://courses.csail.mit.edu/6.042/spring18/mcs.pdf\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ICP134"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ICP365",
+      "Nome": "Otimização",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Modelagem e Caracterização dos Problemas. Programação Linear. Programação Linear  Inteira. Programação Não Linear Irrestrita. Aplicações.\n___BIBLIOGRAFIA BÁSICA___\n1) M. Goldbarg e H. Pacca L. Luna. Otimização Combinatória e Programação Linear. Elsevier, 2ª edição, 2005.\n2)  M. S. Bazaraa, J. J. Jarvis, H. D. Sherali. Linear Programming and Network Flows. John Wiley & Sons, 4th edition (2009).\n3) J. Nocedal e S. J. Wright.  Numerical Optimization.  Springer, 2nd. edition (2006).\n4) A. Ribeiro e E. Karas. Otimização Contínua: Aspectos Teóricos e Computacionais. Cengage Learning, 1ª edição, 2013.\n5) A. Friedlander. Elementos de Programação Não Linear. Editora Unicamp, 1994.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ICP115",
+       "ICP238"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ICP370",
+      "Nome": "Lógica e Computabilidade",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Linguagens e sintaxe da Lógica de Primeira Ordem (LPO). Formalização e modelagem de problemas usando LPO. Semântica da LPO. Sistemas de prova para a LPO. Noções da equivalência entre consequência semântica e sintática. Noções de provadores automáticos. O Problema da Decisão de Hilbert-Ackermann. Máquina de Turing. Programação em Máquinas de Turing. Máquina de Turing universal. Problema da Parada. Reduções entre problemas; problemas indecidíveis. Noções da equivalência entre Máquinas de Turing e outros modelos de computação.\n___BIBLIOGRAFIA BÁSICA___\n1) M. D. Davis, R. Sigal e E. J. Weyuker, Computability, complexity, and languages, segunda edição, Academic Press (1994).\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) Boolos, G. S., Burgess,J. P. , Jeffrey, R. C., Computabilidade e Lógica. Editora Unesp, 2012.\n2) Carnielli, W., Epstein,R. L., Computabilidade, funções computáveis, lógica e os fundamentos da matemática. Editora Unesp, 2005.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ICP123"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ICP479",
+      "Nome": "Tóp Computação I",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Topicos variaveis em computacao segundo interesse dos alunos e tendencias atuais na area.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAE242",
+      "Nome": "Modelagem Matemática",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Problemas de otimização. Derivada de Gateaux de um funcional, equações de Euler-Lagrange. Métodos de diferenças finitas. Métodos do gradiente e gradiente conjugado. Métodos diretos e métodos iterativos para a solução de sistemas lineares.\n",
+       "BibliografiaBasica": "1- Tijonov & Samarsky; Equações da Física Matemática\n2- Churchill, R.; Operational Mathematics.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "10:00 - 12:00",
+        "professor": "ADRIANO MAURICIO DE ALMEIDA CORTES"
+       },
+       {
+        "dia": "Qui",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MAE113",
+       "MAE127"
+      ],
+      "Tipo": "eletiva"
+     }
+    ],
+    "Disciplinas Optativas (Escolha Condicionada)": [
+     {
+      "Codigo": "EEHX02",
+      "Nome": "Tóp em Engenharia Ambiental",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "visitas de campo orientadas em atividades de produção industriais, empreendimentos para aproveitamento dos recursos hídricos, de geração de energia e de saneamento ambiental, nos limtes do Estado do Rio de Janeiro.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCA218",
+      "Nome": "Antropologia Cultural",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A Antropologia como campo de conhecimento. A Antropologia e as demais ciências sociais. O social e o biológico. A evolução humana. As noções de natureza e cultura. As concepções de sociedade e cultura. O problema do etnocentrismo. A pesquisa de campo e a etnografia como método de fazer teoria em Antropologia.\n___BIBLIOGRAFIA BÁSICA___\n1- BARTH, F. O Guru, o iniciador e outras variações antropológicas. Rio de Janeiro: Contra Capa Livraria, 2000.\n2- BIANCO, B.F. (Ed.). Antropologia das Sociedades Contemporâneas. São Paulo: Global Universitária, 1987.\n3- DAMATTA, R. Carnavais, malandrose heróis: para uma sociologia do dilema brasileiro. Rio de Janeiro: Zahar, 1980.\n4- GEERTZ, C. (Ed.). A interpretação das culturas. Rio de Janeiro: Zahar, 1978.\n5- GEERTZ, C. Nova Luz sobre a Antropologia. Rio de Janeiro: Zahar, 2001.\n6- MALINOWSKI, B. Argonautas do Pacífico Ocidental. São Paulo: Abril Cultural, 1978.\n7- NUNES, E. O. A aventura sociológica: objetividade, paixão, improviso e método na pesquisa social. Rio de Janeiro: Zahar, 1978.\n8- SAHLIN, M. Cultura na prática. Rio de Janeiro: Editora da UFRJ, 2005.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FIM357",
+      "Nome": "Introdução a Relatividade",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Ementa: Relatividade restrita: a base fisica da relatividade restrita; a transformação de Lorentz; cinemática relativística; ótica relativística; espaço-tempo de Minkowski; dinâmica relativística da partícula; relatividade e eletromagnetismo. Relatividade geral: a base física da relatividade geral; as equações de Einstein; o campo de Schwarzchild e os testes clássicos da relatividade geral.\n",
+       "BibliografiaBasica": "1- R. d'Inverno, \"Introducing Einstein's relativity\". Oxford University Press, Oxford, England (1992).\n2- J. Foster & J. D. Nightingale, \"A short course in general relativity, Third edition\". Springer, New York, USA (2006).\n3- W. Rindler, \"Relativity. Special, general, and cosmological. Second edition\". Oxford University Press, Oxford, England (2006).\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FIW243",
+      "Nome": "Mecânica Clássica I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Elementos de mecânica newtoniana. Movimento de uma partícula em uma, duas e três dimensões. Movimento de um sistema de partículas. Oscilações lineares e não lineares. Corpos rígidos. Rotação em torno de um eixo. Estática. Gravitação.\n",
+       "BibliografiaBasica": "1- \"Classical Dynamics of Particles and Systems\", Stephen T. Thornton e Jerry B. Marion, Editora: Thomson ? Brooks/Cole, 5a edição (July 7, 2003)\n2- \"Mecânica: Newtoniana, Lagrangiana e Hamiltoniana\", João Barcelos Neto\nEditora: Livraria da Física\n3- \"Mecânica\", Keith R. Symon, Editora: Campus\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "FIT122",
+       "MAC238"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FIW245",
+      "Nome": "Métodos da Física Teórica I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Números complexos. Funções de variáveis complexas: Teorema de Cauchy, Séries de Taylor e de Laurent, Teorema do Resíduo e aplicações ao cálculo de integrais. Séries de Fourier. Noções de Teoria das Distribuições: a Função Delta. Transformada de Fourier e aplicações. Transformada de Laplace e aplicações.\n",
+       "BibliografiaBasica": "1- ?Elementary Linear Algebra Applications? de Howard Anton, Chris Rorres, Anton Kaul - Version-Wiley (2019);\n2- \"Variáveis Complexas e aplicações\" de James Ward Brown e Ruel V. Churchill (tradução Claus Ivo Doering) 9 Ed.; AMGH (2016);\n2- ?Cálculo Avançado?, Volume II, 7a Reimpressão, de Wilfred Kaplan; Editora Edgard Blucher ltda (1996);\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MAC238"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FIW355",
+      "Nome": "Eletromagnetismo II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Eletrodinamica: forca eletromotriz, Lei de Faraday, Equacoes de Maxwell, formulacoes dos potenciais da eletrodinamica, energia e momento. Ondas eletromagneticas em meios nao condutores e em meios condutores, dispersao, ondas guiadas. Radiacao de dipolo, Radiacao de uma carga puntiforme. Teoria da relatividade especial. Mecanica relativista. Eletrodinamica relativista.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "FIW244"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEB599",
+      "Nome": "Est da Líng Bras de Sinais I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Nomes próprios; pronomes pessoais; demonstrativos; possessivos; locativos em sentenças simples do tipo pergunta-resposta com \"o que\" e \"quem\" e outros vocábulos básicos; numerais; quantidade; topicalização; flexão verbal; flexão de negação; expressões faciais e corporais; percepção visual; conversação; diálogos; textos: LIBRAS, cultura e comunidade surda.\n",
+       "BibliografiaBasica": "1) BRITO, L. F. Por uma gramática de língua de sinais. Rio de Janeiro: Tempo Brasileiro, 1995.\n2) FELIPE, T.; MONTEIRO, M. S. LIBRAS em contexto. Curso Básico. Brasília: Ministério da Educação e do Desporto/Secretaria de Educação Especial, 2001.\n3) GESSER, A. Libras - Que língua é essa? Crença e preconceitos em torno da língua de sinais e da realidade surda. Florianópolis: Parábola, 2009.\n4) STROBEL, K. L. As imagens do outro sobre a cultura surda. Florianópolis: EdUFSC, 2008.\n",
+       "BibliografiaComplementar": "1) PIMENTA, Nelson e QUADROS, Ronice Muller. Curso de Libras I, LSB Vídeo, volume I, Iniciante, 2006 e 3a ed., 2008.\n2) Dicionário Enciclopédico Ilustrado Triíngue da Língua de Sinais Brasileira ? vol 1 e vol. 2 Site: www.acessobrasil.org.brasil\n3) Dicionário da Língua Brasileira de Sinais, INES, versão, 2.0, ano 2006.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAA365",
+      "Nome": "Cálculo das Variaçes I",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Problemas clássicos do cálculo das variações; A equação de Euler; O teorema de Hilbert; Teoremas de Abel\ne de Sturm; O teorema fundamental de Jacobi; Campos de extremais; A integral invariante de Hilbert e a\nfunção excesso de Weierstrass.\n",
+       "BibliografiaBasica": "1- B. van Brunt, The Calculus of Variations (Universitext) - Springer, 2010.\n2- H. Sagan, Introduction to the Calculus of Variations - Dover, 1993.\n3- L.A. Pars, An Introduction to the Calculus of Variations - Dover, 2010.\n",
+       "BibliografiaComplementar": "1- I. M. Gelfand e S. V. Fomin, Calculus of Variations - Dover, 2000.\n2- J. Jost e X. Jost, Calculus of Variations - Cambridge University Press, 2008.\n3- M. Giaquinta e S. Hildebrandt, Calculus of Variations vol. 1 e 2 - Springer, 2010.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "10:00 - 12:00",
+        "professor": "WALCY SANTOS"
+       },
+       {
+        "dia": "Qua",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MAA240",
+       "MAE127"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAA370",
+      "Nome": "Introdução à Análise Funcional",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Espaços de Banach. Espaços de Aplicações Lineares Contínuas. Teoremas da Aplicação Aberta e do Gráfico Fechado. Somas Diretas Topológicas. Teorema de Banach-Steinhaus. Espaços normados de dimensão finita. Espaços de Hilbert.\n",
+       "BibliografiaBasica": "1- Maddox, I.J. ? Elements of Functional Analysis\n2- Simmons, G. F. ? Introduction to Topology and Modern Analysis\n3- Taylor, A. & Lay, D. ? Introduction to Funcional Analysis with Wiley, New York, 1978. New York, Press, 1971\n",
+       "BibliografiaComplementar": "1- Kreysig, E.: Introductory functional analysis with applications, Wiley, New York, 1978.\n2- Schechter, M.: Principles of functional analysis, New York, Academic Press, 1971\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MAA369",
+       "MAE125"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAA373",
+      "Nome": "Introdução à Teor dos Números",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Infinitude do conjunto de números primos; Estrutura do grupo dos inversíveis módulo\num inteiro; Reciprocidade quadrática; Fundamentos da teoria algébrica dos números; corpos quadráticos e corpos ciclotômicos.\n",
+       "BibliografiaBasica": "1- Apostol, T.M. ? Introduction to Analytic Number Theory ? Springer Verlag, 1984\nHardy,G. e Wright, E. - Na Introduction to the Theory of Numbers, 3 rd ed. - Oxford\nUniversity Press,1964\n1- Ireland, K. e Rosen, M. ? A Classical Introduction to Modern Number Theory ? Springer\nVerlag, 1990.\n",
+       "BibliografiaComplementar": "1- Borevich-Shafarevich, Number Theory, New York, Academic Press, 1966.\n2- Dickson, L. E. History of the theory of numbers. New York: Stechert, 1934.\n3- Hindry, M. Arithmetics, Universitext, Springer, 2009.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MAA114"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAA375",
+      "Nome": "Tópicos de Álgebra II",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Variável.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAA377",
+      "Nome": "Tópicos de Análise II",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Variável.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAA740",
+      "Nome": "Analise Real",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Não cadastrada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAA742",
+      "Nome": "Integração",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Sigma-álgebras.Medida positiva e medida exterior,medidas de Borel,de Radon,Construção de medidas.Medidas vetorias,absolutamente continuas,singulares e medidas discretas.Classes importantes:medidas de Lebesgue Stieltjes,de Hausdorff,de Haar.Funções mensuráveis e integral segundo lebesgue.Conjuntos não mensuráveis a Lebesgue,o exemplo de Vitali.Teoremas de convergências.Os espaços Lp, completude e separabilidade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAC352",
+      "Nome": "Analis Tensorial Mecâ Contínuo",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Álgebra de vetores e de tensores, Análise de funções tensoriais; Deformações e movimentos de corpos, Balanços de massa, de quantidade de movimento e de energia, Mecânica de sólidos e fluidos.\n",
+       "BibliografiaBasica": "1- Coimbra, A. L.: Novas lições de Mecânica do Contínuo, Ed Edgard Bücher Ltda, 1981.\n2- Salvador, J. A,Liu, I-Shih, Introdução a Vetores e Tensores, Notas de aula, IM-UFRJ, 1991.\n3- Malvern, L.E., Introduction to Mechanics of a Continuous Medium, Prentice-Hall,\nEnglewood Cliffs, NJ, 1969\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAC356",
+      "Nome": "Tópicos em Matemática B",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Variável conforme o conteúdo proposto pelo docente.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAC363",
+      "Nome": "Equacões Dif Ordinárias",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Teoremas de existência e unicidade. Teoremas de continuidade das soluções com relação às condições iniciais. Comportamento das soluções para grandes intervalos de tempo. Sistemas autônomos. Espaços de fase; exemplos com sistemas lineares. Integrais primeiras. Estabilidade de equilíbrio segundo Liapunov; estabilidade assintótica. Teorema de Liapunov, Tchetaev, La Salle. Linearização. Teorema do fluxo tubular curto, o teorema de Poincaré-Bendixon no plano, aplicações.\n",
+       "BibliografiaBasica": "1- Espinar, J., Viana, M., Differential equations: a dynamical systems approach to theory and practice. American Mathematical Society, Graduate Studies in Mathematics vol. 212, 2021\n2- Hirsch, M. W., & Smale, S. (2004). Differential equations, dynamical systems, and linear algebra. San Diego: Harcourt Publ.\n",
+       "BibliografiaComplementar": "1- Braun, M. (1993). Differential equations and their applications: an introduction to applied mathematics. New York: Springer.\n2- Hirsch, M. W., Devaney, R. L., & Smale, S. (2013). Differential Equations, Dynamical Systems, and an Introduction to Chaos (Pure and applied mathematics ; a series of monographs and textbooks ; v. 60).\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAC745",
+      "Nome": "Geometria Diferencial",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Não cadastrada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAD351",
+      "Nome": "Inferência Estatística I",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Inferência indutiva. Distribuições amostrais. Estatísticas de ordem. Propriedades dos estimadores. Métodos de estimação pontual. Procedimentos Bayesianos. Estimação por intervalo e por região de confiança. Testes de Hipóteses.\n",
+       "BibliografiaBasica": "1- DeGroot, M. H. e Schervish, M. J. Probability and Statistics, 4. ed., Boston: Addison-Wesley, 2011.\n2- A. M. Mood, F. A. Graybill, D. C. Boes, Introduction to the Theory of Statistics, 3rd ed., New York: McGraw Hill, 1974.\n3- Migon, H. S., Gamerman, D., Louzada, F. Statistical Inference: An Integrated Approach, 2. Ed. CRC Press Taylor & Francis Group Series: Chapman & Hall/CRC, 2014\n",
+       "BibliografiaComplementar": "1- G. Casella, R. L. Berger, Statistical Inference, 2nd ed., Pacific Grove: Duxbury/Thomson Learning, 2002.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "10:00 - 12:00",
+        "professor": "THAIS CRISTINA OLIVEIRA DA FONSECA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       },
+       {
+        "dia": "Sex",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MAD233"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAD357",
+      "Nome": "Análise de Regressão",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Regressão linear simples. Análise de ajuste. Estudo dos resíduos. Regressão múltipla. Correlação múltipla. Violações de hipóteses básicas. Transformações de variáveis. Seleção de modelos por encolhimento (Lasso e Ridge) e métodos de estimação para grandes bases de dados. Tratamento, por meio de exemplos, de questões relacionadas ao meio ambiente e de questões étnico-raciais.\n",
+       "BibliografiaBasica": "1- A. Agresti. Foundations of linear and generalized linear models. 2015, Wiley.\n2- A. Dobson, A. G. Barnett. An introduction to generalized linear models 3.ed. Boca Raton : CRC Press, 2008\n3- T. Hastie, R. Tibshirani and J. Friedman. The Elements of Statistical Learning: Data Mining, Inference, and Prediction, second edition, Springer.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 10:00",
+        "professor": "WIDEMBERG DA SILVA NOBRE"
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 10:00",
+        "professor": ""
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 10:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MAD351",
+       "MAE125"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAD364",
+      "Nome": "Processos Estocásticos",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceitos gerais.  Cadeias de Markov a tempo discreto.  Processos de Poisson.   Processos Markovianos a tempo contínuo: Processos de Nascimento Puro, Processos de Morte Pura e Processos de Nascimento e Morte.  Motivações à Teoria de Filas.  Martingais.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 15:00",
+        "professor": "GUILHERME OST DE AGUIAR"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 15:00",
+        "professor": ""
+       },
+       {
+        "dia": "Sex",
+        "hora": "13:00 - 15:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MAD352"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAD479",
+      "Nome": "Tópicos de Estatística A.",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Analise de dados. Inferencia classica e Bayesiana.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAD498",
+      "Nome": "Tópicos de Probabilidade",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Variavel.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MAD364"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAE113",
+      "Nome": "Computação Científica I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução ao Maple e o traçado de gráficos em R2 e em R3. Introdução ao Matlab e o traçado de superfícies de nível e campos vetoriais. Animação de funções dependentes do tempo. Cálculo de zeros de funções reais. Cálculo matricial numérico e a resolução de sistemas lineares. Iteração de Newton. Interpolação e mínimos quadrados. Integração numérica. Introdução à resolução de EDO'S.\n",
+       "BibliografiaBasica": "1) Scientific Computing with MATLAB and Octave, Alfio Quarteroni, Fausto Saleri, Paola Gervasio;\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "15:00 - 17:00",
+        "professor": "SERGEY SERGEEV"
+       },
+       {
+        "dia": "Qua",
+        "hora": "15:00 - 17:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "ICP121",
+       "MAE111"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAE351",
+      "Nome": "Cálculo Avançado I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Topologia do Rn: Normas, Distâncias, Vizinhanças, Conjuntos abertos e fechados, continuidade, Conjuntos Conexos. Compacidade. Teorema de Borel-Lebesgue. Continuidade Uniforme. Sequências. Teorema do Ponto Fixo de Banach. Cálculo Diferencial em Rn: Conceito de Diferencial, Regra da Cadeia. Relações entre Derivadas de Gateaux e de Fréchet. Introdução ao Cálculo das Variações. Teoremas dos Acréscimos Finitos. Derivadas de Ordem Superior e Polinômios de Taylor. Teorema da Função Inversa e Formas Locais. Multiplicadores de Lagrange.\n",
+       "BibliografiaBasica": "1) PUGH. Real Mathematical Analysis. Springer;\n2) RUDIN. Princípios de Análise Matemática. McGraw-Hill;\n3) LIMA. Espaços Métricos. Projeto Euclides.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MAE121",
+       "MAE125",
+       "MAE240"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAE363",
+      "Nome": "Top de Matematica Aplicada B",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Variavel\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAE478",
+      "Nome": "Teoria dos Grafos",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução: Grafos e sub-grafos, Isomorfismos, Matrizes de Adjacência e Incidência, Caminhos e Ciclos. Árvores: Caracterização de árvores, Cortes de Arestas, Cortes de Vértices. Conectividade: Conectividade de vértices e Arestas, Blocos. Passeios de Euler e Ciclos de Hamilton. Emparelhamentos: Caracterização de Emparelhamentos Máximos, Emparelhamentos e Coberturas, Emparelhamentos Perfeitos. Coloração de Arestas: Índice Cromático e Teorema de Vizing. Conjuntos Independentes e Cliques, Teoria de Ramsey. Coloração de Vértices: Número Cromático, teorema de Brooks, Conjectura de Hajos, Polinômios Cromáticos. Grafos Planares: Grafos Planos, Grafos Duais, Pontes, Teorema de Kuratowkski, Teorema das 5 Cores. Grafos Direcionados: Caminhos e Ciclos Direcionados, Facho e Redução Transitivas, Conectividade de Dígrafos.\n",
+       "BibliografiaBasica": "1- Algorithm Design por Jon Kleinberg e Éva Tardos, Addison-Wesley, 2005.\n2- Teoria Computacional de Grafos por Jayme Szwarcfiter, Elsevier, 2018\n3- Introduction to Algorithms por Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, e Clifford Stein, MIT Press, 2022 (4a. edição).\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "15:00 - 17:00",
+        "professor": "MARCIA ROSANA CERIOLI"
+       },
+       {
+        "dia": "Qua",
+        "hora": "15:00 - 17:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NEP101",
+      "Nome": "Teoria Direitos Fundamentais",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Discussão de uma teoria dos direitos fundamentais com base nas normas positivadas constitucionais, no direito comparado e na jurisprudência, proporcionando ao estudante uma visão sobre alcance e limites da proteção e promoção desses direitos.\n___BIBLIOGRAFIA BÁSICA___\n1) ABRAMOVAY, Ricardo. Direitos fundamentais das minorias (sob o enfoque da Lei nº9.882/99). Leme: Anhanguera Editora, 2010.\n2) ALEXY, Robert. Teoria de los derechos fundamentales, trad. Ernesto Garzón Valdés. Madrid: Centro de Estudios Constitucionales, 1993.\n3) ANDRADE, José Carlos Vieira de. Os direitos fundamentais na Constituição portuguesa de 1976 . 3ª ed. Coimbra: Almedina, 2007.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) BULOS, Uádi Lammêgo. Curso de Direito Constitucional. 3. ed. São Paulo: Saraiva: 2008.\n2) CANOTILHO, José Joaquim Gomes. Direito constitucional e teoria da constituição, 7ª ed. Coimbra: Almedina, 2003.\n3) SILVA, José Afonso da. Curso de Direito Constitucional Positivo. 31. ed. São Paulo: Malheiros, 2008.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NEP120",
+      "Nome": "Fund Polít Públicas Dir Hum",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Discussão sobre a necessidade e a possibilidade de uma fundamentação filosófica das políticas públicas, para a construção de argumentos racionais na sua implementação e identificação dos principais desafios para sua afirmação e realização. Apresentação de algumas propostas contemporâneas de fundamentação filosófica das políticas em direitos humanos.\n___BIBLIOGRAFIA BÁSICA___\n1) BARBALET, J. M. A Cidadania. Lisboa: Editorial Estampa, 1989.\n2) BAUMAN, Zygmunt. Comunidade: a busca da segurança no mundo atual. Rio de Janeiro: Jorge Zahar, 2003.\n3) BECKER, Howard S. Métodos de pesquisa em ciências sociais. São Paulo: Hucitec, 1999.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) BELLONI I, Magalhães h. / Souza L; Metodologia de avaliação em políticas públicas. São Paulo (Cortez) 2003.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NEP140",
+      "Nome": "Tóp Esp Polít Públ Dir Hum II",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Discussão de temas específicos em políticas públicas e direitos humanos com base no processo histórico e nas críticas contemporâneas, proporcionando ao aluno uma visão sobre o alcance e limites da sua proteção e promoção.\n___BIBLIOGRAFIA BÁSICA___\n1) BECKER, Howard S. Métodos de pesquisa em ciências sociais. São Paulo: Hucitec, 1999.\n2) BELLONI I.; Magalhães H.; Souza L; Metodologia de avaliação em políticas públicas. São Paulo (Cortez) 2003.\n3) BOBBIO, Norberto. A era dos direitos. Rio de Janeiro: Campus, 1992.\n4) BOURGUIGNON, Jussara Ayres; OLIVEIRA Jr., Constantino Ribeiro de (Orgs.).  Pesquisa em ciências sociais: interfaces, debates e metodologias. Ponta Grossa (PR): Todapalavra, 2012.\n5) BRASIL, Programa Nacional de Direitos Humanos , PNDH II, Fernando Henrique Cardoso,  Brasília, Presidência da República, Secretaria da Comunicação Social, Ministério da Justiça, 2002.\n6) BUCCI, Maria Paula Dalari Et. al. (Orgs.). Direitos Humanos e políticas públicas. São Paulo: Pólis, 2001.\n7) FAORO, Raymundo. Os donos do poder. Rio de Janeiro, Editora Globo, 1958.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NEP142",
+      "Nome": "Tóp Esp Polít Públ Dir Hum IV",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Discussão de temas específicos em políticas públicas e direitos humanos com base no processo histórico e nas críticas contemporâneas, proporcionando ao aluno uma visão sobre o alcance e limites da sua proteção e promoção.\n___BIBLIOGRAFIA BÁSICA___\n1) BECKER, Howard S. Métodos de pesquisa em ciências sociais. São Paulo: Hucitec, 1999.\n2) BELLONI I.; Magalhães H.; Souza L; Metodologia de avaliação em políticas públicas. São Paulo (Cortez) 2003.\n3) BOBBIO, Norberto. A era dos direitos. Rio de Janeiro: Campus, 1992.\n4) BOURGUIGNON, Jussara Ayres; OLIVEIRA Jr., Constantino Ribeiro de (Orgs.).  Pesquisa em ciências sociais: interfaces, debates e metodologias. Ponta Grossa (PR): Todapalavra, 2012.\n5) BRASIL, Programa Nacional de Direitos Humanos , PNDH II, Fernando Henrique Cardoso,  Brasília, Presidência da República, Secretaria da Comunicação Social, Ministério da Justiça, 2002.\n6) BUCCI, Maria Paula Dalari Et. al. (Orgs.). Direitos Humanos e políticas públicas. São Paulo: Pólis, 2001.\n7) FAORO, Raymundo. Os donos do poder. Rio de Janeiro, Editora Globo, 1958.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NEP144",
+      "Nome": "Tóp Esp Polít Públ Dir Hum VI",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Discussão de temas específicos em políticas públicas e direitos humanos com base no processo histórico e nas críticas contemporâneas, proporcionando ao aluno uma visão sobre o alcance e limites da sua proteção e promoção.\n___BIBLIOGRAFIA BÁSICA___\n1) BECKER, Howard S. Métodos de pesquisa em ciências sociais. São Paulo: Hucitec, 1999.\n2) BELLONI I.; Magalhães H.; Souza L; Metodologia de avaliação em políticas públicas. São Paulo (Cortez) 2003.\n3) BOBBIO, Norberto. A era dos direitos. Rio de Janeiro: Campus, 1992.\n4) BOURGUIGNON, Jussara Ayres; OLIVEIRA Jr., Constantino Ribeiro de (Orgs.).  Pesquisa em ciências sociais: interfaces, debates e metodologias. Ponta Grossa (PR): Todapalavra, 2012.\n5) BRASIL, Programa Nacional de Direitos Humanos , PNDH II, Fernando Henrique Cardoso,  Brasília, Presidência da República, Secretaria da Comunicação Social, Ministério da Justiça, 2002.\n6) BUCCI, Maria Paula Dalari Et. al. (Orgs.). Direitos Humanos e políticas públicas. São Paulo: Pólis, 2001.\n7) FAORO, Raymundo. Os donos do poder. Rio de Janeiro, Editora Globo, 1958.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NEP146",
+      "Nome": "Dir Hum, Gênero e Sexualidades",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Teorias e práticas feministas sobre as diversidades de gênero, sexualidade, raça, etnia, identidade de gênero, geracional, deficiência, entre outras. Relação interseccional dessas diversidades com os direitos humanos. Avanços históricos dos direitos e políticas públicas nesses campos e dos movimentos sociais em prol da identidade de gênero e diversidade sexual. Limites e possibilidades da aplicação da interseccionalidade de gênero, sexualidade e diversidades nas políticas públicas.\n___BIBLIOGRAFIA BÁSICA___\n1) GONZALES, Lélia. Racismo e sexismo na cultura brasileira. Em Revista Ciências Sociais Hoje. Anpocs. 1984, p. 223-224.\n2) SEGATO, Rita Laura. Gênero e Colonialidade: Em busca de chaves de leitura e de um vocabulário estratégico descolonial. Tradução de Rose Barboza, Revista E-Cadernos, Publicação Trimestral, n. 18 ? Epistemologias feministas: ao encontro da crítica radical. Universidade de Coimbra, Centro de Estudos Sociais (CES). 2012.\n3) SEVERI, Fabiana Cristina. O gênero da justiça e a problemática da efetivação dos direitos humanos das mulheres. Revista Direito e Práxis. Rio de Janeiro, Vol. 07, N.13, 2016, p. 81-115.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NEP148",
+      "Nome": "Dir Hum, Pens Negro e Racismo",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Pensamento social negro; Teorias raciais; Racismo; Teorias Etnico-raciais; Relações Étnico Raciais; Movimentos sociais negro; Políticas antirracistas e Direitos Humanos.\n___BIBLIOGRAFIA BÁSICA___\n1) FANON, Franz. Os Condenados da terra. Rio de Janeiro, Editora Civilização Brasileira, 1979.\n2) FERNANDES, Florestan. A integração do negro na sociedade de classes: o legado da \"raça branca\" (volume I). São Paulo, Dominus Editora/Editora da Universidade de São Paulo, 1965.\n3) SKIDMORE, Thomaz E. Preto no branco: raça e nacionalidade no pensamento brasileiro. Rio de Janeiro, Paz e Terra, 1976.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NEP150",
+      "Nome": "Dir Hum e Saúde",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Compreensão dos determinantes sociais da saúde e seus nexos com os direitos humanos nos contextos brasileiros, internacionais e nas interações com o campo da saúde global. Aprofundamento dos conceitos teóricos sobre o corpo e poder além das dimensões sociológicas, políticas e históricas das intervenções sanitárias e das desigualdades com um foco especial na intersecção dos direitos humanos, saúde, gênero, raça, sexualidade, etnia, deficiência, classe e território.\n___BIBLIOGRAFIA BÁSICA___\n1) Sorj, B. A democracia inesperada. Cidadania, direitos humanos e desigualdade social. Rio de Janeiro: Jorge Zahar Editor. 2004;\n2) Tomasevski, K. Aids e Direitos Humanos. In Aids no Mundo, Mann, J. Tarantola, D.J.M., Netter, T.W. (org). Rio de Janeiro: ABIA, IMS-UERJ, Relume Dumará. 1992. p.242-243;\n3) Ventura, M, et al. Direitos sexuais e direitos reprodutivos na perspectiva dos direitos humanos ? Síntese para gestores, legisladores e operadores do direito. Advocacia, 2003, Rio de Janeiro, p. 53.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NEP152",
+      "Nome": "Dir Hum, Conflit e Territórios",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Abordagem sobre o direito de povos à autodeterminação versus integridade territorial, a secessão e declaração de independência, direitos dos povos indígenas e autóctones, das minorias nacionais, étnicas, religiosas, linguísticas vistos pela ótica de direitos humanos.\n___BIBLIOGRAFIA BÁSICA___\n1) ALVES, José Augusto Lindgren. Os Direitos Humanos como tema global. São Paulo: Perspectiva, 2003.\n2) ANJOS, Alberico Teixeira dos. Autodeterminação, sua dimensão territorial e direitos humanos. Rio de Janeiro: Gramma, 2010.\n3) HUNTINGTON, SAMUEL P. O Choque de Civilizações e a Recomposição da Ordem Mundial. Editora Objetiva Ltda., 1996.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NEP154",
+      "Nome": "Dir Hum e Sistema de Justiça",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Análise crítica dos mecanismos de acesso à justiça para os grupos e populações vulnerabilizadas no Brasil e na América Latina. O acesso à Justiça será apresentando sob a consideração das suas contradições, limitações e obstáculos, bem como das suas possibilidades de superação. O direito além de ser um instrumento de controle social, em algumas situações, pode ser um mecanismo de transformação da sociedade e pressão junto ao sistema de justiça. Portanto, buscar-se-á oferecer elementos teóricos que sejam capazes de desvelar temas com relevância contemporânea como o papel do Estado, violência, estado de exceção, movimentos sociais, judicialização, dentre outros. Finalmente, haverá reflexões sobre justiça de transição, justiça restaurativa e sobre as formas coletivas e alternativas de acesso à justiça para a promoção e proteção de Direitos Humanos e Sociais.\n___BIBLIOGRAFIA BÁSICA___\n1) BOAVENTURA, S.S. et al (org). Repressão e Memória Política no Contexto Ibero- Brasileiro: estudos sobre Brasil, Guatemala, Moçambique, Peru e Portugal. Brasília:\nMinistério da Justiça, Comissão de Anistia; Portugal: Universidade de Coimbra, Centro de Estudos Sociais, 2010.\n2) LIMA Jr. Jayme Benvenuto (org.). Manual de Direitos Humanos Internacionais Humanos. Acesso aos Sistemas global e Regional de Proteção dos Direitos Humanos.\n3) MAUS, Ingeborg. Judiciário como superego da sociedade: o papel da atividade jurisprudencial na sociedade órfã. http://www.direitocontemporaneo.com/wpcontent/uploads/2014/02/JUDICIARIO-COMO-SUPEREGO-DA-SOCIEDADE.pdf\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NEP156",
+      "Nome": "Dir Hum, Globalização e Tecnol",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Abordagem de temas referentes as mudanças estruturais e institucionais acontecidas no sistema econômico e cultural internacional, a ordem social contemporânea, as variedades de capitalismo e o papel da tecnologia sobre a configuração dos Direitos Humanos.\n___BIBLIOGRAFIA BÁSICA___\n1) CASTELLS, MANUEL. Outra economia é possível: Cultura e economia em tempos de crise. Editora Zahar, 2019, Rio de Janeiro.\n2) ZUBOFF, SHOSHANA. The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power, Editora Profile Books, 2019, USA.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NEP158",
+      "Nome": "Dir Hum e Polít Internacional",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Abordagem sobre o direito humanitário durante as Guerras Mundiais, direitos humanos versus crimes de guerra e de humanidade, a justiça penal internacional, a segurança humana e a responsabilidade de proteger, bem como direitos humanos de migrantes, refugiados, deslocados e a sua proteção internacional no âmbito de conflitos internacionais e intra-estatais.\n___BIBLIOGRAFIA BÁSICA___\n1) RAMOS, A. C. 1999. A responsabilidade internacional do Estado por violação de Direitos Humanos. São Paulo. Tese (Doutorado em Direito). Universidade de São Paulo;\n2) BULL, H. 2002. A sociedade anárquica. São Paulo: Instituto de Pesquisa de Relações Internacionais;\n3) BEETHAM, D. 1999. Democracy and Human Rights. Cambridge: Polity\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NEP160",
+      "Nome": "Dir Hum na América Latina",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Compreensão por meio do estudo histórico de formação dos Estados Nação modernos a partir do processo colonial, em especial, na América Latina. Compreensão da articulação das estruturas capitalista, racial e heteropatriarcal na formação dos contextos de violência e desigualdades sociais. As conquistas realizadas por meio dos movimentos sociais e constitucionais a partir da década de 1980. Debate da conjuntura atual de violação dos direitos conquistados.\n___BIBLIOGRAFIA BÁSICA___\n1) GONZALEZ, Lélia. A categoria político-cultural de amefricanidade. In: Tempo Brasileiro. Rio de Janeiro, Nº. 92/93 (jan./jun.). 1988b, p. 69-82.\n2) SANTOS, Boaventura de Sousa; MENESES, Maria Paula (Orgs.). Epistemologias do Sul. São Paulo: Cortez Editora, 2010.\n3) TODOROV, Tzvetan. A conquista da América - A questão do Outro. trad. Beatriz Perrone Moisés. 4ª edição. São Paulo: WMF Martins Fontes, 2010. (Biblioteca do pensamento moderno).\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEH471",
+      "Nome": "Educação Ambiental",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Meio-ambiente e representação social. Organização, representação e participação social. Percepção ambiental,identificação e caracterização do público-alvo.Sensibilização, informação e comunicação ambiental. Elaboração de programas e projetos de Educação Ambiental. Práticas interdisciplinares, metodologia e vertentes da Educação Ambiental.A inserção da educação na Gestão Ambiental; Análise conceitual: Meio Ambiente (Ecologia, Natureza), Problemas Ambientais, Desenvolvimento Sustentável, Cidadania; Visão sistêmica em Gestâo Ambiental; Gestão Ambiental do Espaço Público e do Espaço Privado; Gestão Ambiental e Mobilização Social: o papel do 3º ssetor; Estado-Mercado-Sociedade; A Educação Ambiental na empresa; ISO 14000, Ecoeficiência, responsabilidade social e ambiental. Ecocapitalismo. O papel da Educação Ambiental; Estudos de Casos: reflexão e debate.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "EEHX02"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCA106",
+      "Nome": "Antropologia I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Teorias antropológicas. O evolucionismo. O difusionismo. A critica boasiana. A escola de cultura e personalidade. O funcionalismo. Escola sociológica francesa. Estruturalismo. Contribuições do materialismo histórico à antropologia.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "FCA218"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCA627",
+      "Nome": "Relações Interétnicas",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Características sócio-econômicas e culturais dos grupos em contato. As situações de contato: variantes estruturais, étnicas e regionais. A questão das definições de identidade. Avaliação dos esquemas teóricos relativos aos contatos interétnicos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FIT122",
+      "Nome": "Física II - a",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Oscilações: oscilações amortecidas e forçadas. Ondas. Som. Fluidos. Temperatura. Calor - primeira Lei da Termodinâmica. Propriedades dos gases. Segunda Lei da Termodinâmica. Teoria cinética dos gases. Transferência de calor e de massa.\n",
+       "BibliografiaBasica": "1) Física, volume 1. Mecânica, Oscilações e Ondas (5ª edição). Paul A. Tipler e Gene Mosca. LTC Editora S.A.\n2) Curso de Física Básica , volume 1. Mecânica, Oscilações e Ondas. H. Moysés Nussenzveig - Editora Edgard Blücher Ltda.\n3) Fundamentos de Física (4ª edição). D. Halliday. R. Resnick e J. Walker - John Wiley & Sons, Inc.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "FIT112",
+       "MAC118"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FIW244",
+      "Nome": "Eletromagnetismo I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Eletrostática: campo, divergência, rotacional, potencial, trabalho e energia, condutores. Técnicas de cálculo de potenciais: equação de Laplace, método das imagens, separação de variáveis, expansão em multipolos. Eletrostática em meios materiais: polarização, campo de um objeto polarizado, deslocamento elétrico, dielétricos. Magnetostática no vácuo: lei de Lorenz, lei de biot-savart, divergência, rotacional, potencial vetorial. Magnetostática em meios materiais: magnetização, campo de um objeto magnetizado, campo auxiliar h, meios lineares e não lineares.\n",
+       "BibliografiaBasica": "1- David J. Griﬃths, ?Introduction to Electrodynamics?, 4th Edition (2013)\n2- E. M. Purcell and David J. Morin, ?Electricity and Magnetism?, 3rd Edition (2013)\n3- R. P. Feynman, R. B. Leighton, and M. Sands, ?The Feynman Lectures on Physics, vol. II? (2013)\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "FIM240(C)",
+       "FIW245"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FIW354",
+      "Nome": "Mecânica Clássica II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Sistema de coordenadas em movimento. Equacoes de Lagrange. Equacoes de Hamilton. Introducao a mecanica dos meios continuos. Teoria de pequenas oscilacoes.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "FIW243"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FIW356",
+      "Nome": "Mecânica Quântica I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução aos conceitos quânticos. Observáveis. Equações de evolução. Partículas quânticas em uma dimensão. Partículas quânticas em 3 dimensões. A notação de Dirac. O oscilador harmônico em uma dimensão . O momento angular. Potenciais centrais. O átomo de hidrogênio.\n",
+       "BibliografiaBasica": "1- ?Quantum Mechanics Volume 1?, Claude Cohen-Tannoudji, Bernard Diu, Franck Laloe\n2-  The Feynman Lectures on Physics, Vol. 3., Richard Feynman, Robert Leighton, Mathews Sands\n3- The Principles of Quantum Mechanics, P. A. M. Dirac.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "FIM240",
+       "FIW245"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAA356",
+      "Nome": "Teoria de Galois",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Grupos: Revisões, teoremas de homomorfismo; ações de grupos sobre um conjunto; os teoremas de Sylow; aplicação: a simplicidade de An, n >4; grupo derivado, grupos solúveis; aplicação: não solubilidade de Sn, n >4.\nCorpos: Corpos e corpos finitos; extensões de corpos; automorfismos de corpo, grupo de Galois, extensões algébricas e transcendentes; adjunção de raízes, corpo de decomposição de um polinômio; fecho algébrico.\nTeoria de Galois: Extensões normais e separaveis, Correspondência de Galois, Teorema fundamental da Teoria de Galois, Extensões radicais, Solubilidade por meio de radicais, aplicação: não solubilidade da equação geral de grau n >4.\n",
+       "BibliografiaBasica": "1- DUMMIT, David Steven; FOOTE, Richard M. Abstract Algebra. New Jersey: J. Wiley & Sons, c2004.\n2- ARTIN, M. Algebra. New Jersey: Prentice-Hall, 1991.\n3- HERSTEIN, I. N. Tópicos de álgebra. São Paulo : Edusp, 1970\n",
+       "BibliografiaComplementar": "1- ALUFFI, Paolo. Algebra: chapter 0. Providence, RI: American Mathematical Society, 2009. (Graduate Studies in Mathematics, 104).\n2- GONÇALVES, Adilson. Introdução à álgebra. Rio de Janeiro: IMPA, 2005.\n3- HUNGERFORD, Thomas W. Algebra. New York: Springer Verlag, C1974. LANG,\nSerge. Algebra. New York: Springer Science, c2002.\n4- ROTMAN, Joseph J. Theory of groups: an introduction. Boston: Allyn & Bacon, c1973.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAA369",
+      "Nome": "Introdução à Topologia",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceitos fundamentais de Espaços Métricos; Limite e Continuidade; Espaços Completos;\nEspaços Compactos; Espaços Conexos; Produto de Espaços Métricos.\n",
+       "BibliografiaBasica": "1- DIEUDONNÉ, Jean. Foundations of Modern Analysis. New Yourk: Academic Press, 1969.\n2- LIMA, Elon Lages. Espaços métricos. Rio de Janeiro: IMPA, 2005.\n3- SPANIER, E. H.; COSTA, N. C. Affonso da. Teoria dos conjuntos e espaços métricos. Curitiba: Sociedade Paranaense Matemática, s1961.\n",
+       "BibliografiaComplementar": "1- MUNKRES, James R. Topology. New Jersey: Prentice Hall, c2000.\n2- WHITE, A. J. Análise real: uma introdução. São Paulo: Edgard Blucher, r1993\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MAA240"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAA371",
+      "Nome": "Introd à Medida e Integração",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A integral de Riemann; Teorema de DuBois ? Reymond; A integral de Lebesgue; O\nTeorema da convergência monótona; O Teorema da Convergência dominada; Teoremas de Fubini e Tonelli; Os espaços Lp; L2 como espaço de Hilbert; Aplicações.\n",
+       "BibliografiaBasica": "1- BARTLE, R. G., The Elements of Integration and Lebesgue Measure. New York: Editora John Wiley Professional - Coleção Wiley Classics, 1995.\n2- PRIESTLEY, H. A. Introduction to integration. Oxford: Claredon, 1997.\n3- WEIR, A. J. Lebesgue integration and measure. New York: Cambridge University Press, 1973.\n",
+       "BibliografiaComplementar": "1- FERNANDEZ, Pedro Jésus. Medida e integração. Rio de Janeiro: IMPA, 2002.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MAA240"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAA374",
+      "Nome": "Tópicos de Álgebra I",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Variável.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 15:00",
+        "professor": "MICHAEL BENJAMIN DEUTSCH"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 15:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAA376",
+      "Nome": "Tópicos de Análise I",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Variável.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAA730",
+      "Nome": "Estruturas Algebricas",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Não cadastrada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAA741",
+      "Nome": "Analise Complexa",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Não cadastrada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAC227",
+      "Nome": "Geometria II",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Tentativas de Prova do quinto Postulado de Euclides; Axioma Hiperbólico e consequências; Paralelismo\nassintótico; Triângulos generalizados; Posições entre retas; Áreas de triângulos; Horocírculos e Linhas\nEquidistantes; Modelo do semi-plano de Poincaré ou do disco; Breve introdução de outras geometrias.\n",
+       "BibliografiaBasica": "1- Barbosa, J.L.M. - Geometria Hiperbólica, IMPA.\n2- Greenberg, M.J. ? Euclidean and non-euclidean Geometries, N.Y., W.H. Freeman and\ncompany, 4ed, 2008.\n3- Andrade, P. - Introdução à Geometria Hiperboólica: o modelo de Poincaré, Coleção\nTextos Universitários, SBM, 2013.\n",
+       "BibliografiaComplementar": "1- Coxeter, H.S.M. - Non-Euclidean Geometry, Math. Assoc. of America, 6ed. 1998. Ramsay, A.;\n1- Richtmyer, R. - Introduction to Hyperbolic Geometry,\nSpringer-Verlag, 1995.\n1- Anderson, J. - Hyperbolic Geometry, Springer-Verlag, 2ed, 2005.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 15:00",
+        "professor": "ANDREW JAMES CLARKE"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 15:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MAC117"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAC355",
+      "Nome": "Tópicos em Matemática a",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Variável conforme o conteúdo proposto pelo docente.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAC362",
+      "Nome": "EQ Diferenciais Parciais II",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Equações de 1a ordem; Ondas de Choque; Transformada de Fourier; Equação do calor na Barra nfinita;\nProblema de Dirichlet para a Equação de Laplace no semi-plano; Identidades de Green; rincípio do Máximo\npara funções harmônicas; Princípio do máximo para do Calor; Teoremas de unicidade.\n",
+       "BibliografiaBasica": "1- Figueiredo, D. G. Análise de Fourier e Equações Diferenciais Parciais. 4.ed. Rio de Janeiro: IMPA, 2003.\n2- Iório, V. EDP: Um Curso de Graduação. 2.ed. Rio de Janeiro: IMPA, 2001.\n3- Medeiros, L. A. e Andrade, N. G. Introdução às Equações Diferenciais Parciais. Rio de Janeiro: LTC, 1978.\n",
+       "BibliografiaComplementar": "1- Iório Jr, R. e V. Iório, V.: Equações diferenciais parciais: uma introdução, Projeto Euclides; Rio de Janeiro, 1988.\n2- John, F.: Partial differential equations, 4th edition, New York, Springer, 1982.\nStrauss, W.: Partial differential equations, an introduction, Wiley, New York, 1992.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MAC351"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAC364",
+      "Nome": "Evolucão da Matemática",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Origens da Matemática. A evolução da Matemática da antiguidade até a época contemporânea. A geometria de Euclides e a geometria de Riemann. A artimetização da análise. O movimento Bourbaki.\n",
+       "BibliografiaBasica": "1- Boyer, C., História da Matemática, Ed. Edgard Blucher, 2003\n2- Eves,H., An Introduction to the History of Mathematics, Saunder, 1983\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAD124",
+      "Nome": "Introdução à Estatística",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Probabilidade - conceitos básicos, probabilidade condicional, independência, Teorema de Bayes, Variáveis aleatórias, modelos binomial e normal. Introdução à Inferência: população e amostra; distribuição amostral, amostra aleatória simples, introdução à estimação e testes de hipóteses.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 15:00",
+        "professor": "LUIZ GUILHERME GONCALVES ARRUDA DE COUTO"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 15:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAD352",
+      "Nome": "Cálculo das Probabilidades II",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Espaços de probabilidade. Vetores aleatórios. Distribuição e esperança condicionais. Função geratriz e função característica. Teoremas limites.\n",
+       "BibliografiaBasica": "1- James, B. (1981). Probabilidade: um curso em nível intermediário.IMPA. Projeto Euclides.\n2- Magalhães, M. N. (2004). Probabilidade e Variáveis Aleatórias. Ed.Universidade de São Paulo.\n3- Shiryayev, A. N. (1995). Probability. Second edition. Springer.\n",
+       "BibliografiaComplementar": "1- BILLINGSLEY, PATRICK. Convergence of probability measures ? 2.ed.? ? New York : J. Wiley & Sons, c1999.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 15:00",
+        "professor": "LEANDRO PINTO RODRIGUES PIMENTEL"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 15:00",
+        "professor": ""
+       },
+       {
+        "dia": "Sex",
+        "hora": "13:00 - 15:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MAD233"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAD360",
+      "Nome": "Estatística Computacional",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introducao a computacao Estatistica. Regressao: Fatorizacao de Cholesky, o operador Sweep, Algoritimo QR, Decomposicao em valor singular. Metodos de integracao. Metodos de otimizacao. Geracao de numeros aleatorios. Simulacao.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MAB121",
+       "MAD351"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAD366",
+      "Nome": "Matemática Financeira",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O valor do dinheiro no tempo. Juros simples. Juros compostos. Equivalencia de fluxo de caixa. Desconto. Anuidades. Sistemas de amortizacao. Inflacao e calculo de taxa over. Taxa interna de retorno e valor presente liquido dos investimentos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 10:00",
+        "professor": "RAFAEL SOUZA DOS SANTOS"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 10:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MAC118"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAD485",
+      "Nome": "Análise de Séries Temporais",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceitos iniciais. Estacionaridadde. Autocorrelacao, modelos no dominio tempo e da frequencia. Metodos de decomposicao e de amortecimento e de auto-regressao. Modelagem Box-Jenkis: univariado, funcao de transferencia e intervencao e multivariado. Analise espectral. Modelos estruturais: espaco de estado e previsao Bayesyana.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 10:00",
+        "professor": "JOAO BATISTA DE MORAIS PEREIRA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 10:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MAD357"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAE018",
+      "Nome": "Introdução à Física Matemática",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "I) Mecânica clássica de partículas pontuais (Refs 1, 2, 3.vol1): Leis de Newton, pêndulo, mola, problema de Kepler, sistemas de partículas com vínculos, formalismos Lagrangiano e Hamiltoniano. II) Fenômenos de sistemas contínuos (Ref 1): Propagação de ondas, propagação de calor. III) Termodinâmica e modelos microscópicos (Ref 3.vol5): Leis da termodinâmica para quantidades macroscópicas, exemplos, propriedades dos gases, modelos mecânico-estatísticos com muitas partículas. IV) Campos de forças (Ref 1, 3.vol2): Campo gravitacional e distribuições de massa, campo elétrico e distribuições de carga, campo magnético, teoria eletromagnética, ondas eletromagnéticas. V) Tópicos avançados (breve introdução): Mecânica quântica (Refs 1, 3.vol3) e Relatividade especial (Ref 1)\n___BIBLIOGRAFIA BÁSICA___\n1) Iniciação à Física Matemática, Juan López Gondar, Rolci Cipolatti, IMPA (2016).\n2) Classical Dynamics: A Contemporary Approach, Jorge V. José, Eugene J. Saletan, Cambridge University Press.\n3) Série Curso de Física Teórica de Landau, Lifshitz: Mecânica (vol 1); Teoria de campos clássicos (vol 2); Física estatística (vol 5); Mecânica quântica não relativista (vol 3).\n4) The Feynman Lectures on Physics, vol 1 (Mecânica, radiação e calor), vol 2 (Eletromagnetismo), vol 3 (Mecânica quântica).\n5) Mathematical Methods in Classical Mechanics, V. Arnold; bom para tópicos mais avançados de mecânica clássica.\n6) Statistical Mechanics, K. Huang; para a parte de termodinâmica e mec. Estatística.\n7) Classical Electrodynamics, J.D. Jackson; para eletromagnetismo e método das imagens\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MAE125",
+       "MAE127",
+       "MAE231",
+       "MAE240"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAE122",
+      "Nome": "Computação Científica II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Simulação numérica de EDO's e de sistemas dinâmicos: estabilidade, esquemas de um passo, esquemas Multistep lineares.  Métodos de Runge-Kutta e pacotes de rotinas em linguagem Fortran (Netlib).  Métodos de diferenças finitas para a simulação numérica de equações a derivadas parciais.  Teorema de Lax.  Método de Von Neumann, dispersão e difusão. Condições de fronteira. Introdução aos métodos espectrais: polinômios trigonométricos e polinômios de Chebyshev.\n",
+       "BibliografiaBasica": "1) Finite Differences. G. D. Smith.\n2) Numerical solutions of partial differential equations by the finite element method, Claes Johnson; Cambridge University Press.\n3) Finite Difference Schemes and Partial Differential Equations, John C. Strikwerda.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MAE113",
+       "MAE127"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAE353",
+      "Nome": "Top de Matematica Aplicada A",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Variavel\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 15:00",
+        "professor": "CESAR JAVIER NICHE MAZZEO"
+       },
+       {
+        "dia": "Qui",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAE473",
+      "Nome": "Tóp de Matemática Aplicada C",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Não cadastrada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "15:00 - 17:00",
+        "professor": "FRANCESCO NOSEDA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "15:00 - 17:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAW123",
+      "Nome": "Matemática Finita",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Combinações e Permutações. Príncipio da Inclusão-Exclusão. Outros métodos de contagem. Números Binomiais. Triângulo de Pascal. Resoluções de recorrência. Funções geratizes. Teoria da contagem de Polya. Teoria dos Grafos: Conceitos Básicos. Árvores.\n",
+       "BibliografiaBasica": "1- A.C.O. Morgado, J.B.P. Carvalho, P.C.P. Carvalho e P. Fernandez. ?Análise Combinatória e Probabilidade.? SBM, Rio de Janeiro, 1991. Sétima edição\n",
+       "BibliografiaComplementar": "1- A.C. Bachk, L.M.B. Poppe e R.N.O. Tavares, ?Prelúdio à Análise Combinatória.? CEN, 1975.\n2- R.L. Graham, D.E. Knuth e O. Patashnik, ?Matemática Concreta.?\nLTC, 1995.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NEP110",
+      "Nome": "Fund Direitos Humanos",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Necessidade e possibilidade de uma fundamentação filosófica dos direitos humanos, para a determinação do conteúdo e construção de argumentos racionais na sua implementação. Identificação dos principais desafios para afirmação e a realização dos direitos humanos e apresentação de algumas propostas contemporâneas de Fundamentação Filosófica dos Direitos Humanos.\n",
+       "BibliografiaBasica": "1) BARBALET, J. M. A Cidadania. Lisboa: Editorial Estampa, 1989.\n2) BAUMAN, Zygmunt. Comunidade: a busca da segurança no mundo atual. Rio de Janeiro: Jorge Zahar, 2003.\n3) BECKER, Howard S. Métodos de pesquisa em ciências sociais. São Paulo: Hucitec, 1999.\n",
+       "BibliografiaComplementar": "1) BELLONI I, Magalhães h. / Souza L; Metodologia de avaliação em políticas públicas. São Paulo (Cortez) 2003.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NEP130",
+      "Nome": "Tóp Esp Polít Públ Dir Hum I",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Discussão de temas específicos em políticas públicas e direitos humanos com base no processo histórico e nas críticas contemporâneas, proporcionando ao aluno uma visão sobre o alcance e limites da sua proteção e promoção.\n___BIBLIOGRAFIA BÁSICA___\n1) BECKER, Howard S. Métodos de pesquisa em ciências sociais. São Paulo: Hucitec, 1999.\n2) BELLONI I.; Magalhães H.; Souza L; Metodologia de avaliação em políticas públicas. São Paulo (Cortez) 2003.\n3) BOBBIO, Norberto. A era dos direitos. Rio de Janeiro: Campus, 1992.\n4) BOURGUIGNON, Jussara Ayres; OLIVEIRA Jr., Constantino Ribeiro de (Orgs.).  Pesquisa em ciências sociais: interfaces, debates e metodologias. Ponta Grossa (PR): Todapalavra, 2012.\n5) BRASIL, Programa Nacional de Direitos Humanos , PNDH II, Fernando Henrique Cardoso,  Brasília, Presidência da República, Secretaria da Comunicação Social, Ministério da Justiça, 2002.\n6) BUCCI, Maria Paula Dalari Et. al. (Orgs.). Direitos Humanos e políticas públicas. São Paulo: Pólis, 2001.\n7) FAORO, Raymundo. Os donos do poder. Rio de Janeiro, Editora Globo, 1958.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NEP141",
+      "Nome": "Tóp Esp Polít Públ Dir Hum III",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Discussão de temas específicos em políticas públicas e direitos humanos com base no processo histórico e nas críticas contemporâneas, proporcionando ao aluno uma visão sobre o alcance e limites da sua proteção e promoção.\n___BIBLIOGRAFIA BÁSICA___\n1) BECKER, Howard S. Métodos de pesquisa em ciências sociais. São Paulo: Hucitec, 1999.\n2) BELLONI I.; Magalhães H.; Souza L; Metodologia de avaliação em políticas públicas. São Paulo (Cortez) 2003.\n3) BOBBIO, Norberto. A era dos direitos. Rio de Janeiro: Campus, 1992.\n4) BOURGUIGNON, Jussara Ayres; OLIVEIRA Jr., Constantino Ribeiro de (Orgs.).  Pesquisa em ciências sociais: interfaces, debates e metodologias. Ponta Grossa (PR): Todapalavra, 2012.\n5) BRASIL, Programa Nacional de Direitos Humanos , PNDH II, Fernando Henrique Cardoso,  Brasília, Presidência da República, Secretaria da Comunicação Social, Ministério da Justiça, 2002.\n6) BUCCI, Maria Paula Dalari Et. al. (Orgs.). Direitos Humanos e políticas públicas. São Paulo: Pólis, 2001.\n7) FAORO, Raymundo. Os donos do poder. Rio de Janeiro, Editora Globo, 1958.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NEP143",
+      "Nome": "Tóp Esp Polít Públ Dir Hum V",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Discussão de temas específicos em políticas públicas e direitos humanos com base no processo histórico e nas críticas contemporâneas, proporcionando ao aluno uma visão sobre o alcance e limites da sua proteção e promoção.\n___BIBLIOGRAFIA BÁSICA___\n1) BECKER, Howard S. Métodos de pesquisa em ciências sociais. São Paulo: Hucitec, 1999.\n2) BELLONI I.; Magalhães H.; Souza L; Metodologia de avaliação em políticas públicas. São Paulo (Cortez) 2003.\n3) BOBBIO, Norberto. A era dos direitos. Rio de Janeiro: Campus, 1992.\n4) BOURGUIGNON, Jussara Ayres; OLIVEIRA Jr., Constantino Ribeiro de (Orgs.).  Pesquisa em ciências sociais: interfaces, debates e metodologias. Ponta Grossa (PR): Todapalavra, 2012.\n5) BRASIL, Programa Nacional de Direitos Humanos , PNDH II, Fernando Henrique Cardoso,  Brasília, Presidência da República, Secretaria da Comunicação Social, Ministério da Justiça, 2002.\n6) BUCCI, Maria Paula Dalari Et. al. (Orgs.). Direitos Humanos e políticas públicas. São Paulo: Pólis, 2001.\n7) FAORO, Raymundo. Os donos do poder. Rio de Janeiro, Editora Globo, 1958.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NEP145",
+      "Nome": "Tóp Esp Polít Públ Dir Hum VII",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Discussão de temas específicos em políticas públicas e direitos humanos com base no processo histórico e nas críticas contemporâneas, proporcionando ao aluno uma visão sobre o alcance e limites da sua proteção e promoção.\n___BIBLIOGRAFIA BÁSICA___\n1) BECKER, Howard S. Métodos de pesquisa em ciências sociais. São Paulo: Hucitec, 1999.\n2) BELLONI I.; Magalhães H.; Souza L; Metodologia de avaliação em políticas públicas. São Paulo (Cortez) 2003.\n3) BOBBIO, Norberto. A era dos direitos. Rio de Janeiro: Campus, 1992.\n4) BOURGUIGNON, Jussara Ayres; OLIVEIRA Jr., Constantino Ribeiro de (Orgs.).  Pesquisa em ciências sociais: interfaces, debates e metodologias. Ponta Grossa (PR): Todapalavra, 2012.\n5) BRASIL, Programa Nacional de Direitos Humanos , PNDH II, Fernando Henrique Cardoso,  Brasília, Presidência da República, Secretaria da Comunicação Social, Ministério da Justiça, 2002.\n6) BUCCI, Maria Paula Dalari Et. al. (Orgs.). Direitos Humanos e políticas públicas. São Paulo: Pólis, 2001.\n7) FAORO, Raymundo. Os donos do poder. Rio de Janeiro, Editora Globo, 1958.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NEP147",
+      "Nome": "Dir Hum e Democracia",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Direitos humanos, democracia e cidadania. Ética e cidadania. Fundamentos e evolução dos direitos humanos. Precedentes históricos do processo de internacionalização e universalização dos direitos humanos. Pluralismo, tolerância e cidadania. Processos democráticos e Direitos Humanos. Direitos Humanos no Brasil. Cultura política e Direitos Humanos. Cidadania na sociedade contemporânea. Universalismo e relativismo cultura dos DH; Direitos econômicos, sociais, culturais e ambientais (DhESCA).\n___BIBLIOGRAFIA BÁSICA___\n1) COMPARATO, Fábio Konder. A Afirmação Histórica dos Direitos Humanos. São Paulo: Saraiva;\n2) BOBBIO, Norberto. A Era dos Direitos. Rio de Janeiro: Campus.;\n3) LAFER, Celso. A Reconstrução dos Direitos Humanos: um diálogo com o pensamento de Hannah Arendt. São Paulo: Companhia das Letras.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NEP149",
+      "Nome": "Dir Hum e Meio Ambiente",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Ecologia e Meio Ambiente. A crise ambiental. O movimento ecológico. Ecodesenvolvimento e desenvolvimento sustentável. Ambientalismo como fenômeno social. Desequilíbrios ecossistêmicos urbano e rural. Os princípios éticos e filosóficos da relação sociedade-natureza. A problemática do meio ambiente e suas repercussões no campo das teorias do desenvolvimento e do planejamento. O enfoque interdisciplinar da problemática sócio-ambiental. Povos tradicionais e meio ambiente. Movimentos sociais ambientais. Meio ambiente e democracia.\n___BIBLIOGRAFIA BÁSICA___\n1) BOBBIO, Norberto. A Era dos Direitos. Rio de Janeiro: Campus;\n2) PORTO-GONÇALVES, Carlos Walter La Globalizacion da la naturaleza e la naturaleza de la globalizacion, Ed. Casa de las Américas, La Habana, Cuba, 2008;\n3) PORTO-GONÇALVES, Carlos Walter em Da Geografia às geo-grafias: um mundo em busca de novas territorialidades. In CECEÑA, Ana Ester e SADER, Emir (Coord.) La Guerra Infinita, Ed. Clacso,Bueno Aires, 2001.\n4) ENZENSBERG, Hans Magnus. Para uma crítica de la ecologia política. Cuadernos Anagrama, Barcelona, 1973.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NEP151",
+      "Nome": "Dir Hum e Cultura",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das relações profundas e complexas entre a cultura e os direitos humanos, a partir de uma abordagem crítica e interdisciplinar. Discussão de grandes assuntos sociais e culturais que atravessam discursos contemporaneos e produções audiovisuais, especialmente no que tange aos temas da violência, moralidades, verdade, justiça, ética, liberdade e direitos.\n___BIBLIOGRAFIA BÁSICA___\n1) SANTOS, Boaventura de Sousa. A gramática do tempo para uma nova cultura política. São Paulo : Cortêz, 2010;\n2) HALL, Stuart. Da diáspora identidades e mediações culturais. Belo Horizonte: UFMG, 2009;\n3) FRASER, Nancy. Reconhecimento sem ética? Lua Nova, São Paulo, n. 70, 2007.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NEP153",
+      "Nome": "Dir Hum e Trabalho",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Apresentação de reflexões e referências de fenômenos político-jurídico que constroem e reconstroem o ideário de Direitos Humanos do trabalhador, discutir escravização contemporânea e as diversas relações de trabalho informais e formais (CLT, PJ, MEI, prestações de serviços, terceirizações, \"uberizações\", dentre formas outras de precarizações).\n___BIBLIOGRAFIA BÁSICA___\n1) FIGUEIRA, R. Ricardo. Pisando fora da própria sombra. Escravidão por dívida;\n2) MARQUES, Maria Celeste. Controle e Trabalho: Exclusão e Criminalização. In DORNELLES, João Ricardo e SOBRINHO, Sérgio (org.). Estado, Política e Direito. Políticas Públicas e Direitos Fundamentais. Volume 2. Criciúma: Ed. UNESC, 2011; SINGER, Paul. História da Cidadania.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NEP155",
+      "Nome": "Dir Hum e Movimentos Sociais",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo, do ponto de vista histórico e contemporâneo, dos movimentos sociais que lutam por agendas de cidadania inclusiva, contra a discriminação e as desigualdades e em prol dos direitos humanos. Análise tanto dos denominados ?velhos? e ?novos? movimentos sociais, como, mas não limitado, dos movimentos negros, feministas, LGBTQIA+, territoriais, agrárias, sanitárias e sindicais. Reflexão sobre as teorias e práticas de resistência desenvolvidas em diversos contextos de lutas e ativismos, junto com os repertórios sendo construídos diante do cenário atual de redução de direitos.\n___BIBLIOGRAFIA BÁSICA___\n1) BUARQUE DE HOLLANDA, Heloisa. Explosão Feminista. São Paulo: Companhia das Letras. 2018.                                                                                                                     2) GALVAO, Andréia. Marxismo e Movimentos Sociais. Revista Critica Marxista. https://www.ifch.unicamp.br/criticamarxista/arquivos_biblioteca/artigo235artigo5.pdf\n3) GOHN, Maria da Gloria(2014). Movimentos sociais e redes de mobilizações civis no Brasil contemporâneo. Editora Vozes Limitada. 2014.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NEP157",
+      "Nome": "Dir Hum, Violência e Democrac",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Discussão da origem e permanência do discurso de oposição à defesa dos direitos humanos no Brasil. Abordagem das origens sociais da violência e dos direitos humanos e da cidadania. Discussões sobre violência e crime e no contexto no qual o discurso ?bandido bom é bandido morto? ganhou força. Debate de estudos empíricos sobre crime, polícia e prisões que abordam o tema.\n___BIBLIOGRAFIA BÁSICA___\n1) SANTOS, Boaventura de Sousa (2007). Para além do pensamento abissal: das linhas globais a uma ecologia dos saberes, in Revista Crítica de Ciências Sociais, 78, 3-46.\n2) FLORES, Joaquin Herrera. A (re)invenção dos direitos humanos. Florianópolis, Fundação Boiteux, 2009.\n3) ABRAMOVAY, Pedro Vieira; BATISTA, Vera Malaguti (orgs). Depois do Grande Encarceramento. Rio de Janeiro, Revan, ICC, 2010.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NEP159",
+      "Nome": "Dir Hum e Desigualdade Sociais",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Abordagem de temas sobre desigualdades no sistema do mundo capitalista globalizado, nas suas dimensões econômicas, culturais, sociais e políticas; com ênfase na construção de identidades contemporâneas, na formação de movimentos sociais e os conceitos de DDHH colocados por estes.\n___BIBLIOGRAFIA BÁSICA___\n1) CASTELLS, MANUEL. A era da informação: economia, sociedade e cultura. Vol. 2. O Poder da Identidade. Editora Paz e Terra, 6 Edição, São Paulo, 1999.\n2) FRASER, NANCY & JAEGGI, RAHEL. Capitalismo em debate: uma conversa na teoria crítica, Editora Boitempo, 2020.\n3) PIKKETY, THOMAS. O Capital no Século XXI. Introdução, Editora Intrínseca, 1ª Edição, Rio de Janeiro, 2014.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     }
+    ]
+   },
+   "obrigatorias": 25,
+   "eletivas": 99,
+   "ano": "2025/1 a 9999/9"
+  }
+ ]
+}

@@ -1,0 +1,2352 @@
+{
+ "Licenciatura em Geografia": [
+  {
+   "materias": {
+    "1º Período": [
+     {
+      "Codigo": "IGG112",
+      "Nome": "Teoria da Geografia",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O que é a ciência. Diferença entre tipos de Saberes. A ciência como atividade. A ciência moderna. Os modelos científicos de explicação e compreensão. As definições da Geografia e seus problemas. Identidade disciplinar e dicotomias. A ordem espacial do mundo, ciência das relações espaciais. Sistemas de informação geográfica. Os conceitos chave da geografia, evolução e questões atuais: espaço, região, território, paisagem, ambiente, lugar.\n___BIBLIOGRAFIA BÁSICA___\n1) CASTRO, I. E.; GOMES, P. C..; CORRÊA, R, L. Geografia: conceitos e temas. Rio de Janeiro: Bertrand Brasil, 1995.\n2) CASTRO, I. E.; GOMES, P. C.; CORRÊA, R, L. Explorações geográficas. Rio de Janeiro: Bertrand Brasil, 1997.\n3) CASTRO, I. E.; GOMES, P. C.; CORRÊA, R, L. Olhares geográficos: modos de ver e viver o espaço. Rio de Janeiro: Bertrand Brasil, 2012.\n4) SANTOS, M. A natureza do espaço; técnica e tempo, razão e emoção. São Paulo: Hucitec, 1996.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IGG115",
+      "Nome": "Geografia Mundo Contemporâneo",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Formação do sistema-mundo. Diferentes regionalizações do mundo. Diversidade regional do mundo contemporâneo. Teorias e geografia do desenvolvimento. Re-estruturação do capitalismo e espaço produtivo globalizado. Globalização e reconfiguração dos territórios (o local, o Estado nação, os blocos regionais). Redes e circulações. Conflitos étnico-culturais e desigualdades sócio-espaciais. Novas configurações geopolíticas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IGGX08",
+      "Nome": "Ativid Acad Cient Culturais",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "200",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Participação em: (a) eventos cientificos e culturais (congressos, simpósios, oficinas, workshops, encontros, seminários, conferências, ciclos de debates, palestras) e exposições orientadas/monitoradas e museus ou instituições similares: (b) defesas de teses e dissertações na UFRJ ou externas; (c) atividades de monitoria; (d) estágios de pesquisa; (e) organização de eventos científico-culturais; (f) cursos extra-curriculares avulsos ou seriados;(g) publicações científicas; (h) atividades de extensão; (i) atividades docentes e tutoriais; (j) trabalhos orientados de campo (incluindo visitas técnicas) não curriculares; todos abarcando temáticas concernentes ao Ensino, à Geografia, ou às ciências, artes e cultura de modo geral.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDF120",
+      "Nome": "Filos Educação Mundo Ocidental",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Contribuições das concepções filosóficas do século XX para a problemática educacional. O pensamento pedagógico brasileiro dos anos 1920 a 1980. Contribuições das concepções filosóficas para a problemática educacional. O pensamento pedagógico brasileiro à luz da filosofia da educação.\n",
+       "BibliografiaBasica": "1) ARISTÓTELES. A ética a Nicômacos. Trad. Mario da Gama Cury. Brasília, DF: EdUnb, 1985 (2ª ed).\n2) BRÉHIER, Émile. História da Filosofia. São Paulo: Mestre Jou, 1977, tomo II, fasc.4\n3) DURKHEIM, Emile. Educação e Sociologia. São Paulo: Edições 70, 2001.\n",
+       "BibliografiaComplementar": "1) JAEGER, Werner. Paidéia. São Paulo: Martins Fontes, 1995.\n2) MAZZOTTI, Tarso Bonilha, OLIVEIRA, Renato José de. O que você precisa saber em ciência (s) da educação. Rio de Janeiro: DPA, 2000.\n3) PLATÃO. República. Trad. Maria Helena Rocha. Lisboa: Fundação Calouste Gulbenkian, 1990 (6ª. ed.).\n4) ROUSSEAU, J. J. Emílio ou da educação. Trad. Roberto Leal Ferreira. São Paulo, SP: Martins Fontes, 2004 (3ª ed).\n5) GADOTTI, Moacir. Pensamento pedagógico brasileiro. São Paulo: Ática, 1991.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "14:00 - 17:30",
+        "professor": "MARCIO JAREK"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IGG114",
+      "Nome": "Planeta Terra",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Origem, propriedades e estrutura interna da Terra; sismicidade, isostasia, campo magnético. Sistemas e ciclos terrestres. Tempo geológico. Tectônica de Placas e evolução dos continentes e oceanos. Minerais e rochas: gênese, composição, estruturas. Recursos minerias e energéticos. Intemperismo e formação de solos. Interação atmosfera/oceanos/continentes e suas dinâmicas. Sistemas co-evolutivos. Dinâmicas interna e externa da Terra e catástrofes sociais. Mudanças ambientais globais e sociedades humanas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IGG122",
+      "Nome": "Geografia da População",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Geografia da População: enfoques e questões contemporâneas. Teorias do crescimento demográfico: Malthus, Marx. Fome e pobreza: Neomalthusianismo e a Geopolítica da Fome. Elementos do crescimento e da estrutura da população. Mobilidade da população: fundamentos teóricos, tipos de fluxos migratórios. Migrações internacionais no mundo contemporâneo. Migrações internas no Brasil. fontes de informação demográfica. Dinâmica populacional brasileira.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "2º Período": [
+     {
+      "Codigo": "IGG123",
+      "Nome": "Fundamentos de Biogeografia",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Relações ecológicas, históricas e geográficas da distribuição espacial e temporal de animais e plantas. As relações dos organismos com os seus \"habitats\". Natureza espaço-temporal dos padrões de distribuição dos organismos. Nível de orgasnização do ecossistema: estrutura e processos fundamentais. Nível de organização biológica das populações. Interações ecológicas entre populações: populações em comunidades. História geológica da vida. Biomas do mundo.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "18:00 - 22:00",
+        "professor": "CARLOS ERNESTO GONCALVES REYNAUD SCHAEFER"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IGG125",
+      "Nome": "Cartografia Básica",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução, definição, histórico e metodologia. Forma da terra e representação cartográfica. Sistemas de coordenadas. Escalas. Projeções cartográficas. Cartografia básica: carta topográfica. Prática de campo.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "18:00 - 22:00",
+        "professor": "FELIPE GONCALVES AMARAL"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDF240",
+      "Nome": "Fundamentos Sociológ Educação",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O contexto do surgimento da sociologia. Durkheim e a formação de uma maneira funcional de interpretar as relações entre educação e demais instâncias da vida social. A sociologia da educação na primeira metade do século XX. Os estudos sobre educação após a segunda guerra mundial. A \"crítica radical\" dos anos 70 - educação e reprodução social. A influência do marxismo no pensamento educacional. Influências gramscianas. A \"crise dos paradigmas\" das ciências sociais e os estudos sobre educação: modelos microssociológicos e etnográficos. Abordagens weberianas em sociologia da educação.\n",
+       "BibliografiaBasica": "1)\tALVES, M. Teresa G. & FRANCO, Creso. A pesquisa em eficácia escolar no Brasil: evidências sobre o efeito das escolas e fatores associados à eficácia escolar. In: BROOKE, N.; SOARES, J. F. Pesquisa em Eficácia Escolar: Origem e Trajetórias. Belo Horizonte: Editora UFMG.\n2)\t BOURDIEU, Pierre. A escola conservadora: as desigualdades frente à escola e à cultura. In: NOGUEIRA, M. A. & CATANI, A. (orgs,) Escritos de Educação. Petrópolis: Vozes, 2010.\n3)\tDURKHEIM, E. - ?A educação: sua natureza e função? in Educação e Sociedade. São Paulo: Melhoramentos,1978.\n4)\tNOGUEIRA, M. Alice, 1995. A Sociologia da Educação do final dos anos 60/início dos anos 70: o nascimento do paradigma da reprodução. In: Em Aberto, Brasília, ano 9, n. 46, abr. jun. 1990.\n",
+       "BibliografiaComplementar": "1)\tBOURDIEU, Pierre. Reprodução Cultural e Reprodução Social in A Economia das Trocas Simbólicas. São Paulo: Ed. Perspectiva, 1987.\n2)\t LAHIRE, Bernard. Sucesso escolar nos meios populares: as razões do improvável. São Paulo: Ática, 2008.\n3)\tNOGUEIRA, Maria Alice. A Sociologia da Educação no final dos anos 60/início dos anos 70: o nascimento do paradigma da reprodução. Em Aberto, Brasília, ano 9, n.46, abr./jun. 1990.\n4)\tNOGUEIRA, Maria Alice e NOGUEIRA, Claudio M. - A Sociologia da Educação de Pierre Bourdieu: limites e contribuições. Educação e Sociedade, Campinas, n. 78, Ano XXIII, abril/2002.\n5)\tZAGO, Nadir, 2011. Fracasso e sucesso escolar no contexto das relações família e escola: questionamentos e tendências em Sociologia da Educação. Revista Luso-Brasileira de Sociologia da Educação, ano 2, n.3, março 2011.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "18:00 - 22:00",
+        "professor": "PAULO HENRIQUE VAZ DA COSTA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IGG124",
+      "Nome": "Climatologia Geográfica",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Tempo e Clima. Métodos de análise climatológica e a Climatologia Geográfica. Composição e estrutura vertical da atmosfera. Balanço de energia no sistema terra-atmosfera. Pressão atmosférica, ventos e circulação geral. Fatores geográficos e influência sobre os elementos do clima. Ciclo da água na atmosfera. Massas de ar e frentes. Classificações climáticas e domínios climáticos do planetra. Sistemas atmosféricos e climas da América do Sul. Impactos do clima sobre a sociedade, impactos do homem sobre o clima: aquecimento global e mudanças climáticas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "18:00 - 22:00",
+        "professor": "CARLOS ERNESTO GONCALVES REYNAUD SCHAEFER"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IGG234",
+      "Nome": "Metodologia Cientifica",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O que é ciência? O espírito científico. A construção do objeto. Paradigma e conceitos. Os obstáculos epistemológicos e o novo espírito científico. A construção do objeto. Categorias, conceitos e teorias. O debate de idéiais. Formulação de hipóteses. Construção do projeto de pesquisa. A pesquisa de campo; Os métodos e as técnicas de investigação. O casamento entre teoria e empiria. Prática de escrever, de criticar, de incorporar críticas e de reescrever.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "18:00 - 22:00",
+        "professor": "NATHALIA LACERDA DE CARVALHO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "3º Período": [
+     {
+      "Codigo": "IGG235",
+      "Nome": "Geomorfologia Geral",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Histórico, evolução dos conceitos e perspectivas de estudo. Materiais, estruturas, processos e escalas de tempo e espaço. Geomorfologia global e tectônica. Processos endógenos e formas da superfície terrestre (atividade ígnea, dobramentos, fraturas e falhas). Processos exógenos e formas de relevo: intemperismo; ambientes de encostas, fluviais, eólicos, glaciais/periglaciais, costeiros e marinhos. Interações entre as dinâmicas interna e externa na transformação do relevo. Aplicações da Geomorfologia.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IGGX03",
+      "Nome": "Trabalho de Campo Geog Física",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Trabalho de campo voltado à aplicação de conteúdos de Geografia Física, a partir de diferentes recortes espaciais definidos pelas áreas de interesse. Compreende visitas técnicas e /ou atividades programadas incluindo treinamentos de: localização, observação e descrição do espaço geográfico; utilização de técnicas de pesquisa (levantamento bibliográfico e de dados, levantamentos de campo, mapeamentos, documentação, etc). Elaboração de Campo.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "IGG123(C)",
+       "IGG124(C)",
+       "IGG235(C)IGG235=IGG253IGG124=IGG118IGG123=IGG128IGG124=IGG232"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDA234",
+      "Nome": "Educação Brasileira",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A constituição do sistema nacional de ensino e a relação entre Estado e Educação. Persistências e mudanças na estrutura e no funcionamento do ensino no Brasil: as relações entre público e privado, centralização e descentralização, ensino laico e ensino confessional, formação geral e formação profissional. A LDBEN (Lei 9394/96): avanços e recuos no processo de profissionalização do campo pedagógico e de universalização do ensino.\n",
+       "BibliografiaBasica": "1)\tCUNHA, Luiz Antônio. 5ª ed. Educação e desenvolvimento Social no Brasil. Rio de Janeiro: Francisco Alves , 1980.\n2)\tBRASIL. LEI DE DIRETRIZES E BASES DA EDUCAÇÃO NACIONAL, LDBEN. LEI 9.349 de 20/12/1996.\n3)\tSAVIANI, Dermeval. A nova lei de educação - trajetórias, limites e perspectivas. Campinas: Autores Associados, 1997.\n",
+       "BibliografiaComplementar": "1)\tBRZEZINSKI, Iria. (Org.). LDB dez anos depois: reinterpretação sob diversos olhares. São Paulo: Cortez, 2008.\n2)\t______. Políticas contemporâneas de formação e professores para os anos iniciais do ensino fundamental. Educação & Sociedade, v. 29, n. 105, set/dez 2008.\n3)\tCUNHA, Luiz Antonio; GÓES, Moacyr de. O golpe na educação. Rio de Janeiro: Jorge Zahar, 1985.\n4)\t______. Educação, Estado e Democracia no Brasil. 5ª ed.São Paulo: Cortez, 2005.\n5)\tCURY, Carlos Jamil. Legislação educacional brasileira. 2ª ed. Rio de Janeiro: DP&A, 2002.\n6)\t______. A educação básica no Brasil. Educação & Sociedade, n. 80, v. 23, p. 169-202, 2002.\n7)\t______. Estado e políticas de financiamento em educação. Educação & Sociedade, v. 28, n. 100, Out. 2007.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "18:00 - 22:00",
+        "professor": "BRUNO GAWRYSZEWSKI"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IGG237",
+      "Nome": "Geografia Econômica",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Objetivos e métodos da Geografia Econômica, a dimensão espacial da economia, a crise e a reestruturação produtiva da economia mundial em seu aspecto territorial, blocos regionais, inserção internacional e da estrutura regional e da economia brasileira.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "4º Período": [
+     {
+      "Codigo": "IGG252",
+      "Nome": "Geografia Política",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Geografia e espacialidade da política; Política, território, territorialidade; Construção do campo da geografia política. Escalas da Geografia Política e suas transformações. Política, Poder e Poder político. Estado: conceitos, gêneses e desenvolvimento. Estados nacionais no contexto atual. Geografia e Políticas Públicas. Geografia e Democracia. Espaços Políticos. Engenharias político-territoriais, representação e participação. Geografia Eleitoral. Identidade, cultura e política.\n___ BIBLIOGRAFIA BÁSICA ___\n1) ARENDT, H. O que é política. Rio de Janeiro: Bertrand Brasil, 1998.\n2) BOBBIO, N. Dicionário de Política. 5 ed. Brasília: EdUNB, 2004.\n3) CASTRO, I. E. Geografia e Política. Rio de Janeiro: Bertrand Brasil, 2005.\n4) CASTRO, I. E.; RODRIGUES, J. N.; RIBEIRO, R. W. (Org.) Espaços da Democracia: para a agenda da Geografia Política Contemporânea. Rio de Janeiro: Bertrand Brasil, 2013.\n5) COSTA, W. M. Geografia Política e Geopolítica. São Paulo: Hucitec, 1992.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "18:00 - 22:00",
+        "professor": "LICIO CAETANO DO REGO MONTEIRO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IGGX04",
+      "Nome": "Trab Campo Cart Sens Remoto",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Trabalho de campo voltado à aplicação de conteúdos de Cartografia e Sensoriamento Remoto, a partir de diferentes recortes espaciais definidos pelas àreas de interesse. Compreende visitas técnicas e/ou atividades prograsmadas incluindo treinamentos de: localização, observação e descrição do espaço geográfico; utilização de técnicas de Pesquisa (levantamento bibliográfico e de dados, mapeamentos, documentação etc). Elaboração de Relatório de Campo.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sab",
+        "hora": "22:00 - 23:59",
+        "professor": "HULLYSSES SABINO DE SOUZA"
+       }
+      ],
+      "Requisitos": [
+       "IGG254(C)IGG254=IGG616"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDD241",
+      "Nome": "Didática",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A construção do campo da didática visto como tempo/espaço de reflexão/ação sobre o processo de ensino-aprendizagem. Teorias educacionais e o contexto sócio-histórico, político, econômico e filosófico da prática pedagógica. Estruturantes da prática pedagógica: planejamento curricular e planejamento de ensino; métodos e técnicas de ensino; avaliação do ensino.\nBIBLIOGRAFIA RECOMENDADA\n1)\tCANDAU, Vera Maria. (Org.) Ensinar e Aprender: sujeitos, saberes e pesquisa/Encontro Nacional de Didática e Prática de Ensino (ENDIPE). Rio de Janeiro: DP&A, 2000.\n2)\t________Linguagens, espaços e tempos no ensinar e aprender./Encontro Nacional de Didática e Prática de Ensino (ENDIPE). Rio de Janeiro: DP&A, 2000.\n3)\t ________(Org.)Didática, Currículo e Saberes Escolares. Rio de Janeiro: DP&A, 2001.\n4)\tFAZENDA, Ivani (org.). Didática e interdisciplinaridade. São Paulo : Papirus, 1998.\n",
+       "BibliografiaBasica": "1)\tGIMENO SACRISTÁN, Jose. Currículo e diversidade cultural. Em: SILVA, Tomaz Tadeu da; MOREIRA, Antonio Flavio Barbosa (orgs.). Territórios contestados: o currículo e os novos mapas políticos e culturais. Petrópolis/RJ : Vozes, 1999. [82-113].\n2)\tGIMENO SACRISTÁN, J. e PEREZ GÓMEZ, A. I. Compreender e transformar o ensino. 4ª ed. Porto Alegre : Artmed, 1998.\n3)\tLIBÂNEO, José Carlos. Didática: velhos e novos temas. Goiânia : edição do autor, 2002.\n4)\t_________. Pedagogia e Pedagogos, para quê? 7ª ed. SP : Cortez, 2004.\n5)\tMOREIRA, Antonio Flávio Barbosa; SILVA, Tomaz Tadeu da. Sociologia e teoria crítica do currículo: uma introdução. Em: MOREIRA, Antonio Flávio Barbosa; SILVA, Tomaz Tadeu da.(Orgs.). Currículo, cultura e sociedade. São Paulo : Cortez, 1995. [07-37].\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "18:00 - 22:00",
+        "professor": "REJANE MARIA DE ALMEIDA AMORIM"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IGG254",
+      "Nome": "Cartografia Temática",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Cartografia Temática em análises espaciais. Mapas Temáticos. Modelos de Comunicação Estáticos e Interativos. Cartografia Web, Multimídia, Participativa, Colaborativa, NeoCartography. Processamento de dados geográficos. Projeto gráfico. Simplificação, classificação e generalização. Primitivas Gráficas, Simbolização, Variáveis Gráficas, Escalas de Observação. Fenômenos pontuais, lineares e planares. Mapa de síntese. Novas tecnologias. Atividades práticas de confecção de mapas temáticos.\n___ BIBLIOGRAFIA BÁSICA ___\n1) FERNANDES, M. C.; GRAÇA, A.J.S. Conceitos e aplicações cartográficas diante das necessidades da cartografia turística In: Geografia Aplicada ao Turismo. 1 ed. São Paulo: Oficina de Textos, v.1, p. 28-55, 2014.\n2) MARTINELLI, M. Mapas da Geografia e Cartografia Temática. São Paulo: Contexto, 2003.\n3) MENEZES, P.M.L.; FERNANDES, M.C. Roteiro de Cartografia. São Paulo: 1 ed. Oficina de Textos, 2013.\n4) NOGUEIRA, R.E. Cartografia - Representação, comunicação, e visualização de dados espaciais. 2 ed.  Florianópolis: UFSC, 2000.\n5) OLIVEIRA, C. Dicionário Cartográfico. 4 ed. Rio de Janeiro: IBGE,1993.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "18:00 - 22:00",
+        "professor": "HULLYSSES SABINO DE SOUZA"
+       }
+      ],
+      "Requisitos": [
+       "IGG125"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IGGY05",
+      "Nome": "Oficina Did de Geo Física",
+      "Créditos": "3.0",
+      "Teórica": "15",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Elaboração de atividades didáticas voltadas à Educação Geográfica no Ensino Fundamental e Médio articulando conceitos, categorias e temas da Geografia Física. Desenvolvimento de atividades de pesquisa e produção de material didático para o ensino de Geografia na Escola Básica considerando a utilização de múltiplas linguagens. Inclui trabalhos de campo com desenvolvimento de atividades práticas para diferentes segmentos e modalidades de ensino.\n",
+       "BibliografiaBasica": "1- BRASIL. Ministério da Educação. Secretaria da Educação Básica. Base Nacional Comum Curricular. Disponível em:\nhttp://basenacionalcomum.mec.gov.br/abase/\n2- CHRISTOPHERSON, R.W. GEOSSISTEMAS ? UMA INTRODUÇÃO À GEOGRAFIA FÍSICA. Porto Alegre: Bookman. 2012. 7ª Ed. 727p.\n3- LEFF, E. (Coord) A Complexidade Ambiental. São Paulo: Cortez, 2010. 2 ed. 342p.\nPRESS, F; SIEVER, R.; GROTZINGER, J.; JORDAN, T.H. PARA ENTENDER A TERRA. Porto Alegre: Bookman. 2006. 4ª Ed. 656p.\n4- ROSS, J. L. S.; CUNICO, C.; LOHMANN, M.; DEL PRETTE, M. E. (orgs.). Ordenamento territorial do Brasil: potencialidades naturais e vulnerabilidades\nsociais. Osasco, SP: Ed. dos Autores, 2022. 585 p. Disponível em: https://www.juraross.com.br/index.html\n5- SOUZA, C.R.G.; SUGUIO, K.; OLIVEIRA, A.M.S.; OLIVEIRA, P.E. Quaternário do Brasil. Ribeirão Preto: Holos. 2005. Disponível em:\nhttps://www.abequa.org.br/livro.php\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "18:00 - 20:00",
+        "professor": "EDUARDO JOSE PEREIRA MAIA"
+       },
+       {
+        "dia": "Seg",
+        "hora": "20:00 - 22:00",
+        "professor": "MARIA NAISE DE OLIVEIRA PEIXOTO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "5º Período": [
+     {
+      "Codigo": "EDF245",
+      "Nome": "Psicologia da Educação",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A Psicologia da Educação e as relações entre desenvolvimento afetivo, cognitivo, linguístico e moral em situações de interação sócio-cultural. Inteligência e escolarização meritocrática: da tradição psicométrica às concepções contemporâneas de inteligência. Humanismo, behaviorismo, psicanálise, construtivismo e sócio-interacionismo. O processo psicológico da construção e aquisição do conhecimento diante dos sistemas de informação e comunicação.\n",
+       "BibliografiaBasica": "1)\tCUNHA, M. V. A Psicologia da Educação: dos paradigmas científicos às finalidades educacionais. Acessado em 10 de julho de 2013. http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0102-25551998000200004.\n2)\tAZEVEDO, E. M. K. Concepção de Carl Rogers sobre aprendizagem. Acessado em 10 de julho de 2013. http://elisakerr.wordpress.com/concepcao-de-aprendizagem-de-carl-rogers/.\n3)\tBOCK, A. M. B.; FURTADO, O; TEIXEIRA, M. L. T. Psicologias: uma introdução ao estudo de Psicologia. São Paulo, Saraiva: 2002.\n",
+       "BibliografiaComplementar": "1)\tVIGOTSKY, L. A formação social da mente. São Paulo, Martins Fontes: 1998.\n2)\tVYGOTSKY, L. Pensamento e Linguagem. São Paulo, Martins Fontes: 1989.\n3)\tCOLL, C.; MONEREO, C.; et Coll. Psicologia da Educação Virtual: aprender e ensinar com as tecnologias da informação e da comunicação. Porto Alegre, Artmed: 2010.\n4)\tAUSUBEL, D.P. et alii. Psicologia educacional. Rio de Janeiro: ed. Interamericano, 1980.\n5)\t PATTO, M.H. Introdução à psicologia escolar. São Paulo: T.A. Queiros, 1986.\n6)\tPIAGET, J. Seis estudos de psicologia. Rio de Janeiro: Forense, 1970.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "18:00 - 22:00",
+        "professor": "JENNIFER ALINE ZANELA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IGG376",
+      "Nome": "Geografia Agrária",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O espaço agrário e a Geografia. Relações campo-cidade, da funcionalidade produtiva a multifuncionalidade do campo. O sistema agrícola moderno, origem e formação do complexo agroindustrial, o agronegócio. Revolução verde e a agricultura moderna. Estrutura fundiária, relações de trabalho, agricultura familiar e patronal. Reformas agrárias, acesso à terra e a questão social, econômica e política. Biotecnologia e a agricultura orgânica, implicações econômicas, sociais e ambientais.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IGGY04",
+      "Nome": "Oficina Did Cart Sens Remoto",
+      "Créditos": "3.0",
+      "Teórica": "15",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O RCS trabalha a transposição didática de conceitos, temas e categorias da Cartografia e do Sensoriamento Remoto para o Ensino Fundamental e Médio. Compreende atividades de pesquisa sobre o ensino de Geografia no Ensino Médio e Fundamental e produção de material didático e para-didático, considerando mútiplas linguagens.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "IGG254"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDD636",
+      "Nome": "Educ e Comunicação II (Libras)",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O estudo de LIBRAS na formação do professor em uma visão inclusiva de Educação. Cultura surda e comunidade. As comunidades surdas no Brasil. Surdez e Patologia. Surdez e diferença. Gramática em LIBRAS. Vocabulário básico. Exercícios e diálogos: família, apresentação, saudação, e sentimentos; objetos, alimentos e bebidas; corpo humano; animais; vestuário. Acessórios e cores; profissões e sistemas monetários; meios de transportes e viagens; países, estados e cidades; calendário, condições climáticas e estações do ano; mitos, lendas e crenças. Exercício para o desenvolvimento da percepção e uso do espaço e do corpo.\nBIBLIOGRAFIA RECOMENDADA\n1)\tBRASIL. DECRETO Nº 5.626, DE 22 DE DEZEMBRO DE 2005. Decreto Lei de Libras. Disponível em: . Acesso em: dez. 2011.\n2)\t________. LEI FEDERAL Nº 10.436 de 24/04/2002. Reconhece a Língua Brasileira de Sinais ? Libras. Brasília ? DF Disponível em: . Acesso em: dez. 2011.\n3)\tBRITO, L. F. Integração Social e Educação de Surdos. Rio de Janeiro: Ed. Babel, 1993.\n",
+       "BibliografiaBasica": "1)\tFELIPE, T. A. Libras em Contexto - manual do estudante, Brasília: MEC, 2001.\n2)\tFERNANDES, E. Linguagem e Surdez. Porto Alegre: Artmed, 2003.\n3)\tFERNANDES, S. É possível ser surdo em português? Língua de sinais e escrita: em busca de uma aproximação. In: Skliar, C. Atualidade da educação bilíngüe para surdos. Porto Alegre: Mediação, 1999.\n4)\tFERREIRA, M. C. C., ZAMPIERI, M. A. Atuação do professor ouvinte na relação com o aluno surdo: relato de experiência nas séries iniciais do ensino fundamental. In: LODI, A. C. B. (org.) Leitura e escrita no contexto da diversidade. Porto Alegre: Mediação, 2004.\n5)\tGUARINELLO, A. C. O papel do outro na escrita de sujeitos surdos. São Paulo: Plexus, 2007.\n6)\tPAULA, L. S. B. de. Linguagem e a Surdez. Revista Espaço: informativo técnico científico do INES. nº 20 dez./2003- Rio de Janeiro: INES, 2003.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IGG374",
+      "Nome": "Geografia Urbana",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "DINÂMICA DA URBANIZAÇÃO: Origem da cidade. Ascidades grega e romana. a cidade medieval. Revoluçãoindustrial e cidade. séculos XIX e XX. Aurbanização brasileira: temas selecionados. PRODUÇÃO DOS ESPAÇOS INTRAURBANOS: Sítio, posição, plano urbano, fisionomia e funções urbanas. Agentes modeladores do espaço urbano. Estado e políticas habitacionais. Economiase deseconomiasde aglomeração. Reforma urbana e planos diretores. REDE URBANAS: Hierarquia urbana e rede urbana. A teoria dos lugares centrais. Novas dimensões da urbanização brasileira.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IGGX07",
+      "Nome": "Trabalho Campo Geog Humana",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Trabalho de campo voltado à aplicação de conteúdos de Geografia Humana, a partir de diferentes recortes espaciais definidos pelas àreas de interesse. Compreende visitas técnicas e/ou atividades programadas incluindo treinamentos de: localização, observação e descrição do espaço geográfico; utilização de técnicas de pesquisa (levantamento bibliográfico e de dados, entrevistas, aplicação de questionários, mapeamentos, documentação etc). Elaboração de Relatório de Campo.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "IGG374(C)",
+       "IGG376(C)IGG376=IGG263IGG374=IGG266IGG376=IGG231IGG374=IGG248"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "6º Período": [
+     {
+      "Codigo": "EDDU08",
+      "Nome": "Prát Ens Geog Estágio Supervis",
+      "Créditos": "8.0",
+      "Teórica": "0",
+      "Prática": "400",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Reconhecimento de instituições, projetos e experiências de desenvolvimento curricular em diferentes espaços educativos. Observação e análise de experiências docentes, em escolas de Educação Básica, com respaldo teórico e crítico. Capacitação do licenciando com profissional do magistério. Desenvolvimento de práticas pedagógicas, reflexivas, criativas e críticas, teoricamante fundamentadas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "20:11 - 22:00",
+        "professor": "ANA ANGELITA COSTA NEVES DA ROCHA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "20:11 - 22:00",
+        "professor": "ENIO JOSE SERRA DOS SANTOS"
+       }
+      ],
+      "Requisitos": [
+       "EDD241"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IGGX06",
+      "Nome": "Trabalho Campo Geog Regional",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Trabalho de campo voltado à aplicação de conteúdos de Geografia Regional, a partir de diferentes recortes espaciais definidos pelas àreas de interesse. Compreende visitas técnicas e/ou atividades programadas incluindo treinamentos de: localização, observação e descrição do espaço geográfico; utilização de técnicas de pesquisa (levantamento bibliográfico e de dados, entrevistas, aplicação de questionários, mapeamentos, documentação etc). Elaboração de Relatório de Campo.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sab",
+        "hora": "20:00 - 21:00",
+        "professor": "EDUARDO JOSE PEREIRA MAIA"
+       },
+       {
+        "dia": "Sab",
+        "hora": "19:00 - 20:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "IGG411(C)IGG411=IGG365"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDD507",
+      "Nome": "Didática da Geografia I",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Objetivos do ensino da Geografia. Educação e o processo de ensino-aprendizagem: conceitos e premissas. Papel do professor; interação, mediação e interdisciplinaridade. Planejamento escolar e propostas educacionais. Avaliação Análise e comparação dos programas de Geografia nas escolas de ensino fundamental e Médio. Produção e uso do material didático.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "18:30 - 20:10",
+        "professor": "ENIO JOSE SERRA DOS SANTOS"
+       }
+      ],
+      "Requisitos": [
+       "EDD241"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IGG411",
+      "Nome": "Geografia Regional do Brasil",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O conceito de região e suas transformações históricas no Brasil. Propostas de regionalização do Brasil. Região, identidade regional e regionalismo no Brasil. Região nas abordagens geobiofísicas. Instrumentos de regionalização e de governança territorial no Brasil.\n___ BIBLIOGRAFIA BÁSICA ___\n1) AB SÁBER, A.; Potencialidades paisagísticas brasileiras. In: Os domínios de natureza no Brasil. São Paulo, Ateliê, 2a. ed., 2003.\n2) CORREA, R. L.; Região e Organização Espacial. Rio de Janeiro: Ática. (Princípios), 1986.\n3) GOMES, P. C. C.; ?O conceito de região e sua discussão?. In CASTRO et al Geografia: conceitos e temas. Rio de Janeiro Bertrand, 1995.\n4) GONÇALVES, M. F.; et al Regiões e cidades, cidades nas regiões. O desafio urbano-regional. São Paulo: ANPUR, 2003.\n5) ROSS, J.L.S.; Ecogeografia do Brasil: subsídios para planejamento ambiental. São Paulo: Oficina de textos. 208p.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "20:00 - 22:00",
+        "professor": "EDUARDO JOSE PEREIRA MAIA"
+       },
+       {
+        "dia": "Seg",
+        "hora": "18:00 - 20:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IGGY03",
+      "Nome": "Oficina Did de Geo Humana",
+      "Créditos": "3.0",
+      "Teórica": "15",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Elaboração de atividades didáticas voltadas à Educação Geográfica no Ensino Fundamental e Médio articulando conceitos, categorias e temas da Geografia Humana. Desenvolvimento de atividades de pesquisa e produção de material didático para o ensino de Geografia na Escola Básica considerando a utilização de múltiplas linguagens. Inclui trabalhos de campo com desenvolvimento de atividades práticas para diferentes segmentos e modalidades de ensino.\n",
+       "BibliografiaBasica": "1- BRASIL. Ministério da Educação. Secretaria da Educação Básica. Base Nacional Comum Curricular. Disponível em:\nhttp://basenacionalcomum.mec.gov.br/abase/\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "18:00 - 20:00",
+        "professor": "LETICIA PARENTE RIBEIRO"
+       },
+       {
+        "dia": "Ter",
+        "hora": "20:00 - 22:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "7º Período": [
+     {
+      "Codigo": "IGGY06",
+      "Nome": "Oficina Did de Geo Regional",
+      "Créditos": "3.0",
+      "Teórica": "15",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Elaboração de atividades didáticas voltadas à Educação Geográfica no Ensino Fundamental e Médio articulando conceitos, categorias e temas da Geografia Regional. Desenvolvimento de atividades de pesquisa e produção de material didático para o ensino de Geografia na Escola Básica considerando a utilização de múltiplas linguagens. Inclui trabalhos de campo com desenvolvimento de atividades práticas para diferentes segmentos e modalidades de ensino.\n",
+       "BibliografiaBasica": "1- BRASIL. Ministério da Educação. Secretaria da Educação Básica. Base Nacional Comum Curricular. Disponível em:\nhttp://basenacionalcomum.mec.gov.br/abase/\n2- THÉRY, H.; THÉRY, N.A.M. Atlas do Brasil ? Disparidades e Dinâmicas do Território. São Paulo: Edusp. 2018. 3ª. Ed. 392p\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDD623",
+      "Nome": "Didática da Geografia II",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O ensino de Geografia e a formação do professor de Geografia: estudo teórico-prático que possibilite desenvolver atividades que habilitem à prática pedagógica. Escolha dos conteúdos dentro da proposta curricular e do planejamento anual e suas abordagens. Características do aluno do Ensino Médio e Fundamental quanto à sua percepção espacial. Análise crítica de técnicas e métodos didáticos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "EDD507"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "8º Período": [
+     {
+      "Codigo": "IGGK02",
+      "Nome": "Trabalho de Conclusão de Curso",
+      "Créditos": "6.0",
+      "Teórica": "60",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Trabalho individual de final de curso, de iniciação a pesquisa científica, no qual o aluno deve propor e desenvolver um tema que articule a reflexão sobre o conhecimento geográfico às práticas pedagógicas realizadas durante o curso e aprimoradas neste trabalho.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "IGG234"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "9º Período": [],
+    "Disciplinas Optativas (Escolha Restrita)": [
+     {
+      "Codigo": "EDD648",
+      "Nome": "Abord Did Educ de Jov Adultos",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Abordagem histórico-político-social da EJA no Brasil. A EJA como conseqüência dos processos da exclusão social inerentes ao não cumprimento dos objetivos da educação na modalidade regular. Perspectivas teóricas possíveis para as práticas pedagógicas que resgatam o saber de indivíduos jovens, adultos e idosos. O perfil do aprendiz. O letramento como uma nova visão sobre a alfabetização. Currículos, materias didáticos e formação de professores específicos de EJA.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EDW604",
+      "Nome": "Educação e Conjuntura Política",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Analise da conjuntura socio_politica brasileira e sua influencia na politica educacional do momento.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "14:00 - 17:59",
+        "professor": "ROBERTO MARQUES"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGG011",
+      "Nome": "Geografia Escolar",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A trajetória da geografia como disciplina escolar. As instituições de ensino e a geografia. Os sujeitos e a produção do conhecimento geográfico. A geografia escolar e acadêmica. Conceitos e categorias geográficas e o ensino de Geografia.\n___BIBLIOGRAFIA RECOMENDADA___\n1-CAVALCANTI, L.S.A. Geografia, Escola e Construção do Conhecimento. Campinas: Papirus, 1998.\n2-CLAVAL, P. História da Geografia. Portugal: Edições 70, 2007.\n3-CASTRO,, I; GOMES, P.C.C; CORREA, R.L. Olhares Geográficos-modos de ver e viver o espaço. Rio de Janeiro: Bertrand Brasil, 2012.\n4- MOREIRA, R. O discurso do avesso. Para a crítica da geografia que se ensina. Rio de Janeiro: Consequência, 2014.\n5- TONINI, I. M, CASTROGIOVANI, A. C. et. al. O ensino de Geografia e suas composições curriculares. Porto Alegre: Mediação, 2014.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGGU01",
+      "Nome": "Observ do Ensino de Geografia",
+      "Créditos": "4.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Leitura e discussões sobre as bases teórico-metodológicas do ensino de Geografia. Preparação para pesquisa na educação. Trabalho de campo em escolas conveniadas para observação, apreensão de categorias, análise e discussão sobre a prática na sala de aula de Geografia dos ensinos Fundamental e Médio. Criação de práticas e estratégias para a ação docente. Elaboração de relatório e materiais didáticos com os resultados da pesquisa desenvolvida.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EDD644",
+      "Nome": "Informática no Proc Ens-aprend",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A integracao dos recursos da informatica no projeto pedagogico da escola: a questao da introducao de inovacao na escola. Fundamentos filosoficos, socio_politicos e psico_pedagogicos na utilizacao da informatica no processo ensino e aprendizagem. Teorias de aprendizagem e abordagens de ensino auxiliados pelos recursos computacionais. Recursos da informatica (ferramentas, aplicativos, linguagens) no processo didatico.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EDF600",
+      "Nome": "Educação Ambiental",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Aspectos históricos, políticos e sociais do ambientalismo e suas implicações na Educação; o conceito de ambiente e de Educação Ambiental; o Programa Nacional de Educação Ambiental, os PCNs e a Lei Federal 9795/99 que institui a política Nacional de Educação Ambiental; princípios teóricos e metodológicos da Educação Ambiental.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGG009",
+      "Nome": "Formação Professor Geografia",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A formação de professor na UFRJ. A escola e escolarização. A formação do professor de Geografia. O contexto escolar e acadêmico. A extensão universitária na formação do professor.\n___BIBLIOGRAFIA RECOMENDADA___\n1-\tFORQUIN, J. Escola e cultura: as bases sociais e epistemológicas do conhecimento escolar. Trad. Guacira Lopes Louro. Porto Alegre: Artes Médicas, 1993.\n2-\tFREIRE, P. Pedagogia da autonomia - Saberes necessários à prática educativa. São Paulo: Paz e Terra, 2001.\n3-\tNOVOA, A. Os professores e a sua formação. Lisboa: Dom Quixote, 1992.\n4-\tPONTUSCHKA, N. N; PAGANELLI, T. I; CACETE, N.H. Para ensinar e aprender geografia. São Paulo: Cortez, 2007.\n5-\tTARDIF, M. Saberes docentes e Formação Profissional. Rio de Janeiro: Vozes, 2006.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGG506",
+      "Nome": "Geografia e Educação Ambiental",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Crise paradigmática nas ciências e a questão ambiental. Histórico e abordagens da Educação Ambiental (EA). Inter-multi-transdisciplinaridade e complexidade da EA na sociedade do conhecimento. Educação, cidadania e justiça ambiental. Ética ambiental. Legislação e políticas de EA. Desafios epistemológicos, políticos e pedagógicos da EA. A Geografia em experiências de EA em escolas, unidades de conservação, instituições culturais e organizações sociais. Atividades práticas e trabalhos de campo.\n___ BIBLIOGRAFIA BÁSICA ___\n1- CARVALHO, Isabel C. M.  Educação Ambiental: a formação do sujeito ecológico. São Paulo: Cortez, 2012, 6ª ed., 255 p.\n2- LEFF, Enrique (Coord.). A Complexidade Ambiental. São Paulo: Cortez, 2010, 2ª ed., 342 p.\n3- LOUREIRO, Carlos F. B.; LAYRARGUES, Philippe P.; CASTRO, Ronaldo S. (Orgs.)  Repensar a Educação Ambiental: um olhar crítico. São Paulo: Cortez, 2009, 206 p.\n4- MORIN, Edgar. A Cabeça Bem-Feita: Repensar a reforma, reformar o pensamento. Rio de Janeiro: Bertrand-Brasil, 2010, 18ª ed., 128 p.\n5- SATO, Michèlle; CARVALHO, Isabel C. M.  Educação Ambiental: Pesquisa e Desafios. Porto Alegre: ARTMED, 2005, 232 p.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "18:00 - 22:00",
+        "professor": "LICIO CAETANO DO REGO MONTEIRO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     }
+    ],
+    "Disciplinas Optativas (Escolha Condicionada)": [
+     {
+      "Codigo": "IBE003",
+      "Nome": "Agroecologia",
+      "Créditos": "6.0",
+      "Teórica": "45",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Módulo 1 - Marcos conceituais: Agroecologia no contexto da interdisciplinaridade e das etnociências. Ecologia dos sistemas agrícolas. Módulo 2 - Histórico: Agricultura na História do homem. Os agrosistemas tradicionais. Histórico da agricultura moderna. Módulo 3 - Sistemas agroecológicos ou agriculturas sustentáveis: A crítica da agricultura moderna - manejo ecológico dos agrosistemas e as agriculturas alternativas. Agroecologia no Brasil.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGG003",
+      "Nome": "Análise Espacial Dados Geográf",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Dados geográficos e geoprocessamento. Introdução à análise espacial. Tipos de dados geográficos. Obtenção, estruturação e representação de dados. Metadados. Sistemas aplicativos: comerciais, software livre e free. Cálculos em superfície planimétrica e modelada. Uso de buffer, dissolve, union, merge, intersection/overlay, combine. Análise de dados pontuais: Estimador de Densidade Kernel. Análise por Superfície: Interpolação (IDW, TIN-Grid, Krigagem). Aplicações. Atividades Práticas e Trabalhos de Campo.\n___ BIBLIOGRAFIA BÁSICA ___\n1- BRASIL. Introdução à Estatística Espacial para a Saúde Pública. Ministério da Saúde. Fundação Oswaldo Cruz. Simone M. Santos, Wayner V. Souza, organizadores. Brasília. 2007.\n2- CÂMARA, G.; CASANOVA, M. A.; HEMERLY, A. S.; MAGALHÃES, G. C.; MEDEIROS, C. M. B. Anatomia de Sistemas de Informação Geográfica. Campinas: UNICAMP.  1996.\n3- CARVALHO, M. S.; PINA, M. F.; SANTOS, S. M.; Conceitos Básicos de Sistemas de Informação Geográfica e Cartografia Aplicados à Saúde. Rede Interagencial de Informações para a Saúde. Brasília. Ministério da Saúde. 2000.\n4- DRUCK, S.; CARVALHO, M.S.; CÂMARA, G.; MONTEIRO, A.V.M. (eds). Análise Espacial de Dados Geográficos. Brasília, EMBRAPA, 2004.\n5- XAVIER da SILVA, J.; ZAIDAN, R. T. Geoprocessamento e Análise Ambiental. Rio de Janeiro. 2004.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGG005",
+      "Nome": "Form Estado e Territ no Brasil",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Processo de construção de Estados e Territórios no Ocidente; Conquista do território e organização da administração; Estratégias de localização colonial; O papel das cidades na conquista do território; Conexões e isolamentos; Estado, sociedade e populações indígenas; O Império e a invenção da Nação e do Estado; República e Modernização; Mapas e fronteiras; Debate entre centralização e descentralização do Estado; Estado Novo; A marcha para o Oeste; Autoritarismo e desenvolvimentismo.\n___BIBLIOGRAFIA BÁSICA___\n1) HOLANDA, Sergio Buarque de. Raízes do Brasil. São Paulo: Cia das Letras, 1995, 26ª Ed. (1ª Ed. 1936).\n2) LIMA, Nisia Trindade. Um sertão chamado Brasil. Intelectuais e representação geográfica da identidade nacional. Rio de Janeiro: Revan, Iuperj, Ucam, 1999.\n3) MORAES, Antônio Carlos Robert de. Geografia Histórica do Brasil: capitalismo, território e periferia. São Paulo: Annablume, 2011.\n4) PRADO JÚNIOR, Caio. História Econômica do Brasil. São Paulo: Brasiliense, 1976, 19ª Ed.\n5) SCHWARCZ, Lilia M; STARLING, Heloísa M. Brasil: uma biografia. São Paulo: Cia das Letras, 2015.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGG007",
+      "Nome": "Transversal Temática I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Curso com programas previamente anunciados sobre temas transversais em geografia, tratando conceitos e métodos a partir de abordagens distintas.\n___BIBLIOGRAFIA BÁSICA___\nVariável, de acordo com o tema definido.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGG012",
+      "Nome": "Geografia e Turismo",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução ao Turismo. Conceitos e teorias do Turismo: modelos e sistemas de análise. Teoria Geral dos Sistemas aplicada ao Turismo: contextos ambientais (ecológico, social, econômico, cultural); ações operacionais (oferta, demanda, mercado); análise multiescalar (superestrutura, infraestrutura). A natureza geográfica do turismo enquanto fenômeno espacial. Abordagem Geográfica do Turismo. Geografia-Paisagem-Turismo. Geoturismo x Geografia do Turismo. Geografia aplicada ao Turismo. Esta disciplina inclui trabalho de campo.\n___BIBLIOGRAFIA RECOMENDADA___\n1-ARANHA, R. C.; GUERRA, A.J.T.G. Geografia aplicada ao turismo. são Paulo: Oficina dos Textos, 2014..\n2- BENI, M.C. Análise estrutural do turismo. São Paulo: Editora Senac, 2008, 13ª ed.\n3- LOHMANN, G.; NETTO, A.P. Teoria do turismo: conceitos, modelos e sistemas. São Paulo: Editora Aleph, 2012, 2ª ed.\n4- YAZIGI, E. Turismo e paisagem. São Paulo. São Paulo: Editora Contexto, 2002.\n5-YAZIGI, E.; CARLOS, A.F.A.; CRUZ, R.C. A. (orgs.). Turismo: espaço, paisagem e cultura. São Paulo: Hucitec, 1996.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGG040",
+      "Nome": "Astrogeografia",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Interface Geografia/Astronomia. Introdução à cosmologia. Fundamentos de astrobiologia. Introdução à meteorítica. Sistema solar: aspectos básicos da geologia, geomorfologia, climatologia, hidrologia e astrobiologia de sistemas planetários e lunares. Atividade solar. Movimentos da Terra, marés e ciclos orbitais. Orientação espaço-temporal pelo céu noturno. Interface Geografia/Astronomia Indígena/Geomitologia: o céu dos povos tradicionais. A astronomia na geografia escolar.\n___BIBLIOGRAFIA BÁSICA___\n1) Galdino, Luiz. A astronomia indígena. São Paulo: Editora Nova Alexandria, 2011.\n2) Galante, D.; Silva, E.; Rodrigues, F.; Horvath, J. E.; Avellar, M. G. B. 2016. Astrobiologia: uma ciência emergente. Núcleo de Pesquisa em Astrobiologia, São Paulo. Tikinet Edição: IAG/USP.\n3) Oliveira, H. M. 2020. Meteoritos: introdução à meteorítica e uma visão geral dos meteoritos brasileiros. Higor Martins Oliveira. 3ed., 114 p.\n4) Sobreira, P. H. Z. 2005. Cosmografia geográfica: a astronomia no ensino de geografia. Tese de Doutorado (Geografia), Universidade de São Paulo (USP).\n5) Vieira, F. Identificação do céu. 2002. Fundação Planetário do Rio de Janeiro, 3ed., 117p.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGG236",
+      "Nome": "História Pensamento Geográfico",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A evolução do pensamento geográfico no contexto da história das ciências. A geografia matemática, o modelo cosmográfico e as cartografias das 'descobertas'. A ideia de natureza e o papel dos engenheiros militares no século das luzes. O experimento geográfico moderno e o evolucionismo. A institucionalização da disciplina. A antropogeografia e a teoria do espaço vital. Geografia e História: a teoria do Meio. A morfologia da paisagem. Geografia regional e o debate sobre o excepcionalismo.\n___BIBLIOGRAFIA BÁSICA___\n1) BROTTON, Jerry. Uma História do Mundo em Doze Mapas. Rio de Janeiro: Zahar, 2014.\n2) HAESBAERT, Rogerio; NUNES PEREIRA, Sergio; RIBEIRO, Guilherme (dir.) Vidal, Vidais: textos de Geografia Humana, Regional e Política. Rio de Janeiro: Bertrand Brasil, 2012.\n3) GOMES, Paulo Cesar da Costa. Geografia e Modernidade. Rio de Janeiro: Bertrand Brasil, 1996.\n4) MORAES, Antônio Carlos Robert. Ratzel: Geografia. São Paulo: Ática, 1999.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGG246",
+      "Nome": "Introdução à Pesquisa",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Apresentar o Departamento de Geografia da UFRJ, sua formação, sua estrutura, seus cursos, o corpo docente e suas principais atividades. Oferecer um panorama da pesquisa realizada no âmbito dos cursos de graduação e da pós-graduação em Geografia da UFRJ.\n___BIBLIOGRAFIA BÁSICA___\n1) ARANHA, Patrícia. Geografia como profissão: campo, auto-representação e historiografia (1934-1955). Tese de Doutorado em História Social. Rio de Janeiro: Universidade Federal do Rio de Janeiro, 2017.\n2) MACHADO, Mônica Sampaio. A implantação da geografia universitária no Rio de Janeiro. Geographia, Ano III, n.3, 2000, p. 123-140.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGG258",
+      "Nome": "Geografia Regional Mundo Árabe",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Fatores de organização do espaço: Islã e construção geohistórica; clima, água e e dinâmicas demográficas; cultura e práticas espaciais. Desenvolvimento e subdesenvolvimento: espaços e sociedades nas economias rentistas; desigualdades intra-regionais; globalização. Conflitos territoriais, oposição entre sunitas e xiitas, terrorismo, conflito Palestina e Israel; Turquia e Irã: potências regionais no Oriente Médio.\n___BIBLIOGRAFIA BÁSICA___\n1) BACIC OLIC, N; CANEPA, B. Oriente Médio e a questão palestina. São Paulo: Moderna, 2003.\n2) DEMANT, Peter. O mundo muçulmano. São Paulo: Contexto, 2004.\n3) SILVA SANTOS, Mauricio. Divergências atuais no Oriente Médio. Rio de Janeiro: E-papers, 2002.\n4) SMITH, Dan. O Atlas do Oriente Médio. São Paulo: PubliFolha, 2008.\n5) VIZENTINI, Paulo. O Grande Oriente Médio: Da descolonização à primavera árabe. São Paulo: Campus Elsevier, 2014.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "18:00 - 22:00",
+        "professor": "FREDERIC JEAN MARIE MONIE"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGG260",
+      "Nome": "Geografia Reg América Latina",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Fatores de organização do espaço: construção histórica e geopolítica da região; inserção na divisão internacional do trabalho, (neo)extrativismos; distribuição da população, dinâmicas demográficas e populacionais; culturas, espaços e sociedades. Atores sociais e territórios: nações, povos e Estado; sistemas políticos, crises, guerrilhas e conflitos territoriais. Dinâmicas recentes da economia regional: desigualdades sócio-espaciais; desenvolvimento econômico; geopolítica das regionalizações.\n___BIBLIOGRAFIA BÁSICA___\n1) CANCLINI, N. G.; Latino-americanos à procura de um lugar neste século. São Paulo: Iluminuras, 2008.\n2) FURTADO C. A economia latino-americana: formação histórica e problemas contemporâneos. São Paulo: Companhia das Letras, 2007.\n3) LEMOS, A .I.G., SILVEIRA M. L., ARROYO M. (org). Questões territoriais na América Latina. Buenos Aires: CLACSO; São Paulo: USP, 2006.\n4) MIGNOLO, W. La idea de América Latina. La herida colonial y la opción decolonial. Barcelona: Gedisa. 2007.\n5) SADER, E., JINKINGS, I., MARTINS, C. E.; NOBILE, R., (Coord). Latinoamericana: enciclopédia contemporânea da América Latina e Caribe. Rio de Janeiro: UERJ; São Paulo: Boitempo, 2006.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGG262",
+      "Nome": "Geoeconomia da América do Sul",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Fatores de integração e fragmentação na América do Sul. O Tratado de Assunção e a formação do Mercosul. As redes de integração transfronteiras. Os complexos agroindustriais no Cone Sul. A ALCA e o Consenso de Washington. Possibilidades de integração social e política na América do Sul.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "IGG237"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGG268",
+      "Nome": "Geoecologia",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceitos e bases epistemológicas da Geoecologia. O sistema da paisagem: estrutura e funcionalidade; controles internos e externos; autorregulação e regulação induzida. Hierarquia e holarquia. Interações multiescalares. Padrões espaciais (biomas e ecossistemas); limites naturais e induzidos. Cultura na transformação da paisagem. Conservação da biodiversidade. Mudanças climáticas e de uso da terra. Zoneamento, planejamento e gestão territorial: escalas de análise e construção metodológica.\n___BIBLIOGRAFIA BÁSICA___\n1) BERTALANFFY, L.V. Teoria Geral dos Sistemas. Petrópolis: Ed. Vozes, 1975.\n2) CORREA, R.L. e ROSENDAHL, Z. Paisagem, tempo e cultura. Rio de Janeiro: EdUERJ, 1998.\n3) FIGUEIRÓ, A. Biogeografia: dinâmica e transformações da natureza. São Paulo: Oficina de Textos, 2015.\n4) RODRIGUEZ, J.M.M.; SILVA, E.V.; CAVALCANTI, A.P.B. Geoecologia das Paisagens - Uma visão geossistêmica da análise ambiental. Fortaleza: Edições UFC, 2013.\n5) SOTCHAVA, V. B. Estudo de Geossistemas. Métodos em Questão nº 16. São Paulo: IG-USP, 1977.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGG352",
+      "Nome": "Geografia Marinha e Costeira",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudos marinhos e costeiros no âmbito da Geografia e áreas afins. Bacias oceânicas e macro relevo submarino. Circulação oceânica, ondas e marés. Geomorfologia submarina. Relação oceano-atmosfera. Processos na interface fluvio-marinha. Vida marinha. Recursos naturais costeiros e marinhos. Direitos do mar e gestão costeira. Ocupação e usos na zona costeira. Vulnerabilidade e riscos associados. Mudanças climáticas globais atuais e consequências. Inclui trabalho de campo.\n___ BIBLIOGRAFIA BÁSICA ___\n1- MUEHE, D.  O litoral brasileiro e sua compartimentação. In: CUNHA, S.B. & GUERRA, A.J.T. (Orgs.) Geomorfologia do Brasil. Rio de Janeiro: Bertrand Brasil, 1998, p.273-349.\n2- NEVES, C. e MUEHE, D.   Vulnerabilidade Impactos e Adaptações às Mudanças do Clima: a Zona Costeira. Parcerias Estratégicas. Brasília. Centro de Gestão e Estudos Estratégicos (CGEE), n. 27, 2008.\n3- NETO, J.A.B.; PONZI, V.R.A.; SICCHEL, S.E. Introdução a Geologia Marinha. Rio de Janeiro:  Interciência, 2004.\n4- TESSLER, M. G.; MAHIQUES, M. M. Processos oceânicos e a fisiografia dos fundos marinhos. In: TEIXEIRA, W.; TOLEDO, M. C. M.; FAIRCHILD, T. R.; TAIOLI, F. (Orgs.). DECIFRANDO A TERRA.  São Paulo: Oficina de Textos, 2003, p. 261-284.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGG402",
+      "Nome": "Quaternário Mudanç Ambientais",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Originalidade do Quaternário e relações com os ambientes atuais. Variações e mudanças climáticas quaternárias: controles e escalas espaço-temporais; interfaces com as variações do nível do mar. Neotectônica e tectônica quaternária. Quaternário na escala geológica. Métodos de datação. Mudanças ambientais no Quaternário: conexões locais e globais; registros (relevo, solos, sedimentos, artefatos, fósseis); métodos de reconstrução paleoambiental. Inclui atividades práticas e trabalhos de campo.\n___BIBLIOGRAFIA BÁSICA___\n1) Boletim Paranaense de Geografia Nos16/17. Centro de Documentação e Informações do Instituto de Geologia da Universidade do Paraná ? Comissão da Carta Geológica do Paraná), 1965, 200p.\n2) MOURA, J.R.S. Geomorfologia do Quaternário. In: GUERRA, A.J.T. & CUNHA, S.B. (eds.) Geomorfologia, uma atualização de bases e conceitos. Rio de Janeiro: Bertrand Brasil, 1994.  p.335-363.\n3) SALGADO-LABORIAU, M.L.; História Ecológica da Terra. São Paulo: Edgard Blücher,1994, 307p.\n4) SOUZA, C.R.G.; SUGUIO, K.; OLIVEIRA, A.M.S. & OLIVEIRA, P.E.; Quaternário do Brasil. Ribeirão Preto: Holos, 2005. 382p.\n5) SUGUIO, K. Geologia do Quaternário e mudanças ambientais. Oficina de Textos, São Paulo, 2010, 408p.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGG407",
+      "Nome": "Organização Interna Cidades",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Sítio, situação, plano, fisionomia e funções urbanas. Modelos de estrutura urbana. Os agentes produtores do espaço urbano. A segregação e auto-segregação urbana. O Estado e políticas habitacionais. Centro e periferia. Centralidades intra-urbanas: área central, subcentros de comércio e serviços, centros especializados; Formas Urbanas: favelas; condomínios; loteamentos; praças; parques; shopping center. Os circuitos superior e inferior da economia urbana.\n___BIBLIOGRAFIA BÁSICA___\n1) BEAUJEU-GARNIER, J. Geografia urbana. Lisboa: Fundação Calouste Gulbenkian,1997.\n2) CORRÊA, R. L. O espaço urbano. São Paulo: Ática, 1989.\n3) SOUZA, M. L. ABC do Desenvolvimento Urbano. Rio de Janeiro: Bertrand Brasil, 2003.\n4) MAIA, D. S. (Org.); SILVA, W. R. (Org.); WHITACKER, A. M. (Org.). Centro e Centralidade em Cidades Médias. 1. ed. São Paulo: UNESP - Cultura Acadêmica, 2017. 245p.\n5) SILVA, W. R.; SPOSITO, M. E. B. (Org.). Perspectivas da Urbanização. Reestruturação urbana e das cidades. 1. ed. Rio de Janeiro: Consequência, 2017. 192p.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGG485",
+      "Nome": "Tóp Esp em Geog Reg Brasil",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O curso com programas previamente anunciados sobre temas referentes à Geografia regional do Brasil.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGG488",
+      "Nome": "Geografia Pol Eleições Brasil",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A disciplina tem como objetivo a compreensão das características da democracia representativa no Brasil a partir da territorialidade das instituições político-eleitorais no país. Fundamentos institucionais e territoriais da competição eleitoral. Apresentação e discussão da Geografia política das eleições no Brasil. Análise do sistema eleitoral e dos padrões de competição política nos municípios, estados e regiões do país.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "IGG252"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGG491",
+      "Nome": "Tóp Esp Geografia da População",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Curso com programas previamente anunciados sobre temas referentes à Geografia da População. Inclui atividades práticas em campo, quando pertinentes à(s) temática(s) trabalhada(s).\n___BIBLIOGRAFIA BÁSICA___\nVariável, de acordo com a(s) temática(s) tratada(s).\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGG493",
+      "Nome": "Tóp Esp em Geografia Econômica",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Curso com programas previamente anunciados sobre temas referentes à Geografia Econômica. Inclui atividades práticas em campo, quando pertinentes à(s) temática(s) trabalhada(s).\n___BIBLIOGRAFIA BÁSICA___\nVariável, de acordo com a(s) temática(s) tratada(s).\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGG495",
+      "Nome": "Tóp Esp em Pedologia",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Curso com programas previamente anunciados sobre temas referentes à Pedologia. Inclui atividades práticas em laboratório e trabalho de campo, quando pertinentes à(s) temática(s) trabalhada(s).\n___BIBLIOGRAFIA BÁSICA___\nVariável, de acordo com a(s) temática(s) tratada(s).\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGG497",
+      "Nome": "Tóp Esp em Climatologia",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Curso com programas previamente anunciados sobre temas referentes à Climatologia. Inclui atividades práticas em laboratório e trabalho de campo, quando pertinentes à(s) temática(s) trabalhada(s).\n___BIBLIOGRAFIA BÁSICA___\nVariável, de acordo com a(s) temática(s) tratada(s).\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGG499",
+      "Nome": "Tóp Esp em Geografia Rural",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Curso com programas previamente anunciados sobre temas referentes à Geografia Rural. Inclui atividades práticas em campo, quando pertinentes à(s) temática(s) trabalhada(s).\n___BIBLIOGRAFIA BÁSICA___\nVariável, de acordo com a(s) temática(s) tratada(s).\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGG502",
+      "Nome": "Tóp Esp em Geografia Política",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Curso com programas previamente anunciados sobre temas referentes à Geografia Política. Inclui atividades práticas em campo, quando pertinentes à(s) temática(s) trabalhada(s).\n___BIBLIOGRAFIA BÁSICA___\nVariável, de acordo com a(s) temática(s) tratada(s).\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGG505",
+      "Nome": "Geografia Histórica",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Tempo: um conceito difícil. Sua utilização na filosofia e nas ciências. Tempo físico e tempo histórico. A incorporação do tempo na análise geográfica. O tempo na geografia clássica. O tempo e o neopositivismo. Tempo e análise marxista em geografia. tempo e espaço ou período e lugar? A geografia histórica: evolução e escolas principais. Como estudar o passado na geografia: regras metodológicas. A geografia histórica no Brasil.\n___BIBLIOGRAFIA BÁSICA___\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGG508",
+      "Nome": "Análise e Inter Imag Geografia",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceito de sensoriamento remoto. Princípios físicos: energia e matéria. Espectro eletromagnético. Assinatura e banda espectral. Fotografia x imagem. Interferência atmosférica. Resoluções. Tipos de sensores. Sistemas sensores mais usuais no Brasil. Aplicações meteorológicas, oceanográficas, urbanas e ambientais. O uso de Sensoriamento Remoto nos ensinos médio e fundamental. Aquisição de dados. Estudos de casos. Exercícios práticos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGG510",
+      "Nome": "Tóp Esp em Biogeografia",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Curso com programas previamente anunciados sobre temas referentes à Biogeografia. Inclui atividades práticas em laboratório e trabalho de campo, quando pertinentes à(s) temática(s) trabalhada(s).\n___BIBLIOGRAFIA BÁSICA___\nVariável, de acordo com a(s) temática(s) tratada(s).\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGG512",
+      "Nome": "Teoria da Urbanização",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Urbanização e desenvolvimento. Urbanização e geopolítica. Da metropolização relativa: aglomerações não-metropolitanas, metrópoles, megalópoles, megacidades. Urbanização e globolização: as cidades globais. Segregação, auto-segregação, \"exurbanização\". Da urbanização do campo ao \"rururbano\". Urbanização e ciberespaço. Fragmentação urbana.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "IGG374"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGG514",
+      "Nome": "Gestão Ambiental",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Sociedade, ambiente e desenvolvimento; gestão ambiental como fórum/processo de negociação de conflitos; interdisciplinaridade e produção do conhecimento; avaliação ambiental como instrumento de planejamento e licenciamento; dinâmica territorial e questões ambientais sensíveis no Brasil (biodiversidade e espaços protegidos, recursos hídricos, energia e mudanças climáticas, riscos e desastres); políticas, instituições, práticas e regulação ambiental no Brasil;  governança ambiental internacional.\n___BIBLIOGRAFIA BÁSICA___\n1) ACSELRAD, H. (Org.) - 'Conflitos ambientais no Brasil'. Rio de Janeiro: Relume-Dumará; Fundação Heinrich Böll, 2004.\n2) LÉNA, P. e NASCIMENTO, E. P. - 'Enfrentando os limites do crescimento: sustentabilidade, decrescimento e prosperidade' - Rio de Janeiro: Garamond, 2012.\n3) PORTO-GONÇALVES, C. W. 'A globalização da natureza e a natureza da globalização'. Rio de Janeiro: Civilização Brasileira, 2006.\n4) THEODORO, S. H. (org.) - 'Os 30 anos da Política Nacional de Meio Ambiente: conquistas e perspectivas'. Rio de Janeiro: Garamond, 2011.\n5) VEIGA, J. E. 'Desenvolvimento sustentável: o desafio do século XXI'. Rio de Janeiro; Garamond, 2006 2a ed.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGG516",
+      "Nome": "Gestão do Território no Brasil",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desigualdades regionais e ação do Estado. Do ordenamento à gestão do território. A dimensão espacial do planejamento: Programa de Metas I, PNDI, PNDII e Avança Brasil. A crise do modelo centralizado de planejamento. Patrimônio e gestão do território. Gestão do território e conflitos sócio-ambientais. Biodiversidade e gestão territorial.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGG603",
+      "Nome": "Hidrologia e Recursos Hídricos",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceitos hidrológicos na Geografia. Balanço hidrológico. Variabilidade espaço-temporal das etapas terrestres do ciclo hidrológico: precipitação, intercepção, infiltração, escoamento e água subterrânea. A bacia de drenagem sob a ótica sistêmica. Integração dos processos hidrológicos nos subsistemas encosta-canal. A bacia como recorte espacial de planejamento e gestão ambiental. Lei das Águas; comitês e agências de bacias. Inclui atividades práticas e trabalho de campo.\n___BIBLIOGRAFIA BÁSICA___\n1) ANA. Governabilidade de recursos hídricos no Brasil: a implementação de instrumentos de gestão na Bacia do rio Paraíba do Sul. Brasília: ANA, 2003, 81 p.\n2) FEITOSA, F.A.C.; MANOEL FILHO, J. (Orgs.) Hidrogeologia ? conceitos e aplicações. Fortaleza: CPRM, 2000, 2a ed., 391 p.\n3) GREGORY, K.J.; WALLING, D.E. Drainage Basin Form and Process. London: Edward Arnold, 1973, 458 p.\n4) RAMOS, F.; OCCHIPINTI, A.G.; VILLA NOVA, N.A.; REICHARDT, K.; MAGALHÃES, P.C.; CLEARY, R.W. Engenharia Hidrológica. Rio de Janeiro: ABRH/Editora UFRJ, 1989, 404p.\n5) TUCCI, C.E.M (Org.) Hidrologia: ciência e aplicação. Porto Alegre: Ed. da UFRGS, 1993, 943p.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "18:00 - 22:00",
+        "professor": "ANDRE DE SOUZA AVELAR"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGG606",
+      "Nome": "Espaço Geográfico e Logística",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Geografia, Circulação, mobilidade; transportes e logística; logística militar, corporativa, dos transportes e territorial; Espaço geográfico e interações espaciais; Localização, transportes e logística; logística, organização do espaço e desenvolvimento. Mitos e realidades; Transportes, logística e gestão do território; logística e globalização; Transporte, logística e produção do espaço; Transportes, logística e globalização no Brasil.\n___BIBLIOGRAFIA BÁSICA___\n1) BACIC O. J.; Logística e transporte no processo de globalização. Oportunidades para o Brasil. São Paulo, UNESP, 2007.\n2) BENKO, G.; Economia, espaço e globalização na aurora do século XXI. São Paulo, Hucitec, 1996.\n3) MÉNDEZ, R.; Geografia económica. La lógica espacial del capitalismo global. Barcelona, Ariel Geografia, 1997.\n4) SILVEIRA M. R.; (org), Circulação, transportes e logística. São Paulo: Outras expressões, 2011.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGG614",
+      "Nome": "Geoprocessamento",
+      "Créditos": "4.0",
+      "Teórica": "30",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceitos básicos. Natureza dos dados ambientais. Estruturas básicas de dados georreferenciados. Estruturas lógicas de análise e integração. Metodologias de análise ambiental por Geoprocessamento.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "18:00 - 22:00",
+        "professor": "FELIPE GONCALVES AMARAL"
+       }
+      ],
+      "Requisitos": [
+       "IGG125"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGG621",
+      "Nome": "Tóp Esp em Geoprocessamento I",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Curso com programas previamente anunciados sobre temas referentes ao Geoprocessamento. Inclui atividades práticas em laboratório e trabalho de campo, em atendimento à(s) temática(s) trabalhada(s).\n___BIBLIOGRAFIA BÁSICA___\nVariável, de acordo com a(s) temática(s) tratada(s).\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGGK03",
+      "Nome": "Intr a Novas Tec Ens Geografia",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Discussão da utilização das tecnologias de informação e sua aplicação no ensino de Geografia, enfatizando as possibilidades e os limites para o desenvolvimento do raciocínio geográfico. Análise crítica sobre a busca e as fontes de informação. Pesquisa e avaliação sobre as experiências produzidas no meio acadêmico e sua utilização no ensino.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGGX09",
+      "Nome": "Aplic Novas Tec En Geografia",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Produção de materiais didáticos com o apoio de novas tecnologias, visando novas possibilidades de interação e leituras geográficas: produção de atlas digitais, uso de SIGs, internet, softwares educativos. Adaptação de textos acadêmicos voltados para o ensino de Geografia.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "IGGK03"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGGX11",
+      "Nome": "Projeto de Ext em Geografia II",
+      "Créditos": "3.0",
+      "Teórica": "0",
+      "Prática": "75",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Participação na elaboração e/ou desenvolvimento de atividades que envolvam a divulgação na comunidade de estudos/temáticas produzidos na universidade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGGX13",
+      "Nome": "Projeto de Ext em Geografia IV",
+      "Créditos": "3.0",
+      "Teórica": "0",
+      "Prática": "75",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Participação na elaboração e/ou desenvolvimento de atividades que envolvam a divulgação na comunidade de estudos/temáticas produzidos na universidade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGGX15",
+      "Nome": "Mídia e Raciocínio Espacial",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Habiliatar o discente na utilização dos recursos de mídia no desenvolvimento do raciocínio espacial: multimídia e tecnologia das informações eletrônicas utilizadas em geografia; utilização de mídias tradicionais em geografia - cinema, tv, impressos e mídia digital.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EDW001",
+      "Nome": "Profissão Docente",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A formação do professor e o exercício profissional: histórico e perspectivas. O trabalho na Escola e os desafios da educação contemporânea. O saber docente e as particularidades do trabalho do professor. Políticas atuais e profissionalização docente. A questão da autonomia e da identidade profissional. Papel social e função ética e política do professor. Organizações profissionais dos professores.\n",
+       "BibliografiaBasica": "1- APPLE, M. W. Ideologia e Currículo. São Paulo: Brasiliense, 1979.\n2- BITTENCOURT, C. Livro didático e conhecimento histórico: uma História do saber escolar. São Paulo: Loyola, 1990. BITTENCOURT, C. O saber histórico na sala de aula. São Paulo: Contexto, 2001.\n3- BOURDIEU, P. Sistemas de Ensino, Sistemas de Pensamento. In: A Economia das Trocas Simbólicas. São Paulo: Perspectiva, 1992, p. 203-230.\n4- FONSECA, S. G. Caminhos da história ensinada. Campinas, SP: Papirus, 1993.\n5- FONSECA, T. N. de L. História e Ensino de História. Belo Horizonte, MG: Autêntica, 2004.\n6- FORQUIN, J.-C. Escola e Cultura. Porto Alegre: Artes Médicas, 1993.\n7- GONCALVES, M. de A. et alii. Qual o valor da história hoje? Rio de Janeiro: FGV, 2012.\n8- LOPES, A. R. C. O currículo e a construção do conhecimento na escola - controvérsias entre conhecimento comum e conhecimento científico. In: MOREIRA, A. F. B. (Org). Conhecimento Educacional e Formação do Professor. Campinas, SP: Papirus, 1994, p. 39-52.\n9- MATTOS, I. R. de (Org.). Histórias do ensino de História do Brasil. Rio de Janeiro: Access, 1998. MONTEIRO, A. M. Professores de História: entre saberes e práticas. Rio de Janeiro, Mauad, 2007.\n10- NADAI, Elza. O ensino de História no Brasil: Trajetória e perspectivas. Revista Brasileira de História, São Paulo, v. 13, n. 25/26, p. 163-174, set. 92/ago.93.\n11- OLIVEIRA, M. M. D. de. O direito ao passado. Uma discussão necessária à formação do profissional de História. Aracaju: Editora da UFS, 2011.\n12- ROCHA, H.; MAGALHÃES, M.; CONTIJO, R. (Org.). A escrita da História Escolar: memória e historiografia. Rio de Janeiro: Editora FGV, 2009.\n13- SILVA, T. T. da (Org). Alienígenas na sala de aula - uma introdução aos estudos culturais em educação. Petrópolis, RJ: Vozes, 1995.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGG002",
+      "Nome": "Téc de Levantamento de Campo",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceito, definições e objeto de posicionamento terrestre. Instrumentos topográficos e expeditos, Medições angulares. Medições de distância. Métodos planimétricos de posicionamento terrestre. Métodos expeditos, tradicionais e eletrônicos. Sistemas e posicionamento a satélites: GPS GLONASS e outros. Levantamentos estático, cinemático, Posicionamento de ponto preciso (PPP). Trabalhos de campo de posicionamento plani-altimétrico.\n___BIBLIOGRAFIA BÁSICA___\n1) ROCHA, C. H. B. (2003). GPS de Navegação para Mapeadores, Trilheiros e Navegadores. Ed. do próprio autor.\n2) MONICO, J.F.G, Posicionamento Pelo GNSS: Descrição, Fundamentos e Aplicações, 2ª Edição; Editora da UNESP, Presidente Prudente, 2008.\n3) MCCORMAR, J. Topografia. 5ª edição.\n4) VENTURINI, L. A. B. Geografia ? Práticas de campo, laboratório e sala de aula. Editora Sarandi. 2011.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "IGG131"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGG004",
+      "Nome": "Desenvolvimento Sócio-espacial",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Do Progresso ao Desenvolvimento Econômico. Unidade na diversidade: globalização e heterogeneização. A abordagem convencional do desenvolvimento econômico e suas complementações. Desenvolvimento sócio espacial: conceito e parâmetro. Exportação de entropia: externalizando custos ambientais. Segregação residencial e injustiça ambiental. A mudança climática global e seus efeitos sócio espaciais.\n___BIBLIOGRAFIA BÁSICA___\n1) CECHIN, Andrei Domingues e VEIGA, José Eli da (2010): A economia ecológica e evolucionária de Georgescu-Roegen. Revista de Economia Política, vol. 30, no. 3 (119), pp. 438-454.\n2) MARIUTTI, Eduardo Barros (2004): Considerações sobre a perspectiva do sistema-mundo. Novos Estudos CEBRAP, n° 69, pp. 89-103.\n3) PIQUETTY, Thomas (2014 [2013]): O capital no século XXI. Rio de Janeiro: Intrínseca.\n4) SOUZA, Marcelo Lopes de Souza (1997): Algumas notas sobre a importância do espaço para o desenvolvimento social. Território, ano II, n.° 3, pp. 13-35.\n5) SOUZA, Marcelo Lopes de Souza (2013): Os conceitos fundamentais da pesquisa sócio espacial. Rio de Janeiro: Bertrand Brasil.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGG006",
+      "Nome": "Geoinformação",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Informação geoespacial: ontologia e objeto. Evolução histórico-crítica da Geoinformação. Georreferenciamento. GIS Science e Geoprocessamento. A corrente Geoinformacional. Natureza do dado espacial. Tecnologias associadas. Observação e métodos de aquisição. Fontes de dados. Métodos de pesquisa apoiados na exploração de dados, representação e análise espacial. Estudos de caso em Geografia.\n___BIBLIOGRAFIA BÁSICA___\n1) ALMEIDA, Claudia Maria. Geoinformação em Urbanismo: Cidade real & amp; Cidade virtual. Oficina de textos.\n2) CÂMARA, Gilberto; DAVIS, Clodoveu; MONTEIRO, Antonio M. V. Introdução à Ciência da Geoinformação. INPE. São José dos Campos: SP, 2001.\n3) LONGLEY, P. A.; GOODCHILD, M. F.; MAGUIRE, D. J.; RHIND, D. W. Sistemas e Ciência da Informação Geográfica. Porto Alegre. Bookman. 2013.\n4) RODRIGUEZ, José M. Mateo. Teoría y Metodología de la Geografía. Editorial Universitária Felix Varela, La Habana, Cuba. 2015.\n5) XAVIER DA SILVA, J.; ZAIDAN, R. T. Geoprocessamento e Meio Ambiente. Rio de Janeiro, Bertrand Brasil, 2011.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGG010",
+      "Nome": "Pesquisa em Geografia Educação",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A importância da pesquisa na formação dos professores de Geografia. Identificação das diferentes fontes e métodos da pesquisa em Ensino de Geografia. Questão, objetivo e objeto de pesquisa em Educação, Educação Geográfica e Ensino de Geografia.\n___BIBLIOGRAFIA RECOMENDADA___\n1-BECKER, H. S. Segredos e Truques da Pesquisa. Rio de Janeiro: Zahar, 2007.\n2-QUIVY, R; CAMPENHOUDT, L.V. Manual de Investigação em Ciências Sociais. Lisboa: Gradiva, 4ª ed., 2005.\n3-LUDKE, M. ANDRÉ, M.E.D. A Pesquisa em educação: abordagens qualitativas. Rio de Janeiro: E.P.U., 2ª ed., 2013.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "IGG234(C)IGG234=IGG126"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGG030",
+      "Nome": "Geografia Social Rural Brasil",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução às abordagens da geografia social. Desigualdades socioespaciais no rural brasileiro: atores sociais no campo; dados sobre desigualdades sociais e espaciais; relações de poder. Territórios em disputa: insegurança fundiária; lutas pela terra e pelos recursos produtivos; populações tradicionais e economicamente marginais face à pressão (neo)extrativista. Territorialidades do agronegócio: diversidade interna do agronegócio e espacialidades; territórios corporativistas (regiões e cidades do agronegócio); geoeconomia do agronegócio. O rural como locus de modelos alternativos de desenvolvimento: alternativas econômicas e iniciativas rurais de empoderamento; modos de vida alternativos; ambiguidades da diversificação das funções e das populações rurais (ambientalização, residencialização, lazer, patrimonialização).\n___BIBLIOGRAFIA BÁSICA___\n1) BERNARDES, J. A.; ARRUZZO, R. C. (Org.). Geografias da soja III: novas fronteiras da técnica no Vale do Araguaia. Rio de janeiro: Arquimedes Edições, 2009.\n2) BÜHLER E.A.; GUIBERt M.; Oliveira V. L. (Org.). Agriculturas empresariais e espaços rurais na globalização: abordagens a partir da América do Sul. Porto Alegre: Editora da UFRGS, 2016.\n3) GRISA C., SCHNEIDER S., Políticas públicas de desenvolvimento rural no Brasil. Porto Alegre: Ed. da UFRGS, 2015.\n4) LOPES, J. S. L. A ambientalização dos conflitos sociais. Rio de Janeiro: Relume Dumará, 2004.\n5) WANDERLEY, M. N. B. O mundo rural como um espaço de vida. Reflexões sobre a propriedade da terra, agricultura familiar e ruralidade. Porto Alegre: UFRGS, 2009.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGG120",
+      "Nome": "Geografia e História",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "As idéias sobre História e sobre Geografia. O exame das categorias: Tempo e Espaço. As relações entre Passado, Presente e Futuro. As abordagens das relações entre: a) Geografia e História; b) História, Geografia e memória; c) Paisagem e memória. Transformações socioeconômicas e técnico-científicas: do espaço pré-industrial à globalização.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGG238",
+      "Nome": "Pedologia",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Evolução da Pedologia e do conceito de solo ao longo do tempo. Intemperismo e mineralogia do solo. Horizontes e perfil de solo. Fatores de formação de solos. Propriedades físicas e químicas do solo. Processos Pedogenéticos. Levantamento e Classificação dos Solos. O Sistema Brasileiro de Classificação dos Solos. Dinâmica da água no solo. Degradação e Conservação dos Solos. Fundamentos de Pedogeomorfologia. Aulas práticas em laboratório e no campo.\n___ BIBLIOGRAFIA BÁSICA ___\n1) BRADY, N.C.; WEIL, R.R. Elementos da Natureza e Propriedades dos Solos. 3 ed. Porto Alegre: Bookman, 2013.\n2) EMBRAPA, Sistema Brasileiro de Classificação de Solos; Brasília: Serv. Produção de Informação - SPI, 2006.\n3) LEPSCH, I.F. Lições de Pedologia. São Paulo: Oficina de Textos, 2011.\n4) OLIVEIRA, J.B. Pedologia Aplicada. 5 ed. Piracicaba: FEALQ, 2011.\n5) SANTOS, R. D. et al. Manual de Descrição e Coleta de Solo no Campo. Viçosa: Sociedade Brasileira de Ciência do Solo, 2015.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGG257",
+      "Nome": "Geografia Regional da África",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Fatores de organização do espaço: inserção na divisão internacional do trabalho; continentalidade, clima, solos, relevos e distribuição da população; dinâmicas demográficas e populacionais; culturas, espaços e sociedades; atores, mecanismos e espaços do desenvolvimento e do subdesenvolvimento. Estados-nação, conflitos, fronteiras: problemas contemporâneos a luz da geopolítica. Dinâmicas recentes da economia regional: emergência ou consolidação de sua inserção na DIT.\n___BIBLIOGRAFIA BÁSICA___\n1) BACIC OLIC, N. & CANEPA, B.  África. Terra, sociedades e conflitos. São Paulo: Moderna, 2004.\n2) BELLUCCI, B. Introdução à história da África e da cultura afro-brasileira. Rio de Janeiro: UCAM, 2003.\n3) HUGON, P. Geopolítica da África. Rio de Janeiro: FGV, 2009.\n4) PENNA FILHO, Pio. A África contemporânea. Do colonialismo aos dias atuais. São Paulo, Hinterlândia Editora, 2009.\n5) KI-ZERBO, J. Para quando a África? Rio de Janeiro, Pallas, 2006.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGG259",
+      "Nome": "Geografia Reg América do Norte",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "América do Norte e os processos de formação do território. Industrialização, reestruturação econômica regional e constituição da NAFTA. Canadá e Estados Unidos como países pós-industriais contrastantes: mobilidade e desigualdade étnico-social, do estado do bem-estar ao estado mínimo e polarização política. Relações econômicas e geopolíticas com diferentes regiões do mundo. Produção cultural e ideológica imperial dos E.U.A. e movimentos contra-imperiais no mundo.\n___BIBLIOGRAFIA BÁSICA___\n1) CROSBY, A. W. Imperialismo Ecológico.  São Paulo: Companhia das Letras, 1993.\n2) TURNER, F. O Espírito Ocidental contra a Natureza.  São Paulo: Ed. Campus, 1990.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGG261",
+      "Nome": "Geografia Reg Ásia do Pacífico",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Civilizações milenares, imperialismo europeu e industrialização asiática. A Bacia do Pacífico como centro econômico mundial. Japão, primeira, segunda e terceira gerações de Tigres Asiáticos. A transformação de países socialistas e a ascensão da China. Austrália, Nova Zelândia e ilhas da Oceania. Crise ambiental, exportação e mercado em massa, transição democrática, tensões geopolíticas, disparidade social e conflito étnico-cultural.\n___BIBLIOGRAFIA BÁSICA___\n1) BICALHO, A. M. S. M. e HOEFLE, S. W. (eds.).  A Dimensão Regional e os Desafios à Sustentabilidade Rural.  Rio de Janeiro: Laget-UFRJ/CSRS-UGI.\n2) COSTA, R. H. China. São Paulo: Ática, 1994.\n3) DIAMOND, J. Colapso. Rio de Janeiro: Record, 2013.\n4) GLOBO. Atlas Histórica do Times.  Rio de Janeiro, 1995.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGG265",
+      "Nome": "Geografia da Energia",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Trabalhar conceitos fundamentais de geografia aplicada ao setor, com ênase nos processos que redefinem o sistema energético, em diversas escalas. Sistema energético: estrutura e fluxos (nacionais e internacionais). A organização espacial dos subsistemas: carvão, petróleo, gás natural, eletricidade, urânio e fontes alternativas. Política de energia e território. Integração energética regional. Energia e desenvolvimento e geopolítica. Nova geoeconomia mundial do petróleo; Energia e geopolítica.\n___BIBLIOGRAFIA BÁSICA___\n1) EGLER, C A G (1992): Geoeconomia da Transição Energética. Informativo Corecon. Disponível em http://www.laget.igeo.ufrj.br/egler;\n2) HARVEY, David. O novo imperialismo. São Paulo: Edições Loyola, 2004.\n3) MONIÉ, F; BINSZTOK, J.; Geografia e Geopolítica do Petróleo. Rio de Janeiro: Mauad/ FAPERJ, 368 p; 2012.\n4) MOUTINHO DOS SANTOS, Edmilson. Petróleo. Quadro estratégico global no início do Séc.XX. Política Externa. v.12, n.1, p.95-115, Jul/Ago 2003.\n5) PIRES DO RIO, G. A.; Integração Energética na América do Sul: Salta-Jujuy-Tarija-Nó de Rede. Anais do. XIV Encontro Nacional da ANPUR, Rio de Janeiro, 23 a 27/05/ de 2011.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGG306",
+      "Nome": "Lab de Geoprocessamento",
+      "Créditos": "4.0",
+      "Teórica": "30",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução de técnicas avançadas de Geoprocessamento. Construção de modelos de análise espacial. Discussão sobre questionamentos conceituais e operacionais para análises geográficas. Integração de funções de geoprocessamento em estudos de casos. Trabalho de campo. Projeto e apresentação gráfica de modelos de análise. Estudo dirigido.\n___BIBLIOGRAFIA BÁSICA___\n1) MENEZES, P.M.L.; FERNANDES, M.C. Roteiro de Cartografia. São Paulo: Oficina de Textos, 1ª edição. 2013.\n2) FERNANDES, M.C. Discussões conceituais e metodológicas do uso de geoprocessamento em análises geoecológicas In: Questões metodológicas e novas temáticas na pesquisa geográfica. 1a ed. Rio de Janeiro: Publit. 2009.\n3) DRUCK, S.; CARVALHO, M.S.; CÂMARA, G.; MONTEIRO, A.V.M. (eds). Análise Espacial de Dados Geográficos. Brasília, EMBRAPA, 2004.\n4) XAVIER da SILVA, J.; ZAIDAN, R. T. Geoprocessamento e Análise Ambiental. Rio de Janeiro. 2004.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 17:00",
+        "professor": "RAFAEL SILVA DE BARROS"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGG371",
+      "Nome": "Sociedade e Natureza",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "As idéias sobre natureza. Os conceito de \"natureza\", \"sociedade\", \"técnica\", \"recursos\" e \"escassez de recursos\", etc. As ciências socias e as abordagens das relações entre sociedade e natureza. As diferentes perspectivas teóricas da abordagem história das relações entre sociedade e natureza. Relações entre espaço, recursos, técnica, tempo e globolização.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGG404",
+      "Nome": "Geopolítica",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Contextos nacionais e origens do pensamento geopolítico. Ratzel, o solo e o Estado. Teorias da geopolítica na primeira metade do século XX. Guerras Mundiais e redefinições de poder. Pós-guerra e geopolítica das escolas militares. Yves Lacoste e a geopolítica francesa. Geopolítica Crítica. O pensamento Geopolítico Brasileiro. Questões geopolíticas contemporâneas: energia, migrações, meio-ambiente, religiões, blocos regionais. Escalas de ação e de análise. Geopolítica e Relações Internacionais.\n___BIBLIOGRAFIA BÁSICA___\n1) BECKER, Bertha. 'A geopolítica na virada do milênio: logística e desenvolvimento sustentável'. In: Castro, I., Corrêa, R. L., e GOMES, P. C. C. (orgs.), Geografia, conceitos e temas. Rio de Janeiro: Bertrand Brasil, 2000, pp. 271-307.\n2) COSTA, Wanderley Messias da. Geografia Política e Geopolítica. São Paulo: Hucitec, 1992.\n3) DEFARGES, Philippe Moreau. Introdução à Geopolítica. Lisboa: Gradativa, 2003.\n4) MIYAMOTO, Shiguenoli. Geopolítica e poder no Brasil. Campinas, São Paulo, Papirus, 1995.\n5) RATZEL, F. 'A relação entre o solo e o Estado ? capítulo 1: o Estado como organismo ligado ao solo'. (Tradução de Matheus Pfrimer). São Paulo: GEOUSP, n. 29, 2001, pp.51-58.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGG476",
+      "Nome": "Análise Regional",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O conceito de região em geografia e em economia. Dinâmica espacial e questão regional: as origens das disparidades territoriais de renda. Análise regional como método de diferenciação do espaço geográfico. Os critérios de diferenciação regional: homogeneidade, polarização e planejamento. Aplicações da análise regional em distintas escalas geográficas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGG486",
+      "Nome": "Geopolítica da Amazônia",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A amazonia no espaco brasileiro: o significado geopolitico da fronteira. Estrategia do Estado para a apropriacao do espaco: a questao da terra, a urbanizacao, a mobilidade do trabalho e as funcoes de exploracao inicial. A amazonia como fronteira tecno-ecologica. Novos espacos em producao.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGG490",
+      "Nome": "Geografia Estado Rio Janeiro",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estado do Rio de Janeiro: estrutura, organização e transformações recentes do espaço urbano e rural; diferentes regionalizações: períodos e finalidades; rede urbana e metropolização: evolução e tendências; reestruturação do espaço produtivo nas últimas décadas; problemas ambientais, conflitos socioambientais e adaptação aos efeitos das mudanças climáticas.\n___BIBLIOGRAFIA BÁSICA___\n1) ACSELRAD, H. (Editor Científico) - Meio Ambiente, Conflitos e Mediações: Políticas e Projetos. Revista Rio de Janeiro, n.16-17, maio-dez. 2005. Rio de Janeiro: UERJ/UERJ/Fórum-Rio, 2005.\n2) MARAFON, G. J et al. Geografia do Estado do Rio de Janeiro: da compreensão do passado aos desafios do presente. Rio de Janeiro: Gramma, 2011.\n3) OLIVEIRA, F. Reestruturação produtiva, território e poder no estado do Rio de Janeiro. Rio de Janeiro, Garamond Universitária, 2008.\n4) RIBEIRO, M. A. Considerações sobre o espaço fluminense: estrutura e transformações. In: MARAFON, G.J. e RIBEIRO, M.F. (orgs.). Estudos de Geografia Fluminense. Rio de Janeiro: UERJ, 2001.\n5) SANTOS, A. M. S. P. Economia, espaço e sociedade no Rio de Janeiro. Rio de Janeiro: FGV, 2003.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGG492",
+      "Nome": "Tóp Esp em Geografia Regional",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Curso com programas previamente anunciados sobre temas referentes à Geografia Regional. Inclui atividades práticas em campo, quando pertinentes à(s) temática(s) trabalhada(s).\n___BIBLIOGRAFIA BÁSICA___\nVariável, de acordo com a(s) temática(s) tratada(s).\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGG494",
+      "Nome": "Tóp Esp Teoria Métod Geografia",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Curso com programas previamente anunciados sobre temas referentes à Teoria e Métodos da Geografia. Inclui atividades práticas em campo, quando pertinentes à(s) temática(s) trabalhada(s).\n___BIBLIOGRAFIA BÁSICA___\nVariável, de acordo com a(s) temática(s) tratada(s).\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGG496",
+      "Nome": "Tóp Esp em Cartografia I",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Curso com programas previamente anunciados sobre temas referentes à Cartografia. Inclui atividades práticas em laboratório e trabalho de campo, em atendimento à(s) temática(s) trabalhada(s).\n___BIBLIOGRAFIA BÁSICA___\nVariável, de acordo com a(s) temática(s) tratada(s).\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGG498",
+      "Nome": "Tóp Esp em Geomorfologia",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Curso com programas previamente anunciados sobre temas referentes à Geomorfologia. Inclui atividades práticas em laboratório e trabalho de campo, quando pertinentes à(s) temática(s) trabalhada(s).\n___BIBLIOGRAFIA BÁSICA___\nVariável, de acordo com a(s) temática(s) tratada(s).\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "18:00 - 22:00",
+        "professor": "ROBERTA PEREIRA DA SILVA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGG501",
+      "Nome": "Tóp Esp em Geografia Urbana",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Curso com programas previamente anunciados sobre temas referentes à Geografia Urbana. Inclui atividades práticas em campo, quando pertinentes à(s) temática(s) trabalhada(s).\n___BIBLIOGRAFIA BÁSICA___\nVariável, de acordo com a(s) temática(s) tratada(s).\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGG503",
+      "Nome": "Urbanização Brasileira",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Vilas e cidades no Brasil colonial; Produção do meio técnico-científico no Brasil; Urbanização e industrialização no Brasil; Urbanização e diversidade regional; Metrópoles, cidades médias e cidades pequenas; A problemática urbana no século XXI.\n___BIBLIOGRAFIA BÁSICA___\n1) SANTOS, Milton. A Urbanização Brasileira. São Paulo: Hucitec, 1991.\n2) VILLAÇA, Flávio. Espaço intra-urbano no Brasil. São Paulo: Studio Nobel: FAPESP: Lincoln Institute, 1998.\n3) MAIA, Doralice Sátyro (Org.); SILVA, William Ribeiro (Org.) ; WHITACKER, Arthur. Magon. (Org.). Centro e Centralidade em Cidades Médias. 1. ed. São Paulo: UNESP - Cultura Acadêmica, 2017.\n4) FRIDMAN, Fania; ABREU, Maurício. (Org.). Cidades latino-americanas: um debate sobre a formação de núcleos urbanos. Editora: Casa da Palavra, Rio de Janeiro, 2010.\n5) SOUZA, Marcelo Lopes de. O desafio metropolitano. Um estudo sobre a problemática sócio-espacial nas metrópoles brasileiras. 2. ed. Rio de Janeiro: Bertrand Brasil, 2000.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGG507",
+      "Nome": "Gerenciamento Costeiro",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Zona costeira: definição e limites; tipologias geológico-geofísicas e geomorfológicas. O litoral brasileiro: características fisiográficas e comparrimentação. Erosão e progradação costeira. o sistema praia-duna e suas funções. Aporte fluvial: conexão entre bacia hidrográfica e plataforma continental interna. Sistemas coralinos: uso e preservação. Ocupação do litoral brasileiro. Impactos ambientais. Risco ambiental e medidas de avaliação. Planejamento e gerenciamento em nível local.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGG509",
+      "Nome": "Bases Dados Repr Espa Brasil",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Dados espaciais. Aquisição e manipulação de dados digitais. Fontes de dados. Bancos de dados convencionais e geográficos. Tabelas e registros. Mapas digitais. Associação tabelas-mapas. Tratamento de dados tabulares. Consulta e análise espacial. Integração de dados. Bases digitais na Internet. Atlas digitais. Geração de mapas temáticos. Estudos de casos. Prática dirigida.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "IGG125"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGG511",
+      "Nome": "Geog Desen Rural Sustentável",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenvolvimento sustentável e sustentabilidade rural: fundamentação conceitual. A questão ambiental e social nos processos produtivos e no uso da terra. Atores e agentes endógenos, comunidade rurais e participação política local. Atores exógenos, política e interesses regionais e globais nos processos espaciais de sustentabilidade rural.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "IGG376"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGG513",
+      "Nome": "Geografia Cultural",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceitos de cultura. Gênese e dinâmica da Geografia Cultural. Cultura e percepção do estado e do tempo. Paisagem cultural, simbolismo e significados. Região cultural e ecologia cultural. Representações, identidade, território, religião e política.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "IGG112"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGG515",
+      "Nome": "Tec Informação e Ciberespaço",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estruturas territoriais e revoluções científicas. Padrões industriais e inovações tecnológicas. Metamorfoses tecnológicas do capitalismo no período atual. Gênese da tecnologia do computador. Reestruturação e mobilidade territorial da produção na Era Informacional. rede mundial dos computadores e ciberespaço. Infovias, espaço digital e infra-estrutura técnica do virtual. Ciberespaço e tecnopólo. Ciberespaço, cibercultura e internet. Ciberispaço e o advento da sociedade da informação.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGG602",
+      "Nome": "Rede Urbana",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Teoria das Localidades Centrais e Divisão territorial do trabalho. Tipos de redes urbanas. Reestruturação urbana e novas relações da hierarquia. Metrópoles, Cidades Médias e Cidades Pequenas. Redes Urbanas no Brasil e no Mundo; Reestruturação Urbana.\n___BIBLIOGRAFIA BÁSICA___\n1) BEAUJEU-GARNIER, Jackeline. Geografia urbana. Lisboa: Fundação Calouste Gulbenkian,1997.\n2) CORRÊA, Roberto Lobato. A rede urbana. São Paulo: Ática, 1989.\n3) SOUZA, Marcelo Lopes de. ABC do Desenvolvimento Urbano. Rio de Janeiro: Bertrand Brasil, 2003.\n4) SANTOS, Milton. A Urbanização Brasileira. São Paulo: Hucitec, 1991.\n5) SILVA, W. R.; SPOSITO, M. E. B. (Org.). Perspectivas da Urbanização. Reestruturação urbana e das cidades. 1. ed. Rio de Janeiro: Consequência, 2017. v. 1. 192p.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGG605",
+      "Nome": "Amazônia Brasileira",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A Região Amazônica como conceito. Introdução aos ecossistemas amazônicos. Breve Histórico da Ocupação do vale do Amazonas: período colonial (1612-1823); o nascimento da 'Amazônia': mercado internacional e processo de regionalização (1880-1912). Amazônia Legal: estratégias de ocupação e integração (1970-1990). A Fronteira Urbana. A Fronteira Agrícola. A Fronteira Mineral. A Fronteira da Conservação.\n___BIBLIOGRAFIA BÁSICA___\n1) BECKER, B. K. As Amazônias de Bertha K. Becker. Rio de Janeiro: Editora Garamond, 2015.\n2) COELHO, M. C. Commodities minerais e a permanência do padrão corredor-fronteira na Amazônia Oriental. Em: Maria Célia Nunes Coelho ET alli (orgs.). O Brasil, a América Latina e o Mundo: espacialidades contemporâneas ? v1. Rio de Janeiro: Lamparina, Classo e ANPEGE, 2008, pp. 237-251.\n3) MACHADO, L. Urbanização e mercado de trabalho na Amazônia Brasileira. Cadernos IPPUR, 1, 1999, pp. 109-138.\n4) STEIMAN, R. 2011. Áreas Protegidas em Zona de Fronteira. Para Onde?! Porto Alegre: UFRGS. pp. 101-121.\n5) WEINSTEIN, B. Seringueiros e comerciantes. A Borracha na Amazônia: expansão e decadência (1850-1920). São Paulo: Editora Hucitec-Edusp, 1993, pp. 19-51.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGG613",
+      "Nome": "Geografia Cidade Rio Janeiro",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Rio de Janeiro: de cidade mercantil-escravagista à cidade capitalista. Conquista e fundação da cidade. Apropriação do território. A cidade colonial. As transformações no século XIX. Crescimento urbano e efeitos sobre o ambiente natural e construído. Reforma urbanística do início do século XX: organização e apropriação do espaço urbano. O Rio de Janeiro do século XX: transformações urbanas e novas dinâmicas socioespaciais. A cidade, os grandes projetos do século XXI e seu entorno metropolitano.\n___BIBLIOGRAFIA BÁSICA___\n1) ABREU, M. Evolução Urbana do Rio de Janeiro, Rio de Janeiro, IPLAN Rio/IPP. 1987.\n2) ABREU, M. Escritos sobre espaço e história. Fania Fridman e Rogério Haesbaert (orgs.). Rio de Janeiro: Garamond, 2014.\n3) ANDREATTA V. Cidades quadradas, paraísos circulares: os planos urbanísticos do Rio de Janeiro no século XIX. Rio de Janeiro: Mauad, 2006.\n4) BERNARDES, L.M. Rio de Janeiro: cidade e região / Lysia M. C. Bernardes, Maria Therezinha de Segadas Soares. Rio de Janeiro: Departamento Geral de Documentação e Informação Cultural, 1987.\n5) FRIDMAN, F. Donos do rio em nome do Rei: uma história fundiária do Rio de Janeiro. Rio de Janeiro, Jorge Zahar, 1999.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGG619",
+      "Nome": "Geomorfologia Bras Apli Ensino",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "As propostas dos Parâmetros Curriculares Nacionais (PCNs) para o Ensino Fundamental e Médio, a inserção da Geografia e os temas transversais. O relevo no processo de ocupação do território brasileiro. Formas de relevo do Brasil: controles geológicos e climáticos; processos geradores e evolução. Classificações do relevo brasileiro. Elaboração e discussão de estratégias de tratamento da Geomorfologia do Brasil no Ensino Fundamental e Médio.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "IGG235"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGG622",
+      "Nome": "Tóp Esp em Gestão Ambiental",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Curso com programas previamente anunciados sobre temas referentes à Gestão Ambiental.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "IGG514"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGGK04",
+      "Nome": "Seminário Conclusão de Curso",
+      "Créditos": "3.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Organização e apresentação formal do trabalho de pesquisa desenvolvido no Trabalho de Conclusão de Curso de Licenciatura em Geografia, em evento especialmente destinado a este fim a ser realizado no Departamento de Geografia e/ou em eventos científicos internos e externos à UFRJ.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGGX10",
+      "Nome": "Projeto de Ext em Geografia I",
+      "Créditos": "3.0",
+      "Teórica": "0",
+      "Prática": "75",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Participação na elaboração e/ou desenvolvimento de atividades que envolvam a divulgação na comunidade de estudos/temáticas produzidos na universidade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGGX12",
+      "Nome": "Projeto Ext em Geografia III",
+      "Créditos": "3.0",
+      "Teórica": "0",
+      "Prática": "75",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Participação na elaboração e/ou desenvolvimento de atividades que envolvam a divulgação na comunidade de estudos/temáticas produzidos na universidade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGGX14",
+      "Nome": "Projeto de Ext em Geografia V",
+      "Créditos": "3.0",
+      "Teórica": "75",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Participação na elaboração e/ou desenvolvimento de atividades que envolvam a divulgação na comunidade de estudos/temáticas produzidos na universidade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGGZ51",
+      "Nome": "Ativ Curricular Extensão - Lge",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "0",
+      "Extensão": "320",
+      "Informação": {
+       "Info": "Atuação em atividades de extensão registradas na Pró-Reitoria de Extensão da UFRJ, como programas, projetos, cursos de extensão e eventos, coordenados por docentes do quadro permanente ou técnicos da carreira de nível superior na UFRJ. Para eventos, a atuação deverá ser na organização ou na realização do evento. Para cursos, a atuação deve ser na organização ou ministrando aulas.\n___ BIBLIOGRAFIA BÁSICA ___\nBibliografia recomendada pelo coordenador da atividade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     }
+    ]
+   },
+   "obrigatorias": 34,
+   "eletivas": 85,
+   "ano": "2007/1 a 9999/9"
+  }
+ ]
+}
