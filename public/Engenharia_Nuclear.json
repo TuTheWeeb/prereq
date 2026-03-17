@@ -1,0 +1,4144 @@
+{
+ "Engenharia Nuclear": [
+  {
+   "materias": {
+    "1º Período": [
+     {
+      "Codigo": "FIS111",
+      "Nome": "Física Experimental I",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução à medida: como medir. Como expressar corretamente os valores medidos. Estimar a precisão de instrumentos. Dispersão de uma medida: controle de grandezas físicas numa experiência. Como caracterizar a dispersão de um conjunto de dados por um indicador apropriado. Cinemática unidimensional: desenvolvimento intuitivo e operacional dos conceitos de velocidade e aceleração. Representação e análise gráfica. Leis de Newton. Como definir operacionalmente a inércia e um corpo. Relação massa inercial-massa gravitacional. Colisões unidimensionais elásticas, semi-elásticas e inelásticas. Modelo teórico de uma colisão unidimensional.\n",
+       "BibliografiaBasica": "1) Apostila de Física Experimental I. Instituto de Física, UFRJ.\n2) Fundamentos da Teoria de Erros. J.H. Vuolo.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 15:00",
+        "professor": "MARCELO MARTINS SANT ANNA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ICP114",
+      "Nome": "Computação I Ep",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Informações relevantes de um problema e sua respectiva representação computacional.Resolução de problemas de forma algorítmica. Aspectos sintáticos e semânticos de uma linguagem de programação de alto nível.Comandos,estruturas de dados e estruturas básicas para a construção de soluções computacionais. Modelagem e implementação de código modularizado. Noções de organização, reutilização e legibilidade de código. Princípios das boas práticas de programação.\n",
+       "BibliografiaBasica": "1) Nilo N.C.Menezes. Introdução a programação com Python - Algoritmos e Lógica de Programação para iniciantes. 3ª edição. Novatec.2019.\n2) Mark Lutz e David Ascher.Aprendendo Python.Bookman Companhia Ed. 2ª edição. 2007.\n3)Carla A. D. M.Delgado, João C. P. da Silva,Fabio Mascarenhas, Ana Luisa Duboc. The teaching of functions as the first step to learn imperative programming. WORKSHOP SOBRE EDUCAÇÃO EM COMPUTAÇÃO(WEI), 24, 2016, PortoAlegre. Anais[...]. PortoAlegre: Sociedade Brasileira de Computação, 2016.p. 2393-2402. ISSN2595-6175.DOI: https://doi.org/10.5753/wei.2016.9683.\n4) Python Software Foundation. Otutorialde Python.2001-2023.\n",
+       "BibliografiaComplementar": "1) Plataforma para prática de programação:\n2) Site oficial da linguagem Python:\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "10:00 - 12:00",
+        "professor": "HUGO DE HOLANDA CUNHA NOBREGA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 15:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAC118",
+      "Nome": "Cálculo Difer e Integral I",
+      "Créditos": "6.0",
+      "Teórica": "90",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Técnicas de Integração. Integral Imprópria.\n",
+       "BibliografiaBasica": "1) SANTOS, A. R.; BIANCHINI, Waldecir. Aprendendo Cálculo com Maple: Cálculo de Uma Variável. 1ª ed. Rio de Janeiro: LTC, 2002.\n2) LEITHOLD, Louis. O Cálculo com Geometria Analítica. 3.ed. São Paulo: Harbra, 2002. vol. 1.\n3) STEWART, James. Cálculo. 4.ed. São Paulo: Pioneira Thomson Learning, 2002. vol. 1.\n",
+       "BibliografiaComplementar": "1) ANTON, H.; BIVIS. I.; DAVIS, S. Cálculo, Vol. I. 8ª ed. Editora Harbra.\n2) APOSTOL, TOM M. Calculus, Vol. 1: One Variable Calculus With an Introduction to Linear Algebra. 2ª ed. - Ed. Wiley.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "17:00 - 18:30",
+        "professor": "AFTAB PANDE"
+       },
+       {
+        "dia": "Qua",
+        "hora": "17:00 - 18:30",
+        "professor": ""
+       },
+       {
+        "dia": "Sex",
+        "hora": "17:00 - 18:30",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EEW210",
+      "Nome": "Introdução à Engenharia",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Definição e evolução de Engenharia.  As modalidades e seus campos atuais. A natureza dos problemas de engenharia. Engenharia e ciência.  Projeto e Pesquisa.  Tecnologia e técnica.  Modelos.  Atributos do Engenheiro.  Ética.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 15:00",
+        "professor": "INAYA CORREA BARBOSA LIMA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIT112",
+      "Nome": "Física I - a",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução. Vetores. Velocidade e aceleração vetoriais. Os princípios da dinâmica. Aplicações das leis de Newton. Trabalho e energia mecânica. Conservação da energia. Momento linear e conservação do momento linear. Colisões. Rotação e momento angular. Dinâmica de corpos rígidos. Força que varia inversamente ao quadrado da distancia (gravitação).\n___ BIBLIOGRAFIA BÁSICA ___\n1) Física para Cientistas e Engenheiros, v.1. Mecânica, Oscilações e Ondas, Termodinâmica (6ª edição).\n2) Fundamentos de Física (4ª edição) D. Halliday. R. Resnick and J. Walker - John Wiley & Sons, Inc.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 10:00",
+        "professor": "BRUNO DE MOURA ESCHER"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 10:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IQG111",
+      "Nome": "Química Ee",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estrutura atômica. Tabela periódica. Estrutura molecular. Aspectos gerais do comportamento químico dos elementos. Química nuclear.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "15:00 - 17:00",
+        "professor": "ANNELISE CASELLATO"
+       },
+       {
+        "dia": "Qui",
+        "hora": "15:00 - 17:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "2º Período": [
+     {
+      "Codigo": "EEH210",
+      "Nome": "Engenharia e Meio Ambiente",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O meio ambiente. A terra e a biosfera. Água e ciclos de materiais. Impacto das atividades humanas no ambiente. Diagnósticos. Parâmetros de medida. Modelos e projeções. Resíduos. Poluição ambiental. Sistemas de saneamento. Controle de poluição do solo, ar e água. Aspectos econômicos. Legislação. Fiscalização. Ecodesenvolvimento.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "15:10 - 17:00",
+        "professor": "MONICA PERTEL"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIT122",
+      "Nome": "Física II - a",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Oscilações: oscilações amortecidas e forçadas. Ondas. Som. Fluidos. Temperatura. Calor - primeira Lei da Termodinâmica. Propriedades dos gases. Segunda Lei da Termodinâmica. Teoria cinética dos gases. Transferência de calor e de massa.\n",
+       "BibliografiaBasica": "1) Física, volume 1. Mecânica, Oscilações e Ondas (5ª edição). Paul A. Tipler e Gene Mosca. LTC Editora S.A.\n2) Curso de Física Básica , volume 1. Mecânica, Oscilações e Ondas. H. Moysés Nussenzveig - Editora Edgard Blücher Ltda.\n3) Fundamentos de Física (4ª edição). D. Halliday. R. Resnick e J. Walker - John Wiley & Sons, Inc.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "10:00 - 12:00",
+        "professor": "TOMOI KOIDE"
+       },
+       {
+        "dia": "Sex",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "FIT112",
+       "MAC118"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAC128",
+      "Nome": "Cálculo Diferen e Integral II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Equações Diferenciais Ordinárias de Primeira  Ordem. Equações Diferenciais Ordinárias Lineares de Segunda Ordem com Coeficientes Constantes. Curvas e Vetores no Plano. Vetores no Espaço Tridimensional e Geometria Analítica Sólida. Funções de R2 em R. Funções de R3 em R. Máximos e Mínimos de Funções de R2 em R. Máximos e Mínimos de Funções de R3 em R.\n",
+       "BibliografiaBasica": "1) BOYCE, W. E.; DIPRIMA, R. C. Equações Diferenciais Elementares e Problemas de Valores de Contorno. 7. ed. Rio de Janeiro: UFRJ, 2004.\n2) PINTO, D.; MORGADO, M.C.F. Cálculo Diferencial e Integral de Funções de Várias Variáveis. 3.ed. Rio de Janeiro: UFRJ, 2004.\n3) STEWART, J. Cálculo. 4. ed. São Paulo: Pioneira Thomson Learning, 2002. vol. 2.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 15:00",
+        "professor": "AFTAB PANDE"
+       },
+       {
+        "dia": "Sex",
+        "hora": "13:00 - 15:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MAC118"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EEG105",
+      "Nome": "Sistemas Projetivos",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Sistemas de Projeção, Sistema Mongeano. Seções Planas. Métodos Descritivos. Aplicações em Vistas Ortográficas, Cortes e Seções. Axonometria: Perspectivas Isométricas e Obliqua.\n___BIBLIOGRAFIA BÁSICA___\n1- Apostila de Desenho Técnico da EE. Rio de Janeiro, 2010.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 17:00",
+        "professor": "FABRICIO NOGUEIRA CORREA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIS121",
+      "Nome": "Física Experimental II",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Dinamica das rotacoes: cinematica das rotacoes, determinacao de momento de inercia, pendulo composto. Movimento oscilatorio: movimento harmonico-simples, movimento harmonico amortecido, combinacao de movimentos harmonicos. Hidrostatica: determinacao de viscosidade, determinacao de densidade de liquidos e solidos. Ondas mecanicas: velocidade do som (metodo de ressonancia), cordas vibrantes. Calorimetria: capacidade calorifica, equivalente mecanico.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "10:00 - 12:00",
+        "professor": "YARA DO AMARAL COUTINHO"
+       }
+      ],
+      "Requisitos": [
+       "FIS111",
+       "FIT111"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ICP225",
+      "Nome": "Computação II Ep",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Projeto e construção de programas usando modelagem orientada a objetos. Tratamento de exceções. Construção de código organizado e reutilizável. Boas práticas de programação. Construção de interfaces de interação gráfica com o usuário. Persistência de dados. Uso de pacotes científicos, matemáticos e outros na resolução de problemas do campo da engenharia ou outras áreas.\n",
+       "BibliografiaBasica": "1− Material de referência para ensino de Python do Instituto de computação\n2− Orientação a Objetos: Aprenda seus conceitos e suas aplicabilidades de forma efetiva,: Carvalho, Thiago Leite (4a edição), 2021.\n3− MENEZES, N. N. C. Introdução à Programação com Python: Algoritmos e lógica de programação para iniciantes. Editora Novatec, 4a ed., 2024.\n4− RAMALHO, L. Python Fluente: Programação Clara, Concisa e Eficaz, Editora Novatec, 2015.\n5− Aprendendo Python, Mark Lutz, David Ascher, Bookman Companhia Ed., 2007.\n6− Learning Python: Powerful Object-Oriented Programming (English Edition), Mark Lutz, 2013.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 15:00",
+        "professor": "HUGO DE HOLANDA CUNHA NOBREGA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 15:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "ICP114"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAE125",
+      "Nome": "Álgebra Linear II",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Sistemas de equações lineares e Eliminação Gaussiana. Matrizes e determinante. Espaços vetoriais Euclidianos. Geometria dos espaços vetoriais de dimensão finita. Transformações lineares. Espaços vetoriais com produto interno. Ortogonalidade e mínimos quadrados. Autovalores e autovetores. Teorema espectral. Aplicações à solução de Equações Diferenciais Ordinárias e em Geometria Euclidiana.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "15:00 - 17:00",
+        "professor": "ENOS YUITI OGASAWARA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "15:00 - 17:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "3º Período": [
+     {
+      "Codigo": "EEI312",
+      "Nome": "Economia A",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução ao estudo da economia de mercado: Macroeconomia, Microeconomia, Comércio Internacional e Evolução do Pensamento Econômico.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "10:00 - 12:00",
+        "professor": "CINTHIA RODRIGUES DE OLIVEIRA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIN231",
+      "Nome": "Física Experimental III",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Instrumentos de Medidas Elétricas. Resistores. Capacitores. Tensões e Correntes Alternadas. Campos Magnéticos Estáticos.\n",
+       "BibliografiaBasica": "1)  Apostila de Física Experimental III, Instituto de Física, UFRJ.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 10:00",
+        "professor": "DORA IZZO"
+       }
+      ],
+      "Requisitos": [
+       "FIS121"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAD201",
+      "Nome": "Probabilidade e Estatistica",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Teoria das probabilidades. Distribuicões discretas e contínuas. Correlação e regressão. Estimação. Testes de hipóteses. Técnicas de amostragem.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "10:00 - 12:00",
+        "professor": "VINICIUS VIANA LUIZ ALBANI"
+       },
+       {
+        "dia": "Qui",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MAC118"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EEA212",
+      "Nome": "Mecanica I",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estatica: Reducao de sistemas de forcas, equilibrio, estruturas, centro de massa, atrito. Cinematica: Movimento de particulas e corpos rigidos. Dinamica: Dinamica: de particulas e corpos rigidos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 15:00",
+        "professor": "BRUNO MARTINS JACOVAZZO"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 15:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MAC128"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIM230",
+      "Nome": "Física III - a",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Lei de Coulomb. Campos elétricos. Lei de Gauss. Potencial Elétrico, capacitores, correntes e circuitos. Campos magnéticos, leis de Ampere e Biot - Savart, Lei de Faraday, indutância, corrente de deslocamento. Circuitos de corrente alternada, equações de Maxwell.\n",
+       "BibliografiaBasica": "1) Física, volume 2. Eletricidade e Magnetismo, Ótica (5ª edição). Paul A. Tipler e Gene Mosca. LTC Editora S.A.\n2) Curso de Física Básica, volume 1. Mecânica, Oscilações e Ondas. H. Moysés Nussenzveig - Editora Edgard Blücher Ltda.\n3) Fundamentos de Física (4ª edição). D. Halliday. R. Resnick e J. Walker - John Wiley & Sons, Inc.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "15:00 - 17:00",
+        "professor": "MAURICIO ORTIZ CALVAO"
+       },
+       {
+        "dia": "Sex",
+        "hora": "15:00 - 17:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "FIT112",
+       "MAC128"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAC238",
+      "Nome": "Cálculo Diferen e Integral III",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Integrais Múltiplas. Integrais de Linha. Integrais de Superfície. Teorema de Gauss. Teorema de Stokes.\n",
+       "BibliografiaBasica": "1) PINTO, D.; MORGADO, M. C. F. Cálculo Diferencial e Integral de Funções de Várias Variáveis. 3ª ed. Rio de Janeiro: UFRJ, 2004.\n2) TROMBA, A. J.; MARSDEN, J. E. Vector Calculus. 5ª ed. New York: W. H. Freeman & Company, 2003.\n3) ANTON, H. Cálculo: Um Novo Horizonte. 6ª ed. Porto Alegre: Bookman, 2000. vol.2.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "15:00 - 17:00",
+        "professor": "ANATOLI LEONTIEV"
+       },
+       {
+        "dia": "Qui",
+        "hora": "15:00 - 17:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MAC128"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "4º Período": [
+     {
+      "Codigo": "EEI321",
+      "Nome": "Organizacao das Industrias",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Principios basicos de organizacao e administracao. Tipos de estruturas. Sistemas de organizacao. Problemas de pessoal e material. Producao industrial: planejamento, programacao e controle. Graficos de gantl e pert. Matematica financeira basica: juros, desconto, capitalizacao e amortizacao. Alternativas de solucoes tecnico-economicas. Depreciacao de equipamentos. Vida util de equipamentos: curvas de mortalidade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 15:00",
+        "professor": "LEANDRO SOARES DA SILVA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "13:00 - 15:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIN241",
+      "Nome": "Física Experimental IV",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Principio do magnetismo, leis de Ampere, Faraday e Lentz. Medidor de campo magnetico. Propriedades magneticas da materia, histerese, corrente alternada: circuitos de corrente alternada RLC, oscilacoes eletromagneticas. Conservacao de energia. Otica geometrica: reflexao, refracao, lentes e prismas. Otica fisica: interferencia, difracao e polarizacao.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "13:00 - 15:00",
+        "professor": "FABRICIO TOSCANO"
+       },
+       {
+        "dia": "Sex",
+        "hora": "13:00 - 15:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "FIM231",
+       "FIN231"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAC248",
+      "Nome": "Cálculo Diferen e Integral IV",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Serie de potências; resolução de equações diferenciais lineares ordinárias de segunda ordem com coeficientes variáveis: soluções por série próximo a um ponto ordinário; soluções por série próximo a um ponto regular (método de Frobenius). Transformada de Laplace; série de Fourier. Problemas de valores de contorno e teoria de Sturm-Liouville. Equações diferenciais parciais clássicas: onda; calor; Laplace: Dirichlet no retângulo e Dirichlet no círculo.\n",
+       "BibliografiaBasica": "1) Cálculo, volume 2 de James Stewart.\n2) Cálculo com Geometria Analítica, volume 2, Louis Leithold.\n3) Equações Diferenciais Elementares e Problemas de Valores de Contorno, de William E. Boyce e Richard C. DiPrima.\n4) Equações Diferenciais, volumes 1 e 2, de Dennis G. Zill.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 15:00",
+        "professor": "LAZARO ORLANDO RODRIGUEZ DIAZ"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 15:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MAC128"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EEE385",
+      "Nome": "Eletricidade I",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Circuitos e seus elementos. Solucao de circuitos de corrente continua e alternada em regime permanente. Aparelhos de medicao. Componentes eletricos. Transformadores. Maquinas de corrente continua, inducao e sincrona, componentes eletronicos. Diodos transistores, tiristores, circuitos integrados e logicos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "FIM230"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EEU240",
+      "Nome": "Introdução à Física Moderna",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Relatividade. Fisica Quantica: efeito fotoeletrico, efeito Compton, atomo de hidrogenio. Modelos atomicos: equacao de Schrodinger, momento angular orbital e momento magnetico. Conducao de eletricidade nos solidos. Fisica Nuclear. Energia Nuclear.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "10:00 - 12:00",
+        "professor": "EDUARDO GOMES DUTRA DO CARMO"
+       },
+       {
+        "dia": "Qua",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "FIM230",
+       "MAC238"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ICP231",
+      "Nome": "Cálculo Numérico",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Erros; Zeros de Funções; Resolução de Sistemas Lineares; Interpolação; Integração Numérica; Equações Diferenciais Ordinárias.\n",
+       "BibliografiaBasica": "1) Dorn, William S. e Mc Cracken, Daniel D.; Cálculo Numérico com Estudos de Casos em Fortran IV\n2) Ruggiero, Márcia A. Gomes e Lopes, Vera Lucia Rocha; Cálculo Numérico, Aspectos Teóricos e Computacional\n3) Stark ,Peter A.; Introdução aso Métodos Numéricos\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "10:00 - 12:00",
+        "professor": "AMAURY ALVAREZ CRUZ"
+       },
+       {
+        "dia": "Qui",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "ICP121",
+       "MAC128"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "5º Período": [
+     {
+      "Codigo": "EEK303",
+      "Nome": "Termodinamica Classica",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceitos basicos e definicoes. Temperatura, equilíbrio térmico. Gas ideal, escalas termométricas: Celsius e Kelvin. Energia, trabalho e calor. A Primeira Lei da Termodinâmica. Aplicações: sistemas fechados e abertos. Comportamento termodinâmico de uma substância simples. Entropia e a Segunda Lei da Termodinâmica. Disponibilidade e irreversibilidade. Exergia. Ciclos termodinâmicos fundamentais. Análise e desempenho. Relações termodinâmicas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "10:00 - 12:00",
+        "professor": "ANTONIO MAC DOWELL DE FIGUEIREDO"
+       },
+       {
+        "dia": "Qua",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "FIT122"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EEU018",
+      "Nome": "Métodos Mat da Eng Nuclear I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Revisão de Álgebra Linear. Introdução ao Matlab. Equações de Equilíbrio nos sistemas discretos. Princípios de Equilíbrio nos sitemas discretos. Princípios de mínimo. multiplicadors de Lagrange. Dualidade. Equações de Equilíbrio nos sitemas contínuos, problema de Sturm-Liouville. funções de Green. Introdução ao Calculo das variações.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "15:00 - 17:00",
+        "professor": "EDUARDO GOMES DUTRA DO CARMO"
+       },
+       {
+        "dia": "Qua",
+        "hora": "15:00 - 17:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MAC248"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EEH214",
+      "Nome": "Fenômenos de Transferência",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Meio contínuo. Definição e propriedades dos fluidos. Conceituação básica de Fenômenos de Transferência. Estática dos fluidos. Descrição do movimento dos fluidos. Análise dos escoamentos na formulação de volume de controle. Balanços de massa, quantidade de movimento e energia. Introdução à análise diferencial dos escoamentos. Transferência de calor em regime permanente e transitório. Fundamentos da transferência de massa.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:10 - 15:00",
+        "professor": "OSVALDO MOURA REZENDE"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:10 - 15:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MAC238"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EET310",
+      "Nome": "Princ de Ciencia dos Materiais",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Propriedades dos materiais. Estrutura dos materiais. Diagramas de fases. Acos, ligas nao-ferrosas, ceramicos e polimeros. Tratamentos termicos. Corrosao. Soldagem.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "15:00 - 17:00",
+        "professor": "PEDRO PAULO MEDEIROS RIBEIRO"
+       },
+       {
+        "dia": "Qui",
+        "hora": "15:00 - 17:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EEU301",
+      "Nome": "Fisica Nuclear Aplicada",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Teoria classica e quantica da radiacao nuclear em uma cavidade. A lei de Planck. Os efeitos fotoeletricos e Compton. Modelos nucleares. Propriedades do nucleo. Desintegracoes nucleares. Lei das transformacoes radioativas. Meia-vida. Vida media. Radioatividade natural. Balanco de energia das reacoes nucleares. Energia limiar. Reacoes nucleares. Radioatividade artificial. Modelos nucleares. Fissao nuclear.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 10:00",
+        "professor": "ADEMIR XAVIER DA SILVA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 10:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "EEU240"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "6º Período": [
+     {
+      "Codigo": "EEK401",
+      "Nome": "Transmissao de Calor I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Vocabulário de Metrologia Científica. Fundamentos de estatística. Cálculo de Incertezas. Métodos de calibração de instrumentos. Planejamento experimental. Associação de resistências. Lei de Ohm. Leis de Kirchhof. Instrumentos de ordem zero, primeira ordem e segunda ordem. Potenciômetro e circuito potenciométrico. Ponte de Wheatstone. Princípios resistivo, capacitivo e indutivo de funcionamento de sensores. Estensômetros elétricos. Características mais importantes de instrumento e sensores para medição de grandezas mecânicas tais como:  posição, pressão, força, torque, temperatura e vazão, etc..\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "10:00 - 12:00",
+        "professor": "HELCIO RANGEL BARRETO ORLANDE"
+       },
+       {
+        "dia": "Qua",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "EEK300",
+       "EEK310"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EEU503",
+      "Nome": "Fisica de Reatores",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Interação do neutron com a matéria. Seções de choque microscópicas e macroscópicas. Análise qualitativa das seções de choque. Seção de choque diferencial de espalhamento. Cinemática do espalhamento de neutrons por núcleos estacionários. Efeitos dos movimentos dos núcleos nas seções de choque de interação neutron-núcleo. Alargamento doppler. Fissão nuclear. Cadeias radioativas - queima de combustivel. Fator de multiplicação de criticalidade. Cinética simples da reação de fissão em cadeia. Fórmula dos quatro fatores. Equação de transporte de neutrons - dedução. Aproximação da difusão.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "EEU301"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EEK331",
+      "Nome": "Mecanica dos Solidos I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução. Equilíbrio, cinemática e relações elásticas para elementos de barras e treliças. Análise Matricial de treliças. Equações de Equilíbrio em Vigas. Diagrama de Esforços. Deformações e Tensões para modelos Tridimensionais. Transformações de Tensão e deformações. Relações Constitutivas Elásticas. Teoria de Membrana para sólidos com simetria de Revolução. Torção. Teoria de Flexão: Flexão simétrica. Cinemática da flexão. Tensões em vigas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 15:00",
+        "professor": "FABIO DA COSTA FIGUEIREDO"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 15:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "EEA212"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EEU019",
+      "Nome": "Métodos Numéric Computacionais",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Métodos Numéricos Aplicados. interpolação de Lagrange, splines. Integração: trapezoidal, Romberg, Gauss, quadratura adaptativa. Solução Numérica de equações diferenciais ordinárias; métodos explícitos, métodos multipassos, método Runge-Kutta and predictor-corrector, problemas de valor de contorno, problemas de autovalor. sistemas de equações diferenciais, rigidez. Análise dos métodos numéricos para consistência, estabilidade, e convergência. Introdução à solução numérica de equações diferenciais parciais. Análise de estabilidade de Von Neumann. Métodos implícitos de direções alternadas, equações não lineares.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MAB231"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EEU516",
+      "Nome": "Radioprotecao Basica",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Fundamentos da fisica atomica e nuclear; estrutura da materia; radiacoes ionizantes e nao ionizantes; fontes naturais e artificiais da radiacao; interacao da radiacao com a materia; unidades; efeitos biologicos da radiacao; riscos no uso da radiacao; sist de deteccao e monitoracao das radiacoes; dosimetria interna e externa; procedimentos e normas basicas de radioprotecao; armazenamento e transporte de material radioativo; rejeitos; limites de dose; classificacao de areas; sinalizacao; levantamento de niveis de contaminacao/tecnicas (teo e prat); blindagem (teo e prat); levantamento radiometrico (prat).\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "EEU301"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "7º Período": [
+     {
+      "Codigo": "EET435",
+      "Nome": "Comport Mecânico dos Materiais",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Comportamento plástico e comportamento elástico, cálculo de tensão e deformação. Teoria das discordâncias. Interação das discordâncias com defeitos. Curva de tração (compressão). Introdução à fratura. Fluência. Fadiga. Comportamento mecânico de materiais plásticos e cerâmicos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 15:00",
+        "professor": "LUIZ HENRIQUE DE ALMEIDA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 15:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "EEA338",
+       "EET351"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EEU403",
+      "Nome": "Lab de Instrumentacao Nuclear",
+      "Créditos": "5.0",
+      "Teórica": "30",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Interacao da radiacao com a materia. Protecao radiologica. Equipamento eletronico e fontes de radiacao. Detetores de radiacao a gas e solidos. Detetores de tracos nucleares. Gamagrafia e neutrongrafia. Aplicacoes de radioisotopos em engenharia e ciencias afins.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "15:00 - 17:00",
+        "professor": "DAVI FERREIRA DE OLIVEIRA"
+       },
+       {
+        "dia": "Ter",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       },
+       {
+        "dia": "Qui",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "EEU301"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EEK501",
+      "Nome": "Transmissao de Calor II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conducao do calor em regime nao estacionario e multidirecional;metodos numericos em conducao;conducao com mudanca de fase;introducao a transmissao de calor com mudanca de fase:Condensacao e ebulicao;o modelos de Nusselt aplicado a Condensacao em peliculanocoes de curva de ebulicao;o fenomeno de nucleacaoe suas equacoes basicas;crises de ebulicao e correlacoes experimentais;topicos em conveccao,introducaoa energia solar.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "EEK401"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EEU022",
+      "Nome": "Física de Reatores II",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Equação de transporte de nêutrons - dedução. Aproximação da difusão. Equação da difusão de nêutrons monoenergética. Lei de Fick. Soluções elementares da equação da difusão de nêutrons. Problemas gerais de difusão de nêutrons. Reator plano dependente do tempo: condições de criticalidade. Equações da cinética pontual.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "15:00 - 17:00",
+        "professor": "FERNANDO CARVALHO DA SILVA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 10:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "EEU503"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EEU504",
+      "Nome": "Engenharia de Reatores",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Descricao dos principais tipos de reatores nucleares com enfase para os reatores a agua leve pressurizda e agua fervente. Geracao de calor nos reatores nucleares. Transferencia de calor no nucleo dos reatores: transferencia de calor no combustivel e para o refrigerante. Analise termo-hidraulica; : distribuicao de temperatura em um canal de refrigerante. Fator de canal quente e projeto termico do nucleo.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "15:00 - 17:00",
+        "professor": "GABRIEL CAETANO GOMES RIBEIRO DA SILVA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "15:00 - 17:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "EEK303",
+       "EEU301"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "8º Período": [
+     {
+      "Codigo": "EEU026",
+      "Nome": "Impac Ambiental Inst Nucleares",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 10:00",
+        "professor": "ANDRESSA DOS SANTOS NICOLAU"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 10:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "EEU503",
+       "EEU504",
+       "EEU516"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EEU517",
+      "Nome": "Sistemas de Centrais Nucleares",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Descricao e bases de projeto de uma central nuclear. Conceitos basicos do proc. de geracao de energia nuclear. Tipos de reatores nucleares. Controles inerentes e ext do proc de geracao de energia. Coef de reatividade. Mecan de controle da potencia nuclear. Descr do reator nuclear de uma central tipo pwr. Sist primario. Sist de refrigerante do reator. Sist de agua de alimentacao principal e auxiliar. Sist de spray da contencao. Sist de vapor princ. Sist de remocao de calor residual. Sist de emergencia. Barreiras contra a liberacao de radioatividade no meio ambiente.Sist de superv e parametros de seguranca.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 10:00",
+        "professor": "VICTOR HENRIQUE CABRAL PINHEIRO"
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 10:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "EEU503",
+       "EEU504"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EEWX00",
+      "Nome": "Projeto de Graduação",
+      "Créditos": "4.0",
+      "Teórica": "0",
+      "Prática": "180",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenvolvimento de um projeto objetivando a aplicação de conhecimentos adquiridos ao longo do curso, com supervisão de um professor orientador.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EEU025",
+      "Nome": "Engenharia de Reatores II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "EEK401",
+       "EEU504"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EEU027",
+      "Nome": "Análise de Seg Centr Nucleares",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 15:00",
+        "professor": "ANDRESSA DOS SANTOS NICOLAU"
+       },
+       {
+        "dia": "Sex",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "EEK401",
+       "EEU503",
+       "EEU504",
+       "EEU516",
+       "MAD201"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EEU523",
+      "Nome": "Engenharia de Confiabilidade",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceitos basicos de probabilidade e estatistica. Qualidade, confiabilidade, projeto e desempenho. Taxa de falha. Ensaios de confiabilidade. Nocoes gerais de confiabilidade estrutural: solicitacoes e resistencia. Redundancia. Manutencao. Interacoes de falhas. Analise de seguranca de sistemas: arvores de eventos e de falhas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "EEU504",
+       "MAD201"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "9º Período": [
+     {
+      "Codigo": "EEWU00",
+      "Nome": "Estágio Obrigatório",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "160",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estágio curricular obrigatório, em empresas ou instituições credenciadas e sob supervisão direta da instituição de ensino, através de relatórios técnicos e acompanhamento individualizado durante o período de realização da atividade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EEK525",
+      "Nome": "Fontes Alternativas de Energia",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Não cadastrada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "13:00 - 16:00",
+        "professor": "ALEXANDRE SALEM SZKLO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "10º Período": [
+     {
+      "Codigo": "EEU521",
+      "Nome": "Anal de Riscos em Instal Nucl",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceito de risco. Risco e perigo. Risco real e percebido. Acidentes maiores: incendios, explosoes e liberacoes toxicas. Tipos de avaliacao de riscos. Determinacao das consequencias de acidentes. Liberacao de materiais perigosos. Massa vazada e massa evaporada. Dispersao atmosferica de gases. Modelo gaussiano para gases leves e neutros. Modelos para gases pesados. Distribuicao populacional. Modelos de vulnerabilidade. Aceitabilidade de riscos. Analises de riscos realizadas: wash-1400, canvey island e rijnmond.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 10:00",
+        "professor": "JOSE DE JESUS RIVERO OLIVA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 10:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "EEU517",
+       "EEU523"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EEU028",
+      "Nome": "Ciclo do Combustível Nuclear",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "15:00 - 17:00",
+        "professor": "GIOVANNI LARANJO DE STEFANI"
+       },
+       {
+        "dia": "Qua",
+        "hora": "15:00 - 17:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "EEU027",
+       "EEU504"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "Disciplinas Optativas (Escolha Restrita)": [
+     {
+      "Codigo": "EEI202",
+      "Nome": "Humanidades e Ciencias Sociais",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O pensamento econômico como fator social: uma introdução a economia e a evolução do pensamento econômico. Indústria e sociedade. A administração científica do trabalho e a administração de recursos humanos. Ciência, tecnologia e desenvolvimento. Avaliação social de projetos de engenharia. A noção orgânica e sistêmica do direito.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEI426",
+      "Nome": "Engenharia do Trabalho",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Seguranca do trabalho. Fatores motivacionais. Ergonomia. Normas de seguranca em ambientes industriais. Analise de postos de trabalho.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEL191",
+      "Nome": "Engenharia e Sociedade",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Historia critica da ciencia e tecnologia. Revolucoes cientificas e tecnologicas: revolucao neolitica, Revolucao industrial, revolucao pos-industrial. Im plicacoes politicas, economicas, ecologicas e eticas da engenharia e da atuacao dos engenheiros na transformacao da sociedade. Politica cientifica e sociedade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEL193",
+      "Nome": "O Trabalho do Futuro",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Analise da desestruturacao do mercado de trabalho no capitalismo contemporaneo. Estudo das tecnologias de informacao e comunicacao e das inovacoes organizacionais (downsizing, teamwork, etc), e seus impactos sobre o trabalho do engenheiro.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEW215",
+      "Nome": "Tóp Esp História da Engenharia",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Variável\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCA218",
+      "Nome": "Antropologia Cultural",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A Antropologia como campo de conhecimento. A Antropologia e as demais ciências sociais. O social e o biológico. A evolução humana. As noções de natureza e cultura. As concepções de sociedade e cultura. O problema do etnocentrismo. A pesquisa de campo e a etnografia como método de fazer teoria em Antropologia.\n___BIBLIOGRAFIA BÁSICA___\n1- BARTH, F. O Guru, o iniciador e outras variações antropológicas. Rio de Janeiro: Contra Capa Livraria, 2000.\n2- BIANCO, B.F. (Ed.). Antropologia das Sociedades Contemporâneas. São Paulo: Global Universitária, 1987.\n3- DAMATTA, R. Carnavais, malandrose heróis: para uma sociologia do dilema brasileiro. Rio de Janeiro: Zahar, 1980.\n4- GEERTZ, C. (Ed.). A interpretação das culturas. Rio de Janeiro: Zahar, 1978.\n5- GEERTZ, C. Nova Luz sobre a Antropologia. Rio de Janeiro: Zahar, 2001.\n6- MALINOWSKI, B. Argonautas do Pacífico Ocidental. São Paulo: Abril Cultural, 1978.\n7- NUNES, E. O. A aventura sociológica: objetividade, paixão, improviso e método na pesquisa social. Rio de Janeiro: Zahar, 1978.\n8- SAHLIN, M. Cultura na prática. Rio de Janeiro: Editora da UFRJ, 2005.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF108",
+      "Nome": "Ética I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução aos principais problemas da ética.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF654",
+      "Nome": "Hist da Filos no Brasil I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A filosofia brasileira como problema: origens e perspectivas. Causas imanentes à cultura nacional: o fator indígena e o fator africano.\n",
+       "BibliografiaBasica": "1) BERNARDES, Célia R. O. Racismo de Estado. Ed. Jurúa, 2013;\n2) BRITO, Raimundo de Farias. O mundo interior. Org. e estudo introdutório de L. A. Cerqueira. Lisboa: INCM, 2003;\n3) CERQUEIRA, Luiz Alberto. Natureza e cultura: a idéia de origem da filosofia brasileira. Lisboa: Universidade Nova de Lisboa, 1997;\n4) GUIMARÃES, Aquiles Côrtes. O tema da consciência na filosofia brasileira. São Paulo: Convívio, 1982;\n5) REALE, Miguel. Estudos de filosofia brasileira. Lisboa: Instituto de filosofia luso-brasileira, 1994;\n6) CERQUEIRA, Luiz Alberto. Filosofia brasileira ? Ontogênese da consciência de si. Petrópolis: Vozes, 2002;\n7) CERQUEIRA, Luiz Alberto (org.). Aristotelismo Antiaristotelismo Ensino de Filosofia. Rio de Janeiro: Ágora da Ilha, 1999;\n8) DESCARTES, René. Meditações Metafísicas. São Paulo: Martins Fontes, 2005;\n9) MAGALHÃES, D. J. Gonçalves de. Fatos do espírito humano. Org. e estudo introdutório de L. A. Cerqueira. Petrópolis: Vozes, 2004;\n10) VIVEIROS DE CASTRO, E. A inconstância da alma selvagem. São Paulo: Cosac & Naif, 2002.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCH668",
+      "Nome": "Movimento Operario no Brasil",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O operariado enquanto classe na estrutura social brasileira. Suas formas de organizacao sindicais e politicas. Ideologia. Atitudes e praticas. Um estudo de caso.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "FCH112"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCH680",
+      "Nome": "Top Esp em Hist do Brasil III",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Não cadastrada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCP104",
+      "Nome": "Introdução à Ciência Política",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceitos de Poder, Estado e Sociedade Civil; Regimes Políticos e Relações entre Poderes; Instituições Representativas: partidos, grupos de interesse, movimentos sociais; Políticas Públicas.\n___BIBLIOGRAFIA BÁSICA___\n1) HOBBES, Thomas. O Leviatã. São Paulo: Nova Cultural, 2000.\n2) LOCKE, John. Segundo Tratado sobre o Governo. São Paulo: Nova Cultural, 2000.\n3) MAQUIAVEL, Nicolau. O Príncipe. São Paulo: Nova Cultural, 2000.\n4) ROUSSEAU, Jean-Jacques. Discursos sobre a origem e os fundamentos da desigualdade entre os homens. São Paulo: Nova Cultural, 1999.\n5) WEBER, Max. A ciência e política: duas vocações. São Paulo: Cultrix, 2011.\n6) WEFFORT, Francisco (org.). Os clássicos da política. 14. ed. São Paulo: Ática, 2006 (vol.1 e 2).\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCP670",
+      "Nome": "Crises da Realidade Brasileira",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conjunturas críticas e mudanças político-institucionais no Brasil republicano até 1964. Primeira República. A crise do estado oligárquico. Governos Vargas. A crise do Estado Novo. Crises na república democrática: 1954, 1961 e 1964. A crise do regime autoritário.\n",
+       "BibliografiaBasica": "1- BENEVIDES, M. V. M. A UDN e o Udenismo. Rio de Janeiro: Paz e Terra, 1981.\nCARNEIRO, G. Lusardo: O Último Caudilho. Rio de Janeiro: Nova Fronteira, 1977, 2 vols.\n2- CASTELLO BRANCO, C. A renúncia de Jânio ? um depoimento. Rio de Janeiro: Revan, 1996.\n3- COUTINHO, Lourival. O General Góes depõe... Rio de Janeiro: Coelho Branco, 1956.\n4- MORAES, D. e Viana, Francisco. Prestes: Lutas e Autocríticas. Petrópolis: Vozes, 1982.\n5- SODRÉ, N. W. Memórias de um Soldado. Rio de Janeiro: Civilização Brasileira, 1967.\n6- VICTOR, M. Cinco Anos que Abalaram o Brasil. Rio de Janeiro: Civilização Brasileira, 1965.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "PRU110",
+      "Nome": "Ciências Soc Gestão Pública I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A Sociologia de Durkheim: o método sociológico, a solidariedade e a divisão social do trabalho, integração social e anomia. Marx: sociedade e conflito. A dialética materialista e a filosofia da história. A crítica da filosofia e da economia política. A teoria compreensiva de Weber, ação social e os tipos de dominação; a ética protestante e o espírito do capitalismo; a burocracia.\n___BIBLIOGRAFIA BÁSICA___\n1) ARON, Raymond. As etapas do pensamento sociológico. 2ª Ed. São Paulo: Martins Fontes, 1987.\n2) BOTTOMORE, T. & NISBET, T. História da Análise Sociológica, Rio de Janeiro, Zahar, 1980.\n3) SANTOS, Boaventura de Sousa. Pela Mão de Alice: o social e o político na pós-modernidade. São Paulo; Cortez, 1995.\n4) COSTA, Maria Cristina Castilho. Introdução à ciência da sociedade. São Paulo: Moderna, 1987.\n5) DÜRKHEIM, Émile. A divisão do trabalho social. Lisboa: Presença, 1994.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "PRU231",
+      "Nome": "Formação Econ Soc Brasileira",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Clássicos do pensamento social brasileiro com destaque à sua contribuição no que concerne a análise da organização do território, da distribuição espacial da população e da produção (apropriação) da riqueza.\n___BIBLIOGRAFIA BÁSICA___\n1) PRADO JÚNIOR, Caio. Formação do Brasil contemporâneo. 20 ed. São paulo: Brasiliense, 1987.\n2) FURTADO, Celso. Formação econômica do Brasil. 18 ed. São paulo: Cia Editora Nacional, 1985.\n3) HOLANDA, Sergio Buarque (org). História geral da civilização brasileira. Tomo I, volI, São Paulo: DIFEL, 1972.\n4) MELLO, João Manoel Cardoso de. O capitalismo tardio. 3ª ed. São Paulo: Brasiliense, 1984.\n5) BAER, Werner. A industrialização e o desenvolvimento econômico do Brasil. 4ªed. Rio de Janeiro: FGV, 1979.\n6) LESSA, Carlos. Quinze anos de política econômica. 4ª ed. São Paulo: Brasiliense, 1983.\n7) IANNI, Otavio. Estado e planejamento econômico no Brasil (1930-1970). Rio de Janeiro: Editora UFRJ, 2009.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "PRU242",
+      "Nome": "Políticas Sociais",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Emergência da questão social na sociedade capitalista. Questão social e políticas sociais. O estado do bem-estar social. Ajuste estrutural, neo-liberalismo e a nova questão social. O Banco Mundial e o combate à pobreza.\n___BIBLIOGRAFIA BÁSICA___\n1) SANTOS, Wanderley Guilherme dos. Cidadania e Justiça: a política social da ordem brasileira. Rio de Janeiro: Campus, 1987.\n2) MARSHALL, Thomas Humphrey. Cidadania, classe social e status. Rio de Janeiro: Zahar, 1967.\n3) VIANNA, Maria Lucia T. Werneck. A americanização (perversa) da seguridade social no Brasil. Estratégias de bem-estar e políticas públicas. Rio de Janeiro: Revan; Iuperj-UCAM, 2000.\n4) DRAIBE, Sonia Miriam. Uma nova institucionalidade das políticas sociais? Reflexões a propósito da experiência latino-americana recente de reformas dos programas sociais. São Paulo em Perspectiva, n.11, vol.4, 1997.\n5) CARVALHO, José Murilo de. Cidadania no Brasil: o longo caminho. Rio de Janeiro: Civilização Brasileira, 2008. Introdução: mapa da viagem, pp.7-13.\n6) FAHEL, Murilo; NEVES, Jorge Alexandre Barbosa (orgs.). Gestão e Avaliação de Políticas Sociais no Brasil. Belo Horizonte: Ed. PUC-Minas, 2007.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEW002",
+      "Nome": "Sociedade de Debates I",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Variável\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEWK01",
+      "Nome": "Iniciação Científica I",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "180",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Realização intelectual. Estudo aprofundado.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEWK03",
+      "Nome": "Iniciação Científica III",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "180",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Realização intelectual. Estudo aprofundado.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEWU22",
+      "Nome": "Estágio Não-obrigatório II",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "180",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Experiência pré-profissional sob supervisão.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEWX03",
+      "Nome": "Participação em Eventos I",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Participação/organização de eventos(semanas,congressos,etc.).\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEWX05",
+      "Nome": "Participação em Eventos III",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Participação/organização de eventos(semanas,congressos,etc.).\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEWX07",
+      "Nome": "Projeto Cultural II",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estrear uma peça teatral; escrever um livro literário; realizar uma apresentação de dança, canto, instrumento musical ou atividade assemelhada. Promover uma explosição de arte ou um encontro literário na UFRJ; desenvolver um projeto cultural ou atividade assemelhada na UFRJ.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEWX09",
+      "Nome": "Part em Atividade Cult II",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Participar de aulas de dança, teatro, canto, artes ou atividade assemelhada na UFRJ.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEWX11",
+      "Nome": "Competição Esportiva I",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "500",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Participar de competição esportiva em nível internacional, nacional ou estadual, de esporte federado.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEWX13",
+      "Nome": "Partic em Atividade Esport II",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Participar de aulas de esporte na UFRJ.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEWX15",
+      "Nome": "Grupo de Estudo I",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "120",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEWX17",
+      "Nome": "Grupo de Estudo III",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Corresponde às atividades coordenadas  por docentes da UFRJ, que envolvam: produção de artigos em periódicos da área, fichamentos, resumos, análise de caso, trabalhos, organização e elaboração de eventos, seminários, elaboração de projetos de consultoria, cursos, workshops, simpósios, minicursos e oficinas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEWX22",
+      "Nome": "Atividade de Intercâmbio II",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Atividades de intercâmbio.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEWX24",
+      "Nome": "Atividade de Intercâmbio III",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Atividades de intercâmbio\n___Bibliografia Recomendada___\n1- Variável.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEWX32",
+      "Nome": "Trabalhos Comunitários II",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Participação em trabalhos comunitários / ONG.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEWX34",
+      "Nome": "Acessibilidade I",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Participação em eventos sobre acessibilidade e inclusão.\n___Bibliografia Básica___\nVariável\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEWX36",
+      "Nome": "Acessibilidade III",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "180",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Participação em eventos sobre acessibilidade e inclusão.\n___Bibliografia Básica___\nVariável\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEWX38",
+      "Nome": "Acessibilidade V",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "180",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Participação em eventos sobre acessibilidade e inclusão.\n___Bibliografia Básica___\nVariável\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEWX40",
+      "Nome": "Acessibilidade VII",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Participação em eventos sobre acessibilidade e inclusão.\n___Bibliografia Básica___\nVariável\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEWX52",
+      "Nome": "Adm de Empresas Júnior II",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "180",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Realização Intelectual relacionada à aplicação prática de conhecimentos teóricos (projetos).\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEWY01",
+      "Nome": "Equipe de Competição I",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "180",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Prática orientada em condições especiais de realização.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEWY03",
+      "Nome": "Equipe de Competição III",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "180",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Prática orientada em condições especiais de realização.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEWY22",
+      "Nome": "Monitoria II",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "180",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Atividades de Monitoria.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEWY31",
+      "Nome": "Viagens/visitas Técnicas I",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Prática orientada em condições especiais de realização.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEWZ62",
+      "Nome": "Ativ Curricular Extensão - Nuc",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "0",
+      "Extensão": "400",
+      "Informação": {
+       "Info": "Atuação em atividades de extensão registradas na Pró-Reitoria de Extensão da UFRJ, como programas, projetos, cursos de extensão e eventos, coordenados por docentes do quadro permanente ou técnicos da carreira de nível superior na UFRJ. Para eventos, a atuação deverá ser na organização ou na realização do evento. Para cursos, a atuação deve ser na organização ou ministrando aulas.\n___ BIBLIOGRAFIA BÁSICA ___\nBibliografia recomendada pelo coordenador da atividade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "COG204",
+      "Nome": "Sociologia e Meio Ambiente",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução: Sociedades humanas, energia e meio ambiente. Os fluxos da energia na biosfera e nas sociedade humanas. Tipos de sociedades (tamanho e complexidade), recursos naturais e poluição.  O efeito estufa, outros impactos ambientais e a eficiência energéticas na sociedades industriais e pós-industriais.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "EEH351",
+       "EEI533"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEI206",
+      "Nome": "Historia da Tecnologia",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Tecnologia e ciencia, evolucao dos conceitos. O homem e o meio ambiente, tecnologia apropriada. Tecnologia pre-historica. O calcolitico. A metalurgia. Tecnologia na antiguidade. A escola de alexandria. A idade media e os sistemas de producao, o artesanato. A idade moderna, a manufatura. A energia e sua evolucao. Revolucao industrial. A administracao cientifica do trabalho. Sistemas de transporte. A eletronica. Biotecnologia. Evolucao e tecnologia. Sistema economico. O seculoxix. A industrializacao no brasil. A era tecnologica.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEK611",
+      "Nome": "Harmonia Funcional",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Não cadastrada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEL192",
+      "Nome": "Evolucao da Ciencia",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Pequena introducao a historia da ciencia: a antiguidade, Arquimedes, Aristoteles e as cosmologias. Copernico, Giordano Bruno, Galileu, kepler e a revolucao cient do sec xvii. Newton e leibnitz. A mecanica e a matematica. O met cientifico. A revol industrial e a revol politica do sec xviii. Os mod de engenharia. O impacto da revol industrial. A seg revol industrial, a urbanizacao e a consolidacao da ideologia da racionalidade cient. A tec como valor supremo da soc indust. As crises econ do sec xx. A importancia do dominio tecn em face da formacao de vinculos econ globais.O merc mundial. As persp p/o futuro\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EET100",
+      "Nome": "Tecnologia e Desenv Social",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "As conseqüências sociais do desenvolvimento tecnológico e econômico. Desafios, opurtunidades, riscos e tarefas da intervenção \"engenheiral\" confrontada com as carências sociais. Determinantes históricos da desigualdade e da exclusão social no Brasil. Desenvolvimento econômico e estrutura de emprego. Precarização recente das relações trabalhistas. Empresa moderna, cidadania e responsabilidade social.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 10:00",
+        "professor": "MAIRA MONTEIRO FROES"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 10:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEW602",
+      "Nome": "Evolucão Ciência e Engenharia",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Pequena introdução à história da ciência: a antigüidade, Arquimedes, Aristóteles e as cosmologias. Copérnico, Giordano Bruno, Galileu, Kepler e a revolução científica do século XVII. Newton e Leibnitz - a mecânica e a matemática - surgem os instrumentos dos futuros engenheiros. O método científico. Euler e Pascal - surge a hidrodinâmica moderna. A revolução industrial e a revolução política do século XVIII. Os modelos de engenharia. o impacto da revolução industrial na construção naval. Froude e os ensaios com modelos reduzidos. A segunda revolução industrial, a urbanização e a consolidação da ideologia da racionalidade científica. A tecnologia como valor supremo da sociedade industrial. As crises econômicas do século XX. A importância do domínio tecnológico em face da formação de vínculos econômicos globais - o mercado mundial. Desemprego estrutural - o fantasma do fim do século. As perspectivas para o futuro.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCB618",
+      "Nome": "Sociedade e Direito",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Sociedade e ordenamento juridico. Direito como linguagem do controle social. Mecanismos formais e informais de controle social: normas juridicas e normas sociais. Direito, controle social e repressao. Conflito, desvio, delinquencia e criminalidade. Direito, ideologias dominantes e minorias eticas, sociais e politicas. Posse e propriedade da terra: legislacao e conflito social. O direito e as questoes sociais no brasil.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "FCB105"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF362",
+      "Nome": "Estética I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução aos principais problemas da estética.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCH608",
+      "Nome": "Historiografia Brasileira II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Analise interpretativa das principais correntes historiograficas brasileiras no sec. Xx. As novas problematicas teoricas e metodologicas. Novos instrumentos conceituais e analises conjuntural e estrutural. O alargamento e diversificacao dos estudos setoriais: as abordagens sociologicas, economicas e ideologicas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "FCH112"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCH671",
+      "Nome": "Historia Social da Arte",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A arte na antiguidade. Sua transformacao no imperio romano e a seguir com a arte crista, da primitiva e medieval. A transicao para o periodo moderno, o renascimento, o barroco e as demais formas esteticas. A arte no seculo XIX a xx.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "FCH112"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCH698",
+      "Nome": "Top Esp de Historia Moderna II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Dinamica e resistencia na sociedade moderna.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCP636",
+      "Nome": "Teoria Política Contemporânea",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "As diversas direções da teoria política contemporânea: o marxismo contemporâneo (Offe, Hirsch) e perspectiva libertaria (Lefort e Castoriadis), o\nsocialismo democrático (Ota Sik, Bobbio, Lindblom), o moderno \"conservantismo\" (Hayek e Friedman), o liberalismo contemporâneo (Keynes, Rawls, Dahrendorf), analise micro política (Foucault), formação de Estados Nacionais (Tilly, B.Moore, Wallerstein, P. Anderson), etc.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEB599",
+      "Nome": "Est da Líng Bras de Sinais I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Nomes próprios; pronomes pessoais; demonstrativos; possessivos; locativos em sentenças simples do tipo pergunta-resposta com \"o que\" e \"quem\" e outros vocábulos básicos; numerais; quantidade; topicalização; flexão verbal; flexão de negação; expressões faciais e corporais; percepção visual; conversação; diálogos; textos: LIBRAS, cultura e comunidade surda.\n",
+       "BibliografiaBasica": "1) BRITO, L. F. Por uma gramática de língua de sinais. Rio de Janeiro: Tempo Brasileiro, 1995.\n2) FELIPE, T.; MONTEIRO, M. S. LIBRAS em contexto. Curso Básico. Brasília: Ministério da Educação e do Desporto/Secretaria de Educação Especial, 2001.\n3) GESSER, A. Libras - Que língua é essa? Crença e preconceitos em torno da língua de sinais e da realidade surda. Florianópolis: Parábola, 2009.\n4) STROBEL, K. L. As imagens do outro sobre a cultura surda. Florianópolis: EdUFSC, 2008.\n",
+       "BibliografiaComplementar": "1) PIMENTA, Nelson e QUADROS, Ronice Muller. Curso de Libras I, LSB Vídeo, volume I, Iniciante, 2006 e 3a ed., 2008.\n2) Dicionário Enciclopédico Ilustrado Triíngue da Língua de Sinais Brasileira ? vol 1 e vol. 2 Site: www.acessobrasil.org.brasil\n3) Dicionário da Língua Brasileira de Sinais, INES, versão, 2.0, ano 2006.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "PRU111",
+      "Nome": "Teorias do Planejamento",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Origens do planejamento; fases e modelos do planejamento: compreensivo, incremental, advocatício e participatvo; Estado e racionalização: o planejamento entre política e administração; poder, participação e comunicação: o planejamento entre racionalidade instrumental e comunicativa; planejamento estratégico e planejamento democrático; novos agentes e novas formas do planejamento no século XXI - do pós-moderno ao insurgente e subversivo.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "PRU240",
+      "Nome": "Política e Planej Ambiental",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Debate em torno da questão ambiental nos níveis nacional e internacional; Incentivo ao pensamento plural a respeito do tema, introduzindo diferentes perspectivas e identificando as continuidades e conflitos entre os distintos pontos de vista; Panorama da política ambiental brasileira, com foco nos instrumentos disponíveis aos gestores públicos para o tratamento de matérias relativas à interação entre sociedade e natureza.\n___BIBLIOGRAFIA BÁSICA___\n1) ACSELRAD, H.; MELLO, C. D.; BEZERRA, G. D. N. O que é Justiça Ambiental. Rio de Janeiro: Garamond, 2009.\n2) BECK, U. Sobre a lógica da distribuição da riqueza e da distribuição do risco. In: BECK, U. Sociedade de risco: rumo a uma outra modernidade. São Paulo: Editora 34, 2011. p. 23-60.\n3) BRASIL. Lei nº 6.938 de 31 de agosto de 1981. Dispõe sobre a Política Nacional do Meio Ambiente, seus fins e mecanismos de formulação e aplicação, e dá outras providências.\n4) DIEGUES, A. C. O mito moderno da natureza intocada. São Paulo: Hucitec, p. 13-38, 2004.\n5) FARIAS, Talden. Licenciamento Ambiental: Aspectos Teóricos e Práticos, 7ª ed., Belo Horizonte: Editora Forum, 2019, p. 27-43.\n6) HARDIN, G. The tragedy of the commons. Science, 162, 1243-1248, 1968.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "PRU352",
+      "Nome": "Ética do Setor Público",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Fundamentos filosóficos da ética. Estado e sociedade civil. Esfera pública e esfera privada. A ética individual e a ética pública. O serviço público e o servidor público. O interesse público e o em comum.\n___BIBLIOGRAFIA BÁSICA___\n1) SEN, Amartya. Sobre Ética e Política, São Paulo: Companhia das Letras, 1999.\n2) SEN, Amartya, Desigualdade reexaminada. Rio de Janeiro, Record, 2008.\n3) ARISTÓTELES. Ética a Nicomacos, Brasilia: Editora Universidade de Brasilia, 2001, 43 ed.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEW003",
+      "Nome": "Sociedade de Debates II",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Variável\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEWK02",
+      "Nome": "Iniciação Científica II",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "180",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Realização intelectual. Estudo aprofundado.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEWU21",
+      "Nome": "Estágio Não-obrigatório I",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "180",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Experiência pré-profissional sob supervisão.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEWU23",
+      "Nome": "Estágio Não-obrigatório III",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Experiência pré-profissional sob supervisão.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEWX04",
+      "Nome": "Participação em Eventos II",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Participação/organização de eventos(semanas,congressos,etc.).\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEWX06",
+      "Nome": "Projeto Cultural I",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "180",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estrear uma peça teatral; escrever um livro literário; realizar uma apresentação de dança, canto, instrumento musical ou atividade assemelhada. Promover uma exposição de arte ou um encontro literário na UFRJ; desenvolver um projeto cultural ou atividade assemelhada na UFRJ.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEWX08",
+      "Nome": "Part em Atividade Cult I",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Participar de aulas de dança, teatro, canto, artes ou atividade assemelhada na UFRJ.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEWX10",
+      "Nome": "Part em Atividade Cult III",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Participar de aulas de dança, teatro, canto, artes ou atividade assemelhada na UFRJ.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEWX12",
+      "Nome": "Partic em Atividade Esport I",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Participar de aulas de esporte na UFRJ.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEWX14",
+      "Nome": "Partic em Atividade Esport III",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Participar de aulas de esporte na UFRJ.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEWX16",
+      "Nome": "Grupo de Estudo II",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Corresponde às atividades coordenadas  por docentes da UFRJ, que envolvam: produção de artigos em periódicos da área, fichamentos, resumos, análise de caso, trabalhos, organização e elaboração de eventos, seminários, elaboração de projetos de consultoria, cursos, workshops, simpósios, minicursos e oficinas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEWX21",
+      "Nome": "Atividade de Intercâmbio I",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Atividades de intercâmbio.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEWX23",
+      "Nome": "Mesário Voluntário",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Atuação como mesários durante as eleições municipais, estaduais e em âmbito nacional.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEWX31",
+      "Nome": "Trabalhos Comunitários I",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Participação em trabalhos comunitários / ONG.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEWX33",
+      "Nome": "Trabalhos Comunitários III",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Participação em trabalhos comunitários / ONG.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEWX35",
+      "Nome": "Acessibilidade II",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Participação em eventos sobre acessibilidade e inclusão.\n___Bibliografia Básica___\nVariável\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEWX37",
+      "Nome": "Acessibilidade IV",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "180",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Participação em eventos sobre acessibilidade e inclusão.\n___Bibliografia Básica___\nVariável\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEWX39",
+      "Nome": "Acessibilidade VI",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "180",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Participação em eventos sobre acessibilidade e inclusão.\n___Bibliografia Básica___\nVariável\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEWX51",
+      "Nome": "Adm de Empresas Júnior I",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "180",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Realização Intelectual relacionada à aplicação prática de conhecimentos teóricos (projetos).\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEWX53",
+      "Nome": "Adm de Empresas Júnior III",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Realização Intelectual relacionada à aplicação prática de conhecimentos teóricos (projetos).\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEWY02",
+      "Nome": "Equipe de Competição II",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "180",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Prática orientada em condições especiais de realização.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEWY21",
+      "Nome": "Monitoria I",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "270",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Atividades de Monitoria.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEWY23",
+      "Nome": "Monitoria III",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Atividades de Monitoria.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEWY32",
+      "Nome": "Viagens/visitas Técnicas II",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Prática orientada em condições especiais de realização.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     }
+    ],
+    "Disciplinas Optativas (Escolha Condicionada)": [
+     {
+      "Codigo": "COC479",
+      "Nome": "Poluição do Solo",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "classificação de resíduos (ABTN), fontes de contaminação, noções de transporte de massa em solos ( contaminantes miscíveis e não miscíveis em água), noções de interação soloxcontaminante, valores norteadores de nível de contaminação.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "COG200",
+      "Nome": "Economia e Meio Ambiente",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Principais correntes de Economia e Meio Ambiente, falhas de Mercado, Tipos de Externalidades Ambientais, Nível Ótimo de Poluição, Instrumentos Econômicos, Taxação e Poluição Ótima, Padrões Ambientais, Taxas Ambientais e Subsídios, Padrões de Consumo, Valor Econômico, Valoração Ambiental, Métodos de Quantificação  Física e Valoração Monetária de Custos Ambientais, Estudos de Casos Práticos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "EEH351",
+       "EEI533"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "COG203",
+      "Nome": "Planejamento Ambiental",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Evolução da política ambiental no Brasil e no mundo. Problemas ambientais globais e locais. Gestão ambiental pública e privada. O sistema nacional de meio-ambiente. Padrões de qualidade ambiental. Zoneamento e unidades de conservação. Avaliação de impacto ambiental. Gerenciamento de bacias hidrográficas. A ISO 14000. Estudos de caso.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "COR200",
+      "Nome": "Transporte e Meio Ambiente",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Uso de energia em transportes (combustíveis convencionais e alternativos). Poluição Sonora / Poluição Atmosférica - Conceitos / Impactos / Qualidade do Ar / Chuva Ácida / Sistema Climático - Efeito estufa / Medidas de mitigação de impactos de poluição atmosférica / Instrução Visual / Vibração / Outros impactos do setor de transporte / Vantagens ambientais do Gerenciamento da Mobilidade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEC352",
+      "Nome": "Principios de Geomecânica",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "formação dos solos; noções de geologia ( tipos de rocha, tipos de minerais, intemperismo); noções de mineralogia das argilas e de físico-química dos solos; investigação geotécnica e investigação geoambiental.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEG301",
+      "Nome": "Desenho Computacional",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Sistemas de desenho por computador. Criação, modificação e visualização de modelos bi e tridimensionais. Normas para desenho técnico. Dimensionamento e tolerâncias. Desenho de edificações. Desenho Mecânico. Aplicações para projeto. Documentação gráfica.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "EEG105"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEG481",
+      "Nome": "Sist Inform Georeferenciadas",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Cartografia, Sistemas de informação, modelagem de território em ambiente CAD, integração com base de dados, georeferenciamento, aplicações em problemas de engenharia georeferenciados.\n",
+       "BibliografiaBasica": "1) ROBINSON, A. H. Elements of Cartography. Ed. John Wiley & Sons, 1993, ISBN 047155797;\n2) GOES, K. AutoCAD Map: Explorando ferramentas de mapeamento. Ed. Ciência Moderna, 2000, ISBN 8573930756;\n3) JONES, C. Geographical Information Sistems and Computer Cartography' ? Addison Wesley Pub. Co. 1996, ISBN 0582044391;\n4) FINKELSTEIN, E. AutoCAD 2000: a Biblia, Ed. Ciência Moderna, 2000, ISBN 8573931116;\n5) XAVIER, J. Manual de Utilização do SAGA, IGEO-LAGEOP/UFRJ.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "EEG105",
+       "EEG301"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEG509",
+      "Nome": "Customização de Sist Gráficos",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Organização das bibliotecas de símbolos e arquivos de definições. Scripts e fontes do aplicativo. Escolhendo uma linguagem de programação. AutoLISP, C#, Vb.NET. Estruturação dos dados gráficos, códigos DXF. Acesso e análise dos objetos gráficos. Anexando dados a um objeto gráfico. Estruturas de decisão. Técnicas de filtragem de entidades. Planejamento do programa. Aspectos de construção da interface. Estudos de casos em projetos e desenho de Engenharia e Arquitetura.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "EEG301"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEH351",
+      "Nome": "Desenvolvim e Meio Ambiente",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Evolução histórica da questão ambiental. Clube de Roma e outros modelos mundiais. Conferência de Estocolmo (1972) e a criação do PNUMA, problemas ambientais em escala global: mudanças climáticas, destruição da camada de ozônio, chuva ácida, poluentes orgânicos persistentes, crise de água. Relatório Brudtland, o conceito de desenvolvimento sustentável e conferência do Rio (1992). A Conferência de Johanesburgo (2002) e os paradigmas para o futuro.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEH404",
+      "Nome": "Aproveitamentos Rec Hidricos",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Descrição da Engenharia dos recursos hídricos. Estudo preliminar das seguintes áreas: irrigação; drenagem; combate às secas e cheias; aproveitamentos hidrelétricos, portos e vias navegáveis; gestão dos recursos hídricos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "EEH303",
+       "EEH403"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEH483",
+      "Nome": "Poluição e Qualidade das Águas",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Padrões de qualidade da água. Parâmetros físicos, químicos e biológicos. Poluentes potenciais. Fontes de poluição das águas. Caracterização quantitativa e qualitativa das águas residuais. Efeitos de cargas poluidoras em corpos d\\'água. Controle da poluição. Graus de tratamento. Operações e processos unitários. Aurodepuração. Decaimento bacteriano. Eutrofização.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "EEH304"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEH528",
+      "Nome": "Avaliação Impactos Ambientais",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Agentes e processos de interferência, degradação e dano ambiental. Licenciamento ambiental no contexto da avaliação de impactos ambientais. Diagnose de sistemas ambientais: métodos e indicadores. Subsídios para avaliação econômica de impactos ambientais.\n",
+       "BibliografiaBasica": "1) GUERRA, A. T.; CUNHA, S. B. Geomorfologia e Meio Ambiente. 394 p. 2001;\n2) ALMEIDA, J. L. Ciências Ambientais - Ed. THEX. 482 p. 2002;\n3) CUNHA, S. A.; GUERRA, A. T. Avaliação e Perícia Ambiental. 284p. 2001.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "COG203"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEH592",
+      "Nome": "Gestão de Projetos",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Aspectos institucionais relacionados a eng.Sistemas de organização de empreendimentos.Planejamento,execução e controle de projetos.Cronograma físico e financeiro.PERT/CPM.Avaliação de projetos.Cálculo de tarifas aplicado a projetos de eng.Princípios básicos de organização e administração.Tipos de estruturas.Sistemas de organização.Problemas de pessoal e material.Produção industrial:planejamento,programação e controle.Matemática financeira básica:juros,descontos,capitalização e amortização.Alternativas de soluções técnico-econômicas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEH601",
+      "Nome": "Tratamento de Água",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Operação e processos unitários de tratamento de água; Gradeamento; Desarenação; Coagulação, Floculação; Decantação; Filtração; Desinfecção; Neutralização; Hidraúlica de ETA\\'s.\n",
+       "BibliografiaBasica": "1) SPELMAN, F.R.; DRINAN, J. The Drinking Water Handbook, Technomics Publishing Co., 1999;\n2) DI BERNARDO, L. Métodos e Técnicas de Tratamento de Água, ABES, 1993;\n3) VALÊNCIA, J. A. Teoria y Practica de la Purification del Água, Acroal, 1992;\n4) RICHTER, C. A. Tratamento de Água, ABES, 1991;\n5) LEME, F. P. Teoria e Técnicas de Tratamento de Água, ABES, 1990.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "EEH304"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEH603",
+      "Nome": "Tratamento de Esgotos",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Operações e processos unitários de tratamento de esgotos; tratamento preliminar, primário e secundário; gradeamento, desarenação; decantação; flotação; iodos ativados, filtração biológica, rotores de contato, lagoas de estabilização; lagoas aeradas; tratamento do lodo; espessamento; estabilização, desidratação; destinação final do iodo.\n",
+       "BibliografiaBasica": "1) QASIM, S. R. Wastewater Treatment Plants, Technomics Publishing, 1999;\n2) JORDÃO, E.P. & PESSOA, C. A. Tratamento de Esgotos Domésticos, ABES, 1995;\n3) WEF. Wastewater Residuals Stabilication, WEF, 1995;\n4) WEF, Design of Municipal Wastewater Treatment Plants, WEF, 1992;\n5) METCALF & EDDY. Wastewater Engineering, Treatment, Disposal and Reuse, McGraw Hill Co., 1991.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "EEH304",
+       "EEH483"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEI533",
+      "Nome": "Introdução à Economia",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Evolução da Ciência Econômica. Diferentes escolas de pensamento: fase pré-científica; do Mercantilismo às escolas modernas. Conceituação: problemas econômicos e necessidade humana. Trocas diretas e indiretas: fluxo circular da economia. Governo: suas funções econômicas. Empresas privadas: forma jurídica e financiamento. Contabilidade social: medidas dos agregados: a concepção clássica e a concepção keynesiana. Moeda: diferentes instituições financeiras, bancos comerciais. Política monetária e política fiscal: monetaristas e keynesianos. Setor externo: balanço de pagamentos. Noções de microeconomia: mercado e preços. O consumidor: procura e utilidade. Produção e custo. Visão alternativa dos custos. Estrutura de mercado.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EET415",
+      "Nome": "Corrosão e Proteção",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Fundamentos termodinâmicos da corrosão, classificação da corrosão. Fundamentos eletroquímicos. Equação de Nenrst. Diagrama de Pourbaix. Polarização. Passivação. Cinética da corrosão. Proteção da corrosão: proteções clássicas e aquelas por materiais poliméricos, compósitos e filmes finos. Deterioração dos materiais não metálicos: idéias gerais e analogias com a corrosão de metais.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "EET353"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEU030",
+      "Nome": "Prob Inversos Eng Reatores II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEU032",
+      "Nome": "Intr à Tomografia Computad",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Tipos de tomografia, Fundamentos da Fisica de Raios X: produção de raios x, interação dos raios x com a matéria, detecção de raios x, estatística de fótons, Gerações de tomógrafos, Geometrias, Microtomografia, Reconstrução de imagens, Qualidade de imagens.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "EEU240",
+       "MAC248"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEU034",
+      "Nome": "Intr à Programação C++",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Breve história de C e C++, Estruturas de Controle (Algoritmos, if, if/else, while, for, switch, do/while break e continue), Funções, Arrays, Ponteiros e strings, Classes e abstração de dados, Classes (um estudo detalhado), Sobrecarga de Operadores, Herança, Funções Virtuais e Polimorfismo, Entrada e Saída com streams em C++, Gabaritos, Tratamento de exceções, Processamento de arquivos, Estrutura de dados, Bibliotecas do C++ Padrão.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEU036",
+      "Nome": "Economia de Energia",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceitos fundamentais em economia da energia: cadeias energéticas, energia primária, secundária, final e útil, contabilidade energética, intensidade energética e consumo específico, fontes renováveis e não-renováveis, Histórico das cadeias energéticas no mundo, Estrutura de mercado, Mercados competitivos, mercado contestável, indústria de rede, monopólio natural, oligopólio, cartel, teoria da regulação e princípios da tarifação: revisão teórica, Regulação de insdústria de rede: Eletricidade, Tecnologias de geração elétrica, critérios de seleção de empreeendimentos de geração elétrica, Princípios da operação e expansão do setor elétrico e histórico no Brasil, Instrumentos do planejamento energético: modelos top down e botton up.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEU561",
+      "Nome": "Model Probab Aplicados",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Processos estocásticos: processos de contagem, de renovação, cadeias e processos de Markov, processos pontuais. Modelos de simulação por Monte Carlo. Aplicações à análise de segurança de instalações nucleares e à extensão de vida útil qualificada de centrais nucleares.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MAD201"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEU563",
+      "Nome": "Análise de Incertezas",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Tipos de incertezas: de parâmetros,epistemológicas, estatísticas. Fontes de incertezas em análises de segurança de instalações nucleares. Métodos para o tratamento qualitativo e quantitativo de incertezas. Propagação de incertezas. Apresentação de incertezas nos resultados. Análise de Incerteza em estudos de Segurança de Instalações Nucleares.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "EEU027"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEU565",
+      "Nome": "Análise Acid Reator Nucleares",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Aspectos qualitativos e quantitativos do espectro de acidentes no contexto do Relatório Final de Análise de Segurança. Acidentes além da base de projeto. Impactos nos projetos de reatores inovadores.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "EEU027",
+       "EEU517"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEU571",
+      "Nome": "Mét Comput Aplic Eng Nuclear",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo do ambiente de programação MATLAB, ambiente de desenvolvimento, resolução de expressões matemáticas numéricas e  matriciais,criação e manipulação de gráficos, programação com MATLAB, criação de scripts e funções, passagem de parâmetros variáveis globais,utilização de bibliotecas de funções e toolboxes. Implementação de algoritmos e solução de problemas da área de engenharia nuclear.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "15:00 - 17:00",
+        "professor": "ANDRESSA DOS SANTOS NICOLAU"
+       },
+       {
+        "dia": "Qua",
+        "hora": "15:00 - 17:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MAB231"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEU573",
+      "Nome": "Redes Neur Art Aplic Eng Nucle",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Redes Neurais Artificiais: Introdução, conhecimento e aprendizado, memórias associativas, redes Perceptron, algoritmo LMS, rede perceptron Multicamadas, Algoritmo, Backpropagation, redes de base radial, redes auto-organizáveis,  redes recorrentes. Aplicações e Solução de problemas na Engenharia Nuclear.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "EEU571"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEU575",
+      "Nome": "Monitoração Usinas Nucleares",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Acidentes em Usinas Nucleares, Acidentes Postulados, Sistema de Monitoramento de Parâmetros de Segurança, Sistema de Funções Críticas de Segurança, Sistemas de Alarme e Diagnóstico, Identificação de Acidentes Nucleares, Sistemas de Monitoramento de Dispersão de Poluentes Radioativos, Sistema para Acidentes Radiológicos Nucleares, Escala Internacional de Eventos Nucleares.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEU580",
+      "Nome": "Intro Met Soluções Fundament",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Soluções fundamentais para equações diferenciais. Fórmula de Green. Equação de Laplace Base de soluções fundamentais. Independencia linear e densidade. Métodos dos mínimos quadrados. Sistema singular. Regularização de Tikhonov. Regularização por truncamento. Equação de Helmoholtz. Solução de equação elíptica não homogênea. Experimentos Numéricos com Matlab.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEU590",
+      "Nome": "Geração de Energia",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Geração de energia elétrica e desenvolvimento sustentável; centrais hidrelétricas; centrais termelétricas; centrais Nucleoelétricas; sistemas solares para a geração de energia elétrica; sistemas eólicos para a geração de energia elétrica; sistemas híbridos; energia dos oceanos; células a combustível;Aspectos técnicos e econômicos da geração de energia elétrica.\n___BIBLIOGRAFIA RECOMENDADA___\n1- HAMMOND, Allen Letal - O Futuro Energético do Mundo\n2- GOLDENBERG, José - Energia no Brasil\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEW018",
+      "Nome": "Fund Metrol e Aval da Conformi",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução e histórico das medidas; conceitos fundamentais de Metrologia; sistema metrológico mundial; sistema nacional de metrologia; metrologia e padronização; vocabulário internacional de Metrologia (VIM); sistema internacional de unidades; sistemas de medição; calibração de instrumentos de medição; incerteza de medição; certificado de calibração; fundamentos de Metrologia Legal; O INMETRO e a qualidade; Fundamentos da qualidade; Normalização e regulamentação técnica; Acreditação; Fundamentos e mecanismos da avaliação da conformidade; Selos de identificação da conformidade; Acompanhamento de mercado de produtos com conformidade avaliada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEWX02",
+      "Nome": "Proj de Extensão em Engenharia",
+      "Créditos": "4.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Participação em Projeto de Extensão diretamente relacionado ao exercício da Engenharia, proposto por um docente (professor responsável) e aprovado pela Congregação da Escola Politécnica.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EQI075",
+      "Nome": "Intro aos Trat Quim de Res Ind",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Fontes poluidoras, resíduos e efluentes. Legislação de resíduos sólidos e despoluição. Caracterização tecnológica integrada de resíduos, efluentes e emissões gasosas. Destruição térmica de rejeitos e efluentes via incineração, co-processamento e ceramização e seus fundamentos. Purificação, co-geração energética e aproveitamento dos gases de exaustão. Processos de solidificação e estabilização de resíduos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EQW010",
+      "Nome": "Indústria e Meio Ambiente",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "principais aspectos e impactos ambientais de diferentes processos industriais: farmacêutico, petroquímico,siderúrgico,alimentício, textil, metal-mecânico, e etc. Avaliando os principais rejeitos gerados por esses setores\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGG001",
+      "Nome": "Geomorfologia Aplic Engenharia",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Origem e dimensão da Terra. Estrutura do planeta, tectõnica de placas e geração dos continentes e oceanos; Elementos químicos da crosta terrestre, minerais e rochas. Estruturas geológicas e influências no relevo. Geração e evolução das formas da superfície terrestre e bacias hidrográficas. Processos geomorfológicos: intemperismo, erosão/transporte e deposição; Formação e classificação pedológica de solos; Influências geomorfológicas nas obras de engenharia: edificações, barragens, portos, rodovias, túneis e pontes. Utilização de recursos naturais da superfície terrestre, degradação da natureza e questões ambientais da atualidade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ISC001",
+      "Nome": "Saúde Pública e Meio Ambiente",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Aspectos conceituais e históricos da Saúde Pública/Saúde Coletiva e Saúde Ambiental; Políticas de Saúde Ambiental: Acidentes e doenças relacionadas ao ambiente; Metodologias para avaliação de risco em Saúde Ambiental; Noções de Toxicologia Ambiental;Noções de Epidemiologia Ambiental; Metodologias para prevenção e controle de doenças/agravos relacionadas ao ambiente.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "COC474",
+      "Nome": "Mecânica Durabilidade Sólidos",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Tensão e resistência. Modelos de resistência. Deformação específica. Elasticidade e termodinâmica dos processos reversíveis. Estabilidade fratura e colapso, termodinâmica dos processos reversíveis. Princípios energéticos gerais e equações constitutivas. Plasticidade, ruptura, dano e fissuração. Durabilidade dos sólidos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "EEA212"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "COC608",
+      "Nome": "Disposição de Resíduos Sólidos",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "modos de disposição por tipo de resíduo ( origem, estado físico, periculosidade); sistemas de controle da contaminação; monitoramento; normas técnicas\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "EEH602",
+       "EQI075"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "COG201",
+      "Nome": "Energia e Meio Ambiente",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "energia primária fóssil e renovável. Estoque e fluxo. Centros de transformação. Energia final e energia útil. eficiência e perdas. Impactos no ambiente. Efluentes atmosféricos, líquidos e sólidos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "FIM230"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "COP301",
+      "Nome": "Gestão Ambiental na Indústria",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Política e Gestão Ambiental  Valores ambientais, sociedade e natureza. Gestão Ambiental nas empresas, a série ISO 14.000. Auditorias, SGA, Rotulagem, o de desempenho ambiental e análise do ciclo de vida. Aspectos da legislação ambiental. A política ambiental nos níveis federal, estadual e municipal. Responsabilidade social e a ética ambiental.  Avaliação de Impactos Ambientais.  Noções básicas de Ecologia. Relações ecológicas, ecossistemas, ciclos biogeoquímicos, manejo e poluição industrial. Introdução à avaliação de impactos ambientais. Principais métodos de análise. Análise Ambiental ( Meio Aéreo). Análise Ambiental ( Meio Aquático). Análise Ambiental (Solo, Sedimento). Destinação de resíduos.  Logística Ambiental.  Ferramentas de análise  Análise econômica. Aquisição de dados. Direito Ambiental. Bloco IV - Meio Ambiente e Sociedade. Normas internacionais.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEC315",
+      "Nome": "Instalações Elét Meio Ambiente",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceitos Básicos. Circuitos de Corrente Contínua e Alternada. Circuitos Trifásicos Equilibrados. Geração, transformação, transmissão e cargas. Instalações Elétricas e sua Eficiência em Obras Civis. Visitas técnicas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "FIM230"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEC595",
+      "Nome": "Segurança Ambiental",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "conceitos básicos em segurança de sistemas e em Segurança Ambiental. Gestão integrada. Análise de riscos ambientais. Análise de acidentes: metodologia e estudo de casos. Auditoria em segurança ambiental. Estudos e projetos de segurança ambiental.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "EEH403"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEG410",
+      "Nome": "Planej Urbano e Meio Ambiente",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Cidade e meio Ambiente. Impactos ambientais da ocupação urbana: abastecimento d'água, saneamento, transportes, impermeabilização do solo, drenagem urbana, ilhas de calor, lixo urbano. A ocupação urbana no Brasil.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "COG203"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEG507",
+      "Nome": "Bim1: Mod Digital Edificação",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo morfológico do projeto considerando a geometria dos componentes construtivos. Composições volumétricas. Estudo de unidades construtivas. Condicionantes dimensionais do projeto. Racionalização da distribuição dos componentes e suas interações. Conectividades dos componentes em sistemas BIM. Logística gráfica dos componentes construtivos. Aspectos gráficos de coordenação modular. Bibliotecas de componentes inteligentes e componentes parametrizados. A coordenação espaço-temporal do 2D ao 5D.\n___BIBLIOGRAFIA BÁSICA___\n1- CROTTY, Ray. The Impact of Building Information Modelling: Transforming Construction. Taylor & Francis. 2011.\n2- DZAMBAZOVA, Tatjana; KRYGIEL, Eddy; DEMCHAK, Eddy Krygiel. Introducing Revit Architecture: BIM for Begginners. John Wiley & Sons, 2009.\n3- EASTMAN, Chuck; Teicholz, Paul; SACKS, Rafael; LISTON, Kathleen. Manual de BIM. Um guia de Modelagem de Informação da construção. John Wiley & Sons. 2008.\n4- HARDIN, Brad. BIM and Construction Management: Proven Tools, Methods, and Workflows. John Wiley & Sons. 2009.\n5- HENSEL, Michael; MENGES, Michael Hensel. Emergence: Morphogenetic Design Strategies. John Wiley & Sons. 2004.\n6- MENEGOTTO, José L; ARAÚJO, Tereza C. M. O desenho digital. Técnica e arte. Rio de Janeiro: Interciência, 2001.\n7- SMITH, Dana K. Building Information Modeling: A Strategic Implementation Guide for Architects, Engineers, Constructors, and Real State Asset managers. John Wiley & Sons. 2009.\n8- WOODBURY, Robert. Elements of Parametric Design. Routledge, 2010.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 10:00",
+        "professor": "JOSE LUIS MENEGOTTO"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 10:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "EEG301"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEH304",
+      "Nome": "Saneamento Ambiental",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O setor Saneamento Ambiental. Gestão dos serviços de saneamento. Saneamento e saúde pública. Sistemas de saneamento ambiental. Elementos componentes: funcionalidade, projeto de engenharia, dimensionamento hidráulico-sanitário, operação e manutenção.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "EEH303"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEH403",
+      "Nome": "Hidrologia Geral I",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A água na natureza. O ciclo hidrológico. Bacia hidrográfica. Pluviologia. Evaporacao. Iinfiltração. Fluviologia. Transporte sólido. Estação hidrosedimentológica. Água subterrânea. Reservatório de regularização. Modelos de simulação: Método racional; Hidrógrafa unitária.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEH472",
+      "Nome": "Poluição Sonora",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Som: grandezas fundamentais, conceitos básicos. Níveis sonoros: nível de pressão, intensidade e de potência sonora. Espectro. Formas de medir ruído e estimar a poluição sonora. Efeitos do ruído. Ruído no ambiente de trabalho. Ruído urbano. Legislação. Noções de controle de ruído.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEH527",
+      "Nome": "Gestão de Recursos Hídricos",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Escassez de água. Disponibilidade x Demanda. Bacias hidrográficas brasileiras. Conceitos para o gerenciamento de bacias hidrográficas, o valor econômico da água, o enquadramento de rios, a concessão de outorga e a cobrança. o sistema brasileiro e sua organização legal e institucional. Lei 9433/97: fundamentos, objetivos e instrumentos. A dominialidade dos cursos d'água. Planos de recursos hídricos como instrumentos de gestão na política nacional. transposição das águas do Paraíba do Sul para o Guandu. Estudos de casos: conflitos de recursos hídricos no Brasil.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "EEH304",
+       "EEH404"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEH591",
+      "Nome": "Model Hidraul e Ambiental",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O processo de modelagem. Introdução aos métodos numéricos através de diferenças finitas: 1. Modelagem numérica de problemas advectivos e de propagação; 2. Modelagem numérica de problemas difusivos; 3. Modelagem de problemas advectivos-difusivos. Introdução a métodos de volumes finitos. Introdução a métodos de elementos finitos. Modelagem de hidrodinâmica de corpos de água. Modelagem do transporte de escalares. Modelagem com métodos lagrangeanos. Modelagem de dados-pós processamento.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "EEH404"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEH594",
+      "Nome": "Hidrodinâm dos Corpos de Agua",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Circulação hidrodinâmica e transporte de contaminantes em rios, lagos, reservatórios, estuários e regiões costeiras. Sobre modelagem computacional: descrição de modelos 3D, 2DH, 2DV, 1D e analíticos. Conceitos da hidraúlica de meios porosos. Métodos analíticos e numéricos para o cálculo da circulação e transporte de contaminantes. Ondas de superfície: geração e propagação, difração, reflexão, ressonancia portuária, arrebentação. Aplicações de engenharia. Propriedades não-lineares: fluxo de massa e fluxo de quantidade de movimento. Tensão de radiação. Correntes geradas por ondas. Marés astronômica e meteorológica. Processos sedimentológicos e morfológicos: Caracterização dos sedimentos coesivos. Mecanismo de erosão, transporte e deposição de sedimentos. Processos litorâneos. Transporte eólico. Obras hidraúlicas fluviais e costeiras: obras de regularização e canalização de vias fluviais. Estabilidade de embocaduras de maré. Impactos morfológicos, conceituação de soluções mitigadoras. Aspectos funcionais de estruturas costeiras. Engordamento de praia, transpasse de areia.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "EEH303"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEH602",
+      "Nome": "Resíduos Sólidos Urbanos",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Característica do lixo urbano. Coleta; Transporte. Estações de transferência: reciclagem.Compostagem: aterro sanitário. Incineração.\n",
+       "BibliografiaBasica": "1) CEMPRE/IPT. Lixo - Manual de Gerenciamento Integrado, IPT, 2000;\n2) TINOCO, J. P. Manual de Compostagem, Processo de Baixo Custo, ABES, 1996;\n3) STTEINER, L. C., MOTTA, R. S. Aspectos Econômicos da Gestão Integrada de Resíduos Sólidos, IPEA, 1996;\n4) QUEIRÓZ, L. M.Lixo - Tratamento e Bioremediação, ABES, 1995;\n5) TCHOBANOGLOUS, G.; THEISEN, HILARY; VIGIL, S. Integrated Solid Waste Management, McGraw Hill Co., 1993.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "EEH304"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEHX02",
+      "Nome": "Tóp em Engenharia Ambiental",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "visitas de campo orientadas em atividades de produção industriais, empreendimentos para aproveitamento dos recursos hídricos, de geração de energia e de saneamento ambiental, nos limtes do Estado do Rio de Janeiro.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EET314",
+      "Nome": "Transformações de Fases",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Difusao: fenomenologia, leis de Fick, efeito Kirkendall, difusao intersticial-substitucional. Solidificacao: nucleacao, refino, estruturas de solidificacao. Precipitacao, recuperacao e recristalizacao.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "EET200",
+       "EET351"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEU029",
+      "Nome": "Prob Inversos Eng Reatores I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEU031",
+      "Nome": "Tec Sol Equação Difus Nêutrons",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Discretização por diferenças finitas: esquema centrado na malha, esquema centrado na interface e aproximações para as derivadas do fluxo de nêutrons; Esquemas iterativos de soluções: método das potências, iterações externas, algoritmo de Thomas e iterações internas (métodos de Jacobi e de Gauss-Seidel); critérios de convergência no autovalor (fator de multiplicação efetivo) e na fonte de fissão (ou no fluxo de nêutrons); Técnicas de aceleração de convergência para as iterações externas (método de Wielandt e aceleração por polinômios de Chebyshev) e para as iterações internas (método SOR). Introdução aos métodos nodais consistentes; Introdução aos métodos de diferenças finitas de malha grossa.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "EEU503"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEU033",
+      "Nome": "Dosimetria Básica",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Revisão dos conceitos e unidades de exposição, kerma e dose absorvida; Medidas em equilíbrio eletrônico; Teoria da cavidade de Bragg-Gray, Dosimetria de elétrons, fótons, nêutrons e campos mistos, Tipos de dosímetros: características principais, Dependência energética; métodos de medida, avaliação de capacidade/sensibilidade, vantagens e desvantagens. Métodos de dosimetria: calorímetros, Filmes, Câmaras de ionização, Dosímetros químicos, TLDs, Cintiladores, Dosímetros plásticos, Dosimetria por RPE, Dosimetria pessoal-ocupacional/terapêutica, Dosimetria em processos industriais.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "EEU240"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEU035",
+      "Nome": "Intr Programa C++ com Mfc",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Visual Studio 2010, Uma introdução a MFC, Contextos de dispositivos: Objetivos GDI a mensagens comuns, recursos Windows, Caixa diálogos e controles comuns, Arquitetura CDocument/CView, A MSDN, Alguns truques na programação Windows com C++ MFC.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "EEU034"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEU525",
+      "Nome": "Tec Compl de Ensaios Nao Destr",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Fontes de radiacao: interacao dos raios com a materia: princ da gamagrafia; utilizacao, vantag e limitacoes; carta de exposicao; calculo do tempo de exp; telas intensificadoras; inspecao de pecas e mat diversos; regras bas de radioprotecao; fontes de neutrons; interacao dos neutrons c/a materia; secao de choque; moderacao e colimacao neutronica; principio da neutrongrafia; aplicacoes e vantag da neutrongrafia; conversores de radiacao; filmes radiograficos, metodos de expos; curva caracteristica de um filme; resol e sensib radiografica; proces de filmes; densitometria; analises qualitativa e quantitativa.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "EEU301"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEU562",
+      "Nome": "Ensaio de Confiabilidade",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Dados de falha de equipamentos: coleta e descrição. Conceito de ensaio e tipos de ensaio, livre, censurado e acelerado.Métodos de análise de dados de ensaios para a estimativa de parâmetros de confiabilidade: paramétricos e não-paramétricos.Aplicações a dados de falha de equipamentos de centrais nucleares.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MAD201"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEU564",
+      "Nome": "Intr Mét Sol Equa Difer Parc",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceitos básicos de solução de equações diferenciais parciais por diferenças finitas, volumes finitos e elementos finitos. Aplicações à física, transmissão de calor e mecânica dos fluidos em reatores nucleares. Métodos de geração de malhas estruturadas e não estruturadas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "EEU018",
+       "EEU019"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEU566",
+      "Nome": "Control Dinâm Reator Nucleares",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Noções de sistemas de controle. Realimentação. Cinética de reatores. Dinâmica de reatores.Estabilidade de sistemas lineares.Estabilidade de sistemas não-lineares.Segurança operacional.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "EEU503",
+       "EEU504"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEU572",
+      "Nome": "Otimiz Evoluc Apli Eng Nuclear",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Algoritmos genéticos: métodos de otimização, espaço de busca, modelagem do problema, estruturas genéticas, função objetivo, algorítmo canônico, operadores genéticos, critérios de parada, teorema fundamental, problemas combinatórios, aplicação e solução de problemas na engenharia nuclear.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "10:00 - 12:00",
+        "professor": "VICTOR HENRIQUE CABRAL PINHEIRO"
+       },
+       {
+        "dia": "Qua",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEU574",
+      "Nome": "Sistem Nebulos Aplic Eng Nucl",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conjuntos crisp, raciocínio lógico usando lógica crisp, função característica, conceitos de raciocínio usando lógica nebulosa, conjuntos nebulosa, função de pertinência, , suporte cardinalidade, subconjuntos, igualdade de conjuntos, operações com conjuntos nebulosa, complemento, união intersecção, sistemas de controle nebulosa, sistemas neuro-nebulosos, aplicação de sistemas de controle nebulosos na engenharia nuclear.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEU576",
+      "Nome": "Ident Acid Usinas Nucleares",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceitos basicos de análise de dados. Conceito de similaridade, métrica de comparação de padrões e classificação de dados. Algorítmos de classificação crisp e classificação nebulosa. Transientes e identificação de eventos em usinas nucleares. caracterização e assinaturas de transientes em usinas nucleares. Classificação instantânea de eventos e acumulação de evid~encias. Técnicas de identificação e otimização da classificação de acidentes.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEU581",
+      "Nome": "Laboratório de Fís de Reatores",
+      "Créditos": "4.0",
+      "Teórica": "30",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Descrição do Reator Argonauta. Operação do Reator Argonauta. Aproximação subcrítica: meios multiplicadores - Fator de multiplicação; multiplicação subcrítica - curva 1/M.  Calibração de barra de controle: método do período positivo; método de queda de barra. Coeficientes de temperatura do combustível e do moderador. Efeitos de vazios na reatividade. Determinação de secções de choque totais para nêutrons. Operação do simulador PWR do laboratório de Interfaces homem/sistema (LABISH).\nBIBLIOGRAFIA BÁSICA PARA O ALUNO:\nJ.J. Duderstadt & L. J. HAMILTON, \"Nuclear Reactor Analysis\", John Wiley & Sons, New York, 1976.\nJ. R. LAMARSH, \"Nuclear Reactor Theory\", Addison-Wesley Publishing Co., Reading, MA, 1972.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "EEU503"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEU601",
+      "Nome": "Fluidodinâmica Computacional I",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Fundamentos de fluidodinâmica computacional. Equações de transporte. Métodos de diferenças finitas. Métodos de volumes finitos. Introdução a modelos de turbulência. Verificação e Validação (V&V). Análise de escoamento e transferência de calor em feixes de varetas. Análise de convenção natural. Análise de circulação natural. Análise de escoamento e transferência de calor de fluidos supercríticos.\n___BIBLIOGRAFIA RECOMENDADA___\n1- PATANKAR, S. (1980) Numerical Heat Transfer and Fluid Flow. Hemisphere.\n2- ANDERSON, D.A. TANNEHILL, J., PLETCHER, R.H. (1984). Computational Fluid Mechanics and Heat Transfer. Hemisphere.\n3- TODREAS, N. E. and M.S. KAZIMI. (2012). Nuclear Systems. Vol. 1. (2ª ed.) Boca Raton, FL, Taylor & Francis.\n4- TODREAS, N. E. ans M.S. KAZIMI (1990). Nuclear Systems. Vol. 1. New York, Hemisphere Pub. Corp.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "13:00 - 17:00",
+        "professor": "GABRIEL CAETANO GOMES RIBEIRO DA SILVA"
+       }
+      ],
+      "Requisitos": [
+       "EEU504"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEW515",
+      "Nome": "Tópicos Especiais Engenharia",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conteúdo variado.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EQB056",
+      "Nome": "Controle Monit Pol Atmosférica",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Monitoramento de poluentes atmosféricos. Métodos de amostragem de gases traço e partículas. Equipamentos de amostragem de gases e partículas. Controle de afluentes gasosos. Métodos de controle de gases e partículas. Equipamentos de controle de gases e partículas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "EQW010",
+       "IGT603"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EQW009",
+      "Nome": "Tratam de Efluentes Indust",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Amostragem e Normas de Amostragem. Conservação das amostras. caracterização de efluentes industriais. Tecnologias de tratamento de efluentes líquidos. Processos Físicos, químicos e biológicos. Microrganismos atuantes nos sistemas de tratamento. Princípios da degradação biológica aeróbia e anaeróbia. Dimensionamento de unidades de tratamento. Remoção de constituintes específicos ( metais pesados, cianetos, ..). Técnicas não-convencionais de tratamentos. Processos Híbridos. Reciclo, Reuso.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IBE122",
+      "Nome": "Ecologia Geral",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A Ecologia como ciência, suas abordagens e aplicações.  A abordagem do ecossistema e seus principais componentes, fluxo de energia e ciclagem de materiais.  A abordagem de populações e seus principais componentes: parâmetros, métodos de estudo e modelos básicos.  Interações entre espécies.  A abordagem de comunidades: natureza, estrutura e desenvolvimento.  Aplicações à conservação de espécies e processos naturais.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IGT603",
+      "Nome": "Poluição do ar",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Histórico da Poluição do Ar.  A Atmosfera. Escalas dos Problemas de Poluição do Ar. Tipologias e características das Fontes de Poluentes Atmosféricos. Impactos da Poluição do Ar. Emissões Atmosféricas. Monitoramento da Qualidade do Ar. Meteorologia da Poluição do Ar. Transporte e Dispersão de Poluentes Atmosféricos. Estruturação e Competências de Órgãos Ambientais. Licenciamento Ambiental. Gestão da Qualidade do Ar. Estudos de Casos.\n",
+       "BibliografiaBasica": "1) FRONDIZI, C. A. Monitoramento da Qualidade do Ar: Teoria e Prática. 1ª edição. Editora e-papers. Rio de Janeiro. 2008. 276p.\n2) VALERO, D. Fundamentals of Air Pollution. 4th. Edition. Academic Press. California. USA. 2008. 942p.\n3) VIEIRA. N. R. Poluição do Ar. 1ª edição. Editora e-papers. Rio de Janeiro. 2009. 220p.\n4) Brasil. Ministério do Meio Ambiente. Guia técnico para o monitoramento e avaliação da qualidade do ar.  Departamento de Qualidade Ambiental e Gestão de Resíduos. Brasília, DF. 2020. 136 p.\nhttps://www.gov.br/mma/pt-br/centrais-de-conteudo/mma-guia-tecnico-qualidade-do-ar-pdf.\n5) SÁNCHEZ-SALINAS, E., ORTIZ-HERNÁNDEZ, M. L. e CASTREJÓN-GODÍNEZ, M. L. CONTAMINACIÓN URBANA DEL AIRE. ASPECTOS FISICOQUÍMICOS, MICROBIOLÓGICOS Y SOCIALES. Universidad Autónoma Del Estado de Morelos. Mexico. 2014. 186p.\nhttps://www.uaem.mx/dgds/files/libros/2014_LIBRO_CONTAMINACI%C3%93N%20URBANA%20DEL%20AIRE.%20ASPECTOS%20FISICOQU%C3%8DMICOS%2C%20MICROBIOL%C3%93GICOS%20Y%20SOCIALES.pdf\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     }
+    ]
+   },
+   "obrigatorias": 50,
+   "eletivas": 150,
+   "ano": "2010/1 a 9999/9"
+  }
+ ]
+}

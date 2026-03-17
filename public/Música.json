@@ -1,0 +1,3121 @@
+{
+ "Música": [
+  {
+   "materias": {
+    "1º Período": [
+     {
+      "Codigo": "MUP121",
+      "Nome": "Piano B I",
+      "Créditos": "4.0",
+      "Teórica": "0",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Não cadastrada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MUC101",
+      "Nome": "Harmonia e Morfologia I",
+      "Créditos": "3.0",
+      "Teórica": "15",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Não cadastrada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MUT121",
+      "Nome": "Historia das Artes",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Não cadastrada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "2º Período": [
+     {
+      "Codigo": "MUP122",
+      "Nome": "Piano B II",
+      "Créditos": "4.0",
+      "Teórica": "0",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Não cadastrada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MUC102",
+      "Nome": "Harmonia e Morfologia II",
+      "Créditos": "3.0",
+      "Teórica": "15",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Não cadastrada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MUC101"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "3º Período": [
+     {
+      "Codigo": "MUP221",
+      "Nome": "Piano B III",
+      "Créditos": "4.0",
+      "Teórica": "0",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Não cadastrada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MUT331",
+      "Nome": "Historia da Musica I",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Não cadastrada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MUC201",
+      "Nome": "Harmonia e Morfologia III",
+      "Créditos": "3.0",
+      "Teórica": "15",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Não cadastrada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MUC102"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MUT161",
+      "Nome": "Folclore Nacional Musical I",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A música folclórica no contexto sócio-cultural do Brasil. Música, canto e dança nos diferentes contextos culturais brasileiros. A música popular brasileira e suas articulações históricas, sociais e culturais. A importância da música e da cultura brasileira nos processos relacionados à identidade nacional, multiculturalismo, mediação e re-signação cultural.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "4º Período": [
+     {
+      "Codigo": "MUC202",
+      "Nome": "Harmonia e Morfologia IV",
+      "Créditos": "3.0",
+      "Teórica": "15",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Não cadastrada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MUC201"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MUT162",
+      "Nome": "Folclore Nacional Musical II",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A música de tradição oral no contexto sócio-cultural do Brasil. Música, canto e rituais nos diferentes contextos culturais brasileiros. Gêneros da música popular brasileira surgidos a partir do século XX e suas articulações históricas, sociais e culturais. A importância da música e da cultura brasileira nos processos relacionados à identidade nacional, multiculturalismo, mediação e re-significação cultural. Utilização de fatos folclóricos e musicais da cultura espontânea e tradicional do povo brasileiro nos processos de criação e na educação musical.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MUT161"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MUC111",
+      "Nome": "Prosodia Musical",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Combinacao das formas e silabas poeticas, com os sons musicais. Desenvolvimento progressivo das etapas, quanto as dificuldades. Estudos sobre a conservacao dos acentos tonicos, relacionada com os acentos metricos e expressivos do texto. Estudo sobre repeticoes adequadas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MUC102"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MUP222",
+      "Nome": "Piano B IV",
+      "Créditos": "4.0",
+      "Teórica": "0",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Não cadastrada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MUT332",
+      "Nome": "Historia da Musica II",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Não cadastrada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MUT331"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "5º Período": [
+     {
+      "Codigo": "MUC321",
+      "Nome": "Harmonia Superior I",
+      "Créditos": "4.0",
+      "Teórica": "15",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Não cadastrada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MUC202"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MUP321",
+      "Nome": "Piano B V",
+      "Créditos": "4.0",
+      "Teórica": "0",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Não cadastrada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MUC301",
+      "Nome": "Harmonia e Morfologia V",
+      "Créditos": "3.0",
+      "Teórica": "15",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Não cadastrada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MUC202"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MUC351",
+      "Nome": "Contraponto I",
+      "Créditos": "4.0",
+      "Teórica": "15",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Não cadastrada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MUC202"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MUT431",
+      "Nome": "Historia da Musica III",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Não cadastrada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MUT332"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "6º Período": [
+     {
+      "Codigo": "MUC322",
+      "Nome": "Harmonia Superior II",
+      "Créditos": "4.0",
+      "Teórica": "15",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Não cadastrada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MUC321"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MUP322",
+      "Nome": "Piano B VI",
+      "Créditos": "4.0",
+      "Teórica": "0",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Não cadastrada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MUC302",
+      "Nome": "Harmonia e Morfologia VI",
+      "Créditos": "3.0",
+      "Teórica": "15",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Não cadastrada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MUC301"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MUC352",
+      "Nome": "Contraponto II",
+      "Créditos": "4.0",
+      "Teórica": "15",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Imitacoes. Contraponto florido a 5, 6, 7 e 8 partes. Duplo coro. Contraponto invertivel a 8a. Nocoes gerais sobre contraponto invertivel a intervalo maior que uma oitava. Nocoes gerais de contraponto triplo e quadruplo.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MUC351"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MUT432",
+      "Nome": "Historia da Musica IV",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Não cadastrada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MUT431"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "7º Período": [
+     {
+      "Codigo": "MUC461",
+      "Nome": "Fuga I",
+      "Créditos": "4.0",
+      "Teórica": "15",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Fuga academica escolar vocal. Sujeito. Resposta real. Contrasujeito. Exposicao e contra-exposicao. Desenvolvimento. Divertimento. Strett. Pedal. Exame e critica de fugas de diversos autores.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MUC352"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MUP421",
+      "Nome": "Piano B VII",
+      "Créditos": "4.0",
+      "Teórica": "0",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Não cadastrada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MUC371",
+      "Nome": "Instrument e Orquestracao I",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Não cadastrada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MUC202"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MUC541",
+      "Nome": "Estetica I",
+      "Créditos": "3.0",
+      "Teórica": "15",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Não cadastrada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MUC302"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "8º Período": [
+     {
+      "Codigo": "MUC462",
+      "Nome": "Fuga II",
+      "Créditos": "4.0",
+      "Teórica": "15",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Pratica de fuga tonal (vocal ou instrumental). fuga cromatica. A fuga na composicao polifonica.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MUC461"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MUP422",
+      "Nome": "Piano B VIII",
+      "Créditos": "4.0",
+      "Teórica": "0",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Não cadastrada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MUC372",
+      "Nome": "Instrument e Orquestracao II",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Não cadastrada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MUC371"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MUC542",
+      "Nome": "Estetica II",
+      "Créditos": "3.0",
+      "Teórica": "15",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Não cadastrada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MUC541"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "9º Período": [
+     {
+      "Codigo": "MUC471",
+      "Nome": "Instrument e Orquestracao III",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Não cadastrada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MUC372"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "10º Período": [
+     {
+      "Codigo": "MUC472",
+      "Nome": "Instrument e Orquestracao IV",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Não cadastrada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MUC471"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "11º Período": [],
+    "12º Período": []
+   },
+   "obrigatorias": 34,
+   "eletivas": 0,
+   "ano": "1980/1 a 1982/2"
+  },
+  {
+   "materias": {
+    "1º Período": [
+     {
+      "Codigo": "MUC101",
+      "Nome": "Harmonia e Morfologia I",
+      "Créditos": "3.0",
+      "Teórica": "15",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Não cadastrada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "2º Período": [
+     {
+      "Codigo": "MUC102",
+      "Nome": "Harmonia e Morfologia II",
+      "Créditos": "3.0",
+      "Teórica": "15",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Não cadastrada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MUC101"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "3º Período": [
+     {
+      "Codigo": "MUC201",
+      "Nome": "Harmonia e Morfologia III",
+      "Créditos": "3.0",
+      "Teórica": "15",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Não cadastrada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MUC102"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "4º Período": [
+     {
+      "Codigo": "MUC202",
+      "Nome": "Harmonia e Morfologia IV",
+      "Créditos": "3.0",
+      "Teórica": "15",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Não cadastrada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MUC201"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "5º Período": [
+     {
+      "Codigo": "MUC301",
+      "Nome": "Harmonia e Morfologia V",
+      "Créditos": "3.0",
+      "Teórica": "15",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Não cadastrada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MUC202"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "6º Período": [
+     {
+      "Codigo": "MUC302",
+      "Nome": "Harmonia e Morfologia VI",
+      "Créditos": "3.0",
+      "Teórica": "15",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Não cadastrada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MUC301"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "7º Período": [
+     {
+      "Codigo": "MUC541",
+      "Nome": "Estetica Musical I",
+      "Créditos": "3.0",
+      "Teórica": "15",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Não cadastrada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MUC302"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "8º Período": [
+     {
+      "Codigo": "MUC542",
+      "Nome": "Estetica Musical II",
+      "Créditos": "3.0",
+      "Teórica": "15",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Não cadastrada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MUC541"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ]
+   },
+   "obrigatorias": 8,
+   "eletivas": 0,
+   "ano": "1983/1 a 1986/2"
+  },
+  {
+   "materias": {},
+   "obrigatorias": 0,
+   "eletivas": 0,
+   "ano": "1987/1 a 1992/2"
+  },
+  {
+   "materias": {},
+   "obrigatorias": 0,
+   "eletivas": 0,
+   "ano": "1993/1 a 1997/2"
+  },
+  {
+   "materias": {
+    "1º Período": [
+     {
+      "Codigo": "MUT101",
+      "Nome": "Percepção Musical I",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "RITMO: síncope e contratempo; seus desdobramentos na música folclórica, popular urbana e erudita; quiálteras de tempo e parte de tempo, uniformes; critérios para escolha da figura quialtérica. TONALISMO: repertório a 2 vozes, modulação a tons vizinhos, acordes de 3 sons, de 7a. da sensível do modo maior e menor, cadências conclusivas, transposição. MODALISMO: introdução ao estudo.\n",
+       "BibliografiaBasica": "1) Hindemith, Paul - Treinamento Elementar para Músicos;\n2) Lussy, Mathias - Le rhytme musical;\n3) Paz, Ermelinda - 500 Canções Brasileiras;\n4) Wisnik, J.M. - O Som e o Sentido;\n5) Gramani. J. E. Rítmica;\n6) Barraud, Henry - Para compreender a música de hoje;\n7) Edlund, Lars - Modus Vetus;\n8) Schafer, Murray - O Ouvido Pensante.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MUC101",
+      "Nome": "Harmonia e Morfologia I",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Harmonia a 4 partes. As cadencias e as marchas harmonicas. Os acordes dissonantes naturais e suas resolucoes. A cifragem do baixo dado. Analise de trechos harmonizados.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MUT121",
+      "Nome": "Hist da Arte Integ à Música",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A evolução das artes visuais desde a sua origem até os nossos dias, analisada sob o ponto de vista estético, social e econômico. Correlação das artes visuais com a música e demais linguagens estéticas. Introdução às artes visuais no Brasil.\n___BIBLIOGRAFIA BÁSICA___\n1) CAVALCANTI, Carlos. História das Artes, Vol I 2a. ed Rio de Janeiro, Civilização Brasileira, 1968.\n2) CAVALCANTI, Carlos. História das Artes, Vol II 2a. ed Rio de Janeiro, Civilização Brasileira, 1970.\n3) READ, Herbert. O Sentido da Arte, 4a. ed São Paula, IBRASA, 1978.\n4) MORAIS, Frederico- Artes Plásticas. A crise da hora atual, Rio de Janeiro, Ed Paz e Terra S/A, 1975.\n5) HAUSER, Arnold. História Social da Literatura e da Arte, 2a. ed - São Paulo, Ed. Mestre Jou, 1972.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) ADORNO, Theodor W. Art Autonomy and Mass Culture; London: Phaidon, 1992.\n2) BENJAMIN, Walter. L'oeuvre d'Art À l'époque de sa reproductbilité technique; Paris: Ed. Allia, 2011.\n3) DELEUZE, Gilles. A imagem-movimento. Lisboa: Ed. Assírio e Alvim, 2009.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "2º Período": [
+     {
+      "Codigo": "MUT102",
+      "Nome": "Percepção Musical II",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "RITMO: A 1 e 2 partes; hemíola; ação combinada melodia/ritmo (2 partes); quiálteras de mais de um tempo, uniformes, sua realização através do m.m.c.; compassos alternados (cont.). TONALISMO: Polifonia a 3 vozes; ac. de 7a.; cadências suspensivas; transposição; modulação a tons vizinhos (cont).\nMODALISMO: (cont). ATONALISMO: Introdução ao estudo; intervalos melódicos; série dodecafônica.\n",
+       "BibliografiaBasica": "1) Hindemith, Paul - Treinamento Elementar para Músicos.\n2) Lussy, Mathias - Le rhytme musical.\n3) CPaz, Ermelinda - 500 Canções Brasileiras.\n4) Wisnik, J.M. O Som e o Sentido.\n5) Gramani. J. E. Rítmica.\n6) Barraud, Henry. Para compreender a música de hoje.\n7) Edlund, Lars. Modus Vetus.\n8) Edlund, Lars. Modus Novus.\n9) Schafer, Murray. O Ouvido Pensante.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MUT101"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MUC102",
+      "Nome": "Harmonia e Morfologia II",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A modulacao aos tons vizinhos. Os acordes de 7a. Dissonante artificial e suas resolucoes. Notas melodicas. As marchas modulantes. O discurso musical e seu paralelismo com o literario. As pequenas binarias e ternarias.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MUC101"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MUT331",
+      "Nome": "História da Música I",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A origem da música. A música nas sociedades ágrafas. Concepções musicais não escritas. Mostrar a música da oralidade como estruturador de um modo específico de pensar e perceber música.\n___BIBLIOGRAFIA BÁSICA___\n1) ABBIATI, Franco. História da Música - Lisboa - Ed Arcadia Ltda ,1964.\n2) LANDORMY, Paul. Histoire de la musique - Paris, Mellottée Editeur, S.D.\n3) MOREIRA DE SÁ, Bernardo Valentim. História da Evolução Musical - Porto, Casa Moreira sá, 1924.\n4) Stehman, Jacques. História da Música. São Paulo, Difusão Européia do Livro. s.d.\n5) Rich, Alain. Musc Mirror of the arts. New York, Frederich ª Praeger Publishers,1969.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) LARSEN, Arved M. (editor geral). Crossroads in music: traditions and connections. Livro e antologia musical em 4 CDs. Ed. Thomson/Schirmer, 2003.\n2) NICOLAU NETTO, Michel. ?The conditions of global discourse of diversity: music Enciclopedias, Dictionaries and Ethnomusicology?. Revista Brasileira de Música, v. 23, n. 2, p. 145-172, outubro 2010.\n3) ZAMACOIS, Joaquim. Temas de estética y de história de la música: con textos de numerosísimos autores de diferentes épocas. 3ª.ed.Barcelona : Editorial Labor, 1986.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "3º Período": [
+     {
+      "Codigo": "MUT201",
+      "Nome": "Percepção Musical III",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "RITMO: a 1 e 2 partes; quiálteras de tempo, parte de tempo e de mais de um tempo, desiguais; compassos alternados (cont). TONALISMO: modulação a tons afastados; acordes alterados; polifonia a 3 vozes; transposição. MODALISMO: inserções tonais em estruturas modais e vice-versa. ATONALISMO: continuação.\n",
+       "BibliografiaBasica": "1) BARBOSA, Cacilda Borges. Estudos de Ritmo e Som-Preparatório, 1º ano. São Paulo: Ricordi, 1987.\n2) WILLEMS, Edgar. Solfejo-Curso Elementar. São Paulo: Editora Fermata do Brasil, 1985.\n3) COPLAND, Aaron. Como ouvir e entender música. São Paulo: É realizações, 1974.\n",
+       "BibliografiaComplementar": "1) GRAMANI. J. E. Rítmica. São Paulo: Perspectiva, 2002.\n2) HINDEMITH, Paul. Treinamento Elementar para Músicos. São Paulo: Ricordi, 1975.\n3) PAZ, Ermelinda. 500 Canções Brasileiras. Brasília: MusiMed, 1989.\n4) SCHAFER, Murray. O Ouvido Pensante. São Paulo: Editora UNESP, 1992.\n5) WISNIK, J. M. O Som e o Sentido. São Paulo: Companhia das Letras, 2006.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MUT102"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MUC201",
+      "Nome": "Harmonia e Morfologia III",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Canto dado unitonico e modulante. Notas melodicas. Os retardos nos acordes de 3,4 e 5 sons. Os varios tipos imitacao. As alteracoes nao artificiais nos acordes de 3 e 4 sons. Invencoes de duas e tres vozes de j. S. Bach. A suite de forma classica e suas caracteristicas formais.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MUC102"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MUT332",
+      "Nome": "História da Música II",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A notação musical como documento histórico. A questão da precisão na notação musical\nA escrita musical e as mudanças do modo de produção musical. Concepções musicais independentes da notação precisa.\n___BIBLIOGRAFIA BÁSICA___\n1) ABBIATI, Franco. História da Música - Lisboa - Ed Arcadia Ltda,1964.\n2) LANDORMY, Paul. Histoire de la musique - Paris, Mellottée Editeur, S.D.\n3) MOREIRA DE SÁ, Bernardo Valentim. História da Evolução Musical - Porto, Casa Moreira sá, 1924.\n4) Stehman, Jacques. História da Música. São Paulo, Difusão Européia do Livro . s.d.\n5) Rich, Alain. Musc Mirror of the arts. New York, Frederich ª Praeger Publishers,1969.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) ABRAHAM, Gerald (ed.). The New Oxford History of Music. New York: Oxford University Press, 1990.\n2) GRIFFITHS, Paul. Breve história de la musica occidental. Traduccion: Jose Alberto Perez Diez. Tres Cantos, Madrid: Akal, 2009.\n3) TARUSKIN, Richard. The Oxford History of Western Music. Volume 1: Music from the Earliest Notations to the Sixteenth Century. Oxford University Press, 2005.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "4º Período": [
+     {
+      "Codigo": "MUT202",
+      "Nome": "Percepção Musical IV",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "RITMO: Divisão do tempo em 8, 12 e 16 partes; estruturas a 1, 2 e 3 partes; compassos alternados (cont.). TONALISMO: Corais a 4 vozes; transposição; politonalismo a 2 vozes. ATONALISMO: A 2 vozes.\n",
+       "BibliografiaBasica": "1) BARBOSA, Cacilda Borges. Estudos de Ritmo e Som-Preparatório, 1º ano. São Paulo: Ricordi, 1987.\n2) WILLEMS, Edgar. Solfejo-Curso Elementar. São Paulo: Editora Fermata do Brasil, 1985.\n3) COPLAND, Aaron. Como ouvir e entender música. São Paulo: É realizações, 1974.\n",
+       "BibliografiaComplementar": "1) GRAMANI. J. E. Rítmica. São Paulo: Perspectiva, 2002.\n2) HINDEMITH, Paul. Treinamento Elementar para Músicos. São Paulo: Ricordi, 1975.\n3) PAZ, Ermelinda. 500 Canções Brasileiras. Brasília: MusiMed, 1989.\n4) SCHAFER, Murray. O Ouvido Pensante. São Paulo: Editora UNESP, 1992.\n5) WISNIK, J. M. O Som e o Sentido. São Paulo: Companhia das Letras, 2006.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MUT201"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MUC202",
+      "Nome": "Harmonia e Morfologia IV",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Alteracoes artificiais nos acordes de 3,4 e 5 sons. A modulacao a tons afastados e seus diversos tipos. O pedal e seus tipos. Analise dos preludios e fugas de j. S. Bach.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MUC201"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MUT431",
+      "Nome": "História da Música III",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A socialização da música e do conhecimento musical a partir da imprensa. A consolidação da divisão social do trabalho musical. A música como mercadoria.\n___BIBLIOGRAFIA BÁSICA___\n1) CHAILLEY, Jacques-Cours d`Histoire da la Musique-2 tomos- Paris, Alphonse Leduce, Editeur, s.d.\n2) COLLAER, Paul/ Van der Linden, Albert-Atlas Historique de la Musique-Paris, Elsevier, 1960.\n3) ROBERTSON, Alec/Stevens Denis. História da Música ? Pelicano? 3 volumes- Lisboa, ED. Ulisséia LTDA, s.d.\n4) PAHLEN, Curt História Universal da Música-São Paulo, Edições Melhoramentos, s.d.\n5) SACHS, Curt The Commonnealth of Art, Style in the Fine Arts, Music and the Dand New York, W. W. Norton, 1946.\n6) BERNARD, Robert-Histoire de La Musique. 5 volumes. Paris, Fernand Nathan, Editeur.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) ABRAHAM, Gerald (ed.).The New Oxford History of Music. New York : Oxford University Press, 1990.\n2) GRIFFITHS, Paul. Breve história de la musica occidental. Traduccion: Jose Alberto Perez Diez. Tres Cantos, Madrid: Akal, 2009.\n3) TARUSKIN, Richard. The Oxford History of Western Music. Volume 1: Music from the Earliest Notations to the Sixteenth Century. Oxford University Press, 2005.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "5º Período": [
+     {
+      "Codigo": "MUT432",
+      "Nome": "História da Música IV",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A música como produto industrial. Novas concepções sonoras. Modificação e ampliação da concepção de espaço sonoro e tempo musical.\n___BIBLIOGRAFIA BÁSICA___\n1) Histoire de La Musique- 2 Volumes. Encyclopédia de la Pleiade. Paris, Gallimard, 1960.\n2) The New Oxford History of Music. 10 volumes, London, Oxford University Press, 1957.\n3) BARRAND, Henry- Pour comprendre les musiques d`aujourd` hui-Paris, Editions du Seuil, 1968.\n4) ALMEIDA, Renato- História da Música Brasileira- 2ª Edição Rio, F. Briquiet, 1942.\n5) AZEVEDO, Luiz Heitor C. de . 150 Anos de Música no Brasil- Rio, José Olynpio Editora 1956.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) ABRAHAM, Gerald (ed.).The New Oxford History of Music. New York : Oxford University Press, 1990.\n2) GRIFFITHS, Paul. Breve história de la musica occidental. Traduccion: Jose Alberto Perez Diez. Tres Cantos, Madrid: Akal, 2009.\n3) TARUSKIN, Richard. The Oxford History of Western Music. Volume 1: Music from the Earliest Notations to the Sixteenth Century. Oxford University Press, 2005.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MUC301",
+      "Nome": "Harmonia e Morfologia V",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O \"canto e baixo, alternados\". a variacao. Organizacao formal dos instrumentos da sonata classica. Harmonia instrumental. Introducao a sonata de haydn e mozart.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MUC202"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "6º Período": [
+     {
+      "Codigo": "MUC302",
+      "Nome": "Harmonia e Morfologia VI",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A harmonia instrumental. A orquestra, os valores esteticos da expressao instrumental. Organizacao formal dos movimentos da sonata classica. Sonata de beethoven. A sonata ciclica.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MUC301"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "7º Período": [
+     {
+      "Codigo": "MUC541",
+      "Nome": "Estetica Musical I",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Principais correntes estetico-musicais. Caracteristicas esteticas do barroco, do classicismo, do romantismo, do expressionismo. O plano formal do concerto, da sinfonia e da abertura.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MUC302"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "8º Período": [
+     {
+      "Codigo": "MUC542",
+      "Nome": "Estética Musical II",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "As caracteristicas esteticas da musica intermediaria e da musica dramatica. A musica brasileira - analise de obras. As musicas concretas, eletronicas, aleatorias e outras concepcoes esteticas da musica atual.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MUC541"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "Disciplinas Optativas (Escolha Condicionada)": [
+     {
+      "Codigo": "FCF654",
+      "Nome": "Hist da Filos no Brasil I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A filosofia brasileira como problema: origens e perspectivas. Causas imanentes à cultura nacional: o fator indígena e o fator africano.\n",
+       "BibliografiaBasica": "1) BERNARDES, Célia R. O. Racismo de Estado. Ed. Jurúa, 2013;\n2) BRITO, Raimundo de Farias. O mundo interior. Org. e estudo introdutório de L. A. Cerqueira. Lisboa: INCM, 2003;\n3) CERQUEIRA, Luiz Alberto. Natureza e cultura: a idéia de origem da filosofia brasileira. Lisboa: Universidade Nova de Lisboa, 1997;\n4) GUIMARÃES, Aquiles Côrtes. O tema da consciência na filosofia brasileira. São Paulo: Convívio, 1982;\n5) REALE, Miguel. Estudos de filosofia brasileira. Lisboa: Instituto de filosofia luso-brasileira, 1994;\n6) CERQUEIRA, Luiz Alberto. Filosofia brasileira ? Ontogênese da consciência de si. Petrópolis: Vozes, 2002;\n7) CERQUEIRA, Luiz Alberto (org.). Aristotelismo Antiaristotelismo Ensino de Filosofia. Rio de Janeiro: Ágora da Ilha, 1999;\n8) DESCARTES, René. Meditações Metafísicas. São Paulo: Martins Fontes, 2005;\n9) MAGALHÃES, D. J. Gonçalves de. Fatos do espírito humano. Org. e estudo introdutório de L. A. Cerqueira. Petrópolis: Vozes, 2004;\n10) VIVEIROS DE CASTRO, E. A inconstância da alma selvagem. São Paulo: Cosac & Naif, 2002.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MUA001",
+      "Nome": "Instrum B- Cavaquinho B I",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Posicionamento do instrumento e palheta. Colocação das mãos, conhecimento do braço do instrumento e reconhecimento das notas através de escalas e arpejos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MUA003",
+      "Nome": "Instrum B- Cavaquinho B III",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Escalas e arpejos em diferentes articulações. Formação e encadeamento dos acordes. Execução de melodias e estudos simples.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MUA002"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MUA005",
+      "Nome": "Instrumento B- Cavaquinho B V",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Escalas e arpejos e acordes. Diferentes tipos de palhetadas. Acompanhamento e execução de melodias, estudos e obras de dificuldade média.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MUA004"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MUC415",
+      "Nome": "Harmonia Func e Improvis III",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Modulacao/\"Turn Around\"/A forma Blues\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MUC412"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MUP153",
+      "Nome": "Seminario Haydn: as sonatas",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Joseph Haydn - sonatas para piano; do barroco ao classico: linguagem e arte retorica, movimento estilistico e historia do teclado; execucao das obras abordadas; aproximacao das intervencoes historico-teoricas a pratica interpretativa.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MUP162",
+      "Nome": "Cravo B II",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Aplicacao dos conceitos basicos de articulacao; distincao entre o legato e o separado; excucao de um movimento de danca; introducao a tecnica do legato. Introducao aos dedilhados antigos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MUP161"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MUP164",
+      "Nome": "Cravo B IV",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Sedimentacao dos conceitos basicos de articulacao na execucao de um movimento de danca e em obra polifonica a duas vozes; interpretacao de de suites e preludios. dedilhados antigos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MUP163"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MUP166",
+      "Nome": "Cravo B VI",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Interpretacao da musica livre (toccatas, fantasias); execucao polifonica a tres vozes; tecnica virtuosistica. Execucao de variacao.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MUP165"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MUP168",
+      "Nome": "Cravo B VIII",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Interpretacao de preludio non mesure; execucao polifonica a tres vozes; tecnica virtuosistica. Dominio dos tres estilos basicos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MUP167"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF289",
+      "Nome": "Seminário de Ética",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo e discussão de um ou mais tópicos filosóficos representativos da ética. Educação ambiental, ética ambiental, sustentabilidade e relações étnico-raciais.\n",
+       "BibliografiaBasica": "1) ARISTÓTELES, Ética a Nicômacos. Brasília: Ed. UNB, (Ed. M.G.Kury), 1999 (1985);\n2) KANT, I. Metafísica dos Costumes, São Paulo: Edipro, 1993;\n3) ROUSSEAU, J. Discurso Sobre a Origem e os Fundamentos da Desigualdade Entre os Homens, São Paulo, Martins Fontes, 1999. (Seleção);\n4) HUME, D. Tratado da Natureza Humana, São Paulo, UNESP, 2000. (Seleção);\n5) KANT, I. Crítica da Razão Prática, ed. A. Mourão, Lisboa: Edições 70, 1986;\n6) SPINOZA, Ética. Belo Horizonte: Autêntica, 2007;\n7) HABERMAS, J. Acerca da legitimação com base nos Direitos Humanos, em Habermas, J. A. Constelação Pós-Nacional. Ensaios políticos, São Paulo, Littera Mundi, 2001, p. 143-163;\n8) MARX, K. Para a Crítica da Economia Política. São Paulo: Nova Cultural, 1996. (Col. Os Pensadores);\n9) HABERMAS, J. Direito e Democracia entre Facticidade e Validade (Rio de Janeiro: Tempo Brasileiro, Vol I);\n10) BOBBIO, N. A era dos direitos. Rio de Janeiro, Elsevier, 2004. (Primeira Parte);\n11) DWORKIN, R. Levando os Direitos a Serio, São Paulo, Martins Fontes, 2002, Cap. 6;\n12) HART, H. Direito, liberdade, moralidade. Portos Alegre: Sergio Antonio Fabris, 1987;\n13)  HART, H. Virtude Soberana. São Paulo: Martins Fontes;\n14) KANT, I. Metafísica dos Costumes, São Paulo: Edipro, 1993;\n15) LOCKE, J. Segundo Tratado do Governo. (Seleção);\n16) SINGER, Peter. Ética Prática. São Paulo: Martins Fontes, 1994.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF655",
+      "Nome": "Hist da Filos no Brasil II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A modernização como problema filosófico. A ideia de uma civilização brasileira inter-racial autossustentável.\n",
+       "BibliografiaBasica": "1) BARRETO, Tobias. Estudos de filosofia. Org., introd. e notas de Paulo Mercadante e Antonio Paim. Rio de janeiro: INL/Record, 1990;\n2) CERQUEIRA, Luiz Alberto. Filosofia brasileira ? Ontogênese da consciência de si. Petrópolis: Vozes, 2002;\n3) KANT, I. Crítica da razão pura, Prefácio à segunda edição. Lisboa: Calouste Gulbenkian, 1985;\n4) STURM, Fred Gillette. O Significado Atual do Pensamento Britiano. Anais do IV Congresso Nacional de Filosofia. São Paulo-Fortaleza: IBF, 1962;\n5) BRITO, Raimundo de Farias. O mundo interior. Org. e estudo introdutório de L. A. Cerqueira. Lisboa: INCM, 2003;\n6) MAGALHÃES, D. J. Gonçalves de. Fatos do espírito humano. Rio de Janeiro: Garnier, 1858;\n7) CERQUEIRA, Luiz Alberto. Natureza e cultura: a idéia de origem da filosofia brasileira. Lisboa: Universidade Nova de Lisboa, 1997 (mimeo);\n8) REALE, Miguel. Estudos de filosofia brasileira. Lisboa: Instituto de Filosofia Luso-Brasileira, 1994;\n9) NOGUERA, Renato. O Ensino de Filosofia e a Lei nº 10.639. Rio de Janeiro: Editora Ceap, 2011.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MUA002",
+      "Nome": "Instrum B- Cavaquinho B II",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Escalas e arpejos. Diferentes tipos de palhetadas simples. Afinação e encordoamento do instrumento. Execução de melodias e estudos simples.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MUA001"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MUA004",
+      "Nome": "Instrumento B- Cavaquinho B IV",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Escalas e arpejos em diferentes articulações. Noções de acompanhamento. Diferentes dedilhados e palhetadas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MUA003"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MUA006",
+      "Nome": "Instrumento B- Cavaquinho B VI",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Escalas e arpejos e acordes. Acompanhamento e execução de melodias, estudos e obras de dificuldade avançada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MUA005"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MUC416",
+      "Nome": "Harmonia Func e Improvis IV",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A linguagem instrumental jazzistica contemporanea\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MUC415"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MUP161",
+      "Nome": "Cravo B I",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O cravo e suas caracteristicas; adaptacao individual ao instrumento; tecnica dos cinco dedos; toque, sonoridade e articulacao; preparacao para excucao de musica de danca.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MUP163",
+      "Nome": "Cravo B III",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Aplicacao dos conceitos basicos de articulacao; execucao de um movimento de danca e obra polifonica a duas vozes; suites e preludios; desenvolvimento do legato. dedilhados antigos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MUP162"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MUP165",
+      "Nome": "Cravo B V",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Interpretacao da musica livre (toccatas, fantasias); execucao polifonica a tres vozes; tecnica virtuosistica.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MUP164"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MUP167",
+      "Nome": "Cravo B VII",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Interpretacao de preludio non mesure; execucao polifonica a tres vozes; tecnica virtuosistica. Dominio dos tres estilos basicos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MUP166"
+      ],
+      "Tipo": "eletiva"
+     }
+    ]
+   },
+   "obrigatorias": 17,
+   "eletivas": 20,
+   "ano": "1998/1 a 2004/1"
+  },
+  {
+   "materias": {
+    "1º Período": [
+     {
+      "Codigo": "MUT101",
+      "Nome": "Percepção Musical I",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "RITMO: síncope e contratempo; seus desdobramentos na música folclórica, popular urbana e erudita; quiálteras de tempo e parte de tempo, uniformes; critérios para escolha da figura quialtérica. TONALISMO: repertório a 2 vozes, modulação a tons vizinhos, acordes de 3 sons, de 7a. da sensível do modo maior e menor, cadências conclusivas, transposição. MODALISMO: introdução ao estudo.\n",
+       "BibliografiaBasica": "1) Hindemith, Paul - Treinamento Elementar para Músicos;\n2) Lussy, Mathias - Le rhytme musical;\n3) Paz, Ermelinda - 500 Canções Brasileiras;\n4) Wisnik, J.M. - O Som e o Sentido;\n5) Gramani. J. E. Rítmica;\n6) Barraud, Henry - Para compreender a música de hoje;\n7) Edlund, Lars - Modus Vetus;\n8) Schafer, Murray - O Ouvido Pensante.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MUC151",
+      "Nome": "Harmonia Vocal- Instrument I",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Princípios de condução vocal, condução harmônica (modo maior e menor), funções tonais, acordes de 3 sons e inversões, notas melódicas e modulação.\n___BIBLIOGRAFIA BÁSICA___\n1) HINDEMIT. Harmonia Tradicional.\n2) PERSICHETTI. Armonia dei Sigla XX. Madrid: Real Musical, 1985.\n3) PISTON. Harmony. New York: W. W. Norton & Company, 1987.\n4) RAMEAU - Traité de L'Harmonie reduite à ses principes naturels.\n5) SCHOENBERG. Harmonia. Madrid: Real Musical, 1974.\n6) ZAMACOIST. ratado de Armonía 1, li e Ili. Barcelona: Editorial Labor, 1984.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "2º Período": [
+     {
+      "Codigo": "MUT102",
+      "Nome": "Percepção Musical II",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "RITMO: A 1 e 2 partes; hemíola; ação combinada melodia/ritmo (2 partes); quiálteras de mais de um tempo, uniformes, sua realização através do m.m.c.; compassos alternados (cont.). TONALISMO: Polifonia a 3 vozes; ac. de 7a.; cadências suspensivas; transposição; modulação a tons vizinhos (cont).\nMODALISMO: (cont). ATONALISMO: Introdução ao estudo; intervalos melódicos; série dodecafônica.\n",
+       "BibliografiaBasica": "1) Hindemith, Paul - Treinamento Elementar para Músicos.\n2) Lussy, Mathias - Le rhytme musical.\n3) CPaz, Ermelinda - 500 Canções Brasileiras.\n4) Wisnik, J.M. O Som e o Sentido.\n5) Gramani. J. E. Rítmica.\n6) Barraud, Henry. Para compreender a música de hoje.\n7) Edlund, Lars. Modus Vetus.\n8) Edlund, Lars. Modus Novus.\n9) Schafer, Murray. O Ouvido Pensante.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MUT101"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MUC152",
+      "Nome": "Harmonia Vocal- Instrument II",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Harmonização melódica, cadências, acordes de-/, resoluções excepcionais, sequências, acordes de 9ª, 11ª, 13ª e acordes alterados.\n___BIBLIOGRAFIA BÁSICA___\n1) HINDEMITH. Armonia Tradicional.\n2) PERSICHETTI. Armonia dei Sigla XX. Madrid: Real Musical, 1985.\n3) PISTON. Harmony. New York: W. W. Norton & Company, 1987.\n4) RAMEAU - Traité de L'Harmonie reduite à ses principes naturels.\n5) SCHOENBERG. Armonia. Madrid: Real Musical, 1974.\n6) ZAMACOIS. Tratado de Armonía 1, li e Ili. Barcelona: Editorial Labor, 1984.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MUC151"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MUT331",
+      "Nome": "História da Música I",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A origem da música. A música nas sociedades ágrafas. Concepções musicais não escritas. Mostrar a música da oralidade como estruturador de um modo específico de pensar e perceber música.\n___BIBLIOGRAFIA BÁSICA___\n1) ABBIATI, Franco. História da Música - Lisboa - Ed Arcadia Ltda ,1964.\n2) LANDORMY, Paul. Histoire de la musique - Paris, Mellottée Editeur, S.D.\n3) MOREIRA DE SÁ, Bernardo Valentim. História da Evolução Musical - Porto, Casa Moreira sá, 1924.\n4) Stehman, Jacques. História da Música. São Paulo, Difusão Européia do Livro. s.d.\n5) Rich, Alain. Musc Mirror of the arts. New York, Frederich ª Praeger Publishers,1969.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) LARSEN, Arved M. (editor geral). Crossroads in music: traditions and connections. Livro e antologia musical em 4 CDs. Ed. Thomson/Schirmer, 2003.\n2) NICOLAU NETTO, Michel. ?The conditions of global discourse of diversity: music Enciclopedias, Dictionaries and Ethnomusicology?. Revista Brasileira de Música, v. 23, n. 2, p. 145-172, outubro 2010.\n3) ZAMACOIS, Joaquim. Temas de estética y de história de la música: con textos de numerosísimos autores de diferentes épocas. 3ª.ed.Barcelona : Editorial Labor, 1986.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "3º Período": [
+     {
+      "Codigo": "MUT332",
+      "Nome": "História da Música II",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A notação musical como documento histórico. A questão da precisão na notação musical\nA escrita musical e as mudanças do modo de produção musical. Concepções musicais independentes da notação precisa.\n___BIBLIOGRAFIA BÁSICA___\n1) ABBIATI, Franco. História da Música - Lisboa - Ed Arcadia Ltda,1964.\n2) LANDORMY, Paul. Histoire de la musique - Paris, Mellottée Editeur, S.D.\n3) MOREIRA DE SÁ, Bernardo Valentim. História da Evolução Musical - Porto, Casa Moreira sá, 1924.\n4) Stehman, Jacques. História da Música. São Paulo, Difusão Européia do Livro . s.d.\n5) Rich, Alain. Musc Mirror of the arts. New York, Frederich ª Praeger Publishers,1969.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) ABRAHAM, Gerald (ed.). The New Oxford History of Music. New York: Oxford University Press, 1990.\n2) GRIFFITHS, Paul. Breve história de la musica occidental. Traduccion: Jose Alberto Perez Diez. Tres Cantos, Madrid: Akal, 2009.\n3) TARUSKIN, Richard. The Oxford History of Western Music. Volume 1: Music from the Earliest Notations to the Sixteenth Century. Oxford University Press, 2005.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MUC251",
+      "Nome": "Harmonia Vocal- Instrument III",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Extensão da prática comum. Escalas modais e de outras origens. Politonalidade. Construção acordai (acordes de quartas, de quintas). Extensão do cromatismo\n(atonalismo).\n___BIBLIOGRAFIA BÁSICA___\n1) HINDEMITH. Armonia Tradicional.\n2) PERSICHETTI. Armonia dei Sigla XX. Madrid: Real Musical, 1985.\n3) PISTON. Harmony. New York: W. W. Norton & Company, 1987.\n4) SCHOENBERG. Armonia. Madrid: Real Musical, 1974.\n5) ZAMACOIS Tratado de Armonía 1, li e Ili. Barcelona: Editorial Labor, 1984.\n6) KOECHLIN. Traité de L'Harmonie, 1927.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MUC152"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "4º Período": [
+     {
+      "Codigo": "MUT431",
+      "Nome": "História da Música III",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A socialização da música e do conhecimento musical a partir da imprensa. A consolidação da divisão social do trabalho musical. A música como mercadoria.\n___BIBLIOGRAFIA BÁSICA___\n1) CHAILLEY, Jacques-Cours d`Histoire da la Musique-2 tomos- Paris, Alphonse Leduce, Editeur, s.d.\n2) COLLAER, Paul/ Van der Linden, Albert-Atlas Historique de la Musique-Paris, Elsevier, 1960.\n3) ROBERTSON, Alec/Stevens Denis. História da Música ? Pelicano? 3 volumes- Lisboa, ED. Ulisséia LTDA, s.d.\n4) PAHLEN, Curt História Universal da Música-São Paulo, Edições Melhoramentos, s.d.\n5) SACHS, Curt The Commonnealth of Art, Style in the Fine Arts, Music and the Dand New York, W. W. Norton, 1946.\n6) BERNARD, Robert-Histoire de La Musique. 5 volumes. Paris, Fernand Nathan, Editeur.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) ABRAHAM, Gerald (ed.).The New Oxford History of Music. New York : Oxford University Press, 1990.\n2) GRIFFITHS, Paul. Breve história de la musica occidental. Traduccion: Jose Alberto Perez Diez. Tres Cantos, Madrid: Akal, 2009.\n3) TARUSKIN, Richard. The Oxford History of Western Music. Volume 1: Music from the Earliest Notations to the Sixteenth Century. Oxford University Press, 2005.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "5º Período": [
+     {
+      "Codigo": "MUT432",
+      "Nome": "História da Música IV",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A música como produto industrial. Novas concepções sonoras. Modificação e ampliação da concepção de espaço sonoro e tempo musical.\n___BIBLIOGRAFIA BÁSICA___\n1) Histoire de La Musique- 2 Volumes. Encyclopédia de la Pleiade. Paris, Gallimard, 1960.\n2) The New Oxford History of Music. 10 volumes, London, Oxford University Press, 1957.\n3) BARRAND, Henry- Pour comprendre les musiques d`aujourd` hui-Paris, Editions du Seuil, 1968.\n4) ALMEIDA, Renato- História da Música Brasileira- 2ª Edição Rio, F. Briquiet, 1942.\n5) AZEVEDO, Luiz Heitor C. de . 150 Anos de Música no Brasil- Rio, José Olynpio Editora 1956.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) ABRAHAM, Gerald (ed.).The New Oxford History of Music. New York : Oxford University Press, 1990.\n2) GRIFFITHS, Paul. Breve história de la musica occidental. Traduccion: Jose Alberto Perez Diez. Tres Cantos, Madrid: Akal, 2009.\n3) TARUSKIN, Richard. The Oxford History of Western Music. Volume 1: Music from the Earliest Notations to the Sixteenth Century. Oxford University Press, 2005.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ]
+   },
+   "obrigatorias": 9,
+   "eletivas": 0,
+   "ano": "2004/2 a 2008/2"
+  },
+  {
+   "materias": {
+    "1º Período": [
+     {
+      "Codigo": "MUT101",
+      "Nome": "Percepção Musical I",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "RITMO: síncope e contratempo; seus desdobramentos na música folclórica, popular urbana e erudita; quiálteras de tempo e parte de tempo, uniformes; critérios para escolha da figura quialtérica. TONALISMO: repertório a 2 vozes, modulação a tons vizinhos, acordes de 3 sons, de 7a. da sensível do modo maior e menor, cadências conclusivas, transposição. MODALISMO: introdução ao estudo.\n",
+       "BibliografiaBasica": "1) Hindemith, Paul - Treinamento Elementar para Músicos;\n2) Lussy, Mathias - Le rhytme musical;\n3) Paz, Ermelinda - 500 Canções Brasileiras;\n4) Wisnik, J.M. - O Som e o Sentido;\n5) Gramani. J. E. Rítmica;\n6) Barraud, Henry - Para compreender a música de hoje;\n7) Edlund, Lars - Modus Vetus;\n8) Schafer, Murray - O Ouvido Pensante.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "2º Período": [
+     {
+      "Codigo": "MUT102",
+      "Nome": "Percepção Musical II",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "RITMO: A 1 e 2 partes; hemíola; ação combinada melodia/ritmo (2 partes); quiálteras de mais de um tempo, uniformes, sua realização através do m.m.c.; compassos alternados (cont.). TONALISMO: Polifonia a 3 vozes; ac. de 7a.; cadências suspensivas; transposição; modulação a tons vizinhos (cont).\nMODALISMO: (cont). ATONALISMO: Introdução ao estudo; intervalos melódicos; série dodecafônica.\n",
+       "BibliografiaBasica": "1) Hindemith, Paul - Treinamento Elementar para Músicos.\n2) Lussy, Mathias - Le rhytme musical.\n3) CPaz, Ermelinda - 500 Canções Brasileiras.\n4) Wisnik, J.M. O Som e o Sentido.\n5) Gramani. J. E. Rítmica.\n6) Barraud, Henry. Para compreender a música de hoje.\n7) Edlund, Lars. Modus Vetus.\n8) Edlund, Lars. Modus Novus.\n9) Schafer, Murray. O Ouvido Pensante.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MUT101"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "3º Período": [],
+    "4º Período": [],
+    "8º Período": [],
+    "Disciplinas Optativas (Escolha Restrita)": [
+     {
+      "Codigo": "MUT331",
+      "Nome": "História da Música I",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A origem da música. A música nas sociedades ágrafas. Concepções musicais não escritas. Mostrar a música da oralidade como estruturador de um modo específico de pensar e perceber música.\n___BIBLIOGRAFIA BÁSICA___\n1) ABBIATI, Franco. História da Música - Lisboa - Ed Arcadia Ltda ,1964.\n2) LANDORMY, Paul. Histoire de la musique - Paris, Mellottée Editeur, S.D.\n3) MOREIRA DE SÁ, Bernardo Valentim. História da Evolução Musical - Porto, Casa Moreira sá, 1924.\n4) Stehman, Jacques. História da Música. São Paulo, Difusão Européia do Livro. s.d.\n5) Rich, Alain. Musc Mirror of the arts. New York, Frederich ª Praeger Publishers,1969.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) LARSEN, Arved M. (editor geral). Crossroads in music: traditions and connections. Livro e antologia musical em 4 CDs. Ed. Thomson/Schirmer, 2003.\n2) NICOLAU NETTO, Michel. ?The conditions of global discourse of diversity: music Enciclopedias, Dictionaries and Ethnomusicology?. Revista Brasileira de Música, v. 23, n. 2, p. 145-172, outubro 2010.\n3) ZAMACOIS, Joaquim. Temas de estética y de história de la música: con textos de numerosísimos autores de diferentes épocas. 3ª.ed.Barcelona : Editorial Labor, 1986.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MUT431",
+      "Nome": "História da Música III",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A socialização da música e do conhecimento musical a partir da imprensa. A consolidação da divisão social do trabalho musical. A música como mercadoria.\n___BIBLIOGRAFIA BÁSICA___\n1) CHAILLEY, Jacques-Cours d`Histoire da la Musique-2 tomos- Paris, Alphonse Leduce, Editeur, s.d.\n2) COLLAER, Paul/ Van der Linden, Albert-Atlas Historique de la Musique-Paris, Elsevier, 1960.\n3) ROBERTSON, Alec/Stevens Denis. História da Música ? Pelicano? 3 volumes- Lisboa, ED. Ulisséia LTDA, s.d.\n4) PAHLEN, Curt História Universal da Música-São Paulo, Edições Melhoramentos, s.d.\n5) SACHS, Curt The Commonnealth of Art, Style in the Fine Arts, Music and the Dand New York, W. W. Norton, 1946.\n6) BERNARD, Robert-Histoire de La Musique. 5 volumes. Paris, Fernand Nathan, Editeur.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) ABRAHAM, Gerald (ed.).The New Oxford History of Music. New York : Oxford University Press, 1990.\n2) GRIFFITHS, Paul. Breve história de la musica occidental. Traduccion: Jose Alberto Perez Diez. Tres Cantos, Madrid: Akal, 2009.\n3) TARUSKIN, Richard. The Oxford History of Western Music. Volume 1: Music from the Earliest Notations to the Sixteenth Century. Oxford University Press, 2005.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MUT511",
+      "Nome": "Música Brasileira I",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Visão sincrônica e diacrônica da Música Brasileira desde sua origem até o advento do nacionalismo musical. Apreciação crítica da literatura musical deste período.\n___BIBLIOGRAFIA BÁSICA___\n1) ALMEIDA, Renato. Compendio de História da Música Brasileira, Rio de Janeiro, F. Briguiete Ed.\n2) KIEFER, Bruno. História da Música Brasileira Brasileira, Ed. Movimento - Porto Alegre - 1976.\n3) HEITOR, Luiz. 150 anos de Música no Brasil - R.J. Liv. José Olynpio Ed. 1956.\n4) TINHORÃO, J. Ramos. Pequena História da Música Popular - da modinha a canção de protesto. Petrópolis , Ed. Vozes - 1974.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) Brasiliana ? Revista da Academia Brasileira de Música.\n2) Latin American Music Review ? Universidade do Texas-Austin (Portal CAPES).\n3) Revista Brasileira de Música (UFRJ). Disponível em http://www.musica.ufrj.br/posgraduacao/rbm/.\n4) Revista Música (USP). Disponível em http://www.usp.br/poseca/index.php/musica\n5) MARCONDES, Marcos (ed.) Enciclopédia da Música Brasileira: erudita, folclórica e popular. 3a. ed. Art Editora / PubliFolha, 2000.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MUT531",
+      "Nome": "Música Brasileira III",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Música brasileira sob perspectiva histórica, abrangendo aspectos sociais, antropológicos, estéticos e estilísticos. Século XX e XXI, a partir da década de 1920, suas questões historiográficas e estudo de repertório das diversas concepções e tradições musicais vigentes à época.\n___BIBLIOGRAFIA BÁSICA___\n1) AZEVEDO, Luis Heitor Correia de. 150 anos de música no Brasil; 1800-1950. Rio de Janeiro: Livraria José Olympio Editora, 1956.\n2) FREIRE, Vanda Lima Bellard. O Mundo Maravilhoso das Mágicas. Rio de Janeiro: Contra Capa, 2011.\n3) MAGALDI, Cristina. Music in Imperial Rio de Janeiro: European Culture in a Tropical Milieu. Scarecrow Press, 2004.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) Brasiliana ? Revista da Academia Brasileira de Música;\n2) Latin American Music Review ? Universidade do Texas-Austin (Portal CAPES);\n3) Revista Brasileira de Música (UFRJ). Disponível em http://www.musica.ufrj.br/posgraduacao/rbm/\n4) Revista Música (USP). Disponível em http://www.usp.br/poseca/index.php/musica\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MUT121",
+      "Nome": "Hist da Arte Integ à Música",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A evolução das artes visuais desde a sua origem até os nossos dias, analisada sob o ponto de vista estético, social e econômico. Correlação das artes visuais com a música e demais linguagens estéticas. Introdução às artes visuais no Brasil.\n___BIBLIOGRAFIA BÁSICA___\n1) CAVALCANTI, Carlos. História das Artes, Vol I 2a. ed Rio de Janeiro, Civilização Brasileira, 1968.\n2) CAVALCANTI, Carlos. História das Artes, Vol II 2a. ed Rio de Janeiro, Civilização Brasileira, 1970.\n3) READ, Herbert. O Sentido da Arte, 4a. ed São Paula, IBRASA, 1978.\n4) MORAIS, Frederico- Artes Plásticas. A crise da hora atual, Rio de Janeiro, Ed Paz e Terra S/A, 1975.\n5) HAUSER, Arnold. História Social da Literatura e da Arte, 2a. ed - São Paulo, Ed. Mestre Jou, 1972.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) ADORNO, Theodor W. Art Autonomy and Mass Culture; London: Phaidon, 1992.\n2) BENJAMIN, Walter. L'oeuvre d'Art À l'époque de sa reproductbilité technique; Paris: Ed. Allia, 2011.\n3) DELEUZE, Gilles. A imagem-movimento. Lisboa: Ed. Assírio e Alvim, 2009.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MUT332",
+      "Nome": "História da Música II",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A notação musical como documento histórico. A questão da precisão na notação musical\nA escrita musical e as mudanças do modo de produção musical. Concepções musicais independentes da notação precisa.\n___BIBLIOGRAFIA BÁSICA___\n1) ABBIATI, Franco. História da Música - Lisboa - Ed Arcadia Ltda,1964.\n2) LANDORMY, Paul. Histoire de la musique - Paris, Mellottée Editeur, S.D.\n3) MOREIRA DE SÁ, Bernardo Valentim. História da Evolução Musical - Porto, Casa Moreira sá, 1924.\n4) Stehman, Jacques. História da Música. São Paulo, Difusão Européia do Livro . s.d.\n5) Rich, Alain. Musc Mirror of the arts. New York, Frederich ª Praeger Publishers,1969.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) ABRAHAM, Gerald (ed.). The New Oxford History of Music. New York: Oxford University Press, 1990.\n2) GRIFFITHS, Paul. Breve história de la musica occidental. Traduccion: Jose Alberto Perez Diez. Tres Cantos, Madrid: Akal, 2009.\n3) TARUSKIN, Richard. The Oxford History of Western Music. Volume 1: Music from the Earliest Notations to the Sixteenth Century. Oxford University Press, 2005.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MUT432",
+      "Nome": "História da Música IV",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A música como produto industrial. Novas concepções sonoras. Modificação e ampliação da concepção de espaço sonoro e tempo musical.\n___BIBLIOGRAFIA BÁSICA___\n1) Histoire de La Musique- 2 Volumes. Encyclopédia de la Pleiade. Paris, Gallimard, 1960.\n2) The New Oxford History of Music. 10 volumes, London, Oxford University Press, 1957.\n3) BARRAND, Henry- Pour comprendre les musiques d`aujourd` hui-Paris, Editions du Seuil, 1968.\n4) ALMEIDA, Renato- História da Música Brasileira- 2ª Edição Rio, F. Briquiet, 1942.\n5) AZEVEDO, Luiz Heitor C. de . 150 Anos de Música no Brasil- Rio, José Olynpio Editora 1956.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) ABRAHAM, Gerald (ed.).The New Oxford History of Music. New York : Oxford University Press, 1990.\n2) GRIFFITHS, Paul. Breve história de la musica occidental. Traduccion: Jose Alberto Perez Diez. Tres Cantos, Madrid: Akal, 2009.\n3) TARUSKIN, Richard. The Oxford History of Western Music. Volume 1: Music from the Earliest Notations to the Sixteenth Century. Oxford University Press, 2005.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MUT521",
+      "Nome": "Musica Brasileira II",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo da música brasileira em seus diversos contextos históricos, sociológicos, antropológicos, teóricos e estético-estilísticos, compreendendo o Século XX, nas diversas conceitualizações de tradição escrita e oral, erudita e popular, bem como as questões de identidade nacional e vanguarda e estudo de repertório. Apreciação crítica da literatura musical deste período. Correlação da evolução da música brasileira com as transformações sociais contemporâneas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MUT511"
+      ],
+      "Tipo": "eletiva"
+     }
+    ],
+    "Disciplinas Optativas (Escolha Condicionada)": [
+     {
+      "Codigo": "FCF654",
+      "Nome": "Hist da Filos no Brasil I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A filosofia brasileira como problema: origens e perspectivas. Causas imanentes à cultura nacional: o fator indígena e o fator africano.\n",
+       "BibliografiaBasica": "1) BERNARDES, Célia R. O. Racismo de Estado. Ed. Jurúa, 2013;\n2) BRITO, Raimundo de Farias. O mundo interior. Org. e estudo introdutório de L. A. Cerqueira. Lisboa: INCM, 2003;\n3) CERQUEIRA, Luiz Alberto. Natureza e cultura: a idéia de origem da filosofia brasileira. Lisboa: Universidade Nova de Lisboa, 1997;\n4) GUIMARÃES, Aquiles Côrtes. O tema da consciência na filosofia brasileira. São Paulo: Convívio, 1982;\n5) REALE, Miguel. Estudos de filosofia brasileira. Lisboa: Instituto de filosofia luso-brasileira, 1994;\n6) CERQUEIRA, Luiz Alberto. Filosofia brasileira ? Ontogênese da consciência de si. Petrópolis: Vozes, 2002;\n7) CERQUEIRA, Luiz Alberto (org.). Aristotelismo Antiaristotelismo Ensino de Filosofia. Rio de Janeiro: Ágora da Ilha, 1999;\n8) DESCARTES, René. Meditações Metafísicas. São Paulo: Martins Fontes, 2005;\n9) MAGALHÃES, D. J. Gonçalves de. Fatos do espírito humano. Org. e estudo introdutório de L. A. Cerqueira. Petrópolis: Vozes, 2004;\n10) VIVEIROS DE CASTRO, E. A inconstância da alma selvagem. São Paulo: Cosac & Naif, 2002.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEB599",
+      "Nome": "Est da Líng Bras de Sinais I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Nomes próprios; pronomes pessoais; demonstrativos; possessivos; locativos em sentenças simples do tipo pergunta-resposta com \"o que\" e \"quem\" e outros vocábulos básicos; numerais; quantidade; topicalização; flexão verbal; flexão de negação; expressões faciais e corporais; percepção visual; conversação; diálogos; textos: LIBRAS, cultura e comunidade surda.\n",
+       "BibliografiaBasica": "1) BRITO, L. F. Por uma gramática de língua de sinais. Rio de Janeiro: Tempo Brasileiro, 1995.\n2) FELIPE, T.; MONTEIRO, M. S. LIBRAS em contexto. Curso Básico. Brasília: Ministério da Educação e do Desporto/Secretaria de Educação Especial, 2001.\n3) GESSER, A. Libras - Que língua é essa? Crença e preconceitos em torno da língua de sinais e da realidade surda. Florianópolis: Parábola, 2009.\n4) STROBEL, K. L. As imagens do outro sobre a cultura surda. Florianópolis: EdUFSC, 2008.\n",
+       "BibliografiaComplementar": "1) PIMENTA, Nelson e QUADROS, Ronice Muller. Curso de Libras I, LSB Vídeo, volume I, Iniciante, 2006 e 3a ed., 2008.\n2) Dicionário Enciclopédico Ilustrado Triíngue da Língua de Sinais Brasileira ? vol 1 e vol. 2 Site: www.acessobrasil.org.brasil\n3) Dicionário da Língua Brasileira de Sinais, INES, versão, 2.0, ano 2006.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MUA002",
+      "Nome": "Instrum B- Cavaquinho B II",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Escalas e arpejos. Diferentes tipos de palhetadas simples. Afinação e encordoamento do instrumento. Execução de melodias e estudos simples.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MUA001"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MUA004",
+      "Nome": "Instrumento B- Cavaquinho B IV",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Escalas e arpejos em diferentes articulações. Noções de acompanhamento. Diferentes dedilhados e palhetadas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MUA003"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MUA006",
+      "Nome": "Instrumento B- Cavaquinho B VI",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Escalas e arpejos e acordes. Acompanhamento e execução de melodias, estudos e obras de dificuldade avançada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MUA005"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MUCX02",
+      "Nome": "Produção Fonográfica",
+      "Créditos": "1.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo da cadeia produtiva da música, com ênfase nos processos criativos que geram os \"produtos\" da música em suporte/streaming (o fonográfico ou o da produção audiovisual) e o mercado da \"obra\" e dos direitos autorais/conexos, fomentando o debate das interseções entre composição, performance e difusão musical na atualidade. Planejamento e execução de projetos de produção musical/fonográfica, abordando as etapas de pré-produção, produção e pós-produção do produto fonográfico, a partir de práticas com a tecnologia MIDI, os recursos de captação de áudio, o hardwarededicado, os softwares de produção (digital audio workstations, processadores de áudio) e os processos de mixagem e masterização.\n__BIBLIOGRAFIA BÁSICA __\n1) ALTEN, S. R. Audio in Media. Wadsworth Publishing, 1990.\n2) EARGLE, John. Music, sound, and technology. New York: Van Nostrand Reinhold, 1995.\n3) MARTINS, Guilherme M. & LONGHI, João Victor R. (Eds.). Direito digital: direito privado e internet. Indaiatuba, SP: Foco, 2021.\n4) ROBERTS-BRESLIN. Produção de Imagem e Som. Rio de Janeiro: Elselvier, 2009.\n5) VALLE, Solón do. Manual prático de acústica. Música e Tecnologia, 2009.\n6) WITT, S. Como a música ficou grátis. (Tradução Andrea Gottlieb). Intrínseca, 2015.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) MANNING, Peter. Electronic and computer music. Oxford University Press, 2013.\n2) ROTHSTEIN, Joseph. MIDI: a comprehensive introduction. Madison, Wis.: A-R Editions, 1995.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MUC171",
+       "MUC205"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MUM011",
+      "Nome": "Ofic de Prat de Orq II",
+      "Créditos": "3.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "As diferentes formações instrumentais e a organização dos naipes. A disciplina e etiqueta e o protocolo em ensaios e concertos. A afinação geral da orquestra e entre os diferentes naipes. Interpretação de obras do repertório orquestral de câmara, sinfônico, coral-sinfônico, ópera e ballet, de diferentes estilos e épocas com ou sem a participação de solistas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MUM013",
+      "Nome": "Ofic de Prat de Orq IV",
+      "Créditos": "3.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Ensaios de naipes e sessões. O equilíbrio interno e entre os diferentes naipes. Arcadas e golpes de arco de arco nas cordas e articulações e respirações nos sopros. A marcação das partes orquestrais. Interpretação de obras do repertório orquestral de câmara, sinfônico, coral-sinfônico, ópera e ballet, de diferentes estilos e épocas com ou sem a participação de solistas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MUT011",
+      "Nome": "Introd à Percepção Musical II",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo dos fundamentos musicais e suas relações com as diferentes maneiras de ouvir, escrever e fazer música. Parâmetros do som; as diferentes músicas - apreciação sob um perspectiva histórica; discutir \"música\" e sua matéria-prima: som-ruído-silêncio; divisão do tempo em duas e três partes: síncope e contratempo; possibilidades da divisão do tempo em quatro partes; síncope interna; figuras de duração (até a semicolcheia e sua respectiva pausa); compasso simples e compostos; inícios e terminações rítmicas; métrica binária, ternária, quaternária; u.t.: mínima, semínima e colcheia, simples e pontuada, com ênfase na semínima e na semínima pontuada; movimento do som nas suas relações intervalares; tonalismo: modo maior e menor; pauta, linhas suplementares (até 3), clave de sol e fa, âmbito do1-do5; intervalos: 2ª maior, menor, aumentada diminuta, 3ª maior, menor, aumentada diminuta, 8ª justa; tríades; encadeamentos com tônica e dominante (estado fundamental), modos maior e menor; formas binárias e ternárias; mudanças de andamento; contextos atonais: tom e semitom com grafia convencional; modalismo: modo mixolídio e eólio.\n___ BIBLIOGRAFIA BÁSICA ___\n1) ARNOUD, J. 1600 gradués de lecture musicale 1-1000 exercices ; 2- 600 exercices. Paris: Alfonse Leduc, 1881.\n2) BARBOSA, Cacilda Borges. Estudos de Ritmo e Som-Preparatório, 1º ano. São Paulo: Ricordi, 1982.\n3) WILLEMS, Edgar. Solfejo- Curso Elementar. São Paulo: Editora Fermata do Brasil, 2020.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) GRAMANI. J. E. Rítmica. São Paulo: Perspectiva, 2010.\n2) HINDEMITH, Paul. Treinamento Elementar para Músicos. São Paulo: Ricordi, 2004.\n3) PAZ, Ermelinda. 500 Canções Brasileiras. Brasília: MusiMed, 2015.\n4) SCHAFER, Murray. O Ouvido Pensante. São Paulo: Editora UNESP, 2012.\n5) WISNIK, J. M. O Som e o Sentido. São Paulo: Companhia das Letras, 2017.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MUT010"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF289",
+      "Nome": "Seminário de Ética",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo e discussão de um ou mais tópicos filosóficos representativos da ética. Educação ambiental, ética ambiental, sustentabilidade e relações étnico-raciais.\n",
+       "BibliografiaBasica": "1) ARISTÓTELES, Ética a Nicômacos. Brasília: Ed. UNB, (Ed. M.G.Kury), 1999 (1985);\n2) KANT, I. Metafísica dos Costumes, São Paulo: Edipro, 1993;\n3) ROUSSEAU, J. Discurso Sobre a Origem e os Fundamentos da Desigualdade Entre os Homens, São Paulo, Martins Fontes, 1999. (Seleção);\n4) HUME, D. Tratado da Natureza Humana, São Paulo, UNESP, 2000. (Seleção);\n5) KANT, I. Crítica da Razão Prática, ed. A. Mourão, Lisboa: Edições 70, 1986;\n6) SPINOZA, Ética. Belo Horizonte: Autêntica, 2007;\n7) HABERMAS, J. Acerca da legitimação com base nos Direitos Humanos, em Habermas, J. A. Constelação Pós-Nacional. Ensaios políticos, São Paulo, Littera Mundi, 2001, p. 143-163;\n8) MARX, K. Para a Crítica da Economia Política. São Paulo: Nova Cultural, 1996. (Col. Os Pensadores);\n9) HABERMAS, J. Direito e Democracia entre Facticidade e Validade (Rio de Janeiro: Tempo Brasileiro, Vol I);\n10) BOBBIO, N. A era dos direitos. Rio de Janeiro, Elsevier, 2004. (Primeira Parte);\n11) DWORKIN, R. Levando os Direitos a Serio, São Paulo, Martins Fontes, 2002, Cap. 6;\n12) HART, H. Direito, liberdade, moralidade. Portos Alegre: Sergio Antonio Fabris, 1987;\n13)  HART, H. Virtude Soberana. São Paulo: Martins Fontes;\n14) KANT, I. Metafísica dos Costumes, São Paulo: Edipro, 1993;\n15) LOCKE, J. Segundo Tratado do Governo. (Seleção);\n16) SINGER, Peter. Ética Prática. São Paulo: Martins Fontes, 1994.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF655",
+      "Nome": "Hist da Filos no Brasil II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A modernização como problema filosófico. A ideia de uma civilização brasileira inter-racial autossustentável.\n",
+       "BibliografiaBasica": "1) BARRETO, Tobias. Estudos de filosofia. Org., introd. e notas de Paulo Mercadante e Antonio Paim. Rio de janeiro: INL/Record, 1990;\n2) CERQUEIRA, Luiz Alberto. Filosofia brasileira ? Ontogênese da consciência de si. Petrópolis: Vozes, 2002;\n3) KANT, I. Crítica da razão pura, Prefácio à segunda edição. Lisboa: Calouste Gulbenkian, 1985;\n4) STURM, Fred Gillette. O Significado Atual do Pensamento Britiano. Anais do IV Congresso Nacional de Filosofia. São Paulo-Fortaleza: IBF, 1962;\n5) BRITO, Raimundo de Farias. O mundo interior. Org. e estudo introdutório de L. A. Cerqueira. Lisboa: INCM, 2003;\n6) MAGALHÃES, D. J. Gonçalves de. Fatos do espírito humano. Rio de Janeiro: Garnier, 1858;\n7) CERQUEIRA, Luiz Alberto. Natureza e cultura: a idéia de origem da filosofia brasileira. Lisboa: Universidade Nova de Lisboa, 1997 (mimeo);\n8) REALE, Miguel. Estudos de filosofia brasileira. Lisboa: Instituto de Filosofia Luso-Brasileira, 1994;\n9) NOGUERA, Renato. O Ensino de Filosofia e a Lei nº 10.639. Rio de Janeiro: Editora Ceap, 2011.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MUA001",
+      "Nome": "Instrum B- Cavaquinho B I",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Posicionamento do instrumento e palheta. Colocação das mãos, conhecimento do braço do instrumento e reconhecimento das notas através de escalas e arpejos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MUA003",
+      "Nome": "Instrum B- Cavaquinho B III",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Escalas e arpejos em diferentes articulações. Formação e encadeamento dos acordes. Execução de melodias e estudos simples.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MUA002"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MUA005",
+      "Nome": "Instrumento B- Cavaquinho B V",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Escalas e arpejos e acordes. Diferentes tipos de palhetadas. Acompanhamento e execução de melodias, estudos e obras de dificuldade média.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MUA004"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MUA018",
+      "Nome": "Introdução à Viola 10 Cordas",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conhecimento dos tipos de viola de 10 cordas e as principais afinações. Diferenças de encordoamento. Introdução à técnica específica do instrumento. Possibilidade de posicionamento. História da viola (Portugal e Brasil). Leitura e estudo de pequenas peças tradicionais (rasqueado e ponteado).\n___ BIBLIOGRAFIA BÁSICA ___\n1- ARAÚJO, Mozart de. a Modinha e o Lundu no século XVIII. São Paulo: Ricordi Brasileira, 1963.\n2- CORREA, Roberto. A arte de Pontear Viola. Brasília, Curitiba: ed. autor, 2000.\n3- SOUZA, Andréa Carneiro de. Viola Instrumental Brasileira. Rio de Janeiro: ARTVIVA editora, 2006.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MUM010",
+      "Nome": "Ofic de Prat de Orq I",
+      "Créditos": "3.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "História e desenvolvimento da orquestra. Compreensão dos gestos básicos da regência. Interpretação de obras do repertório orquestral de câmara, sinfônico, coral sinfônico, opera e ballet, de diferentes estilos e épocas com ou sem a participação de solistas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MUM012",
+      "Nome": "Ofic de Prat de Orq III",
+      "Créditos": "3.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A hierarquia orquestral e as funções específicas do regente, do spalla e dos chefes de naipe. As particularidades da técnica de instrumento de arco, sopro e percussão aplicada ao conjunto orquestral. Interpretação de obras do repertório orquestral de câmara, sinfônico, coral-sinfônico, ópera e ballet de diferentes estilos e épocas com ou sem a participação de solistas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MUT010",
+      "Nome": "Introd à Percepção Musical I",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo dos fundamentos musicais e suas relações com as diferentes maneiras de ouvir, escrever e fazer música. Parâmetros do som; as diferentes músicas: apreciação sob um perspectiva histórica; \"música\" e sua matéria-prima: som-ruído-silêncio, pulso/tempo, seus múltiplos; divisão do tempo em duas e três partes; figuras de duração (até a colcheia e sua respectiva pausa); ligadura, ponto de aumento; movimento do som (alturas) nas suas relações intervalares; tonalismo: modo maior e modo menor, centro de atração e intervalos; pauta, linhas suplementares (até 2), clave de sol e fa, âmbito do2-do4, tom e semitom, sinais de alteração; formas binárias e ternárias; legato e staccato; andamento; sinais de repetição: ritornello, da capo, casa de 1ª e 2ª vez.\n___BIBLIOGRAFIA BÁSICA___\n1) ARNOUD, J. 1600 gradués de lecture musicale 1-1000 exercices ; 2- 600 exercices. Paris: Alfonse Leduc, 1881.\n2) BARBOSA, Cacilda Borges - Estudos de Ritmo e Som-Preparatório, 1º ano. São Paulo: Ricordi, 1982.\n3) WILLEMS, Edgar. Solfejo-Curso Elementar. São Paulo: Editora Fermata do Brasil, 2020.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) GRAMANI. J. E. Rítmica. São Paulo: Perspectiva, 2010.\n2) HINDEMITH, Paul. Treinamento Elementar para Músicos. São Paulo: Ricordi, 2004.\n3) PAZ, Ermelinda. 500 Canções Brasileiras. Brasília: MusiMed, 2015.\n4) SCHAFER, Murray. O Ouvido Pensante. São Paulo: Editora UNESP, 2012.\n5) WISNIK, J.M. O Som e o Sentido. São Paulo: Companhia das Letras, 2017.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     }
+    ]
+   },
+   "obrigatorias": 2,
+   "eletivas": 26,
+   "ano": "2009/1 a 2009/2"
+  },
+  {
+   "materias": {
+    "1º Período": [
+     {
+      "Codigo": "MUT101",
+      "Nome": "Percepção Musical I",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "RITMO: síncope e contratempo; seus desdobramentos na música folclórica, popular urbana e erudita; quiálteras de tempo e parte de tempo, uniformes; critérios para escolha da figura quialtérica. TONALISMO: repertório a 2 vozes, modulação a tons vizinhos, acordes de 3 sons, de 7a. da sensível do modo maior e menor, cadências conclusivas, transposição. MODALISMO: introdução ao estudo.\n",
+       "BibliografiaBasica": "1) Hindemith, Paul - Treinamento Elementar para Músicos;\n2) Lussy, Mathias - Le rhytme musical;\n3) Paz, Ermelinda - 500 Canções Brasileiras;\n4) Wisnik, J.M. - O Som e o Sentido;\n5) Gramani. J. E. Rítmica;\n6) Barraud, Henry - Para compreender a música de hoje;\n7) Edlund, Lars - Modus Vetus;\n8) Schafer, Murray - O Ouvido Pensante.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "2º Período": [
+     {
+      "Codigo": "MUT102",
+      "Nome": "Percepção Musical II",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "RITMO: A 1 e 2 partes; hemíola; ação combinada melodia/ritmo (2 partes); quiálteras de mais de um tempo, uniformes, sua realização através do m.m.c.; compassos alternados (cont.). TONALISMO: Polifonia a 3 vozes; ac. de 7a.; cadências suspensivas; transposição; modulação a tons vizinhos (cont).\nMODALISMO: (cont). ATONALISMO: Introdução ao estudo; intervalos melódicos; série dodecafônica.\n",
+       "BibliografiaBasica": "1) Hindemith, Paul - Treinamento Elementar para Músicos.\n2) Lussy, Mathias - Le rhytme musical.\n3) CPaz, Ermelinda - 500 Canções Brasileiras.\n4) Wisnik, J.M. O Som e o Sentido.\n5) Gramani. J. E. Rítmica.\n6) Barraud, Henry. Para compreender a música de hoje.\n7) Edlund, Lars. Modus Vetus.\n8) Edlund, Lars. Modus Novus.\n9) Schafer, Murray. O Ouvido Pensante.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MUT101"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ]
+   },
+   "obrigatorias": 2,
+   "eletivas": 0,
+   "ano": "2010/1 a 2011/2"
+  },
+  {
+   "materias": {
+    "1º Período": [
+     {
+      "Codigo": "MUT101",
+      "Nome": "Percepção Musical I",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "RITMO: síncope e contratempo; seus desdobramentos na música folclórica, popular urbana e erudita; quiálteras de tempo e parte de tempo, uniformes; critérios para escolha da figura quialtérica. TONALISMO: repertório a 2 vozes, modulação a tons vizinhos, acordes de 3 sons, de 7a. da sensível do modo maior e menor, cadências conclusivas, transposição. MODALISMO: introdução ao estudo.\n",
+       "BibliografiaBasica": "1) Hindemith, Paul - Treinamento Elementar para Músicos;\n2) Lussy, Mathias - Le rhytme musical;\n3) Paz, Ermelinda - 500 Canções Brasileiras;\n4) Wisnik, J.M. - O Som e o Sentido;\n5) Gramani. J. E. Rítmica;\n6) Barraud, Henry - Para compreender a música de hoje;\n7) Edlund, Lars - Modus Vetus;\n8) Schafer, Murray - O Ouvido Pensante.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "2º Período": [
+     {
+      "Codigo": "MUT102",
+      "Nome": "Percepção Musical II",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "RITMO: A 1 e 2 partes; hemíola; ação combinada melodia/ritmo (2 partes); quiálteras de mais de um tempo, uniformes, sua realização através do m.m.c.; compassos alternados (cont.). TONALISMO: Polifonia a 3 vozes; ac. de 7a.; cadências suspensivas; transposição; modulação a tons vizinhos (cont).\nMODALISMO: (cont). ATONALISMO: Introdução ao estudo; intervalos melódicos; série dodecafônica.\n",
+       "BibliografiaBasica": "1) Hindemith, Paul - Treinamento Elementar para Músicos.\n2) Lussy, Mathias - Le rhytme musical.\n3) CPaz, Ermelinda - 500 Canções Brasileiras.\n4) Wisnik, J.M. O Som e o Sentido.\n5) Gramani. J. E. Rítmica.\n6) Barraud, Henry. Para compreender a música de hoje.\n7) Edlund, Lars. Modus Vetus.\n8) Edlund, Lars. Modus Novus.\n9) Schafer, Murray. O Ouvido Pensante.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MUT101"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "3º Período": [],
+    "4º Período": [],
+    "Disciplinas Optativas (Escolha Restrita)": [
+     {
+      "Codigo": "MUT331",
+      "Nome": "História da Música I",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A origem da música. A música nas sociedades ágrafas. Concepções musicais não escritas. Mostrar a música da oralidade como estruturador de um modo específico de pensar e perceber música.\n___BIBLIOGRAFIA BÁSICA___\n1) ABBIATI, Franco. História da Música - Lisboa - Ed Arcadia Ltda ,1964.\n2) LANDORMY, Paul. Histoire de la musique - Paris, Mellottée Editeur, S.D.\n3) MOREIRA DE SÁ, Bernardo Valentim. História da Evolução Musical - Porto, Casa Moreira sá, 1924.\n4) Stehman, Jacques. História da Música. São Paulo, Difusão Européia do Livro. s.d.\n5) Rich, Alain. Musc Mirror of the arts. New York, Frederich ª Praeger Publishers,1969.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) LARSEN, Arved M. (editor geral). Crossroads in music: traditions and connections. Livro e antologia musical em 4 CDs. Ed. Thomson/Schirmer, 2003.\n2) NICOLAU NETTO, Michel. ?The conditions of global discourse of diversity: music Enciclopedias, Dictionaries and Ethnomusicology?. Revista Brasileira de Música, v. 23, n. 2, p. 145-172, outubro 2010.\n3) ZAMACOIS, Joaquim. Temas de estética y de história de la música: con textos de numerosísimos autores de diferentes épocas. 3ª.ed.Barcelona : Editorial Labor, 1986.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MUT431",
+      "Nome": "História da Música III",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A socialização da música e do conhecimento musical a partir da imprensa. A consolidação da divisão social do trabalho musical. A música como mercadoria.\n___BIBLIOGRAFIA BÁSICA___\n1) CHAILLEY, Jacques-Cours d`Histoire da la Musique-2 tomos- Paris, Alphonse Leduce, Editeur, s.d.\n2) COLLAER, Paul/ Van der Linden, Albert-Atlas Historique de la Musique-Paris, Elsevier, 1960.\n3) ROBERTSON, Alec/Stevens Denis. História da Música ? Pelicano? 3 volumes- Lisboa, ED. Ulisséia LTDA, s.d.\n4) PAHLEN, Curt História Universal da Música-São Paulo, Edições Melhoramentos, s.d.\n5) SACHS, Curt The Commonnealth of Art, Style in the Fine Arts, Music and the Dand New York, W. W. Norton, 1946.\n6) BERNARD, Robert-Histoire de La Musique. 5 volumes. Paris, Fernand Nathan, Editeur.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) ABRAHAM, Gerald (ed.).The New Oxford History of Music. New York : Oxford University Press, 1990.\n2) GRIFFITHS, Paul. Breve história de la musica occidental. Traduccion: Jose Alberto Perez Diez. Tres Cantos, Madrid: Akal, 2009.\n3) TARUSKIN, Richard. The Oxford History of Western Music. Volume 1: Music from the Earliest Notations to the Sixteenth Century. Oxford University Press, 2005.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MUT511",
+      "Nome": "Música Brasileira I",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Visão sincrônica e diacrônica da Música Brasileira desde sua origem até o advento do nacionalismo musical. Apreciação crítica da literatura musical deste período.\n___BIBLIOGRAFIA BÁSICA___\n1) ALMEIDA, Renato. Compendio de História da Música Brasileira, Rio de Janeiro, F. Briguiete Ed.\n2) KIEFER, Bruno. História da Música Brasileira Brasileira, Ed. Movimento - Porto Alegre - 1976.\n3) HEITOR, Luiz. 150 anos de Música no Brasil - R.J. Liv. José Olynpio Ed. 1956.\n4) TINHORÃO, J. Ramos. Pequena História da Música Popular - da modinha a canção de protesto. Petrópolis , Ed. Vozes - 1974.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) Brasiliana ? Revista da Academia Brasileira de Música.\n2) Latin American Music Review ? Universidade do Texas-Austin (Portal CAPES).\n3) Revista Brasileira de Música (UFRJ). Disponível em http://www.musica.ufrj.br/posgraduacao/rbm/.\n4) Revista Música (USP). Disponível em http://www.usp.br/poseca/index.php/musica\n5) MARCONDES, Marcos (ed.) Enciclopédia da Música Brasileira: erudita, folclórica e popular. 3a. ed. Art Editora / PubliFolha, 2000.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MUT531",
+      "Nome": "Música Brasileira III",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Música brasileira sob perspectiva histórica, abrangendo aspectos sociais, antropológicos, estéticos e estilísticos. Século XX e XXI, a partir da década de 1920, suas questões historiográficas e estudo de repertório das diversas concepções e tradições musicais vigentes à época.\n___BIBLIOGRAFIA BÁSICA___\n1) AZEVEDO, Luis Heitor Correia de. 150 anos de música no Brasil; 1800-1950. Rio de Janeiro: Livraria José Olympio Editora, 1956.\n2) FREIRE, Vanda Lima Bellard. O Mundo Maravilhoso das Mágicas. Rio de Janeiro: Contra Capa, 2011.\n3) MAGALDI, Cristina. Music in Imperial Rio de Janeiro: European Culture in a Tropical Milieu. Scarecrow Press, 2004.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) Brasiliana ? Revista da Academia Brasileira de Música;\n2) Latin American Music Review ? Universidade do Texas-Austin (Portal CAPES);\n3) Revista Brasileira de Música (UFRJ). Disponível em http://www.musica.ufrj.br/posgraduacao/rbm/\n4) Revista Música (USP). Disponível em http://www.usp.br/poseca/index.php/musica\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MUT121",
+      "Nome": "Hist da Arte Integ à Música",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A evolução das artes visuais desde a sua origem até os nossos dias, analisada sob o ponto de vista estético, social e econômico. Correlação das artes visuais com a música e demais linguagens estéticas. Introdução às artes visuais no Brasil.\n___BIBLIOGRAFIA BÁSICA___\n1) CAVALCANTI, Carlos. História das Artes, Vol I 2a. ed Rio de Janeiro, Civilização Brasileira, 1968.\n2) CAVALCANTI, Carlos. História das Artes, Vol II 2a. ed Rio de Janeiro, Civilização Brasileira, 1970.\n3) READ, Herbert. O Sentido da Arte, 4a. ed São Paula, IBRASA, 1978.\n4) MORAIS, Frederico- Artes Plásticas. A crise da hora atual, Rio de Janeiro, Ed Paz e Terra S/A, 1975.\n5) HAUSER, Arnold. História Social da Literatura e da Arte, 2a. ed - São Paulo, Ed. Mestre Jou, 1972.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) ADORNO, Theodor W. Art Autonomy and Mass Culture; London: Phaidon, 1992.\n2) BENJAMIN, Walter. L'oeuvre d'Art À l'époque de sa reproductbilité technique; Paris: Ed. Allia, 2011.\n3) DELEUZE, Gilles. A imagem-movimento. Lisboa: Ed. Assírio e Alvim, 2009.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MUT332",
+      "Nome": "História da Música II",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A notação musical como documento histórico. A questão da precisão na notação musical\nA escrita musical e as mudanças do modo de produção musical. Concepções musicais independentes da notação precisa.\n___BIBLIOGRAFIA BÁSICA___\n1) ABBIATI, Franco. História da Música - Lisboa - Ed Arcadia Ltda,1964.\n2) LANDORMY, Paul. Histoire de la musique - Paris, Mellottée Editeur, S.D.\n3) MOREIRA DE SÁ, Bernardo Valentim. História da Evolução Musical - Porto, Casa Moreira sá, 1924.\n4) Stehman, Jacques. História da Música. São Paulo, Difusão Européia do Livro . s.d.\n5) Rich, Alain. Musc Mirror of the arts. New York, Frederich ª Praeger Publishers,1969.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) ABRAHAM, Gerald (ed.). The New Oxford History of Music. New York: Oxford University Press, 1990.\n2) GRIFFITHS, Paul. Breve história de la musica occidental. Traduccion: Jose Alberto Perez Diez. Tres Cantos, Madrid: Akal, 2009.\n3) TARUSKIN, Richard. The Oxford History of Western Music. Volume 1: Music from the Earliest Notations to the Sixteenth Century. Oxford University Press, 2005.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MUT432",
+      "Nome": "História da Música IV",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A música como produto industrial. Novas concepções sonoras. Modificação e ampliação da concepção de espaço sonoro e tempo musical.\n___BIBLIOGRAFIA BÁSICA___\n1) Histoire de La Musique- 2 Volumes. Encyclopédia de la Pleiade. Paris, Gallimard, 1960.\n2) The New Oxford History of Music. 10 volumes, London, Oxford University Press, 1957.\n3) BARRAND, Henry- Pour comprendre les musiques d`aujourd` hui-Paris, Editions du Seuil, 1968.\n4) ALMEIDA, Renato- História da Música Brasileira- 2ª Edição Rio, F. Briquiet, 1942.\n5) AZEVEDO, Luiz Heitor C. de . 150 Anos de Música no Brasil- Rio, José Olynpio Editora 1956.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) ABRAHAM, Gerald (ed.).The New Oxford History of Music. New York : Oxford University Press, 1990.\n2) GRIFFITHS, Paul. Breve história de la musica occidental. Traduccion: Jose Alberto Perez Diez. Tres Cantos, Madrid: Akal, 2009.\n3) TARUSKIN, Richard. The Oxford History of Western Music. Volume 1: Music from the Earliest Notations to the Sixteenth Century. Oxford University Press, 2005.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MUT521",
+      "Nome": "Música Brasileira II",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Visão sincrônica e diacrônica da Música Brasileira do século XX. Apreciação crítica da literatura musical deste período.\n___BIBLIOGRAFIA BÁSICA___\n1) VASCO MARIZ. História da Música no Brasil - R.J. Ed. Civ. Brasileira S.A., 1981.\n2) KIEFER, Bruno. História da Música Brasileira Brasileira, Ed. Movimento - Porto Alegre, 1976.\n3) KIEFFR, Bruno. Villa Lobos e o Modernismo na Música Brasileira - Porto Alegre - Ed. Movimento, 1981.\n4) Enciclopédia da Música Brasileira - erudita, folclore, popular - São Paulo, Art Ed. LTDA, 1977.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) Brasiliana ? Revista da Academia Brasileira de Música.\n2) Latin American Music Review ? Universidade do Texas-Austin (Portal CAPES).\n3) Revista Brasileira de Música (UFRJ). Disponível em http://www.musica.ufrj.br/posgraduacao/rbm/.\n4) Revista Música (USP). Disponível em http://www.usp.br/poseca/index.php/musica.\n5) MARCONDES, Marcos (ed.) Enciclopédia da Música Brasileira: erudita, folclórica e popular. 3a. ed. Art Editora / PubliFolha, 2000.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     }
+    ]
+   },
+   "obrigatorias": 2,
+   "eletivas": 8,
+   "ano": "2012/1 a 2020/1"
+  },
+  {
+   "materias": {
+    "1º Período": [
+     {
+      "Codigo": "MUT101",
+      "Nome": "Percepção Musical I",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "RITMO: síncope e contratempo; seus desdobramentos na música folclórica, popular urbana e erudita; quiálteras de tempo e parte de tempo, uniformes; critérios para escolha da figura quialtérica. TONALISMO: repertório a 2 vozes, modulação a tons vizinhos, acordes de 3 sons, de 7a. da sensível do modo maior e menor, cadências conclusivas, transposição. MODALISMO: introdução ao estudo.\n",
+       "BibliografiaBasica": "1) Hindemith, Paul - Treinamento Elementar para Músicos;\n2) Lussy, Mathias - Le rhytme musical;\n3) Paz, Ermelinda - 500 Canções Brasileiras;\n4) Wisnik, J.M. - O Som e o Sentido;\n5) Gramani. J. E. Rítmica;\n6) Barraud, Henry - Para compreender a música de hoje;\n7) Edlund, Lars - Modus Vetus;\n8) Schafer, Murray - O Ouvido Pensante.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "2º Período": [
+     {
+      "Codigo": "MUT102",
+      "Nome": "Percepção Musical II",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "RITMO: A 1 e 2 partes; hemíola; ação combinada melodia/ritmo (2 partes); quiálteras de mais de um tempo, uniformes, sua realização através do m.m.c.; compassos alternados (cont.). TONALISMO: Polifonia a 3 vozes; ac. de 7a.; cadências suspensivas; transposição; modulação a tons vizinhos (cont).\nMODALISMO: (cont). ATONALISMO: Introdução ao estudo; intervalos melódicos; série dodecafônica.\n",
+       "BibliografiaBasica": "1) Hindemith, Paul - Treinamento Elementar para Músicos.\n2) Lussy, Mathias - Le rhytme musical.\n3) CPaz, Ermelinda - 500 Canções Brasileiras.\n4) Wisnik, J.M. O Som e o Sentido.\n5) Gramani. J. E. Rítmica.\n6) Barraud, Henry. Para compreender a música de hoje.\n7) Edlund, Lars. Modus Vetus.\n8) Edlund, Lars. Modus Novus.\n9) Schafer, Murray. O Ouvido Pensante.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MUT101"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "Disciplinas Optativas (Escolha Condicionada)": [
+     {
+      "Codigo": "FCF289",
+      "Nome": "Seminário de Ética I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo e discussão de um ou mais tópicos filosóficos representativos da ética. Educação ambiental, ética ambiental, sustentabilidade e relações étnico-raciais.\n",
+       "BibliografiaBasica": "1) ARISTÓTELES, Ética a Nicômacos. Brasília: Ed. UNB, (Ed. M.G.Kury), 1999 (1985);\n2) KANT, I. Metafísica dos Costumes, São Paulo: Edipro, 1993;\n3) ROUSSEAU, J. Discurso Sobre a Origem e os Fundamentos da Desigualdade Entre os Homens, São Paulo, Martins Fontes, 1999. (Seleção);\n4) HUME, D. Tratado da Natureza Humana, São Paulo, UNESP, 2000. (Seleção);\n5) KANT, I. Crítica da Razão Prática, ed. A. Mourão, Lisboa: Edições 70, 1986;\n6) SPINOZA, Ética. Belo Horizonte: Autêntica, 2007;\n7) HABERMAS, J. Acerca da legitimação com base nos Direitos Humanos, em Habermas, J. A. Constelação Pós-Nacional. Ensaios políticos, São Paulo, Littera Mundi, 2001, p. 143-163;\n8) MARX, K. Para a Crítica da Economia Política. São Paulo: Nova Cultural, 1996. (Col. Os Pensadores);\n9) HABERMAS, J. Direito e Democracia entre Facticidade e Validade (Rio de Janeiro: Tempo Brasileiro, Vol I);\n10) BOBBIO, N. A era dos direitos. Rio de Janeiro, Elsevier, 2004. (Primeira Parte);\n11) DWORKIN, R. Levando os Direitos a Serio, São Paulo, Martins Fontes, 2002, Cap. 6;\n12) HART, H. Direito, liberdade, moralidade. Portos Alegre: Sergio Antonio Fabris, 1987;\n13)  HART, H. Virtude Soberana. São Paulo: Martins Fontes;\n14) KANT, I. Metafísica dos Costumes, São Paulo: Edipro, 1993;\n15) LOCKE, J. Segundo Tratado do Governo. (Seleção);\n16) SINGER, Peter. Ética Prática. São Paulo: Martins Fontes, 1994.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF655",
+      "Nome": "Hist da Filos no Brasil II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A modernização como problema filosófico. A ideia de uma civilização brasileira inter-racial autossustentável.\n",
+       "BibliografiaBasica": "1) BARRETO, Tobias. Estudos de filosofia. Org., introd. e notas de Paulo Mercadante e Antonio Paim. Rio de janeiro: INL/Record, 1990;\n2) CERQUEIRA, Luiz Alberto. Filosofia brasileira ? Ontogênese da consciência de si. Petrópolis: Vozes, 2002;\n3) KANT, I. Crítica da razão pura, Prefácio à segunda edição. Lisboa: Calouste Gulbenkian, 1985;\n4) STURM, Fred Gillette. O Significado Atual do Pensamento Britiano. Anais do IV Congresso Nacional de Filosofia. São Paulo-Fortaleza: IBF, 1962;\n5) BRITO, Raimundo de Farias. O mundo interior. Org. e estudo introdutório de L. A. Cerqueira. Lisboa: INCM, 2003;\n6) MAGALHÃES, D. J. Gonçalves de. Fatos do espírito humano. Rio de Janeiro: Garnier, 1858;\n7) CERQUEIRA, Luiz Alberto. Natureza e cultura: a idéia de origem da filosofia brasileira. Lisboa: Universidade Nova de Lisboa, 1997 (mimeo);\n8) REALE, Miguel. Estudos de filosofia brasileira. Lisboa: Instituto de Filosofia Luso-Brasileira, 1994;\n9) NOGUERA, Renato. O Ensino de Filosofia e a Lei nº 10.639. Rio de Janeiro: Editora Ceap, 2011.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MUA020",
+      "Nome": "Tóp em Mús e Instr de Cordas I",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudos em música relacionados com a cultura e as artes envolvendo os instrumentos de corda, incluindo os conteúdos das culturas afro-brasileiras e povos indígenas.\n___ BIBLIOGRAFIA BÁSICA ___\n1- Rink, John. The practice of performance: studies in musical interpretation. New York: Cambridge University Press, 2005.\n2- Lucas, Maria Elizabeth. Mixagens em campo: etnomusicologia, performance e diversidade musical. Porto Alegre: Marcavisual, 2013.\n__BIBLIOGRAFIA COMPLEMENTAR__\n1- Enciclopédia da música brasileira: erudita, folclórica, popular. São Paulo: Art Editora, 1977.\n2- The new Grove dictionary of music and musician/ editey by Stanley Sadie, executive editor John Tyrell. New York: Grove, 2001.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MUA023",
+      "Nome": "Tóp em Mús e Instr de Cord IV",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudos em música relacionados com a cultura e as artes envolvendo os instrumentos de corda, incluindo os conteúdos das culturas afro-brasileiras e povos indígenas.\n___ BIBLIOGRAFIA BÁSICA ___\n1- Rink, John. The practice of performance: studies in musical interpretation. New York: Cambridge University Press, 2005.\n2- Lucas, Maria Elizabeth. Mixagens em campo: etnomusicologia, performance e diversidade musical. Porto Alegre: Marcavisual, 2013.\n__BIBLIOGRAFIA COMPLEMENTAR__\n1- Enciclopédia da música brasileira: erudita, folclórica, popular. São Paulo: Art Editora, 1977.\n2- The new Grove dictionary of music and musician/ editey by Stanley Sadie, executive editor John Tyrell. New York: Grove, 2001.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MUA025",
+      "Nome": "Tóp em Mús e Instr de Cord VI",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudos em música relacionados com a cultura e as artes envolvendo os instrumentos de corda, incluindo os conteúdos das culturas afro-brasileiras e povos indígenas.\n___ BIBLIOGRAFIA BÁSICA ___\n1- Rink, John. The practice of performance: studies in musical interpretation. New York: Cambridge University Press, 2005.\n2- Lucas, Maria Elizabeth. Mixagens em campo: etnomusicologia, performance e diversidade musical. Porto Alegre: Marcavisual, 2013.\n__BIBLIOGRAFIA COMPLEMENTAR__\n1- Enciclopédia da música brasileira: erudita, folclórica, popular. São Paulo: Art Editora, 1977.\n2- The new Grove dictionary of music and musician/ editey by Stanley Sadie, executive editor John Tyrell. New York: Grove, 2001.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MUA027",
+      "Nome": "Tóp em Mús e Instr Cord VIII",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudos em música relacionados com a cultura e as artes envolvendo os instrumentos de corda, incluindo os conteúdos das culturas afro-brasileiras e povos indígenas.\n___ BIBLIOGRAFIA BÁSICA ___\n1- Rink, John. The practice of performance: studies in musical interpretation. New York: Cambridge University Press, 2005.\n2- Lucas, Maria Elizabeth. Mixagens em campo: etnomusicologia, performance e diversidade musical. Porto Alegre: Marcavisual, 2013.\n__BIBLIOGRAFIA COMPLEMENTAR__\n1- Enciclopédia da música brasileira: erudita, folclórica, popular. São Paulo: Art Editora, 1977.\n2- The new Grove dictionary of music and musician/ editey by Stanley Sadie, executive editor John Tyrell. New York: Grove, 2001.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MUC006",
+      "Nome": "Produção Fonográfica",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo da cadeia produtiva da música, com ênfase nos processos criativos que geram os \"produtos\" da música em suporte/streaming (o fonográfico ou o da produção audiovisual) e o mercado da \"obra\" e dos direitos autorais/conexos, fomentando o debate das interseções entre composição, performance e difusão musical na atualidade. Planejamento e execução de projetos de produção musical/fonográfica, abordando as etapas de pré-produção, produção e pós-produção do produto fonográfico, a partir de práticas com a tecnologia MIDI, os recursos de captação de áudio, o hardware dedicado, os softwares de produção (digital audio workstations, processadores de áudio) e os processos de mixagem e masterização.\n",
+       "BibliografiaBasica": "1) ALTEN, S. R. Audio in Media. Wadsworth Publishing, 1990.\n2) EARGLE, John. Music, sound, and technology. New York: Van Nostrand Reinhold, 1995.\n3) MARTINS, Guilherme M. & LONGHI, João Victor R. (Eds.). Direito digital: direito privado e internet. Indaiatuba, SP: Foco, 2021.\n4) ROBERTS-BRESLIN. Produção de Imagem e Som. Rio de Janeiro: Elselvier, 2009.\n5) VALLE, Solón do. Manual prático de acústica. Música e Tecnologia, 2009.\n6) WITT, S. Como a música ficou grátis. (Tradução Andrea Gottlieb). Intrínseca, 2015.\n",
+       "BibliografiaComplementar": "1) MANNING, Peter. Electronic and computer music. Oxford University Press, 2013.\n2) ROTHSTEIN, Joseph. MIDI: a comprehensive introduction. Madison, Wis.: A-R Editions, 1995.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MUC521"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MUC521",
+      "Nome": "Arranjo I",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo organológico e de particularidades do emprego dos diversos meios vocais e instrumentais, sua aplicação aos diferentes estilos musicais; transcrição e adaptação de partituras; análise e emprego de técnicas texturais; estudo do gênero \"canção\" e das modalidades do emprego da voz (arranjo vocal, coral etc.) com elaboração de arranjos especializados; realização de partituras para pequenos conjuntos vocais / instrumentais com avaliação da adequação formal e notacional relacionadas à performance.\n",
+       "BibliografiaBasica": "ADLER, Samuel. The study of orchestration. New York: W. W. Norton, 2002.\nGUEST, lan. Arranjo: método prático. Lumiar, 1996.\nALMADA, Carlos. Arranjo. Editora da Unicamp, 2000.\n",
+       "BibliografiaComplementar": "KENNAN, K. & GRANTHAM, D. The technique of orchestration. Englewood Cliffs, NJ: Prentice Hall, 1990.\nPISTON, Walter. Orchestration. New York: W.W. Norton, 1955.\nPEJROLO, A. & DEROSA, R. Acoustic and MIDI orchestration for the contemporary composer. Focal Press, 2007.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MUC171"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MUCX02",
+      "Nome": "Produção Fonográfica",
+      "Créditos": "1.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo da cadeia produtiva da música, com ênfase nos processos criativos que geram os \"produtos\" da música em suporte/streaming (o fonográfico ou o da produção audiovisual) e o mercado da \"obra\" e dos direitos autorais/conexos, fomentando o debate das interseções entre composição, performance e difusão musical na atualidade. Planejamento e execução de projetos de produção musical/fonográfica, abordando as etapas de pré-produção, produção e pós-produção do produto fonográfico, a partir de práticas com a tecnologia MIDI, os recursos de captação de áudio, o hardwarededicado, os softwares de produção (digital audio workstations, processadores de áudio) e os processos de mixagem e masterização.\n__BIBLIOGRAFIA BÁSICA __\n1) ALTEN, S. R. Audio in Media. Wadsworth Publishing, 1990.\n2) EARGLE, John. Music, sound, and technology. New York: Van Nostrand Reinhold, 1995.\n3) MARTINS, Guilherme M. & LONGHI, João Victor R. (Eds.). Direito digital: direito privado e internet. Indaiatuba, SP: Foco, 2021.\n4) ROBERTS-BRESLIN. Produção de Imagem e Som. Rio de Janeiro: Elselvier, 2009.\n5) VALLE, Solón do. Manual prático de acústica. Música e Tecnologia, 2009.\n6) WITT, S. Como a música ficou grátis. (Tradução Andrea Gottlieb). Intrínseca, 2015.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) MANNING, Peter. Electronic and computer music. Oxford University Press, 2013.\n2) ROTHSTEIN, Joseph. MIDI: a comprehensive introduction. Madison, Wis.: A-R Editions, 1995.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MUC171",
+       "MUC205"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MUP051",
+      "Nome": "Prática Música Barroca II",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Atividades teóricas e práticas, contemplando os seguintes tópicos: aspectos teóricos das principais questões que envolvem a interpretação do repertório dos séculos XVI, XVII e XVIII; compreensão e a aplicação dos conhecimentos necessários à interpretação da música barroca; estudo da articulação e fraseado apropriados; estudo de execução de ornamentos, com ênfase na ornamentação livre; desenvolvimento da compreensão dos diversos estilos de música barroca.\n___BIBLIOGRAFIA BÁSICA___\n1) AGUILAR, Patricia Michelini. Fala flauta: um estudo sobre as articulações indicadas por Silvestro Ganassi (1532) e Bartolomeu Bismantova (1677) e sua aplicabilidade a intérpretes brasileiros de flauta doce. 2008. Dissertação (Mestrado\nem Música)- Instituto de Artes, Universidade Estadual de Campinas, Campinas, 2008.\n2) BACH, Carl Phillip Emanuel. Ensaio sobre a maneira correta de tocar teclado. Tradução de Fernando Cazarini. Campinas: Editora da Unicamp, 2009.\n3) FAGERLANDE, Marcelo (org.). Tratados e Métodos de Teclado: Sancta Maria, Frescobaldi, Couperin e Rameau. Rio de Janeiro: Programa de Pós-graduação da Escola de Música da UFRJ, 2013.\n4) PACHECO, Alberto. O canto antigo italiano - uma análise comparativa dos tratados de canto de Pier Tosi, Giambattista Mancini e Manuel P. R. Garcia. São Paulo: Annablume, Fapesp, 2006.\n5) QUANTZ, Johann Joachim. Versuch einer Anweisung die Flöte traversière zu spielen. Kassel: Bärenreither Verlag, 1752/1997.\n6) WEBER, William. Did people listen in the 18th century? Early Music, November 1997, p. 678-691.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) BUKOFZER, Manfred F. Music in the baroque era: from Monteverdi to Bach. New York: W. W. Norton, 1982.\n2) DANNREUTHER, Edward. Musical ornamentation. London: Novello, [19]. 2 v.\n3) CIRILLO, D. Agostino. Johann Joachim Quantz y su aportación a la cultura musical del siglo XVIII. Tese (Doutorado em História da Arte) - Departamento de História da Arte da Universidade de Murcia, Murcia (Espanha), 2015.\n4) FAGERLANDE, Marcelo (Ed,); PEREIRA, Mayra (Co-Ed). Anais da XIV Semana do Cravo. Rio de Janeiro: Programa de Pós-graduação em Música/ Programa de Pós-graduação Profissional em Música da UFRJ, 2018. Recurso eletrônico.\n5) FORKEL, Johann Nikolau. Juan Sebastian Bach/ por Johann Nikolau Forkel. Versión española introd. e notas de Adolfo Salazar. México: Fondo de Cultura Económica, 1998.\n6) HARNONCOURT, Nikolaus. O discurso dos sons. Tradução de Marcelo Fagerlande. Rio de Janeiro: Editora Zahar, 1988.\n7) HELD, Marcus. Francesco Geminiani (1687-1762) - comentários e tradução da obrateórica completa. 2017. Dissertação (Mestrado em Música) - Departamento de Música da Escola de Comunicações e Artes, Universidade de São Paulo, São Paulo, 2017.\n8) PAOLIELLO, Noara. Telemann e a França - Gênero e Estilo nos quartetos de Telemann e a inovação dos Nouveaux Quatuors. 2016. Tese (Doutorado em Música) - Departamento de Música da Escola de Comunicações e Artes, Universidade de São\nPaulo, São Paulo, 2016.\n9) THE NEW GROVE DICTIONARY OF MUSIC AND MUSICIANS. 2ª ed. 29 v. 2001.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MUP050"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MUT004",
+      "Nome": "Música e Tradições Orais",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo introdutório de culturas musicais de diferentes povos e regiões do mundo, com base na literatura etnomusicológica e em recursos audiovisuais pertinentes.\n___BIBLIOGRAFIA BÁSICA___\n1) ARAUJO, Samuel; PAZ, Gaspar; CAMBRIA, Vincenzo (orgs.). Música em debate; perspectivas interdisciplinares. Rio de Janeiro: Ed. MauadX. 2008 (Biblioteca do PPGAS - UFRJ);\n2) SUNDBERG, Johan. The Science of the singing voice Northern Illinois University Press, 1987;\n3) HENRIQUE, Luís. Acústica musical. Lisboa: Fundação Calouste Gulbenkian, 2002.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MUT006",
+      "Nome": "Introd Antropologia da Música",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo panorâmico das contribuições teórico-metodológicas recíprocas entre antropologia e o estudo sistemático da da música, com especial ênfase na emergência do campo disciplinar da etnomusicologia.\n___BIBLIOGRAFIA BÁSICA___\n1) ARAUJO, Samuel; PAZ, Gaspar; CAMBRIA, Vincenzo (orgs.), Música em debate; perspectivas interdisciplinares. Rio de Janeiro: Ed. MauadX. 2008 (Biblioteca do PPGAS - UFRJ);\n2) SALGADO, José Alberto, et al. 2014. ?Refletindo sobre a interlocução em pesquisas com música?. Debates no 12 : Cadernos do Programa de Pós-Graduação em Música do Centro de Letras e Artes da UNIRIO; p. 93-105. (Biblioteca da EM-UFRJ);\n3) STEIN, Marília 2007. Kyringue mborai: os caminhos de uma etnografia musical entre crianças Mbya-Guarani na terra indígena tekoa Nhundy (Rio Grande do Sul). Em Pauta - v. 18 - n. 31 , p. 51-80.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MUT011",
+      "Nome": "Introd à Percepção Musical II",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo dos fundamentos musicais e suas relações com as diferentes maneiras de ouvir, escrever e fazer música. Parâmetros do som; as diferentes músicas - apreciação sob um perspectiva histórica; discutir \"música\" e sua matéria-prima: som-ruído-silêncio; divisão do tempo em duas e três partes: síncope e contratempo; possibilidades da divisão do tempo em quatro partes; síncope interna; figuras de duração (até a semicolcheia e sua respectiva pausa); compasso simples e compostos; inícios e terminações rítmicas; métrica binária, ternária, quaternária; u.t.: mínima, semínima e colcheia, simples e pontuada, com ênfase na semínima e na semínima pontuada; movimento do som nas suas relações intervalares; tonalismo: modo maior e menor; pauta, linhas suplementares (até 3), clave de sol e fa, âmbito do1-do5; intervalos: 2ª maior, menor, aumentada diminuta, 3ª maior, menor, aumentada diminuta, 8ª justa; tríades; encadeamentos com tônica e dominante (estado fundamental), modos maior e menor; formas binárias e ternárias; mudanças de andamento; contextos atonais: tom e semitom com grafia convencional; modalismo: modo mixolídio e eólio.\n___ BIBLIOGRAFIA BÁSICA ___\n1) ARNOUD, J. 1600 gradués de lecture musicale 1-1000 exercices ; 2- 600 exercices. Paris: Alfonse Leduc, 1881.\n2) BARBOSA, Cacilda Borges. Estudos de Ritmo e Som-Preparatório, 1º ano. São Paulo: Ricordi, 1982.\n3) WILLEMS, Edgar. Solfejo- Curso Elementar. São Paulo: Editora Fermata do Brasil, 2020.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) GRAMANI. J. E. Rítmica. São Paulo: Perspectiva, 2010.\n2) HINDEMITH, Paul. Treinamento Elementar para Músicos. São Paulo: Ricordi, 2004.\n3) PAZ, Ermelinda. 500 Canções Brasileiras. Brasília: MusiMed, 2015.\n4) SCHAFER, Murray. O Ouvido Pensante. São Paulo: Editora UNESP, 2012.\n5) WISNIK, J. M. O Som e o Sentido. São Paulo: Companhia das Letras, 2017.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MUT010"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MUT013",
+      "Nome": "Oficina de Choro II",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenvolvimento no repertório tradicional do Choro. Compositores e obras principais do gênero. Estudo crítico-histórico-social, conceitos morfológicos básicos e vivência\ninterpretativa e criativa no gênero. Uma práxis educativa na linguagem do Choro.\n",
+       "BibliografiaBasica": "1) DINIZ, André. Almanaque do choro. Rio de Janeiro: Zahar. 2003.\n2) PINTO, Alexandre Gonçalves. Choro: Reminiscências dos chorões antigos. Rio de Janeiro: FUNARTE, 1978.\n",
+       "BibliografiaComplementar": "1) CHEDIAK Almir. Choro, volumes 1, 2 e 3. Rio de Janeiro: Lumiar Ed. 2007.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MUT012"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MUT015",
+      "Nome": "Oficina de Choro IV",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Recapitulação e excelência no repertório tradicional do Choro. Compositores e obras principais do gênero. Estudo crítico-histórico-social, conceitos morfológicos básicos e vivência interpretativa e criativa no gênero. Uma práxis educativa na linguagem do Choro.\n",
+       "BibliografiaBasica": "1) DINIZ, André. Almanaque do choro. Rio de Janeiro: Zahar. 2003.\n2) PINTO, Alexandre Gonçalves. Choro: Reminiscências dos chorões antigos. Rio de Janeiro: FUNARTE, 1978.\n",
+       "BibliografiaComplementar": "1) CHEDIAK Almir. Choro, volumes 1, 2 e 3. Rio de Janeiro: Lumiar Ed. 2007.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MUT014"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MUT152",
+      "Nome": "Acústica e Biolog Aplic Mus II",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Princípios fundamentais do funcionamento dos instrumentos. O espaço sonoro: acústica arquitetônica. Tecnologia, informática e música.\n___BIBLIOGRAFIA BÁSICA___\n1) BENADE, Arthur H. Fundamentals of musical acustics. New York: Oxford University Press, 1976.\n2) SUNDBERG, Johan. The Science of the singing voice Northern Illinois University Press, 1987.\n3) HENRIQUE, Luís. Acústica musical. Lisboa: Fundação Calouste Gulbenkian, 2002.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MUT151"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MUT523",
+      "Nome": "Introdução à Pesq em Música I",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Enfoques e procedimentos metodológicos aplicados em pesquisas em educação musical, em qualquer nível ou espaço de ensino, articulados à dimensão prática, através de trabalho de campo ou estágio, segundo uma perspectiva crítica.\n___BIBLIOGRAFIA BÁSICA___\n1) ABREU, Martha; DANTAS, Carolina Vianna. Música popular, identidade nacional e escrita da história. Textos escolhidos de cultura e arte populares, Rio de Janeiro, v.13, n. 1, p.7-25, mai. 2016.\n2) BECKER, Howard. Métodos de Pesquisa em Ciências Sociais. São Paulo: Hucitec, 1999 [1992].\n3) FRASER, Marcia; GONDIM, Sônia. Da fala do outro ao texto negociado: discussões sobre a entrevista na pesquisa qualitativa. Paideia, Salvador, 14 (28), pp. 143-145, 2004.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) CASTAGNA, Paulo. Propósitos da pesquisa na universidade. PETulante, Revista do PET-Música, IA/Unesp, São Paulo, n.4, p.106-116, dez. 2010/nov. 2011. ISSN 2177-1995.\n2) FREIRE, Vanda Bellard (org.) Horizontes da pesquisa em música. Rio de Janeiro: 7 Letras, 2010.\n3) GALVÃO, A. Aspectos psicológicos do trabalho orquestral. Cognição e artes musicais. Curitiba, Vol.1, n.1., p.5-15, 2006.\n4) LEHMANN, Bernard. O Avesso da Harmonia. Debates, Rio de Janeiro, n.2, p.73-102, 1998.\n5) PINTO, T. de O. Cem anos de etnomusicologia e a ?era fonográfica? da disciplina no Brasil. In: Anais do II Encontro da ABET, Salvador: CNPq/Contexto, 2004, p. 103-124.\n6) SWANWICK, Keith. Ensinando música musicalmente. São Paulo: Moderna, 2003.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCB707",
+      "Nome": "Sociologia Direitos Humanos",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Os problemas presentes na sociedade brasileira contemporânea, associados à ascensão, fortalecimento e ação de novos movimentos sociais, cujo\neixo é a demanda por reconhecimento social e a aquisição de direitos humanos e de cidadania. A diversidade sociocultural, política e ética do Brasil atual. A luta e as dinâmicas de resistência,\nde inclusão social, de conquistas de dignidade humana, prestígio social e respeito.\n",
+       "BibliografiaBasica": "1- ALVES, J.C.S.. Dos Barões ao Extermínio: Uma História da Violência na baixada Fluminense. Duque de Caxias: APPH; CLIO,2003.\n2- ARENDT, H.. A Condição Humana. Rio de Janeiro: Editora Forense Universitária, 1983.\n3- CARDOSO DE OLIVEIRA, L.R.. Direito Legal e Insulto Moral: Dilemas da Cidadania no Brasil, Quebec e EUA. Rio de Janeiro: Editora Relume Dumará, 2002.\n4- CARVALHO, J.M. Os Bestializados: O Rio de Janeiro e a República Que Não Foi. São Paulo: Cia das Letras, 1987.\n5- COMPARATO, F.K.. A Afirmação Histórica dos Direitos Humanos. São Paulo: Editora Saraiva, 1999.\n6- GORENDER, J.. Direitos Humanos: O Que São (Ou Devem Ser). São Paulo: Editora Senac São Paulo, 2004.\n7- HIRSCHMAN, A. O.. A Retórica da Intransigência: Perversidade, Futilidade, Ameaça. São Paulo: Cia das Letras, 1992.\n8- HONNETH, A.. Luta por Reconhecimento: A Gramática Moral dos Conflitos Sociais. São Paulo: Editora 34, 2003.\n10- MARSHALL, T.H. Cidadania, Classe Social e Status. Rio de Janeiro: Editora Zahar, 1976.\n11- BOBBIO, N.. A Era dos Direitos. Rio de Janeiro: Editora Campus, 1992.\n12- PIOVESAN, F.. Temas de Direitos Humanos. São Paulo: Editora Max Limonad, 1998.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCF654",
+      "Nome": "Hist da Filos no Brasil I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A filosofia brasileira como problema: origens e perspectivas. Causas imanentes à cultura nacional: o fator indígena e o fator africano.\n",
+       "BibliografiaBasica": "1) BERNARDES, Célia R. O. Racismo de Estado. Ed. Jurúa, 2013;\n2) BRITO, Raimundo de Farias. O mundo interior. Org. e estudo introdutório de L. A. Cerqueira. Lisboa: INCM, 2003;\n3) CERQUEIRA, Luiz Alberto. Natureza e cultura: a idéia de origem da filosofia brasileira. Lisboa: Universidade Nova de Lisboa, 1997;\n4) GUIMARÃES, Aquiles Côrtes. O tema da consciência na filosofia brasileira. São Paulo: Convívio, 1982;\n5) REALE, Miguel. Estudos de filosofia brasileira. Lisboa: Instituto de filosofia luso-brasileira, 1994;\n6) CERQUEIRA, Luiz Alberto. Filosofia brasileira ? Ontogênese da consciência de si. Petrópolis: Vozes, 2002;\n7) CERQUEIRA, Luiz Alberto (org.). Aristotelismo Antiaristotelismo Ensino de Filosofia. Rio de Janeiro: Ágora da Ilha, 1999;\n8) DESCARTES, René. Meditações Metafísicas. São Paulo: Martins Fontes, 2005;\n9) MAGALHÃES, D. J. Gonçalves de. Fatos do espírito humano. Org. e estudo introdutório de L. A. Cerqueira. Petrópolis: Vozes, 2004;\n10) VIVEIROS DE CASTRO, E. A inconstância da alma selvagem. São Paulo: Cosac & Naif, 2002.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEB599",
+      "Nome": "Est da Líng Bras de Sinais I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Nomes próprios; pronomes pessoais; demonstrativos; possessivos; locativos em sentenças simples do tipo pergunta-resposta com \"o que\" e \"quem\" e outros vocábulos básicos; numerais; quantidade; topicalização; flexão verbal; flexão de negação; expressões faciais e corporais; percepção visual; conversação; diálogos; textos: LIBRAS, cultura e comunidade surda.\n",
+       "BibliografiaBasica": "1) BRITO, L. F. Por uma gramática de língua de sinais. Rio de Janeiro: Tempo Brasileiro, 1995.\n2) FELIPE, T.; MONTEIRO, M. S. LIBRAS em contexto. Curso Básico. Brasília: Ministério da Educação e do Desporto/Secretaria de Educação Especial, 2001.\n3) GESSER, A. Libras - Que língua é essa? Crença e preconceitos em torno da língua de sinais e da realidade surda. Florianópolis: Parábola, 2009.\n4) STROBEL, K. L. As imagens do outro sobre a cultura surda. Florianópolis: EdUFSC, 2008.\n",
+       "BibliografiaComplementar": "1) PIMENTA, Nelson e QUADROS, Ronice Muller. Curso de Libras I, LSB Vídeo, volume I, Iniciante, 2006 e 3a ed., 2008.\n2) Dicionário Enciclopédico Ilustrado Triíngue da Língua de Sinais Brasileira ? vol 1 e vol. 2 Site: www.acessobrasil.org.brasil\n3) Dicionário da Língua Brasileira de Sinais, INES, versão, 2.0, ano 2006.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MUA021",
+      "Nome": "Tóp em Mús e Instr de Cord II",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudos em música relacionados com a cultura e as artes envolvendo os instrumentos de corda, incluindo os conteúdos das culturas afro-brasileiras e povos indígenas.\n___ BIBLIOGRAFIA BÁSICA ___\n1- Rink, John. The practice of performance: studies in musical interpretation. New York: Cambridge University Press, 2005.\n2- Lucas, Maria Elizabeth. Mixagens em campo: etnomusicologia, performance e diversidade musical. Porto Alegre: Marcavisual, 2013.\n__BIBLIOGRAFIA COMPLEMENTAR__\n1- Enciclopédia da música brasileira: erudita, folclórica, popular. São Paulo: Art Editora, 1977.\n2- The new Grove dictionary of music and musician/ editey by Stanley Sadie, executive editor John Tyrell. New York: Grove, 2001.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MUA024",
+      "Nome": "Tóp em Mús e Instr de Cordas V",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudos em música relacionados com a cultura e as artes envolvendo os instrumentos de corda, incluindo os conteúdos das culturas afro-brasileiras e povos indígenas.\n___ BIBLIOGRAFIA BÁSICA ___\n1- Rink, John. The practice of performance: studies in musical interpretation. New York: Cambridge University Press, 2005.\n2- Lucas, Maria Elizabeth. Mixagens em campo: etnomusicologia, performance e diversidade musical. Porto Alegre: Marcavisual, 2013.\n__BIBLIOGRAFIA COMPLEMENTAR__\n1- Enciclopédia da música brasileira: erudita, folclórica, popular. São Paulo: Art Editora, 1977.\n2- The new Grove dictionary of music and musician/ editey by Stanley Sadie, executive editor John Tyrell. New York: Grove, 2001.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MUA026",
+      "Nome": "Tóp em Mús e Instr de Cord VII",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudos em música relacionados com a cultura e as artes envolvendo os instrumentos de corda, incluindo os conteúdos das culturas afro-brasileiras e povos indígenas.\n___ BIBLIOGRAFIA BÁSICA ___\n1- Rink, John. The practice of performance: studies in musical interpretation. New York: Cambridge University Press, 2005.\n2- Lucas, Maria Elizabeth. Mixagens em campo: etnomusicologia, performance e diversidade musical. Porto Alegre: Marcavisual, 2013.\n__BIBLIOGRAFIA COMPLEMENTAR__\n1- Enciclopédia da música brasileira: erudita, folclórica, popular. São Paulo: Art Editora, 1977.\n2- The new Grove dictionary of music and musician/ editey by Stanley Sadie, executive editor John Tyrell. New York: Grove, 2001.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MUC003",
+      "Nome": "Composição de Choro",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução aos elementos estruturais do gênero choro (forma, harmonia, contorno melódico, organização rítmica, instrumentação e textura), com enfoque em processos composicionais. Discussão sobre aspectos idiomáticos e característicos do gênero, envolvendo aplicações dos resultados de pesquisa em andamento em nível de pós-graduação, considerando ainda descrições de modelos teóricos e metodológicos originais e avaliações estatísticas a partir de uma análise de corpus representativo de obras compostas por Pixinguinha. Apresentação de técnicas para a composição sistemática de choros. Inclui a possibilidade de palestras de instrumentistas renomados no âmbito do gênero, envolvendo aspectos idiomáticos de escrita e performance, e/ou utilização de materiais didáticos referentes às características instrumentais e performáticas do Choro.\n___BIBLIOGRAFIA BÁSICA___\n1) ALMADA, Carlos. Contraponto em música popular: fundamentação teórica e aplicações composicionais. Rio de Janeiro: Editora da UFRJ, 2013.\n2) ALMADA, Carlos. Harmonia funcional. Campinas: Editora da Unicamp, 2009.\n3) ALMADA, Carlos. A estrutura do choro. Rio de Janeiro: Da Fonseca, 2006.\n4) SANDRONI, Carlos. Feitiço decente. Rio de Janeiro: Jorge Zahar Editor / Editora UFRJ, 2001.\n5) Periódico: ALMADA, Carlos. O choro como modelo arquetípico da Teoria Gerativa da Música Tonal. Revista Brasileira de Música, Rio de Janeiro, v. 25, n.1, 2012, pp. 61-78. Disponível em: https://revistas.ufrj.br/index.php/rbm/article/viewFile/29310/16458 . Acesso em 11/9/2022.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) ALMADA, Carlos. Arranjo. Campinas: Editora da Unicamp, 2001.\n2) SCHOENBERG, Arnold. Fundamentos da composição musical. (Eduardo Seincman, trad.) São Paulo: EDUSP, 1991.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MUC057",
+      "Nome": "Editoração Musical Digital",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenvolvimento de técnicas para editoração de partituras, em meio digital, através da operação de softwares apropriados. As habilidades desenvolvidas possibilitam a aplicação de suas técnicas a diversas finalidades, tais como a criação de partituras para performance musical, para livros, para materiais didáticos, e para textos acadêmicos; como ferramenta de auxílio ao compositor; como ferramenta de pré-produção musical.\n",
+       "BibliografiaBasica": "Grier J. Musical Notation in the West. Cambridge University Press; 2021.\nMuseScore 4 Handbook. Disponível em: https://musescore.org/en/handbook/4\nSilva, Eduardo de Lucas da. (2017). Guia para editoração musical: elaboração de um sítio eletrônico. Dissertação de Mestrado Profissional em Música, Rio de Janeiro, EM-UFRJ.\n",
+       "BibliografiaComplementar": "David M. (2023). Sharing Software, Music and Visual Content. In: Networked Crime: Does the Digital Make the Difference?. Bristol University Press; 159-177.\nMerlino, Julio. (2008). A Cifragem Alfanumérica: uma revisão conceitual. Dissertação de Mestrado em Música (Composição), Rio de Janeiro, EM-UFRJ.\nZaborowski R. (2023). Music Generations in the Digital Age: Social Practices of Listening and Idols in Japan. Amsterdam University Press.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MUC522",
+      "Nome": "Arranjo II",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo organológico e de particularidades do emprego dos diversos meios vocais, instrumentais e eletroacústicos, sua aplicação aos diferentes estilos musicais; transcrição e adaptação de partituras; análise e emprego de técnicas texturais; estudo dos gêneros instrumentais e desenvolvimento dos recursos de estruturação e domínio dos meios sonoros empregados na elaboração de arranjos especializados, com execução de partituras e arquivos eletrônicos que resultantes da aplicação da tecnologia específica.\n",
+       "BibliografiaBasica": "ADLER, Samuel. The study of orchestration. New York: W. W. Norton, 2002.\nGUEST, lan. Arranjo: método prático. Lumiar, 1996.\nALMADA, Carlos. Arranjo. Editora da Unicamp, 2000.\n",
+       "BibliografiaComplementar": "KENNAN, K. & GRANTHAM, D. The technique of orchestration. Englewood Cliffs, NJ: Prentice Hall, 1990.\nPISTON, Walter. Orchestration. New York: W.W. Norton, 1955.\nPEJROLO, A. & DEROSA, R. Acoustic and MIDI orchestration for the contemporary composer. Focal Press, 2007.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MUC521"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MUP050",
+      "Nome": "Prática Música Barroca I",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Atividades teóricas e práticas, contemplando os seguintes tópicos: introdução teórica acerca das principais questões que envolvem a interpretação do repertório dos séculos XVI, XVII e XVIII; diagnóstico e correção de problemas no instrumento (ou voz), visando a aplicação dos conhecimentos necessários à interpretação da música barroca; estudo da articulação e fraseado apropriados; estudo visando a correta utilização de dedilhados, quando necessário; estudo de execução de ornamentos; desenvolvimento da compreensão dos diversos estilos de música barroca.\n___BIBLIOGRAFIA BÁSICA___\n1) ANDERSON, Nicholas. Baroque Music- from Monteverdi to Bach. Londres. Thames and Hudson, 1994.\n2) ARNOLD, F. T. The Art of Accompaniment from a Thorough-Bass as Practised in the 17th and 18th Centuries. New York: Dover Publications, 1931/1965.\n3) BUKOFZER, Manfred. La Musique baroque. Lattes, 1982.\n4) Dannreuther, Edward, Musical Ornamentation. London: Novello, [19--?]\n5) HARNONCOURT, Nikolaus. O discurso dos sons. Tradução de Marcelo Fagerlande. Rio de Janeiro: Editora Zahar, 1988.\n6) HAYNES, Bruce. The End of Early Music- a period performer?s history of music for the twenty-first century. Oxford: Oxford University Press, 2007.\n7) LEDBETTER, David e WILLIAMS, Peter. Continuo. The Grove Dictionary of Art on line. Disponível na INTERNET via http://www.grovemusic.com\n8) NEUMANN, Frederick. Ornamentation in Baroque and Post-Baroque Music. Princeton University Press, 1978.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) FAGERLANDE, Marcelo (org.). Tratados e Métodos de Teclado: Sancta Maria, Frescobaldi, Couperin e Rameau. Rio de Janeiro: Programa de Pós-graduação da Escola de Música da UFRJ, 2013.\n2) FORKEL, Johann Nikolau. Juan Sebastian Bach/ por Johann Nikolau Forkel. Versión española introd. e notas de Adolfo Salazar. México: Fondo de Cultura Económica, 1998.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MUT001",
+      "Nome": "Pulsares: Oficina de Criação",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Investigação dos pressupostos e exemplos de trabalho de pesquisa da música em tradições orais aplicado à criação, apoio em literatura especializada. Análise, seleção, combinação de processos de criação musical baseados na oralidade e das\nimplicações dos mesmos para estudo de gêneros, estilos musicais no Brasil, relacionando o conhecimento recente àquele historicamente acumulado sobre o tema. Estudo, exercício prático da estruturação musical utilizados em repertórios\nmusicais de tradição oral.\n___BIBLIOGRAFIA BÁSICA___\n1) ANDRADE, Mário de Ensaio sobre a música brasileira. São Paulo: Chiaratto, 1928.\n2) GUERRA-PEIXE, César. Melos e harmonia acústica. São Paulo: Irmãos Vitale, 1988.\n3) PERSICHETTI, Vincent. Armonia del siglo XX. Trad. Alicia Santos Santos. Madri: Real Musica, 1985.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MUT005",
+      "Nome": "Introd às Músicas do Mundo",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Exposição dos educandos à diversidade musical do mundo, abordando os princípios estético-metodológicos de diferentes culturas bem como as possíveis interrelações entre as mesmas.\n___BIBLIOGRAFIA BÁSICA___\n1) BASTOS, Rafael José de Menezes /A musicológica Kamayurá: para uma antropologia da comunicação no Alto-Xingu. Brasília: FUNAI.\n2) BLACKING, John. How Musical Is Man? Seattle, WA: University of Washington Press.\n3) LUCAS, Glaura / 2002 Os sons do Rosário. Belo Horizonte: Editora da UFMG./\n4) MERRIAM, Alan P. The Anthropology of Music. Chicago: University of Chicago Press. /\n5) NETTL, Bruno. Música folklórica y tradicional de los continentes occidentales. Trad. Miren Rahm. Colección Alianza Música. Madrid: Alianza.\n6) OLIVEIRA PINTO, Tiago de. ?Som e música; questões de uma antropologia sonora?. Revista de Antropologia Vol 44 Nº 1 / 1985\n7) SEEGER, Anthony / Why Suyá Sing: A Musical Anthropology of na Amazonian People. Cambridge: Cambridge University Press.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MUT010",
+      "Nome": "Introd à Percepção Musical I",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo dos fundamentos musicais e suas relações com as diferentes maneiras de ouvir, escrever e fazer música. Parâmetros do som; as diferentes músicas: apreciação sob um perspectiva histórica; \"música\" e sua matéria-prima: som-ruído-silêncio, pulso/tempo, seus múltiplos; divisão do tempo em duas e três partes; figuras de duração (até a colcheia e sua respectiva pausa); ligadura, ponto de aumento; movimento do som (alturas) nas suas relações intervalares; tonalismo: modo maior e modo menor, centro de atração e intervalos; pauta, linhas suplementares (até 2), clave de sol e fa, âmbito do2-do4, tom e semitom, sinais de alteração; formas binárias e ternárias; legato e staccato; andamento; sinais de repetição: ritornello, da capo, casa de 1ª e 2ª vez.\n___BIBLIOGRAFIA BÁSICA___\n1) ARNOUD, J. 1600 gradués de lecture musicale 1-1000 exercices ; 2- 600 exercices. Paris: Alfonse Leduc, 1881.\n2) BARBOSA, Cacilda Borges - Estudos de Ritmo e Som-Preparatório, 1º ano. São Paulo: Ricordi, 1982.\n3) WILLEMS, Edgar. Solfejo-Curso Elementar. São Paulo: Editora Fermata do Brasil, 2020.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) GRAMANI. J. E. Rítmica. São Paulo: Perspectiva, 2010.\n2) HINDEMITH, Paul. Treinamento Elementar para Músicos. São Paulo: Ricordi, 2004.\n3) PAZ, Ermelinda. 500 Canções Brasileiras. Brasília: MusiMed, 2015.\n4) SCHAFER, Murray. O Ouvido Pensante. São Paulo: Editora UNESP, 2012.\n5) WISNIK, J.M. O Som e o Sentido. São Paulo: Companhia das Letras, 2017.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MUT012",
+      "Nome": "Oficina de Choro I",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução ao repertório tradicional do Choro. Compositores e obras principais do gênero. Estudo crítico-histórico-social, conceitos morfológicos básicos e vivência interpretativa e criativa no gênero. Uma práxis educativa na linguagem do Choro.\n",
+       "BibliografiaBasica": "1) DINIZ, André. Almanaque do choro. Rio de Janeiro: Zahar. 2003.\n2) PINTO, Alexandre Gonçalves. Choro: Reminiscências dos chorões antigos. Rio de Janeiro: FUNARTE, 1978.\n",
+       "BibliografiaComplementar": "1) CHEDIAK Almir. Choro, volumes 1, 2 e 3. Rio de Janeiro: Lumiar Ed. 2007.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MUT014",
+      "Nome": "Oficina de Choro III",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Aprimoramento no repertório tradicional do Choro. Compositores e obras principais do gênero. Estudo crítico-histórico-social, conceitos morfológicos básicos e vivência interpretativa e criativa no gênero. Uma práxis educativa na linguagem do Choro.\n",
+       "BibliografiaBasica": "1) DINIZ, André. Almanaque do choro. Rio de Janeiro: Zahar. 2003.\n2) PINTO, Alexandre Gonçalves. Choro: Reminiscências dos chorões antigos. Rio de Janeiro: FUNARTE, 1978.\n",
+       "BibliografiaComplementar": "1) CHEDIAK Almir. Choro, volumes 1, 2 e 3. Rio de Janeiro: Lumiar Ed. 2007.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MUT013"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MUT151",
+      "Nome": "Acústica e Biolog Aplic Mus I",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Acústica Musical, som, vibrações sonoras, frequência (altura) intensidade, timbre, batimentos (vibrato), ressonância, reverberação (construção de instrumentos musicais e acústica das salas), cordas sonoras, tubos sonoros (instrumentos de corda e sopro), interferência dos sons, características acústicas dos instrumentos e eco.\n___BIBLIOGRAFIA BÁSICA___\n1) BARTHOLOMERO, WILMER- Acoustics of Music (N. York Printice Hall, 1956).\n2) CATTOI, B. Apuntés de Acustica y Escala Exótica (Buenos Aires, Ricordi Americana, 1954).\n3) CALDAS Barbosa M. A. Compêndio de Acústica e Biologia Aplicada à Música (R.J., Rabelo Silva, 1957).\n4) CLUVER, Charles Aarond. Musical Acoustics (Philadelphia, Blakinston, 1941).\n5) HELMHOLTZ, H. Theorie Physiologique de La Musique (Paris, G. Masso, 1874).\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MUT522",
+      "Nome": "Música na América Latina",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Abordagem da música nos diversos países da América Latina e suas ligações histórico-culturais com a música brasileira.\n___BIBLIOGRAFIA BÁSICA___\n1) BÉHAGUE, Gerard. Music in Latin America. Prentice-Hall, 1979. Trad. espanhol: La música en América Latina. Caracas: Monte Avila, 1983.\n2) BENNETT, Roy. Uma breve história da música. Tradução: Maria Teresa Resende Costa, revisão técnica: Luiz Paulo Sampaio. Rio de Janeiro: Jorge Zahar, 1994.\n3) NETTL, Bruno. Música folclórica y tradicional de los continentes occidentales. Madrid: Alianza, 1985. (Disponível na Biblioteca Alberto Nepomuceno da Escola de Música da UFRJ).\n4) Periódicos: Latin American Music Review ? Universidade do Texas-Austin (Portal CAPES) Revista Musical Chilena. Disponível em http://www.revistamusicalchilena.uchile.cl/\n5) TRANS - Revista Transcultural de Música - SIBE | Sociedad de etnomusicologia (Espanha). Disponível em http://www.sibetrans.com/trans\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) GONZÁLEZ, Juan Pablo. Pensar la música desde América Latina. Buenos Aires: Gourmet Musical, 2013. Trad. português: Pensando a música a partir da América Latina. São Paulo: Letra e Voz, 2016.\n2) KUSS, Malena. Music in Latin America and the Caribbean: An Encyclopedic History. 2 vols. Austin: The University of Texas Press, 2004-2007.\n3) MOORE, Robin. Music in the Hispanic Caribbean: experiencing music, expressing culture. Oxford University Press, 2010.\n4) GARLAND ENCYCLOPEDIA OF WORLD MUSIC. (advisory editors, B. Nettl e R. Stone; founding editors, J. Porter e T. Rice).\n5) Olsen, Dale A.; Sheehy, Daniel (eds.). Vol 2. South America, Mexico, Central America, and the Caribbean. New York, Londres: Garland Publishing, 1998.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     }
+    ]
+   },
+   "obrigatorias": 2,
+   "eletivas": 34,
+   "ano": "2020/2 a 9999/9"
+  }
+ ]
+}

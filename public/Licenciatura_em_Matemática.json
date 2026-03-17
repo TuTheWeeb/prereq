@@ -1,0 +1,4470 @@
+{
+ "Licenciatura em Matemática": [
+  {
+   "materias": {
+    "1º Período": [
+     {
+      "Codigo": "FIT111",
+      "Nome": "Física I",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Noções de cálculo diferencial e integral e calculo vetorial. Força, cinemática e dinâmica do ponto material. Leis de Newton. Trabalho. Energia e sua conservação. Momento linear e sua conservação. Cinemática e dinâmica do movimento de rotação. Momento angular e sua conservação. Gravitação.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAC118",
+      "Nome": "Cálculo Difer e Integral I",
+      "Créditos": "6.0",
+      "Teórica": "75",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Não cadastrada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "10:00 - 12:00",
+        "professor": "TULIO MARCIO GENTIL DOS SANTOS"
+       },
+       {
+        "dia": "Qua",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       },
+       {
+        "dia": "Sex",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIS111",
+      "Nome": "Física Experimental I",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução à medida: como medir. Como expressar corretamente os valores medidos. Estimar a precisão de instrumentos. Dispersão de uma medida: controle de grandezas físicas numa experiência. Como caracterizar a dispersão de um conjunto de dados por um indicador apropriado. Cinemática unidimensional: desenvolvimento intuitivo e operacional dos conceitos de velocidade e aceleração. Representação e análise gráfica. Leis de Newton. Como definir operacionalmente a inércia e um corpo. Relação massa inercial-massa gravitacional. Colisões unidimensionais elásticas, semi-elásticas e inelásticas. Modelo teórico de uma colisão unidimensional.\n",
+       "BibliografiaBasica": "1) Apostila de Física Experimental I. Instituto de Física, UFRJ.\n2) Fundamentos da Teoria de Erros. J.H. Vuolo.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 10:00",
+        "professor": "RUYNET LIMA DE MATOS FILHO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAC117",
+      "Nome": "Geometria I",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Não cadastrada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAE115",
+      "Nome": "Cálculo Vetorial e G Analítica",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Vetores no plano e no espaço. Produto escalar e vetorial. Aplicações a geometria do plano e do espaço. Cônicas e quádricas. Construção das cônicas: traçado de tangentes.\n",
+       "BibliografiaBasica": "1- ANTON, H.A. & RORRES, C. Álgebra Linear com Aplicações. 8ª edição. Porto\nAlegre: Bookman, 2001.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "2º Período": [
+     {
+      "Codigo": "FIT121",
+      "Nome": "Física II",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Hidrostatica; pressao. Hidrodinamica; viscosidade. Movimento harmonico. Ondas mecanicas; interferencias. Ondas sonoras e acusticas. Termologia. Temperatura. Termometria; dilatacao termica. Calor. Primeiro principio de termodinamica. Teoria cinetica dos gases; gas perfeito de Van-der Waals. Reversibilidade. Segundo principio da termodinamica.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "FIT111",
+       "MAC114"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAC123",
+      "Nome": "Cálculo II",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Polinômios de Taylor; Séries Infinitas; Séries de potências; Curvas e vetores no espaço; Superfícies; Funções de Várias Variáveis; Máximos e Mínimos de Funções IR² em IR ;\nMáximos e Mínimos Condicionados de funções de IR² em IR e de IR³ em IR.\n",
+       "BibliografiaBasica": "1) ANTON, Howard; BIVIS, Iri; DAVIS, Stephen. Cálculo. Volume II. São Paulo: Editora Harbra, 2007.\n2) PINTO, Diomara; MORGADO, Maria Cândida Ferreira. Cálculo diferencial e integral de funções de várias variáveis. Rio de Janeiro: UFRJ, 2000.\n3) STEWART, James. Cálculo. Volume II. São Paulo : Cengage Learning, 2014.\n",
+       "BibliografiaComplementar": "1) APOSTOL, Tom Mike. Calculus. Volume II. New York: J. Wiley, c1969.\n2) COURANT, Richard. Differential and integral calculus. New York: Interscience, 1950[1936].\n3) GUIDORIZZI, Hamilton Luiz. Um curso de cálculo. Volume II. Rio de Janeiro: LTC, 2001.\n4) LEITHOLD, Louis. O Cálculo com geometria analítica. Volume II. São Paulo: Habra, 1994\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MAC113"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAD124",
+      "Nome": "Introdução a Estatística",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Não cadastrada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 15:00",
+        "professor": "LEANDRO PINTO RODRIGUES PIMENTEL"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 15:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAE127",
+      "Nome": "Equações Diferenciais",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Não cadastrada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "10:00 - 12:00",
+        "professor": "STEFANELLA BOATTO"
+       },
+       {
+        "dia": "Qui",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MAC118"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIS121",
+      "Nome": "Física Experimental II",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Dinamica das rotacoes: cinematica das rotacoes, determinacao de momento de inercia, pendulo composto. Movimento oscilatorio: movimento harmonico-simples, movimento harmonico amortecido, combinacao de movimentos harmonicos. Hidrostatica: determinacao de viscosidade, determinacao de densidade de liquidos e solidos. Ondas mecanicas: velocidade do som (metodo de ressonancia), cordas vibrantes. Calorimetria: capacidade calorifica, equivalente mecanico.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "FIS111",
+       "FIT111"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAA114",
+      "Nome": "Álgebra I",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Algoritmo da divisão e máximo divisor comum; Números primos e fatoração de interiores; Relações de equivalência; Aritmética modular; Teorema chinês dos restos; Indução finita; Teorema de Fermat; Grupos, Subgrupos e teorema de Lagrange; Teorema de Euler; Testes de primalidade e pseudoprimalidade; Números de Carmichael, Marsenne e  Fermat.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAC128",
+      "Nome": "Cálculo Diferen e Integral II",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Não cadastrada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MAC118"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAE125",
+      "Nome": "Álgebra Linear II",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Não cadastrada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "10:00 - 12:00",
+        "professor": "HEUDSON TOSTA MIRANDOLA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MAC118"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "3º Período": [
+     {
+      "Codigo": "FIN231",
+      "Nome": "Física Experimental III",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Instrumentos de Medidas Elétricas. Resistores. Capacitores. Tensões e Correntes Alternadas. Campos Magnéticos Estáticos.\n",
+       "BibliografiaBasica": "1)  Apostila de Física Experimental III, Instituto de Física, UFRJ.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "FIS121"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAB121",
+      "Nome": "Computação I",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Características básicas da organização de um computador. Algoritmos, programação básica e estrutura de um programa. Representação de dados. Estudo detalhado de uma linguagem de programação (PASCAL). Solução de problemas numéricos e não-numéricos por Computadores.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAC238",
+      "Nome": "Cálculo Diferen e Integral III",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Não cadastrada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MAC128"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIM231",
+      "Nome": "Física III",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Fenomenos eletricos e magneticos. Conceitos de campos eletrico e magnetico. Situacoes estacionarias e quase-estacionarias.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "FIT111",
+       "MAC128"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAA233",
+      "Nome": "Álgebra II",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Grupos, subgrupos e teoremas de Lagrange; Grupos de permutações; Subgrupos normais e quocientes; Teorema dos homomorfismos; Anéis e corpos; Corpos de um anel de integridade; Anel de polinômios sobre um corpo: allgoritmo da divisão, máximo divisor comum, teorema da fatoração única, irredutibilidade e critério de Eisenstein; Extensões dos racionais; Funções simétricas; Teorema de Newton; Resolvente de Lagrange; Solução algébrica de equações de grau 3 e 4.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MAA114"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAC233",
+      "Nome": "Cálculo III",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Teoremas da Função Implícita e Inversa; Integrais Duplas e Triplas; Mudança de Variáveis; Integrais Múltiplas Impróprias; Integral de linha escalar e vetorial; Teorema de Green; Parametrização e Área de superfícies; Integral de superfície escalar e vetorial; Teorema de Stokes e Gauss; Interpretação física; Campos conservativos.\n",
+       "BibliografiaBasica": "1) ANTON, Howard; BIVIS, Iri; DAVIS, Stephen. Cálculo. Volume II. São Paulo: Editora Harbra, 2007.\n2) PINTO, Diomara; MORGADO, Maria Cândida Ferreira. Cálculo diferencial e integral de funções de várias variáveis. Rio de Janeiro: UFRJ, 2000.\n3) STEWART, James. Cálculo. Volume II. São Paulo : Cengage Learning, 2014.\n",
+       "BibliografiaComplementar": "1) APOSTOL, Tom Mike. Calculus. Volume II. New York: J. Wiley, c1969.\n2) GUIDORIZZI, Hamilton Luiz. Um curso de cálculo. Volume II. Rio de Janeiro: LTC, 2003.\n3) MARSDEN, Jerrold E.; TROMBA, Anthony J. Vector calculus. New York : W. H. Freeman, c1988.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MAC123"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "4º Período": [
+     {
+      "Codigo": "FIN241",
+      "Nome": "Física Experimental IV",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Principio do magnetismo, leis de Ampere, Faraday e Lentz. Medidor de campo magnetico. Propriedades magneticas da materia, histerese, corrente alternada: circuitos de corrente alternada RLC, oscilacoes eletromagneticas. Conservacao de energia. Otica geometrica: reflexao, refracao, lentes e prismas. Otica fisica: interferencia, difracao e polarizacao.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "FIM231",
+       "FIN231"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAA243",
+      "Nome": "Algebra III",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Não cadastrada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MAA114"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAB231",
+      "Nome": "Cálculo Numérico",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Não cadastrada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MAB121",
+       "MAC128"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIM241",
+      "Nome": "Física IV",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Oscilacoes eletromagneticas. Otica. Introducao a fisica moderna.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "FIM231"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAA240",
+      "Nome": "Analise I",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Não cadastrada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MAC233"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAA244",
+      "Nome": "Logica Aplicada I",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Linguagem formal. Logica sentencial. Logica quantificacional de primeira ordem com identidade. Teorias de primeira ordem. Teoria dos numeros. Teoria dos modelos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAC248",
+      "Nome": "Calculo Diferen e Integral IV",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Não cadastrada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MAC238"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "5º Período": [
+     {
+      "Codigo": "MAA353",
+      "Nome": "Funcoes Complexas I",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Não cadastrada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MAA233",
+       "MAC238"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAA352",
+      "Nome": "Analise Real I",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Comentarios sobre o metodo de dedekind para construcao dos numeros reais. Conjuntos enumeraveis. Espacos metricos. Sucessoes de funcoes reais. Limite e continuidade. Derivacao das funcoes de uma variavel. Integral de riemann-stieltjes.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MAA114",
+       "MAA233",
+       "MAC238"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAA359",
+      "Nome": "Matem do Curso Secundario I",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conjuntos e numeros cardinais. Analise combinatoria. Axiomatica da geometria afim plana. Retas e ordem. Projecoes paralelas, translacoes e homotetias. Construcao geometrica dos numeros reais. O plano como espaco afim. Geometria analitica afim plana.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MAA114",
+       "MAA233",
+       "MAC238"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "6º Período": [
+     {
+      "Codigo": "MAD243",
+      "Nome": "Estatística e Probabilidade",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Nocoes basicas de probabilidade. Variaveis aleatorias e distribuicoes de probabilidade. Distribuicoes conjuntas marginais e condicionais. Valores esperados. Teoremas limites. Teorema central do limite. Distribuicoes amostrais. Estimacao de parametros. Testes de hipoteses. Metodos bayesianos e teoria de decisao.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MAC128"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAA360",
+      "Nome": "Matem do Curso Secundario II",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Simetrias, reflexoes e rotacoes. Ortogonalidade. Distancia e produto escalar. Angulos e orientacao. O plano e o espaco euclidianos. Areas e volumes.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MAA359"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "7º Período": [
+     {
+      "Codigo": "EDD616",
+      "Nome": "Didatica Geral",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Pressupostos e caracteristicas da didatica. O contexto da pratica pedagogica. A dinamica da sala de aula. A construcao de uma proposta de ensino-aprendizagem. A vivencia e o aperfeicoamento da didatica.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDF333",
+      "Nome": "Sociologia da Educacao I",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceituacao e delimitacao do campo de estudo da Sociologia da Educacao. Relacao entre sociedade global e educacao: a perspectiva positivista, marxista e liberal. Analise sociologica dos problemas educacionais brasileiros.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDD501",
+      "Nome": "P Ens Matematica I",
+      "Créditos": "3.0",
+      "Teórica": "15",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Não cadastrada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "EDD573(C)EDD573=EDD616"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDDU05",
+      "Nome": "Pratica Ensino de Matematica",
+      "Créditos": "4.0",
+      "Teórica": "180",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Não cadastrada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "20:20 - 22:00",
+        "professor": "WASHINGTON SANTOS DOS REIS"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDF526",
+      "Nome": "Psicologia da Educacao I CP",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introducao ao estudo da Psicologia. Breve historico dos pressupostos epistemologicos. Principais escolas contemporaneas: behaviorismo, gestaltismo e psicanalise - suas contribuicoes para a educacao. O desenvolvimento humano e sua relacao com a aprendizagem. Hereditariedade e ambiente - maturacao e aprendizagem. Desenvolvimento da personalidade do aluno nos seus aspectos afetivo, cognitivo, social e mental.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "8º Período": [
+     {
+      "Codigo": "EDD620",
+      "Nome": "Didatica Esp de Matematica II",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Metodologia do ensino de matematica em uma didatica transformadora. O desenvolvimento da atitude cientifica nos alunos. A problematica da avaliacao do ensino da matematica.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "18:00 - 20:10",
+        "professor": "WASHINGTON SANTOS DOS REIS"
+       }
+      ],
+      "Requisitos": [
+       "EDD501"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDF543",
+      "Nome": "Fund Filosoficos da Educac CP",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Vinculacao entre ciencia e filosofia. A filosofia como discurso vivo e atual sobre questoes radicais. A busca de sentido da educacao como tarefa da filosofia. Matrizes da educacao contemporanea: poder, disciplina e autoridade. Problemas atuais da Filosofia da Educacao brasileira. Analise filosofica do cotidiano pedagogico brasileiro. Problemas, impasses e perspectivas de uma filosofia da educacao brasileira para o seculo XXI.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDA592",
+      "Nome": "Estr e Func do Ens de 1 e 2 Gr",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Educacao brasileira: visao historica. A educacao no pos-30 e no estado novo. Educacao e redemocratizacao no pais no pos-45. A LDB - consequencias da implantacao da lei 4.024/61 para o ensino primario e medio no pais. O ensino de 1o e 2o graus no regime militar 1964 - 1984. Leis 5.692/71 e 7.044/82. Pressupostos, implicacoes e problemas. A educacao na transicao democratica. O ensino de 1o e 2o graus na atualidade; educacao, cidadania e trabalho. Gestao da escola de 1o e 2o graus: propostas para sua democratizacao. Magisterio: formacao, carreira e condicoes de trabalho.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDF527",
+      "Nome": "Psicologia da Educacao II CP",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introducao a Psicologia da Aprendizagem, conceito, historico. Fatores fisiologicos, cognitivos, motivacionais e sociais da aprendizagem. Principais teorias da aprendizagem: cognitivas, comportamentalistas e humanistas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "EDF526"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ]
+   },
+   "obrigatorias": 40,
+   "eletivas": 0,
+   "ano": "1983/1 a 1987/2"
+  },
+  {
+   "materias": {
+    "1º Período": [
+     {
+      "Codigo": "MAB121",
+      "Nome": "Computação I",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Características básicas da organização de um computador. Algoritmos, programação básica e estrutura de um programa. Representação de dados. Estudo detalhado de uma linguagem de programação (PASCAL). Solução de problemas numéricos e não-numéricos por Computadores.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAC118",
+      "Nome": "Cálculo Difer e Integral I",
+      "Créditos": "6.0",
+      "Teórica": "75",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Não cadastrada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "10:00 - 12:00",
+        "professor": "TULIO MARCIO GENTIL DOS SANTOS"
+       },
+       {
+        "dia": "Qua",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       },
+       {
+        "dia": "Sex",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAA114",
+      "Nome": "Álgebra I",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Algoritmo da divisão e máximo divisor comum; Números primos e fatoração de interiores; Relações de equivalência; Aritmética modular; Teorema chinês dos restos; Indução finita; Teorema de Fermat; Grupos, Subgrupos e teorema de Lagrange; Teorema de Euler; Testes de primalidade e pseudoprimalidade; Números de Carmichael, Marsenne e  Fermat.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAC117",
+      "Nome": "Geometria I",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Não cadastrada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "2º Período": [
+     {
+      "Codigo": "MAD124",
+      "Nome": "Introdução a Estatística",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Não cadastrada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 15:00",
+        "professor": "LEANDRO PINTO RODRIGUES PIMENTEL"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 15:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAE127",
+      "Nome": "Equações Diferenciais",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Equações diferenciais de 1ª ordem e aplicações; Teoremas de Existência e Unicidade de Soluções; Equações diferenciais lineares de 2ª ordem e aplicações;\n",
+       "BibliografiaBasica": "1) BOYCE, William E.; DIPRIMA, Richard C. Equações diferenciais elementares e problemas de valores de contorno. Rio de Janeiro: LTC, 2006.\n2) FIGUEIREDO, Djairo Guedes de; NEVES, Aloisio Freiria. Equações diferenciais aplicadas. Rio de Janeiro : IMPA, c2007.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "10:00 - 12:00",
+        "professor": "STEFANELLA BOATTO"
+       },
+       {
+        "dia": "Qui",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MAC123",
+       "MAE125"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAC123",
+      "Nome": "Cálculo II",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Polinômios de Taylor; Séries Infinitas; Séries de potências; Curvas e vetores no espaço; Superfícies; Funções de Várias Variáveis; Máximos e Mínimos de Funções IR² em IR ;\nMáximos e Mínimos Condicionados de funções de IR² em IR e de IR³ em IR.\n",
+       "BibliografiaBasica": "1) ANTON, Howard; BIVIS, Iri; DAVIS, Stephen. Cálculo. Volume II. São Paulo: Editora Harbra, 2007.\n2) PINTO, Diomara; MORGADO, Maria Cândida Ferreira. Cálculo diferencial e integral de funções de várias variáveis. Rio de Janeiro: UFRJ, 2000.\n3) STEWART, James. Cálculo. Volume II. São Paulo : Cengage Learning, 2014.\n",
+       "BibliografiaComplementar": "1) APOSTOL, Tom Mike. Calculus. Volume II. New York: J. Wiley, c1969.\n2) COURANT, Richard. Differential and integral calculus. New York: Interscience, 1950[1936].\n3) GUIDORIZZI, Hamilton Luiz. Um curso de cálculo. Volume II. Rio de Janeiro: LTC, 2001.\n4) LEITHOLD, Louis. O Cálculo com geometria analítica. Volume II. São Paulo: Habra, 1994\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MAC113"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAE125",
+      "Nome": "Álgebra Linear II",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Sistemas de equações lineares e Eliminação Gaussiana. Matrizes e determinante. Espaços vetoriais Euclidianos. Geometria dos espaços vetoriais de dimensão finita. Transformações lineares. Espaços vetoriais com produto interno. Ortogonalidade e mínimos quadrados. Autovalores e autovetores. Teorema espectral. Aplicações à solução de Equações Diferenciais Ordinárias e em Geometria Euclidiana.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "10:00 - 12:00",
+        "professor": "HEUDSON TOSTA MIRANDOLA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "3º Período": [
+     {
+      "Codigo": "FIT111",
+      "Nome": "Física I",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Noções de cálculo diferencial e integral e calculo vetorial. Força, cinemática e dinâmica do ponto material. Leis de Newton. Trabalho. Energia e sua conservação. Momento linear e sua conservação. Cinemática e dinâmica do movimento de rotação. Momento angular e sua conservação. Gravitação.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAB231",
+      "Nome": "Cálculo Numérico",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Erros; Zeros de Funções; Resolução de Sistemas Lineares; Interpolação; Ajuste de Curvas, Integração Numérica; Equações Diferenciais Ordinárias.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MAB121",
+       "MAC128"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIS111",
+      "Nome": "Física Experimental I",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução à medida: como medir. Como expressar corretamente os valores medidos. Estimar a precisão de instrumentos. Dispersão de uma medida: controle de grandezas físicas numa experiência. Como caracterizar a dispersão de um conjunto de dados por um indicador apropriado. Cinemática unidimensional: desenvolvimento intuitivo e operacional dos conceitos de velocidade e aceleração. Representação e análise gráfica. Leis de Newton. Como definir operacionalmente a inércia e um corpo. Relação massa inercial-massa gravitacional. Colisões unidimensionais elásticas, semi-elásticas e inelásticas. Modelo teórico de uma colisão unidimensional.\n",
+       "BibliografiaBasica": "1) Apostila de Física Experimental I. Instituto de Física, UFRJ.\n2) Fundamentos da Teoria de Erros. J.H. Vuolo.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 10:00",
+        "professor": "RUYNET LIMA DE MATOS FILHO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAA233",
+      "Nome": "Álgebra II",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Grupos, subgrupos e teoremas de Lagrange; Grupos de permutações; Subgrupos normais e quocientes; Teorema dos homomorfismos; Anéis e corpos; Corpos de um anel de integridade; Anel de polinômios sobre um corpo: allgoritmo da divisão, máximo divisor comum, teorema da fatoração única, irredutibilidade e critério de Eisenstein; Extensões dos racionais; Funções simétricas; Teorema de Newton; Resolvente de Lagrange; Solução algébrica de equações de grau 3 e 4.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MAA114"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAC233",
+      "Nome": "Cálculo III",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Teoremas da Função Implícita e Inversa; Integrais Duplas e Triplas; Mudança de Variáveis; Integrais Múltiplas Impróprias; Integral de linha escalar e vetorial; Teorema de Green; Parametrização e Área de superfícies; Integral de superfície escalar e vetorial; Teorema de Stokes e Gauss; Interpretação física; Campos conservativos.\n",
+       "BibliografiaBasica": "1) ANTON, Howard; BIVIS, Iri; DAVIS, Stephen. Cálculo. Volume II. São Paulo: Editora Harbra, 2007.\n2) PINTO, Diomara; MORGADO, Maria Cândida Ferreira. Cálculo diferencial e integral de funções de várias variáveis. Rio de Janeiro: UFRJ, 2000.\n3) STEWART, James. Cálculo. Volume II. São Paulo : Cengage Learning, 2014.\n",
+       "BibliografiaComplementar": "1) APOSTOL, Tom Mike. Calculus. Volume II. New York: J. Wiley, c1969.\n2) GUIDORIZZI, Hamilton Luiz. Um curso de cálculo. Volume II. Rio de Janeiro: LTC, 2003.\n3) MARSDEN, Jerrold E.; TROMBA, Anthony J. Vector calculus. New York : W. H. Freeman, c1988.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MAC123"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "4º Período": [
+     {
+      "Codigo": "FIS121",
+      "Nome": "Física Experimental II",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Dinamica das rotacoes: cinematica das rotacoes, determinacao de momento de inercia, pendulo composto. Movimento oscilatorio: movimento harmonico-simples, movimento harmonico amortecido, combinacao de movimentos harmonicos. Hidrostatica: determinacao de viscosidade, determinacao de densidade de liquidos e solidos. Ondas mecanicas: velocidade do som (metodo de ressonancia), cordas vibrantes. Calorimetria: capacidade calorifica, equivalente mecanico.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "FIS111",
+       "FIT111"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAC227",
+      "Nome": "Geometria II",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Tentativas de Prova do quinto Postulado de Euclides; Axioma Hiperbólico e consequências; Paralelismo\nassintótico; Triângulos generalizados; Posições entre retas; Áreas de triângulos; Horocírculos e Linhas\nEquidistantes; Modelo do semi-plano de Poincaré ou do disco; Breve introdução de outras geometrias.\n",
+       "BibliografiaBasica": "1- Barbosa, J.L.M. - Geometria Hiperbólica, IMPA.\n2- Greenberg, M.J. ? Euclidean and non-euclidean Geometries, N.Y., W.H. Freeman and\ncompany, 4ed, 2008.\n3- Andrade, P. - Introdução à Geometria Hiperboólica: o modelo de Poincaré, Coleção\nTextos Universitários, SBM, 2013.\n",
+       "BibliografiaComplementar": "1- Coxeter, H.S.M. - Non-Euclidean Geometry, Math. Assoc. of America, 6ed. 1998. Ramsay, A.;\n1- Richtmyer, R. - Introduction to Hyperbolic Geometry,\nSpringer-Verlag, 1995.\n1- Anderson, J. - Hyperbolic Geometry, Springer-Verlag, 2ed, 2005.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MAC117"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIM231",
+      "Nome": "Física III",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Fenomenos eletricos e magneticos. Conceitos de campos eletrico e magnetico. Situacoes estacionarias e quase-estacionarias.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "FIT111",
+       "MAC128"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAA240",
+      "Nome": "Analise I",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Construção dos números reais; Seqüências e séries numéricas; Topologia da reta; Limite e continuidade; Derivadas; Integral de Riemann.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MAA114",
+       "MAC118"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAC249",
+      "Nome": "Matematica na Escola I",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Observacao e discussao do conteudo matematico desenvolvido nas turmas de primeiro e segundo graus da rede oficial. Analise dos principais pontos de dificuldades.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "5º Período": [
+     {
+      "Codigo": "EDF526",
+      "Nome": "Psicologia da Educacao I CP",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introducao ao estudo da Psicologia. Breve historico dos pressupostos epistemologicos. Principais escolas contemporaneas: behaviorismo, gestaltismo e psicanalise - suas contribuicoes para a educacao. O desenvolvimento humano e sua relacao com a aprendizagem. Hereditariedade e ambiente - maturacao e aprendizagem. Desenvolvimento da personalidade do aluno nos seus aspectos afetivo, cognitivo, social e mental.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIM241",
+      "Nome": "Física IV",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Oscilacoes eletromagneticas. Otica. Introducao a fisica moderna.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "FIM231"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAA358",
+      "Nome": "Conc Fundamentais da Matem I",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Os conjuntos dos numeros naturais, inteiros e racionais. Conceitos fundamentais da geometria. Conceitos fundamentais da algebra: resolucao de equacoes e fatoracao. Teoria dos conjuntos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDD616",
+      "Nome": "Didatica Geral",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Pressupostos e caracteristicas da didatica. O contexto da pratica pedagogica. A dinamica da sala de aula. A construcao de uma proposta de ensino-aprendizagem. A vivencia e o aperfeicoamento da didatica.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDF543",
+      "Nome": "Fund Filosoficos da Educac CP",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Vinculacao entre ciencia e filosofia. A filosofia como discurso vivo e atual sobre questoes radicais. A busca de sentido da educacao como tarefa da filosofia. Matrizes da educacao contemporanea: poder, disciplina e autoridade. Problemas atuais da Filosofia da Educacao brasileira. Analise filosofica do cotidiano pedagogico brasileiro. Problemas, impasses e perspectivas de uma filosofia da educacao brasileira para o seculo XXI.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAA353",
+      "Nome": "Funcoes Complexas I",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Número Complexos. Funções Analíticas; Funções elementares. Integrais. Séries de potências. Resíduos e polos. Transformações por funções elementares.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MAA233",
+       "MAC233"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "6º Período": [
+     {
+      "Codigo": "EDF333",
+      "Nome": "Sociologia da Educacao I",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceituacao e delimitacao do campo de estudo da Sociologia da Educacao. Relacao entre sociedade global e educacao: a perspectiva positivista, marxista e liberal. Analise sociologica dos problemas educacionais brasileiros.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAA243",
+      "Nome": "Algebra III",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Teoria basica dos grupos. Exemplos: grupos de simetrias do triangulo e do quadrado. Subgrupos. Classes laterais. Subgrupos normais. Grupos quocientes. Classes de cinjugacao. Homomorfismos. Grupos ciclicos. Teoremas de cauchy e sylow. Grupos soluveis. Extensoes normais e galoisianos (sobre os racionais). correspondencia de galois. Solubilidade por meio de radicais.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MAA233"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAB352",
+      "Nome": "Matemática Combinatória",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Permutacoes e combinacoes. Funcoes geratrizes. Relacoes de recorrencia. Principio de inclusao e exclusao. Teoria da contagem de polya. Teoria dos grafos. Conceitos basicos. Arvores. Circuitos. Grafos planares e duais. Redes de transporte.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MAB624"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDA592",
+      "Nome": "Estr e Func do Ens de 1 e 2 Gr",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Educacao brasileira: visao historica. A educacao no pos-30 e no estado novo. Educacao e redemocratizacao no pais no pos-45. A LDB - consequencias da implantacao da lei 4.024/61 para o ensino primario e medio no pais. O ensino de 1o e 2o graus no regime militar 1964 - 1984. Leis 5.692/71 e 7.044/82. Pressupostos, implicacoes e problemas. A educacao na transicao democratica. O ensino de 1o e 2o graus na atualidade; educacao, cidadania e trabalho. Gestao da escola de 1o e 2o graus: propostas para sua democratizacao. Magisterio: formacao, carreira e condicoes de trabalho.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDF527",
+      "Nome": "Psicologia da Educacao II CP",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introducao a Psicologia da Aprendizagem, conceito, historico. Fatores fisiologicos, cognitivos, motivacionais e sociais da aprendizagem. Principais teorias da aprendizagem: cognitivas, comportamentalistas e humanistas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "EDF526"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAA368",
+      "Nome": "Conc Fundamentais da Matem II",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O conjunto dos numeros reais. Conceito de variavel, funcao e limite de funcao. As funcoes logaritmicas, exponenciais e trigonometricas. Progressoes aritmeticas e geometricas. Os conceitos de derivada e integral.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MAA358"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAC349",
+      "Nome": "Matematica na Escola II",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Analise do desenvolvimento dos conceitos basicos da matematica nos livros didaticos mais adotados no primeiro e segundo graus. Analise da influencia de materiais didaticos para a construcao de conceitos matematicos em criancas e adolescentes. Analise de propostas curriculares oficiais.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "7º Período": [
+     {
+      "Codigo": "EDDU05",
+      "Nome": "Pratica Ensino de Matematica",
+      "Créditos": "4.0",
+      "Teórica": "180",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Não cadastrada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "20:20 - 22:00",
+        "professor": "WASHINGTON SANTOS DOS REIS"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDD501",
+      "Nome": "Didatica Esp da Matematica I",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A evolucao do ensino da matematica no Brasil. Analise do livro didatico. Perspectiva critica do planejamento pedagogico em educacao matematica. O cotidiano de sala de aula: elementos determinantes.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "EDD616(C)EDD616=EDD573"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "8º Período": [
+     {
+      "Codigo": "MAA357",
+      "Nome": "Evolucao da Matematica",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Origens da matematica. A evolucao da matematica da antiguidade ate a epoca contemporanea. A geometria de euclides e a geometria de riemann. A artimetizacao da analise. O movimento bourbaki.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MAA240",
+       "MAA243"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDD620",
+      "Nome": "Didatica Esp de Matematica II",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Metodologia do ensino de matematica em uma didatica transformadora. O desenvolvimento da atitude cientifica nos alunos. A problematica da avaliacao do ensino da matematica.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "18:00 - 20:10",
+        "professor": "WASHINGTON SANTOS DOS REIS"
+       }
+      ],
+      "Requisitos": [
+       "EDD501"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "Disciplinas Optativas (Escolha Condicionada)": [
+     {
+      "Codigo": "MAA373",
+      "Nome": "Introdução à Teor dos Números",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Infinitude do conjunto de números primos; Estrutura do grupo dos inversíveis módulo\num inteiro; Reciprocidade quadrática; Fundamentos da teoria algébrica dos números; corpos quadráticos e corpos ciclotômicos.\n",
+       "BibliografiaBasica": "1- Apostol, T.M. ? Introduction to Analytic Number Theory ? Springer Verlag, 1984\nHardy,G. e Wright, E. - Na Introduction to the Theory of Numbers, 3 rd ed. - Oxford\nUniversity Press,1964\n1- Ireland, K. e Rosen, M. ? A Classical Introduction to Modern Number Theory ? Springer\nVerlag, 1990.\n",
+       "BibliografiaComplementar": "1- Borevich-Shafarevich, Number Theory, New York, Academic Press, 1966.\n2- Dickson, L. E. History of the theory of numbers. New York: Stechert, 1934.\n3- Hindry, M. Arithmetics, Universitext, Springer, 2009.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MAA114"
+      ],
+      "Tipo": "eletiva"
+     }
+    ]
+   },
+   "obrigatorias": 35,
+   "eletivas": 1,
+   "ano": "1988/1 a 1992/2"
+  },
+  {
+   "materias": {
+    "1º Período": [
+     {
+      "Codigo": "MAW112",
+      "Nome": "Introducao a Computacao",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Aproximacoes numericas. Representacao de numeros no computador. Aritmetica de ponto flutuante. Erros. Caracteristicas basicas de organizacao de um computador. Algoritmos programas. Programacao basica em uma linguagem de programacao estruturada (Pascal). Solucao de problemas numericos e nao numericos por computadores.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "20:10 - 21:50",
+        "professor": "ROGERS REICHE DE MENDONCA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "18:30 - 20:10",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAW116",
+      "Nome": "Vetores no R2 e R3",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Vetores no plano e no espaço. Sistemas de coordenadas cartesianas, polares, cilíndricas e esféricas. Produto interno. Produto vetorial. Produto misto. Dependência e  indepenência linear. Retas e planos. Equações cartesianas e paramétricas. Posições entre retas e planos. Distâncias entre retas e planos. Cônicas. Equação geral das cônicas. Superfícies Quádricas. Equação geral das quádricas. Modelos explorados no ensino e formas de abordagem. Novas tecnologias utilizadas no ensino de Geometria Analítica. Análise de livros didáticos e para-ditáticos e de propostas curriculares oficiais.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "18:30 - 21:50",
+        "professor": "SELENE ALVES MAIA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAW111",
+      "Nome": "Calculo de Uma Variavel I",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Os numeros reais. Funcoes reais de uma variavel real. Interpolacao. Limites. Continuidade. Derivada. Calculo numerico de raizes. Aplicacoes das derivadas a Geometria e a Fisica. Polinomio de Taylor. Calculo aproximado de funcoes. Funcoes compostas. Derivacao implicita. Problemas de maximos e minimos e taxas relacionadas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "18:30 - 21:50",
+        "professor": "RODRIGO CARDOSO DOS SANTOS"
+       },
+       {
+        "dia": "Qua",
+        "hora": "20:10 - 21:50",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAW115",
+      "Nome": "Geometria e Desenho Geometrico",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Geometria plana: congruencias, semelhancas, o circulo, areas. Geometria espacial: angulos: diedros, triedros, poliedros. Solidos e esferas. Volumes. Consrucao com regua e compasso.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 10:00",
+        "professor": "VINICIUS BOUCA MARQUES DA COSTA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 10:00",
+        "professor": ""
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 10:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "2º Período": [
+     {
+      "Codigo": "MAW121",
+      "Nome": "Calculo de Uma Variavel II",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Sequencias. Sequencias limitadas e convergentes. Sequencias monotonas. Series. Somas parciais, criterios de convergencia. Serie de Taylor. Integrais definidas. T. fundamental do calculo. Calculo de primitivas. Aplicacoes geometricas. Funcao logaritmo e exponencial. Modelos de populacao. Teorema do valor medio. Regra de L Hospital. Aplicacao da integral ao calculo de areas e volumes. Tecnicas de integracao. Metodos numericos. Integrais improprias.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "18:30 - 21:50",
+        "professor": "THIAGO HARTZ MAIA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAW125",
+      "Nome": "Os Numeros",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Numeros inteiros: propriedades algebricas da soma e multiplicacao de inteiros, algoritmo de divisao, maximo divisor comum e minimo multiplo comum, algoritmo euclidiano, equacoes diofantinas, teorema de fatoracao unica. Aritmetica modular: o conjunto dos inteiros modulo N, pequeno teorema de Fermat, a funcao 0 de Euler e suas propriedades, teorema de Euler, aplicacoes. Os numeros racionais: construcao dos racionais a partir de Z/, operacoes com numeros racionais.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 15:00",
+        "professor": "JOAO MIRANDA CARNEVALE"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 15:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDW127",
+      "Nome": "Educacao no Brasil",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A educacao brasileira nos fins do seculo XX: crise de valores e instituicoes. Recentes politicas educacionais e a questao da escola publica.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAW123",
+      "Nome": "Matemática Finita",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Combinações e Permutações. Príncipio da Inclusão-Exclusão. Outros métodos de contagem. Números Binomiais. Triângulo de Pascal. Resoluções de recorrência. Funções geratizes. Teoria da contagem de Polya. Teoria dos Grafos: Conceitos Básicos. Árvores.\n",
+       "BibliografiaBasica": "1- A.C.O. Morgado, J.B.P. Carvalho, P.C.P. Carvalho e P. Fernandez. ?Análise Combinatória e Probabilidade.? SBM, Rio de Janeiro, 1991. Sétima edição\n",
+       "BibliografiaComplementar": "1- A.C. Bachk, L.M.B. Poppe e R.N.O. Tavares, ?Prelúdio à Análise Combinatória.? CEN, 1975.\n2- R.L. Graham, D.E. Knuth e O. Patashnik, ?Matemática Concreta.?\nLTC, 1995.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "20:10 - 21:50",
+        "professor": "JOSEFINO CABRAL MELO LIMA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "18:30 - 20:10",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAW126",
+      "Nome": "Algebra Linear",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Matrizes-sistemas lineares. Resolução numérica de sistemas lineares. Determinante. Matriz Inversa. Espaços e subespaços vetoriais. Base e mudança de base. Operadores lineares. Núcleo e imagem de trasformações lineares. Auto-valores e auto-vetores. Diagonalização de operadores: Teorema Espectral. Espaços com produto interno. Redução da equação geral do segundo grau a duas e três variáveis: Identificação de Cônicas e Quádricas utilizando a diagonalização.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "3º Período": [
+     {
+      "Codigo": "EDF526",
+      "Nome": "Psicologia da Educacao I CP",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introducao ao estudo da Psicologia. Breve historico dos pressupostos epistemologicos. Principais escolas contemporaneas: behaviorismo, gestaltismo e psicanalise - suas contribuicoes para a educacao. O desenvolvimento humano e sua relacao com a aprendizagem. Hereditariedade e ambiente - maturacao e aprendizagem. Desenvolvimento da personalidade do aluno nos seus aspectos afetivo, cognitivo, social e mental.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAW231",
+      "Nome": "Calculo de Varias Variaveis I",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Equacoes diferenciais de 1a. ordem com o fator integrante. Lineares de 2a. ordem coef. constantes. Modelos. Funcoes reais de duas e tres variaveis. Limites, continuidade. Derivadas parciais, gradiente. Derivada direcional, graficos, curvas e superficies de nivel maximo e minimo.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "18:30 - 20:10",
+        "professor": "JEFERSON LEANDRO GARCIA DE ARAUJO"
+       },
+       {
+        "dia": "Qua",
+        "hora": "20:10 - 21:50",
+        "professor": ""
+       },
+       {
+        "dia": "Sex",
+        "hora": "18:30 - 20:10",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDF333",
+      "Nome": "Sociologia da Educacao I",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceituacao e delimitacao do campo de estudo da Sociologia da Educacao. Relacao entre sociedade global e educacao: a perspectiva positivista, marxista e liberal. Analise sociologica dos problemas educacionais brasileiros.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIW111",
+      "Nome": "Introducao a Fisica",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introducao ao pensamento em Fisica. Teoria e realidade fisica. Explanacao em Fisica. Estudo da logica do pensamento cientifico. Modelos. Hipoteses. Principios fundamentais da Fisica. Estudo de alguns conceitos basicos da Fisica: movimento; leis de Newton; calor; gravitacao-leis de Kepler; momento linear -conservacao; campos eletrico e magnetico; otica; modelos corpuscular e ondulatorio para a luz; espectro atomico.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "18:30 - 21:50",
+        "professor": "FILOMENO SOARES DE AGUIAR JUNIOR"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAW235",
+      "Nome": "Os Polinomios",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Polinomios: polinomios com coeficientes em Q, R ou C. Algoritmo de divisao, maximo divisor comum, polinomios irredutiveis, teorema de fatoracao unica. Criterio de Eisenstein, funcoes racionais, decomposicao em fracoes parciais. Raizes de Polinomios: determinacao das raizes racionais de um polinomio em Z/[X], teorema fundamental da algebra.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 10:00",
+        "professor": "ERIK ANTONIO ROJAS MENDOZA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 10:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "4º Período": [
+     {
+      "Codigo": "MAW241",
+      "Nome": "Calculo de Varias Variaveis II",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Funções vetoriais. Parametrização de curvas. Integrais de linha. Teorema de Green. Integrais duplas e triplas. Mudanças de variáveis. Aplicações ao cálculo de áreas e volumes. Parametrização de superfícies. Integrais em superfícies. Teorema de Gauss. Teorema de Stokes. Campos conservativos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "18:30 - 20:10",
+        "professor": "PEDRO GAMBOA ROMERO"
+       },
+       {
+        "dia": "Sex",
+        "hora": "18:30 - 21:50",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAW244",
+      "Nome": "Matematica na Escola",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Observação e discussão do conteúdo matemático desenvolvido nas turmas de Ensino Fundamental e Ensino Médio da rede oficial. Análise dos principais pontos de dificuldades.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDF527",
+      "Nome": "Psicologia da Educacao II CP",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introducao a Psicologia da Aprendizagem, conceito, historico. Fatores fisiologicos, cognitivos, motivacionais e sociais da aprendizagem. Principais teorias da aprendizagem: cognitivas, comportamentalistas e humanistas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "EDF526"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAW243",
+      "Nome": "Probabilidade e Estatistica",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Noções de probabilidade. Teorema de Bayes. Estatística descritiva. Fontes de dados estatísticos. Estimação de parâmetros por pontos e intervalos. Teste de hipótese, comparação com vários modelos normais. Teste de independência e homogeneidade. Testes e estimação não paramétricas. Regressão. Correlação.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "18:30 - 21:50",
+        "professor": "ROBERTO ANDRES VIVEROS VERA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "20:10 - 21:50",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "5º Período": [
+     {
+      "Codigo": "FIW121",
+      "Nome": "Mecanica da Particula",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Forca. Momento linear. Conservacao. Leis de Newton. Cinematica e dinamica de uma particula pontual. Trabalho e energia. Conservacao. Momento angular de uma particula. Gravitacao. Transformacoes de Galileu e Lorentz.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "20:10 - 21:50",
+        "professor": "BRUNO MAGACHO DA SILVA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "18:30 - 20:10",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAW353",
+      "Nome": "Estruturas Algébricas",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Corpos (Q, R, C, Z, primo). Extensões algébricas de Q. Grau de uma extensão. Multiplicidade do grau. Construções com régua e compasso. Grupos. Grupos de simetrias de polígonos regulares e grupos de permutações. Subgrupos. Grupos finitos. Teorema de Lagrange. Grupo linear geral sobre R. Grupos que preservam formas bilineares. Grupos ortogonais. Movimentos rígidos. Grupo euclidiano.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "18:30 - 20:10",
+        "professor": "ALBETA COSTA MAFRA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "20:10 - 21:50",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDF543",
+      "Nome": "Fund Filosoficos da Educac CP",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Vinculacao entre ciencia e filosofia. A filosofia como discurso vivo e atual sobre questoes radicais. A busca de sentido da educacao como tarefa da filosofia. Matrizes da educacao contemporanea: poder, disciplina e autoridade. Problemas atuais da Filosofia da Educacao brasileira. Analise filosofica do cotidiano pedagogico brasileiro. Problemas, impasses e perspectivas de uma filosofia da educacao brasileira para o seculo XXI.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAW351",
+      "Nome": "Informatica Aplicada ao Ensino",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Características gerais do uso do computador no ensino. Planilha eletrônica. Hipertexto. Programas educativos. Exemplos e experiências do computador no ensino de Matemática. Possibilidade do uso do computador na formação de professores.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 15:00",
+        "professor": "MARIA HELENA CAUTIERO HORTA JARDIM"
+       },
+       {
+        "dia": "Seg",
+        "hora": "15:00 - 17:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAW354",
+      "Nome": "Fund da Matemat Elementar I",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conteudos da geometria para as 8 series do 1. grau. O metodo experimental e o axiomatico em geometria. Numeros naturais, sistemas de numeracao. Numeros inteiros. As 4 operacoes nesses conjuntos. Analise de textos didaticos e paradidaticos e de propostas curriculares oficiais.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "18:30 - 21:50",
+        "professor": "CARLOS DIOSDADO ESPINOZA PENAFIEL"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "6º Período": [
+     {
+      "Codigo": "EDD616",
+      "Nome": "Didatica Geral",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Pressupostos e caracteristicas da didatica. O contexto da pratica pedagogica. A dinamica da sala de aula. A construcao de uma proposta de ensino-aprendizagem. A vivencia e o aperfeicoamento da didatica.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAW365",
+      "Nome": "Fund da Matemat Elementar II",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "14",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Os numeros racionais, reais e complexos. Proporcionalidade. Aplicacoes a Matematica financeira. Analise combinatoria, probabilidade e estatistica para o 1. e 2. grau. Analise de textos didaticos e paradidaticos e de propostas curriculares oficiais.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDA592",
+      "Nome": "Estr e Func do Ens de 1 e 2 Gr",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Educacao brasileira: visao historica. A educacao no pos-30 e no estado novo. Educacao e redemocratizacao no pais no pos-45. A LDB - consequencias da implantacao da lei 4.024/61 para o ensino primario e medio no pais. O ensino de 1o e 2o graus no regime militar 1964 - 1984. Leis 5.692/71 e 7.044/82. Pressupostos, implicacoes e problemas. A educacao na transicao democratica. O ensino de 1o e 2o graus na atualidade; educacao, cidadania e trabalho. Gestao da escola de 1o e 2o graus: propostas para sua democratizacao. Magisterio: formacao, carreira e condicoes de trabalho.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIW241",
+      "Nome": "Introdução ao Eletromagnetismo",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Eletricidade: lei de Coulomb; campo elétrico, lei de Gauss, potencial elétrico; condutores e isolantes; Magnetismo: campo magnético; lei de Ampére e de Biot-Savart; lei de Faraday; propriedades magnéticas da matéria; indutância, lei de Ampére-Maxwell, corrente de indução.\n",
+       "BibliografiaBasica": "1- MOYSÉS NUSSENZVEIG, H., Curso de Física Básica: vol. 3. 4ª edição. São Paulo:\nEditora Edgard Blücher, 2002.\n2- HALLIDAY, D., RESNICK, R. & . WALKER, J., Fundamentos de Física: vol. 3. 8ª\nedição. Rio de Janeiro: LTC, 2009.\n3- YOUNG , H.D. & FREEDMAN, R.A., Física 3. 12ª edição. São Paulo: Pearson Education, 2007.\n4- TIPLER, P.A. & MOSCA, G. Física para Cientistas e Engenheiros: vol. 2. 5ª edição.\nRio Janeiro: LTC, 2006.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "20:10 - 21:50",
+        "professor": "FELIPE SIQUEIRA DE SOUZA DA ROSA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "18:30 - 20:10",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "FIW121",
+       "MAC238"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAW463",
+      "Nome": "Geom Descrit e Nao Euclidiana",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Geometria descritiva: representacao projetiva de pontos, retas e poliedros simples. Geometria projetiva: origem e axiomatica, perspectiva, teoremas de Pascal e Desarques, conicas. Geometria nao-euclidiana: geometria sobre a esfera, origens e o quadrilatero de Sacaheri. Geometria de Lobatschevsky e Riemann - uma introducao.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 15:00",
+        "professor": "ANDREW JAMES CLARKE"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 15:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "7º Período": [
+     {
+      "Codigo": "EDDU05",
+      "Nome": "Pratica Ensino de Matematica",
+      "Créditos": "4.0",
+      "Teórica": "180",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Não cadastrada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "20:20 - 22:00",
+        "professor": "WASHINGTON SANTOS DOS REIS"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAW476",
+      "Nome": "Fund da Matemat Elementar III",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Funcoes. Funcoes reais elementares; polinomios, funcoes racionais, raizes. Equacoes, funcao logaritima e funcao exponencial. Aplicacoes a matematica financeira, funcoes trigonometricas, analise de livros didaticos e paradidaticos e das propostas curriculares oficiais.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "18:30 - 21:50",
+        "professor": "MARIA DARCI GODINHO DA SILVA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDD501",
+      "Nome": "Didatica Esp da Matematica I",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A evolucao do ensino da matematica no Brasil. Analise do livro didatico. Perspectiva critica do planejamento pedagogico em educacao matematica. O cotidiano de sala de aula: elementos determinantes.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "EDD616(C)EDD616=EDD573"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAW475",
+      "Nome": "Analise Real",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Construção dos números reais. Seqüências e séries numéricas. Topologia da reta. Limite e continuidade. Derivadas. Teorema do valor intermediário. Teorema do Valor Médio. Teorema de Taylor. Integral de Riemann. Teorema Fundamental do Cálculo. Aplicações ao estudo das funções elementares.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "20:10 - 21:50",
+        "professor": "ERWIN MAXIMILIANO TOPP PAREDES"
+       },
+       {
+        "dia": "Sex",
+        "hora": "18:30 - 21:50",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAW487",
+      "Nome": "Monografia I",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução à metodologia científica. Escolha e delimitação do problema a ser trabalhado e da metodologia a ser utilizada na monografia de final de curso. Redação de uma porposta inicial.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "8º Período": [
+     {
+      "Codigo": "EDW486",
+      "Nome": "Avaliacao no Ensino",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Medida e avaliacao. Construcao e analise de instrumentos de medida. Uso de normas e criterios na avaliacao do dominio cognitivo. Avaliacao no dominio afetivo. Os conselhos de classe e a interpretacao dos resultados da avaliacao.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAW485",
+      "Nome": "Análise Complexa",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Construção do corpo dos números complexos. Representação goemétrica. Projeção estereográfica Funções Analíticas; Funções elementares. Integrais. Séries de potências. Resíduos e pólos. Transformações por funções elementares.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 15:00",
+        "professor": "ALEXANDER EDUARDO ARBIETO MENDOZA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 15:00",
+        "professor": ""
+       },
+       {
+        "dia": "Sex",
+        "hora": "13:00 - 15:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDD620",
+      "Nome": "Didatica Esp de Matematica II",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Metodologia do ensino de matematica em uma didatica transformadora. O desenvolvimento da atitude cientifica nos alunos. A problematica da avaliacao do ensino da matematica.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "18:00 - 20:10",
+        "professor": "WASHINGTON SANTOS DOS REIS"
+       }
+      ],
+      "Requisitos": [
+       "EDD501"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAW481",
+      "Nome": "Evol da Ciência e da Matemát",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Origens da matemática. A evolução da matemática da antiguidade ate a época contemporânea. A geometria de Euclides e a geometria de Riemann. A aritmetização da analise. O movimento Bourbaki.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAW488",
+      "Nome": "Monografia II",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Levantamento bibliografico. Levantamento e preparacao dos resultados. Avaliacao. Redacao do projeto.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "Disciplinas Optativas (Escolha Condicionada)": [
+     {
+      "Codigo": "MAA373",
+      "Nome": "Introdução à Teor dos Números",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Infinitude do conjunto de números primos; Estrutura do grupo dos inversíveis módulo\num inteiro; Reciprocidade quadrática; Fundamentos da teoria algébrica dos números; corpos quadráticos e corpos ciclotômicos.\n",
+       "BibliografiaBasica": "1- Apostol, T.M. ? Introduction to Analytic Number Theory ? Springer Verlag, 1984\nHardy,G. e Wright, E. - Na Introduction to the Theory of Numbers, 3 rd ed. - Oxford\nUniversity Press,1964\n1- Ireland, K. e Rosen, M. ? A Classical Introduction to Modern Number Theory ? Springer\nVerlag, 1990.\n",
+       "BibliografiaComplementar": "1- Borevich-Shafarevich, Number Theory, New York, Academic Press, 1966.\n2- Dickson, L. E. History of the theory of numbers. New York: Stechert, 1934.\n3- Hindry, M. Arithmetics, Universitext, Springer, 2009.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MAA114"
+      ],
+      "Tipo": "eletiva"
+     }
+    ]
+   },
+   "obrigatorias": 38,
+   "eletivas": 1,
+   "ano": "1993/1 a 2000/2"
+  },
+  {
+   "materias": {
+    "1º Período": [
+     {
+      "Codigo": "MAW112",
+      "Nome": "Introducao a Computacao",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Aproximacoes numericas. Representacao de numeros no computador. Aritmetica de ponto flutuante. Erros. Caracteristicas basicas de organizacao de um computador. Algoritmos programas. Programacao basica em uma linguagem de programacao estruturada (Pascal). Solucao de problemas numericos e nao numericos por computadores.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "20:10 - 21:50",
+        "professor": "ROGERS REICHE DE MENDONCA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "18:30 - 20:10",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAW116",
+      "Nome": "Vetores no R2 e R3",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Vetores no plano e no espaço. Sistemas de coordenadas cartesianas, polares, cilíndricas e esféricas. Produto interno. Produto vetorial. Produto misto. Dependência e  indepenência linear. Retas e planos. Equações cartesianas e paramétricas. Posições entre retas e planos. Distâncias entre retas e planos. Cônicas. Equação geral das cônicas. Superfícies Quádricas. Equação geral das quádricas. Modelos explorados no ensino e formas de abordagem. Novas tecnologias utilizadas no ensino de Geometria Analítica. Análise de livros didáticos e para-ditáticos e de propostas curriculares oficiais.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "18:30 - 21:50",
+        "professor": "SELENE ALVES MAIA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAW111",
+      "Nome": "Calculo de Uma Variavel I",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Os numeros reais. Funcoes reais de uma variavel real. Interpolacao. Limites. Continuidade. Derivada. Calculo numerico de raizes. Aplicacoes das derivadas a Geometria e a Fisica. Polinomio de Taylor. Calculo aproximado de funcoes. Funcoes compostas. Derivacao implicita. Problemas de maximos e minimos e taxas relacionadas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "18:30 - 21:50",
+        "professor": "RODRIGO CARDOSO DOS SANTOS"
+       },
+       {
+        "dia": "Qua",
+        "hora": "20:10 - 21:50",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAW115",
+      "Nome": "Geometria e Desenho Geometrico",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Geometria plana: congruencias, semelhancas, o circulo, areas. Geometria espacial: angulos: diedros, triedros, poliedros. Solidos e esferas. Volumes. Consrucao com regua e compasso.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 10:00",
+        "professor": "VINICIUS BOUCA MARQUES DA COSTA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 10:00",
+        "professor": ""
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 10:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "2º Período": [
+     {
+      "Codigo": "MAW123",
+      "Nome": "Matemática Finita",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Combinações e Permutações. Príncipio da Inclusão-Exclusão. Outros métodos de contagem. Números Binomiais. Triângulo de Pascal. Resoluções de recorrência. Funções geratizes. Teoria da contagem de Polya. Teoria dos Grafos: Conceitos Básicos. Árvores.\n",
+       "BibliografiaBasica": "1- A.C.O. Morgado, J.B.P. Carvalho, P.C.P. Carvalho e P. Fernandez. ?Análise Combinatória e Probabilidade.? SBM, Rio de Janeiro, 1991. Sétima edição\n",
+       "BibliografiaComplementar": "1- A.C. Bachk, L.M.B. Poppe e R.N.O. Tavares, ?Prelúdio à Análise Combinatória.? CEN, 1975.\n2- R.L. Graham, D.E. Knuth e O. Patashnik, ?Matemática Concreta.?\nLTC, 1995.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "20:10 - 21:50",
+        "professor": "JOSEFINO CABRAL MELO LIMA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "18:30 - 20:10",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAW126",
+      "Nome": "Algebra Linear",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Matrizes-sistemas lineares. Resolução numérica de sistemas lineares. Determinante. Matriz Inversa. Espaços e subespaços vetoriais. Base e mudança de base. Operadores lineares. Núcleo e imagem de trasformações lineares. Auto-valores e auto-vetores. Diagonalização de operadores: Teorema Espectral. Espaços com produto interno. Redução da equação geral do segundo grau a duas e três variáveis: Identificação de Cônicas e Quádricas utilizando a diagonalização.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAW121",
+      "Nome": "Calculo de Uma Variavel II",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Sequencias. Sequencias limitadas e convergentes. Sequencias monotonas. Series. Somas parciais, criterios de convergencia. Serie de Taylor. Integrais definidas. T. fundamental do calculo. Calculo de primitivas. Aplicacoes geometricas. Funcao logaritmo e exponencial. Modelos de populacao. Teorema do valor medio. Regra de L Hospital. Aplicacao da integral ao calculo de areas e volumes. Tecnicas de integracao. Metodos numericos. Integrais improprias.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "18:30 - 21:50",
+        "professor": "THIAGO HARTZ MAIA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAW125",
+      "Nome": "Os Numeros",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Numeros inteiros: propriedades algebricas da soma e multiplicacao de inteiros, algoritmo de divisao, maximo divisor comum e minimo multiplo comum, algoritmo euclidiano, equacoes diofantinas, teorema de fatoracao unica. Aritmetica modular: o conjunto dos inteiros modulo N, pequeno teorema de Fermat, a funcao 0 de Euler e suas propriedades, teorema de Euler, aplicacoes. Os numeros racionais: construcao dos racionais a partir de Z/, operacoes com numeros racionais.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 15:00",
+        "professor": "JOAO MIRANDA CARNEVALE"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 15:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "3º Período": [
+     {
+      "Codigo": "EDF526",
+      "Nome": "Psicologia da Educacao I CP",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introducao ao estudo da Psicologia. Breve historico dos pressupostos epistemologicos. Principais escolas contemporaneas: behaviorismo, gestaltismo e psicanalise - suas contribuicoes para a educacao. O desenvolvimento humano e sua relacao com a aprendizagem. Hereditariedade e ambiente - maturacao e aprendizagem. Desenvolvimento da personalidade do aluno nos seus aspectos afetivo, cognitivo, social e mental.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAW231",
+      "Nome": "Calculo de Varias Variaveis I",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Equacoes diferenciais de 1a. ordem com o fator integrante. Lineares de 2a. ordem coef. constantes. Modelos. Funcoes reais de duas e tres variaveis. Limites, continuidade. Derivadas parciais, gradiente. Derivada direcional, graficos, curvas e superficies de nivel maximo e minimo.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "18:30 - 20:10",
+        "professor": "JEFERSON LEANDRO GARCIA DE ARAUJO"
+       },
+       {
+        "dia": "Qua",
+        "hora": "20:10 - 21:50",
+        "professor": ""
+       },
+       {
+        "dia": "Sex",
+        "hora": "18:30 - 20:10",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDF333",
+      "Nome": "Sociologia da Educacao I",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceituacao e delimitacao do campo de estudo da Sociologia da Educacao. Relacao entre sociedade global e educacao: a perspectiva positivista, marxista e liberal. Analise sociologica dos problemas educacionais brasileiros.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIW111",
+      "Nome": "Introducao a Fisica",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introducao ao pensamento em Fisica. Teoria e realidade fisica. Explanacao em Fisica. Estudo da logica do pensamento cientifico. Modelos. Hipoteses. Principios fundamentais da Fisica. Estudo de alguns conceitos basicos da Fisica: movimento; leis de Newton; calor; gravitacao-leis de Kepler; momento linear -conservacao; campos eletrico e magnetico; otica; modelos corpuscular e ondulatorio para a luz; espectro atomico.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "18:30 - 21:50",
+        "professor": "FILOMENO SOARES DE AGUIAR JUNIOR"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAW235",
+      "Nome": "Os Polinomios",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Polinomios: polinomios com coeficientes em Q, R ou C. Algoritmo de divisao, maximo divisor comum, polinomios irredutiveis, teorema de fatoracao unica. Criterio de Eisenstein, funcoes racionais, decomposicao em fracoes parciais. Raizes de Polinomios: determinacao das raizes racionais de um polinomio em Z/[X], teorema fundamental da algebra.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 10:00",
+        "professor": "ERIK ANTONIO ROJAS MENDOZA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 10:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "4º Período": [
+     {
+      "Codigo": "MAW241",
+      "Nome": "Calculo de Varias Variaveis II",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Funções vetoriais. Parametrização de curvas. Integrais de linha. Teorema de Green. Integrais duplas e triplas. Mudanças de variáveis. Aplicações ao cálculo de áreas e volumes. Parametrização de superfícies. Integrais em superfícies. Teorema de Gauss. Teorema de Stokes. Campos conservativos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "18:30 - 20:10",
+        "professor": "PEDRO GAMBOA ROMERO"
+       },
+       {
+        "dia": "Sex",
+        "hora": "18:30 - 21:50",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAW244",
+      "Nome": "Matematica na Escola",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Observação e discussão do conteúdo matemático desenvolvido nas turmas de Ensino Fundamental e Ensino Médio da rede oficial. Análise dos principais pontos de dificuldades.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDF527",
+      "Nome": "Psicologia da Educacao II CP",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introducao a Psicologia da Aprendizagem, conceito, historico. Fatores fisiologicos, cognitivos, motivacionais e sociais da aprendizagem. Principais teorias da aprendizagem: cognitivas, comportamentalistas e humanistas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "EDF526"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAW243",
+      "Nome": "Probabilidade e Estatistica",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Noções de probabilidade. Teorema de Bayes. Estatística descritiva. Fontes de dados estatísticos. Estimação de parâmetros por pontos e intervalos. Teste de hipótese, comparação com vários modelos normais. Teste de independência e homogeneidade. Testes e estimação não paramétricas. Regressão. Correlação.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "18:30 - 21:50",
+        "professor": "ROBERTO ANDRES VIVEROS VERA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "20:10 - 21:50",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "5º Período": [
+     {
+      "Codigo": "FIW121",
+      "Nome": "Mecanica da Particula",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Forca. Momento linear. Conservacao. Leis de Newton. Cinematica e dinamica de uma particula pontual. Trabalho e energia. Conservacao. Momento angular de uma particula. Gravitacao. Transformacoes de Galileu e Lorentz.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "20:10 - 21:50",
+        "professor": "BRUNO MAGACHO DA SILVA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "18:30 - 20:10",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAW353",
+      "Nome": "Estruturas Algébricas",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Corpos (Q, R, C, Z, primo). Extensões algébricas de Q. Grau de uma extensão. Multiplicidade do grau. Construções com régua e compasso. Grupos. Grupos de simetrias de polígonos regulares e grupos de permutações. Subgrupos. Grupos finitos. Teorema de Lagrange. Grupo linear geral sobre R. Grupos que preservam formas bilineares. Grupos ortogonais. Movimentos rígidos. Grupo euclidiano.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "18:30 - 20:10",
+        "professor": "ALBETA COSTA MAFRA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "20:10 - 21:50",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDF543",
+      "Nome": "Fund Filosoficos da Educac CP",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Vinculacao entre ciencia e filosofia. A filosofia como discurso vivo e atual sobre questoes radicais. A busca de sentido da educacao como tarefa da filosofia. Matrizes da educacao contemporanea: poder, disciplina e autoridade. Problemas atuais da Filosofia da Educacao brasileira. Analise filosofica do cotidiano pedagogico brasileiro. Problemas, impasses e perspectivas de uma filosofia da educacao brasileira para o seculo XXI.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAW351",
+      "Nome": "Informatica Aplicada ao Ensino",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Características gerais do uso do computador no ensino. Planilha eletrônica. Hipertexto. Programas educativos. Exemplos e experiências do computador no ensino de Matemática. Possibilidade do uso do computador na formação de professores.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 15:00",
+        "professor": "MARIA HELENA CAUTIERO HORTA JARDIM"
+       },
+       {
+        "dia": "Seg",
+        "hora": "15:00 - 17:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAW354",
+      "Nome": "Fund da Matemat Elementar I",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conteudos da geometria para as 8 series do 1. grau. O metodo experimental e o axiomatico em geometria. Numeros naturais, sistemas de numeracao. Numeros inteiros. As 4 operacoes nesses conjuntos. Analise de textos didaticos e paradidaticos e de propostas curriculares oficiais.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "18:30 - 21:50",
+        "professor": "CARLOS DIOSDADO ESPINOZA PENAFIEL"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "6º Período": [
+     {
+      "Codigo": "EDD616",
+      "Nome": "Didatica Geral",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Pressupostos e caracteristicas da didatica. O contexto da pratica pedagogica. A dinamica da sala de aula. A construcao de uma proposta de ensino-aprendizagem. A vivencia e o aperfeicoamento da didatica.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAW365",
+      "Nome": "Fund da Matemat Elementar II",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "14",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Os numeros racionais, reais e complexos. Proporcionalidade. Aplicacoes a Matematica financeira. Analise combinatoria, probabilidade e estatistica para o 1. e 2. grau. Analise de textos didaticos e paradidaticos e de propostas curriculares oficiais.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDA592",
+      "Nome": "Estr e Func do Ens de 1 e 2 Gr",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Educacao brasileira: visao historica. A educacao no pos-30 e no estado novo. Educacao e redemocratizacao no pais no pos-45. A LDB - consequencias da implantacao da lei 4.024/61 para o ensino primario e medio no pais. O ensino de 1o e 2o graus no regime militar 1964 - 1984. Leis 5.692/71 e 7.044/82. Pressupostos, implicacoes e problemas. A educacao na transicao democratica. O ensino de 1o e 2o graus na atualidade; educacao, cidadania e trabalho. Gestao da escola de 1o e 2o graus: propostas para sua democratizacao. Magisterio: formacao, carreira e condicoes de trabalho.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIW241",
+      "Nome": "Introdução ao Eletromagnetismo",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Eletricidade: lei de Coulomb; campo elétrico, lei de Gauss, potencial elétrico; condutores e isolantes; Magnetismo: campo magnético; lei de Ampére e de Biot-Savart; lei de Faraday; propriedades magnéticas da matéria; indutância, lei de Ampére-Maxwell, corrente de indução.\n",
+       "BibliografiaBasica": "1- MOYSÉS NUSSENZVEIG, H., Curso de Física Básica: vol. 3. 4ª edição. São Paulo:\nEditora Edgard Blücher, 2002.\n2- HALLIDAY, D., RESNICK, R. & . WALKER, J., Fundamentos de Física: vol. 3. 8ª\nedição. Rio de Janeiro: LTC, 2009.\n3- YOUNG , H.D. & FREEDMAN, R.A., Física 3. 12ª edição. São Paulo: Pearson Education, 2007.\n4- TIPLER, P.A. & MOSCA, G. Física para Cientistas e Engenheiros: vol. 2. 5ª edição.\nRio Janeiro: LTC, 2006.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "20:10 - 21:50",
+        "professor": "FELIPE SIQUEIRA DE SOUZA DA ROSA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "18:30 - 20:10",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "FIW121",
+       "MAC238"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAW463",
+      "Nome": "Geom Descrit e Nao Euclidiana",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Geometria descritiva: representacao projetiva de pontos, retas e poliedros simples. Geometria projetiva: origem e axiomatica, perspectiva, teoremas de Pascal e Desarques, conicas. Geometria nao-euclidiana: geometria sobre a esfera, origens e o quadrilatero de Sacaheri. Geometria de Lobatschevsky e Riemann - uma introducao.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 15:00",
+        "professor": "ANDREW JAMES CLARKE"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 15:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "7º Período": [
+     {
+      "Codigo": "EDDU05",
+      "Nome": "Pratica Ensino de Matematica",
+      "Créditos": "4.0",
+      "Teórica": "300",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A pratica de ensino da matematica: o estagio supervisionado como pratica pedagogica, estagios de observacao, caracterizacao e participacao. Reflexoes sobre a pratica.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "20:20 - 22:00",
+        "professor": "WASHINGTON SANTOS DOS REIS"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAW476",
+      "Nome": "Fund da Matemat Elementar III",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Funcoes. Funcoes reais elementares; polinomios, funcoes racionais, raizes. Equacoes, funcao logaritima e funcao exponencial. Aplicacoes a matematica financeira, funcoes trigonometricas, analise de livros didaticos e paradidaticos e das propostas curriculares oficiais.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "18:30 - 21:50",
+        "professor": "MARIA DARCI GODINHO DA SILVA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDD501",
+      "Nome": "Didatica Esp da Matematica I",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A evolucao do ensino da matematica no Brasil. Analise do livro didatico. Perspectiva critica do planejamento pedagogico em educacao matematica. O cotidiano de sala de aula: elementos determinantes.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "EDD616(C)EDD616=EDD573"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAW475",
+      "Nome": "Analise Real",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Construção dos números reais. Seqüências e séries numéricas. Topologia da reta. Limite e continuidade. Derivadas. Teorema do valor intermediário. Teorema do Valor Médio. Teorema de Taylor. Integral de Riemann. Teorema Fundamental do Cálculo. Aplicações ao estudo das funções elementares.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "20:10 - 21:50",
+        "professor": "ERWIN MAXIMILIANO TOPP PAREDES"
+       },
+       {
+        "dia": "Sex",
+        "hora": "18:30 - 21:50",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAW487",
+      "Nome": "Monografia I",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução à metodologia científica. Escolha e delimitação do problema a ser trabalhado e da metodologia a ser utilizada na monografia de final de curso. Redação de uma porposta inicial.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "8º Período": [
+     {
+      "Codigo": "MAW481",
+      "Nome": "Evol da Ciência e da Matemát",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Origens da matemática. A evolução da matemática da antiguidade ate a época contemporânea. A geometria de Euclides e a geometria de Riemann. A aritmetização da analise. O movimento Bourbaki.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAW488",
+      "Nome": "Monografia II",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Levantamento bibliografico. Levantamento e preparacao dos resultados. Avaliacao. Redacao do projeto.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDD620",
+      "Nome": "Didatica Esp de Matematica II",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Metodologia do ensino de matematica em uma didatica transformadora. O desenvolvimento da atitude cientifica nos alunos. A problematica da avaliacao do ensino da matematica.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "18:00 - 20:10",
+        "professor": "WASHINGTON SANTOS DOS REIS"
+       }
+      ],
+      "Requisitos": [
+       "EDD501"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAW485",
+      "Nome": "Análise Complexa",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Construção do corpo dos números complexos. Representação goemétrica. Projeção estereográfica Funções Analíticas; Funções elementares. Integrais. Séries de potências. Resíduos e pólos. Transformações por funções elementares.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 15:00",
+        "professor": "ALEXANDER EDUARDO ARBIETO MENDOZA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 15:00",
+        "professor": ""
+       },
+       {
+        "dia": "Sex",
+        "hora": "13:00 - 15:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "Disciplinas Optativas (Escolha Condicionada)": [
+     {
+      "Codigo": "MAA373",
+      "Nome": "Introdução à Teor dos Números",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Infinitude do conjunto de números primos; Estrutura do grupo dos inversíveis módulo\num inteiro; Reciprocidade quadrática; Fundamentos da teoria algébrica dos números; corpos quadráticos e corpos ciclotômicos.\n",
+       "BibliografiaBasica": "1- Apostol, T.M. ? Introduction to Analytic Number Theory ? Springer Verlag, 1984\nHardy,G. e Wright, E. - Na Introduction to the Theory of Numbers, 3 rd ed. - Oxford\nUniversity Press,1964\n1- Ireland, K. e Rosen, M. ? A Classical Introduction to Modern Number Theory ? Springer\nVerlag, 1990.\n",
+       "BibliografiaComplementar": "1- Borevich-Shafarevich, Number Theory, New York, Academic Press, 1966.\n2- Dickson, L. E. History of the theory of numbers. New York: Stechert, 1934.\n3- Hindry, M. Arithmetics, Universitext, Springer, 2009.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MAA114"
+      ],
+      "Tipo": "eletiva"
+     }
+    ]
+   },
+   "obrigatorias": 36,
+   "eletivas": 1,
+   "ano": "2001/1 a 2007/2"
+  },
+  {
+   "materias": {
+    "1º Período": [
+     {
+      "Codigo": "MAW112",
+      "Nome": "Introducao a Computacao",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Aproximacoes numericas. Representacao de numeros no computador. Aritmetica de ponto flutuante. Erros. Caracteristicas basicas de organizacao de um computador. Algoritmos programas. Programacao basica em uma linguagem de programacao estruturada (Pascal). Solucao de problemas numericos e nao numericos por computadores.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "18:30 - 20:10",
+        "professor": "ROGERS REICHE DE MENDONCA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "20:10 - 21:50",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAW116",
+      "Nome": "Vetores no R2 e R3",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Vetores no plano e no espaço. Sistemas de coordenadas cartesianas, polares, cilíndricas e esféricas. Produto interno. Produto vetorial. Produto misto. Dependência e  indepenência linear. Retas e planos. Equações cartesianas e paramétricas. Posições entre retas e planos. Distâncias entre retas e planos. Cônicas. Equação geral das cônicas. Superfícies Quádricas. Equação geral das quádricas. Modelos explorados no ensino e formas de abordagem. Novas tecnologias utilizadas no ensino de Geometria Analítica. Análise de livros didáticos e para-ditáticos e de propostas curriculares oficiais.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "18:30 - 21:50",
+        "professor": "SELENE ALVES MAIA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAW111",
+      "Nome": "Calculo de Uma Variavel I",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Os numeros reais. Funcoes reais de uma variavel real. Interpolacao. Limites. Continuidade. Derivada. Calculo numerico de raizes. Aplicacoes das derivadas a Geometria e a Fisica. Polinomio de Taylor. Calculo aproximado de funcoes. Funcoes compostas. Derivacao implicita. Problemas de maximos e minimos e taxas relacionadas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "18:30 - 21:50",
+        "professor": "RODRIGO CARDOSO DOS SANTOS"
+       },
+       {
+        "dia": "Qua",
+        "hora": "20:10 - 21:50",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAW115",
+      "Nome": "Geometria Euclidiana",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Breve histórico do tabalho de Euclides. Axiomas e postulados. Proposições, teoremas e corolários. Os elementos de uma proposição: hipótese e tese. Modelos de Geometrias Discretas. Axiomas de Incidência. Ordem e de Medição de Segmentos. Números Reais e a Reta. Propriedades Fundamentais dos Números (Apresentação). Axioma de Separação de Dedekind. Axiomas de Medição de Segmentos. Função Distância. Sistemas de Coordenadas na Reta. Semi-planos. Ângulos. Convexidade. Congruência. O Teorema do Ângulo Externo e Consequências. Desigualdade Triangular. O Quinto Postulado de Euclides (Axioma e Consequências). Teorema de Tales. Semelhança de Triângulos; Teorema de Pitágoras. Círculos: Polígonos Inscritos e Circunscritos. Funções Trigométricas. Círculo Orientado. Áreas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 10:00",
+        "professor": "VINICIUS BOUCA MARQUES DA COSTA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 10:00",
+        "professor": ""
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 10:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAW121",
+      "Nome": "Calculo de Uma Variavel II",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Integrais definidas. Teorema Fundamental do Cálculo. Cálculo de primitivas. Aplicações Geométricas. Funções logarítmo e exponencial. Modelos de população. Teorema do Valor Médio. Regra de L´Hospital. Aplicação da Integral ao cálculo de áreas e volumes. Técnicas de Integração. Métodos Numéricos. Integrais impróprias. Equações diferenciais lineares de 1ª ordem. Equações diferenciais de 2ª ordem com coeficientes constantes. Modelos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "18:30 - 21:50",
+        "professor": "THIAGO HARTZ MAIA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "2º Período": [
+     {
+      "Codigo": "MAW125",
+      "Nome": "Números Inteiros",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Numeros inteiros: propriedades algebricas da soma e multiplicacao de inteiros, algoritmo de divisao, maximo divisor comum e minimo multiplo comum, algoritmo euclidiano, equacoes diofantinas, teorema de fatoracao unica. Aritmetica modular: o conjunto dos inteiros modulo N, pequeno teorema de Fermat, a funcao 0 de Euler e suas propriedades, teorema de Euler, aplicacoes. Os numeros racionais: construcao dos racionais a partir de Z/, operacoes com numeros racionais.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 15:00",
+        "professor": "JOAO MIRANDA CARNEVALE"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 15:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAW231",
+      "Nome": "Calculo de Varias Variaveis I",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Seqüências monótonas. Seqüências monótonas, limitadas, convergentes. Séries. Somas parciais. Critérios de Convergência. Série de Taylor. Funções reais de duas e três variáveis. Equações paramétricas de curvas. Vetor velocidade e aceleração. Superfícies. Curvas de nível. Superfícies de nível. Derivadas de funções vetorias. Limites. Continuidade. Derivadas Parciais. Gradiente. Derivada direcional. Gráficos. Curvas e superfícies de nível. Máximos e mínimos. Máximos e mínimos condicionados. Multiplicadores de Lagrange.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "18:30 - 20:10",
+        "professor": "JEFERSON LEANDRO GARCIA DE ARAUJO"
+       },
+       {
+        "dia": "Qua",
+        "hora": "20:10 - 21:50",
+        "professor": ""
+       },
+       {
+        "dia": "Sex",
+        "hora": "18:30 - 20:10",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDF240",
+      "Nome": "Fundamentos Sociológ Educação",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O contexto do surgimento da sociologia. Durkheim e a formação de uma maneira funcional de interpretar as relações entre educação e demais instâncias da vida social. A sociologia da educação na primeira metade do século XX. Os estudos sobre educação após a segunda guerra mundial. A \"crítica radical\" dos anos 70 - educação e reprodução social. A influência do marxismo no pensamento educacional. Influências gramscianas. A \"crise dos paradigmas\" das ciências sociais e os estudos sobre educação: modelos microssociológicos e etnográficos. Abordagens weberianas em sociologia da educação.\n",
+       "BibliografiaBasica": "1)\tALVES, M. Teresa G. & FRANCO, Creso. A pesquisa em eficácia escolar no Brasil: evidências sobre o efeito das escolas e fatores associados à eficácia escolar. In: BROOKE, N.; SOARES, J. F. Pesquisa em Eficácia Escolar: Origem e Trajetórias. Belo Horizonte: Editora UFMG.\n2)\t BOURDIEU, Pierre. A escola conservadora: as desigualdades frente à escola e à cultura. In: NOGUEIRA, M. A. & CATANI, A. (orgs,) Escritos de Educação. Petrópolis: Vozes, 2010.\n3)\tDURKHEIM, E. - ?A educação: sua natureza e função? in Educação e Sociedade. São Paulo: Melhoramentos,1978.\n4)\tNOGUEIRA, M. Alice, 1995. A Sociologia da Educação do final dos anos 60/início dos anos 70: o nascimento do paradigma da reprodução. In: Em Aberto, Brasília, ano 9, n. 46, abr. jun. 1990.\n",
+       "BibliografiaComplementar": "1)\tBOURDIEU, Pierre. Reprodução Cultural e Reprodução Social in A Economia das Trocas Simbólicas. São Paulo: Ed. Perspectiva, 1987.\n2)\t LAHIRE, Bernard. Sucesso escolar nos meios populares: as razões do improvável. São Paulo: Ática, 2008.\n3)\tNOGUEIRA, Maria Alice. A Sociologia da Educação no final dos anos 60/início dos anos 70: o nascimento do paradigma da reprodução. Em Aberto, Brasília, ano 9, n.46, abr./jun. 1990.\n4)\tNOGUEIRA, Maria Alice e NOGUEIRA, Claudio M. - A Sociologia da Educação de Pierre Bourdieu: limites e contribuições. Educação e Sociedade, Campinas, n. 78, Ano XXIII, abril/2002.\n5)\tZAGO, Nadir, 2011. Fracasso e sucesso escolar no contexto das relações família e escola: questionamentos e tendências em Sociologia da Educação. Revista Luso-Brasileira de Sociologia da Educação, ano 2, n.3, março 2011.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "14:00 - 17:30",
+        "professor": "ROSANA RODRIGUES HERINGER"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAW126",
+      "Nome": "Algebra Linear",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Matrizes-sistemas lineares. Resolução numérica de sistemas lineares. Determinante. Matriz Inversa. Espaços e subespaços vetoriais. Base e mudança de base. Operadores lineares. Núcleo e imagem de trasformações lineares. Auto-valores e auto-vetores. Diagonalização de operadores: Teorema Espectral. Espaços com produto interno. Redução da equação geral do segundo grau a duas e três variáveis: Identificação de Cônicas e Quádricas utilizando a diagonalização.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAWX05",
+      "Nome": "Ativid Acadê Cient Culturais",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "200",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O aluno deverá cumprir 200 horas dentre as seguintes atividades: Atividades de Extensão, Iniciação científica. Monitorias, Participação em encontros acadêmicos, Seminários da Monografia, Seminários de Licenciatura, Participação em outros seminários, Disciplinas de livre escolha.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "17:00 - 18:30",
+        "professor": "CAROLINE LIMA DE SOUZA"
+       },
+       {
+        "dia": "Seg",
+        "hora": "17:00 - 18:30",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "3º Período": [
+     {
+      "Codigo": "FIW111",
+      "Nome": "Introducao à Fisica I",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Cinemática escalar e vetorial; O trabalho de Galileu sobre movimento; O nascimento da dinâmica; Leis de Newton e aplicações; A compreensão do movimento: princípios de conservação de massa e momento linear; Energia: teorema trabalho-energia cinética; Conservação da energia mecânica; Energia Térmica; A máquina a vapor e a Revolução Industrial. Enunciado geral da lei da conservação da energia. O triunfo do mecanicismo: Teoria Cinética dos gases.\n",
+       "BibliografiaBasica": "1- HARVARD PROJECT PHYSICS, Projecto Física: unidades 1 e 3. Lisboa: Fundação\nCalouste Gulbenkian, 1978.\n2- HEWITT, P., Fundamentos de Física Conceitual, Porto Alegre: Bookman, 2009.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "18:30 - 21:50",
+        "professor": "FILOMENO SOARES DE AGUIAR JUNIOR"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAW235",
+      "Nome": "Teorias de Anéis e Grupos",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Polinomios: polinomios com coeficientes em Q, R ou C. Algoritmo de divisao, maximo divisor comum, polinomios irredutiveis, teorema de fatoracao unica. Criterio de Eisenstein, funcoes racionais, decomposicao em fracoes parciais. Raizes de Polinomios: determinacao das raizes racionais de um polinomio em Z/[X], teorema fundamental da algebra.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 10:00",
+        "professor": "ERIK ANTONIO ROJAS MENDOZA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 10:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDF245",
+      "Nome": "Psicologia da Educação",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A Psicologia da Educação e as relações entre desenvolvimento afetivo, cognitivo, linguístico e moral em situações de interação sócio-cultural. Inteligência e escolarização meritocrática: da tradição psicométrica às concepções contemporâneas de inteligência. Humanismo, behaviorismo, psicanálise, construtivismo e sócio-interacionismo. O processo psicológico da construção e aquisição do conhecimento diante dos sistemas de informação e comunicação.\n",
+       "BibliografiaBasica": "1)\tCUNHA, M. V. A Psicologia da Educação: dos paradigmas científicos às finalidades educacionais. Acessado em 10 de julho de 2013. http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0102-25551998000200004.\n2)\tAZEVEDO, E. M. K. Concepção de Carl Rogers sobre aprendizagem. Acessado em 10 de julho de 2013. http://elisakerr.wordpress.com/concepcao-de-aprendizagem-de-carl-rogers/.\n3)\tBOCK, A. M. B.; FURTADO, O; TEIXEIRA, M. L. T. Psicologias: uma introdução ao estudo de Psicologia. São Paulo, Saraiva: 2002.\n",
+       "BibliografiaComplementar": "1)\tVIGOTSKY, L. A formação social da mente. São Paulo, Martins Fontes: 1998.\n2)\tVYGOTSKY, L. Pensamento e Linguagem. São Paulo, Martins Fontes: 1989.\n3)\tCOLL, C.; MONEREO, C.; et Coll. Psicologia da Educação Virtual: aprender e ensinar com as tecnologias da informação e da comunicação. Porto Alegre, Artmed: 2010.\n4)\tAUSUBEL, D.P. et alii. Psicologia educacional. Rio de Janeiro: ed. Interamericano, 1980.\n5)\t PATTO, M.H. Introdução à psicologia escolar. São Paulo: T.A. Queiros, 1986.\n6)\tPIAGET, J. Seis estudos de psicologia. Rio de Janeiro: Forense, 1970.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "18:00 - 22:00",
+        "professor": "JENNIFER ALINE ZANELA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIW121",
+      "Nome": "Mecanica da Particula",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Sistemas de referência e sistemas de coordenadas. As leis do movimento: a lei da inércia; referenciais inerciais e não-inerciais; a segunda lei de Newton; a lei da ação e reação. A realização de medidas indiretas. Trabalho de uma força; energia cinética; teorema trabalho-energia cinética; forças conservativas e forças dissipativas; energia potencial; energia mecânica e as condições para sua conservação. Momento linear e sua conservação. O princípio de relatividade.\n",
+       "BibliografiaBasica": "1- MOYSÉS NUSSENZVEIG, H., Curso de Física Básica: vol. 1. 4ª edição. São Paulo:\nEditora Edgard Blücher, 2002.\n2- HALLIDAY, D., RESNICK, R. & WALKER, J., Fundamentos de Física: vol. 1. 8ª edição. Rio de Janeiro: LTC, 2009.\n3- YOUNG , H.D. & FREEDMAN, R.A., Física 1. 12ª edição. São Paulo: Pearson Education, 2007.\n4- TIPLER, P.A. & MOSCA, G. Física para Cientistas e Engenheiros: vol. 1. 5ª edição.\nRio Janeiro: LTC, 2006.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "20:10 - 21:50",
+        "professor": "BRUNO MAGACHO DA SILVA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "18:30 - 20:10",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MAC118"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAW241",
+      "Nome": "Calculo de Varias Variaveis II",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Funções vetoriais. Parametrização de curvas. Integrais de linha. Teorema de Green. Integrais duplas e triplas. Mudanças de variáveis. Aplicações ao cálculo de áreas e volumes. Parametrização de superfícies. Integrais em superfícies. Teorema de Gauss. Teorema de Stokes. Campos conservativos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "18:30 - 20:10",
+        "professor": "PEDRO GAMBOA ROMERO"
+       },
+       {
+        "dia": "Sex",
+        "hora": "18:30 - 21:50",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "4º Período": [
+     {
+      "Codigo": "EDF120",
+      "Nome": "Filos Educação Mundo Ocidental",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Contribuições das concepções filosóficas do século XX para a problemática educacional. O pensamento pedagógico brasileiro dos anos 1920 a 1980. Contribuições das concepções filosóficas para a problemática educacional. O pensamento pedagógico brasileiro à luz da filosofia da educação.\n",
+       "BibliografiaBasica": "1) ARISTÓTELES. A ética a Nicômacos. Trad. Mario da Gama Cury. Brasília, DF: EdUnb, 1985 (2ª ed).\n2) BRÉHIER, Émile. História da Filosofia. São Paulo: Mestre Jou, 1977, tomo II, fasc.4\n3) DURKHEIM, Emile. Educação e Sociologia. São Paulo: Edições 70, 2001.\n",
+       "BibliografiaComplementar": "1) JAEGER, Werner. Paidéia. São Paulo: Martins Fontes, 1995.\n2) MAZZOTTI, Tarso Bonilha, OLIVEIRA, Renato José de. O que você precisa saber em ciência (s) da educação. Rio de Janeiro: DPA, 2000.\n3) PLATÃO. República. Trad. Maria Helena Rocha. Lisboa: Fundação Calouste Gulbenkian, 1990 (6ª. ed.).\n4) ROUSSEAU, J. J. Emílio ou da educação. Trad. Roberto Leal Ferreira. São Paulo, SP: Martins Fontes, 2004 (3ª ed).\n5) GADOTTI, Moacir. Pensamento pedagógico brasileiro. São Paulo: Ática, 1991.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "14:00 - 17:30",
+        "professor": "ANGELA MEDEIROS SANTI"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAW244",
+      "Nome": "Matematica na Escola",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Observação e discussão do conteúdo matemático desenvolvido nas turmas de Ensino Fundamental e Ensino Médio da rede oficial. Análise dos principais pontos de dificuldades.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDA234",
+      "Nome": "Educação Brasileira",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A constituição do sistema nacional de ensino e a relação entre Estado e Educação. Persistências e mudanças na estrutura e no funcionamento do ensino no Brasil: as relações entre público e privado, centralização e descentralização, ensino laico e ensino confessional, formação geral e formação profissional. A LDBEN (Lei 9394/96): avanços e recuos no processo de profissionalização do campo pedagógico e de universalização do ensino.\n",
+       "BibliografiaBasica": "1)\tCUNHA, Luiz Antônio. 5ª ed. Educação e desenvolvimento Social no Brasil. Rio de Janeiro: Francisco Alves , 1980.\n2)\tBRASIL. LEI DE DIRETRIZES E BASES DA EDUCAÇÃO NACIONAL, LDBEN. LEI 9.349 de 20/12/1996.\n3)\tSAVIANI, Dermeval. A nova lei de educação - trajetórias, limites e perspectivas. Campinas: Autores Associados, 1997.\n",
+       "BibliografiaComplementar": "1)\tBRZEZINSKI, Iria. (Org.). LDB dez anos depois: reinterpretação sob diversos olhares. São Paulo: Cortez, 2008.\n2)\t______. Políticas contemporâneas de formação e professores para os anos iniciais do ensino fundamental. Educação & Sociedade, v. 29, n. 105, set/dez 2008.\n3)\tCUNHA, Luiz Antonio; GÓES, Moacyr de. O golpe na educação. Rio de Janeiro: Jorge Zahar, 1985.\n4)\t______. Educação, Estado e Democracia no Brasil. 5ª ed.São Paulo: Cortez, 2005.\n5)\tCURY, Carlos Jamil. Legislação educacional brasileira. 2ª ed. Rio de Janeiro: DP&A, 2002.\n6)\t______. A educação básica no Brasil. Educação & Sociedade, n. 80, v. 23, p. 169-202, 2002.\n7)\t______. Estado e políticas de financiamento em educação. Educação & Sociedade, v. 28, n. 100, Out. 2007.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "18:00 - 22:00",
+        "professor": "BRUNO GAWRYSZEWSKI"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIW241",
+      "Nome": "Introdução ao Eletromagnetismo",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Eletricidade: lei de Coulomb; campo elétrico, lei de Gauss, potencial elétrico; condutores e isolantes; Magnetismo: campo magnético; lei de Ampére e de Biot-Savart; lei de Faraday; propriedades magnéticas da matéria; indutância, lei de Ampére-Maxwell, corrente de indução.\n",
+       "BibliografiaBasica": "1- MOYSÉS NUSSENZVEIG, H., Curso de Física Básica: vol. 3. 4ª edição. São Paulo:\nEditora Edgard Blücher, 2002.\n2- HALLIDAY, D., RESNICK, R. & . WALKER, J., Fundamentos de Física: vol. 3. 8ª\nedição. Rio de Janeiro: LTC, 2009.\n3- YOUNG , H.D. & FREEDMAN, R.A., Física 3. 12ª edição. São Paulo: Pearson Education, 2007.\n4- TIPLER, P.A. & MOSCA, G. Física para Cientistas e Engenheiros: vol. 2. 5ª edição.\nRio Janeiro: LTC, 2006.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "20:10 - 21:50",
+        "professor": "FELIPE SIQUEIRA DE SOUZA DA ROSA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "18:30 - 20:10",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "FIW121",
+       "MAC238"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAW365",
+      "Nome": "Fund de Aritmética e Álgebra",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "História dos números. Números naturais. Contagem, conceituação das operações, algorítmos das operações elementares, histórico (ábaco, algorítmos em outros sistemas, algorítmos hindus primitivos). Algorítmos em outras bases de numeração. Potências: regras básicas e ligação com a aritmética. Estudo de regularidades numéricas: Ligações com a geometria. Progressões aritméticas e geométricas. Combinações simples. O conjunto dos inteiros e a noção de módulo. Estudo de equações modulares. O conjunto dos racionais: Construção Modelos explorados no ensino. Análise de livros didáticos e paradidáticos e de prosostas curriculares oficiais.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "5º Período": [
+     {
+      "Codigo": "MAW123",
+      "Nome": "Matemática Finita",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Combinações e Permutações. Príncipio da Inclusão-Exclusão. Outros métodos de contagem. Números Binomiais. Triângulo de Pascal. Resoluções de recorrência. Funções geratizes. Teoria da contagem de Polya. Teoria dos Grafos: Conceitos Básicos. Árvores.\n",
+       "BibliografiaBasica": "1- A.C.O. Morgado, J.B.P. Carvalho, P.C.P. Carvalho e P. Fernandez. ?Análise Combinatória e Probabilidade.? SBM, Rio de Janeiro, 1991. Sétima edição\n",
+       "BibliografiaComplementar": "1- A.C. Bachk, L.M.B. Poppe e R.N.O. Tavares, ?Prelúdio à Análise Combinatória.? CEN, 1975.\n2- R.L. Graham, D.E. Knuth e O. Patashnik, ?Matemática Concreta.?\nLTC, 1995.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "20:10 - 21:50",
+        "professor": "JOSEFINO CABRAL MELO LIMA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "18:30 - 20:10",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAW476",
+      "Nome": "Fund de Funções e Conjuntos",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O conceito de função Injetividade, sobrejetividade, bijetividade, funções inversas à direita e à esquerda, funções inversas invertíveis. Relação entre funções e operações entre conjuntos. Conjuntos finitos e infinitos. Conjuntos enumeráveis e não enumeráveis, propriedades. A cardinalidade dos conjuntos numéricos N, Q e R. Teorema de Cantor, a noção de número transfinito. Evolução histórica. Funções reais. Funções polinomiais. Funções racionais e algébricas. Funções trigonométricas. Funções exponenciais e logarítmicas. Funções e novas tecnologias. Modelos explorados no ensino e formas de abordagem. Análise de livros didáticos e paradidáticos e de propostas curriculares oficiais.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "18:30 - 21:50",
+        "professor": "MARIA DARCI GODINHO DA SILVA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDD241",
+      "Nome": "Didática",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A construção do campo da didática visto como tempo/espaço de reflexão/ação sobre o processo de ensino-aprendizagem. Teorias educacionais e o contexto sócio-histórico, político, econômico e filosófico da prática pedagógica. Estruturantes da prática pedagógica: planejamento curricular e planejamento de ensino; métodos e técnicas de ensino; avaliação do ensino.\nBIBLIOGRAFIA RECOMENDADA\n1)\tCANDAU, Vera Maria. (Org.) Ensinar e Aprender: sujeitos, saberes e pesquisa/Encontro Nacional de Didática e Prática de Ensino (ENDIPE). Rio de Janeiro: DP&A, 2000.\n2)\t________Linguagens, espaços e tempos no ensinar e aprender./Encontro Nacional de Didática e Prática de Ensino (ENDIPE). Rio de Janeiro: DP&A, 2000.\n3)\t ________(Org.)Didática, Currículo e Saberes Escolares. Rio de Janeiro: DP&A, 2001.\n4)\tFAZENDA, Ivani (org.). Didática e interdisciplinaridade. São Paulo : Papirus, 1998.\n",
+       "BibliografiaBasica": "1)\tGIMENO SACRISTÁN, Jose. Currículo e diversidade cultural. Em: SILVA, Tomaz Tadeu da; MOREIRA, Antonio Flavio Barbosa (orgs.). Territórios contestados: o currículo e os novos mapas políticos e culturais. Petrópolis/RJ : Vozes, 1999. [82-113].\n2)\tGIMENO SACRISTÁN, J. e PEREZ GÓMEZ, A. I. Compreender e transformar o ensino. 4ª ed. Porto Alegre : Artmed, 1998.\n3)\tLIBÂNEO, José Carlos. Didática: velhos e novos temas. Goiânia : edição do autor, 2002.\n4)\t_________. Pedagogia e Pedagogos, para quê? 7ª ed. SP : Cortez, 2004.\n5)\tMOREIRA, Antonio Flávio Barbosa; SILVA, Tomaz Tadeu da. Sociologia e teoria crítica do currículo: uma introdução. Em: MOREIRA, Antonio Flávio Barbosa; SILVA, Tomaz Tadeu da.(Orgs.). Currículo, cultura e sociedade. São Paulo : Cortez, 1995. [07-37].\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "18:00 - 22:00",
+        "professor": "REJANE MARIA DE ALMEIDA AMORIM"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAW351",
+      "Nome": "Informatica Aplicada ao Ensino",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Características gerais do uso do computador no ensino. Planilha eletrônica. Hipertexto. Programas educativos. Exemplos e experiências do computador no ensino de Matemática. Possibilidade do uso do computador na formação de professores.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 15:00",
+        "professor": "MARIA HELENA CAUTIERO HORTA JARDIM"
+       },
+       {
+        "dia": "Seg",
+        "hora": "15:00 - 17:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "6º Período": [
+     {
+      "Codigo": "EDDU05",
+      "Nome": "Prát Ensino Mat Estágio Superv",
+      "Créditos": "8.0",
+      "Teórica": "400",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Reconhecimento de instituições, projetos e experiências de desenvolvimento curricular em diferentes espaços educativos. Observação e análise de experiências docentes, em escolas de Educação Básica, com respaldo teórico e crítico. Capacitação do licenciando como profissional do magistério. Desenvolvimento de práticas pedagógicas, reflexívas, criativas e críticas, teoricamente fundamentadas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "20:20 - 22:00",
+        "professor": "WASHINGTON SANTOS DOS REIS"
+       }
+      ],
+      "Requisitos": [
+       "EDD241"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAW475",
+      "Nome": "Analise Real",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Construção dos números reais. Seqüências e séries numéricas. Topologia da reta. Limite e continuidade. Derivadas. Teorema do valor intermediário. Teorema do Valor Médio. Teorema de Taylor. Integral de Riemann. Teorema Fundamental do Cálculo. Aplicações ao estudo das funções elementares.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "20:10 - 21:50",
+        "professor": "ERWIN MAXIMILIANO TOPP PAREDES"
+       },
+       {
+        "dia": "Sex",
+        "hora": "18:30 - 21:50",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDD501",
+      "Nome": "Didática de Matemática I",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A evolução do ensino da Matemática no Brasil. Análise do Livro Didático. Perspectiva crítica do planejamento pedagógico em Educação Matemática. O cotidiano de sala de aula: elementos determinantes.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "EDD241"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAW243",
+      "Nome": "Probabilidade e Estatistica",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Noções de probabilidade. Teorema de Bayes. Estatística descritiva. Fontes de dados estatísticos. Estimação de parâmetros por pontos e intervalos. Teste de hipótese, comparação com vários modelos normais. Teste de independência e homogeneidade. Testes e estimação não paramétricas. Regressão. Correlação.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "18:30 - 21:50",
+        "professor": "ROBERTO ANDRES VIVEROS VERA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "20:10 - 21:50",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAW487",
+      "Nome": "Monografia I",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução à metodologia científica. Escolha e delimitação do problema a ser trabalhado e da metodologia a ser utilizada na monografia de final de curso. Redação de uma porposta inicial.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "7º Período": [
+     {
+      "Codigo": "MAW354",
+      "Nome": "Fundamentos de Geometria",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conteúdos da geometria para o Ensino Fundamental e Médio. O método experimental e o axiomático em geometria. Geometria euclidiana espacial: Axiomas de Incidência. Axioma da Tridimensionalidade. Retas e Planos (posições relativas, ângulos, paralelismo, proporcionalidade, perpendicularismo); Construção de sistmea de coordenadas no espaço. Construções: Prismas, Cilindros, Pirâmides,  Esferas, Troncos. Volumes: Princípio de Cavalieri. Relações de volumes para sólidos no espaço. Modelos explorados no ensino e formas de abordagem. Novas tecnologias utilizadas no ensino de geometria. Análise de livros didáticos e para-didáticos e de propostas curriculares oficiais.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "18:30 - 21:50",
+        "professor": "CARLOS DIOSDADO ESPINOZA PENAFIEL"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAW485",
+      "Nome": "Análise Complexa",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Construção do corpo dos números complexos. Representação goemétrica. Projeção estereográfica Funções Analíticas; Funções elementares. Integrais. Séries de potências. Resíduos e pólos. Transformações por funções elementares.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 15:00",
+        "professor": "ALEXANDER EDUARDO ARBIETO MENDOZA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 15:00",
+        "professor": ""
+       },
+       {
+        "dia": "Sex",
+        "hora": "13:00 - 15:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDD620",
+      "Nome": "Didática de Matemática II",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Metodologia do Ensino de Matemática em uma didática transformadora. O desenvolvimento da atitude científica nos alunos. A problemática da avaliação do ensino da Matemática.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "18:00 - 20:10",
+        "professor": "WASHINGTON SANTOS DOS REIS"
+       }
+      ],
+      "Requisitos": [
+       "EDD501"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAW483",
+      "Nome": "Lab Instr Ensino da Matemática",
+      "Créditos": "3.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Aplicação do conteúdo de geometria, visto ao longo do curso, em Desenho e Construções. Manipulação e criação de materiais concretos que auxiliam na motivação, introdução e fixação de conceitos matemáticos no Ensino Fundamental e no Ensino Médio. Montagem e avaliação de experiências adequadas à escola nesses níveis. Desenvolvimento de recursos auxiliadores para o ensino de matemática e técnicas de aplicação de conhecimentos específicos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "15:00 - 17:00",
+        "professor": "NEDIR DO ESPIRITO SANTO"
+       },
+       {
+        "dia": "Sex",
+        "hora": "15:00 - 17:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "8º Período": [
+     {
+      "Codigo": "MAWX06",
+      "Nome": "Monografia II",
+      "Créditos": "3.0",
+      "Teórica": "0",
+      "Prática": "120",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Levantamento bibliográfico. Levantamento e preparação dos resultados. Avaliação. Redação do projeto.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAW481",
+      "Nome": "Evol da Ciência e da Matemát",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Origens da matemática. A evolução da matemática da antiguidade ate a época contemporânea. A geometria de Euclides e a geometria de Riemann. A aritmetização da analise. O movimento Bourbaki.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "Disciplinas Optativas (Escolha Restrita)": [
+     {
+      "Codigo": "EDW001",
+      "Nome": "Profissão Docente",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A formação do professor e o exercício profissional: histórico e perspectivas. O trabalho na Escola e os desafios da educação contemporânea. O saber docente e as particularidades do trabalho do professor. Políticas atuais e profissionalização docente. A questão da autonomia e da identidade profissional. Papel social e função ética e política do professor. Organizações profissionais dos professores.\n",
+       "BibliografiaBasica": "1- APPLE, M. W. Ideologia e Currículo. São Paulo: Brasiliense, 1979.\n2- BITTENCOURT, C. Livro didático e conhecimento histórico: uma História do saber escolar. São Paulo: Loyola, 1990. BITTENCOURT, C. O saber histórico na sala de aula. São Paulo: Contexto, 2001.\n3- BOURDIEU, P. Sistemas de Ensino, Sistemas de Pensamento. In: A Economia das Trocas Simbólicas. São Paulo: Perspectiva, 1992, p. 203-230.\n4- FONSECA, S. G. Caminhos da história ensinada. Campinas, SP: Papirus, 1993.\n5- FONSECA, T. N. de L. História e Ensino de História. Belo Horizonte, MG: Autêntica, 2004.\n6- FORQUIN, J.-C. Escola e Cultura. Porto Alegre: Artes Médicas, 1993.\n7- GONCALVES, M. de A. et alii. Qual o valor da história hoje? Rio de Janeiro: FGV, 2012.\n8- LOPES, A. R. C. O currículo e a construção do conhecimento na escola - controvérsias entre conhecimento comum e conhecimento científico. In: MOREIRA, A. F. B. (Org). Conhecimento Educacional e Formação do Professor. Campinas, SP: Papirus, 1994, p. 39-52.\n9- MATTOS, I. R. de (Org.). Histórias do ensino de História do Brasil. Rio de Janeiro: Access, 1998. MONTEIRO, A. M. Professores de História: entre saberes e práticas. Rio de Janeiro, Mauad, 2007.\n10- NADAI, Elza. O ensino de História no Brasil: Trajetória e perspectivas. Revista Brasileira de História, São Paulo, v. 13, n. 25/26, p. 163-174, set. 92/ago.93.\n11- OLIVEIRA, M. M. D. de. O direito ao passado. Uma discussão necessária à formação do profissional de História. Aracaju: Editora da UFS, 2011.\n12- ROCHA, H.; MAGALHÃES, M.; CONTIJO, R. (Org.). A escrita da História Escolar: memória e historiografia. Rio de Janeiro: Editora FGV, 2009.\n13- SILVA, T. T. da (Org). Alienígenas na sala de aula - uma introdução aos estudos culturais em educação. Petrópolis, RJ: Vozes, 1995.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAW463",
+      "Nome": "Geometria Não Euclidiana",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Tentativas de Prova do quinto Postulado de Euclides. Axioma Hiperbólico e conseqüências. Paralelismo assintótico. Triângulos generalizados. Posições entre retas. Áreas de triângulos. Horocírculos e Linhas Eqüidistantes. Modelo do semi-plano de Poincaré e do disco. Breve introdução de outras geometrias.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 15:00",
+        "professor": "ANDREW JAMES CLARKE"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 15:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAWZ53",
+      "Nome": "Ativ Curricular Extensão - Lma",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "0",
+      "Extensão": "400",
+      "Informação": {
+       "Info": "Atuação em atividades de extensão registradas na Pró-Reitoria de Extensão da UFRJ, tais como: programas, projetos, cursos de extensão e eventos; atuação em quaisquer outras atividades de extensão, assim caracterizadas em conformidade com as definições contidas em ?Extensão Universitária: Organização e Sistematização?, do FÓRUM DE PRÓ-REITORES DE EXTENSÃO DAS UNIVERSIDADES PÚBLICAS BRASILEIRAS. Belo Horizonte: COOPMED, 2007, a critério da coordenação do curso.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAW353",
+      "Nome": "Estruturas Algébricas",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Corpos (Q, R, C, Z, primo). Extensões algébricas de Q. Grau de uma extensão. Multiplicidade do grau. Construções com régua e compasso. Grupos. Grupos de simetrias de polígonos regulares e grupos de permutações. Subgrupos. Grupos finitos. Teorema de Lagrange. Grupo linear geral sobre R. Grupos que preservam formas bilineares. Grupos ortogonais. Movimentos rígidos. Grupo euclidiano.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "18:30 - 20:10",
+        "professor": "ALBETA COSTA MAFRA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "20:10 - 21:50",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     }
+    ]
+   },
+   "obrigatorias": 35,
+   "eletivas": 4,
+   "ano": "2008/1 a 9999/9"
+  }
+ ]
+}

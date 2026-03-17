@@ -1,0 +1,765 @@
+{
+ "Licenciatura em Física - EAD": [
+  {
+   "materias": {
+    "1º Período": [
+     {
+      "Codigo": "UFF110",
+      "Nome": "Introdução à Informática",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Hardware: princípio e funcionamento do computador; identificação dos principais componentes, montagem de um computador. Sistema operacional: conceito de sistema operacional, sistemas Windows e Linux, instalação de programas. Internet: conceito de Internet, navegação, sitios de busca, repositórios de programas, sitios voltados para o ensino. E-mail: enviar e receber e-mails, arquivos anexados. Edição de texto: programas de edição de textos, edição de fórmulas. Planilhas: uso de planilha eletrônica, fórmulas e decisões lógicas, gráficos em planilhas.  Gráficos e multimidia: arquivos de imagem (.gif, .jpeg etc), arquivos de som, multimidia, flash etc. Hipertexto: o que é Html, editores e browsers.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "UFF112",
+      "Nome": "Introd Probabil e Estatística",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Técnicas de contagem e combinatória: Conjuntos e operações com conjuntos. Permutações. Combinações. Arranjos e arranjos com repetição. Binômio de Newton e triângulo de Pascal. Probabilidade: Técnicas de contagem. Experimentos, eventos e espaço amostral. Probabilidade, definição e propriedades básicas. Probabilidade condicional e eventos independentes. Teorema de Bayes e aplicações.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIW360",
+      "Nome": "Introdução Ciências Físicas I",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O método científico. Ótica geométrica. Noções introdutórias de Astronomia e de Mecânica da Partícula. A observação experimental  e a realização de medidas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "UFF111",
+      "Nome": "Pré - Cálculo",
+      "Créditos": "5.0",
+      "Teórica": "75",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Propriedades fundamentais dos números reais.  Equações lineares e quadráticas.  Expressões algébricas - fatorações, expoentes e radicais.  Inequações.  Coordenadas cartesianas no plano.  Funções e suas propriedades: injetividade, sobrejetividade e monotocidade.  Translações e reflexões de gráficos de funções.  Mudanças de escalas nos gráficos de funções.  Operações com funções: composições e funções inversas.  Funções lineares e seus gráficos de retas.  Funções quadrática, racional e seus gráficos.  Funções logaritmo e exponencial.  Funções polinomiais.  Números complexos e o Teorema Fundamental da Álgebra.  Funções trigonométricas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "UFF113",
+      "Nome": "Geometria Analítica I",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Coordenadas no plano. Vetores no plano, propriedades, representação gráfica e produto interno. Projeções ortogonais. Equação da reta, inclinação.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "2º Período": [
+     {
+      "Codigo": "UFF121",
+      "Nome": "Cálculo I",
+      "Créditos": "5.0",
+      "Teórica": "75",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Limites, limites laterais, limites trigonométricos, limites no infinito, assíntotas horizontais e verticais; funções contínuas; funções diferenciáveis, a diferencial e aproximação linear, relações entre diferenciabilidade e continuidade, regra da cadeia, derivação implícita, taxas de variação- taxas relacionadas, funções crescentes e decrescentes, concavidade do gráfico de funções, pontos de inflexão; derivadas de ordem superior, máximos e mínimos relativos, o teste da derivada segunda para extremos relativos, regra de L'Hôpital, teorema da função inversa, funções trigonométricas inversas, fórmula de Taylor.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "UFF124",
+      "Nome": "Geometria Analítica II",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Equação da reta, inclinação. Trinômio do segundo grau. Cônicas como lugar geométrico. Curvas no plano, identificação das cônicas, identificação e gráficos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIW470",
+      "Nome": "Introdução Ciências Físicas II",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O método científico. Conceitos básicos de termometria e eletricidade. A observação experimental e a realização de medidas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "UFF123",
+      "Nome": "Numeros Complexos",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Noções elementares. Congruência e semelhança de triângulos e figuras planas. Círculo, polígonos convexos. Inscrição e circunscrição de polígonos no círculo. Posições relativas de retas e círculos e de círculos e círculos.\nO conjunto dos números complexos, representação geométrica, módulo. Elementos de trigonometria. A forma polar de um número complexo, a fórmula de De Moivre. Raízes n-ésimas da unidade. Relações trigonométricas no triângulo.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "3º Período": [
+     {
+      "Codigo": "FIW235",
+      "Nome": "Física Básica I B",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Sistemas de partículas: momento linear, momento angular e energia mecânica; leis de conservação. O centro de massa de um sistema de partículas: referencial do centro de massa. Colisões e rotações em torno de eixos fixos. Corpos rígidos: o movimento plano de um corpo rígido; as condições para o rolamento sem deslizamento. Aplicações concretas de distribuições de probabilidade: a análise estatística de dados experimentais; distribuições.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "UFF230",
+      "Nome": "Libras",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Compreensão dos principais aspectos da Língua Brasileira de Sinais - LIBRAS, língua oficial da comunidade surda para a inclusão educacional de alunos surdos. O mundo dos surdos; cultura e comunidade surda; o alfabeto manual; gramática da LIBRAS; classificadores e adjetivos descritivos; tipos de verbos; dialetos e idioletos; números; cores; vestuário; valores monetários; alimentos; história da educação de surdos; aquisição de língua de sinais por crianças surdas; literatura surda.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIW233",
+      "Nome": "Física Básica I A.",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "As leis do movimento: a lei da inércia; referenciais inerciais e não inerciais; a segunda lei de Newton; a lei da ação e reação.  Sistemas de referência e sistemas de coordenadas. A realização de medidas indiretas. Trabalho de uma força; energia cinética; teorema trabalho-energia cinética; forças conservativas e forças dissipativas; energia potencial; energia mecânica e as condições para sua conservação. Momento linear e sua conservação. Torque de uma força e momento angular de uma partícula em relação a um ponto; conservação do momento angular; as leis de Kepler para o movimento de planetas e a lei da gravitação universal de Newton.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "UER121",
+      "Nome": "Fund Edu I- Filosofia Educação",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Os fundamentos teórico-conceituais nas áreas filosófica, histórica, sócio-antropológica e psicológica para o exercício do pensamento crítico sobre teorias e práticas pedagógicas. Conhecimento: produção, formas e estratégias de avaliação; saber e poder. Homem: visões histórica, filosófica, sócio-antropológica e psicológica. Educação e sociedade: concepções e conflitos. Estado e educação: ideologia, cidadania e globalização.\n___ BIBLIOGRAFIA BÁSICA ___\n1) ALVES, Rubens. Entre a ciência e a sapiência. O dilema da educação. São Paulo: Loyola, 1999.\n2) ARENDT, Hannah. A Condição humana. Rio de Janeiro: Forense, 1997.\n3) CAMBI, Franco. História da Pedagogia. Campinas: Unesp, 2000.\n___ BIBLIOGRAFIA COMPLEMENTAR ___\n1) CANIVEZ, Patrice. Educar o Cidadão? São Paulo: Papirus, 1997.\n2)  CASTORIADIS, Cornelius. A pólis grega e a criação da democracia in Encruzilhadas do labirinto II. Domínios do homem. Rio de Janeiro: Paz e Terra, 1987, p. 268-313.\n3) CASSIRER, E. A filosofia do Iluminismo. Campinas: Unicamp, 1992.\n4) FREIRE, Paulo. Educação como prática da liberdade. Rio de Janeiro: Paz e Terra, 2000.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "UFF231",
+      "Nome": "Cálculo II",
+      "Créditos": "5.0",
+      "Teórica": "75",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Integral definida, teorema fundamental do cálculo, cálculo de  áreas, o teorema do valor médio para integrais, funções logaritmo e exponencial, tecnicas de integração por  substituição simples,  por partes, frações parciais, integração de potências e produtos de funções trigonométricas, integrais impróprias e critérios de convergência, cálculo de volumes. Áreas e comprimentos; equações diferenciais e campos de inclinações, variáveis separáveis e equações diferenciais lineares; funções vetoriais de uma variável real, curvas em coordenadas polares; derivadas de funções vetoriais; integrais de funções vetoriais; curvatura.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "4º Período": [
+     {
+      "Codigo": "UER231",
+      "Nome": "Fund Edu II - Psicologia Educ",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A definição da educação: da influência da metafísica às ciências da educação. O estatuto do conhecimento na educação. Bases antropológicas da educação. A figura do mestre. A filosofia como prática da elucidação das questões educacionais. O sentido político da educação. Modernidade: a redefinição do espaço público. A cidadania moderna e a instituição da escola pública. Educação e cidadania. O desmonte do espaço público e a crise da escola na contemporaneidade.\n___ BIBLIOGRAFIA BÁSICA ___\n1)  ALVES, Rubens. Entre a ciência e a sapiência. O dilema da educação. São Paulo: Loyola, 1999.\n2) ARENDT, Hannah. A Condição humana. Rio de Janeiro: Forense, 1997.\n3) CAMBI, Franco. História da Pedagogia. Campinas: Unesp, 2000.\n4) CANIVEZ, Patrice. Educar o Cidadão? São Paulo: Papirus, 1997.\n5) CASTORIADIS, Cornelius. A pólis grega e a criação da democracia in Encruzilhadas do labirinto II. Domínios do homem. Rio de Janeiro: Paz e Terra, 1987, p. 268-313.\n___ BIBLIOGRAFIA COMPLEMENTAR ___\n1) CASSIRER, E. A filosofia do Iluminismo. Campinas: Unicamp, 1992.\n2) FREIRE, Paulo. Educação como prática da liberdade. Rio de Janeiro: Paz e Terra, 2000.\n3) FREIRE, Paulo. Pedagogia da autonomia. Rio de Janeiro: Paz e Terra, 1992.   4) JARDIM, Antonio. Quando a paixão é filosofia. In: A construção Poética do Real. Rio de Janeiro: 7 Letras, 2004.\n5) VALLE, Lílian do. A Escola e a Nação. São Paulo: Letras e Letras, 1996.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "UER121"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "UFF241",
+      "Nome": "Álgebra Linear I",
+      "Créditos": "5.0",
+      "Teórica": "75",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Matrizes: Matrizes e determinantes. Sistemas lineares. Espaços Vetoriais: Espaço vetorial, subespaços. Combinações lineares, independência linear, bases e dimensão. Transformações lineares: Transformações lineares: definição e exemplos. Teorema do núcleo e imagem,  aplicações. Representação matricial de uma transformação linear. Mudança de base e de coordenadas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIW247",
+      "Nome": "Física Básica II A.",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estática e introdução à dinâmica de fluidos; viscosidade. Teoria Cinética dos Gases: a descrição estatística de um sistema de muitas partículas; a interpretação microscópica dos conceitos de temperatura e energia. Calor e primeira lei da termodinâmica; a segunda lei da termodinâmica na forma macroscópica;  entropia e reversibilidade; ciclos termodinâmicos, motores, refrigeradores. Medidas Experimentais Indiretas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "UER232",
+      "Nome": "Prática de Ensino I - Didática",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Educação, pedagogia e didática. Didática e tendências pedagógicas. Formação, memória e experiência a serviço da construção da identidade do professor. O cotidiano escolar e os desafios da prática docente. Novas exigências do trabalho escolar. Organização, implementação e acompanhamento do processo ensino-aprendizagem.\n___ BIBLIOGRAFIA BÁSICA ___\n1) CANDAU, Vera M. (org.). Magistério: construção cotidiana. Petrópolis: Vozes, 1997.\n2) CANDAU, Vera M. (org.). Rumo a uma nova didática. Petrópolis: Vozes, 1994.\n3) CANDAU, Vera M . (org.). Didática, questões contemporâneas. Rio de Janeiro: Forma e ação, 2009.\n4) FREIRE, P. Pedagogia da Autonomia: saberes necessários à prática educativa. Rio de Janeiro: Paz e Terra, 1996.\n___ BIBLIOGRAFIA COMPLEMENTAR ___\n1) LIBÂNEO, J. C. Didática. São Paulo: Cortez, 1994.\n2) PERRENOUD, Phillipe. Avaliação: da excelência à regulação das aprendizagens. entre duas lógicas. Porto Alegre: ARTMED, 1999.\n3) TARDIF, M. Saberes Docentes e formação profissional. Petrópolis: Vozes, 2002.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "UFF242",
+      "Nome": "Cálculo III",
+      "Créditos": "5.0",
+      "Teórica": "75",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Funções reais de várias variáveis, conjuntos de níveis, limites e continuidade; derivadas parciais; diferenciabilidade; a diferencial como uma aproximação linear; Gradiente, plano tangente e reta normal, Regra da Cadeia, Derivadas parciais de ordens superiores, Formas locais e  Derivação implícita, Derivadas direcionais, Interpretação geométrica do gradiente, Pontos críticos - Máximos e Mínimos, Pontos extremos locais, Multiplicadores de Lagrange, Funções vetoriais de várias variáveis, conjuntos de nível, Funções do plano no plano, Parametrizações de superfícies - funções de R2 em R3, Funções de R3 em R2 vistas como sistemas dinâmicos, Limite e continuidade, Derivadas parciais e a matriz jacobiana, Regra da Cadeia, Teoremas da Função Inversa e da Função Implícita.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "5º Período": [
+     {
+      "Codigo": "UER241",
+      "Nome": "Fund Edu III - Hist Educação",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A formação escolar moderna (sécs. XVI a XIX). Infância, pedagogia e processo civilizatório. Educação na América Portuguesa. Revoluções liberais, Iluminismo e Estados modernos. A formação do Estado nacional e os processos de escolarização no Brasil imperial. Educação na República. Nacionalização dos sistemas educacionais. A história da formação de professores no Brasil. Direito à educação escolar e cidadania no Brasil contemporâneo.\n___ BIBLIOGRAFIA BÁSICA ___\n1) ABREU, Regina, CHAGAS, Mário (org.). Memória e patrimônio: ensaios contemporâneos. Rio de Janeiro: DP&A, 2003.\n2) BAUDELOT, Cristian. A sociologia da educação: para quê? In: Teoria & Educação, no. 3, Porto Alegre, 1991.\n3) BAUDRILLARD, Jean. Simulacros e simulação. Lisboa: Relógio dAgua, s/d, (original:1981).\n___ BIBLIOGRAFIA COMPLEMENTAR ___\n1) BURKE, Peter. (org). A Escrita da História - novas perspectivas. São Paulo: UNESP, 1992.\n2) BURKE, Peter. A Escola dos Annales - 1929 -1989 - A Revolução Francesa da Historiografia. São Paulo: UNESP, 1997.\n3) CARDOSO, Ciro Flamarion. Uma introdução à História. São Paulo: Brasiliense, 1992.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "UER231"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "UFF351",
+      "Nome": "Cálculo IV",
+      "Créditos": "5.0",
+      "Teórica": "75",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Coordenadas polares, cilíndricas e esféricas em duas e três dimensões, parametrização de curvas e superfícies no espaço. Integrais duplas e triplas, integrais iteradas, o teorema de Fubini. Mudança de variáveis. Aplicações, cálculo de áreas e volumes. Integrais de Linha, campos vetoriais, teoremas de Green, Gauss e Stokes. Aplicações a teoria do potencial.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIW350",
+      "Nome": "Física Básica II B",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Oscilador harmônico simples; oscilações amortecidas e forçadas; osciladores acoplados; modos normais de vibração de um sistema. Ondas mecânicas numa corda vibrante: fenômenos de interferência, reflexão, refração, difração e polarização; a equação de onda e suas soluções. Ondas num meio elástico: a propagação do som; som, ruído e sons musicais; uma introdução à física da música e dos instrumentos musicais. Apresentação de resultados experimentais: o ajuste de dados experimentais pelo método da minimização de chi2 em casos lineares.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "UER242",
+      "Nome": "Prática Ensino II - Currículo",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Tecendo a rede de trabalho: conhecendo e preparando os alunos. A relação teoria-prática: desafios da disciplina e da formação docente. O Estágio Curricular nas escolas do Ensino Fundamental e Médio. Orientações e normas para estágio. O trabalho proposto: um estudo tipo etnográfico. O debate orientado pela teoria/vivência prática dos alunos nas escolas de estágios. O cotidiano das escolas do ensino fundamental e médio; contradições e dimensões: institucional e organizacional, institucional e pedagógica, epistemológica histórica e filosófica, comunitária.\n___ BIBLIOGRAFIA BÁSICA ___\n1) WEISSMAN, H. Didática das Ciências Naturais, Editora Artmed.\n2) GIORDAN, A. VECHI, G. As origens do saber: das concepções dos aprendentes aos conceitos científicos. Porto Alegre: Artes Médicas, 1996.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "UER232"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "UFF352",
+      "Nome": "Álgebra Linear II",
+      "Créditos": "5.0",
+      "Teórica": "75",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Autovalores, autovetores e subespaços invariantes. Diagonalização de operadores. Teorema espectral. Matrizes simétricas e ortogonais. Projeção, reflexão e rotação no plano e no espaço. Identificação de cônicas e de quádricas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "6º Período": [
+     {
+      "Codigo": "FIW370",
+      "Nome": "Física Básica III B",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Magnetismo: campo magnético; lei de Ampère e de Biot-Savart; lei de Faraday; propriedades magnéticas da matéria; indutância; lei de Ampère-Maxwell, corrente de indução. Medidas elétricas: indutores - circuitos de corrente contínua e alternada; impedância. As equações da Maxwell.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "UER361",
+      "Nome": "Prática Ens III - Avaliação Ed",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Avaliação como prática subsidiaria no contexto geral da ação educativa. Padrões e tendências de avaliação em diferentes abordagens da educação. Pressupostos epistemológicos da avaliação. O caráter multidimensional da avaliação: dimensões da avaliação, aspectos metodológicos. Medida e avaliação: concepções distintas. Construção de instrumentos de avaliação. Análise de resultados. Avaliação externa: SAEB, ENEM e ENC. Avaliação com referência a competências.\n___ BIBLIOGRAFIA BÁSICA ___\n1) WEISSMAN, H. Didática das Ciências Naturais. Porto Alegre: Editora Artmed.\n2) GIORDAN, A; VECHI, G. As origens do saber: das concepções dos aprendentes aos conceitos científicos. Porto Alegre: Artes Médicas, 1996.\n3) FREIRE, Paulo. Educação e mudança. Rio de Janeiro: Paz e Terra, 1983.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "UER242"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "UFF360",
+      "Nome": "Equações Diferenciais",
+      "Créditos": "5.0",
+      "Teórica": "75",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução histórica, problemas com valores iniciais. Soluções numéricas (Euler e Runge-Kutta). Aplicações. Equações de primeira ordem: Separação de variáveis, equações lineares,  fatores integrantes e equações exatas. Equações homogêneas. Aplicações. Equações de segunda ordem: Equações lineares homogêneas com coeficientes constantes; a equação\ncaracterística. Equações lineares não homogêneas, variação dos parâmetros e coeficientes indeterminados. Aplicações: Resolução de sistemas de equações lineares.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIW369",
+      "Nome": "Física Básica III A.",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Eletricidade: a Lei de Coulomb; campo elétrico, lei de Gauss, potencial elétrico; condutores e isolantes; dielétricos. Medidas elétricas: corrente elétrica, ddp, resistências; resistores e capacitores  associações em série e paralelo e circuito RC. Análise de dados experimentais: demonstração e uso do método de ajuste por mínimos quadrados para o caso linear.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "UER351",
+      "Nome": "Fund Edu Iv- Sociologia da Edu",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Fundamentos teórico-conceituais nas áreas filosófica, histórica, sócio-antropológica e psicológica para o exercício do pensamento crítico sobre teorias e práticas pedagógicas, visando uma formação docente consciente e socialmente responsável.\n___ BIBLIOGRAFIA BÁSICA ___\n1) ALVES, Rubens. Entre a ciência e a sapiência. O dilema da educação. São Paulo: Loyola, 1999.\n2) ARENDT, Hannah. A Condição humana. Rio de Janeiro: Forense, 1997.\n3) CAMBI, Franco. História da Pedagogia. Campinas: Unesp, 2000.\n___ BIBLIOGRAFIA COMPLEMENTAR ___\n1) CANIVEZ, Patrice. Educar o Cidadão? São Paulo: Papirus, 1997.\n2) CASTORIADIS, Cornelius. A pólis grega e a criação da democracia in Encruzilhadas do labirinto II. Domínios do homem. Rio de Janeiro: Paz e Terra, 1987, p. 268-313.\n3) CASSIRER, E. A filosofia do Iluminismo. Campinas: Unicamp, 1992.\n4) FREIRE, Paulo. Educação como prática da liberdade. Rio de Janeiro: Paz e Terra, 2000.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "UER241"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "UERU01",
+      "Nome": "Estágio Supervisionado I",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Profissionalização do Magistério no Ensino Fundamental e no Ensino Médio. Estrutura e funcionamento da Escola. Análise de livros e materiais didáticos físicos e virtuais.\n___ BIBLIOGRAFIA BÁSICA ___\n1) BRASIL. Parâmetros curriculares nacionais: terceiro e quarto ciclos do ensino fundamental: introdução aos parâmetros curriculares nacionais. Brasília: MEC/SEF, 1998.\n2) BRASIL. Ministério da Educação. Secretaria de Educação Média e Tecnológica. Parâmetros curriculares nacionais: ensino médio. Brasília: MEC/SEMTEC, 1999. 4v.\n3) HAWAD, Helena Feres; CUNHA, Vera Lucia. Estágio Supervisionado I para licenciaturas. 2a ed., Rio de Janeiro: Fundação CECIERJ, 2008.\n4) LIMA, Maria Socorro Lucena [et al]. A hora da prática: reflexões sobre o estágio supervisionado e a ação docente. 4a ed. Fortaleza: Edições Demócrito Rocha, 2004.\n___ BIBLIOGRAFIA COMPLEMENTAR ___\n1) ZABALZA, Miguel A. Diários de aula: um instrumento de pesquisa e desenvolvimento profissional. Porto Alegre: Artmed, 2004.\n2) PICONEZ, Stela C. Bertholo (Coord.). A prática de ensino e o estágio supervisionado. 5a ed. Campinas Papirus, 2000. (Coleção magistério: formação e trabalho pedagógico).\n3) PIMENTA, Selma Garrido; LIMA, Maria Socorro Lucena. Estágio e docência. São Paulo: Cortez, 2004.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "UER232"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "7º Período": [
+     {
+      "Codigo": "FIW493",
+      "Nome": "Física Básica IV B",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Relatividade especial: os resultados experimentais sobre a propagação da luz; a teoria da relatividade especial; o princípio da relatividade einsteiniana. A velha teoria quântica; a dualidade onda-partícula; o princípio da incerteza; os espectros atômicos. O átomo de hidrogênio. Introdução à mecânica quântica: função de onda; amplitude de probabilidade; o princípio da superposição de estados;  a equação de Schroedinger. Aplicações: o átomo de hidrogênio;  spin e momento angular; interação da radiação com a matéria.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIW495",
+      "Nome": "Informática para Ens da Física",
+      "Créditos": "3.0",
+      "Teórica": "0",
+      "Prática": "75",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução a arquitetura e a estrutura da linguagem computacional. Apresentação e discussão de programas computacionais para o ensino de ciências em um ambiente de sala de aula e de laboratório didático. Linguagens de autoria; processadores de texto e hipertexto, editores de conserware. Programas aplicativos; planilha eletrónica, pacotes estáticos, banco de dados. Critérios e instrumentos para avaliação de softwares educativos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIW480",
+      "Nome": "Física Básica IV A.",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O modelo da propagação geométrica da luz: a luz como um raio luminoso; formação de imagens; lentes; espelhos planos, côncavos e convexos. As características ondulatórias da luz: reflexão, interferência, refração, difração e polarização da luz. Ondas eletromagnéticas: propagação de ondas eletromagnéticas; antenas. O espectro de ondas eletromagnéticas: cor.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIW494",
+      "Nome": "Mecânica",
+      "Créditos": "5.0",
+      "Teórica": "75",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Formalismo Newtoniano, movimento de um corpo rígido. Introdução aos formalismos Lagrangeano e Hamiltoniano.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "UERU02",
+      "Nome": "Estágio Supervisionado II",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estágio de co-participação e colaboração com o professor regente. O planejamento da atividade pedagógica submetido a uma crítica constante, em atendimento às necessidades dos alunos. A elaboração do material didático. A avaliação como elemento deflagrador de novas ações pedagógicas. A elaboração e a correção de instrumentos de avaliação.\n___ BIBLIOGRAFIA BÁSICA ___\n1) CAPRA, Fritjof. O Tao da Física. São Paulo: Cultrix, 28a ed., 2011.\n2) CHASSOT, Attico Inácio. Catalisando transformações na educação. Ijuí: Ed. Unijuí, 1993.\n3) D?AMBRÓSIO, Ubiratan. Etnomatemática. Arte ou técnica de explicar e conhecer. São Paulo: Editora. Ática, 1990.\n4) GADOTTI, Moacir. Boniteza de um sonho: ensinar e aprender com sentido. Rio de Janeiro: Feevale, 2004.\n___ BIBLIOGRAFIA COMPLEMENTAR ___\n1) MORAES, M.; LA TORRE, Saturnino de. Sentipensar: fundamentos e estratégias para reencantar a educação. Petrópolis, RJ: Vozes, 2004.\n2) MOREIRA, Marco Antônio. Mapas Conceituais e Aprendizagem Significativa. São Paulo: Centauro, 2011.\n3) SANTOS, L. H. S. Biologia dentro e fora da escola: meio ambiente, estudos culturais e outras questões. Porto Alegre: UFRGS, 2000.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "UERU01"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "8º Período": [
+     {
+      "Codigo": "FIW497",
+      "Nome": "Introdução à Mecânica Quântica",
+      "Créditos": "5.0",
+      "Teórica": "75",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Equação de Schroedinger: Soluções de problemas simples a uma dimensão ? poços de potencial. O átomo de hidrogênio como exemplo de problema a três dimensões.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIW499",
+      "Nome": "História da Física I",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O problema do movimento e o surgimento da Filosofia da Natureza. A Cosmologia antiga; a Física de Aristóteles; a Física Medieval; as origens da mecânica. A Revolução Científica dos séculos XVI e XVII. A Lei da Inércia e o problema do movimento circular. As leis da Ótica Geométrica e a natureza da luz. As contribuições de Newton: conceito de força, gravitação universal e a teoria de Newton da luz e das cores.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "UERU03",
+      "Nome": "Estágio Supervisionado III",
+      "Créditos": "3.0",
+      "Teórica": "0",
+      "Prática": "120",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Acompanhamento do trabalho cotidiano da docência com observação, coparticipação e análise de: atividades de ensino, perfis de estudantes e materiais didáticos. Exercício supervisionado da docência em turmas de educação básica de 2º segmento dos ensinos fundamental e médio. Elaboração de planejamentos, materiais didáticos e avaliações.\n___ BIBLIOGRAFIA BÁSICA ___\n1) MALDANER, Otávio Aloisio & ZANON, Lenir Basso. Pesquisa educacional e produção de conhecimento do professor de Química. IN: SANTOS, Wildson Luiz P. dos & MALDANER, Otávio Aloisio. Ensino de Química em Foco. Ijuí: Ed. Unijuí, 2010.\n2) MATURANA, H.; REZEPKA, S. N. Formação humana e capacitação. Petrópolis, RJ: Vozes, 2000.\n3) MONTEIRO, Ana Maria. Os sentidos do Ensino de História. Rio de Janeiro: Série Ensino de História, Memória e Espaços Educativos Não ? Formais. Salto Pro Futuro coord. Helena Marques Araújo, abril de 2006.\n4) MORAES, M.; LA TORRE, Saturnino de. Sentipensar: fundamentos e estratégias para reencantar a educação. Petrópolis, RJ: Vozes, 2004.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "UERU02"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIW496",
+      "Nome": "Eletromagnetismo e Ótica",
+      "Créditos": "5.0",
+      "Teórica": "75",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Equações de Maxwell, solucões de problemas simples.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIW498",
+      "Nome": "Laboratório Avançado de Física",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Sistemas binários; lógica Booleana; circuitos basculares; registros a deslocamento; seletores-multiplexadores e decodificadores-desmultiplexadores; conversores AD/DA; amplificadores operacionais realimentação. Tratamento de dados. Experimentos clássicos que introduzam o aluno à mecânica quântica.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIW500",
+      "Nome": "Instrumentação Ens Física I",
+      "Créditos": "3.0",
+      "Teórica": "0",
+      "Prática": "75",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo conceitual e experimental de um assunto de Física na abordagem de projetos de ensino médio existentes. Análise desses projetos sob o ponto de vista de sua metodologia, técnicas de avaliação.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ]
+   },
+   "obrigatorias": 41,
+   "eletivas": 0,
+   "ano": "2025/2 a 9999/9"
+  }
+ ]
+}

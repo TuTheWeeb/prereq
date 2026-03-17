@@ -1,0 +1,317 @@
+{
+ "Bacharelado em Letras": [
+  {
+   "materias": {
+    "1º Período": [
+     {
+      "Codigo": "LEL101",
+      "Nome": "Teoria Literaria I",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A cultura: arte, ciencia, jogo, mito e ideologia. A constituicao do fenomeno literario. A questao da temporalidade e da periodizacao literaria. Teoria e critica literaria. O texto e a leitura: metodologias.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEF141",
+      "Nome": "Linguistica I",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introducao. Objeto e campos da linguistica. Ciencias afins. Estrutura das linguas. Procedimentos de descricao e analise.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEV101",
+      "Nome": "Portugues I",
+      "Créditos": "6.0",
+      "Teórica": "90",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A lingua portuguesa no brasil. Variedades de uso. Normas regionais e sociais. Analise gramatical e estilistica de textos contemporaneos. Tecnicas de expressao escrita.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "2º Período": [
+     {
+      "Codigo": "LEL111",
+      "Nome": "Teoria Literaria II",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Problematizacao dos generos literarios. Visao diacronica de teoria dos generos. Conceitos basicos de teoria dos generos. A diversificacao na obra literaria. Estruturacao e desestruturacao dos generos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEL101"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEF151",
+      "Nome": "Linguistica II",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Fonetica e fonologia. Aparelho fonador. Tipos articulatorios. Sistema de transcricao fonetica. Vogais e consoantes. Fonema e alofone. Transcricao e analise fonemicas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEF141"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEV111",
+      "Nome": "Portugues II",
+      "Créditos": "6.0",
+      "Teórica": "90",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Morfo-sintaxe sincronica. O vocabulo: sua classe, estrutura e funcao. As categorias gramaticais. Analise de textos em portugues contemporaneo.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEV101"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "3º Período": [
+     {
+      "Codigo": "LEL201",
+      "Nome": "Teoria Literaria III",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Aprofundamento do conceito de critica literaria. Poeticas e teorias criticas: tracos principais do pensamento classico, romantico e pos-romantico. A estilistica, o new-criticism e o formalismo russo.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEL111"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEV201",
+      "Nome": "Portugues III",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Fonetica e fonologia sincronica. Conceitos basicos. Analise fonetica do portugues culto do rio de janeiro.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEV111"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEF241",
+      "Nome": "Linguistica III",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Morfologia e sintaxe. Gramatica e lexico. Unidades, categorias e funcoes gramaticais. Estrutura sintatica. Problemas de analise gramatical do portugues.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEF151"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEL261",
+      "Nome": "Literatura Comparada I",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo diacronico e comparativo da literatura ocidental atraves de autores representativos. Caracteristicas do contexto socio-politico historico e artistico. Estilos de epoca e de autor. Periodo: da idade media ao barroco inclusive.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "4º Período": [
+     {
+      "Codigo": "LEL211",
+      "Nome": "Teoria Literaria IV",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Poeticas e teorias criticas da contemporaneidade: hermeneutica, estruturalismo, a analise sociologica, a critica semiologica, as esteticas da recepcao e do efeito, a abordagem de base psicanalitica.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEL201"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEV211",
+      "Nome": "Portugues IV",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Historia externa e interna. Origem e formacao da lingua. Fonologia, morfologia e sintaxe historicas. O lexico. Comentario filologico.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEV201"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEF251",
+      "Nome": "Linguistica IV",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Linguistica aplicada ao ensino de linguas. Variacoes linguisticas. Conceito de lingua padrao. O ensino do portugues como lingua materna. O ensino de linguas estrangeiras.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEF241"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEL265",
+      "Nome": "Literatura Comparada II",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Leitura de autores representativos para o estudo diacrônico e comparativo da literatura ocidental.  Características do contexto sócio-político, histórico e artístico.  Período: do século XVIII até a atualidade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEL261"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "5º Período": [
+     {
+      "Codigo": "LEV370",
+      "Nome": "Literatura Brasileira I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O processo literario brasileiro. A poesia das origens a atualidade. Estudo das principais tendencias estetico culturais da literatura brasileira das origens a atualidade, atraves da analise de autores e obras representativas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "6º Período": [
+     {
+      "Codigo": "LEV470",
+      "Nome": "Literatura Brasileira II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O processo literario brasileiro. A prosa das origens a atualidade. Estudo das principais tendencias estetico-culturais da literatura brasileira das origens a atualidade, atraves da analise de autores e obras representativas da ficcao regional.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEV370"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ]
+   },
+   "obrigatorias": 16,
+   "eletivas": 0,
+   "ano": "1983/1 a 1997/2"
+  },
+  {
+   "materias": {},
+   "obrigatorias": 0,
+   "eletivas": 0,
+   "ano": "1998/1 a 9999/9"
+  }
+ ]
+}

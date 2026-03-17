@@ -1,0 +1,1314 @@
+{
+ "Letras: Português-Espanhol (NC)": [
+  {
+   "materias": {
+    "1º Período": [
+     {
+      "Codigo": "LEL101",
+      "Nome": "Teoria Literaria I",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A cultura: arte, ciencia, jogo, mito e ideologia. A constituicao do fenomeno literario. A questao da temporalidade e da periodizacao literaria. Teoria e critica literaria. O texto e a leitura: metodologias.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEF141",
+      "Nome": "Linguistica I",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introducao. Objeto e campos da linguistica. Ciencias afins. Estrutura das linguas. Procedimentos de descricao e analise.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEV101",
+      "Nome": "Portugues I",
+      "Créditos": "6.0",
+      "Teórica": "90",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A lingua portuguesa no brasil. Variedades de uso. Normas regionais e sociais. Analise gramatical e estilistica de textos contemporaneos. Tecnicas de expressao escrita.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "2º Período": [
+     {
+      "Codigo": "LEL111",
+      "Nome": "Teoria Literaria II",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Problematizacao dos generos literarios. Visao diacronica de teoria dos generos. Conceitos basicos de teoria dos generos. A diversificacao na obra literaria. Estruturacao e desestruturacao dos generos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEL101"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEF151",
+      "Nome": "Linguistica II",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Fonetica e fonologia. Aparelho fonador. Tipos articulatorios. Sistema de transcricao fonetica. Vogais e consoantes. Fonema e alofone. Transcricao e analise fonemicas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEF141"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEV111",
+      "Nome": "Portugues II",
+      "Créditos": "6.0",
+      "Teórica": "90",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Morfo-sintaxe sincronica. O vocabulo: sua classe, estrutura e funcao. As categorias gramaticais. Analise de textos em portugues contemporaneo.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEV101"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "3º Período": [
+     {
+      "Codigo": "LEL201",
+      "Nome": "Teoria Literaria III",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Aprofundamento do conceito de critica literaria. Poeticas e teorias criticas: tracos principais do pensamento classico, romantico e pos-romantico. A estilistica, o new-criticism e o formalismo russo.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEL111"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEV201",
+      "Nome": "Portugues III",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Fonetica e fonologia sincronica. Conceitos basicos. Analise fonetica do portugues culto do rio de janeiro.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEV111"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEF241",
+      "Nome": "Linguistica III",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Morfologia e sintaxe. Gramatica e lexico. Unidades, categorias e funcoes gramaticais. Estrutura sintatica. Problemas de analise gramatical do portugues.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEF151"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEL261",
+      "Nome": "Evolucao da Literatura I",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Não cadastrada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "4º Período": [
+     {
+      "Codigo": "LEL211",
+      "Nome": "Teoria Literaria IV",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Poeticas e teorias criticas da contemporaneidade: hermeneutica, estruturalismo, a analise sociologica, a critica semiologica, as esteticas da recepcao e do efeito, a abordagem de base psicanalitica.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEL201"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEV211",
+      "Nome": "Portugues IV",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Historia externa e interna. Origem e formacao da lingua. Fonologia, morfologia e sintaxe historicas. O lexico. Comentario filologico.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEV201"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEF251",
+      "Nome": "Linguistica IV",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Linguistica aplicada ao ensino de linguas. Variacoes linguisticas. Conceito de lingua padrao. O ensino do portugues como lingua materna. O ensino de linguas estrangeiras.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEF241"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEL265",
+      "Nome": "Evolucao da Literatura II",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Não cadastrada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEL261"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "5º Período": [
+     {
+      "Codigo": "LEV370",
+      "Nome": "Literatura Brasileira I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O processo literario brasileiro. A poesia das origens a atualidade. Estudo das principais tendencias estetico culturais da literatura brasileira das origens a atualidade, atraves da analise de autores e obras representativas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ]
+   },
+   "obrigatorias": 15,
+   "eletivas": 0,
+   "ano": "1983/1 a 2009/2"
+  },
+  {
+   "materias": {
+    "1º Período": [
+     {
+      "Codigo": "LEC160",
+      "Nome": "Introd Cult Rom e Morfol Latim",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Formação da língua latina. História de Roma, lenda e historiografia: o Lácio; Roma antiga; o legado de Roma. Os fonemas do Latim Clássico. O alfabeto latino. Pronúncia e Acentuação. Substantivos e adjetivos da primeira e segunda declinações. Morfossintaxe comparativa do latim e português. Casos latinos. Verbo: número, pessoa, tempo, modo e voz. Textos adaptados de autores latinos.\n___BIBLIOGRAFIA BÁSICA___\n1) AMARANTE, José. Latinitas. Leitura de texto em língua latina. 1 vol. Salvador: EDUFBA, 2015. https://repositorio.ufba.br/ri/handle/ri/17071.\n2) FARIA, Ernesto. Dicionário latino português. Rio de Janeiro: FAE, 1988. http://www.dominiopublico.gov.br/download/texto/me001612.pdf\n3) FUNARI, Pedro Paulo. Grécia e Roma. 2ª ed. São Paulo: Contexto, 2002. https://geopraxis.files.wordpress.com/2016/03/livro-grc3a9cia-e-roma.pdf\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "09:20 - 11:00",
+        "professor": "KATIA TEONIA COSTA DE AZEVEDO"
+       },
+       {
+        "dia": "Qui",
+        "hora": "09:20 - 11:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEL100",
+      "Nome": "Teoria Literária I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A cultura: arte, ciência, jogo, mito e ideologia. A constituição do fenômeno literário. A questão da temporalidade e da periodização literária. Teoria e crítica literária. O texto e a leitura: metodologias.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "20:00 - 22:00",
+        "professor": "MARCELO DINIZ MARTINS"
+       },
+       {
+        "dia": "Qui",
+        "hora": "20:00 - 22:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEV113",
+      "Nome": "Produção Leitura Textos Lp",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Produção e interpretação de diferentes gêneros textuais.  O planejamento do texto: definição e organização do conteúdo.  A estrutura do texto: coesão, coerência.  Técnicas de expressão oral e escrita, nas diferentes modalidades da língua, tendo em vista, particularmente, o domínio das variedades cultas e mais formais do Português.  Redação acadêmico-científica.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "11:10 - 12:50",
+        "professor": "SILVIA RODRIGUES VIEIRA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "11:10 - 12:50",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEC111",
+      "Nome": "Introdução Língua Grega Antiga",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Os gregos antigos. Principais aspectos do Ático clássico. Tradução. O mundo grego antigo - aspectos histórico-geográficos. O alfabeto clássico (ático-jônico). Panorama do sistema nominal grego. 1ª e 2ª declinações. Panorama do sistema verbal. Noções elementares da sintaxe dos casos. Exercícios de tradução; Elementos formadores de vocábulos gregos.\n___ BIBLIOGRAFIA BÁSICA ___\n1- HORTA, Guida. os gregos e seu idioma. Manual prático de língua grega clássica e de cultura helênica para o uso dos cursos universitários de Letras. 3. ed. ver. corr. Rio de Janeiro: J. di Giorgio, 1983.\n2- JOINT ASSOCIATION OS CLASSICAL TEACHERS. Aprendendo Grego. 2. ed. São Paulo: Odysseus, 2014.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "09:20 - 11:00",
+        "professor": "PEDRO RIBEIRO MARTINS"
+       },
+       {
+        "dia": "Qua",
+        "hora": "09:20 - 11:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEF140",
+      "Nome": "Fundamentos da Linguística",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceito de lingüística. Linguagem e língua. Breve história da lingüística. Principais correntes da Lingüística. Relação entre a Lingüística e outras áreas. Aquisição da linguagem e habilidades cognitivas gerais.\n",
+       "BibliografiaBasica": "1) CAMARA JR., Mattoso. Dicionário de linguística e gramática. 11 ed. Petrópolis: Vozes, 1984;\n2) CAMARA JR., Mattoso. Princípios de linguística geral. Rio de Janeiro: Padrão, 1980;\n3) FIORIN, J. L. (org.). Introdução à linguística. São Paulo: Contexto, 2002;\n4) FROMKIN, V.; RODMAN, R. Introdução à linguagem. Coimbra: Almedina, 1993;\n5) FURTADO DA CUNHA, M. A.; RIOS DE OLIVEIRA, M.; MARTELOTTA, M. (orgs.). Linguística funcional: teoria e prática. Rio de Janeiro: DP&A, 2003;\n6) LANGACKER, R. A linguagem e sua estrutura. Petrópolis: Vozes, 1980;\n7) MARTELOTTA, M. Manual de linguística. São Paulo: Contexto, 2008;\n8) LYONS, J. Linguagem e linguística: uma introdução. Rio de Janeiro: Zahar, 1982;\n9) MOLLICA, Maria Cecília; BRAGA, Maria Luiza (orgs). Introdução à sociolinguística: o tratamento da variação. São Paulo: Contexto: 2003;\n10) MUSSALIM, F.; BENTES, A. C. (orgs.). Introdução à linguística: domínios e fronteiras. São Paulo: Cortez, 2001;\n11) PERINI. Sofrendo a gramática. São Paulo: Ática, 2000;\n12) ROBINS, R. H. Pequena história da linguística. Rio de Janeiro: Ao Livro Técnico, 1983;\n13) SAUSSURE, F. Curso de Linguística Geral. São Paulo: Cultrix, 2006.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "18:00 - 20:00",
+        "professor": "PRISCILLA MOUTA MARQUES"
+       },
+       {
+        "dia": "Qui",
+        "hora": "18:00 - 20:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEN131",
+      "Nome": "Espanhol I",
+      "Créditos": "6.0",
+      "Teórica": "90",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenvolvimento das quatro habilidades linguísticas para organização discursiva em língua espanhola numa abordagem interacionista que privilegie o texto, sua tipologia e gênero. Ênfase em sequências exortativas e descritivas.\n___BIBLIOGRAFIA  BÁSICA___\n1) DÍAZ Y GARCÍA; TALAVERA, Miguel. Dicionário Santillana para estudantes. Madri: Santillana, 2008.\n2) JACOBI, C. e outros. Gramática en contexto. Madri: Edelsa, 2011.\n3) MOLINER, María. Diccionario de uso del español. Madri: Gredos, 1973.\n4) MARTÍNEZ ALMOYNA, Julio. Dicionário de espanhol/português; português/espanhol. 2 v. Porto: Porto Editora, 2004.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "11:10 - 12:50",
+        "professor": "ELINE MARQUES REZENDE"
+       },
+       {
+        "dia": "Qua",
+        "hora": "11:10 - 12:50",
+        "professor": ""
+       },
+       {
+        "dia": "Sex",
+        "hora": "11:10 - 12:50",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEWX01",
+      "Nome": "Atividades Complementares",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "200",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Participação em aula inaugural, congressos, colóquios, seminários (PIBIC e JIC), encontros acadêmicos, defesas de tese, realizados na Faculdade de Letras e na Faculdade de Educação a partir do 1º período letivo.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "2º Período": [
+     {
+      "Codigo": "LEC115",
+      "Nome": "Intr Literatura Grega Antiga",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Gêneros poéticos da Grécia antiga. Panorama da literatura grega antiga. Poemas homéricos. Poesia lírica. Poesia dramática. A Poética de Aristóteles.\n___ BIBLIOGRAFIA BÁSICA ___\n1- HOMERO. Ilíada. Trad. de Carlos Alberto Nunes. Várias edições.\n2- HOMERO Odisseia. Trad. de Carlos Alberto Nunes. Várias edições.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEF150",
+      "Nome": "Fund de Análise Fonológica",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Campo da fonética e campo da fonologia. A fonética e suas aplicações. Fonética articulatória: mecanismos da fala, aparelho fonador, transcrição fonética e unidades supra-segmentais. Conceitos básicos em fonologia. Sistemas fonológicos: traços distintivos e sua função. Classes naturais. Processos fonológicos. Estrutura prosódica. Modelos de análise fonológica.\n",
+       "BibliografiaBasica": "1) BISOL, Leda (org.). Introdução a estudos de fonologia do português brasileiro. Porto Alegre: EDIPURCS, 1999;\n2) CAGLIARI, Luiz Carlos. Análise fonológica: introdução à teoria e à prática. Campinas: Mercado das Letras, 2002;\n3) CRYSTAL, David. Dicionário de linguística e fonética. Rio de Janeiro: Zahar, 1988;\n4) FIORIN, José Luiz (org.). Introdução à Linguística: princípios de análise. São Paulo: Contexto, 2003;\n5) MARTINS, Maria Raquel D. Ouvir falar: introdução à fonética do português. Lisboa: Caminho, 1987;\n6) MUSSALIN, F.; BENTES, A. C. (org.). Introdução à linguística: domínios e fronteiras. São Paulo: Cortez, 2000;\n7) SILVA, Thais Cristófaro. Fonética e Fonologia do português. São Paulo: Contexto, 2001;\n8) SILVA, Thais Cristófaro. Exercícios de Fonética e Fonologia. São Paulo: Contexto, 2003.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEF140"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEN135",
+      "Nome": "Espanhol II",
+      "Créditos": "6.0",
+      "Teórica": "90",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenvolvimento das quatro habilidades linguísticas para organização discursiva em língua espanhola numa abordagem interacionista que privilegie o texto, sua tipologia e gênero. Ênfase em sequências narrativas.\n___BIBLIOGRAFIA BÁSICA___\n1) DÍAZ Y GARCÍA; TALAVERA, Miguel. Dicionário Santillana para estudantes. Madri: Santillana, 2008.\n2) JACOBI, C. e outros. Gramática en contexto. Madri: Edelsa, 2011.\n3) MOLINER, María. Diccionario de uso del español. Madri: Gredos, 1973.\n4) MARTÍNEZ ALMOYNA, Julio. Dicionário de espanhol/português; português/espanhol. 2 v. Porto: Porto Editora, 2004.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEN131"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDF120",
+      "Nome": "Filos Educação Mundo Ocidental",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Contribuições das concepções filosóficas do século XX para a problemática educacional. O pensamento pedagógico brasileiro dos anos 1920 a 1980. Contribuições das concepções filosóficas para a problemática educacional. O pensamento pedagógico brasileiro à luz da filosofia da educação.\n",
+       "BibliografiaBasica": "1) ARISTÓTELES. A ética a Nicômacos. Trad. Mario da Gama Cury. Brasília, DF: EdUnb, 1985 (2ª ed).\n2) BRÉHIER, Émile. História da Filosofia. São Paulo: Mestre Jou, 1977, tomo II, fasc.4\n3) DURKHEIM, Emile. Educação e Sociologia. São Paulo: Edições 70, 2001.\n",
+       "BibliografiaComplementar": "1) JAEGER, Werner. Paidéia. São Paulo: Martins Fontes, 1995.\n2) MAZZOTTI, Tarso Bonilha, OLIVEIRA, Renato José de. O que você precisa saber em ciência (s) da educação. Rio de Janeiro: DPA, 2000.\n3) PLATÃO. República. Trad. Maria Helena Rocha. Lisboa: Fundação Calouste Gulbenkian, 1990 (6ª. ed.).\n4) ROUSSEAU, J. J. Emílio ou da educação. Trad. Roberto Leal Ferreira. São Paulo, SP: Martins Fontes, 2004 (3ª ed).\n5) GADOTTI, Moacir. Pensamento pedagógico brasileiro. São Paulo: Ática, 1991.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEC166",
+      "Nome": "Introd Orat Lat e Morfo Latim",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Substantivos e adjetivos da terceira, quarta e quinta declinações. Introdução à sintaxe dos casos latinos. Grau dos adjetivos. Pronomes relativos, demonstrativos e indefinidos. A voz passiva. Textos adaptados de autores latinos.\n___BIBLIOGRAFIA BÁSICA___\n1) AMARANTE, José. Latinitas. Leitura de texto em língua latina. 1 vol. Salvador: EDUFBA, 2015. https://repositorio.ufba.br/ri/handle/ri/17071.\n2) FARIA, Ernesto. Dicionário latino português. Rio de Janeiro: FAE, 1988. http://www.dominiopublico.gov.br/download/texto/me001612.pdf.\n3) FUNARI, Pedro Paulo. Grécia e Roma. 2ª ed. São Paulo: Contexto, 2002. https://geopraxis.files.wordpress.com/2016/03/livro-grc3a9cia-e-roma.pdf.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEC160"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEL110",
+      "Nome": "Teoria Literária II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Problematização dos gêneros literários. Visão diacrônica e conceitos básicos da teoria dos gêneros. A diversificação na obra literária. Estruturação e desestruturação dos gêneros.\n___Bibliografia Recomendada___\n1- ARISTÓTELES, Poética. Trad. Eudoro. São Paulo: Ars Poetica, 1993.\n2- FRIEDRICH, Hugo. Estrutura da lírica moderna (da metade do século XIX a meados do século XX). São Paulo: Duas Cidades, 1978.\n3- BAKHTIN, Mikhail. Questões de literatura e de estética: a teoria do romance. Trad. Aurora Fornoni Bernardini et al. São Paulo: Hucitec, 1990.\n4- VERNANT, Jean- Pierre e VIDAL-NAQUET, Pierre. Mito e tragédia na Grécia antiga. São Paulo: Perspectiva, 2011.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEV100",
+      "Nome": "Variação em Língua Portuguesa",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A Língua Portuguesa no Brasil. A descrição lingüística: conceitos básicos. Situação histórico-cultural da Língua Portuguesa. Unidade e diversidade lingüística no Português do Brasil. Unidade e/ou pluralidade de normas. Problemas práticos de descriçção do português em função do ensino.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "3º Período": [
+     {
+      "Codigo": "LEF240",
+      "Nome": "Fund de Análise Sintática",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Unidades mínimas da morfo-sintaxe. Categorização lexical. Ligação entre constituintes da sentença. Operação sintáticas básicas: juntar e mover. Traços morfológicos, concordância e caso. Interpretação composicional e idiomatização.\n",
+       "BibliografiaBasica": "1) FROMKIN, V.; RODMAN, R. Introdução à linguagem. Coimbra: Almedina, 1993;\n2) LYONS, J. Linguagem e linguística: uma introdução. Rio de Janeiro: Zahar, 1982;\n3) MIOTO, C., M. C. F. Silva; LOPES, R. E. V. Manual de sintaxe. Florianópolis: Editora Insular, 2000;\n4) PASSOS, C.; PASSOS, M. E. Princípios de uma gramática modular. São Paulo: Contexto, 1990;\n5) RAPOSO, E. Teoria da gramática. A faculdade da linguagem. Lisboa: Caminho, 1992;\n6) RIEMSDIJK, H.; WILLIANS, E. Introdução à teoria da gramática. São Paulo: Martins Fontes, 1991;\n7) ROSA, M. C. Introdução à Morfologia. São Paulo: Contexto, 2000.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEF140"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEL287",
+      "Nome": "Fund Cult Lit Brasileira",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Confluências: Discurso literário e sociedade. A controvérsia do conceito de cultura. Problematização do conceito de identidade nacional. Cultura Literária no Brasil.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEL100"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEN263",
+      "Nome": "Fund Cult Lit Espanhola",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Formação da cultura e da literatura espanholas. Perspectivas críticas e historiográficas.\n",
+       "BibliografiaBasica": "AYALA, Francisco. La imagen de España. Madrid, Alianza, 1986.\nCARO BAROJA, Julio. Los pueblos de España. Ensayo de etnología. Barcelona, Barna, 1946.\nCASTRO, Américo. España en su historia. Barcelona, Crítica, 1983\n------. Sobre el nombre y el quién de los españoles. Madrid, Sarpe, 1985\nESPINO NUÑO, Jesús y MORÁN TURINA, Miguel. Historia del arte español. Madrid, SGEL, 1996.\nFERRATER MORA, José. Obras selectas. Madrid, Revista de Occidente, 1967\nFUENTES, Carlos. El espejo enterrado. México, Fondo de Cultura, 1992\nJACKSON, Gabriel. Introducción a la España medieval. Madrid, Alianza, 1983.\nQUESADA MARCO, Sebastián. Curso de civilización española. Madrid, SGEL, 1987\nMARICHAL, Juan. Teoría e historia del ensayismo hispánico. Madrid, Alianza, 1984\nSUBIRATS, Eduardo. Metamorfosis de la cultura moderna. Barcelona, Anthropos, 1991.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEN135"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEC262",
+      "Nome": "Líng e Lit Latinas Poes Lírica",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Verbo: formação dos tempos do infectum e do perfectum do modo indicativo e subjuntivo; formas nominais do verbo e sua sobrevivência nas línguas românicas. Orações de infinitivo com acusativo (Orações subordinadas substantivas). introdução ao ablativo absoluto (Orações subordinadas adverbiais).Gerundivo (Orações adverbiais finais). Pronomes pessoais. Textos selecionados, originais e adaptados, de autores latinos. A poesia alexandrina e os Poetas Novos (Neotéricos).\n___BIBLIOGRAFIA BÁSICA___\n1) AMARANTE, José. Latinitas. Leitura de texto em língua latina. 2º vol. Salvador: EDUFBA, 2015. https://repositorio.ufba.br/ri/handle/ri/17071.\n2) MARTINS, Paulo. Literatura Latina. Curitiba: IESDE, 2009. https://www.passeidireto.com/arquivos/22786477/literatura-latina-paulo-martins.\n3) SARAIVA, Francisco Rodrigues dos Santos. Novissimo diccionario latino-portuguez. 7ª edição. Rio de Janeiro: Garnier, 1910. https://archive.org/stream/F.rDosSantosSaraivaNoviss.Dic.LatinoPortuguez/NovissimoDiccionarioLatino-Portuguez#page/n0/mode/2up.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEC166"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEL230",
+      "Nome": "Teoria Literária III",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O curso de Teoria Literária III apresenta reflexões teóricas e críticas que vêm orientando a discussão da literatura a partir da modernidade, discutindo-as e problematizando-as. Retoma-se alguns conceitos e problemas clássicos da teoria, como mimesis,autoria, julgamento estético, realismo, ficcionalidade, negatividade, entre outros, contextualizando-os e atualizando-os frente à experiência histórica e às especificidades dos séculos XIX, XX e XXI.\n___Bibliografia Recomendada___\n1- ADORNO, Theodor. Notas de literatura I. São Paulo: Editora 34, 2003.\n2- BARTHES, Roland. A preparação do  romance: volume 1. Da vida à obra. São Paulo: Martins Fontes, 2005.\n3- CANDIDO, Antonio. O discurso e a cidade. São Paulo: Livraria Duas Cidades, 1993.\n4- DELEUZE, Gilles. Crítica e clínica. Tradução de Peter Pál Pebart. São Paulo: Ed. 34, 1997.\n5- FOUCALT,  Michel. As palavras e as coisas. Trad. Salma Tannus Muchail. 10 ed. São Paulo: Martins Fontes.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEN236",
+      "Nome": "Espanhol III",
+      "Créditos": "6.0",
+      "Teórica": "90",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenvolvimento das quatro habilidades linguísticas para organização discursiva em língua espanhola numa abordagem interacionista que privilegie o texto, sua tipologia e gênero. Ênfase em sequências argumentativas.\n",
+       "BibliografiaBasica": "DÍAZ Y GARCÍA ?TALAVERA, Miguel. Dicionário Santillana para estudantes. Madri: Santillana, 2008.\nJACOBI, C. e outros. Gramática en contexto. Madri: Edelsa, 2011.\nMOLINER, María. Diccionario de uso del español. Madri: Gredos, 1973.\nMARTÍNEZ ALMOYNA, Julio. Dicionário de espanhol/português ? português/espanhol. 2 v. Porto: Porto Editora, 2004.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEN135"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEV112",
+      "Nome": "Fonologia da Língua Portuguesa",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Fonética e fonologia sincrônicas do Português do Brasil. Conceitos básicos. Vocalismo, consonantismo e prosódia. Processos fonético-fonológicos. Variação e mudança.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEV100",
+       "LEV113"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "4º Período": [
+     {
+      "Codigo": "LEF244",
+      "Nome": "Linguística e Suas Aplicações",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Lingüística aplicada ao ensino de línguas. Variações linguísticas. Conceito de língua padrão. O ensino do português como língua materna. O ensino de línguas estrangeiras.\n",
+       "BibliografiaBasica": "1) ANTUNES, I. Lutas com palavras: coesão e coerência. São Paulo: Parábola Editorial, 2005;\n2) BÁRBARA, L.; ROSINDA, R. (orgs.). Reflexão e ações no ensino aprendizagem de línguas. Campinas: Mercado das Letras, 2003;\n3) BRAGA, M. L.; MOLLICA, M. C. (orgs.). Introdução à sociolinguística varicionisa: o tratamento da variação. São Paulo: Contexto, 2010;\n4) BRAGA, M. L. É um problema de visão para perto, inevitável após os 40 anos de idade, onde o indivíduo tem dificuldades para ver imagem próximas. Onde em remitências anafóricas a categorias não locativas. Linguística, v. 3, nº 1, 2007, p. 117-132;\n5) BORTONI-RICARDO, S. M. A sociolinguística na sala de aula. São Paulo: Parábola Editorial, 2004;\n6) DECAT, B. A relevância da investigação dos processos linguísticos, numa abordagem funcionalista, para os estudos sobre os gêneros textuais. In: Juliano Desiderato Antônio (org.). Estudos descritivos do português. São Carlos: Editora Claraluz, 2008;\n7) FARACO, C. A. Linguística Histórica: uma introdução ao estudo da história das línguas. São Paulo: Ática, 1991;\n8) KOCH, I. V.; ELIAS, V. M. Ler e escrever. Estratégias de produção textual. São Paulo: Contexto, 2009;\n9) LEAL, M.; MOLLICA, M. C. Letramento em EJA. São Paulo: Parábola Editorial, 2009;\n10) MARCUSCHI, L. A. Da fala para a escrita: atividades de retextualização. São Paulo: Cortez, 2001;\n11) MARCUSCHI, L. A. Produção textual, análise de gêneros e compreensão. São Paulo: Parábola Editorial, 2008;\n12) MOLLICA, M. C. (org.). Linguagem para a formação das Letras, Educação e Fonoaudiologia. São Paulo: Contexto, 2009;\n13) MOLLICA, M. C. M.; LEAL, Marisa. Crenças e atitudes no aprendizado do português e da matemática no âmbito escolar. Caderno de Letras da UFF, v. 36, 2008, p. 95-113;\n14) PAIVA, M. C. A variável gênero/sexo. In: MOLLICA, M. C.; BRAGA, M. L. (orgs.). Introdução à sociolinguística: o tratamento da variação. São Paulo: Contexto, 2004;\n15) PAREDES, V. L. Continuidade de referência: nomes, pronomes e anáfora zero em gêneros da fala e da escrita. Linguística, v. 3, nº 1, 2007, p. 159-178;\n16) RIOS DE OLIVEIRA, M.; CEZARIO, M. M. PCN à luz do funcionalismo linguístico. Linguagem e ensino. v. 10, nº 1, 2007, p. 98-108;\n17) VOTRE, S.; CEZARIO, M. M. Sociolinguística. In: MARTELOTTA, M. (org.). Manual de Linguística. São Paulo: Contexto, 2008.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEF140"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEN237",
+      "Nome": "Espanhol IV",
+      "Créditos": "6.0",
+      "Teórica": "90",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução à Pragmática Linguística. Contraste oração/enunciado. Teoria dos Atos de Fala e tipos de atos. Principio de Cooperação e Teoria da Relevância. Cortesia linguística. Análise da conversação. Pragmática e figuras discursivas.\n",
+       "BibliografiaBasica": "ESCANDELL, Victoria (2002): Introducción a la pragmática. Barcelona, Ariel.\nPORTOLÉS, José (2005): Pragmática para hispanistas. Madrid, Síntesis.\nREYES, Graciela (2002): Metapragmática: lenguaje sobre lenguaje, ficciones, figuras. Universidad de Valladolid.\nBIBLIOGRAFIA SUPLEMENTAR\nCASALMIGLIA, Helena, & TUSÓN, Amparo (2012): Las cosas del decir. Barcelona, Ariel.\nNUÑEZ, Rafael & DEL TESO, Enrique (1996): Semántica y pragmática del texto común. Cátedra, Madrid.\nESCANDELL, Victoria (2005): La comunicación. Gredos, Madrid.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEN236"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEV200",
+      "Nome": "Morfologia Língua Portuguesa",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Morfologia sincrônica do Português. Descrição dos mecanismos flexionais e derivacionais do português: perspectiva morfofonêmica. Os macanismos de organização paradigmática e sintagmática do português. O estudo do léxico, das espécies de vocábulos, características combinatórias e sua constituição. As categorias gramaticais. Processos de formação de palavras.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEV100",
+       "LEV113"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEC266",
+      "Nome": "Líng e Lit Latinas Narrativa",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O verbo: subjuntivo e imperativo. Particípios. Orações reduzidas de infinitivo. A interrogação direta e a indireta. O período subordinado. Textos selecionados de autores latinos. Elementos estruturadores do gênero narrativo.\n___BIBLIOGRAFIA BÁSICA___\n1) AMARANTE, José. Latinitas. Leitura de texto em língua latina. 2º vol. Salvador: EDUFBA, 2015. https://repositorio.ufba.br/ri/handle/ri/17071.\n2) MARTINS, Paulo. Literatura Latina. Curitiba: IESDE, 2009. https://www.passeidireto.com/arquivos/22786477/literatura-latina-paulo-martins.\n3) SARAIVA, Francisco Rodrigues dos Santos. Novissimo diccionario latino-portuguez. 7ª edição. Rio de Janeiro: Garnier, 1910. https://archive.org/stream/F.rDosSantosSaraivaNoviss.Dic.LatinoPortuguez/NovissimoDiccionarioLatino-Portuguez#page/n0/mode/2up.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEC262"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEL236",
+      "Nome": "Literatura Comparada",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo do conceito de comparatismo a partir de tendências teóricas contemporâneas e de estudos coloniais. Leitura de textos literários fundadores e autores decisivos para arte da modernidade. Reflexão crítica sobre a literatura em suas relações cm diferentes formas artísticas e manifestações estéticas de outras áreas do conhecimento.\n___Bibliografia Recomendada___\n1- AUERBACH, Erich. Mimesis- A representação da realidade na literatura ocidental. 6ª ed. São Paulo: Perspectiva, 2015.\n2- BAKTIN, Mikhail. A cultura popular na Idade Média e no Renascimento. São Paulo: Hucitec, 2010.\n3- BELTING, Hans. O fim da História da Arte. São Paulo: CosacNaify, 2012.\n4- CASANOVA, Pascale. A república mundial das letras. São Paulo: Estação liberdade, 2002.\n5- COUTINHO, Eduardo e  CARVALHAL, Tânia (org). Literatura comparada.Textos fundadores Rio de Janeiro: Rocco, 1994.\n6- COUTINHO, Eduardo. Literatura comparada. Reflexões. rio de Janeiro: Annablume, 2013.\n7- SAID, Edward W. Orientalismo. O oriente como invenção do ocidente. São Paulo: Companhia das Letras, 1990\n8- SARTRE. Jean-Paul. Prefácio. In: FANON, Frantz. Os condenados da terra. Trad. J. L. de Melo. Rio de Janeiro: Civilização Brasileira, 1968.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEN251",
+      "Nome": "Literatura Espanhola I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Periodização do teatro espanhol desde o Renascimento ate a atualidade: épocas, gêneros e estilos. Fundamentos da dramaturgia do Século de Oro. Leitura, análise e comentário do texto teatral.\n___ BIBLIOGRAFIA BÁSICA ___\n1) ARELLANO, Ignacio. Historia del teatro español del siglo XVII. Madrid. Cátedra, 2012.\n2) BOVES NAVES, María del Carmen. Semiología de la obra dramática. Madrid. Arco/Libros, 1997.\n3) RAMÓN RUIZ, Francisco. Historia del teatro español. Madrid, Alianza, 1971. 2 V.\n___ BIBLIOGRAFIA COMPLEMENTAR ___\n1) BOVES NAVES, María del Carmen. Temas y Tramas del teatro clásico español. Madrid, Arco Libros, 2010.\n2) DÍEZ BORQUE, J.M. Sociología de la Comedia Española del Siglo XVII. Madrid: Cátedra, 1976.\n3) MARAVALL, José Antonio. Teatro y literatura en la sociedad barroca. Madrid, S.A. 1972.\n4) VILLEGAS, Juan: Nueva interpretación y análisis del texto dramático. Otawa. Girol Books,1991.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEN135"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "5º Período": [
+     {
+      "Codigo": "LEN264",
+      "Nome": "Cult e Civiliz Amer Hispânica",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Literatura de aculturação. As culturas pré-colombianas e o legado indígena. A conquista espanhola e as utopias sociais. A crônica das Índias e a poesia épica. A evolução cultural na América Hispânica no século XVI. O Barroco na obra de Sor Juana e Caviedes. A emancipação da América Hispânica. Cosmopolitismo e ideais da época. O sonho da liberdade política. Bolívar e os próceres. A formação das nacionalidades. O papel dos intelectuais na construção dos imaginários nacionais. A poesia gauchesca. Domingo Faustino Sarmiento e Facundo. Evolução da América Hispânica no século XIX.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEN236"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEN353",
+      "Nome": "Literatura Espanhola II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Os modelos narrativos na literatura espanhola desde a época pré-moderna à contemporaneidade. Os sistemas literários da pré-modernidade, da modernidade e da pós-modernidade.\n___ BIBLIOGRAFIA BÁSICA ___\n1) BLANCO AGUINAGA, Carlos et alii. Historia social de la literatura española. Madrid : Castalia, 1984.\n2) GONZÁLEZ, Mario. Leituras de literatura espanhola. São Paulo: Letraviva, 2010.\n3) RICO, Francisco (org. general) Historia y crítica de la literatura española. Barcelona: Crítica, 1983.\n4) RICO, Francisco. La novela picaresca y el punto de vista. Barcelona : Seix-Barral, 1970.\n5) SANZ VILLANUEVA, Santos. Historia de la literatura española. Literatura actual. Barcelona : Ariel, 1994.\n6) TODOROV, Tzvetan. As estruturas narrativas. São Paulo : Perspectiva, 1970.\n7) VALBUENA PRAT, Angel. Historia de la literatura española. Barcelona : Gustavo Gili.\n___ BIBLIOGRAFIA COMPLEMENTAR ___\n1) ALBERCA, Manuel. El pacto ambíguo. De la novela autobiográfica a la autoficción. Madrid: Bibioteca Nueva, 2007.\n2) MAINER, JOSÉ-CARLOS. Historia de la literatura española. Vol. 6. Modernidad y nacionalismo. 1900-1939. Barcelona: Crítica, 2010.\n3) NAVAJAS, Gonzalo. La narrativa española en la era global. Barcelona : EUB, 2002.\n4) POZUELO YVANCOS, josé María. Historia de la literatura española. 8. Las ideas literarias (dir.) Barcelona: Crítica, 2011.\n5) ______. De la autobiografía. Teorías y estilos. Barcelona: Crítica, 2010.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEN135"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEV308",
+      "Nome": "Literatura Bras I - Poesia",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das tendências estético-literárias da poesia brasileira, de suas origens até os dias atuais, por meio de seus mais representativos autores e/ou obras.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEF357",
+      "Nome": "Introdução à Crítica Textual",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceito de crítica textual. Tipos de edição. Etapas do trabalho filológico. Aplicações do trabalho filológico. Conceito e aplicação da Paleografia. Análise e prática de edição de textos.\n___BIBLIOGRAFIA BÁSICA___\n1) BERWANGER, Ana Regina; LEAL, João E. F. Noções de Paleografia e de Diplomática. Santa Maria: UFSM, 1995.\n2) BLECUA, Alberto. Manual de crítica textual. Madrid: Castalia, 1983.\n3) CAMBRAIA, César N. Introdução à Crítica Textual. São Paulo: Martins Fontes, 2005.\n4) MENDES, Marlene G. A fidedignidade dos textos nos livros didáticos no Brasil. In: 1º Encontro de crítica textual: o manuscrito moderno e as edições. São Paulo: USP, 1986.\n5) SPAGGIARI, Bárbara; PERUGI, Maurizio. Fundamentos da crítica textual. RJ: Lucerna, 2004.\n6) SPINA, Segismundo. Introdução à edótica: (crítica textual). São Paulo: Cultrix, Ed. da Universidade de São Paulo, 1977.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEN333",
+      "Nome": "Espanhol V",
+      "Créditos": "6.0",
+      "Teórica": "90",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Fonética e Fonologia: o som e a letra, os alfabetos e a variação da língua oral em uso,  análise fonética e fonológica da variação segmental, interrelações da oralidade e da escrita.\n___ BIBLIOGRAFIA BÁSICA ___\n1) ALONSO CORTÉS, A. (1999) Las construcciones exclamativas. In: Bosque.I. y Demonte, V. (eds.) Nueva Gramática Descriptiva Del Español. Madrid: Espasa, cap. 62, pp. 3993 4049.\n2) BLANCHE-BENVENISTE, C. Estudios lingüísticos sobre la relación entre oralidad y escritura. Barcelona: Gedisa, 1998.\n3) ESCANDELL VIDAL, V. (1999) Los enunciados interrogativos. In: Bosque.I. y Demonte, V. (eds.) Nueva Gramática Descriptiva Del Español. Madrid: Espasa, cap. 61, pp. 3879-3927.\n4) GIL FERNÁNDEZ, J. Fonética para profesores de español: de la teoría a la práctica. Madrid: Arco Libros, 2007.\n5) MORENO CORTÉS, M. Didáctica de la prosodia del español: la acentuación y la entonación. Madrid: Edinumen, 2001.\n6) MORENO FERNÁNDEZ, F. Qué español enseñar. Madrid: Arco Libros, 2000.\n7) QUILIS, A. & FERNÁNDEZ, J. A. Curso de fonética y fonología españolas. Madrid: Consejo Superior de Investigaciones Científicas, 2003.\n8) SÁNCHEZ LÓPEZ, J. (1999) La negación. In: Bosque.I. y Demonte, V. (eds.) Nueva Gramática Descriptiva Del Español. Madrid: Espasa, cap. 40, pp .2561-2633.\n___ BIBLIOGRAFIA SUPLEMENTAR ___\n1) ALCOBA, S. La expresión oral. Barcelona: Ariel, 2000.\n2) BRIZ, A. El español coloquial en la clase de E/LE. Madrid: SGEL, 2002.\n3) CALLOU, D. & LEITE, Y. Iniciação à fonética e à fonologia. Rio de Janeiro: Jorge Zahar, 1990.\n4) CRISTÓFARO SILVA, T. Dicionário de fonética e fonologia. São Paulo: Contexto, 2011.\n5) ESTEBAS VILAPLANA, E. y PRIETO, P. ?La notación prosódica del español: una revisión del Sp_ToBI. In: Estudios de fonética experimental XVII. Barcelona: Laboratori de Fonética de la Universidad de Barcelona, 2008.\n6) LADD, D. R. Intonational phonology. Cambridge: CUP, 1996.\n7) MAIA, E. No reino da fala: a linguagem e seus sons. São Paulo: Ática, 2003.\n8) MORAES, J. A. The Pitch Accents in Brazilian Portuguese: analysis by synthesis. The Fourth International Conference in Speech Prosody, Campinas, IEL, 2008.\n9) NAVARRO TOMÁS, T. Manual de Entonación Española. Madrid: Guadarrama, 1944.\n10) PIERREHUMBERT, J. B. The phonology and Phonetics of English Intonation. Tesis doctoral, MIT, Cambridge, Massachusetts, 1980.\n11) PIETRO, P & ROSEANO, P. (org.). Transcription of Intonation of the Spanish Language. Lincom Europa: München, 2010.\n12) ______________ (coord.). Atlas interactivo de la entonación del español. 2009‐2013. Disponível em: http://prosodia.upf.edu/atlasentonacion/.\n13) PIETRO, P. Teorías de la Entonación. Barcelona: Ariel, 2003.\n14) PINHO, J. R. D. Fenómenos dialectales del español. Rio de Janeiro: GREI, 2005.\n15) PINTO, M. S. Transferências prosódicas do português do Brasil/LM na aprendizagem do Espanhol/LE: enunciados assertivos e interrogativos totais. Tese de Doutorado, Programa de Pós-graduação em Letras Neolatinas da Universidade Federal do Rio de Janeiro, 2009.\n16) SOSA, J. M. La entonación del español: su estructura fónica, variabilidad y dialectología. Madrid: Cátedra, 1999.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEN236"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEV210",
+      "Nome": "Morfossintaxe Líng Portuguesa",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Morfossintaxe sincrônica do Português. O vocábulo, sua classe e função. A classificação por critérios (mórfico, semântico e sintático). A estrutura interna dos sintagmas do português: suas classses e funções. Níveis de hierarquia sintática. Mecanismos de organização sintática. Mecanismos de organização da frase, sobretudo em padrão oracional. A estrutura do sujeito e do predicado. Regência, concordância, colocação.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEV100",
+       "LEV113"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEV343",
+      "Nome": "Poesia Portuguesa",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo da poesia portuguesa através de autores e momentos literários fundadores; lírica trovadoresca de Luis de Camões, Almeida Garrett, Cesário Verde, Florbela Espanca, Fernando Pessoa, Jorge de Sena e Sophia de Mello Breyner Andresen, entre outros.  Visão panorâmica da poesia portuguesa das origens a contemporaneidade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "6º Período": [
+     {
+      "Codigo": "LEN357",
+      "Nome": "Literatura Espanhola III",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Cervantes e o contexto histórico-cultural dos Séculos de Ouro. O Quijote e o modelo do romance cervantino. A confluência da tradição e do novo. As Novelas Ejemplares: as formas da narração breve. Realismo e anti-realismo na obra de Cervantes.\n___ BIBLIOGRAFIA BÁSICA ___\n1) FERRERA, Juan Ignacio. La estructura paródica del Quijote. Madrid : Taurus, 1982.\nGILMAN, Stephen. La novela según Cervantes. México : Fondo de Cultura Económica, 1993.\n2) HATZFELD, Helmut. Estudios sobre el barroco. Madrid :  Gredos, 1973.\n3) HAUSER, Arnold. Origen de la literatura y del arte modernos. III. Literatura y manierismo. 3 ed. Madrid :  Guadarrama, 1974.\n4) HISTORIA Y CRITICA DE LA LITERATURA ESPAÑOLA. Al cuidado de Francisco Rico. II. Francisco López Estrada. SIGLOS DE ORO: RENACIMIENTO. Barcelona : Crítica, 1983.\n5) VALBUENA PRAT, Angel. Historia de la literatura española. Barcelona : Gustavo Gili, 1960. t. III.\n6) VIEIRA, María Augusta da Costa. O dito pelo não dito. Paradoxos de Dom Quixote. São Paulo: EDUSP/FAPESP, 1998.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEN135"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEV300",
+      "Nome": "Sintaxe da Língua Portuguesa",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Sintaxe sincrônica do português. Padrões oracionais. Coordenação e subordinação. Perpectivas de tratamento sintático descritivo e critérios de análise, com base em textos teóricos. Variação sintática.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEV100",
+       "LEV113",
+       "LEV210"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEV450",
+      "Nome": "Narrativa Portuguesa",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo da narrativa portuguesa dos séculos XIX e XX. O romance histórico e sua releitura, a autoreferencialidade narrativa, o realismo como representação / reinvenção do real.  A literatura feminina.  Intertextualidade e pós-modernidade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEN354",
+      "Nome": "Lit Hispano- Americana I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A mensagem poética e seus códigos. Estudo da poesia do Modernismo hispano-americano, através da análise dos fundamentos elaborativos de suas poéticas. O afã esteticista e o cosmopolitismo. As heranças parnasiana e simbolista, a nova estruturação rítmica e imagística, o verso livre. A poesia do Modernismo e o processo de modernização histórico-social. As vanguardas hispano-americanas: Creacionismo e Ultraísmo. Para uma conceituação da estética moderna. A tradição de ruptura. Novas vozes da poesia contemporânea.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEN264"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEN368",
+      "Nome": "Espanhol VI",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Sociolinguística e discursividade: a prosódia e os gêneros orais, análise discursiva e prosódica dos gêneros orais, elementos de variação.\n___ BIBLIOGRAFIA BÁSICA ___\n1) BRIZ, A. El español coloquial en la clase de E/LE. Madrid: SGEL, 2002.\n2) DIAZ CAMPOS, M. (org.) The Handook of Hispanic Sociolinguistics. Oxford: Blackwell, 2011.\n3) FERNÁNDEZ ORDÓÑEZ, I. Leísmo, laísmo y loísmo. In: Bosque.I. y Demonte, V. (eds.) Nueva Gramática Descriptiva Del Español. Madrid: Espasa, cap. 62, pp. 3993-4049, 1999.\n4) FONTANELLA DE WIENBERG, M.B. Sistemas pronominales de tratamiento usados en el mundo hispáinco. In: Bosque.I. y Demonte, V. (eds.) Nueva Gramática Descriptiva Del Español. Madrid: Espasa, cap. 22, pp. 1399-1425, 1999.\n5) GIL FERNÁNDEZ, J. Fonética para profesores de español: de la teoría a la práctica. Madrid: Arco Libros, 2007.\n6) HUALDE, J. I., OLARREA, A. e OROURKE, E. (orgs.) The Handbook of Hispanic Linguistics. Oxford: Blackwell, 2012.\n7) PIETRO, P & ROSEANO, P. (org.). Transcription of Intonation of the Spanish Language. Lincom Europa: München, 2010.\n8) PIETRO, P & ROSEANO, P. (org.). Atlas interactivo de la entonación del español. 2009‐2013. Disponível em: http://prosodia.upf.edu/atlasentonacion/\n9) PIETRO, P. (org.) Teorías de la Entonación. Barcelona: Ariel, 2003.\n10) QUILIS, A. & FERNÁNDEZ, J. A. Curso de fonética y fonología españolas. Madrid: Consejo Superior de Investigaciones Científicas, 2003.\n11- REBOLLO COUTO, L. e LOPES, C.R.S. (orgs.) As formas de tratamento em português e em espanhol. Niterói: Eduff, 2011.\n12) ZUBIZARRETA, M.L. Las funciones informativas: tema y foco. In: Bosque.I. y Demonte, V. (eds.) Nueva Gramática Descriptiva Del Español. Madrid: Espasa, cap. 64, pp. 4215-4243, 1999.\n___ BIBLIOGRAFIA COMPLEMENTAR ___\n1) ALCOBA, S. La expresión oral. Barcelona: Ariel, 2000.\n2) BLANCHE-BENVENISTE, C. Estudios lingüísticos sobre la relación entre oralidad y escritura. Barcelona: Gedisa, 1998.\n3) CALLOU, D. & LEITE, Y. Iniciação à fonética e à fonologia. Rio de Janeiro: Jorge Zahar, 1990.\n4) CRISTÓFARO SILVA, T. Dicionário de fonética e fonologia. São Paulo: Contexto, 2011.\n5) ESTEBAS VILAPLANA, E. y PRIETO, P. La notación prosódica del español: una revisión del Sp_ToBI . In: Estudios de fonética experimental XVII. Barcelona: Laboratori de Fonética de la Universidad de Barcelona, 2008.\n6) LADD, D. R. Intonational phonology. Cambridge: CUP, 1996.\n7) MAIA, E. No reino da fala: a linguagem e seus sons. São Paulo: Ática, 2003.\n8) MORAES, J. A. The Pitch Accents in Brazilian Portuguese: analysis by synthesis. The Fourth International Conference in Speech Prosody, Campinas, IEL, 2008.\n9) MORENO CORTÉS, M. Didáctica de la prosodia del español: la acentuación y la entonación. Madrid: Edinumen, 2001.\n10) MORENO FERNÁNDEZ, F. Qué español enseñar. Madrid: Arco Libros, 2000.\n11) NAVARRO TOMÁS, T. Manual de Entonación Española. Madrid: Guadarrama, 1944.\n12) PIERREHUMBERT, J. B. The phonology and Phonetics of English Intonation. Tesis doctoral, MIT, Cambridge, Massachusetts, 1980.\n13) PINHO, J. R. D. Fenómenos dialectales del español. Rio de Janeiro: GREI, 2005.\n14) PINTO, M. S. Transferências prosódicas do português do Brasil/LM na aprendizagem do Espanhol/LE: enunciados assertivos e interrogativos totais. Tese de Doutorado, Programa de Pós-graduação em Letras Neolatinas da Universidade Federal do Rio de Janeiro, 2009.\n15) SOSA, J. M. La entonación del español: su estructura fónica, variabilidad y dialectología. Madrid: Cátedra, 1999.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEN236"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEV309",
+      "Nome": "Literatura Bras II - Ficção",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das tendências estético-literárias da prosa de ficção brasileira, de suas origens até os dias atuais, por meio de seus mais representativos autores e/ou obras.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "7º Período": [
+     {
+      "Codigo": "LEN364",
+      "Nome": "Lit Hispano- Americana II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das principais manifestações literárias da América Hispânica, do Modernismo aos nossos dias, investigando as principais linhas e os autores mais representativos, no âmbito da narrativa e do pensamento crítico. O ?romance da terra?, os precursores do ?boom?, a nova narrativa e o ?pós-boom?. O novo romance histórico. O discurso das minorias. A literatura testemunho.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEN264"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEV400",
+      "Nome": "Semântica da Língua Portuguesa",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Semântica e lexicologia da língua portuguesa. Análise do significado das formas nos níveis paradigmático. Relações semânticas no nível vocábulo, da frase e do discurso. Teorias do texto.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEV100",
+       "LEV113",
+       "LEV200",
+       "LEV210",
+       "LEV300"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEWK01",
+      "Nome": "Monografia",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Apresentação e discussão do conceito de pesquisa em geral e de diferentes tipos de questões de pesquisa em ensino de Letras. Estudo bibliográfico e participação em coleta de dados de pesquisa em andamento. Elaboração de um projeto de pesquisa incluindo todas as etapas metodológicas desde a formulação de hipóteses ou perguntas de pesquisa, passando pelo aprofundamento bibliográfico, coleta e análise de dados, até a redação final do trabalho.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sab",
+        "hora": "08:00 - 10:00",
+        "professor": "ROGERIO CASANOVAS TILIO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEF400",
+      "Nome": "Fundamentos de Gramaticografia",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O latim corrente: conceito e principais fontes.  Comentário do Appendix Probi.  Vulgarismos através de textos.  Confronto nas línguas românicas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "09:20 - 11:00",
+        "professor": "KAREN SAMPAIO BRAGA ALONSO"
+       }
+      ],
+      "Requisitos": [
+       "LEF300"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEN451",
+      "Nome": "Literatura Espanhola IV",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A poesia espanhola desde as origens medievais até o século XVII. Tradição e renovação das formas poéticas.\n___ BIBLIOGRAFIA BÁSICA ___\n1) ALONSO, Dámaso. La lengua poética de Góngora. Madrid : Gredos, 1961.\n2) BLECUA, José Manuel. Sobre el rigor poético en España y otros ensayos. Barcelona: Ariel, 1977.\n3) QUILIS, Antonio. Métrica española. Barcelona: Ariel, 1996.\n4) LAZARO CARRETER, Fernando. Estilo barroco y personalidad creadora. Madrid : Cátedra, 1974.\n5) MENENDEZ PIDAL, Ramón. Poesía juglaresca y juglares. Madrid:Espasa-Calpe, s/a\nMOLHO, Mauricio. Semántica y poética (Góngora, Quevedo). Barcelona : Crítica, 1977.\n6) OLIVER, Juan Manuel. La poesia del barroco: Quevedo. São Paulo : Embajada de España en Brasil, 1993.\n7) PARKER, Alexander. La filosofía del amor en la literatura española.\n8) RICO, Francisco (org. general) Historia y crítica de la literatura española. Barcelona: Crítica,1983.\n9) ARNOUX, Elvira, DI STEFANO, Mariana, PEREIRA, Cecilia. La lectura y la escritura en la universidad. Buenos Aires : EUDEBA, 2004.\n10) BRATOSEVICH, Nicolás. Taller literario. Metología, dinámica grupal, bases teóricas. Buenos Aires: Edicial, 1992.\n11) CARLINO, Paula. Escribir, leer y aprender en la universidad. Una introducción a la alfabetización académica. México: Fondo de Cultura. 2005.\n12) EGAN, Kieran. O uso da narrativa como técnica de ensino. Lisboa: Dom Quixote, 1994.\n13) MARTÍN GARCÍA, Josefa. El diccionario en la enseñanza del español. Madrid: Arco Libros, 1999.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEN135"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEV417",
+      "Nome": "Temas e Problemas da Lit Bras",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "07:30 - 09:10",
+        "professor": "LAISE RIBAS BASTOS"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "8º Período": [
+     {
+      "Codigo": "LEN457",
+      "Nome": "Literatura Espanhola V",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A trajetória  da poesia moderna espanhola desde o Romantismo até o período Pós-vanguardas.\n___ BIBLIOGRAFIA BÁSICA ___\n1) CANO, José Luis. Antología de los poetas del 27. 3 ed. Madrid : Espasa-Calpe, 1984.\n2) DEL PRADO, Javier. Teoría y práctica de la función poética. Madrid : Cátedra, 1993.\n3) FERNÁNDEZ DÍAZ, Rafael. Cuarenta años de poesía española (1940-1980). Col. Complementos. Consejería de la Embajada de España en Brasil, 1993.\n4) RICO, Francisco (org. general) Historia y crítica de la literatura española. Barcelona: Crítica, 1983.\n5) SCARANO, Laura. Marcar la piel del agua. La autorreferencia en la poesía española contemporánea. Rosario: Beatriz Viterbo, 1996.\n6) SEBOLD, Russell. Trayectoria del romanticismo español. Barcelona: Crítica, 1983.\n7) SESÉ, Bernard. Antonio Machado (1875-1939). El hombre. El poeta. El pensador. Madrid: Gredos, 1980.\n8) TALENS, Jenaro. El sujeto vacío.Cultura y poesía en territorio Babel. Madrid: Cátedra, 2000.\n9) VALBUENA PRAT, Angel. Historia de la literatura española. Barcelona: Gustavo Gili, 1960.\n10) ARNOUX, Elvira; DI STEFANO, Mariana; PEREIRA, Cecilia. La lectura y la escritura en la universidad. Buenos Aires: EUDEBA, 2004.\n11) BRATOSEVICH, Nicolás. Taller literario. Metología, dinámica grupal, bases teóricas. Buenos Aires: Edicial, 1992.\n12) CARLINO, Paula. Escribir, leer y aprender en la universidad. Una introducción a la alfabetización académica. México: Fondo de Cultura. 2005.\n13) EGAN, Kieran. O uso da narrativa como técnica de ensino. Lisboa: Dom Quixote, 1994.\n14) MARTÍN GARCÍA, Josefa. El diccionario en la enseñanza del español. Madrid: Arco Libros, 1999.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEN135"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEV310",
+      "Nome": "História da Língua Portuguesa",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "História externa e interna da Língua Potuguesa. Origem e formação. Aspectos da fonologia, morfologia e sintaxe. O léxico. Estudo de textos representativos de diferentes fases da língua.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEV100",
+       "LEV112",
+       "LEV113"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEN366",
+      "Nome": "Lit Hispano- Americana III",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O ensaio e outros gêneros dialógicos, da Independência aos dias atuais. Modalidades do ensaio (literário, filosófico, estético, metalingüístico). Discursos, proclamas, diálogos, cartas, relatos de viagem, artigos, manifestos. Grandes temas e questões do pensamento latino-americano: americanismo, dependência e autonomia, busca de identidade, modernização e formação dos imaginários nacionais. Grandes pensadores das questões americanas nos séculos XIX e XX. Novos olhares: mestiçagem, transculturação, hibridismo, heterogeneidade, questão urbana, o culto e o popular.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEN264"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEN487",
+      "Nome": "Prod de Texto em Espanhol",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Diferentes gêneros textuais. Objetivos e estratégias de planejamento do texto, organização de sequências textuais e progressão informativa. Adequação lexical e situacional.\n___ BIBLIOGRAFIA BÁSICA ___\n1) KOCH, Ingedore V. (1990). Coesão textual. São Paulo, Contexto.\n2) _____ & TRAVAGLIA, L. Carlos. (1995). Coerência textual.  São Paulo, Contexto.\n3) ONIEVA MORALES, Juan Luis. Curso Básico de Redacción.(1991) Madrid, Verbum.\n4) PORTOLÉS, JOSÉ. (1998) . Marcadores del discurso. Barcelona, Ariel Practicum.\n5) REYES, Graciela. (1998). Cómo escribir bien en español. Madrid, Arco Libros.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEN236"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ]
+   },
+   "obrigatorias": 50,
+   "eletivas": 0,
+   "ano": "2010/1 a 9999/9"
+  }
+ ]
+}

@@ -1,0 +1,2835 @@
+{
+ "Nanotecnologia - X": [
+  {
+   "materias": {
+    "1º Período": [
+     {
+      "Codigo": "XMT118",
+      "Nome": "Cálculo Diferen e Integral I",
+      "Créditos": "6.0",
+      "Teórica": "90",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Sequências Numéricas; Limites; Continuidade; Cálculo e Aplicação das Derivadas; A Integral Definida; Técnicas de Integração: Logaritmo e Exponencial; Aplicações de integrais definidas; Integral Imprópria.\n___BIBLIOGRAFIA BÁSICA___\n1) SANTOS, A. R.; BIANCHINI, Waldecir. Aprendendo Cálculo com Maple: Cálculo de Uma Variável. 1ª ed. Rio de Janeiro: LTC, 2002.\n2) LEITHOLD, Louis. O Cálculo com Geometria Analítica. 3.ed. São Paulo: Harbra, 2002. vol. 1.\n3) STEWART, James. Cálculo. 4.ed. São Paulo: Pioneira Thomson Learning, 2002. vol. 1.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "10:01 - 12:00",
+        "professor": "ORLANDO SARMIENTO CHUMBES"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XQM114",
+      "Nome": "Química Geral I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estequiometria. Teoria atômica. Classificação periódica dos elementos. Ligação química. Compostos de coordenação. Química Nuclear.\n___BIBLIOGRAFIA BÁSICA___\n1) Química a Ciência Central; Brown, TL, LeMay H E, Bursten, BE and Burdge JR; 9 edição, 2005, Pearson-Prentice Hall;\n2) Princípios de Química; Atkins, P and Jones, L; 2001, Bookman;\n3) Química Geral; Brady J.E. and Humiston, G.E., vol 1 e 2, 1986, 2 edição, Livros Técnicos e Científicos Editora AS;\n4) Chemistry and Chemical Reactivity; Kotz, JC and Purcel KF; 2 edition, 1993, Saunders College Publishing;\n5) Química Geral; Russel JB; 2002, 3 edição, Pearson-Prentice Hall.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:01 - 17:00",
+        "professor": "BIANCA PIZZORNO BACKX"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XTD111",
+      "Nome": "Grandes Temas da Biologia",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Os temas mais relevantes e atuais em Biologia Molecular, Estrutural e de Sistemas. A interfase entre as ciências biomédicas e exatas. Doenças emergentes e re-emergentes. Meio ambiente e saúde. Doenças crônico-degenerativas. Terapias avançadas e novos métodos de diagnóstico e tratamento. Discussão de tópicos avançados nas diferentes áreas do conhecimento e da ciência. Temas relevantes e comteporâneos relacionados ao desenvolvimento da ciência com ênfase em questões nacionais. Novas abordagens técnicas e conceituais para resolver problemas nas diversas áreas do saber. Mudanças de paradigmas em ciências e educação. A inter-relação entre o desenvolvimento científico-tecnológico e o sócio-econômico.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "13:01 - 15:00",
+        "professor": "ANA PAULA SANTOS DA SILVA DE OLIVEIRA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "15:01 - 17:00",
+        "professor": "ANDREA CLAUDIA FREITAS FERREIRA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:01 - 15:00",
+        "professor": ""
+       },
+       {
+        "dia": "Qui",
+        "hora": "15:01 - 17:00",
+        "professor": "ANA PAULA SANTOS DA SILVA DE OLIVEIRA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XBT118",
+      "Nome": "Biologia Celular",
+      "Créditos": "6.0",
+      "Teórica": "90",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Membrana plasmática - estrutura, fluidez e domínios; Transporte através da membrana; Receptores e sinalização Celular; Endocitose e lisossomas: Secreção celular - retículo endoplasmático, complexo de Golgi, organização e funções; Tráfego de Vesículas; Citoesqueleto - microtúbulos, microfilamentos, filamentos intermediários; Mitocôndrias; Cloroplastos; Peroxissomas; Controle do ciclo celular; divisão celular; Núcleo interfásico.\n___BIBLIOGRAFIA BÁSICA___\n1) Molecular Biology of The Cell. Albert, Johnson, Lewis, Raff, Roberts, Walter. Garland Eds, 5th edition , 2007. Ou 2th Edition;\n2) Fundamentos de Biologia Celular. Karen Hopkin, Dennis Bray, Bruce Albert. Artmed, 3a edição, 2011.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:01 - 15:00",
+        "professor": "JULIANY COLA FERNANDES RODRIGUES"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 10:00",
+        "professor": ""
+       },
+       {
+        "dia": "Qui",
+        "hora": "10:01 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XQM111",
+      "Nome": "Química Geral Estrutural",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceito de modelo. Modelo e realidade física. Simetria: elementos de simetria. Ligação química. Modelos moleculares: dimensões e angulas. Movimentos das moléculas. Forças intermoleculares. Estados físicos. Fases, superfícies, mudanças de fase. Fases complexas: micelas, vesículas e cristais líquidos. Membranas. Macromoleculas naturais e artificiais. Modelos de reação química. Nomenclatura.\n___BIBLIOGRAFIA BÁSICA___\n1) MCMURRY, John. Química Orgânica. vol. 1 e 2. 6 ed. Cengage Learning, 2005.\n2) SOLOMONS, T. W. Graham; Fryhle, Craig B. Química Orgânica, vol. 1 e 2. 9 ed. LTC, 2009.\n3) VOLLHARDT, K. P.; SCHORE, N. E. Química Orgânica - Estrutura e Função, São Paulo: Bookman, 2004.\n4) CAREY, Francis et al. Advanced Organic Chemistry. part A e Part B. 5 ed. Spring Verlag, 2007.\n5) COSTA, P.; FERREIRA, V.; ESTEVES, P. VASCONCELOS, M. Ácidos e Bases em Química Orgânica. São Paulo: Bookman, 2005.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "15:01 - 17:00",
+        "professor": "ROBSON RONEY BERNARDO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XTD073",
+      "Nome": "Introdução à Nanotecnologia",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceito e Fundamentos da Nanotecnologia. Morfologia de Materiais Nanoestruturados. Blocos de Construção: nanotubos, nanofios e nanopartículas. Técnicas e Ferramentas de Manipulação Molecular e Atômica. Nanofabricação: \"Positional Assembly\" e \"Self-Replication\". Aplicações.\n___BIBLIOGRAFIA BÁSICA___\n1) DA RÓZ, Alessandra Luzia; LEITE, Fábio de Lima; FERREIRA, Marystela; OLIVEIRA JUNIOR, Osvaldo Novais de. Nanoestruturas: princípios e aplicações. 1 ed. Rio de Janeiro : Elsevier, 2015.\n2) DA RÓZ, Alessandra Luzia; LEITE, Fábio de Lima; FERREIRA, Marystela; OLIVEIRA JUNIOR, Osvaldo Novais de. Grandes Áreas da Nanociência: Princípios e Aplicações. 1 ed. Rio de Janeiro : Elsevier, 2015.\n3) DA RÓZ, Alessandra Luzia; LEITE, Fábio de Lima; FERREIRA, Marystela; OLIVEIRA JUNIOR, Osvaldo Novais de. Técnicas de nanocaracterização. 1 ed. Rio de Janeiro : Elsevier, 2015.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:01 - 17:00",
+        "professor": "NATASHA MIDORI SUGUIHIRO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "2º Período": [
+     {
+      "Codigo": "XCP124",
+      "Nome": "Programação de Computadores",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Computadores e ambientes de programação. Algoritmos. A linguagem Pascal. Estrutura de um programa. Tipos de variáveis. Comandos de atribuição, entrada e saída. Operadores e expressões. Comandos condicionais e de repetição. Funções e procedimentos. Estruturas de dados em Pascal. Manipulação de carcateres e textos. Solução de problemas diversos em Pascal.\n___BIBLIOGRAFIA BÁSICA___\n1) MENEZES, N.N.C., ?Introdução à Programação com Python: algoritmos e lógica de programação para iniciantes?, São Paulo : Novatec, 2010.\n2) BARRY, P., GRIFFITHS, D., ?Use a Cabeça: Programação?, Rio de Janeiro: Alta Books, 2010.\n3) DOWNEY, A., ?Pense em Python: pense com um cientista da computação?, São Paulo, Novatec, 2016.\n4) MEDINA, M., FERTIG, C., ?Algoritmos e programação: teoria e prática?, São Paulo : Novatec, 2006.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 12:00",
+        "professor": "FRANKLIN DE LIMA MARQUEZINO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XFS112",
+      "Nome": "Fisica I - A.",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introducao. Vetores. Velocidade e aceleracao vetoriais. Os principios da dinamica. Aplicacoes das leis de Newton. Trabalho e energia mecanica. Conservacao da energia. Momento linear e conservacao do momento linear. Colisoes. Rotacao e momento angular. Dinamica de corpos rigidos. Forca que varia inversamente ao quadrado da distancia (gravitacao).\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "13:01 - 15:00",
+        "professor": "JOSUE XAVIER DE CARVALHO"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 10:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XQM120",
+      "Nome": "Química Geral II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Gases. Soluções. Termodinâmica. Cinética química.  Equilíbrio químico. Ácidos e bases. Eletroquímica.\n___BIBLIOGRAFIA BÁSICA___\n1) Brady J. E., Russel J. W., Holum J.R, Quimica: a matéria e suas transformaçoes. 3a ediçao, Vol.02.2003. LTC ed S.A, ISBN 85-216-1326-1;\n2) Koltz J. C & Treichel, P. M. Química Geral 2 e reações químicas. Tradução da 5a ediçao norte americana, 2005. Thomsom Learning Ltda. ISBN 85-221-0462-X.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "JOANNA MARIA TEIXEIRA DE AZEREDO RAMOS"
+       }
+      ],
+      "Requisitos": [
+       "XQM114"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XBQ118",
+      "Nome": "Bioquimica de Macromoleculas",
+      "Créditos": "4.0",
+      "Teórica": "30",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Proteinas; niveis de estrutura. Purificacao e caracterizacao de proteinas; conformacao, interacao proteina-proteina; estrutura quaternaria; sistemas multiproteicos; mecanismos de acao enzimaticos; proteinas motoras e reguladoras da motilidade; acidos nucleicos: estrutura e metodos de analise. Glicoproteinas e proteoglicanos; matriz extracelular.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XFS111",
+      "Nome": "Física Experimental I",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução à medida: como medir; como expressar corretamente os valores medidos; estimar a precisão de instrumentos. Dispersão de uma medida: controle de grandezas físicas numa experiência; como caracterizar a dispersão de um conjunto de dados por um indicador apropriado. Cinemática unidimensional: desenvolvimento intuitivo e operacional dos conceitos de velocidade e aceleração. Representação e análise gráfica. Leis de Newton; como definir operacionalmente a inércia e um corpo; relação massa inercial-massa gravitacional. Colisões unidimensionais elásticas,semi-elásticas e inelásticas; modelo teórico de uma colisão unidimensional.\n___BIBLIOGRAFIA BÁSICA___\n1) Halliday, D., Resnick, R. e Walker, J. Fundamentos de Física, volume 1. 9. ed. Rio de Janeiro: LTC, 2012.\n2) Nussenzveig, H. Moysés. Curso de Física Básica, volume 1.  2. ed. São Paulo: E. Blucher, 2014.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:01 - 15:00",
+        "professor": "MARIELLA ALZAMORA CAMARENA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XMT128",
+      "Nome": "Cálculo Diferen e Integral II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Equações diferenciais ordinárias de primeira ordem e equações diferenciais ordinárias de segunda ordem com coeficientes constantes.  Curvas e vetores no plano. Vetores no espaço tridimensional e geometria analitica solida: retas e planos. Cilindros e superfícies de resolução, superfícies quadráticas. Regras da cadeia, curvas de nivel. Derivadas direcionais e gradientes; plano tangente e reta normal e superficie; diferencial, superficie de nivel. Máximos e mínimos e multiplicadores de Lagrange.\n___BIBLIOGRAFIA BÁSICA___\n1) BOYCE, W. E.; DIPRIMA, R. C. Equações Diferenciais Elementares e Problemas de Valores de Contorno. 7. ed. Rio de Janeiro: UFRJ, 2004.\n2) PINTO, D.; MORGADO, M. C. F. Cálculo Diferencial e Integral de Funções de Várias Variáveis. 3.ed. Rio de Janeiro: UFRJ, 2004.\n3) STEWART, J. Cálculo. 4. ed. São Paulo: Pioneira Thomson Learning, 2002. vol. 2.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 10:00",
+        "professor": "JORGE ALBERTO BORREGO MORELL"
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 10:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "XMT118"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XQM121",
+      "Nome": "Química Orgânica I",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Alcanos: estrutura e reatividade, radicais livres. Alquenos: estrutura e reatividade. Substituição e eliminação. Alcoois e eteres: preparação, estrutura e reatividade. Aldeidos e cetonas: preparação,estrutura e reatividade. Adições a carbonila. Preparação, estrutura e reatividade. Adições a carbonila. Preparação de alcanos e alquenos.\n___BIBLIOGRAFIA BÁSICA___\n1) SOLOMONS, T. W. G. Química Orgânica, v.2. 6.ed. Rio de Janeiro: LTC, 1996.\n2) BRUICE, Paula Yurkanis. QUÍMICA ORGÂNICA. 4ª Ed., São Paulo: Pearson Prentice Hall, 2006. V1 e V2.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "10:01 - 12:00",
+        "professor": "ROBSON RONEY BERNARDO"
+       }
+      ],
+      "Requisitos": [
+       "XQM111",
+       "XQM114"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "3º Período": [
+     {
+      "Codigo": "XFS122",
+      "Nome": "Fisica II - A.",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Oscilações: oscilações amortecidas e forçadas. Ondas. Som. Fluidos. Temperatura. Calor - primeira Lei da Termodinâmica. Propriedades dos gases.  Segunda Lei da Termodinâmica. Teoria cinética dos gases. Transferência de calor e de massa.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "10:01 - 12:00",
+        "professor": "CARSTEN ENDERLEIN"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:01 - 15:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "XFS112",
+       "XMT118"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XMA353",
+      "Nome": "Estrutura dos Sólidos",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estrutura dos átomos; ligações interatomicas; coordenação atômica; cristalografia; cristais reais; estruturas não cristalinas; diagramas de fase; soluções sólidas e compostos intermetálicos; metais; polímeros; cerâmicos.\n___BIBLIOGRAFIA BÁSICA___\n1) Callister William D., Rethwish David G., Ciência e engenharia de materiais: uma introdução 8 ed Rio de Janeiro LTC, 2016;\n2) Charles Kittel, Introdução a Física do estado sólido, 8a edição, LTC.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:01 - 17:00",
+        "professor": "KARIM DAHMOUCHE"
+       }
+      ],
+      "Requisitos": [
+       "XFS122",
+       "XQM114"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XMT238",
+      "Nome": "Cálculo Diferen e Integral III",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Definição de integrais duplas e integrais triplas. Jacobiano em R2 e R3. Mudança de variável na integral dupla e na integral tripla. Integral de linha de plano: teorema de Green e campos conservativos. Parametrização de curvas no R3. Integral de linha no espaço. Integrais de superfície. Teorema de Gauss. Teorema de Stokes e independência de caminho.\n___BIBLIOGRAFIA BÁSICA___\n1) Hamilton L. Guidorizzi, Um Curso de Cálculo volume 3 ? LTC editora;\n2) Diomara Pinto e Maria Cândida Ferreira Morgado, Cálculo Diferencial e Integral de Funções de Várias Variáveis ? Editora UFRJ;\n3) James Stewart, Cálculo volume 2 ? CENGAGE Learning;\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "08:01 - 10:00",
+        "professor": "ORLANDO SARMIENTO CHUMBES"
+       },
+       {
+        "dia": "Seg",
+        "hora": "08:01 - 10:00",
+        "professor": "RENAN HENRIQUE FINDER"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:01 - 15:00",
+        "professor": "ORLANDO SARMIENTO CHUMBES"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:01 - 15:00",
+        "professor": "RENAN HENRIQUE FINDER"
+       }
+      ],
+      "Requisitos": [
+       "XMT128"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XQM232",
+      "Nome": "Química Orgânica II",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Alquinos e dienos: estrutura, preparação e reatividade. Benzeno e aromaticidade. Derivados de benzeno: preparação e reativivdade. Ácidos carboxílicos e seus derivados: preparação e reatividade. Poliaromaticos: estrutura e reatividade. Carboidratos. Amino-acidos e peptideos.\n___BIBLIOGRAFIA BÁSICA___\n1) SOLOMONS, T.W.G. Química Orgânica, v.2. 6.ed. Rio de Janeiro: LTC, 1996.\n2) BRUICE, Paula Yurkanis. QUÍMICA ORGÂNICA Vol 1. 4ª Ed., São Paulo: Pearson Prentice Hall, 2006.\n3) BRUICE, Paula Yurkanis. QUÍMICA ORGÂNICA Vol 2. 4ª Ed., São Paulo: Pearson Prentice Hall, 2006.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 10:00",
+        "professor": "ROBSON RONEY BERNARDO"
+       }
+      ],
+      "Requisitos": [
+       "XQM121"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XFS121",
+      "Nome": "Física Experimental II",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Dinâmica das rotações: cinemática das rotações, determinação de momento de inércia, pêndulo composto. Movimento oscilatório: movimento harmônico-simples, movimento harmônico amortecido, combinação de movimentos harmônicos. Hidrostática: determinação de viscosidade, determinação de densidade de líquidos e sólidos. Ondas mecânicas: velocidade do som (método de ressonância), cordas vibrantes. Calorimetria: capacidade calorífica, equivalente mecanico.\n___BIBLIOGRAFIA BÁSICA___\n1) Halliday, D., Resnick, R. e Walker, J. Fundamentos de Física, volume 2. 9. ed. Rio de Janeiro: LTC, 2012.\n2) Nussenzveig, H. Moysés. Curso de Física Básica, volume 2.  2. ed. São Paulo: E. Blucher, 2014.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:01 - 15:00",
+        "professor": "BEATRIZ BLANCO SIFFERT"
+       }
+      ],
+      "Requisitos": [
+       "XFS111",
+       "XFS112"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XGB125",
+      "Nome": "Genética Molecular I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Composição e estrutura de ácidos nucleicos. Estrutura de cromatina. Conceito de genes, organização gênica e famílias gênicas. Replicação de DNA. Reparo de DNA. Tipos de RNA e características estruturais. Transcrição em procariotos e eucariotos.  Maturação e processamento de RNAs.  Biossíntese de proteínas.\n___BIBLIOGRAFIA BÁSICA___\n1) ALBERTS, B. et al. Biologia molecular da célula. 5. ed. Porto Alegre: Artmed, 2009.\n2) NICHOLAS H. ACHESON, Fundamentals of Molecular Virology. 2nd Edition, Wiley, 2011.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:01 - 17:00",
+        "professor": "JANAINA FERNANDES"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XMT125",
+      "Nome": "Álgebra Linear II",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Sistemas de equações lineares e Eliminação Gaussiana. Matrizes e determinante. Espaços vetoriais Euclidianos. Geometria dos espaços vetoriais de dimensão finita. Transformações lineares. Espaços vetoriais com produto interno. Ortogonalidade e mínimos quadrados. Autovalores e autovetores. Teorema espectral. Aplicações à solução de Equações Diferenciais Ordinárias e em Geometria Euclidiana.\n___BIBLIOGRAFIA BÁSICA___\n1) Anton H., Algebra Linear com aplicaçoes. Porto Alegre: Bookman, 2001;\n2) Boldrini J. L., Costa, S.I.R, Wetzler H.G., Ribeiro, V. L. F. F., Algebra Linear. 3a ed. Sao Paulo: Harbra, 1980;\n3) Steinbruch, W. Algebra Linear. Sao Paulo: Makron Books, 1987.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:01 - 17:00",
+        "professor": "VERNNY URIEL CHAVEZ CCAJMA"
+       },
+       {
+        "dia": "Seg",
+        "hora": "13:01 - 17:00",
+        "professor": "DENIS MOTA DE SOUSA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XQM231",
+      "Nome": "Química Experimental",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução ao laboratório e normas de segurança. Cristalização Fracionada. Sistemas Coloidais e suas Propriedades. Equilíbrio Químico. Cinética Química. Oxirredução. Eletrólise. Compostos de Coordenação. Síntese e Propriedades dos seguintes elementos e alguns de seus compostos: Nitrogênio, Oxigênio, Hidrogênio, Enxofre, Hologênios, Ferro e Níquel.\n___BIBLIOGRAFIA BÁSICA___\n1) Apostila de química experimental;\n2) Brown T.L., LeMay H.E., Bursten B.E. And Burge J.R. - Química a Ciência Central - 9 ed. 2005, Pearson-Prentice Hall;\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 12:00",
+        "professor": "IGOR ALVES DA SILVA"
+       }
+      ],
+      "Requisitos": [
+       "XQM114"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "4º Período": [
+     {
+      "Codigo": "XFS231",
+      "Nome": "Física Experimental III",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Campo Elétrico; Instrumentos de medida, Lei de Coulomb, mapeamento de campo elétrico, potencial elétrico. Corrente contínua: Lei de Ohm, resistores ôhmicos. F. E. M.: determinação da FEM de um gerador e pilha padrão.Circuitos potencipmátricos, resistências em série e paralelo, ponte de Wheatstone. Circuito RC: descarga de capacitor, determinação da capacitância e da constante de tempo. Práticos de osciloscópio. Figuras de batimento,circuito RC.\n___BIBLIOGRAFIA BÁSICA___\n1) Halliday, D., Resnick, R. e Walker, J. Fundamentos de Física, volume 3. 9. ed. Rio de Janeiro: LTC, 2012.\n2) Nussenzveig, H. Moysés. Curso de Física Básica, volume 3.  2. ed. São Paulo: E. Blucher, 2014.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "08:01 - 10:00",
+        "professor": "JUAN MARTIN OTALORA GOICOCHEA"
+       }
+      ],
+      "Requisitos": [
+       "XFS121"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XMA061",
+      "Nome": "Sintese e Carac Polimeros Exp",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Técnicas experimentais poliadições via radicais livres,poliadições iônicas(catiônica e aniônica);policondensações,polímeros condutores;técnicas de polimerização em massa,solução,suspensão e emulsão.Recuperação e purificação de polímeros sintetizados.Caracterização de polímeros quanto à estrutura e peso molecular.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XMT248",
+      "Nome": "Cálculo Diferen e Integral IV",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Série de potências; resolução de equações diferenciais lineares ordinárias de segunda ordem com coeficientes variáveis: soluções por série próximo a um ponto ordinário; soluções por série próximo a um ponto regular (método de Frobenius). Transformada de Laplace; série de Fourier. Problemas de valores de contorno e teoria de Sturm-Liouville. Equações diferenciais parciais clássicas: onda; calor; Laplace: Dirichlet no retângulo e Dirichlet no círculo.\n___BIBLIOGRAFIA BÁSICA___\n1) James Stewart. Cálculo Volume 2, ed Thomson;\n2) William Boyce e Richard DiPrima. Equações diferenciais elementares e problemas de valores de contorno, ed. LTC;\n3) Louis Leithold. O Cálculo com geometroa analítica vol.2, ed. Harbra.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "10:01 - 12:00",
+        "professor": "JORGE ALBERTO BORREGO MORELL"
+       },
+       {
+        "dia": "Qua",
+        "hora": "10:01 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "XMT128"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XBQ129",
+      "Nome": "Bioenergética e Metabolismo",
+      "Créditos": "6.0",
+      "Teórica": "60",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceitos de termodinâmica, os compostos de alta de baixa energia, a fermentação e glicólise, o ciclo dos ácidos tricarboxílicos, os citocromos e a respiração celular, as mitocrôndias e o metabolismo aeróbico, o gradiente de prótons e a teoria quimosmótica, a F1Fo-ATP sintase, as espécies reativas de oxigênio, o metabolismo de glicogênio, o metabolismo de lipídeos, o metabolismo de aminoácidos, a via das pentoses, gliconeogenese, regulação hormonal.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "LUISA ANDREA KETZER"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "CAROLINA ALVARES DA CUNHA DE AZEREDO BRAGA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:01 - 15:00",
+        "professor": "LUISA ANDREA KETZER"
+       }
+      ],
+      "Requisitos": [
+       "XBQ118"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XFS232",
+      "Nome": "Física III",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Lei de Coulomb. Campos elétricos. Lei de Gauss. Potencial Elétrico, capacitores, correntes e circuitos. Campos magnéticos, leis de Ampere e Biot - Savart, Lei de Faraday, indutância, corrente de deslocamento. Circuitos de corrente alternada, equações de Maxwell.\n___BIBLIOGRAFIA BÁSICA___\n1) Halliday, D., Resnick, R. e Walker, J. Fundamentos de Física, volume 3. 9. ed. Rio de Janeiro: LTC, 2012.\n2) Nussenzveig, H. Moysés. Curso de Física Básica, volume 3.  2. ed. São Paulo: E. Blucher, 2014.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 10:00",
+        "professor": "MONICA DE MESQUITA LACERDA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:01 - 15:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "XFS112",
+       "XMT128"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XMA240",
+      "Nome": "Introdução a Polímeros",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Polímeros: Conceituação e Classificação; reações de polimerização; técnicas de polimerização; definição de massa molar e métodos de determinação; caracterização estrutural; conceitos básicos de propriedades térmicas, mecânicas e óticas; principais processos de transformação de polímeros.\n___BIBLIOGRAFIA BÁSICA___\n1) Mano, E. B. Mendes, L. C. Introdução a polímeros. São Paulo: Edgard Blucher, 1999;\n2) Canevarolo Jr, S. V. Ciência de polímeros. São Paulo: Artliber, 2002.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "08:01 - 12:00",
+        "professor": "FELIPE FORTES DE LIMA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "5º Período": [
+     {
+      "Codigo": "XFS241",
+      "Nome": "Física Experimental IV",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Princípio do magnetismo, leis de Ampere, Faraday e Lentz. Medidor de campo magnético. Propriedades magnéticas da matéria, histerese, corrente alternada: circuitos de corrente alternada RLC, oscilações eletromagnéticas. Conservação de energia. Ótica geométrica: reflexão, refração, lentes e prismas. Ótica física: interferência, difração e polarização.\n___BIBLIOGRAFIA BÁSICA___\n1) Halliday, D., Resnick, R. e Walker, J. Fundamentos de Física, volume 4. 9. ed. Rio de Janeiro: LTC, 2012.\n2) Nussenzveig, H. Moysés. Curso de Física Básica, volume 4.  2. ed. São Paulo: E. Blucher, 2014.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "10:01 - 12:00",
+        "professor": "BEATRIZ BLANCO SIFFERT"
+       }
+      ],
+      "Requisitos": [
+       "XFS230",
+       "XFS231"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XFS240",
+      "Nome": "Física IV",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Ondas eletromagnéticas. Energia e momento da luz. Noções da relatividade restrita. Ótica geométrica. Fenomenos de interferência. Difração.  Polarização.   Física moderna. Efeitos fotoelétricos e Compton.  Átomo de hidrogênio.  Difração de elétrons. Função de onda. Equação de Schroedinger. Princípio de incerteza.\n___BIBLIOGRAFIA BÁSICA___\n1) Halliday, D., Resnick, R. e Walker, J. Fundamentos de Física, volume 4. 9. ed. Rio de Janeiro: LTC, 2012.\n2) Nussenzveig, H. Moysés. Curso de Física Básica, volume 4.  2. ed. São Paulo: E. Blucher, 2014.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "XFS230",
+       "XMT238"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XTD053",
+      "Nome": "Ger da I e Cri de Emp de B Tec",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenvolvimento Tecnológico no Brasil. Criação de novas empresas. O problema do \"star up\". Escolha de idéias. Capital, mercado. Plano de negócios. Produção. Organização da empresa. Crescimento da empresa.\n___BIBLIOGRAFIA BÁSICA___\n1) Michael Porter, Estratégia competitiva, Rio de Janeiro: Campus 1986;\n2) Leonardo Lustosa. Planejamento e controle da produção: Campus 2008;\n3) Eduardo Romeiro Filho. Projeto de produto: Campus 2010.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 12:00",
+        "professor": "RONALDO PEDRO DA SILVA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "6º Período": [],
+    "7º Período": [],
+    "8º Período": [],
+    "Disciplinas Optativas (Escolha Restrita)": [
+     {
+      "Codigo": "XTDX02",
+      "Nome": "Intr Pesq Nanotec: Física",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Programa de iniciação científica e tecnológica em laboratório ou grupo de pesquisa na área de nanociência e nanotecnologia com ênfase em Física.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "XTDX04",
+      "Nome": "Intr Pesq Nanotec: Química",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Programa de iniciação científica e tecnológica em laboratório ou grupo de pesquisa na área de nanociência e nanotecnologia com ênfase em Química.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "XTDX01",
+      "Nome": "Intr Pesq Nanotec: Bionanotec",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Programa de iniciação científica e tecnológica em laboratório ou grupo de pesquisa na área de nanociência e nanotecnologia com ênfase em Bionanotecnologia.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "XTDX03",
+      "Nome": "Intr Pesq Nanotec: Materiais",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Programa de iniciação científica e tecnológica em laboratório ou grupo de pesquisa na área de nanociência e nanotecnologia com ênfase em Materiais.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     }
+    ]
+   },
+   "obrigatorias": 30,
+   "eletivas": 4,
+   "ano": "2010/1 a 2017/2"
+  },
+  {
+   "materias": {
+    "1º Período": [
+     {
+      "Codigo": "XMT118",
+      "Nome": "Cálculo Diferen e Integral I",
+      "Créditos": "6.0",
+      "Teórica": "90",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Sequências Numéricas; Limites; Continuidade; Cálculo e Aplicação das Derivadas; A Integral Definida; Técnicas de Integração: Logaritmo e Exponencial; Aplicações de integrais definidas; Integral Imprópria.\n___BIBLIOGRAFIA BÁSICA___\n1) SANTOS, A. R.; BIANCHINI, Waldecir. Aprendendo Cálculo com Maple: Cálculo de Uma Variável. 1ª ed. Rio de Janeiro: LTC, 2002.\n2) LEITHOLD, Louis. O Cálculo com Geometria Analítica. 3.ed. São Paulo: Harbra, 2002. vol. 1.\n3) STEWART, James. Cálculo. 4.ed. São Paulo: Pioneira Thomson Learning, 2002. vol. 1.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "10:01 - 12:00",
+        "professor": "ORLANDO SARMIENTO CHUMBES"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XQM114",
+      "Nome": "Química Geral I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estequiometria. Teoria atômica. Classificação periódica dos elementos. Ligação química. Compostos de coordenação. Química Nuclear.\n___BIBLIOGRAFIA BÁSICA___\n1) Química a Ciência Central; Brown, TL, LeMay H E, Bursten, BE and Burdge JR; 9 edição, 2005, Pearson-Prentice Hall;\n2) Princípios de Química; Atkins, P and Jones, L; 2001, Bookman;\n3) Química Geral; Brady J.E. and Humiston, G.E., vol 1 e 2, 1986, 2 edição, Livros Técnicos e Científicos Editora AS;\n4) Chemistry and Chemical Reactivity; Kotz, JC and Purcel KF; 2 edition, 1993, Saunders College Publishing;\n5) Química Geral; Russel JB; 2002, 3 edição, Pearson-Prentice Hall.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:01 - 17:00",
+        "professor": "BIANCA PIZZORNO BACKX"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XTD111",
+      "Nome": "Grandes Temas da Biologia",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Os temas mais relevantes e atuais em Biologia Molecular, Estrutural e de Sistemas. A interfase entre as ciências biomédicas e exatas. Doenças emergentes e re-emergentes. Meio ambiente e saúde. Doenças crônico-degenerativas. Terapias avançadas e novos métodos de diagnóstico e tratamento. Discussão de tópicos avançados nas diferentes áreas do conhecimento e da ciência. Temas relevantes e comteporâneos relacionados ao desenvolvimento da ciência com ênfase em questões nacionais. Novas abordagens técnicas e conceituais para resolver problemas nas diversas áreas do saber. Mudanças de paradigmas em ciências e educação. A inter-relação entre o desenvolvimento científico-tecnológico e o sócio-econômico.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "13:01 - 15:00",
+        "professor": "ANDREA CLAUDIA FREITAS FERREIRA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "15:01 - 17:00",
+        "professor": "ANA PAULA SANTOS DA SILVA DE OLIVEIRA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:01 - 15:00",
+        "professor": ""
+       },
+       {
+        "dia": "Qui",
+        "hora": "15:01 - 17:00",
+        "professor": "ANDREA CLAUDIA FREITAS FERREIRA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XBT118",
+      "Nome": "Biologia Celular",
+      "Créditos": "6.0",
+      "Teórica": "90",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Membrana plasmática - estrutura, fluidez e domínios; Transporte através da membrana; Receptores e sinalização Celular; Endocitose e lisossomas: Secreção celular - retículo endoplasmático, complexo de Golgi, organização e funções; Tráfego de Vesículas; Citoesqueleto - microtúbulos, microfilamentos, filamentos intermediários; Mitocôndrias; Cloroplastos; Peroxissomas; Controle do ciclo celular; divisão celular; Núcleo interfásico.\n___BIBLIOGRAFIA BÁSICA___\n1) Molecular Biology of The Cell. Albert, Johnson, Lewis, Raff, Roberts, Walter. Garland Eds, 5th edition , 2007. Ou 2th Edition;\n2) Fundamentos de Biologia Celular. Karen Hopkin, Dennis Bray, Bruce Albert. Artmed, 3a edição, 2011.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:01 - 15:00",
+        "professor": "JULIANY COLA FERNANDES RODRIGUES"
+       },
+       {
+        "dia": "Qui",
+        "hora": "10:01 - 12:00",
+        "professor": ""
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 10:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XQM111",
+      "Nome": "Química Geral Estrutural",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceito de modelo. Modelo e realidade física. Simetria: elementos de simetria. Ligação química. Modelos moleculares: dimensões e angulas. Movimentos das moléculas. Forças intermoleculares. Estados físicos. Fases, superfícies, mudanças de fase. Fases complexas: micelas, vesículas e cristais líquidos. Membranas. Macromoleculas naturais e artificiais. Modelos de reação química. Nomenclatura.\n___BIBLIOGRAFIA BÁSICA___\n1) MCMURRY, John. Química Orgânica. vol. 1 e 2. 6 ed. Cengage Learning, 2005.\n2) SOLOMONS, T. W. Graham; Fryhle, Craig B. Química Orgânica, vol. 1 e 2. 9 ed. LTC, 2009.\n3) VOLLHARDT, K. P.; SCHORE, N. E. Química Orgânica - Estrutura e Função, São Paulo: Bookman, 2004.\n4) CAREY, Francis et al. Advanced Organic Chemistry. part A e Part B. 5 ed. Spring Verlag, 2007.\n5) COSTA, P.; FERREIRA, V.; ESTEVES, P. VASCONCELOS, M. Ácidos e Bases em Química Orgânica. São Paulo: Bookman, 2005.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "15:01 - 17:00",
+        "professor": "ROBSON RONEY BERNARDO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XTD073",
+      "Nome": "Introdução à Nanotecnologia",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceito e Fundamentos da Nanotecnologia. Morfologia de Materiais Nanoestruturados. Blocos de Construção: nanotubos, nanofios e nanopartículas. Técnicas e Ferramentas de Manipulação Molecular e Atômica. Nanofabricação: \"Positional Assembly\" e \"Self-Replication\". Aplicações.\n___BIBLIOGRAFIA BÁSICA___\n1) DA RÓZ, Alessandra Luzia; LEITE, Fábio de Lima; FERREIRA, Marystela; OLIVEIRA JUNIOR, Osvaldo Novais de. Nanoestruturas: princípios e aplicações. 1 ed. Rio de Janeiro : Elsevier, 2015.\n2) DA RÓZ, Alessandra Luzia; LEITE, Fábio de Lima; FERREIRA, Marystela; OLIVEIRA JUNIOR, Osvaldo Novais de. Grandes Áreas da Nanociência: Princípios e Aplicações. 1 ed. Rio de Janeiro : Elsevier, 2015.\n3) DA RÓZ, Alessandra Luzia; LEITE, Fábio de Lima; FERREIRA, Marystela; OLIVEIRA JUNIOR, Osvaldo Novais de. Técnicas de nanocaracterização. 1 ed. Rio de Janeiro : Elsevier, 2015.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:01 - 17:00",
+        "professor": "NATASHA MIDORI SUGUIHIRO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "2º Período": [
+     {
+      "Codigo": "XCP124",
+      "Nome": "Programação de Computadores",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Computadores e ambientes de programação. Algoritmos. A linguagem Pascal. Estrutura de um programa. Tipos de variáveis. Comandos de atribuição, entrada e saída. Operadores e expressões. Comandos condicionais e de repetição. Funções e procedimentos. Estruturas de dados em Pascal. Manipulação de carcateres e textos. Solução de problemas diversos em Pascal.\n___BIBLIOGRAFIA BÁSICA___\n1) MENEZES, N.N.C., ?Introdução à Programação com Python: algoritmos e lógica de programação para iniciantes?, São Paulo : Novatec, 2010.\n2) BARRY, P., GRIFFITHS, D., ?Use a Cabeça: Programação?, Rio de Janeiro: Alta Books, 2010.\n3) DOWNEY, A., ?Pense em Python: pense com um cientista da computação?, São Paulo, Novatec, 2016.\n4) MEDINA, M., FERTIG, C., ?Algoritmos e programação: teoria e prática?, São Paulo : Novatec, 2006.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 12:00",
+        "professor": "FRANKLIN DE LIMA MARQUEZINO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XFS112",
+      "Nome": "Física I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução. Vetores. Velocidade e aceleração vetoriais. Os princípios da dinâmica. Aplicações das leis de Newton. Trabalho e energia mecânica. Conservação da energia. Momento linear e conservação do momento linear. Colisões. Rotação e momento angular. Dinâmica de corpos rígidos. Força que varia inversamente ao quadrado da distancia (gravitação).\n___BIBLIOGRAFIA BÁSICA___\n1) Halliday, D., Resnick, R. e Walker, J. Fundamentos de Física, volume 1. 9. ed. Rio de Janeiro: LTC, 2012.\n2) Nussenzveig, H. Moysés. Curso de Física Básica, volume 1. 2. ed. São Paulo: E. Blucher, 2014.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "13:01 - 15:00",
+        "professor": "JOSUE XAVIER DE CARVALHO"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 10:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "XMT118"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XQM120",
+      "Nome": "Química Geral II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Gases. Soluções. Termodinâmica. Cinética química.  Equilíbrio químico. Ácidos e bases. Eletroquímica.\n___BIBLIOGRAFIA BÁSICA___\n1) Brady J. E., Russel J. W., Holum J.R, Quimica: a matéria e suas transformaçoes. 3a ediçao, Vol.02.2003. LTC ed S.A, ISBN 85-216-1326-1;\n2) Koltz J. C & Treichel, P. M. Química Geral 2 e reações químicas. Tradução da 5a ediçao norte americana, 2005. Thomsom Learning Ltda. ISBN 85-221-0462-X.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "JOANNA MARIA TEIXEIRA DE AZEREDO RAMOS"
+       }
+      ],
+      "Requisitos": [
+       "XQM114"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XBQ118",
+      "Nome": "Bioquimica de Macromoleculas",
+      "Créditos": "4.0",
+      "Teórica": "30",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Proteinas; niveis de estrutura. Purificacao e caracterizacao de proteinas; conformacao, interacao proteina-proteina; estrutura quaternaria; sistemas multiproteicos; mecanismos de acao enzimaticos; proteinas motoras e reguladoras da motilidade; acidos nucleicos: estrutura e metodos de analise. Glicoproteinas e proteoglicanos; matriz extracelular.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XFS111",
+      "Nome": "Física Experimental I",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": "",
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:01 - 15:00",
+        "professor": "MARIELLA ALZAMORA CAMARENA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XMT128",
+      "Nome": "Cálculo Diferen e Integral II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Equações diferenciais ordinárias de primeira ordem e equações diferenciais ordinárias de segunda ordem com coeficientes constantes.  Curvas e vetores no plano. Vetores no espaço tridimensional e geometria analitica solida: retas e planos. Cilindros e superfícies de resolução, superfícies quadráticas. Regras da cadeia, curvas de nivel. Derivadas direcionais e gradientes; plano tangente e reta normal e superficie; diferencial, superficie de nivel. Máximos e mínimos e multiplicadores de Lagrange.\n___BIBLIOGRAFIA BÁSICA___\n1) BOYCE, W. E.; DIPRIMA, R. C. Equações Diferenciais Elementares e Problemas de Valores de Contorno. 7. ed. Rio de Janeiro: UFRJ, 2004.\n2) PINTO, D.; MORGADO, M. C. F. Cálculo Diferencial e Integral de Funções de Várias Variáveis. 3.ed. Rio de Janeiro: UFRJ, 2004.\n3) STEWART, J. Cálculo. 4. ed. São Paulo: Pioneira Thomson Learning, 2002. vol. 2.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 10:00",
+        "professor": "JORGE ALBERTO BORREGO MORELL"
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 10:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "XMT118"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XQM121",
+      "Nome": "Química Orgânica I",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Alcanos: estrutura e reatividade, radicais livres. Alquenos: estrutura e reatividade. Substituição e eliminação. Alcoois e eteres: preparação, estrutura e reatividade. Aldeidos e cetonas: preparação,estrutura e reatividade. Adições a carbonila. Preparação, estrutura e reatividade. Adições a carbonila. Preparação de alcanos e alquenos.\n___BIBLIOGRAFIA BÁSICA___\n1) SOLOMONS, T. W. G. Química Orgânica, v.2. 6.ed. Rio de Janeiro: LTC, 1996.\n2) BRUICE, Paula Yurkanis. QUÍMICA ORGÂNICA. 4ª Ed., São Paulo: Pearson Prentice Hall, 2006. V1 e V2.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "10:01 - 12:00",
+        "professor": "ROBSON RONEY BERNARDO"
+       }
+      ],
+      "Requisitos": [
+       "XQM111",
+       "XQM114"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "3º Período": [
+     {
+      "Codigo": "XFS122",
+      "Nome": "Física II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Oscilações: oscilações amortecidas e forçadas. Ondas. Som. Fluidos. Temperatura. Calor: primeira Lei da Termodinâmica. Propriedades dos gases. Segunda Lei da Termodinâmica. Teoria cinética dos gases. Transferência de calor e de massa.\n___BIBLIOGRAFIA BÁSICA___\n1) Halliday, D., Resnick, R. e Walker, J. Fundamentos de Física, volume 2. 9. ed. Rio de Janeiro: LTC, 2012.\n2) Nussenzveig, H. Moysés. Curso de Física Básica, volume 2. 2. ed. São Paulo: E. Blucher, 2014.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "10:01 - 12:00",
+        "professor": "CARSTEN ENDERLEIN"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:01 - 15:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "XFS112"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XMT125",
+      "Nome": "Álgebra Linear II",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Sistemas de equações lineares e Eliminação Gaussiana. Matrizes e determinante. Espaços vetoriais Euclidianos. Geometria dos espaços vetoriais de dimensão finita. Transformações lineares. Espaços vetoriais com produto interno. Ortogonalidade e mínimos quadrados. Autovalores e autovetores. Teorema espectral. Aplicações à solução de Equações Diferenciais Ordinárias e em Geometria Euclidiana.\n___BIBLIOGRAFIA BÁSICA___\n1) Anton H., Algebra Linear com aplicaçoes. Porto Alegre: Bookman, 2001;\n2) Boldrini J. L., Costa, S.I.R, Wetzler H.G., Ribeiro, V. L. F. F., Algebra Linear. 3a ed. Sao Paulo: Harbra, 1980;\n3) Steinbruch, W. Algebra Linear. Sao Paulo: Makron Books, 1987.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:01 - 17:00",
+        "professor": "DENIS MOTA DE SOUSA"
+       },
+       {
+        "dia": "Seg",
+        "hora": "13:01 - 17:00",
+        "professor": "VERNNY URIEL CHAVEZ CCAJMA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XQM231",
+      "Nome": "Química Experimental",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução ao laboratório e normas de segurança. Cristalização Fracionada. Sistemas Coloidais e suas Propriedades. Equilíbrio Químico. Cinética Química. Oxirredução. Eletrólise. Compostos de Coordenação. Síntese e Propriedades dos seguintes elementos e alguns de seus compostos: Nitrogênio, Oxigênio, Hidrogênio, Enxofre, Hologênios, Ferro e Níquel.\n___BIBLIOGRAFIA BÁSICA___\n1) Apostila de química experimental;\n2) Brown T.L., LeMay H.E., Bursten B.E. And Burge J.R. - Química a Ciência Central - 9 ed. 2005, Pearson-Prentice Hall;\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 12:00",
+        "professor": "IGOR ALVES DA SILVA"
+       }
+      ],
+      "Requisitos": [
+       "XQM114"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XFS121",
+      "Nome": "Física Experimental II",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Dinâmica das rotações: cinemática das rotações, determinação de momento de inércia, pêndulo composto. Movimento oscilatório: movimento harmônico-simples, movimento harmônico amortecido, combinação de movimentos harmônicos. Hidrostática: determinação de viscosidade, determinação de densidade de líquidos e sólidos. Ondas mecânicas: velocidade do som (método de ressonância), cordas vibrantes. Calorimetria: capacidade calorífica, equivalente mecanico.\n___BIBLIOGRAFIA BÁSICA___\n1) Halliday, D., Resnick, R. e Walker, J. Fundamentos de Física, volume 2. 9. ed. Rio de Janeiro: LTC, 2012.\n2) Nussenzveig, H. Moysés. Curso de Física Básica, volume 2.  2. ed. São Paulo: E. Blucher, 2014.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:01 - 15:00",
+        "professor": "BEATRIZ BLANCO SIFFERT"
+       }
+      ],
+      "Requisitos": [
+       "XFS111",
+       "XFS112"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XGB125",
+      "Nome": "Genética Molecular I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Composição e estrutura de ácidos nucleicos. Estrutura de cromatina. Conceito de genes, organização gênica e famílias gênicas. Replicação de DNA. Reparo de DNA. Tipos de RNA e características estruturais. Transcrição em procariotos e eucariotos.  Maturação e processamento de RNAs.  Biossíntese de proteínas.\n___BIBLIOGRAFIA BÁSICA___\n1) ALBERTS, B. et al. Biologia molecular da célula. 5. ed. Porto Alegre: Artmed, 2009.\n2) NICHOLAS H. ACHESON, Fundamentals of Molecular Virology. 2nd Edition, Wiley, 2011.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:01 - 17:00",
+        "professor": "JANAINA FERNANDES"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XMT238",
+      "Nome": "Cálculo Diferen e Integral III",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Definição de integrais duplas e integrais triplas. Jacobiano em R2 e R3. Mudança de variável na integral dupla e na integral tripla. Integral de linha de plano: teorema de Green e campos conservativos. Parametrização de curvas no R3. Integral de linha no espaço. Integrais de superfície. Teorema de Gauss. Teorema de Stokes e independência de caminho.\n___BIBLIOGRAFIA BÁSICA___\n1) Hamilton L. Guidorizzi, Um Curso de Cálculo volume 3 ? LTC editora;\n2) Diomara Pinto e Maria Cândida Ferreira Morgado, Cálculo Diferencial e Integral de Funções de Várias Variáveis ? Editora UFRJ;\n3) James Stewart, Cálculo volume 2 ? CENGAGE Learning;\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "08:01 - 10:00",
+        "professor": "ORLANDO SARMIENTO CHUMBES"
+       },
+       {
+        "dia": "Seg",
+        "hora": "08:01 - 10:00",
+        "professor": "RENAN HENRIQUE FINDER"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:01 - 15:00",
+        "professor": ""
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:01 - 15:00",
+        "professor": "ORLANDO SARMIENTO CHUMBES"
+       }
+      ],
+      "Requisitos": [
+       "XMT128"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XQM232",
+      "Nome": "Química Orgânica II",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Alquinos e dienos: estrutura, preparação e reatividade. Benzeno e aromaticidade. Derivados de benzeno: preparação e reativivdade. Ácidos carboxílicos e seus derivados: preparação e reatividade. Poliaromaticos: estrutura e reatividade. Carboidratos. Amino-acidos e peptideos.\n___BIBLIOGRAFIA BÁSICA___\n1) SOLOMONS, T.W.G. Química Orgânica, v.2. 6.ed. Rio de Janeiro: LTC, 1996.\n2) BRUICE, Paula Yurkanis. QUÍMICA ORGÂNICA Vol 1. 4ª Ed., São Paulo: Pearson Prentice Hall, 2006.\n3) BRUICE, Paula Yurkanis. QUÍMICA ORGÂNICA Vol 2. 4ª Ed., São Paulo: Pearson Prentice Hall, 2006.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 10:00",
+        "professor": "ROBSON RONEY BERNARDO"
+       }
+      ],
+      "Requisitos": [
+       "XQM121"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "4º Período": [
+     {
+      "Codigo": "XFS231",
+      "Nome": "Física Experimental III",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Campo Elétrico; Instrumentos de medida, Lei de Coulomb, mapeamento de campo elétrico, potencial elétrico. Corrente contínua: Lei de Ohm, resistores ôhmicos. F. E. M.: determinação da FEM de um gerador e pilha padrão.Circuitos potencipmátricos, resistências em série e paralelo, ponte de Wheatstone. Circuito RC: descarga de capacitor, determinação da capacitância e da constante de tempo. Práticos de osciloscópio. Figuras de batimento,circuito RC.\n___BIBLIOGRAFIA BÁSICA___\n1) Halliday, D., Resnick, R. e Walker, J. Fundamentos de Física, volume 3. 9. ed. Rio de Janeiro: LTC, 2012.\n2) Nussenzveig, H. Moysés. Curso de Física Básica, volume 3.  2. ed. São Paulo: E. Blucher, 2014.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "08:01 - 10:00",
+        "professor": "JUAN MARTIN OTALORA GOICOCHEA"
+       }
+      ],
+      "Requisitos": [
+       "XFS121"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XMA240",
+      "Nome": "Introdução a Polímeros",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Polímeros: Conceituação e Classificação; reações de polimerização; técnicas de polimerização; definição de massa molar e métodos de determinação; caracterização estrutural; conceitos básicos de propriedades térmicas, mecânicas e óticas; principais processos de transformação de polímeros.\n___BIBLIOGRAFIA BÁSICA___\n1) Mano, E. B. Mendes, L. C. Introdução a polímeros. São Paulo: Edgard Blucher, 1999;\n2) Canevarolo Jr, S. V. Ciência de polímeros. São Paulo: Artliber, 2002.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "08:01 - 12:00",
+        "professor": "FELIPE FORTES DE LIMA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XMT248",
+      "Nome": "Cálculo Diferen e Integral IV",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Série de potências; resolução de equações diferenciais lineares ordinárias de segunda ordem com coeficientes variáveis: soluções por série próximo a um ponto ordinário; soluções por série próximo a um ponto regular (método de Frobenius). Transformada de Laplace; série de Fourier. Problemas de valores de contorno e teoria de Sturm-Liouville. Equações diferenciais parciais clássicas: onda; calor; Laplace: Dirichlet no retângulo e Dirichlet no círculo.\n___BIBLIOGRAFIA BÁSICA___\n1) James Stewart. Cálculo Volume 2, ed Thomson;\n2) William Boyce e Richard DiPrima. Equações diferenciais elementares e problemas de valores de contorno, ed. LTC;\n3) Louis Leithold. O Cálculo com geometroa analítica vol.2, ed. Harbra.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "10:01 - 12:00",
+        "professor": "JORGE ALBERTO BORREGO MORELL"
+       },
+       {
+        "dia": "Qua",
+        "hora": "10:01 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "XMT128"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XBQ129",
+      "Nome": "Bioenergética e Metabolismo",
+      "Créditos": "6.0",
+      "Teórica": "60",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceitos de termodinâmica, os compostos de alta de baixa energia, a fermentação e glicólise, o ciclo dos ácidos tricarboxílicos, os citocromos e a respiração celular, as mitocrôndias e o metabolismo aeróbico, o gradiente de prótons e a teoria quimosmótica, a F1Fo-ATP sintase, as espécies reativas de oxigênio, o metabolismo de glicogênio, o metabolismo de lipídeos, o metabolismo de aminoácidos, a via das pentoses, gliconeogenese, regulação hormonal.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "LUISA ANDREA KETZER"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "CAROLINA ALVARES DA CUNHA DE AZEREDO BRAGA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:01 - 15:00",
+        "professor": "LUISA ANDREA KETZER"
+       }
+      ],
+      "Requisitos": [
+       "XBQ118"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XFS232",
+      "Nome": "Física III",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Lei de Coulomb. Campos elétricos. Lei de Gauss. Potencial Elétrico, capacitores, correntes e circuitos. Campos magnéticos, leis de Ampere e Biot - Savart, Lei de Faraday, indutância, corrente de deslocamento. Circuitos de corrente alternada, equações de Maxwell.\n___BIBLIOGRAFIA BÁSICA___\n1) Halliday, D., Resnick, R. e Walker, J. Fundamentos de Física, volume 3. 9. ed. Rio de Janeiro: LTC, 2012.\n2) Nussenzveig, H. Moysés. Curso de Física Básica, volume 3.  2. ed. São Paulo: E. Blucher, 2014.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 10:00",
+        "professor": "MONICA DE MESQUITA LACERDA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:01 - 15:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "XFS112",
+       "XMT128"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XMA353",
+      "Nome": "Estrutura dos Sólidos",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estrutura dos átomos; ligações interatomicas; coordenação atômica; cristalografia; cristais reais; estruturas não cristalinas; diagramas de fase; soluções sólidas e compostos intermetálicos; metais; polímeros; cerâmicos.\n___BIBLIOGRAFIA BÁSICA___\n1) Callister William D., Rethwish David G., Ciência e engenharia de materiais: uma introdução 8 ed Rio de Janeiro LTC, 2016;\n2) Charles Kittel, Introdução a Física do estado sólido, 8a edição, LTC.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:01 - 17:00",
+        "professor": "KARIM DAHMOUCHE"
+       }
+      ],
+      "Requisitos": [
+       "XFS122",
+       "XQM114"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "5º Período": [
+     {
+      "Codigo": "XFS241",
+      "Nome": "Física Experimental IV",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Princípio do magnetismo, leis de Ampere, Faraday e Lentz. Medidor de campo magnético. Propriedades magnéticas da matéria, histerese, corrente alternada: circuitos de corrente alternada RLC, oscilações eletromagnéticas. Conservação de energia. Ótica geométrica: reflexão, refração, lentes e prismas. Ótica física: interferência, difração e polarização.\n___BIBLIOGRAFIA BÁSICA___\n1) Halliday, D., Resnick, R. e Walker, J. Fundamentos de Física, volume 4. 9. ed. Rio de Janeiro: LTC, 2012.\n2) Nussenzveig, H. Moysés. Curso de Física Básica, volume 4.  2. ed. São Paulo: E. Blucher, 2014.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "10:01 - 12:00",
+        "professor": "BEATRIZ BLANCO SIFFERT"
+       }
+      ],
+      "Requisitos": [
+       "XFS230",
+       "XFS231"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XTD053",
+      "Nome": "Ger da I e Cri de Emp de B Tec",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenvolvimento Tecnológico no Brasil. Criação de novas empresas. O problema do \"star up\". Escolha de idéias. Capital, mercado. Plano de negócios. Produção. Organização da empresa. Crescimento da empresa.\n___BIBLIOGRAFIA BÁSICA___\n1) Michael Porter, Estratégia competitiva, Rio de Janeiro: Campus 1986;\n2) Leonardo Lustosa. Planejamento e controle da produção: Campus 2008;\n3) Eduardo Romeiro Filho. Projeto de produto: Campus 2010.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 12:00",
+        "professor": "RONALDO PEDRO DA SILVA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XFS240",
+      "Nome": "Física IV",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Ondas eletromagnéticas. Energia e momento da luz. Noções da relatividade restrita. Ótica geométrica. Fenomenos de interferência. Difração.  Polarização.   Física moderna. Efeitos fotoelétricos e Compton.  Átomo de hidrogênio.  Difração de elétrons. Função de onda. Equação de Schroedinger. Princípio de incerteza.\n___BIBLIOGRAFIA BÁSICA___\n1) Halliday, D., Resnick, R. e Walker, J. Fundamentos de Física, volume 4. 9. ed. Rio de Janeiro: LTC, 2012.\n2) Nussenzveig, H. Moysés. Curso de Física Básica, volume 4.  2. ed. São Paulo: E. Blucher, 2014.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "XFS230",
+       "XMT238"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XMA061",
+      "Nome": "Síntese e Carac Polímeros Exp",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Técnicas experimentais poliadições via radicais livres, poliadições iônicas (catiônica e aniônica); policondensações, polímeros condutores; técnicas de polimerização em massa, solução, suspensão e emulsão. Recuperação e purificação de polímeros sintetizados. Caracterização de polímeros quanto à estrutura e peso molecular.\n___BIBLIOGRAFIA BÁSICA___\n1) Mano, E. B., Dias, M. L. e Oliveira, C. M. F. Química Experimental de Polímeros, Ed. Edgard Blücher, 2004.\n2) Baccan, N. Manual pe Segurança para o Laboratório, Unicamp, SP 1980.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "XMA240"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "6º Período": [],
+    "7º Período": [],
+    "8º Período": [],
+    "Disciplinas Optativas (Escolha Restrita)": [
+     {
+      "Codigo": "XTDX02",
+      "Nome": "Intr Pesq Nanotec: Física",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Programa de iniciação científica e tecnológica em laboratório ou grupo de pesquisa na área de nanociência e nanotecnologia com ênfase em Física.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "XTDX04",
+      "Nome": "Intr Pesq Nanotec: Química",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Programa de iniciação científica e tecnológica em laboratório ou grupo de pesquisa na área de nanociência e nanotecnologia com ênfase em Química.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "XTDX01",
+      "Nome": "Intr Pesq Nanotec: Bionanotec",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Programa de iniciação científica e tecnológica em laboratório ou grupo de pesquisa na área de nanociência e nanotecnologia com ênfase em Bionanotecnologia.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "XTDX03",
+      "Nome": "Intr Pesq Nanotec: Materiais",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Programa de iniciação científica e tecnológica em laboratório ou grupo de pesquisa na área de nanociência e nanotecnologia com ênfase em Materiais.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     }
+    ],
+    "Disciplinas Optativas (Escolha Condicionada)": [
+     {
+      "Codigo": "EFA049",
+      "Nome": "Top Esp Dança Cult Afro-bras",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudos avançados sobre as manifestações populares dançantes no Brasil que sofreram em sua origem, a influência das culturas africanas. A disciplina aborda o corpo dançante brasileiro a partir da pesquisa de campo em comunidades sociais e estabelece um diálogo entre o movimento de origem ancestral e o movimento cênico criado na contemporaneidade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EFA744",
+      "Nome": "Dança Afro-brasileira B",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Aprofundamento dos estudos do movimento provindo de manifestações tradicionais afro-brasileiras. Estudo coreográfico de uma manifestação específica com o apoio da pesquisa de campo.\n___ BIBLIOGRAFIA BÁSICA ___\n1) FERNANDES, Ciane. O corpo em movimento. São Paulo: Annablume, 2002.\n2) BERUTTI, Flávio; SANTO, Igor. Comunidades Quilombolas - Espaços de resistência. Belo Horizonte: RHJ, 2012.\n3) PEREIRA, Walmir; TAMAGNO, Liliana. Patrimônio cultural dos povos indígenas. São Paulo: Unisinos, 2012.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCA662",
+      "Nome": "Sociedades Indígenas",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A diversidade cultural e linguística das sociedades indígenas brasileiras. Ocupação histórica e atual do território. Aspectos de demografia. Tipos de\norganização social e sistemas de parentesco. Cosmologia e mitologia comparada.\n",
+       "BibliografiaBasica": "1- Clastres, Helene. 1978- Terra sem mal. O profetismo Tupi-Guarani. São Paulo, Brasiliense.\n2- Carneiro da Cunha, Manoela. 1987 - ?Lógica do mito e da ação. O movimento messiânico Canela de 1963? (pp. 13-52). In Antropologia do Brasil, São Paulo, Brasiliense.\n3- Carneiro da Cunha, Manuela. 1978- Os mortos e os outros. São Paulo, Hucitec. (Cap 5. ?Amizade formal, companheirismo e a noção de pessoa?(pp. 74-94); Cap. 7. ?Escatologia? (pp. 112-130). Conclusão (pp. 142-146).\n8- Gonçalves, Marco Antonio. 1993 - O Significado do nome. Cosmologia e sociedade Pirahã. Rio de Janeiro, Sette Letras.\n9- Reichel-Dolmatoff, Gerardo. 1968 - Desana. Simbolismo de los índios Tukano del Uaupés. Bogotá, Universidade de Los Andes Viveiros de Castro, Eduardo. 1986 - Araweté: Os Deuses Canibais. Rio de Janeiro, Jorge Zahar Editor/ANPOCS.\nViveiros de Castro, Eduardo. 1996- ?Os pronomes cosmológicos e o perspectivismo ameríndio?. Mana, Vol. 2, N. 2- 115-144.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCA664",
+      "Nome": "O Negro no Pens Social Brasil",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O negro como objeto de ciência e tema da literatura. Principais contribuições sobre o negro no pensamento social brasileiro. O ideal de branqueamento e a mestiçagem. A democracia racial e as desigualdades sociais.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "FCA106"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NEP110",
+      "Nome": "Fund Direitos Humanos",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Necessidade e possibilidade de uma fundamentação filosófica dos direitos humanos, para a determinação do conteúdo e construção de argumentos racionais na sua implementação. Identificação dos principais desafios para afirmação e a realização dos direitos humanos e apresentação de algumas propostas contemporâneas de Fundamentação Filosófica dos Direitos Humanos.\n",
+       "BibliografiaBasica": "1) BARBALET, J. M. A Cidadania. Lisboa: Editorial Estampa, 1989.\n2) BAUMAN, Zygmunt. Comunidade: a busca da segurança no mundo atual. Rio de Janeiro: Jorge Zahar, 2003.\n3) BECKER, Howard S. Métodos de pesquisa em ciências sociais. São Paulo: Hucitec, 1999.\n",
+       "BibliografiaComplementar": "1) BELLONI I, Magalhães h. / Souza L; Metodologia de avaliação em políticas públicas. São Paulo (Cortez) 2003.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NEP130",
+      "Nome": "Tóp Esp Polít Públ Dir Hum I",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Discussão de temas específicos em políticas públicas e direitos humanos com base no processo histórico e nas críticas contemporâneas, proporcionando ao aluno uma visão sobre o alcance e limites da sua proteção e promoção.\n___BIBLIOGRAFIA BÁSICA___\n1) BECKER, Howard S. Métodos de pesquisa em ciências sociais. São Paulo: Hucitec, 1999.\n2) BELLONI I.; Magalhães H.; Souza L; Metodologia de avaliação em políticas públicas. São Paulo (Cortez) 2003.\n3) BOBBIO, Norberto. A era dos direitos. Rio de Janeiro: Campus, 1992.\n4) BOURGUIGNON, Jussara Ayres; OLIVEIRA Jr., Constantino Ribeiro de (Orgs.).  Pesquisa em ciências sociais: interfaces, debates e metodologias. Ponta Grossa (PR): Todapalavra, 2012.\n5) BRASIL, Programa Nacional de Direitos Humanos , PNDH II, Fernando Henrique Cardoso,  Brasília, Presidência da República, Secretaria da Comunicação Social, Ministério da Justiça, 2002.\n6) BUCCI, Maria Paula Dalari Et. al. (Orgs.). Direitos Humanos e políticas públicas. São Paulo: Pólis, 2001.\n7) FAORO, Raymundo. Os donos do poder. Rio de Janeiro, Editora Globo, 1958.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "XEB634",
+      "Nome": "Toxicologia Ambiental",
+      "Créditos": "5.0",
+      "Teórica": "75",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução à toxicologia ambiental: conceito e termos utilizados. Principais fontes de produtos tóxicos e seus efeitos. Efeitos em diferentes organismos: conceitos e metodologias para determinação de toxicidade aguda e crônica. Interação de poluentes ou biotoxinas com a biota: bioacumulação, biotransformação, biomagnificação, biodegradação e eliminação. Organismos como indicadores de qualidade ambiental, biomonitores, bioindicadores e biomarcadores de contaminantes. Avaliação de risco ecológico e para populações humanas.\nBibliografia básica\n1) Khassen, C.D. Watkins, J.B. Fundamentos em Toxicologia de Casarett e Doull. Edição 2. Editora ARTMED, 2012.\n2) Sisinno, C.L.S. Oliveira-filho, E.C. Princípios de Toxicologia Ambiental. Editora Interciência, 2013.\n3) Oga, S. Camargo, M.M.A. Batistuzzo, J.A.O. Fundamentos de Toxicologia. Edição 4 Editora. Atheneu, 2014.\nBibliografia complementar\n1) Artigos de publicação recente das revistas científicas da área de toxicologia ambiental. Indicação dos professores.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BQMK01",
+      "Nome": "Apoio em Bioquímica",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "72",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Aulas semipresenciais de conhecimentos básicos de atomo e moléculas, água, pH, tampões, bioquímica de aminoácidos e proteínas, carboidratos e lipídios: estrutura, propriedades e funções.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EFA047",
+      "Nome": "Atividade Etnopesquisa Dança",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução aos processos de pesquisa etnográfica. Instrumentos, características e tipos de etnopesquisa. Tipos e análises de entrevistas e documentos. A etnopesquisa como associação do saber do senso-comum e científico, que se articulam na busca da pertinência científica e da relevância social do conhecimento produzido.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EFA743",
+      "Nome": "Dança Afro-brasileira A.",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Os elementos básicos da técnica de dança Afro-brasileira. Percepção do eixo, equilíbrio, apoios, dinâmica, postura, alinhamento, quebra, espaço, tempo e forma.\n___ BIBLIOGRAFIA BÁSICA ___\n1) FERNANDES, Ciane. O corpo em movimento. São Paulo: Annablume, 2002.\n2) BERUTTI, Flávio e SANTO, Igor. Comunidades Quilombolas - Espaços de resistência. Belo Horizonte: RHJ, 2012.\n3) PEREIRA, Walmir; TAMAGNO, Liliana. Patrimônio cultural dos povos indígenas. São Paulo: Unisinos, 2012.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCA627",
+      "Nome": "Relações Interétnicas",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Características sócio-econômicas e culturais dos grupos em contato. As situações de contato: variantes estruturais, étnicas e regionais. A questão das definições de identidade. Avaliação dos esquemas teóricos relativos aos contatos interétnicos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "FCA106"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCA663",
+      "Nome": "O Indio no Pens Social Brasil",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O índio na literatura dos cronistas e viajantes. O índio e as sociedades indígenas como objeto de estudos. O indianismo na literatura brasileira: Gonçalves Dias, José de Alencar. Representações e estereótipos com livros didáticos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "FCA106"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEB599",
+      "Nome": "Est da Líng Bras de Sinais I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Nomes próprios; pronomes pessoais; demonstrativos; possessivos; locativos em sentenças simples do tipo pergunta-resposta com \"o que\" e \"quem\" e outros vocábulos básicos; numerais; quantidade; topicalização; flexão verbal; flexão de negação; expressões faciais e corporais; percepção visual; conversação; diálogos; textos: LIBRAS, cultura e comunidade surda.\n",
+       "BibliografiaBasica": "1) BRITO, L. F. Por uma gramática de língua de sinais. Rio de Janeiro: Tempo Brasileiro, 1995.\n2) FELIPE, T.; MONTEIRO, M. S. LIBRAS em contexto. Curso Básico. Brasília: Ministério da Educação e do Desporto/Secretaria de Educação Especial, 2001.\n3) GESSER, A. Libras - Que língua é essa? Crença e preconceitos em torno da língua de sinais e da realidade surda. Florianópolis: Parábola, 2009.\n4) STROBEL, K. L. As imagens do outro sobre a cultura surda. Florianópolis: EdUFSC, 2008.\n",
+       "BibliografiaComplementar": "1) PIMENTA, Nelson e QUADROS, Ronice Muller. Curso de Libras I, LSB Vídeo, volume I, Iniciante, 2006 e 3a ed., 2008.\n2) Dicionário Enciclopédico Ilustrado Triíngue da Língua de Sinais Brasileira ? vol 1 e vol. 2 Site: www.acessobrasil.org.brasil\n3) Dicionário da Língua Brasileira de Sinais, INES, versão, 2.0, ano 2006.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NEP120",
+      "Nome": "Fund Polít Públicas Dir Hum",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Discussão sobre a necessidade e a possibilidade de uma fundamentação filosófica das políticas públicas, para a construção de argumentos racionais na sua implementação e identificação dos principais desafios para sua afirmação e realização. Apresentação de algumas propostas contemporâneas de fundamentação filosófica das políticas em direitos humanos.\n___BIBLIOGRAFIA BÁSICA___\n1) BARBALET, J. M. A Cidadania. Lisboa: Editorial Estampa, 1989.\n2) BAUMAN, Zygmunt. Comunidade: a busca da segurança no mundo atual. Rio de Janeiro: Jorge Zahar, 2003.\n3) BECKER, Howard S. Métodos de pesquisa em ciências sociais. São Paulo: Hucitec, 1999.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) BELLONI I, Magalhães h. / Souza L; Metodologia de avaliação em políticas públicas. São Paulo (Cortez) 2003.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NEP140",
+      "Nome": "Tóp Esp Polít Públ Dir Hum II",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Discussão de temas específicos em políticas públicas e direitos humanos com base no processo histórico e nas críticas contemporâneas, proporcionando ao aluno uma visão sobre o alcance e limites da sua proteção e promoção.\n___BIBLIOGRAFIA BÁSICA___\n1) BECKER, Howard S. Métodos de pesquisa em ciências sociais. São Paulo: Hucitec, 1999.\n2) BELLONI I.; Magalhães H.; Souza L; Metodologia de avaliação em políticas públicas. São Paulo (Cortez) 2003.\n3) BOBBIO, Norberto. A era dos direitos. Rio de Janeiro: Campus, 1992.\n4) BOURGUIGNON, Jussara Ayres; OLIVEIRA Jr., Constantino Ribeiro de (Orgs.).  Pesquisa em ciências sociais: interfaces, debates e metodologias. Ponta Grossa (PR): Todapalavra, 2012.\n5) BRASIL, Programa Nacional de Direitos Humanos , PNDH II, Fernando Henrique Cardoso,  Brasília, Presidência da República, Secretaria da Comunicação Social, Ministério da Justiça, 2002.\n6) BUCCI, Maria Paula Dalari Et. al. (Orgs.). Direitos Humanos e políticas públicas. São Paulo: Pólis, 2001.\n7) FAORO, Raymundo. Os donos do poder. Rio de Janeiro, Editora Globo, 1958.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "XEB635",
+      "Nome": "Qualidade Água e Saúde Pública",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Controle de qualidade de água. Amostragens e análises. Aspectos microbiológicos: doenças de veiculação hídrica, agentes, indicadores, recomendações e monitoramento. Aspectos químicos. Aspectos radiológicos. Determinação de limites máximos aceitáveis. Proteção ambiental e melhoria da qualidade de água. Implicações para a saúde.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     }
+    ]
+   },
+   "obrigatorias": 30,
+   "eletivas": 20,
+   "ano": "2018/1 a 2021/2"
+  },
+  {
+   "materias": {
+    "1º Período": [
+     {
+      "Codigo": "XQM111",
+      "Nome": "Química Geral Estrutural",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceito de modelo. Modelo e realidade física. Simetria: elementos de simetria. Ligação química. Modelos moleculares: dimensões e angulas. Movimentos das moléculas. Forças intermoleculares. Estados físicos. Fases, superfícies, mudanças de fase. Fases complexas: micelas, vesículas e cristais líquidos. Membranas. Macromoleculas naturais e artificiais. Modelos de reação química. Nomenclatura.\n___BIBLIOGRAFIA BÁSICA___\n1) MCMURRY, John. Química Orgânica. vol. 1 e 2. 6 ed. Cengage Learning, 2005.\n2) SOLOMONS, T. W. Graham; Fryhle, Craig B. Química Orgânica, vol. 1 e 2. 9 ed. LTC, 2009.\n3) VOLLHARDT, K. P.; SCHORE, N. E. Química Orgânica - Estrutura e Função, São Paulo: Bookman, 2004.\n4) CAREY, Francis et al. Advanced Organic Chemistry. part A e Part B. 5 ed. Spring Verlag, 2007.\n5) COSTA, P.; FERREIRA, V.; ESTEVES, P. VASCONCELOS, M. Ácidos e Bases em Química Orgânica. São Paulo: Bookman, 2005.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "15:01 - 17:00",
+        "professor": "ROBSON RONEY BERNARDO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XTD053",
+      "Nome": "Inov e Empreend Nanotecnologia",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenvolvimento Tecnológico no Brasil. Criação de novas empresas. O problema do \"star up\". Escolha de idéias. Capital, mercado. Plano de negócios. Produção. Organização da empresa. Crescimento da empresa.\n___BIBLIOGRAFIA BÁSICA___\n1) Michael Porter, Estratégia competitiva, Rio de Janeiro: Campus 1986;\n2) Leonardo Lustosa. Planejamento e controle da produção: Campus 2008;\n3) Eduardo Romeiro Filho. Projeto de produto: Campus 2010.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 12:00",
+        "professor": "RONALDO PEDRO DA SILVA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XXWE01",
+      "Nome": "Introdução à Extensão",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "0",
+      "Extensão": "30",
+      "Informação": {
+       "Info": "Evolução histórica, construção conceitual, princípios e diretrizes da extensão nas universidades públicas. Políticas de extensão universitária na UFRJ e no Brasil. Tipos de ações de extensão, inserção curricular das ações de extensão na UFRJ. Metodologias aplicáveis às ações de extensão. Apresentação e aproximação com as ações de extensão da Unidade e da UFRJ.\n___ BIBLIOGRAFIA BÁSICA ___\nA ser indicada pelo supervisor conforme atividade a ser definida.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "10:01 - 12:00",
+        "professor": "ALINNY ROSENDO ISAAC"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XMT118",
+      "Nome": "Cálculo Diferen e Integral I",
+      "Créditos": "6.0",
+      "Teórica": "90",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Sequências Numéricas; Limites; Continuidade; Cálculo e Aplicação das Derivadas; A Integral Definida; Técnicas de Integração: Logaritmo e Exponencial; Aplicações de integrais definidas; Integral Imprópria.\n___BIBLIOGRAFIA BÁSICA___\n1) SANTOS, A. R.; BIANCHINI, Waldecir. Aprendendo Cálculo com Maple: Cálculo de Uma Variável. 1ª ed. Rio de Janeiro: LTC, 2002.\n2) LEITHOLD, Louis. O Cálculo com Geometria Analítica. 3.ed. São Paulo: Harbra, 2002. vol. 1.\n3) STEWART, James. Cálculo. 4.ed. São Paulo: Pioneira Thomson Learning, 2002. vol. 1.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "10:01 - 12:00",
+        "professor": "ORLANDO SARMIENTO CHUMBES"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XQM114",
+      "Nome": "Química Geral I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estequiometria. Teoria atômica. Classificação periódica dos elementos. Ligação química. Compostos de coordenação. Química Nuclear.\n___BIBLIOGRAFIA BÁSICA___\n1) Química a Ciência Central; Brown, TL, LeMay H E, Bursten, BE and Burdge JR; 9 edição, 2005, Pearson-Prentice Hall;\n2) Princípios de Química; Atkins, P and Jones, L; 2001, Bookman;\n3) Química Geral; Brady J.E. and Humiston, G.E., vol 1 e 2, 1986, 2 edição, Livros Técnicos e Científicos Editora AS;\n4) Chemistry and Chemical Reactivity; Kotz, JC and Purcel KF; 2 edition, 1993, Saunders College Publishing;\n5) Química Geral; Russel JB; 2002, 3 edição, Pearson-Prentice Hall.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:01 - 17:00",
+        "professor": "BIANCA PIZZORNO BACKX"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XTD073",
+      "Nome": "Introdução à Nanotecnologia",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceito e Fundamentos da Nanotecnologia. Morfologia de Materiais Nanoestruturados. Blocos de Construção: nanotubos, nanofios e nanopartículas. Técnicas e Ferramentas de Manipulação Molecular e Atômica. Nanofabricação: \"Positional Assembly\" e \"Self-Replication\". Aplicações.\n___BIBLIOGRAFIA BÁSICA___\n1) DA RÓZ, Alessandra Luzia; LEITE, Fábio de Lima; FERREIRA, Marystela; OLIVEIRA JUNIOR, Osvaldo Novais de. Nanoestruturas: princípios e aplicações. 1 ed. Rio de Janeiro : Elsevier, 2015.\n2) DA RÓZ, Alessandra Luzia; LEITE, Fábio de Lima; FERREIRA, Marystela; OLIVEIRA JUNIOR, Osvaldo Novais de. Grandes Áreas da Nanociência: Princípios e Aplicações. 1 ed. Rio de Janeiro : Elsevier, 2015.\n3) DA RÓZ, Alessandra Luzia; LEITE, Fábio de Lima; FERREIRA, Marystela; OLIVEIRA JUNIOR, Osvaldo Novais de. Técnicas de nanocaracterização. 1 ed. Rio de Janeiro : Elsevier, 2015.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:01 - 17:00",
+        "professor": "NATASHA MIDORI SUGUIHIRO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XXWZ51",
+      "Nome": "Ativ Curricular Extensão - Nan",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "0",
+      "Extensão": "300",
+      "Informação": {
+       "Info": "Atuação em atividades registradas na Pró-reitoria de Extensão da UFRJ, como programas, projetos, cursos de extensão e eventos, coordenados por docentes do quadro permanente ou técnicos de carreira de nível superior na UFRJ.\n___  BIBLIOGRAFIA BÁSICA ___\nBibliografia recomendada pelo coordenador da atividade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "12:01 - 13:00",
+        "professor": "ALINNY ROSENDO ISAAC"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "2º Período": [
+     {
+      "Codigo": "XFS111",
+      "Nome": "Física Experimental I",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução à medida: como medir; como expressar corretamente os valores medidos; estimar a precisão de instrumentos. Dispersão de uma medida: controle de grandezas físicas numa experiência; como caracterizar a dispersão de um conjunto de dados por um indicador apropriado. Cinemática unidimensional: desenvolvimento intuitivo e operacional dos conceitos de velocidade e aceleração. Representação e análise gráfica. Leis de Newton; como definir operacionalmente a inércia e um corpo; relação massa inercial-massa gravitacional. Colisões unidimensionais elásticas,semi-elásticas e inelásticas; modelo teórico de uma colisão unidimensional.\n___BIBLIOGRAFIA BÁSICA___\n1) Halliday, D., Resnick, R. e Walker, J. Fundamentos de Física, volume 1. 9. ed. Rio de Janeiro: LTC, 2012.\n2) Nussenzveig, H. Moysés. Curso de Física Básica, volume 1.  2. ed. São Paulo: E. Blucher, 2014.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:01 - 15:00",
+        "professor": "MARIELLA ALZAMORA CAMARENA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XMT125",
+      "Nome": "Álgebra Linear II",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Sistemas de equações lineares e Eliminação Gaussiana. Matrizes e determinante. Espaços vetoriais Euclidianos. Geometria dos espaços vetoriais de dimensão finita. Transformações lineares. Espaços vetoriais com produto interno. Ortogonalidade e mínimos quadrados. Autovalores e autovetores. Teorema espectral. Aplicações à solução de Equações Diferenciais Ordinárias e em Geometria Euclidiana.\n___BIBLIOGRAFIA BÁSICA___\n1) Anton H., Algebra Linear com aplicaçoes. Porto Alegre: Bookman, 2001;\n2) Boldrini J. L., Costa, S.I.R, Wetzler H.G., Ribeiro, V. L. F. F., Algebra Linear. 3a ed. Sao Paulo: Harbra, 1980;\n3) Steinbruch, W. Algebra Linear. Sao Paulo: Makron Books, 1987.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:01 - 17:00",
+        "professor": "VERNNY URIEL CHAVEZ CCAJMA"
+       },
+       {
+        "dia": "Seg",
+        "hora": "13:01 - 17:00",
+        "professor": "DENIS MOTA DE SOUSA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XQM120",
+      "Nome": "Química Geral II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Gases. Soluções. Termodinâmica. Cinética química.  Equilíbrio químico. Ácidos e bases. Eletroquímica.\n___BIBLIOGRAFIA BÁSICA___\n1) Brady J. E., Russel J. W., Holum J.R, Quimica: a matéria e suas transformaçoes. 3a ediçao, Vol.02.2003. LTC ed S.A, ISBN 85-216-1326-1;\n2) Koltz J. C & Treichel, P. M. Química Geral 2 e reações químicas. Tradução da 5a ediçao norte americana, 2005. Thomsom Learning Ltda. ISBN 85-221-0462-X.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "JOANNA MARIA TEIXEIRA DE AZEREDO RAMOS"
+       }
+      ],
+      "Requisitos": [
+       "XQM114"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XCP124",
+      "Nome": "Programação de Computadores",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Computadores e ambientes de programação. Algoritmos. A linguagem Pascal. Estrutura de um programa. Tipos de variáveis. Comandos de atribuição, entrada e saída. Operadores e expressões. Comandos condicionais e de repetição. Funções e procedimentos. Estruturas de dados em Pascal. Manipulação de caracteres e textos. Solução de problemas diversos em Pascal.\n___BIBLIOGRAFIA BÁSICA___\n1) MENEZES, N. N. C. Introdução à Programação com Python: algoritmos e lógica de programação para iniciantes. São Paulo: Novatec, 2010.\n2) BARRY, P., GRIFFITHS, D. Use a Cabeça: Programação, Rio de Janeiro: Alta Books, 2010.\n3) DOWNEY, A. Pense em Python: pense com um cientista da computação. São Paulo, Novatec, 2016.\n4) MEDINA, M., FERTIG, C. Algoritmos e programação: teoria e prática. São Paulo: Novatec, 2006.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 12:00",
+        "professor": "FRANKLIN DE LIMA MARQUEZINO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XFS112",
+      "Nome": "Física I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução. Vetores. Velocidade e aceleração vetoriais. Os princípios da dinâmica. Aplicações das leis de Newton. Trabalho e energia mecânica. Conservação da energia. Momento linear e conservação do momento linear. Colisões. Rotação e momento angular. Dinâmica de corpos rígidos. Força que varia inversamente ao quadrado da distancia (gravitação).\n___BIBLIOGRAFIA BÁSICA___\n1) Halliday, D., Resnick, R. e Walker, J. Fundamentos de Física, volume 1. 9. ed. Rio de Janeiro: LTC, 2012.\n2) Nussenzveig, H. Moysés. Curso de Física Básica, volume 1. 2. ed. São Paulo: E. Blucher, 2014.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "13:01 - 15:00",
+        "professor": "JOSUE XAVIER DE CARVALHO"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 10:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "XMT118"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XMT128",
+      "Nome": "Cálculo Diferen e Integral II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Equações diferenciais ordinárias de primeira ordem e equações diferenciais ordinárias de segunda ordem com coeficientes constantes.  Curvas e vetores no plano. Vetores no espaço tridimensional e geometria analitica solida: retas e planos. Cilindros e superfícies de resolução, superfícies quadráticas. Regras da cadeia, curvas de nivel. Derivadas direcionais e gradientes; plano tangente e reta normal e superficie; diferencial, superficie de nivel. Máximos e mínimos e multiplicadores de Lagrange.\n___BIBLIOGRAFIA BÁSICA___\n1) BOYCE, W. E.; DIPRIMA, R. C. Equações Diferenciais Elementares e Problemas de Valores de Contorno. 7. ed. Rio de Janeiro: UFRJ, 2004.\n2) PINTO, D.; MORGADO, M. C. F. Cálculo Diferencial e Integral de Funções de Várias Variáveis. 3.ed. Rio de Janeiro: UFRJ, 2004.\n3) STEWART, J. Cálculo. 4. ed. São Paulo: Pioneira Thomson Learning, 2002. vol. 2.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 10:00",
+        "professor": "JORGE ALBERTO BORREGO MORELL"
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 10:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "XMT118"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XQM121",
+      "Nome": "Química Orgânica I",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Alcanos: estrutura e reatividade, radicais livres. Alquenos: estrutura e reatividade. Substituição e eliminação. Alcoois e eteres: preparação, estrutura e reatividade. Aldeidos e cetonas: preparação,estrutura e reatividade. Adições a carbonila. Preparação, estrutura e reatividade. Adições a carbonila. Preparação de alcanos e alquenos.\n___BIBLIOGRAFIA BÁSICA___\n1) SOLOMONS, T. W. G. Química Orgânica, v.2. 6.ed. Rio de Janeiro: LTC, 1996.\n2) BRUICE, Paula Yurkanis. QUÍMICA ORGÂNICA. 4ª Ed., São Paulo: Pearson Prentice Hall, 2006. V1 e V2.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "10:01 - 12:00",
+        "professor": "ROBSON RONEY BERNARDO"
+       }
+      ],
+      "Requisitos": [
+       "XQM111",
+       "XQM114"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "3º Período": [
+     {
+      "Codigo": "XFS121",
+      "Nome": "Física Experimental II",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Dinâmica das rotações: cinemática das rotações, determinação de momento de inércia, pêndulo composto. Movimento oscilatório: movimento harmônico-simples, movimento harmônico amortecido, combinação de movimentos harmônicos. Hidrostática: determinação de viscosidade, determinação de densidade de líquidos e sólidos. Ondas mecânicas: velocidade do som (método de ressonância), cordas vibrantes. Calorimetria: capacidade calorífica, equivalente mecanico.\n___BIBLIOGRAFIA BÁSICA___\n1) Halliday, D., Resnick, R. e Walker, J. Fundamentos de Física, volume 2. 9. ed. Rio de Janeiro: LTC, 2012.\n2) Nussenzveig, H. Moysés. Curso de Física Básica, volume 2.  2. ed. São Paulo: E. Blucher, 2014.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:01 - 15:00",
+        "professor": "BEATRIZ BLANCO SIFFERT"
+       }
+      ],
+      "Requisitos": [
+       "XFS111",
+       "XFS112"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XGB125",
+      "Nome": "Genética Molecular I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Composição e estrutura de ácidos nucleicos. Estrutura de cromatina. Conceito de genes, organização gênica e famílias gênicas. Replicação de DNA. Reparo de DNA. Tipos de RNA e características estruturais. Transcrição em procariotos e eucariotos.  Maturação e processamento de RNAs.  Biossíntese de proteínas.\n___BIBLIOGRAFIA BÁSICA___\n1) ALBERTS, B. et al. Biologia molecular da célula. 5. ed. Porto Alegre: Artmed, 2009.\n2) NICHOLAS H. ACHESON, Fundamentals of Molecular Virology. 2nd Edition, Wiley, 2011.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:01 - 17:00",
+        "professor": "JANAINA FERNANDES"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XQM231",
+      "Nome": "Química Experimental",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução ao laboratório e normas de segurança. Cristalização Fracionada. Sistemas Coloidais e suas Propriedades. Equilíbrio Químico. Cinética Química. Oxirredução. Eletrólise. Compostos de Coordenação. Síntese e Propriedades dos seguintes elementos e alguns de seus compostos: Nitrogênio, Oxigênio, Hidrogênio, Enxofre, Hologênios, Ferro e Níquel.\n___BIBLIOGRAFIA BÁSICA___\n1) Apostila de química experimental;\n2) Brown T.L., LeMay H.E., Bursten B.E. And Burge J.R. - Química a Ciência Central - 9 ed. 2005, Pearson-Prentice Hall;\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 12:00",
+        "professor": "IGOR ALVES DA SILVA"
+       }
+      ],
+      "Requisitos": [
+       "XQM114"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XBQ122",
+      "Nome": "Bioquímica",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Aminoácidos; técnicas de purificação de proteínas; estruturas covalentes de proteínas; estruturas 3D de proteínas; enrolamento de proteínas; dinâmica e evolução estrutural; açúcares e polisacarídeos; lipídeos e biomembranas. Princípios de enzimologia; velocidade de reação enzimática; catálise.\n___BIBLIOGRAFIA BÁSICA___\n1) David L. Nelson e Michael M. Cox. Princípios de Bioquímica de Lehninger. Editora Artmed;\n2) Lubert Stryer. Bioquímica - Editora: Guanabara Koogan;\n3) Donald Voet, Judith G. Voet e Charlotte W.Pratt - Fundamentos de Bioquímica - Editora: Artmed;\n4) Harvey, Richard A. Bioquímica Ilustrada - Editora: Artmed.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "GISELE CARDOSO DE AMORIM"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "FABIANA AVILA CARNEIRO"
+       },
+       {
+        "dia": "Qui",
+        "hora": "15:01 - 17:00",
+        "professor": ""
+       },
+       {
+        "dia": "Qui",
+        "hora": "15:01 - 17:00",
+        "professor": "GISELE CARDOSO DE AMORIM"
+       }
+      ],
+      "Requisitos": [
+       "XQM114"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XFS122",
+      "Nome": "Física II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Oscilações: oscilações amortecidas e forçadas. Ondas. Som. Fluidos. Temperatura. Calor: primeira Lei da Termodinâmica. Propriedades dos gases. Segunda Lei da Termodinâmica. Teoria cinética dos gases. Transferência de calor e de massa.\n___BIBLIOGRAFIA BÁSICA___\n1) Halliday, D., Resnick, R. e Walker, J. Fundamentos de Física, volume 2. 9. ed. Rio de Janeiro: LTC, 2012.\n2) Nussenzveig, H. Moysés. Curso de Física Básica, volume 2. 2. ed. São Paulo: E. Blucher, 2014.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "10:01 - 12:00",
+        "professor": "CARSTEN ENDERLEIN"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:01 - 15:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "XFS112"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XMT238",
+      "Nome": "Cálculo Diferen e Integral III",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Definição de integrais duplas e integrais triplas. Jacobiano em R2 e R3. Mudança de variável na integral dupla e na integral tripla. Integral de linha de plano: teorema de Green e campos conservativos. Parametrização de curvas no R3. Integral de linha no espaço. Integrais de superfície. Teorema de Gauss. Teorema de Stokes e independência de caminho.\n___BIBLIOGRAFIA BÁSICA___\n1) Hamilton L. Guidorizzi, Um Curso de Cálculo volume 3 ? LTC editora;\n2) Diomara Pinto e Maria Cândida Ferreira Morgado, Cálculo Diferencial e Integral de Funções de Várias Variáveis ? Editora UFRJ;\n3) James Stewart, Cálculo volume 2 ? CENGAGE Learning;\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "08:01 - 10:00",
+        "professor": "RENAN HENRIQUE FINDER"
+       },
+       {
+        "dia": "Seg",
+        "hora": "08:01 - 10:00",
+        "professor": "ORLANDO SARMIENTO CHUMBES"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:01 - 15:00",
+        "professor": ""
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:01 - 15:00",
+        "professor": "RENAN HENRIQUE FINDER"
+       }
+      ],
+      "Requisitos": [
+       "XMT128"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XQM232",
+      "Nome": "Química Orgânica II",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Alquinos e dienos: estrutura, preparação e reatividade. Benzeno e aromaticidade. Derivados de benzeno: preparação e reativivdade. Ácidos carboxílicos e seus derivados: preparação e reatividade. Poliaromaticos: estrutura e reatividade. Carboidratos. Amino-acidos e peptideos.\n___BIBLIOGRAFIA BÁSICA___\n1) SOLOMONS, T.W.G. Química Orgânica, v.2. 6.ed. Rio de Janeiro: LTC, 1996.\n2) BRUICE, Paula Yurkanis. QUÍMICA ORGÂNICA Vol 1. 4ª Ed., São Paulo: Pearson Prentice Hall, 2006.\n3) BRUICE, Paula Yurkanis. QUÍMICA ORGÂNICA Vol 2. 4ª Ed., São Paulo: Pearson Prentice Hall, 2006.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 10:00",
+        "professor": "ROBSON RONEY BERNARDO"
+       }
+      ],
+      "Requisitos": [
+       "XQM121"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "4º Período": [
+     {
+      "Codigo": "XBT118",
+      "Nome": "Biologia Celular",
+      "Créditos": "6.0",
+      "Teórica": "90",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Membrana plasmática - estrutura, fluidez e domínios; Transporte através da membrana; Receptores e sinalização Celular; Endocitose e lisossomas: Secreção celular - retículo endoplasmático, complexo de Golgi, organização e funções; Tráfego de Vesículas; Citoesqueleto - microtúbulos, microfilamentos, filamentos intermediários; Mitocôndrias; Cloroplastos; Peroxissomas; Controle do ciclo celular; divisão celular; Núcleo interfásico.\n___BIBLIOGRAFIA BÁSICA___\n1) Molecular Biology of The Cell. Albert, Johnson, Lewis, Raff, Roberts, Walter. Garland Eds, 5th edition , 2007. Ou 2th Edition;\n2) Fundamentos de Biologia Celular. Karen Hopkin, Dennis Bray, Bruce Albert. Artmed, 3a edição, 2011.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:01 - 15:00",
+        "professor": "JULIANY COLA FERNANDES RODRIGUES"
+       },
+       {
+        "dia": "Qui",
+        "hora": "10:01 - 12:00",
+        "professor": ""
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 10:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XFS232",
+      "Nome": "Física III",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Lei de Coulomb. Campos elétricos. Lei de Gauss. Potencial Elétrico, capacitores, correntes e circuitos. Campos magnéticos, leis de Ampere e Biot - Savart, Lei de Faraday, indutância, corrente de deslocamento. Circuitos de corrente alternada, equações de Maxwell.\n___BIBLIOGRAFIA BÁSICA___\n1) Halliday, D., Resnick, R. e Walker, J. Fundamentos de Física, volume 3. 9. ed. Rio de Janeiro: LTC, 2012.\n2) Nussenzveig, H. Moysés. Curso de Física Básica, volume 3.  2. ed. São Paulo: E. Blucher, 2014.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 10:00",
+        "professor": "MONICA DE MESQUITA LACERDA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:01 - 15:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "XFS112",
+       "XMT128"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XMA353",
+      "Nome": "Estrutura dos Sólidos",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estrutura dos átomos; ligações interatomicas; coordenação atômica; cristalografia; cristais reais; estruturas não cristalinas; diagramas de fase; soluções sólidas e compostos intermetálicos; metais; polímeros; cerâmicos.\n___BIBLIOGRAFIA BÁSICA___\n1) Callister William D., Rethwish David G., Ciência e engenharia de materiais: uma introdução 8 ed Rio de Janeiro LTC, 2016;\n2) Charles Kittel, Introdução a Física do estado sólido, 8a edição, LTC.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:01 - 17:00",
+        "professor": "KARIM DAHMOUCHE"
+       }
+      ],
+      "Requisitos": [
+       "XQM114"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XBQ240",
+      "Nome": "Metabolismo A.",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Princípios de bioenergética; Metabolismo de Açúcares: glicólise aeróbica e anaeróbica; Identificação de intermediários metabólicos; Ciclo de Krebs; Fosforilação oxidativa; Teoria quimiosmótica: Síntese e degradação do Glicogênio; Metabolismo de lipídeos: Síntese e degradação de àcidos graxos; Produção de Corpos Cetônicos; Metabolismo de proteínas: Degradação de aminoácidos e Ciclo da Uréia; Regulação hormonal.\n___BIBLIOGRAFIA BÁSICA___\n1) NELSON, D.L. & COX, M. M. LEHNINGER. Princípios de Bioquímica. 7ed. São Paulo: Sarvier, 2019.\n2) VOET, D.; VOET, J. G.; PRATT, C. W. Bioquímica. 4.ed. Porto Alegre: Artmed, 2013.\n3) STRYER, L. Bioquímica. 7ed. Rio de Janeiro: Guanabara Koogan, 2014.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "LUISA ANDREA KETZER"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "CAROLINA ALVARES DA CUNHA DE AZEREDO BRAGA"
+       }
+      ],
+      "Requisitos": [
+       "XBQ122"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XFS231",
+      "Nome": "Física Experimental III",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Campo Elétrico; Instrumentos de medida, Lei de Coulomb, mapeamento de campo elétrico, potencial elétrico. Corrente contínua: Lei de Ohm, resistores ôhmicos. F. E. M.: determinação da FEM de um gerador e pilha padrão.Circuitos potencipmátricos, resistências em série e paralelo, ponte de Wheatstone. Circuito RC: descarga de capacitor, determinação da capacitância e da constante de tempo. Práticos de osciloscópio. Figuras de batimento,circuito RC.\n___BIBLIOGRAFIA BÁSICA___\n1) Halliday, D., Resnick, R. e Walker, J. Fundamentos de Física, volume 3. 9. ed. Rio de Janeiro: LTC, 2012.\n2) Nussenzveig, H. Moysés. Curso de Física Básica, volume 3.  2. ed. São Paulo: E. Blucher, 2014.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "08:01 - 10:00",
+        "professor": "JUAN MARTIN OTALORA GOICOCHEA"
+       }
+      ],
+      "Requisitos": [
+       "XFS121"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XMA240",
+      "Nome": "Introdução a Polímeros",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Polímeros: Conceituação e Classificação; reações de polimerização; técnicas de polimerização; definição de massa molar e métodos de determinação; caracterização estrutural; conceitos básicos de propriedades térmicas, mecânicas e óticas; principais processos de transformação de polímeros.\n___BIBLIOGRAFIA BÁSICA___\n1) Mano, E. B. Mendes, L. C. Introdução a polímeros. São Paulo: Edgard Blucher, 1999;\n2) Canevarolo Jr, S. V. Ciência de polímeros. São Paulo: Artliber, 2002.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "08:01 - 12:00",
+        "professor": "FELIPE FORTES DE LIMA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "XMT248",
+      "Nome": "Cálculo Diferen e Integral IV",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Série de potências; resolução de equações diferenciais lineares ordinárias de segunda ordem com coeficientes variáveis: soluções por série próximo a um ponto ordinário; soluções por série próximo a um ponto regular (método de Frobenius). Transformada de Laplace; série de Fourier. Problemas de valores de contorno e teoria de Sturm-Liouville. Equações diferenciais parciais clássicas: onda; calor; Laplace: Dirichlet no retângulo e Dirichlet no círculo.\n___BIBLIOGRAFIA BÁSICA___\n1) James Stewart. Cálculo Volume 2, ed Thomson;\n2) William Boyce e Richard DiPrima. Equações diferenciais elementares e problemas de valores de contorno, ed. LTC;\n3) Louis Leithold. O Cálculo com geometroa analítica vol.2, ed. Harbra.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "10:01 - 12:00",
+        "professor": "JORGE ALBERTO BORREGO MORELL"
+       },
+       {
+        "dia": "Qua",
+        "hora": "10:01 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "XMT128"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ]
+   },
+   "obrigatorias": 28,
+   "eletivas": 0,
+   "ano": "2022/1 a 9999/9"
+  }
+ ]
+}

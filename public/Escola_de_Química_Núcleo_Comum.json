@@ -1,0 +1,1324 @@
+{
+ "Escola de Química (Núcleo Comum)": [
+  {
+   "materias": {},
+   "obrigatorias": 0,
+   "eletivas": 0,
+   "ano": "1982/1 a 1991/2"
+  },
+  {
+   "materias": {},
+   "obrigatorias": 0,
+   "eletivas": 0,
+   "ano": "1992/1 a 1995/2"
+  },
+  {
+   "materias": {},
+   "obrigatorias": 0,
+   "eletivas": 0,
+   "ano": "1996/1 a 2003/2"
+  },
+  {
+   "materias": {
+    "1º Período": [
+     {
+      "Codigo": "EQE112",
+      "Nome": "Introdução Cálculos Processos",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Principais componentes de um processo. Dimensões, unidades e sistemas de unidades. Parâmetros utilizados na descrição de correntes de processos. Balanço material, em regime estacionário, em processos sem e com reação química. Estequiometria industrial. Sistemas operacionais, linguagens e ambientes de programação, planilhas eletrônicas. Programação algoritmos e comandos de fluxo. Aplicações em problemas envolvendo balanços materiais. Apresentação de simuladores de processos químicos.\n",
+       "BibliografiaBasica": "1) Himmelblau, D.M. (1998) Engenharia Química. Princípios e Cálculos. 6ª Edição. Prentice-Hall do Brasil, Rio de Janeiro. Caps. 1 a 3.\n2) Felder, R. M. e Rousseau, R.W. (1989) Elementary Principles of Chemical Processes. 2nd Edition, John Wiley & Sons, Nova York.\n3) Brasil, N. I. (1999) Introdução à Engenharia Química. Editora Interciência, Rio de Janeiro. Caps. 1 a 4.\n4) Pessoa, F. L. P.; Queiroz, E. M.; Costa, A. H. (2001) Introdução aos Processos Químicos. Apostila DEQ/EQ/UFRJ.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IQG115",
+      "Nome": "Química Geral Eq",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Teoria Atômica. Classificação Periódica dos Elementos. Ligação Química. Ácidos e Bases. Compostos de Coordenação. Processos Nucleares.\n",
+       "BibliografiaBasica": "1) Brandy, J.E. e Humiston, G.E. (1981) Química Geral. Livros Técnicos e Científicos Editora S.A., Rio de Janeiro.\n2) Russel, J.B. (1982) Química Geral. Editora McGraw-Hill do Brasil Ltda. Rio de Janeiro.\n3) Quagliano, J. V. e Vallarino, L. M. (1973) Química. Editora Guanabara Dois. Rio de Janeiro.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EEG111",
+      "Nome": "Fundamentos de Desenho Técnico",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Apresentação de Desenho Técnico. Vistas ortográficas principais e cotagem. Cortes e seções. Desenho para instalações industriais (layout, fluxogramas e convenções). Desenho isométrico e de tubulações. Noções básicas de CAD.\n",
+       "BibliografiaBasica": "1) French, T. E. (1941). Desenho Técnico. 6ª edição, Editora Globo. Porto Alegre.\n2) Dobrevolny, Springer & Hoelscher (1978). Expressão Gráfica ? Desenho Técnico. Livros Técnicos e Científicos Editora S.A., Rio de Janeiro.\n3) Telles, D. C. S. (1982). Tubulações Industriais ? Materiais, Projeto e Desenho. 6ª edição. Livros Técnicos e Científicos Editora S. A., Rio de Janeiro.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EQW112",
+      "Nome": "Introdução Proc Quím Bioquímic",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução de conceitos e áreas de atuação dos profissionais das industrias química e bioquímica. Sistema de busca bibliográfica. Base da Ind. Química. Formulações de produtos. Polímeros. Tecnologia de processos fermentativos e enzimáticos, inorgânicos e de alimentos. Desenvolvimento de bioprocessos. Meio ambiente e controle de poluição. Patentes. Gestão Tecnológica. Materiais e Corrosão. Qualidade da água. Segurança em laboratório. Prática: Instrumental básico de laboratório. Visitas técnicas.\n",
+       "BibliografiaBasica": "1. Borzani, W.; Schmidel, W.; Lima, U.A e Aquarone, E. (eds) (2001)\nBiotecnologia Industrial. Volumes 1 ? 4. Ed. Edgar Blucher, São Paulo.\n2. Rovere, E. et col. (2000) Manual Auditoria Ambiental, Ed. Qualitymark. p.\n140.\n3. Araújo, H. e Azambuja, C. (1992) Treating Effluents and Preserving Nature.\nEd. Senai-Cetiqt. p. 73.\n4. Shreve, R.N. e Brink Jr, J.A. (1980) Indústrias de Processos Químicos. 4a\nEdição. Ed. Guanabara Dois. Rio de Janeiro.\n",
+       "BibliografiaComplementar": "1. Farah, M. A. Petróleo e seus derivados, LTC, 2012.\n2. Pollak, P. Fine Chemicals: the industry & the business, 2nd ed, Wiley,\n2010.\n3‐ Química Ambiental ? Colin Baird ? 2ª. Edição, Editora Bookman.\n4- Pereira Jr., N; Bom, E.P.S. e Ferrara, M.A. ?Tecnologia de Bioprocessos?.\nIn Séries em Biotecnologia. Ed. Amiga Digital (RJ), 2008.\n5- GAVA, A.J. et al. Tecnologia de alimentos: princípios e aplicações. Nobel,\n2009, 511 p.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAC118",
+      "Nome": "Cálculo Difer e Integral I",
+      "Créditos": "6.0",
+      "Teórica": "90",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Técnicas de Integração. Integral Imprópria.\n",
+       "BibliografiaBasica": "1) SANTOS, A. R.; BIANCHINI, Waldecir. Aprendendo Cálculo com Maple: Cálculo de Uma Variável. 1ª ed. Rio de Janeiro: LTC, 2002.\n2) LEITHOLD, Louis. O Cálculo com Geometria Analítica. 3.ed. São Paulo: Harbra, 2002. vol. 1.\n3) STEWART, James. Cálculo. 4.ed. São Paulo: Pioneira Thomson Learning, 2002. vol. 1.\n",
+       "BibliografiaComplementar": "1) ANTON, H.; BIVIS. I.; DAVIS, S. Cálculo, Vol. I. 8ª ed. Editora Harbra.\n2) APOSTOL, TOM M. Calculus, Vol. 1: One Variable Calculus With an Introduction to Linear Algebra. 2ª ed. - Ed. Wiley.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "2º Período": [
+     {
+      "Codigo": "FIT112",
+      "Nome": "Física I - a",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução. Vetores. Velocidade e aceleração vetoriais. Os princípios da dinâmica. Aplicações das leis de Newton. Trabalho e energia mecânica. Conservação da energia. Momento linear e conservação do momento linear. Colisões. Rotação e momento angular. Dinâmica de corpos rígidos. Força que varia inversamente ao quadrado da distancia (gravitação).\n___ BIBLIOGRAFIA BÁSICA ___\n1) Física para Cientistas e Engenheiros, v.1. Mecânica, Oscilações e Ondas, Termodinâmica (6ª edição).\n2) Fundamentos de Física (4ª edição) D. Halliday. R. Resnick and J. Walker - John Wiley & Sons, Inc.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IQA122",
+      "Nome": "Química Analítica Exp. I",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Técnicas de Laboratórios de Química Analítica. Grupos Analíticos dos Cátions. Grupos Analíticos e Caráter Redox dos Ânions. Separação e Identificação de Ânions. Determinações Gravimétricas\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "EQW112"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IQO130",
+      "Nome": "Química Orgânica Exp I - Eq",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução: regras básicas de segurança em laboratório, uso de equipamentos básicos de laboratório, uso do Handbook de Química. Aquecimento: equipamentos e cuidados; síntese de bromoetano. Refrigeração: misturas refrigerantes, tipos de condensadores, técnicas operacionais, destilação; curvas de destilação, diagrama de equilíbrio, colunas de retificação; síntese de acetato de etila.\n",
+       "BibliografiaBasica": "1. Miller, J.A. e Neuzil, E.F. (1981). Modern Experimental Organic\nChemistry. D.C. Heath & Co.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "EQW112"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIS111",
+      "Nome": "Física Experimental I",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução à medida: como medir. Como expressar corretamente os valores medidos. Estimar a precisão de instrumentos. Dispersão de uma medida: controle de grandezas físicas numa experiência. Como caracterizar a dispersão de um conjunto de dados por um indicador apropriado. Cinemática unidimensional: desenvolvimento intuitivo e operacional dos conceitos de velocidade e aceleração. Representação e análise gráfica. Leis de Newton. Como definir operacionalmente a inércia e um corpo. Relação massa inercial-massa gravitacional. Colisões unidimensionais elásticas, semi-elásticas e inelásticas. Modelo teórico de uma colisão unidimensional.\n",
+       "BibliografiaBasica": "1) Apostila de Física Experimental I. Instituto de Física, UFRJ.\n2) Fundamentos da Teoria de Erros. J.H. Vuolo.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IQA121",
+      "Nome": "Química Analítica",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Equilíbrio Iônico. Formação e dissolução de precipitados. Separações por precipitação. Gravimetria. Equilíbrios Simultâneos. Volumetria e equilíbrio de Neutralização. Volumetria para precipitação. Volumetria e equilíbrio de oxi-redução. Volumetria e equilíbrio de complexação.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "IQA122(C)",
+       "IQG115"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IQO128",
+      "Nome": "Química Orgânica I - EQ",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Alcanos, alquenos e Alquinos: nomenclatura, reatividade, radicais livres, estereoquímica e nomenclatura R/S. Dienos. Halogenetos de alquila. Reagentes organometálicos. Álcoois e éteres. Aldeídos e cetonas. Benzeno e aromaticidade. Heterocíclicos aromáticos. Poliaromáticos.\n",
+       "BibliografiaBasica": "1) Morrison, R. T. and Boyd, R. N. (1999). Organic Chemistry. 6th Ed. Prentice Hall.\n2) Solomons, T. W. G.; Fryhle, C. B.; Solomons, T. G. (1999). Organic Chemistry. 7th Ed. John Wiley.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "IQG115"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAC128",
+      "Nome": "Cálculo Diferen e Integral II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Equações Diferenciais Ordinárias de Primeira  Ordem. Equações Diferenciais Ordinárias Lineares de Segunda Ordem com Coeficientes Constantes. Curvas e Vetores no Plano. Vetores no Espaço Tridimensional e Geometria Analítica Sólida. Funções de R2 em R. Funções de R3 em R. Máximos e Mínimos de Funções de R2 em R. Máximos e Mínimos de Funções de R3 em R.\n",
+       "BibliografiaBasica": "1) BOYCE, W. E.; DIPRIMA, R. C. Equações Diferenciais Elementares e Problemas de Valores de Contorno. 7. ed. Rio de Janeiro: UFRJ, 2004.\n2) PINTO, D.; MORGADO, M.C.F. Cálculo Diferencial e Integral de Funções de Várias Variáveis. 3.ed. Rio de Janeiro: UFRJ, 2004.\n3) STEWART, J. Cálculo. 4. ed. São Paulo: Pioneira Thomson Learning, 2002. vol. 2.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 15:00",
+        "professor": "AFTAB PANDE"
+       },
+       {
+        "dia": "Sex",
+        "hora": "13:00 - 15:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MAC118"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "3º Período": [
+     {
+      "Codigo": "FIN231",
+      "Nome": "Física Experimental III",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Instrumentos de Medidas Elétricas. Resistores. Capacitores. Tensões e Correntes Alternadas. Campos Magnéticos Estáticos.\n",
+       "BibliografiaBasica": "1)  Apostila de Física Experimental III, Instituto de Física, UFRJ.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "FIS121"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IQF241",
+      "Nome": "Termodinâmica Clássica",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Gases ideais e reais. Primeira lei da Termodinâmica.  Termoquímica.  Segunda lei da Termodinâmica.  Funções de Gibbs e Helmholtz.  Termodinâmica de sistemas abertos.  Termodinâmica das substâncias puras.  Soluções.  Grandezas parciais molares.  Solução ideal, estados padrões.  Propriedades coligativas.  Equilíbrio líquido-vapor de soluções ideais. Solução não- ideal.  Azeotropismo.  Equilibrio químico.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MAC128"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IQO235",
+      "Nome": "Química Orgânica II-EQ",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Aminas. Anilinas. Fenóis. Ácidos carboxílicos. Ésteres, lactonas, halogenetos de acila, anidridos, amidas e nitrilas: mecanismo de reação. Compostos polifuncionais carbolinados. Síntese de B-ceto-ésteres, condensações, descarboxilação, alquilação de B-ceto-ésteres, sínteses via ésteres aceto-acético e malônico. Compostos alfa, beta insaturados, ácidos dicarboxílicos. Introdução à síntese orgânica: grupos de proteção, rearranjos de cadeias de carbono; adições de Michael e anelação de Robinson.\n",
+       "BibliografiaBasica": "1) Morrison, R.T. and Boyd, R.N. (1999) Organic Chemistry. 6th Ed. Prentice Hall.\n2) Solomons, T. W. G.; Fryhle, C. B.; Solomons, T .G. (1999) Organic Chemistry. 7th Ed. John Wiley.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "IQO128"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIM230",
+      "Nome": "Física III - a",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Lei de Coulomb. Campos elétricos. Lei de Gauss. Potencial Elétrico, capacitores, correntes e circuitos. Campos magnéticos, leis de Ampere e Biot - Savart, Lei de Faraday, indutância, corrente de deslocamento. Circuitos de corrente alternada, equações de Maxwell.\n",
+       "BibliografiaBasica": "1) Física, volume 2. Eletricidade e Magnetismo, Ótica (5ª edição). Paul A. Tipler e Gene Mosca. LTC Editora S.A.\n2) Curso de Física Básica, volume 1. Mecânica, Oscilações e Ondas. H. Moysés Nussenzveig - Editora Edgard Blücher Ltda.\n3) Fundamentos de Física (4ª edição). D. Halliday. R. Resnick e J. Walker - John Wiley & Sons, Inc.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "FIT112",
+       "MAC128"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IQA243",
+      "Nome": "Química Analítica Exp II",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Volumetria Ácido-Base. Volumetria Redox. Volumetria de Precipitação. Volumetria de Complexos.\n",
+       "BibliografiaBasica": "1. Vogel, A.I. Química Analítica Quantitativa. Vol. I.\n2. Kolthoff, I.M. e Sandell, E.B. Textbook of Quantitative Inorganic Analysis.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "IQA121",
+       "IQA122"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IQG231",
+      "Nome": "Química Experimental EQ",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução ao laboratório e normas de segurança. Cristalização Fracionada. Sistemas Coloidais e suas Propriedades. Equilíbrio Químico. Cinética Química. Oxirredução. Eletrólise. Compostos de Coordenação. Síntese e Propriedades dos seguintes elementos e alguns de seus compostos: Nitrogênio, Oxigênio, Hidrogênio, Enxofre, Hologênios, Ferro e Níquel.\n",
+       "BibliografiaBasica": "1) Brandy, J. E. e Humiston, G. E. (1981) Química Geral. Livros Técnicos e Científicos Editora S.A., Rio de Janeiro.\n2) Russel, J. B. (1982) Química Geral. Editora McGraw-Hill do Brasil Ltda. Rio de Janeiro.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "IQG115"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAC238",
+      "Nome": "Cálculo Diferen e Integral III",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Integrais Múltiplas. Integrais de Linha. Integrais de Superfície. Teorema de Gauss. Teorema de Stokes.\n",
+       "BibliografiaBasica": "1) PINTO, D.; MORGADO, M. C. F. Cálculo Diferencial e Integral de Funções de Várias Variáveis. 3ª ed. Rio de Janeiro: UFRJ, 2004.\n2) TROMBA, A. J.; MARSDEN, J. E. Vector Calculus. 5ª ed. New York: W. H. Freeman & Company, 2003.\n3) ANTON, H. Cálculo: Um Novo Horizonte. 6ª ed. Porto Alegre: Bookman, 2000. vol.2.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "15:00 - 17:00",
+        "professor": "JUAN SEBASTIAN FORERO CARDOZO"
+       },
+       {
+        "dia": "Qui",
+        "hora": "15:00 - 17:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MAC128"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "4º Período": [
+     {
+      "Codigo": "IQF351",
+      "Nome": "Fenôme de Superfície e Eletroq",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Adsorção em superfícies líquidas. Tensão superficial. Dispersões coloidais. Interações moleculares.  Soluções de macromoléculas.  Propriedades elétricas e ópticas de macromoléculas e dispersões coloidais.  Termodinâmica dos processos de transporte.  Viscosidade.  Solução de eletrólitos.  Condução iônica.  Transporte em eletrodos.  Equilíbrio eletroquímico.  Pilhas eletroquímicas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "IQF241"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IQO246",
+      "Nome": "Química Orgânica Exp Ii-eq",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Destilação com arraste a vapor, destilação seca, sublimação, filtração, cristalização; síntese de nitrofenol. Controle de qualidade, grupo protetor, cálculo de rendimento; síntese da acetanilida, purificação. Síntese da p-nitroacetanilida. Síntese da p-nitroanilina. Cálculo de rendimento em processos de múltiplas etapas, avaliação de perdas. Síntese de vermelho de monolite. Controle de qualidade de matéria-prima, controle de processo e produto; preparação de sabão.\n",
+       "BibliografiaBasica": "1. Miller, J.A. e Neuzil, E.F. (1981). Modern Experimental Organic Chemistry. D.C. Heath & Co.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "IQO128",
+       "IQO130"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAE245",
+      "Nome": "Álgebra Linear II - EQ",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Matrizes. Sistemas de equações lineares. Espaços vetoriais reais. Transformações lineares. Auto valores e auto vetores. Resolução de sistemas de equações diferenciais lineares de primeira ordem a coeficientes constantes. Produto interno. Complemento ortogonal. Formas lineares, bilineares e quadráticas.\n",
+       "BibliografiaBasica": "1) Little, J. e Damiano, D. B. (1988) A Course in Linear Algebra. International Thomson Pub.\n2) Cohn, P. M. e Rao, A. R. (1994) Elements of Linear Algebra. CRC Press.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MAC128"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IQB248",
+      "Nome": "Bioquímica EQ",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Teoria: Introdução à Bioquímica e Células. Aminoácidos. Peptídeos e Proteínas. Enzimas. Bioenergética. Oxidações biológicas. Metabolismo. Ácidos nucleicos. Fundamentos da evolução biológica. Prática: Espectrofotometria; varredura do espectro. Aminoácidos: reações específicas e geral e cromatografia em papel. Aminoácidos; eletroforese e cromatografia de troca iônica. Proteínas; solubilidade e dosagem. Glicídeos redutores: dosagem. Cinética enzimática: determinação de Km e Vmax.\n",
+       "BibliografiaBasica": "1. Voet, D. e Voet, J.G. (1995) Biochemistry. 2a ed. John Wiley & Sons, Nova\nYork.\n2. Devlin, T.M. (1997) Textbook of Biochemistry with Clinical Correlation. 4a ed. Wiley-Liss, Nova York.\n3. Lehninger, A. Nelson, D.L., Cox, M.M. (2000) Principles of Biochemistry. 3a ed. Worth Publishers, Nova York.\n",
+       "BibliografiaComplementar": "1. Stryer, L. (1999) Biochemistry. 7a ed. W.H. Freeman and Co., Nova York.\n2. Depart. de Bioquímica/Univer. Federal do Rio de Janeiro (2000) Cursos\nPráticos em Bioquímica. 10a ed. IQ/UFRJ, Rio de Janeiro. 298 p.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "IQF244",
+       "IQO235"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IQF353",
+      "Nome": "Equi Fases Sist Multicompostos",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A regra das fases. Sistemas com dois componentes. Modelos teóricos de soluções não-ideias. Equilíbrios líquido-vapor, líquido-líquido e sólido-líquido em sistemas binários. Equilíbrio em sistemas ternários e multicomponentes.\n",
+       "BibliografiaBasica": "1) Berry, R. S.; Rice, S. A.; Ross, J. (2000) Physical Chemistry. 2ª ed.\n2) Levine, I. N. (2002) Physical Chemistry. 5ª  ed.\n3) McQuarrie, D. A. e Simon, J. D. (1997) Physical Chemistry ? A Molecular Approach.\n4) Atkins, P. W. e de Paula, J. (2002) Physical Chemistry. 7ª  ed.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "IQF231"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAC248",
+      "Nome": "Cálculo Diferen e Integral IV",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Serie de potências; resolução de equações diferenciais lineares ordinárias de segunda ordem com coeficientes variáveis: soluções por série próximo a um ponto ordinário; soluções por série próximo a um ponto regular (método de Frobenius). Transformada de Laplace; série de Fourier. Problemas de valores de contorno e teoria de Sturm-Liouville. Equações diferenciais parciais clássicas: onda; calor; Laplace: Dirichlet no retângulo e Dirichlet no círculo.\n",
+       "BibliografiaBasica": "1) Cálculo, volume 2 de James Stewart.\n2) Cálculo com Geometria Analítica, volume 2, Louis Leithold.\n3) Equações Diferenciais Elementares e Problemas de Valores de Contorno, de William E. Boyce e Richard C. DiPrima.\n4) Equações Diferenciais, volumes 1 e 2, de Dennis G. Zill.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MAC128"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "Disciplinas Optativas (Escolha Restrita)": [
+     {
+      "Codigo": "EQW042",
+      "Nome": "Formação Industrial do Brasil",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Unidades Fabris pré-30 e a relação com a economia agrária exportadora. Escravidão e desenvolvimento no século 19. O Processo de Industrialização:\nA crise dos anos 30 e a transição para uma economia industrial. Aplicação de metodologia científica em pesquisas envolvendo teorias de industrialização. O Processo de Substituição de Importações. O Plano de Metas e a Industrialização Pesada. Crise dos anos 60 e as bases para a retomada do crescimento. O Milagre econômico e II PND. Os choques de petróleo e suas consequências: crise da dívida, hiperinflação e estabilização da economia nacional. Formação e evolução da indústria química brasileira e correlatas. Questões éticas e sociais na indústria.\nTransformações econômicas na década de 90 e impactos na Indústria química brasileira e correlatas.\n",
+       "BibliografiaBasica": "1) Mello, J. M. C. (1982) O Capitalismo Tardio. Editora Brasiliense, São Paulo.\n2) Serra, J. (1982) Ciclos e Mudanças Estruturais na Economia Brasileira do Pós-Guerra. in: Belluzo, L. G. M. e Coutinho, R. (orgs.) Desenvolvimento Capitalista no Brasil. Vol. 1. Editora Brasiliense, São Paulo.\n3) Suzigan, W. (2000) Indústria Brasileira: Origem e Desenvolvimento. Editora UNICAMP, Campinas.\n4) FURTADO, C. (2007) Formação econômica do Brasil. São Paulo: Companhia das Letras.\n",
+       "BibliografiaComplementar": "1) Dean, W. (1976) A Industrialização de São Paulo. 2a Edição. Cap. I. Difel, São Paulo.\n2) Lessa, C. (1983) Quinze Anos de política Econômica. Editora Brasiliense, São Paulo.\n3) Wongtschowski, P. (2002) Indústria Química, Riscos e Oportunidades. Edgard Blücher, São Paulo.\n4) Giambiagi, F.; Moreira, M. (org.) (1999) A Economia Brasileira nos Anos 90. BNDES, Rio de Janeiro.\n5) Carrara, E.; Meirelles, H. (1990) A Indústria Química e o Desenvolvimento do Brasil 1500-1889. Metalivros, Rio de Janeiro.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EQE040",
+      "Nome": "Introd Metodologia Científica",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução à Pesquisa. Teoria do Conhecimento. O Senso Comum. A Razão. A Verdade. Desenvolvendo o Problema. Utilizando a Literatura. Apresentando o Problema. Metodologia da Pesquisa. Fases da Pesquisa. Escrevendo a Ciência. Questões Éticas em Pesquisa e no Trabalho Acadêmico.\n",
+       "BibliografiaBasica": "1) Marconi, M.A. e Lakatos, E. M. (2001). Metodologia do Trabalho Científico. 6ª Edição. Editora Atlas.\n2) Chaui, M. (1997) Convite à Filosofia. 9ª Edição. Editora Ática, São Paulo.\n3) Demo, P. (2002) Educar pela Pesquisa. 5ª Edição. Editora Autores Associados Ltda.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     }
+    ],
+    "Disciplinas Optativas (Escolha Condicionada)": [
+     {
+      "Codigo": "EQI077",
+      "Nome": "Eletroquímica Industrial",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceitos fundamentais. Termodinâmica eletroquímica. Cinética eletroquímica. Processos de transporte eletroquímico. Métodos de medida. Processos industriais eletroquímicos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EQW011",
+      "Nome": "Tópicos Especiais I",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Disciplina que visa contemplar atividades acadêmicas cursadas pelo aluno no exterior e que não encontram equivalência na Escola de Química.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EQW013",
+      "Nome": "Tópicos Especiais III",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Disciplina que visa contemplar atividade acadêmicas cursadas pelo aluno no exterior e que tenham estreita relação com o escopo curricular do curso e que não encontram equivalência no elenco de disciplinas que compõe a grade curricular dos cursos da escola de Química.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EQWK80",
+      "Nome": "Estudos no Exterior I",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "360",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Realização de estudos no exterior em curso afim com os cursos de graduação da Escola de Química, em Universidade que tenha convênio com a UFRJ.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EQWK82",
+      "Nome": "Estudos no Exterior III",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "360",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Realização de estudos no exterior em curso afim com os cursos de graduação da Escola de Química, em Universidade que tenha convênio com a UFRJ.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EQWK88",
+      "Nome": "Estudos no Exterior V",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "360",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Realização de estudos no exterior em curso afim com os cursos de graduação da Escola de Química, em Universidade que tenha convênio com a UFRJ.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EQI076",
+      "Nome": "Fund Química Inorg Tec Química",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Parâmetros atômicos importantes. Ligação química. Orbitais moleculares. Estrutura de sólidos. Acidez e basicidade. Compostos de coordenação. Materiais inorgânicos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EQIU11",
+      "Nome": "Visitas em Tec Inorgânicas",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O programa incluir um mínimo de 5 (cinco) visitas orientadas. Museus de minerais, empresas e intituições de pesquisa e tecnologia mineral. Instações industriais de extração e beneficiamento de minérios, águas e gases industriais do ar. Indústrias de converção metalúrgicas, siderúrgicas, cerâmicas, cimenteiras, vidreiras, nucleares, incineração de resíduos sólidos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EQW012",
+      "Nome": "Tópicos Especiais II",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Disciplina que visa contemplar atividades acadêmicas cursadas pelo aluno no exterior e que tenham estreita relação com o escopo curricular do curso e que não encontram equivalência no elenco de disciplinas que compõe a grade curricular dos cursos da Escola de Química.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EQW014",
+      "Nome": "Tópicos Especiais IV",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Disciplina que visa contemplar atividades acadêmicas cursadas pelo aluno no exterior e que tenham estreita relação com o escopo curricular do curso e que não tenha equivalência no elenco de disciplinas que compõe a grede curricular dos cursos da Escola de Química.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EQWK81",
+      "Nome": "Estudos no Exterior II",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "360",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Realização de estudos no exterior em curso afim com os cursos de graduação da Escola de Química, em Universidade que tenha convênio com a UFRJ.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EQWK87",
+      "Nome": "Estudos no Exterior IV",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "360",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Realização de estudos no exterior em curso afim com os cursos de graduação da Escola de Química, em Universidade que tenha convênio com a UFRJ.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IQO476",
+      "Nome": "Quimica Organica V",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Polimeros: conceituacao - classificacao - tecnicas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "IQO357"
+      ],
+      "Tipo": "eletiva"
+     }
+    ]
+   },
+   "obrigatorias": 25,
+   "eletivas": 15,
+   "ano": "2004/1 a 2010/1"
+  },
+  {
+   "materias": {
+    "1º Período": [
+     {
+      "Codigo": "EQE112",
+      "Nome": "Introdução Cálculos Processos",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Principais componentes de um processo. Dimensões, unidades e sistemas de unidades. Parâmetros utilizados na descrição de correntes de processos. Balanço material, em regime estacionário, em processos sem e com reação química. Estequiometria industrial. Sistemas operacionais, linguagens e ambientes de programação, planilhas eletrônicas. Programação algoritmos e comandos de fluxo. Aplicações em problemas envolvendo balanços materiais. Apresentação de simuladores de processos químicos.\n",
+       "BibliografiaBasica": "1) Himmelblau, D.M. (1998) Engenharia Química. Princípios e Cálculos. 6ª Edição. Prentice-Hall do Brasil, Rio de Janeiro. Caps. 1 a 3.\n2) Felder, R. M. e Rousseau, R.W. (1989) Elementary Principles of Chemical Processes. 2nd Edition, John Wiley & Sons, Nova York.\n3) Brasil, N. I. (1999) Introdução à Engenharia Química. Editora Interciência, Rio de Janeiro. Caps. 1 a 4.\n4) Pessoa, F. L. P.; Queiroz, E. M.; Costa, A. H. (2001) Introdução aos Processos Químicos. Apostila DEQ/EQ/UFRJ.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IQG115",
+      "Nome": "Química Geral Eq",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Teoria Atômica. Classificação Periódica dos Elementos. Ligação Química. Ácidos e Bases. Compostos de Coordenação. Processos Nucleares.\n",
+       "BibliografiaBasica": "1) Brandy, J.E. e Humiston, G.E. (1981) Química Geral. Livros Técnicos e Científicos Editora S.A., Rio de Janeiro.\n2) Russel, J.B. (1982) Química Geral. Editora McGraw-Hill do Brasil Ltda. Rio de Janeiro.\n3) Quagliano, J. V. e Vallarino, L. M. (1973) Química. Editora Guanabara Dois. Rio de Janeiro.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EEG111",
+      "Nome": "Fundamentos de Desenho Técnico",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Apresentação de Desenho Técnico. Vistas ortográficas principais e cotagem. Cortes e seções. Desenho para instalações industriais (layout, fluxogramas e convenções). Desenho isométrico e de tubulações. Noções básicas de CAD.\n",
+       "BibliografiaBasica": "1) French, T. E. (1941). Desenho Técnico. 6ª edição, Editora Globo. Porto Alegre.\n2) Dobrevolny, Springer & Hoelscher (1978). Expressão Gráfica ? Desenho Técnico. Livros Técnicos e Científicos Editora S.A., Rio de Janeiro.\n3) Telles, D. C. S. (1982). Tubulações Industriais ? Materiais, Projeto e Desenho. 6ª edição. Livros Técnicos e Científicos Editora S. A., Rio de Janeiro.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EQW112",
+      "Nome": "Introdução Proc Quím Bioquímic",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução de conceitos e áreas de atuação dos profissionais das industrias química e bioquímica. Sistema de busca bibliográfica. Base da Ind. Química. Formulações de produtos. Polímeros. Tecnologia de processos fermentativos e enzimáticos, inorgânicos e de alimentos. Desenvolvimento de bioprocessos. Meio ambiente e controle de poluição. Patentes. Gestão Tecnológica. Materiais e Corrosão. Qualidade da água. Segurança em laboratório. Prática: Instrumental básico de laboratório. Visitas técnicas.\n",
+       "BibliografiaBasica": "1. Borzani, W.; Schmidel, W.; Lima, U.A e Aquarone, E. (eds) (2001)\nBiotecnologia Industrial. Volumes 1 ? 4. Ed. Edgar Blucher, São Paulo.\n2. Rovere, E. et col. (2000) Manual Auditoria Ambiental, Ed. Qualitymark. p.\n140.\n3. Araújo, H. e Azambuja, C. (1992) Treating Effluents and Preserving Nature.\nEd. Senai-Cetiqt. p. 73.\n4. Shreve, R.N. e Brink Jr, J.A. (1980) Indústrias de Processos Químicos. 4a\nEdição. Ed. Guanabara Dois. Rio de Janeiro.\n",
+       "BibliografiaComplementar": "1. Farah, M. A. Petróleo e seus derivados, LTC, 2012.\n2. Pollak, P. Fine Chemicals: the industry & the business, 2nd ed, Wiley,\n2010.\n3‐ Química Ambiental ? Colin Baird ? 2ª. Edição, Editora Bookman.\n4- Pereira Jr., N; Bom, E.P.S. e Ferrara, M.A. ?Tecnologia de Bioprocessos?.\nIn Séries em Biotecnologia. Ed. Amiga Digital (RJ), 2008.\n5- GAVA, A.J. et al. Tecnologia de alimentos: princípios e aplicações. Nobel,\n2009, 511 p.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAC118",
+      "Nome": "Cálculo Difer e Integral I",
+      "Créditos": "6.0",
+      "Teórica": "90",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Técnicas de Integração. Integral Imprópria.\n",
+       "BibliografiaBasica": "1) SANTOS, A. R.; BIANCHINI, Waldecir. Aprendendo Cálculo com Maple: Cálculo de Uma Variável. 1ª ed. Rio de Janeiro: LTC, 2002.\n2) LEITHOLD, Louis. O Cálculo com Geometria Analítica. 3.ed. São Paulo: Harbra, 2002. vol. 1.\n3) STEWART, James. Cálculo. 4.ed. São Paulo: Pioneira Thomson Learning, 2002. vol. 1.\n",
+       "BibliografiaComplementar": "1) ANTON, H.; BIVIS. I.; DAVIS, S. Cálculo, Vol. I. 8ª ed. Editora Harbra.\n2) APOSTOL, TOM M. Calculus, Vol. 1: One Variable Calculus With an Introduction to Linear Algebra. 2ª ed. - Ed. Wiley.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "2º Período": [
+     {
+      "Codigo": "FIT112",
+      "Nome": "Física I - a",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução. Vetores. Velocidade e aceleração vetoriais. Os princípios da dinâmica. Aplicações das leis de Newton. Trabalho e energia mecânica. Conservação da energia. Momento linear e conservação do momento linear. Colisões. Rotação e momento angular. Dinâmica de corpos rígidos. Força que varia inversamente ao quadrado da distancia (gravitação).\n___ BIBLIOGRAFIA BÁSICA ___\n1) Física para Cientistas e Engenheiros, v.1. Mecânica, Oscilações e Ondas, Termodinâmica (6ª edição).\n2) Fundamentos de Física (4ª edição) D. Halliday. R. Resnick and J. Walker - John Wiley & Sons, Inc.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IQA122",
+      "Nome": "Química Analítica Exp. I",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Técnicas Gerais de Laboratórios de Química Analítica. Grupos Analíticos dos Cátions. Grupos Analíticos e Caráter Redox dos Ânions. Separação e Identificação de Cátions e Ânions. Determinações Gravimétricas.\n",
+       "BibliografiaBasica": "1. Skoog, D.A.(ed.); West, D.M.; Holler, F.J.; Crouch, S.R.; Holler, J. (1999) Analytical Chemistry, An Introduction. 7a ed. Brooks Cole.\n2. Jr. Day, R.A. e Underwood, A.L. (1991) Quantitative Analysis: Laboratory Manual. 6a ed. Prentice Hall.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "EQW112"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IQO130",
+      "Nome": "Química Orgânica Exp I - Eq",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução: regras básicas de segurança em laboratório, uso de equipamentos básicos de laboratório, uso do Handbook de Química. Aquecimento: equipamentos e cuidados; síntese de bromoetano. Refrigeração: misturas refrigerantes, tipos de condensadores, técnicas operacionais, destilação; curvas de destilação, diagrama de equilíbrio, colunas de retificação; síntese de acetato de etila.\n",
+       "BibliografiaBasica": "1. Miller, J.A. e Neuzil, E.F. (1981). Modern Experimental Organic\nChemistry. D.C. Heath & Co.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "EQW112"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIS111",
+      "Nome": "Física Experimental I",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução à medida: como medir. Como expressar corretamente os valores medidos. Estimar a precisão de instrumentos. Dispersão de uma medida: controle de grandezas físicas numa experiência. Como caracterizar a dispersão de um conjunto de dados por um indicador apropriado. Cinemática unidimensional: desenvolvimento intuitivo e operacional dos conceitos de velocidade e aceleração. Representação e análise gráfica. Leis de Newton. Como definir operacionalmente a inércia e um corpo. Relação massa inercial-massa gravitacional. Colisões unidimensionais elásticas, semi-elásticas e inelásticas. Modelo teórico de uma colisão unidimensional.\n",
+       "BibliografiaBasica": "1) Apostila de Física Experimental I. Instituto de Física, UFRJ.\n2) Fundamentos da Teoria de Erros. J.H. Vuolo.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IQA121",
+      "Nome": "Química Analítica",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Equilíbrio Iônico. Formação e dissolução de precipitados. Separações por precipitação. Gravimetria. Equilíbrios Simultâneos. Volumetria e equilíbrio de Neutralização. Volumetria para precipitação. Volumetria e equilíbrio de oxi-redução. Volumetria e equilíbrio de complexação.\n",
+       "BibliografiaBasica": "1) Skoog, D.A.(ed.); West, D.M.; Holler, F.J.; Crouch, S.R.; Holler, J. (1999) Analytical Chemistry, An Introduction. 7ª ed. Brooks Cole.\n2) Jr. Day, R.A. e Underwood, A. L. (1991) Quantitative Analysis. 6ª ed. Prentice Hall.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "IQA122(C)",
+       "IQG115"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IQO128",
+      "Nome": "Química Orgânica I - EQ",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Alcanos, alquenos e Alquinos: nomenclatura, reatividade, radicais livres, estereoquímica e nomenclatura R/S. Dienos. Halogenetos de alquila. Reagentes organometálicos. Álcoois e éteres. Aldeídos e cetonas. Benzeno e aromaticidade. Heterocíclicos aromáticos. Poliaromáticos.\n",
+       "BibliografiaBasica": "1) Morrison, R. T. and Boyd, R. N. (1999). Organic Chemistry. 6th Ed. Prentice Hall.\n2) Solomons, T. W. G.; Fryhle, C. B.; Solomons, T. G. (1999). Organic Chemistry. 7th Ed. John Wiley.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "IQG115"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAC128",
+      "Nome": "Cálculo Diferen e Integral II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Equações Diferenciais Ordinárias de Primeira  Ordem. Equações Diferenciais Ordinárias Lineares de Segunda Ordem com Coeficientes Constantes. Curvas e Vetores no Plano. Vetores no Espaço Tridimensional e Geometria Analítica Sólida. Funções de R2 em R. Funções de R3 em R. Máximos e Mínimos de Funções de R2 em R. Máximos e Mínimos de Funções de R3 em R.\n",
+       "BibliografiaBasica": "1) BOYCE, W. E.; DIPRIMA, R. C. Equações Diferenciais Elementares e Problemas de Valores de Contorno. 7. ed. Rio de Janeiro: UFRJ, 2004.\n2) PINTO, D.; MORGADO, M.C.F. Cálculo Diferencial e Integral de Funções de Várias Variáveis. 3.ed. Rio de Janeiro: UFRJ, 2004.\n3) STEWART, J. Cálculo. 4. ed. São Paulo: Pioneira Thomson Learning, 2002. vol. 2.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 15:00",
+        "professor": "AFTAB PANDE"
+       },
+       {
+        "dia": "Sex",
+        "hora": "13:00 - 15:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MAC118"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "3º Período": [
+     {
+      "Codigo": "FIN231",
+      "Nome": "Física Experimental III",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Instrumentos de Medidas Elétricas. Resistores. Capacitores. Tensões e Correntes Alternadas. Campos Magnéticos Estáticos.\n",
+       "BibliografiaBasica": "1)  Apostila de Física Experimental III, Instituto de Física, UFRJ.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "FIS121"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IQF241",
+      "Nome": "Termodinâmica Clássica",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Gases ideais e reais. Primeira lei da Termodinâmica.  Termoquímica.  Segunda lei da Termodinâmica.  Funções de Gibbs e Helmholtz.  Termodinâmica de sistemas abertos.  Termodinâmica das substâncias puras.  Soluções.  Grandezas parciais molares.  Solução ideal, estados padrões.  Propriedades coligativas.  Equilíbrio líquido-vapor de soluções ideais. Solução não- ideal.  Azeotropismo.  Equilibrio químico.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MAC128"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IQO235",
+      "Nome": "Química Orgânica II-EQ",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Aminas. Anilinas. Fenóis. Ácidos carboxílicos. Ésteres, lactonas, halogenetos de acila, anidridos, amidas e nitrilas: mecanismo de reação. Compostos polifuncionais carbolinados. Síntese de B-ceto-ésteres, condensações, descarboxilação, alquilação de B-ceto-ésteres, sínteses via ésteres aceto-acético e malônico. Compostos alfa, beta insaturados, ácidos dicarboxílicos. Introdução à síntese orgânica: grupos de proteção, rearranjos de cadeias de carbono; adições de Michael e anelação de Robinson.\n",
+       "BibliografiaBasica": "1) Morrison, R.T. and Boyd, R.N. (1999) Organic Chemistry. 6th Ed. Prentice Hall.\n2) Solomons, T. W. G.; Fryhle, C. B.; Solomons, T .G. (1999) Organic Chemistry. 7th Ed. John Wiley.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "IQO128"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIM230",
+      "Nome": "Física III - a",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Lei de Coulomb. Campos elétricos. Lei de Gauss. Potencial Elétrico, capacitores, correntes e circuitos. Campos magnéticos, leis de Ampere e Biot - Savart, Lei de Faraday, indutância, corrente de deslocamento. Circuitos de corrente alternada, equações de Maxwell.\n",
+       "BibliografiaBasica": "1) Física, volume 2. Eletricidade e Magnetismo, Ótica (5ª edição). Paul A. Tipler e Gene Mosca. LTC Editora S.A.\n2) Curso de Física Básica, volume 1. Mecânica, Oscilações e Ondas. H. Moysés Nussenzveig - Editora Edgard Blücher Ltda.\n3) Fundamentos de Física (4ª edição). D. Halliday. R. Resnick e J. Walker - John Wiley & Sons, Inc.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "FIT112",
+       "MAC128"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IQA243",
+      "Nome": "Química Analítica Exp II",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Volumetria Ácido-Base. Volumetria Redox. Volumetria de Precipitação. Volumetria de Complexos.\n",
+       "BibliografiaBasica": "1. Vogel, A.I. Química Analítica Quantitativa. Vol. I.\n2. Kolthoff, I.M. e Sandell, E.B. Textbook of Quantitative Inorganic Analysis.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "IQA121",
+       "IQA122"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IQG231",
+      "Nome": "Química Experimental EQ",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução ao laboratório e normas de segurança. Cristalização Fracionada. Sistemas Coloidais e suas Propriedades. Equilíbrio Químico. Cinética Química. Oxirredução. Eletrólise. Compostos de Coordenação. Síntese e Propriedades dos seguintes elementos e alguns de seus compostos: Nitrogênio, Oxigênio, Hidrogênio, Enxofre, Hologênios, Ferro e Níquel.\n",
+       "BibliografiaBasica": "1) Brandy, J. E. e Humiston, G. E. (1981) Química Geral. Livros Técnicos e Científicos Editora S.A., Rio de Janeiro.\n2) Russel, J. B. (1982) Química Geral. Editora McGraw-Hill do Brasil Ltda. Rio de Janeiro.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "IQG115"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAC238",
+      "Nome": "Cálculo Diferen e Integral III",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Integrais Múltiplas. Integrais de Linha. Integrais de Superfície. Teorema de Gauss. Teorema de Stokes.\n",
+       "BibliografiaBasica": "1) PINTO, D.; MORGADO, M. C. F. Cálculo Diferencial e Integral de Funções de Várias Variáveis. 3ª ed. Rio de Janeiro: UFRJ, 2004.\n2) TROMBA, A. J.; MARSDEN, J. E. Vector Calculus. 5ª ed. New York: W. H. Freeman & Company, 2003.\n3) ANTON, H. Cálculo: Um Novo Horizonte. 6ª ed. Porto Alegre: Bookman, 2000. vol.2.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "15:00 - 17:00",
+        "professor": "JUAN SEBASTIAN FORERO CARDOZO"
+       },
+       {
+        "dia": "Qui",
+        "hora": "15:00 - 17:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MAC128"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "4º Período": [
+     {
+      "Codigo": "IQF351",
+      "Nome": "Fenôme de Superfície e Eletroq",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Adsorção em superfícies líquidas. Tensão superficial. Dispersões coloidais. Interações moleculares.  Soluções de macromoléculas.  Propriedades elétricas e ópticas de macromoléculas e dispersões coloidais.  Termodinâmica dos processos de transporte.  Viscosidade.  Solução de eletrólitos.  Condução iônica.  Transporte em eletrodos.  Equilíbrio eletroquímico.  Pilhas eletroquímicas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "IQF241"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IQO246",
+      "Nome": "Química Orgânica Exp Ii-eq",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Destilação com arraste a vapor, destilação seca, sublimação, filtração, cristalização; síntese de nitrofenol. Controle de qualidade, grupo protetor, cálculo de rendimento; síntese da acetanilida, purificação. Síntese da p-nitroacetanilida. Síntese da p-nitroanilina. Cálculo de rendimento em processos de múltiplas etapas, avaliação de perdas. Síntese de vermelho de monolite. Controle de qualidade de matéria-prima, controle de processo e produto; preparação de sabão.\n",
+       "BibliografiaBasica": "1. Miller, J.A. e Neuzil, E.F. (1981). Modern Experimental Organic Chemistry. D.C. Heath & Co.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "IQO128",
+       "IQO130"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAE245",
+      "Nome": "Álgebra Linear II - EQ",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Matrizes. Sistemas de equações lineares. Espaços vetoriais reais. Transformações lineares. Auto valores e auto vetores. Resolução de sistemas de equações diferenciais lineares de primeira ordem a coeficientes constantes. Produto interno. Complemento ortogonal. Formas lineares, bilineares e quadráticas.\n",
+       "BibliografiaBasica": "1) Little, J. e Damiano, D. B. (1988) A Course in Linear Algebra. International Thomson Pub.\n2) Cohn, P. M. e Rao, A. R. (1994) Elements of Linear Algebra. CRC Press.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MAC128"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IQB248",
+      "Nome": "Bioquímica EQ",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Teoria: Introdução à Bioquímica e Células. Aminoácidos. Peptídeos e Proteínas. Enzimas. Bioenergética. Oxidações biológicas. Metabolismo. Ácidos nucleicos. Fundamentos da evolução biológica. Prática: Espectrofotometria; varredura do espectro. Aminoácidos: reações específicas e geral e cromatografia em papel. Aminoácidos; eletroforese e cromatografia de troca iônica. Proteínas; solubilidade e dosagem. Glicídeos redutores: dosagem. Cinética enzimática: determinação de Km e Vmax.\n",
+       "BibliografiaBasica": "1. Voet, D. e Voet, J.G. (1995) Biochemistry. 2a ed. John Wiley & Sons, Nova\nYork.\n2. Devlin, T.M. (1997) Textbook of Biochemistry with Clinical Correlation. 4a ed. Wiley-Liss, Nova York.\n3. Lehninger, A. Nelson, D.L., Cox, M.M. (2000) Principles of Biochemistry. 3a ed. Worth Publishers, Nova York.\n",
+       "BibliografiaComplementar": "1. Stryer, L. (1999) Biochemistry. 7a ed. W.H. Freeman and Co., Nova York.\n2. Depart. de Bioquímica/Univer. Federal do Rio de Janeiro (2000) Cursos\nPráticos em Bioquímica. 10a ed. IQ/UFRJ, Rio de Janeiro. 298 p.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "IQF244",
+       "IQO235"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IQF353",
+      "Nome": "Equi Fases Sist Multicompostos",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A regra das fases. Sistemas com dois componentes. Modelos teóricos de soluções não-ideias. Equilíbrios líquido-vapor, líquido-líquido e sólido-líquido em sistemas binários. Equilíbrio em sistemas ternários e multicomponentes.\n",
+       "BibliografiaBasica": "1) Berry, R. S.; Rice, S. A.; Ross, J. (2000) Physical Chemistry. 2ª ed.\n2) Levine, I. N. (2002) Physical Chemistry. 5ª  ed.\n3) McQuarrie, D. A. e Simon, J. D. (1997) Physical Chemistry ? A Molecular Approach.\n4) Atkins, P. W. e de Paula, J. (2002) Physical Chemistry. 7ª  ed.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "IQF231"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAC248",
+      "Nome": "Cálculo Diferen e Integral IV",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Serie de potências; resolução de equações diferenciais lineares ordinárias de segunda ordem com coeficientes variáveis: soluções por série próximo a um ponto ordinário; soluções por série próximo a um ponto regular (método de Frobenius). Transformada de Laplace; série de Fourier. Problemas de valores de contorno e teoria de Sturm-Liouville. Equações diferenciais parciais clássicas: onda; calor; Laplace: Dirichlet no retângulo e Dirichlet no círculo.\n",
+       "BibliografiaBasica": "1) Cálculo, volume 2 de James Stewart.\n2) Cálculo com Geometria Analítica, volume 2, Louis Leithold.\n3) Equações Diferenciais Elementares e Problemas de Valores de Contorno, de William E. Boyce e Richard C. DiPrima.\n4) Equações Diferenciais, volumes 1 e 2, de Dennis G. Zill.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MAC128"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "Disciplinas Optativas (Escolha Restrita)": [
+     {
+      "Codigo": "EQW042",
+      "Nome": "Formação Industrial do Brasil",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Unidades Fabris pré-30 e a relação com a economia agrária exportadora. Escravidão e desenvolvimento no século 19. O Processo de Industrialização:\nA crise dos anos 30 e a transição para uma economia industrial. Aplicação de metodologia científica em pesquisas envolvendo teorias de industrialização. O Processo de Substituição de Importações. O Plano de Metas e a Industrialização Pesada. Crise dos anos 60 e as bases para a retomada do crescimento. O Milagre econômico e II PND. Os choques de petróleo e suas consequências: crise da dívida, hiperinflação e estabilização da economia nacional. Formação e evolução da indústria química brasileira e correlatas. Questões éticas e sociais na indústria.\nTransformações econômicas na década de 90 e impactos na Indústria química brasileira e correlatas.\n",
+       "BibliografiaBasica": "1) Mello, J. M. C. (1982) O Capitalismo Tardio. Editora Brasiliense, São Paulo.\n2) Serra, J. (1982) Ciclos e Mudanças Estruturais na Economia Brasileira do Pós-Guerra. in: Belluzo, L. G. M. e Coutinho, R. (orgs.) Desenvolvimento Capitalista no Brasil. Vol. 1. Editora Brasiliense, São Paulo.\n3) Suzigan, W. (2000) Indústria Brasileira: Origem e Desenvolvimento. Editora UNICAMP, Campinas.\n4) FURTADO, C. (2007) Formação econômica do Brasil. São Paulo: Companhia das Letras.\n",
+       "BibliografiaComplementar": "1) Dean, W. (1976) A Industrialização de São Paulo. 2a Edição. Cap. I. Difel, São Paulo.\n2) Lessa, C. (1983) Quinze Anos de política Econômica. Editora Brasiliense, São Paulo.\n3) Wongtschowski, P. (2002) Indústria Química, Riscos e Oportunidades. Edgard Blücher, São Paulo.\n4) Giambiagi, F.; Moreira, M. (org.) (1999) A Economia Brasileira nos Anos 90. BNDES, Rio de Janeiro.\n5) Carrara, E.; Meirelles, H. (1990) A Indústria Química e o Desenvolvimento do Brasil 1500-1889. Metalivros, Rio de Janeiro.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EQE040",
+      "Nome": "Introd Metodologia Científica",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução à Pesquisa. Teoria do Conhecimento. O Senso Comum. A Razão. A Verdade. Desenvolvendo o Problema. Utilizando a Literatura. Apresentando o Problema. Metodologia da Pesquisa. Fases da Pesquisa. Escrevendo a Ciência. Questões Éticas em Pesquisa e no Trabalho Acadêmico.\n",
+       "BibliografiaBasica": "1) Marconi, M.A. e Lakatos, E. M. (2001). Metodologia do Trabalho Científico. 6ª Edição. Editora Atlas.\n2) Chaui, M. (1997) Convite à Filosofia. 9ª Edição. Editora Ática, São Paulo.\n3) Demo, P. (2002) Educar pela Pesquisa. 5ª Edição. Editora Autores Associados Ltda.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     }
+    ]
+   },
+   "obrigatorias": 25,
+   "eletivas": 2,
+   "ano": "2010/2 a 2022/2"
+  },
+  {
+   "materias": {},
+   "obrigatorias": 0,
+   "eletivas": 0,
+   "ano": "2023/1 a 9999/9"
+  }
+ ]
+}

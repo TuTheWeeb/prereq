@@ -1,0 +1,1604 @@
+{
+ "Mat Aplicada - Matemática de Negócios": [
+  {
+   "materias": {
+    "1º Período": [
+     {
+      "Codigo": "MAA114",
+      "Nome": "Álgebra I",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Algoritmo da divisão e máximo divisor comum; Números primos e fatoração de interiores; Relações de equivalência; Aritmética modular; Teorema chinês dos restos; Indução finita; Teorema de Fermat; Grupos, Subgrupos e teorema de Lagrange; Teorema de Euler; Testes de primalidade e pseudoprimalidade; Números de Carmichael, Marsenne e  Fermat.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAE115",
+      "Nome": "Cálculo Vetorial e G Analítica",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Vetores no plano e no espaço. Produto escalar e vetorial. Aplicações a geometria do plano e do espaço. Cônicas e quádricas. Construção das cônicas: traçado de tangentes.\n",
+       "BibliografiaBasica": "1- ANTON, H.A. & RORRES, C. Álgebra Linear com Aplicações. 8ª edição. Porto\nAlegre: Bookman, 2001.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 15:00",
+        "professor": "HEUDSON TOSTA MIRANDOLA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 15:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ICP121",
+      "Nome": "Computação I",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Informações relevantes de um problema e sua respectiva representação computacional. Resolução de problemas de forma algorítmica. Aspectos sintático se semânticos de uma linguagem de programação de alto nível. Comandos, estruturas de dados e estruturas básicas para a construção de soluções computacionais. Modelagem e implementação de código modularizado. Noções de organização,reutilização e legibilidade de código. Princípios das boas práticas de programação.\n",
+       "BibliografiaBasica": "1) Nilo N. C. Menezes. Introdução a programação com Python - Algoritmos e Lógica de Programação para iniciantes. 3ª edição. Novatec. 2019.\n2) Mark Lutz e David Ascher.Aprendendo Python.Bookman Companhia Ed. 2ª edição. 2007.\n3)Carla A. D. M. Delgado, João C. P. da Silva, Fabio Mascarenhas, Ana Luisa Duboc. The teaching of functions as the first step to learn imperative programming.\n4) WORKSHOP SOBRE EDUCAÇÃO EM COMPUTAÇÃO (WEI), 24, 2016, Porto Alegre. Anais[...]. PortoAlegre: Sociedade Brasileira de Computação, 2016.p. 2393-2402. ISSN2595-6175.DOI: .\n5) Python Software Foundation. Otutorialde Python. 2001-2023.\n",
+       "BibliografiaComplementar": "1) Plataforma para prática de programação:\n2) Site oficial da linguagem Python:\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 15:00",
+        "professor": "HUGO DE HOLANDA CUNHA NOBREGA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 15:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAE111",
+      "Nome": "Cálculo Infinitesimal I",
+      "Créditos": "6.0",
+      "Teórica": "75",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Funções de uma variável real. Limites e derivadas. Cálculo de derivadas e aplicações. Teorema do valor médio. Integral definida. Teorema fundamental do cálculo. Cálculo de integrais e aplicações.\n___BIBLIOGRAFIA BÁSICA___\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAEX10",
+      "Nome": "Seminário",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "40",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Apresentação, por parte de docentes da UFRJ, de linhas e projetos de pesquisa, com ênfase nas questões matemáticas subjacentes.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "2º Período": [
+     {
+      "Codigo": "MAE121",
+      "Nome": "Cálculo Infinitesimal II",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Equações diferenciais ordinárias de primeira ordem. Equações diferenciais ordinárias de segunda ordem com coeficientes constantes. Aplicações de equações diferenciais. Curvas em r2 e aplicação ao estudo do movimento planetário. Funções de várias variáveis. Curvas em r3. Gráficos de funções de r2 em r. Derivadas parciais. Derivadas parciais vetoriais, diferencial, derivadas direcionais, gradiente. Integral de linha e aplicações.\n___BIBLIOGRAFIA BÁSICA___\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MAE111"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAEX11",
+      "Nome": "Projeto I",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "120",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Participação do estudante em projeto de pesquisa sob orientação de docente da UFRJ\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAE113",
+      "Nome": "Computação Científica I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução ao Maple e o traçado de gráficos em R2 e em R3. Introdução ao Matlab e o traçado de superfícies de nível e campos vetoriais. Animação de funções dependentes do tempo. Cálculo de zeros de funções reais. Cálculo matricial numérico e a resolução de sistemas lineares. Iteração de Newton. Interpolação e mínimos quadrados. Integração numérica. Introdução à resolução de EDO'S.\n",
+       "BibliografiaBasica": "1) Scientific Computing with MATLAB and Octave, Alfio Quarteroni, Fausto Saleri, Paola Gervasio;\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "15:00 - 17:00",
+        "professor": "SERGEY SERGEEV"
+       },
+       {
+        "dia": "Qua",
+        "hora": "15:00 - 17:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "ICP121",
+       "MAE111"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAE125",
+      "Nome": "Álgebra Linear",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Sistemas de equações lineares e Eliminação Gaussiana. Matrizes e determinante. Espaços vetoriais Euclidianos. Geometria dos espaços vetoriais de dimensão finita. Transformações lineares. Espaços vetoriais com produto interno. Ortogonalidade e mínimos quadrados. Autovalores e autovetores. Teorema espectral. Aplicações à solução de Equações Diferenciais Ordinárias e em Geometria Euclidiana.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "3º Período": [
+     {
+      "Codigo": "MAE127",
+      "Nome": "Equações Diferenciais",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Equações diferenciais de 1ª ordem e aplicações; Teoremas de Existência e Unicidade de Soluções; Equações diferenciais lineares de 2ª ordem e aplicações;\n",
+       "BibliografiaBasica": "1) BOYCE, William E.; DIPRIMA, Richard C. Equações diferenciais elementares e problemas de valores de contorno. Rio de Janeiro: LTC, 2006.\n2) FIGUEIREDO, Djairo Guedes de; NEVES, Aloisio Freiria. Equações diferenciais aplicadas. Rio de Janeiro : IMPA, c2007.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "10:00 - 12:00",
+        "professor": "STEFANELLA BOATTO"
+       },
+       {
+        "dia": "Qui",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MAC123",
+       "MAE125"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAD233",
+      "Nome": "Cálculo das Probabilidades I",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Probabilidade. Probabilidade condicional. Independência. Variáveis aleatórias discretas e contínuas. Esperança e variância de variáveis aleatórias. Modelos de variáveis aleatórias unidimensionais.\n",
+       "BibliografiaBasica": "1) DEGROOT, Morris. H.; SCHERVISH, Mark J. Probability and statistics. Boston: Addison-Wesley, c2002.\n2) HOEL, Paul Gerhard; PORT, Sidney C.; STONE, Charles Joel. Introdução à teoria da probabilidade. Rio de Janeiro : Interciência, 1978.\n3) ROSS, Sheldon M. A first course in probability. New Jersey: Pearson/Prentice Hall, c2006.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 15:00",
+        "professor": "GIULIO IACOBELLI"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 15:00",
+        "professor": ""
+       },
+       {
+        "dia": "Sex",
+        "hora": "13:00 - 15:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MAC128(C)MAC128=MAE123MAC128=MAW231MAC128=MAE121MAC128=MAE120MAC128=MAC124MAC128=MAC123"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAE231",
+      "Nome": "Calculo Infinitesimal III",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Polinomios de taylor de funcoes de uma e varias variaveis. Regra da cadeia, coordenadas curvilineas, teoremas da funcao inversa e implicita. Superficies em r3. Maximos e minimos. Integral multipla. Aplicacoes de integral multipla. Teoria do campo. Teoremas de green, stokes e gausss. Interpretacao fisica.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MAE121"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "4º Período": [
+     {
+      "Codigo": "MAE240",
+      "Nome": "Análise Real",
+      "Créditos": "6.0",
+      "Teórica": "90",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Construções dos números reais.  Discussão dos axiomas que caracterizam R. Limites de sequências e convergência de séries.  Espaços métricos e espaços normados, limite e continuidade. Diferenciação de funções de uma variável real.  Integral de Riemann e de Kurzweil-Henstock.  Sequências de funções.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MAA114",
+       "MAE111"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAE122",
+      "Nome": "Computação Científica II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Simulação numérica de EDO's e de sistemas dinâmicos: estabilidade, esquemas de um passo, esquemas Multistep lineares.  Métodos de Runge-Kutta e pacotes de rotinas em linguagem Fortran (Netlib).  Métodos de diferenças finitas para a simulação numérica de equações a derivadas parciais.  Teorema de Lax.  Método de Von Neumann, dispersão e difusão. Condições de fronteira. Introdução aos métodos espectrais: polinômios trigonométricos e polinômios de Chebyshev.\n",
+       "BibliografiaBasica": "1) Finite Differences. G. D. Smith.\n2) Numerical solutions of partial differential equations by the finite element method, Claes Johnson; Cambridge University Press.\n3) Finite Difference Schemes and Partial Differential Equations, John C. Strikwerda.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MAE113",
+       "MAE127"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAEX12",
+      "Nome": "Projeto II",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "120",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Participação do estudante em projeto de pesquisa sob a orientação de docente da UFRJ.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "5º Período": [
+     {
+      "Codigo": "MAE242",
+      "Nome": "Modelagem Matemática",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Problemas de otimização. Derivada de Gateaux de um funcional, equações de Euler-Lagrange. Métodos de diferenças finitas. Métodos do gradiente e gradiente conjugado. Métodos diretos e métodos iterativos para a solução de sistemas lineares.\n",
+       "BibliografiaBasica": "1- Tijonov & Samarsky; Equações da Física Matemática\n2- Churchill, R.; Operational Mathematics.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "10:00 - 12:00",
+        "professor": "ADRIANO MAURICIO DE ALMEIDA CORTES"
+       },
+       {
+        "dia": "Qui",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MAE113",
+       "MAE127"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAD352",
+      "Nome": "Cálculo das Probabilidades II",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Espaços de probabilidade. Vetores aleatórios. Distribuição e esperança condicionais. Função geratriz e função característica. Teoremas limites.\n",
+       "BibliografiaBasica": "1- James, B. (1981). Probabilidade: um curso em nível intermediário.IMPA. Projeto Euclides.\n2- Magalhães, M. N. (2004). Probabilidade e Variáveis Aleatórias. Ed.Universidade de São Paulo.\n3- Shiryayev, A. N. (1995). Probability. Second edition. Springer.\n",
+       "BibliografiaComplementar": "1- BILLINGSLEY, PATRICK. Convergence of probability measures ? 2.ed.? ? New York : J. Wiley & Sons, c1999.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 15:00",
+        "professor": "LEANDRO PINTO RODRIGUES PIMENTEL"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 15:00",
+        "professor": ""
+       },
+       {
+        "dia": "Sex",
+        "hora": "13:00 - 15:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MAD233"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "6º Período": [
+     {
+      "Codigo": "MAD364",
+      "Nome": "Processos Estocásticos",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceitos gerais.  Cadeias de Markov a tempo discreto.  Processos de Poisson.   Processos Markovianos a tempo contínuo: Processos de Nascimento Puro, Processos de Morte Pura e Processos de Nascimento e Morte.  Motivações à Teoria de Filas.  Martingais.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 15:00",
+        "professor": "GUILHERME OST DE AGUIAR"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 15:00",
+        "professor": ""
+       },
+       {
+        "dia": "Sex",
+        "hora": "13:00 - 15:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MAD352"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "7º Período": [],
+    "8º Período": [],
+    "Disciplinas Optativas (Escolha Condicionada)": [
+     {
+      "Codigo": "ADM612",
+      "Nome": "Avalia Econ Proj Investimentos",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Planejamento e projetos de investimento, A avaliação de alternativas de investimento, A elaboração do: conteúdo e fases. O fluxo de caixa do projeto, Fluxos de caixa relevantes, Preços constantes e preços correntes, Princípios e Indicadores Básicos para Análise de Investimentos: Taxa mínima de atratividade, Payback period, Valor-presente líquido, Taxa interna de retorno, Ocorrência e significado econômico de múltiplos taxas internas de retorno, Vantagens e problemas dos indicadores, A Taxa Interna de Retorno Modificada. Decisões Sobre Alternativas: Projetos com escalas diferentes, Projetos com vida-úteis diferentes, Vida-útil econômica e políticas de substituição de equipamentos, O Financiamento do Projeto: Recursos próprios e de terceiros, Estrutura de capital e custo de capital, Alavancagem financeira, retorno do projeto e retorno do acionista Tópicos Adicionais: Conceitos de reisco e incerteza, fundamentos de análise de risco, Avaliação econômica de impactos ambientais.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ADM614",
+      "Nome": "Contabilidade de Custos",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A contabilidade de Custos é um dos serviços de informação que gerentes e outros profissionais da organização contam para ajudá-los e o objetivo deste curso é familiarizar os participantes com os princípios de operação deste serviço. O foco e no gerente de como cliente de informação. A contabilidade de custos também atende as demandas da contabilidade financeira mas este tema não será privilegiado na disciplina. Ao final do curso,espera-se que os participantes, tenham assimilado um conjunto integrado de conceitos sobre o processo de medir, relatar e analisar custos, que os capacite a tomar decisões e emitir julgamentos de qualidade superior às decisões que tomariam e julgamentos que emitiriam sem o conheciemtno desse conjunto de conceitos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ADM616",
+      "Nome": "Fundamentos de Administração",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A empresa e o seu ambiente. Funções do Administrador. Planejamento. Organização. Controle. Direção de pessoas. Questões de Administração do Século XXI.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ADM618",
+      "Nome": "Gerência Derivativos: Op, Fut,",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Descrição dos Contratos Derivativos. Análise de riscos envolvidos nos negócios. Valor dos Contratos. Metodologias de Avaliação. Modelo Binomial e o de Black&Scholes. Precificação por Simulação. Formação de Portfólios. Negociação de Contratos e de Portfólios. Análise de sensibilidade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ADM620",
+      "Nome": "Gest Cre Novos Empreendimentos",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Crescimento do Negócio: contínuo e não contínuo; motivações; dilemas. Crescimento da Organização: estrutura administrativa; sistemas organizacionais. Crescimento Conjunto Firma-Industria: estruturação da indústria; estratégias para o crescimento do negócio em indústrias emergentes e em indústria existentes.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ADM622",
+      "Nome": "Mercados Financeiros",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Sistema financeiro nacional. Mercado monetário. Instrumentos de financiamento de curto prazo. Mercado de capitais. Capital acionário e capital de terceiros. Mercado primário de títulos. Financiamento privado e capital de risco. mercado secundário de títulos. risco e retorno de investimentos. Diversificação eficiente. Noções de gerência de carteiras de investimentos. Eficiência de mercado. Análise de desempenho de investimentos. Taxas de juros e sua formação. Modelos de avaliação de ativos de capital: CAPM e modelos de múltiplos fatores. Modelo baseado em dividendos. Cláusulas de debêntures. Avaliação de debêntures. Sistema monetário internacional e mercado financeiro internacional.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ADM624",
+      "Nome": "Tópicos Esp Estr Sist Inf Org",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conteúdo variável.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ADM626",
+      "Nome": "Tópicos Esp em Marketing I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conteúdo variável.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ADM628",
+      "Nome": "Tópicos Esp em Marketing II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conteúdo variável.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ADM717",
+      "Nome": "Opções e Derivativos I",
+      "Créditos": "4.0",
+      "Teórica": "40",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Não cadastrada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ADM734",
+      "Nome": "Análise de Risco",
+      "Créditos": "4.0",
+      "Teórica": "40",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "ANALISE DE RISCOS NO MERCADO FINANCEIRO.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ADM774",
+      "Nome": "Macro-finanças II",
+      "Créditos": "4.0",
+      "Teórica": "40",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Análise da Política Econômica do Plano Real;Panorama Macroeconômico Internacional: os Grandes Atores Internacionais,Riscos;Panorama Macroeconômico Brasileiro e Perspectivas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAD357",
+      "Nome": "Análise de Regressão",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Regressão linear simples. Análise de ajuste. Estudo dos resíduos. Regressão múltipla. Correlação múltipla. Violações de hipóteses básicas. Transformações de variáveis. Seleção de modelos por encolhimento (Lasso e Ridge) e métodos de estimação para grandes bases de dados. Tratamento, por meio de exemplos, de questões relacionadas ao meio ambiente e de questões étnico-raciais.\n",
+       "BibliografiaBasica": "1- A. Agresti. Foundations of linear and generalized linear models. 2015, Wiley.\n2- A. Dobson, A. G. Barnett. An introduction to generalized linear models 3.ed. Boca Raton : CRC Press, 2008\n3- T. Hastie, R. Tibshirani and J. Friedman. The Elements of Statistical Learning: Data Mining, Inference, and Prediction, second edition, Springer.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 10:00",
+        "professor": "WIDEMBERG DA SILVA NOBRE"
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 10:00",
+        "professor": ""
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 10:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MAD351",
+       "MAE125"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAD368",
+      "Nome": "Confiabilidade",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Vida de um componente e principais distribuicoes a ela associadas. Equipamentos com taxa de falha crescente. Estudo da estrutura de sistemas. Funcoes de estrutura. Estruturas coerentes. Cortes e caminhos. Funcao de confiabilidade. Sistemas monotonos. Construcao e avaliacao de arvores de falhas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MAD352"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAD474",
+      "Nome": "Teoria da Decisão",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceitos básicos em teoria da decisão. Diagramas de influência e árvores de decisão. Utilidade e recompensa. Análise de sendibilidade. Estudo de casos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MAD351"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAD485",
+      "Nome": "Análise de Séries Temporais",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceitos iniciais. Estacionaridadde. Autocorrelacao, modelos no dominio tempo e da frequencia. Metodos de decomposicao e de amortecimento e de auto-regressao. Modelagem Box-Jenkis: univariado, funcao de transferencia e intervencao e multivariado. Analise espectral. Modelos estruturais: espaco de estado e previsao Bayesyana.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 10:00",
+        "professor": "JOAO BATISTA DE MORAIS PEREIRA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 10:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MAD357"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAE002",
+      "Nome": "Modelagem Matem Finanças II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Cálculo de Itô;  Teorema de Girsanov e Teorema de representação de martingais; Teoremas Fundamentais de Finanças; Opções Exóticas; Troca do Numerário.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ICP121",
+       "MAD233",
+       "MAE127"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAE006",
+      "Nome": "Monitoria B",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Realização de trabalho que implique em prática didática e de organização de aulas teóricas ou práticas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAE008",
+      "Nome": "Iniciação Científica B",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Realização de trabalho que implique em desenvolvimento de aptidões e criatividade e no que se refere à prática de investigação científica.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAE011",
+      "Nome": "Tóp Engenharia Matemática B",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Ementa variável.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAE013",
+      "Nome": "Tóp em Ciências de Dados A.",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Ementa variável.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAE015",
+      "Nome": "Tóp em Engenharia de Dados A.",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Ementa variável.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAE017",
+      "Nome": "Matemática Concreta",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "I) Recorrência e Indução. Solução de problemas por recorrência. Demonstração por indução. Equações de recorrência. Métodos de Álgebra Linear aplicados às recorrências. II) Somas. Propriedades do somatório. Manipulação de somas. Somas duplas e múltiplas. Notação de Iverson para somas. Somas como anti-diferenças. Potências decrescentes. Somas por partes. III) Coeficientes Binomiais. Definição. Generalização para números reais. Propriedades. Identidades binomiais por argumento polinomial. Teorema binomial. Convolução de Vandermonde.\nIV) Funções geradoras. Definição. Manipulação algébrica. Manipulação analítica. Propriedades combinatórias. Decomposição em frações parciais. Solução de recorrências não-lineares via funções geradoras. V) Comportamento Assintótico. Notação assintótica O(), o(). Propriedades formais. Propriedades analíticas. Técnicas de estimativa assintótica. Aproximação usando séries assintóticas divergentes. Exemplos clássicos.\n___BIBLIOGRAFIA BÁSICA___\n1) R.L.Graham, D.E. Knuth, O. Patashnik, Concrete Mathematics. (Reading, Massachusetts: Addison-Wesley, 1994), xiii+657pp.\nISBN 0-201-55802-5\nErratas em: https://www-cs-faculty.stanford.edu/~knuth/gkp.html\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAE019",
+      "Nome": "Equações Diferenc Estocásticas",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Movimento Browniano e o processo de Wiener. Integração estocástica. Equações diferenciais estocásticas. Equação de Fokker-Planck. Fórmula de Feynman-Kac. Convergência forte e fraca de aproximações numéricas. Métodos de Euler-Maruyama e de Milstein.\nBibliografia básica\n1) D. J. Higham & P. E. Kloeden. An Introduction to the Numerical Simulation of Stochastic Differential Equations. SIAM, 2021.\n2) B. Øksendal. Stochastic Differential Equations. An Introduction with Applications. Springer-Verlag, 2003.\n3) P. E. Kloeden & E. Platen. Numerical Solution of Stochastic Differential Equations. Springer-Verlag, 1992.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "10:00 - 12:00",
+        "professor": "RICARDO MARTINS DA SILVA ROSA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MAD352",
+       "MAE127",
+       "MAE240"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAE353",
+      "Nome": "Top de Matematica Aplicada A",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Variavel\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 15:00",
+        "professor": "LACRAMIOARA MARIANTY IONEL"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 15:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAE473",
+      "Nome": "Tóp de Matemática Aplicada C",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Não cadastrada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "15:00 - 17:00",
+        "professor": "FRANCESCO NOSEDA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "15:00 - 17:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAWZ02",
+      "Nome": "Ativ Curricular Extensão II",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "0",
+      "Extensão": "120",
+      "Informação": {
+       "Info": "Atuação em atividades de extensão como programas, projetos, empresa júnior, eventos e cursos de extensão, presenciais ou à distância.\n___Bibliografia Recomendada___\n1- Bibliografia recomendada pelo coordenador da atividade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAWZ04",
+      "Nome": "Ativ Curricular Extensão IV",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "0",
+      "Extensão": "30",
+      "Informação": {
+       "Info": "Atuação em atividades de extensão como programas, projetos, empresa júnior, eventos e cursos de extensão, presenciais ou à distância.\n___Bibliografia Recomendada___\n1- Bibliografia recomendada pelo coordenador da atividade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ADM611",
+      "Nome": "Administração de Marketing",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceito de Marketing. Segmentação de Mercado, Posicionamento de Mercado, Pesquisa de Marketing, Política de Produtos, Política de Distribuição, Comunicação Integrada, Estudo do Comportamento do Consumidor.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ADM613",
+      "Nome": "Ger Compras e Fornecimento",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução às Compras e Gerência de Fornecimento. a Organização de Compras. Estrutura de Compras. Procedimentos de Compras. Equipes Multifuncionais. Interação com outras funções na empresa. Estratégia de Compras. Desenvolvimento de Estratégias de Compras. Questões de Implementação de estratégias de compras. Decisões de Terceirização. Parcerias. Gerencia de Fornecedores. Ferramentas e Técnicas de Apoio à Atividade de Compras. Compras e o Comércio Eletrônico. Questões de Negociação. Tendências Futuras.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ADM615",
+      "Nome": "Contabilidade Financeira",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Objetivos e metodologia da contabilidade, Princípios e Convenções Contábeis. O balanço patrimonial e seus principais grupos de contas, depreciação amortização, e exaustão, demonstração de resultados, demonstração de origens e aplicações, outros relatórios contábeis, princípios indicadores contábeis, análise vertical e horizontal, método Du Pont.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ADM617",
+      "Nome": "Top em Marketing de Serviços",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conteúdo variável.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ADM619",
+      "Nome": "Tópic Espec Finan Controle I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conteúdo variável.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ADM621",
+      "Nome": "Gestão Estr Tec Informação",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O novo ambiente de negócios. A Evolução/Revolução da tecnologia da Informação. O Alinhamento Estratégico da Tecnologia. o Redesenho de Processos. A Internet. O Comércio Eletrônico. A Gestão das Informações de Clientes, Fornecedores e Concorrentes.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ADM623",
+      "Nome": "Tópicos Esp Op Logística I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conteúdo variável.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ADM625",
+      "Nome": "Tópic Espec Finan Controle II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conteúdo variável.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ADM627",
+      "Nome": "Tópicos Esp Op Logística II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conteúdo variável.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ADM716",
+      "Nome": "Mercado de Capitais",
+      "Créditos": "4.0",
+      "Teórica": "40",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "ESTE CURSO OFERECE UMA INTRODUÇÃO APLICADA AO APREÇAMENTO DE ATIVOS (ASSET PRICING). O CURSO EMPREGA CONHECIMENTOS BÁSICOS SOBRE O MERCADO FINANCEIRO BRASILEIRO E SEUS PRINCIPAIS TÍTULOS ADQUIRIDOS EM ADM752(\"MACROFINANÇAS\") E INICIA ABORDANDO A TEORIA DE CARTEIRAS, PASSANDO PELA OTIMIZAÇÃO DE CARTEIRAS DE MARKOWITZ E FATORES ÚNICOS ATÉ SE CHEGAR À DISCUSSÃO DOS MODELOS DE AVALIAÇÃO DE ATIVOS FINANCEIROS,TAIS COMO O CAPM,APT E OUTROS MODELOS EMPÍRICOS.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ADM718",
+      "Nome": "Opções e Derivativos II",
+      "Créditos": "4.0",
+      "Teórica": "40",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Não cadastrada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ADM752",
+      "Nome": "Macro-finanças I",
+      "Créditos": "4.0",
+      "Teórica": "40",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "1-Agregados Macroeconômicos e Principais Identidades e Contábeis;\n2- Noções Básicas sobre Mercados Financeiros;\n3- Políticas Macroeconômicas e Principais Instrumento;\n4- O manejo dos instrumentos de política macroeconômica na visão dos ortodoxos e dos heterodoxos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAD351",
+      "Nome": "Inferência Estatística I",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Inferência indutiva. Distribuições amostrais. Estatísticas de ordem. Propriedades dos estimadores. Métodos de estimação pontual. Procedimentos Bayesianos. Estimação por intervalo e por região de confiança. Testes de Hipóteses.\n",
+       "BibliografiaBasica": "1- DeGroot, M. H. e Schervish, M. J. Probability and Statistics, 4. ed., Boston: Addison-Wesley, 2011.\n2- A. M. Mood, F. A. Graybill, D. C. Boes, Introduction to the Theory of Statistics, 3rd ed., New York: McGraw Hill, 1974.\n3- Migon, H. S., Gamerman, D., Louzada, F. Statistical Inference: An Integrated Approach, 2. Ed. CRC Press Taylor & Francis Group Series: Chapman & Hall/CRC, 2014\n",
+       "BibliografiaComplementar": "1- G. Casella, R. L. Berger, Statistical Inference, 2nd ed., Pacific Grove: Duxbury/Thomson Learning, 2002.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "10:00 - 12:00",
+        "professor": "THAIS CRISTINA OLIVEIRA DA FONSECA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       },
+       {
+        "dia": "Sex",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MAD233"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAD360",
+      "Nome": "Estatística Computacional",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introducao a computacao Estatistica. Regressao: Fatorizacao de Cholesky, o operador Sweep, Algoritimo QR, Decomposicao em valor singular. Metodos de integracao. Metodos de otimizacao. Geracao de numeros aleatorios. Simulacao.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MAB121",
+       "MAD351"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAD471",
+      "Nome": "Controle Estat de Qualidade",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Especificacoes de qualidade e de tolerancia. Graficos de controle de variaveis e de atributos. Principais tipos de graficos de controle. Planos de inspecao por amostragem. Principais planos de Amostragem simples, dupla e sequencial. Normas internacionais para inspecao por amostragem.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "10:00 - 12:00",
+        "professor": "RALPH DOS SANTOS SILVA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MAD351"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAD475",
+      "Nome": "Econometria",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O modelo linear geral. Multicolinearidade. Heterocedasticidade e autocorrelacao. Erros de medidas. Estimacao com variaveis defasadas. Uso de variaveis binarias. Modelos de equacoes simultaneas. Identificacao e estimacao. Estimacao por variaveis instrumentais. Modelos de escolha qualitativa. Analise de dados de painel.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MAD357"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAE001",
+      "Nome": "Modelagem Matem Finanças I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Modelo Binomial de precificação de derivativos;  Probabilidade em espaços finitos, variáveis aleatórias, esperança;  Esperança condicional, Martingais e Processos de Markov com aplicações em finanças; Troca de medida, Teorema de Radon-Nikodin;  Derivativos americanos dependentes e independentes do caminho. Tempo de parada.  Passeios aleatórios, princípio da reflexão e aplicações em finanças;  Modelos de taxas de juros.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 10:00",
+        "professor": "MARCO AURELIO PALUMBO CABRAL"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 10:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "ICP121",
+       "MAE121",
+       "MAE125"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAE005",
+      "Nome": "Monitoria A.",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Realização de trabalho que implique em prática didática e de oganização de aulas teóricas ou práticas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAE007",
+      "Nome": "Iniciação Científica A.",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Realização de trabalho que implique em desenvolvimento de aptidões e criatividade e no que se refere à prática de investigação científica.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAE010",
+      "Nome": "Tóp Engenharia Matemática A.",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Ementa variável.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 12:00",
+        "professor": "ADRIANO MAURICIO DE ALMEIDA CORTES"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAE012",
+      "Nome": "Tóp Engenharia Matemática C",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Ementa variável.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAE014",
+      "Nome": "Tóp em Ciências de Dados B",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Ementa variável.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "15:00 - 17:00",
+        "professor": "HAMIDREZA ANBARLOOEI"
+       },
+       {
+        "dia": "Qui",
+        "hora": "15:00 - 17:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAE016",
+      "Nome": "Tóp em Engenharia de Dados B",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Ementa variável.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "10:00 - 12:00",
+        "professor": "MILTON RAMOS RAMIREZ"
+       },
+       {
+        "dia": "Qua",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAE018",
+      "Nome": "Introdução à Física Matemática",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "I) Mecânica clássica de partículas pontuais (Refs 1, 2, 3.vol1): Leis de Newton, pêndulo, mola, problema de Kepler, sistemas de partículas com vínculos, formalismos Lagrangiano e Hamiltoniano. II) Fenômenos de sistemas contínuos (Ref 1): Propagação de ondas, propagação de calor. III) Termodinâmica e modelos microscópicos (Ref 3.vol5): Leis da termodinâmica para quantidades macroscópicas, exemplos, propriedades dos gases, modelos mecânico-estatísticos com muitas partículas. IV) Campos de forças (Ref 1, 3.vol2): Campo gravitacional e distribuições de massa, campo elétrico e distribuições de carga, campo magnético, teoria eletromagnética, ondas eletromagnéticas. V) Tópicos avançados (breve introdução): Mecânica quântica (Refs 1, 3.vol3) e Relatividade especial (Ref 1)\n___BIBLIOGRAFIA BÁSICA___\n1) Iniciação à Física Matemática, Juan López Gondar, Rolci Cipolatti, IMPA (2016).\n2) Classical Dynamics: A Contemporary Approach, Jorge V. José, Eugene J. Saletan, Cambridge University Press.\n3) Série Curso de Física Teórica de Landau, Lifshitz: Mecânica (vol 1); Teoria de campos clássicos (vol 2); Física estatística (vol 5); Mecânica quântica não relativista (vol 3).\n4) The Feynman Lectures on Physics, vol 1 (Mecânica, radiação e calor), vol 2 (Eletromagnetismo), vol 3 (Mecânica quântica).\n5) Mathematical Methods in Classical Mechanics, V. Arnold; bom para tópicos mais avançados de mecânica clássica.\n6) Statistical Mechanics, K. Huang; para a parte de termodinâmica e mec. Estatística.\n7) Classical Electrodynamics, J.D. Jackson; para eletromagnetismo e método das imagens\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MAE125",
+       "MAE127",
+       "MAE231",
+       "MAE240"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAE352",
+      "Nome": "Álgebra Linear Avançada",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Vetoriais e Transformações Lineares.Bases e Dimensão. Determinantes e Formas Multilineares.Produto Interno.Espaço Dual. Auto-Valores e Auto-Vetores,Complexificação.Operadores Simétricos,Unitários e Normais.Decomposição Espectral.Forma Canônica de Jordan.Decomposição em Valores Singulares.Normas de Matrizes.Condicionamento.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MAE125"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAE363",
+      "Nome": "Top de Matematica Aplicada B",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Variavel\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAWZ01",
+      "Nome": "Ativ Curricular Extensão I",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "0",
+      "Extensão": "120",
+      "Informação": {
+       "Info": "Atuação em atividades de extensão como programas, projetos, empresa júnior, eventos e cursos de extensão, presenciais ou à distância.\n___Bibliografia Recomendada___\n1- Bibliografia recomendada pelo coordenador da atividade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAWZ03",
+      "Nome": "Ativ Curricular Extensão III",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "0",
+      "Extensão": "75",
+      "Informação": {
+       "Info": "Atuação em atividades de extensão como programas, projetos, empresa júnior, eventos e cursos de extensão, presenciais ou à distância.\n___Bibliografia Recomendada___\n1- Bibliografia recomendada pelo coordenador da atividade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     }
+    ]
+   },
+   "obrigatorias": 18,
+   "eletivas": 56,
+   "ano": "2003/1 a 9999/9"
+  }
+ ]
+}

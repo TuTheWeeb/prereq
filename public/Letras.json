@@ -1,0 +1,682 @@
+{
+ "Letras": [
+  {
+   "materias": {
+    "1º Período": [
+     {
+      "Codigo": "LEL101",
+      "Nome": "Teoria Literaria I",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A cultura: arte, ciencia, jogo, mito e ideologia. A constituicao do fenomeno literario. A questao da temporalidade e da periodizacao literaria. Teoria e critica literaria. O texto e a leitura: metodologias.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEF141",
+      "Nome": "Linguistica I",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introducao. Objeto e campos da linguistica. Ciencias afins. Estrutura das linguas. Procedimentos de descricao e analise.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEV101",
+      "Nome": "Portugues I",
+      "Créditos": "6.0",
+      "Teórica": "90",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A lingua portuguesa no brasil. Variedades de uso. Normas regionais e sociais. Analise gramatical e estilistica de textos contemporaneos. Tecnicas de expressao escrita.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "2º Período": [
+     {
+      "Codigo": "LEL111",
+      "Nome": "Teoria Literaria II",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Problematizacao dos generos literarios. Visao diacronica de teoria dos generos. Conceitos basicos de teoria dos generos. A diversificacao na obra literaria. Estruturacao e desestruturacao dos generos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEL101"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEF151",
+      "Nome": "Linguistica II",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Fonetica e fonologia. Aparelho fonador. Tipos articulatorios. Sistema de transcricao fonetica. Vogais e consoantes. Fonema e alofone. Transcricao e analise fonemicas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEF141"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEV111",
+      "Nome": "Portugues II",
+      "Créditos": "6.0",
+      "Teórica": "90",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Morfo-sintaxe sincronica. O vocabulo: sua classe, estrutura e funcao. As categorias gramaticais. Analise de textos em portugues contemporaneo.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEV101"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "3º Período": [
+     {
+      "Codigo": "LEL201",
+      "Nome": "Teoria Literaria III",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Aprofundamento do conceito de critica literaria. Poeticas e teorias criticas: tracos principais do pensamento classico, romantico e pos-romantico. A estilistica, o new-criticism e o formalismo russo.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEL111"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEV201",
+      "Nome": "Portugues III",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Fonetica e fonologia sincronica. Conceitos basicos. Analise fonetica do portugues culto do rio de janeiro.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEV111"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEF241",
+      "Nome": "Linguistica III",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Morfologia e sintaxe. Gramatica e lexico. Unidades, categorias e funcoes gramaticais. Estrutura sintatica. Problemas de analise gramatical do portugues.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEF151"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEL261",
+      "Nome": "Evolucao da Literatura I",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Não cadastrada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "4º Período": [
+     {
+      "Codigo": "LEL211",
+      "Nome": "Teoria Literaria IV",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Poeticas e teorias criticas da contemporaneidade: hermeneutica, estruturalismo, a analise sociologica, a critica semiologica, as esteticas da recepcao e do efeito, a abordagem de base psicanalitica.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEL201"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEV211",
+      "Nome": "Portugues IV",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Historia externa e interna. Origem e formacao da lingua. Fonologia, morfologia e sintaxe historicas. O lexico. Comentario filologico.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEV201"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEF251",
+      "Nome": "Linguistica IV",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Linguistica aplicada ao ensino de linguas. Variacoes linguisticas. Conceito de lingua padrao. O ensino do portugues como lingua materna. O ensino de linguas estrangeiras.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEF241"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEL265",
+      "Nome": "Evolucao da Literatura II",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Não cadastrada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEL261"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "5º Período": [
+     {
+      "Codigo": "LEV370",
+      "Nome": "Literatura Brasileira I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O processo literario brasileiro. A poesia das origens a atualidade. Estudo das principais tendencias estetico culturais da literatura brasileira das origens a atualidade, atraves da analise de autores e obras representativas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ]
+   },
+   "obrigatorias": 15,
+   "eletivas": 0,
+   "ano": "1983/1 a 1997/2"
+  },
+  {
+   "materias": {},
+   "obrigatorias": 0,
+   "eletivas": 0,
+   "ano": "1998/1 a 2009/2"
+  },
+  {
+   "materias": {
+    "1º Período": [
+     {
+      "Codigo": "LEL100",
+      "Nome": "Teoria Literária I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A cultura: arte, ciência, jogo, mito e ideologia. A constituição do fenômeno literário. A questão da temporalidade e da periodização literária. Teoria e crítica literária. O texto e a leitura: metodologias.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "20:00 - 22:00",
+        "professor": "MARCELO DINIZ MARTINS"
+       },
+       {
+        "dia": "Qui",
+        "hora": "20:00 - 22:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEWX01",
+      "Nome": "Atividades Complementares",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "200",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Participação em aula inaugural, congressos, colóquios, seminários (PIBIC e JIC), encontros acadêmicos, defesas de tese, realizados na Faculdade de Letras e na Faculdade de Educação a partir do 1º período letivo.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEF140",
+      "Nome": "Fundamentos da Linguística",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceito de lingüística. Linguagem e língua. Breve história da lingüística. Principais correntes da Lingüística. Relação entre a Lingüística e outras áreas. Aquisição da linguagem e habilidades cognitivas gerais.\n",
+       "BibliografiaBasica": "1) CAMARA JR., Mattoso. Dicionário de linguística e gramática. 11 ed. Petrópolis: Vozes, 1984;\n2) CAMARA JR., Mattoso. Princípios de linguística geral. Rio de Janeiro: Padrão, 1980;\n3) FIORIN, J. L. (org.). Introdução à linguística. São Paulo: Contexto, 2002;\n4) FROMKIN, V.; RODMAN, R. Introdução à linguagem. Coimbra: Almedina, 1993;\n5) FURTADO DA CUNHA, M. A.; RIOS DE OLIVEIRA, M.; MARTELOTTA, M. (orgs.). Linguística funcional: teoria e prática. Rio de Janeiro: DP&A, 2003;\n6) LANGACKER, R. A linguagem e sua estrutura. Petrópolis: Vozes, 1980;\n7) MARTELOTTA, M. Manual de linguística. São Paulo: Contexto, 2008;\n8) LYONS, J. Linguagem e linguística: uma introdução. Rio de Janeiro: Zahar, 1982;\n9) MOLLICA, Maria Cecília; BRAGA, Maria Luiza (orgs). Introdução à sociolinguística: o tratamento da variação. São Paulo: Contexto: 2003;\n10) MUSSALIM, F.; BENTES, A. C. (orgs.). Introdução à linguística: domínios e fronteiras. São Paulo: Cortez, 2001;\n11) PERINI. Sofrendo a gramática. São Paulo: Ática, 2000;\n12) ROBINS, R. H. Pequena história da linguística. Rio de Janeiro: Ao Livro Técnico, 1983;\n13) SAUSSURE, F. Curso de Linguística Geral. São Paulo: Cultrix, 2006.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "18:00 - 20:00",
+        "professor": "PRISCILLA MOUTA MARQUES"
+       },
+       {
+        "dia": "Qui",
+        "hora": "18:00 - 20:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEV113",
+      "Nome": "Produção Leitura Textos Lp",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Produção e interpretação de diferentes gêneros textuais.  O planejamento do texto: definição e organização do conteúdo.  A estrutura do texto: coesão, coerência.  Técnicas de expressão oral e escrita, nas diferentes modalidades da língua, tendo em vista, particularmente, o domínio das variedades cultas e mais formais do Português.  Redação acadêmico-científica.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "11:10 - 12:50",
+        "professor": "SILVIA RODRIGUES VIEIRA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "11:10 - 12:50",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "2º Período": [
+     {
+      "Codigo": "LEF150",
+      "Nome": "Fund de Análise Fonológica",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Campo da fonética e campo da fonologia. A fonética e suas aplicações. Fonética articulatória: mecanismos da fala, aparelho fonador, transcrição fonética e unidades supra-segmentais. Conceitos básicos em fonologia. Sistemas fonológicos: traços distintivos e sua função. Classes naturais. Processos fonológicos. Estrutura prosódica. Modelos de análise fonológica.\n",
+       "BibliografiaBasica": "1) BISOL, Leda (org.). Introdução a estudos de fonologia do português brasileiro. Porto Alegre: EDIPURCS, 1999;\n2) CAGLIARI, Luiz Carlos. Análise fonológica: introdução à teoria e à prática. Campinas: Mercado das Letras, 2002;\n3) CRYSTAL, David. Dicionário de linguística e fonética. Rio de Janeiro: Zahar, 1988;\n4) FIORIN, José Luiz (org.). Introdução à Linguística: princípios de análise. São Paulo: Contexto, 2003;\n5) MARTINS, Maria Raquel D. Ouvir falar: introdução à fonética do português. Lisboa: Caminho, 1987;\n6) MUSSALIN, F.; BENTES, A. C. (org.). Introdução à linguística: domínios e fronteiras. São Paulo: Cortez, 2000;\n7) SILVA, Thais Cristófaro. Fonética e Fonologia do português. São Paulo: Contexto, 2001;\n8) SILVA, Thais Cristófaro. Exercícios de Fonética e Fonologia. São Paulo: Contexto, 2003.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEF140"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEV100",
+      "Nome": "Variação em Língua Portuguesa",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A Língua Portuguesa no Brasil. A descrição lingüística: conceitos básicos. Situação histórico-cultural da Língua Portuguesa. Unidade e diversidade lingüística no Português do Brasil. Unidade e/ou pluralidade de normas. Problemas práticos de descriçção do português em função do ensino.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDF120",
+      "Nome": "Filos Educação Mundo Ocidental",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Contribuições das concepções filosóficas do século XX para a problemática educacional. O pensamento pedagógico brasileiro dos anos 1920 a 1980. Contribuições das concepções filosóficas para a problemática educacional. O pensamento pedagógico brasileiro à luz da filosofia da educação.\n",
+       "BibliografiaBasica": "1) ARISTÓTELES. A ética a Nicômacos. Trad. Mario da Gama Cury. Brasília, DF: EdUnb, 1985 (2ª ed).\n2) BRÉHIER, Émile. História da Filosofia. São Paulo: Mestre Jou, 1977, tomo II, fasc.4\n3) DURKHEIM, Emile. Educação e Sociologia. São Paulo: Edições 70, 2001.\n",
+       "BibliografiaComplementar": "1) JAEGER, Werner. Paidéia. São Paulo: Martins Fontes, 1995.\n2) MAZZOTTI, Tarso Bonilha, OLIVEIRA, Renato José de. O que você precisa saber em ciência (s) da educação. Rio de Janeiro: DPA, 2000.\n3) PLATÃO. República. Trad. Maria Helena Rocha. Lisboa: Fundação Calouste Gulbenkian, 1990 (6ª. ed.).\n4) ROUSSEAU, J. J. Emílio ou da educação. Trad. Roberto Leal Ferreira. São Paulo, SP: Martins Fontes, 2004 (3ª ed).\n5) GADOTTI, Moacir. Pensamento pedagógico brasileiro. São Paulo: Ática, 1991.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEL110",
+      "Nome": "Teoria Literária II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Problematização dos gêneros literários. Visão diacrônica e conceitos básicos da teoria dos gêneros. A diversificação na obra literária. Estruturação e desestruturação dos gêneros.\n___Bibliografia Recomendada___\n1- ARISTÓTELES, Poética. Trad. Eudoro. São Paulo: Ars Poetica, 1993.\n2- FRIEDRICH, Hugo. Estrutura da lírica moderna (da metade do século XIX a meados do século XX). São Paulo: Duas Cidades, 1978.\n3- BAKHTIN, Mikhail. Questões de literatura e de estética: a teoria do romance. Trad. Aurora Fornoni Bernardini et al. São Paulo: Hucitec, 1990.\n4- VERNANT, Jean- Pierre e VIDAL-NAQUET, Pierre. Mito e tragédia na Grécia antiga. São Paulo: Perspectiva, 2011.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "3º Período": [
+     {
+      "Codigo": "LEV112",
+      "Nome": "Fonologia da Língua Portuguesa",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Fonética e fonologia sincrônicas do Português do Brasil. Conceitos básicos. Vocalismo, consonantismo e prosódia. Processos fonético-fonológicos. Variação e mudança.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEV100",
+       "LEV113"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEF240",
+      "Nome": "Fund de Análise Sintática",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Unidades mínimas da morfo-sintaxe. Categorização lexical. Ligação entre constituintes da sentença. Operação sintáticas básicas: juntar e mover. Traços morfológicos, concordância e caso. Interpretação composicional e idiomatização.\n",
+       "BibliografiaBasica": "1) FROMKIN, V.; RODMAN, R. Introdução à linguagem. Coimbra: Almedina, 1993;\n2) LYONS, J. Linguagem e linguística: uma introdução. Rio de Janeiro: Zahar, 1982;\n3) MIOTO, C., M. C. F. Silva; LOPES, R. E. V. Manual de sintaxe. Florianópolis: Editora Insular, 2000;\n4) PASSOS, C.; PASSOS, M. E. Princípios de uma gramática modular. São Paulo: Contexto, 1990;\n5) RAPOSO, E. Teoria da gramática. A faculdade da linguagem. Lisboa: Caminho, 1992;\n6) RIEMSDIJK, H.; WILLIANS, E. Introdução à teoria da gramática. São Paulo: Martins Fontes, 1991;\n7) ROSA, M. C. Introdução à Morfologia. São Paulo: Contexto, 2000.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEF140"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "4º Período": [
+     {
+      "Codigo": "LEV200",
+      "Nome": "Morfologia Língua Portuguesa",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Morfologia sincrônica do Português. Descrição dos mecanismos flexionais e derivacionais do português: perspectiva morfofonêmica. Os macanismos de organização paradigmática e sintagmática do português. O estudo do léxico, das espécies de vocábulos, características combinatórias e sua constituição. As categorias gramaticais. Processos de formação de palavras.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEV100",
+       "LEV113"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEF244",
+      "Nome": "Linguística e Suas Aplicações",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Lingüística aplicada ao ensino de línguas. Variações linguísticas. Conceito de língua padrão. O ensino do português como língua materna. O ensino de línguas estrangeiras.\n",
+       "BibliografiaBasica": "1) ANTUNES, I. Lutas com palavras: coesão e coerência. São Paulo: Parábola Editorial, 2005;\n2) BÁRBARA, L.; ROSINDA, R. (orgs.). Reflexão e ações no ensino aprendizagem de línguas. Campinas: Mercado das Letras, 2003;\n3) BRAGA, M. L.; MOLLICA, M. C. (orgs.). Introdução à sociolinguística varicionisa: o tratamento da variação. São Paulo: Contexto, 2010;\n4) BRAGA, M. L. É um problema de visão para perto, inevitável após os 40 anos de idade, onde o indivíduo tem dificuldades para ver imagem próximas. Onde em remitências anafóricas a categorias não locativas. Linguística, v. 3, nº 1, 2007, p. 117-132;\n5) BORTONI-RICARDO, S. M. A sociolinguística na sala de aula. São Paulo: Parábola Editorial, 2004;\n6) DECAT, B. A relevância da investigação dos processos linguísticos, numa abordagem funcionalista, para os estudos sobre os gêneros textuais. In: Juliano Desiderato Antônio (org.). Estudos descritivos do português. São Carlos: Editora Claraluz, 2008;\n7) FARACO, C. A. Linguística Histórica: uma introdução ao estudo da história das línguas. São Paulo: Ática, 1991;\n8) KOCH, I. V.; ELIAS, V. M. Ler e escrever. Estratégias de produção textual. São Paulo: Contexto, 2009;\n9) LEAL, M.; MOLLICA, M. C. Letramento em EJA. São Paulo: Parábola Editorial, 2009;\n10) MARCUSCHI, L. A. Da fala para a escrita: atividades de retextualização. São Paulo: Cortez, 2001;\n11) MARCUSCHI, L. A. Produção textual, análise de gêneros e compreensão. São Paulo: Parábola Editorial, 2008;\n12) MOLLICA, M. C. (org.). Linguagem para a formação das Letras, Educação e Fonoaudiologia. São Paulo: Contexto, 2009;\n13) MOLLICA, M. C. M.; LEAL, Marisa. Crenças e atitudes no aprendizado do português e da matemática no âmbito escolar. Caderno de Letras da UFF, v. 36, 2008, p. 95-113;\n14) PAIVA, M. C. A variável gênero/sexo. In: MOLLICA, M. C.; BRAGA, M. L. (orgs.). Introdução à sociolinguística: o tratamento da variação. São Paulo: Contexto, 2004;\n15) PAREDES, V. L. Continuidade de referência: nomes, pronomes e anáfora zero em gêneros da fala e da escrita. Linguística, v. 3, nº 1, 2007, p. 159-178;\n16) RIOS DE OLIVEIRA, M.; CEZARIO, M. M. PCN à luz do funcionalismo linguístico. Linguagem e ensino. v. 10, nº 1, 2007, p. 98-108;\n17) VOTRE, S.; CEZARIO, M. M. Sociolinguística. In: MARTELOTTA, M. (org.). Manual de Linguística. São Paulo: Contexto, 2008.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEF140"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "5º Período": [
+     {
+      "Codigo": "LEV210",
+      "Nome": "Morfossintaxe Líng Portuguesa",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Morfossintaxe sincrônica do Português. O vocábulo, sua classe e função. A classificação por critérios (mórfico, semântico e sintático). A estrutura interna dos sintagmas do português: suas classses e funções. Níveis de hierarquia sintática. Mecanismos de organização sintática. Mecanismos de organização da frase, sobretudo em padrão oracional. A estrutura do sujeito e do predicado. Regência, concordância, colocação.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEV100",
+       "LEV113"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "6º Período": [
+     {
+      "Codigo": "LEV300",
+      "Nome": "Sintaxe da Língua Portuguesa",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Sintaxe sincrônica do português. Padrões oracionais. Coordenação e subordinação. Perpectivas de tratamento sintático descritivo e critérios de análise, com base em textos teóricos. Variação sintática.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEV100",
+       "LEV113",
+       "LEV210"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "7º Período": [
+     {
+      "Codigo": "LEWK01",
+      "Nome": "Monografia",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Apresentação e discussão do conceito de pesquisa em geral e de diferentes tipos de questões de pesquisa em ensino de Letras. Estudo bibliográfico e participação em coleta de dados de pesquisa em andamento. Elaboração de um projeto de pesquisa incluindo todas as etapas metodológicas desde a formulação de hipóteses ou perguntas de pesquisa, passando pelo aprofundamento bibliográfico, coleta e análise de dados, até a redação final do trabalho.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sab",
+        "hora": "08:00 - 10:00",
+        "professor": "ROGERIO CASANOVAS TILIO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEV400",
+      "Nome": "Semântica da Língua Portuguesa",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Semântica e lexicologia da língua portuguesa. Análise do significado das formas nos níveis paradigmático. Relações semânticas no nível vocábulo, da frase e do discurso. Teorias do texto.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEV100",
+       "LEV113",
+       "LEV200",
+       "LEV210",
+       "LEV300"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "8º Período": [
+     {
+      "Codigo": "LEV310",
+      "Nome": "História da Língua Portuguesa",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "História externa e interna da Língua Potuguesa. Origem e formação. Aspectos da fonologia, morfologia e sintaxe. O léxico. Estudo de textos representativos de diferentes fases da língua.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEV100",
+       "LEV112",
+       "LEV113"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ]
+   },
+   "obrigatorias": 17,
+   "eletivas": 0,
+   "ano": "2010/1 a 2024/1"
+  },
+  {
+   "materias": {},
+   "obrigatorias": 0,
+   "eletivas": 0,
+   "ano": "2024/2 a 9999/9"
+  }
+ ]
+}

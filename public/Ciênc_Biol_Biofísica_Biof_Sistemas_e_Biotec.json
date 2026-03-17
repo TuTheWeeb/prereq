@@ -1,0 +1,2256 @@
+{
+ "Ciênc Biol: Biofísica- Biof Sistemas e Biotec": [
+  {
+   "materias": {
+    "1º Período": [
+     {
+      "Codigo": "CFB118",
+      "Nome": "Biologia Celular",
+      "Créditos": "6.0",
+      "Teórica": "90",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Biologia Celular: Métodos de estudo da célula. Membrana Plasmática; estrutura, permeabilidade, transporte, receptores de membrana, sinalização celular. Sistemas internos de membrana: retículo endoplasmático, complexo de Golgi, síntese de proteínas. Endocitose, tráfego de membranas. O Citoesqueleto. Organelas produtoras de energia: Mitocôndrias, cloroplastos, peroxissomos. O núcleo: O núcleo interfásico. Ciclo celular e seu controle. Divisão celular. Junções intercelulares, matriz extracelular.\n__ BIBLIOGRAFIA BÁSICA__\n1) Biologia Molecular da Célula - 5ª Ed. Alberts, Bruce; Alberts, Bruce / ARTMED.\n2) Molecular Cell Biology by Harvey Lodish, Arnold Berk, Chris A. Kaiser, and Monty Krieger - 5th edition , 2007.\n3) Biologia Celular e Molecular - 7ª Ed. 2014, Berk, Arnold; Lodish, Harvey; Outros / ARTMED.\n__BIBLIOGRAFIA COMPLEMENTAR__\n1) Como Cultivar Células, Curi, Rui; Curi, Rui / GUANABARA KOOGAN.\n2) Fundamentos da Biologia Celular - 3ª Ed. 2011,Bray, Dennis; Bray, Dennis; Bray, Dennis; Hopkin, Karen; Hopkin, Karen; Hopkin, Karen; Albert, Bruce; Albert, Bruce; Albert, Bruce / ARTMED.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 15:00",
+        "professor": "MARIA CRISTINA MACHADO MOTTA"
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 15:00",
+        "professor": "MARCIA ATTIAS"
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 15:00",
+        "professor": "NARCISA LEAL DA CUNHA E SILVA"
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 15:00",
+        "professor": "FABIO MENDONCA GOMES"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 17:00",
+        "professor": "NARCISA LEAL DA CUNHA E SILVA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 17:00",
+        "professor": "MARCIA ATTIAS"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 17:00",
+        "professor": "MARIA CRISTINA MACHADO MOTTA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "CFB225",
+      "Nome": "Ecologia Geral",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Ecologia: aspectos gerais. Estrutura e funcionamento dos ecossistemas. Fluxo de energia e movimento de materiais nos ecossistemas. Fatores limitantes. Fatores climáticos. Dinâmica de populações. Populações em comunidades. Sucessões ecológicas. Ambiente físico e fatores limitantes. Ecossistemas: fluxo de  energia e ciclos biogeoquímicos. Parâmetros populacionais. Crescimento e regulação de populações. Relações interespecíficas. Conceitos e parâmetros de comunidades. Padrões de biodiversidade. O desenvolvimento da comunidade. A ecologia e a educação ambiental.\n___BIBLIOGRAFIA BÁSICA___\n1) BEGON, M.J.L. HARPER & TOWNSEND, C.R.  Ecology: Individuals, Populations and Communities, Londres/Inglaterra, Ed. Blackwell 1996.\n2) MARGALEF, R. Ecologia, Barcelona/Espanha, Ediciones Omega.\n3) ODUM, E.P. Ecologia, Rio de Janeiro/RJ/Brasil, Guanabara 1983.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) DESHMUKH, I. Ecology and Tropical Biology, Londres/Inglaterra, Ed. Blackwell.\n2) KREBS, C.J. Ecology: The Experimental Analysis of distribuition and abund. New York/EUA, Ed. Harper and Row (3a Ed) 1985.\n3) RICKLEFS, R.  Ecology, New York/EUA, Ed. Chiron Press (3a Ed) 1990.\n4) RICKLEFS, R. A Economia da Natureza, Rio de Janeiro/RJ/Brasil, Guanabara Koogan (3a Ed) 1996.\n5) KREBS, C.J. Ecology: The Experimental Analysis of distribuition and abund. New York/EUA, Harper and Row (3a Ed) 1985.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "SANDRA MARIA FELICIANO DE OLIVEIRA E AZEVEDO"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "SUEMA BRANCO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IQW130",
+      "Nome": "Química para Biociências",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceitos fundamentais sobre a estrutura da matéria. Orbitais atômicos e moleculares. Modelos de ligação química. Correlação entre estrutura e propriedades físico-químicas de substâncias. Água: soluções e efeito hidrofóbico. Acidez e basicidade: pH, pKa, soluções tampão. Conceitos fundamentais de isomeria constitucional e estereoisomeria. Estrutura e propriedades químicas de substâncias orgânicas de interesse biológico: Lipídeos, Carboidratos, Amino-ácidos, Proteínas. Complexos Metálicos de Importância Biológica.\n___BIBLIOGRAFIA BÁSICA___\n1) Química: A Ciência Central. Brown, Lê May, Bursten e Burdge, Pearce Prentence Hall, SP, 9ª Ed., 2005.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) General Chemistry Principles & Structure Brady J.E., John Wiley & Sons, Inc.., 5ª Ed, 1990.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 10:00",
+        "professor": "OSVALDO ANDRADE SANTOS FILHO"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 10:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "CFB116",
+      "Nome": "Conceitos Fund Física Biologia",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "As aulas deverão oferecer ao alunato uma visão global sobre as áreas temáticas dos grupos de pesquisa do IBCCF, e de pesquisadores em diferentes áreas das Ciências Biológicas, Exatas e em Direitos Humanos. Os conferencistas convidados enfatizam a importância das novas abordagens experimentais empregadas e perspectivas de aplicação deste conhecimento em P&D. Ética e educação ambiental. Debate em Direitos Humanos.\n__BIBLIOGRAFIA BÁSICA__\n1) Carlos Chagas Filho. Cultura e Ciência- Coleção Memória. Editora UFRJ, 1989.\n2) Um aprendiz de Ciência- Editora Nova Fronteira, 2000.\n__BIBLIOGRAFIA COMPLEMENTAR__\n1) Revisões e artigos científicos indicados pelos palestrantes.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 15:00",
+        "professor": "BRUSS REBOUCAS COELHO LIMA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "CFB119",
+      "Nome": "Boas Práticas no Laboratório",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceitos básicos de risco, risco biológico e biossegurança; riscos químicos, físicos, radioativos, ergonômicos, psicossociais e biológicos; mapas de riscos; boas práticas de laboratório; segurança no ambiente de trabalho; biossegurança; ética em pesquisa e bioética; responsabilidade social do pesquisador; propriedade industrial; arquitetura e organização de laboratórios; legislação e boas praticas na utilização de animais; organismos geneticamente modificados e seres humanos na experimentação científica; princípios de medidas, precisão e erro; o método científico e a metodologia básica de experimentação; qualidade, saúde e ambiente nas boas práticas de laboratório; prevenção e ação em caso de incêndios; primeiro socorros; carreira, emprego, empreendedorismo; inovação e ciência, empresa Junior.\n__BIBLIOGRAFIA BÁSICA__\n1) Pedro Teixeira e Silvio Valle (Eds.). Biossegurança: uma Abordagem Multidisciplinar. 1ª Edição. Editora Fiocruz, Rio de Janeiro, 362 p., 2000 (2º reimpressão).\n2) Marco Antônio Ferreira da Costa. Qualidade em Biossegurança. 1ª Edição, Editora Qualitymark, Rio de Janeiro, 116 p., 2000.\n3) Olivares, IRB. Gestão de Qualidade em Laboratórios. 1ª Ed Átomo, 2006.\n__BIBLIOGRAFIA COMPLEMENTAR__\n1) Roberto de Almeida Moura, Carlos Wanda, Adhemar Purchio, Therezinha Veastro de Almeida. Técnicas de laboratoio, 3ª Edição. Editora Atheneu, 2008\n2) Marco Antônio Ferreira da Costa. Biossegurança: Segurança Química Básica para Ambientes Biotecnológicos e Hospitalares. 1ª Edição, Editora Santos, São Paulo, 1996.\n3) Almeida, MFC. Boas Práticas de Laboratório. 1ª Ed Difusão Editora, 2009.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 15:00",
+        "professor": "MARCEL FRAJBLAT"
+       },
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 15:00",
+        "professor": "MARIANA BOECHAT DE ABREU"
+       },
+       {
+        "dia": "Sex",
+        "hora": "13:00 - 15:00",
+        "professor": "MARCEL FRAJBLAT"
+       },
+       {
+        "dia": "Sex",
+        "hora": "13:00 - 15:00",
+        "professor": "MARIANA BOECHAT DE ABREU"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "CFWZ51",
+      "Nome": "Ativ Curricular Extensão- Biof",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "0",
+      "Extensão": "360",
+      "Informação": {
+       "Info": "Atuação em atividades registradas na Pró-reitoria de Extensão da UFRJ, como programas, projetos, cursos de extensão e eventos, coordenados por docentes do quadro permanente ou técnicos de carreira de nível superior na UFRJ.\n___  BIBLIOGRAFIA BÁSICA ___\nBibliografia recomendada pelo coordenador da atividade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAE116",
+      "Nome": "Métodos Matemát em Biologia I",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Números, funções, seqüências e limites. Continuidade e deriva. Aplicações de derivadas. Integral definida, técnicas de integração, aplicações da integral definida. Equações diferenciais de primeira ordem homogêneas e não homogêneas. Aplicações à evolução de populações. Algumas equações não lineares (equações separáveis e exatas).\n___BIBLIOGRAFIA BÁSICA___\n1) Cálculo,  Volume I, Tradução da 7a Ed. norte-americana,  James Stewart  Editora: CENGAGE-Learning\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) Differential and Integral Calculus by N. Piskunov -  Routledge 896 pp.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "15:00 - 17:00",
+        "professor": "GILBERTO WEISSMULLER"
+       },
+       {
+        "dia": "Qua",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       },
+       {
+        "dia": "Qui",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "2º Período": [
+     {
+      "Codigo": "CFB126",
+      "Nome": "Introd Programação Biociências",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "História da computação. Aritmética binária. Álgebra de Boole. Funções Booleanas. Tabelas de verdade. Organização de computadores, memórias, unidades centrais de processamento, unidades de entrada, unidades de saída. Linguagem de máquina, de montagem e de alto nível. Algoritmos. Elementos de programação: comandos de entrada e saída de dados, variáveis e constantes, expressões aritméticas, expressões lógicas; comandos sequenciais, dados estruturados, estruturas condicionais, estruturas de repetição, funções, recursividade, leitura e gravação de arquivos. Estruturas de dados abstratas. Módulos e bibliotecas. Programação orientada e objetos.\n__BIBLIOGRAFIA BÁSICA__\n1) Introdução à Programação com Python. 2ª Edição - Nilo Ney Coutinho Menezes. Editora Novatec.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "CFB315",
+      "Nome": "Biodiversidade",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Diversidade em diferentes escalas da organização biológica, dos genes aos ecossistemas, iniciando com idéias sobre a origem dos genes e da vida, passando pela evolução, especiação, extinção e a árvore da vida hoje com os principais grupos taxonômicos. Identificação da biodiversidade em vista das limitações da taxonomia tradicional e a emergência da sistemática molecular. Desafios para conservação da nossa biodiversidade e quais os benefícios que podemos esperar do desenvolvimento de produtos e serviços a partir da biodiversidade. A inserção da biodiversidade na educação Ambiental.\n___BIBLIOGRAFIA BÁSICA___\n1) Campbell, N. Biologia - 8ª Ed. Artmed 2010.\n2) Conservation Biology: An Evolutionary-Ecological Aproach, Ed. Sinauer 1980.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) Pianka, E.P. Evolutionary Ecology ,New York/Eua, Harper And Row 1983.\n2) Primack, Richard B. Usa 1a. Edicao, Essentials Of Conservation Biology Ed. Sinauer 1993.\n3) Pezgy L. Fiedler And Subuh K. Usa 1a. Edição, Jain (Eds), Conservation Biology Ed. Chapman 1992.\n4) Michael E. Soule Usa 1a. Edição ,Conservation Biology: The Science Of Scarcity And Diversity, Ed. Sinauer 1986.\n5) Michael E. Soule And Bruce A. Usa 1a. Edicao, Silcox (Eds).\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "13:00 - 17:00",
+        "professor": "SUEMA BRANCO"
+       },
+       {
+        "dia": "Sex",
+        "hora": "13:00 - 17:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "CFB225"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAE123",
+      "Nome": "Métodos Matemát em Biologia II",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Números complexos. Equações diferenciais lineares de segunda ordem, oscilações simples. Curvas e vetores no espaço. Superfícies, retas e planos, superfícies de rotação e interseção. Funções de Rn em R (n=2,3). Domínios e gráficos. Derivadas parciais e vetor gradiente. Séries, polinômio e série de Taylor, série de Fourier.\n___BIBLIOGRAFIA BÁSICA___\n1) Cálculo,  Volume II, Tradução da 7a Ed. norte-americana,  James Stewart  Editora: CENGAGE-Learning.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) Differential and Integral Calculus by N. Piskunov -  Routledge 896 pp.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "10:00 - 12:00",
+        "professor": "GILBERTO WEISSMULLER"
+       },
+       {
+        "dia": "Qui",
+        "hora": "15:00 - 17:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MAE116"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "CFB124",
+      "Nome": "Bioquímica I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Água, aminoácidos; técnicas de purificação de proteínas; estruturas covalentes de proteínas; estruturas 3D de proteínas; enovelamento de proteínas, dinâmica e evolução estrutural; açúcares e polissacarídeos; lipídeos e biomembranas. Princípios de enzimologia; velocidade de reação enzimática; catálise.\n___BIBLIOGRAFIA BÁSICA___\n1) Princípios de Bioquímica. Michel M. Cox & Albert L. Lehninger; Omega, 6a edição (2014).\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) Bioquímica. Donald Voet & Judith G.Voet; Wiley, 2a edição (1995).\n2) Biochemistry - Reginald H. Garrett & Charles M. Grisham; Brooks Cole, 3rd edition  (2004).\n3) Biochemistry. Lubert Stryer; W H Freeman & Co (Sd), 4th edition (1995)\n4) Molecular Biology of the Cell. Bruce Alberts, et al; Garland Publishing, 4th edition (2002).\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "17:00 - 19:20",
+        "professor": "PEDRO HENRIQUE MONTEIRO TORRES"
+       },
+       {
+        "dia": "Qui",
+        "hora": "17:00 - 19:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "IQW130"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "CFB230",
+      "Nome": "Genética Molecular",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Disciplina dividida em quatro blocos: Material Genético e Expressão Gênica; Controle da Expressão Gênica, Estabilidade do Genoma; Métodos Básicos em Biologia Molecular. Tópicos abordados: O que é Biologia Molecular: origens e princípios. Composição e estrutura de ácidos nucléicos. Estrutura de cromatina. Conceito de genes, organização gênica. Replicação de DNA, mecanismos e enzimas envolvidas. Tipos de RNA e características estruturais. Transcrição em procariotos e eucariotos. Maturação e processamento de RNAs. Biossíntese de proteínas, código genético. Controle da expressão gênica em procariotos. Controle da expressão gênica em eucariotos: transcricional e pós-transcricional. Estabilidade do genoma. Lesões e Reparo de DNA. Mutações. Genética clássica, herança mendeliana. Métodos clássicos em Biologia Molecular e abordagens em larga escala (genômica e pós-genômica). Conta com a realização de seminários pelos alunos e estudos dirigidos baseados em artigos científicos.\n___BIBLIOGRAFIA BÁSICA___\n1) Molecular Biology of the Cell. B. Alberts; D. Bray; Julian Lewis; M.  Raff; K. Roberts. Garland Publishing, Inc. New York & London.\n2) Genes. Benjamin Lewin. Oxford University Press .\n3) Lehninger PRINCIPLES OF BIOCHEMISTRY. David L. Nelson & Michael M. Cox.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) DNA o segredo da Vida, James Watson & Andrew Berry, Companhia das Letras.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IQW131",
+      "Nome": "Química Exp para Biociências",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Normas de segurança em um laboratório de Química. Técnicas elementares de laboratório como lavagem de material, uso de balança, técnicas de transferência de líquidos, uso adequado de vidraria de medida de volume de líquidos. Noções de estatística: erros, exatidão/precisão. Preparo de soluções. Solubilidade de substâncias orgânicas. Introdução à acidez e basicidade, pH, escala de pH, indicadores de pH, acidez e basicidade de substãncias orgânicas, pK, solução tampão. Espectrofotometria: varredura, curva de calibração e determinação da concentração de um corante. Cromatografia em papel. Conceitos introdutórios de cinética\n___BIBLIOGRAFIA BÁSICA___\n1) Constantino, Silva, Donate, Fundamentos de Química Experimental (204).\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) FENTANES, A Tarefa da Ciência Experimental (2014).\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "IQW130"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "3º Período": [
+     {
+      "Codigo": "BMH124",
+      "Nome": "Biolog Tecidual (Morfo Animal)",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceitos Básicos: integração celular, moléculas de adesão, receptores, comunicação celular, matriz extracelular, pluricelularidade. Biologia Tecidual: tecido epitelial, tecido conjuntivo, tecido cartilaginoso, tecido ósseo, sangue e hematopoese, tecido linfóide, tecido muscular, tecido nervoso. Biologia do Desenvolvimento: bases celulares genéticas da morfogênese, gametogênese, fertilização, clivagem, implantação e anexos embrionários, gastrulação, mesoderma, ectoderma, endoderma, fechamento do embrião, embriologia comparada, evolução.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 17:00",
+        "professor": "VALERIA DE MELLO COELHO"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 17:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "CFB118"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "CFB017",
+      "Nome": "Programação para Biociências",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Teoria e prática sobre os métodos e habilidades utilizados para escrever e manter softwares bem estruturados. Estrutura de dados importantes à área de Bioinformática. Prática extensiva de linguagens de programação, como Phyton, C++ e Java.\n___BIBLIOGRAFIA BÁSICA___\n1- TUCKER, ALLEN B; NOOMAN, ROBERT.  Linguagens de Programação - Princípios e Paradigmas. Amgh Editora, 2 ed. 2009.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 15:00",
+        "professor": "PEDRO HENRIQUE MONTEIRO TORRES"
+       },
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 15:00",
+        "professor": ""
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 15:00",
+        "professor": ""
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 15:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "CFB126"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "CFBU01",
+      "Nome": "Estágio Supervisionado I",
+      "Créditos": "3.0",
+      "Teórica": "0",
+      "Prática": "120",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Treinamento do aluno em diversas áreas nos laboratórios de de pesquisa permitindo o aprendizado de técnicas diversas e da metodologia científica.\nObs.: O estágio rotativo implica na escolha de laboratórios diferentes a cada estágio.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "CFB118",
+       "CFB119"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BMA102",
+      "Nome": "Fundamentos de Anatomia",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceituação de anatomia e sua relevância para a área de Biofísica. Princípios de construção corporal. Metodologia do estudo anatômico. Nomenclatura anatômica básica. Organização geral morfofuncional dos sistemas do corpo humano.\n___BIBLIOGRAFIA BÁSICA___\nLivro texto:\n1) DANGELO & FATTINI. Anatomia Humana Sistêmica e Segmentar. 3ª ed. Atheneu. 2007.\n2) DRAKE, R.L., VOGL, W., MITCHELL, A. GRAYs. Anatomia para estudantes. 2ª ed. Rio de Janeiro: Elsevier. 2010.\nAtlas de Anatomia:\n3) SOBOTTA, J. Atlas de Anatomia Humana. 22ª ed. 2 vol. Rio de Janeiro. Guanabara Koogan, 2006.\n4) NETTER, F.H. Atlas de Anatomia Humana. 5ª ed. Rio de Janeiro: Elsevier, 2011.\n___BIBLIOGRAFIA COMPLEMENTAR___\nLivro texto:\n1) MOORE, K.L., DALLEY A.F. Anatomia orientada para a clínica. 6ª. ed. Rio de Janeiro: Guanabara Koogan, 2011.\n2) GRAY. Anatomia. 37ª. ed. Rio de Janeiro: Guanabara Koogan, 1995.\nAtlas de Anatomia:\n3) ROHEN, YOKOCHI. Atlas de Anatomia Humana. 7ª ed.  Editora Manole.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "LUCIANA FERREIRA ROMAO"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "FLAVIA REGINA SOUZA LIMA"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "FLAVIA CARVALHO ALCANTARA GOMES"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "CFB014",
+      "Nome": "Física Biológica I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Movimentos lineares, vetores e movimentos tridimensionais; Forças e movimentos; energia cinética e trabalho; energia potencial e conservação de energia; Sistemas de partículas, colisões e rotações; torque e momento angular; equilíbrio e elasticidade, equilíbrio mecânico no corpo humano; gravitação.\n___BIBLIOGRAFIA BÁSICA___\n1- NELSON, PHILIP. Física Biológica: energia, informação, vida. Editora Guanabara Koogan, 2007.\n2- HOBBIE, RUSSELL K., ROTH, BRADLEY J. Intermediate Physics for Medicine and Biology. Editora Springer, 2007.\n3- NUSSENZVEIG, MOYSES. Curso de Física Básica - Mecânica, vol 1. Editora Blucher, 5 ed, 2013.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "10:00 - 12:00",
+        "professor": "RODRIGO DA COSTA LIMA BRUNI"
+       },
+       {
+        "dia": "Sex",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MAE116"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "CFB232",
+      "Nome": "Bioquímica II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Enzimas, estrutura, função e regulação. Introdução ao metabolismo energético; glicólise; metabolismo do glicogênio; transporte através de membranas; o ciclo do ácido cítrico; sistema de transporte de elétrons e fosforilação oxidativa; outras vias de metabolismo de carboidratos; fotossíntese; metabolismo de lipídios; metabolismo de aminoácidos; ciclo da uréia, metabolismo de nucleotídeos; integração do metabolismo energético; principais hormônios e sua regulação. O curso é ministrado de maneira integrada em todos os tópicos apresentados com discussões de casos clínicos, leitura, apresentação e discussão de artigos científicos.\n___BIBLIOGRAFIA BÁSICA___\n1) Nelson, David L.; M. Cox, Michael. Princípios de Bíoquimica de Lehninger. 6ª edição (2014).\n2) Stryer,. L. Bioquímica. 7ª edition (2014).\n3) Alberts, Bruce. Biologia Molecular da Célula - 5ª edição (2007).\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) Newsholme, Eric and Leech, T. Functional Biochemistry in Health and Disease. 2ª edição (2010).\n2) Da Poian, A. and Castanho, MARB. Integrative Human Biochemistry. 1ª edição (2015).\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "15:00 - 17:00",
+        "professor": "JULIANNA DIAS ZEIDLER"
+       },
+       {
+        "dia": "Qua",
+        "hora": "15:00 - 17:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "CFB124"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "4º Período": [
+     {
+      "Codigo": "CFB015",
+      "Nome": "Física Biológica II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Fluidos, oscilações e ondas; Temperatura, calor e a primeira lei da Termodinâmica; Teoria cinética dos gases; Entropia e a segunda lei da Termodinâmica; Difusão e permeabilidade de membranas.\n___BIBLIOGRAFIA BÁSICA___\n1- NELSON, PHILIP. Física Biológica: energia, informação, vida. Editora Guanabara Koogan, 2007.\n2- HOBBIE, RUSSELL K., ROTH, BRADLEY J. Intermediate Physics for Medicine and Biology. Editora Springer, 2007.\n3- NUSSENZVEIG, MOYSES. Curso de Física Básica - Mecânica, vol 1. Editora Blucher, 5 ed, 2013.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "CFB014",
+       "MAE123"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "CFBU02",
+      "Nome": "Estágio Supervisionado II",
+      "Créditos": "3.0",
+      "Teórica": "0",
+      "Prática": "120",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Treinamento do aluno em diversas áreas nos laboratóriosde de pesquisa permitindo o aprendizado de técnicas diversas e da metodologia científica.\nObs.: O estágio rotativo implica na escolha de laboratórios diferentes a cada estágio.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "CFBU01"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "CFB009",
+      "Nome": "Inovação Empreend Biotecnolog",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A disciplina utilizará atividades de trabalho em grupo e priorizam técnicas de criatividade e da aprendizagem proativa. As aulas fornecerão um arcabouço mínimo sobre temas relevantes ao empreendedorismo com ênfase nos elementos que influenciam o perfil dos empreendedores, organização de ambientes de empreendedorismo, normatização de espaços biotecnológicos, estimulando a inserção futura dos alunos em projetos tecnológicos na bioindústria nacional.\n___BIBLIOGRAFIA BÁSICA ___\n1- PINCHOT, Gifford; PELLMAN, Ron. Intra-empreendedorismo na prática: um guia de inovação nos negócios. Rio de Janeiro: Elsevier, 2004.\n2- DORNELLAS, José Carlos Assis. Empreendedorismo: transformando ideias em negócios. Rio de Janeiro: Campus, 2001.\n3- Craig Shimasaki. Biotechnology Entrepreneurship: Starting, Managing, and Leading Biotech Companies, 2014 ISBN: 978-0-12-404730-3\n___BIBLIOGRAFIA COMPLEMENTAR ___\nArtigos indicados pelos palestrantes.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 12:00",
+        "professor": "DANIELA UZIEL"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "CFB210",
+      "Nome": "Introdução à Bioestatistica",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Variáveis, populações, amostras e técnicas de amostragem. Probabilidade. Gráficos e tabelas. Médias e mediana. Dispersão de uma amostra. Distribuições binomiais e normais. Distribuição de amostragens. Intervalo de confiança. Testes estatísticos (testes paramétricos e não-paramétricos). Correlação. Regressão. Análise de Variância.\n___BIBLIOGRAFIA BÁSICA___\n1) Bioestatística - Princípios e Aplicações, Sidia M. Callegari-Jacques Editora Artmed 2008.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) Biostatistical Analysis, Jerrold H. Zar, 5º Edição.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MAE116"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "CFF224",
+      "Nome": "Fisiologia Geral I",
+      "Créditos": "5.0",
+      "Teórica": "75",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Neurofisiologia: Propriedades dos neurônios, classificação funcional das fibras nervosas, transmissão sináptica: estrutura, mecanismo de transmissão, mediadores químicos, características dos fenômenos de excitação/inibição sináptica. Plasticidade neural; Sistemas sensoriais, sistemas motores. Sistema Nervoso Autônomo. Fisiologia Cardíaca. Características funcionais e excitabilidade do músculo cardíaco. O coração como bomba. Princípios gerais da circulação. Sistema Respiratório: organização morfofuncional do sistema respiratório. Estrutura e função das vias aéreas. Mecânica ventilatória; forças envolvidas no ciclo respiratório. Espirografia. Relação ventilação-perfusão. Transporte e difusão de gases: transporte de O2, curvas de saturação da hemoglobina, transporte de CO2. Regulação da respiração.\n___BIBLIOGRAFIA BÁSICA___\nNEUROFISIOLOGIA\n1) Lent, R. (2004). Cem Bilhões de Neurônios - Conceitos Fundamentais de Neurociências. 2ª Ed. São Paulo, Atheneu.\n2) Purves, D.; Augustine, G.J.; Fitzpatrick, D.; Katz, L.C.; LaMantia, A.-S. e McNamara, J.O. (2005). Neurociências. 2ª  Edição. Porto Alegre: Artmed Editora.\nCARDIOVASCULAR:\n3) Berne&Levy. Fisiologia. 6ª Edição. Ed. Elsevier\n4) Guyton&Hall. Tratado de Fisiologia Médica. 12ª Edição. Ed. Elsevier.\n5) Fisiologia. Autora: Margarida de Mello Aires 4ª (2012). Ed: Guanabara Koogan.\n6) Fisiologia Respiratória - Princípios Básicos - John B. West. 9ª (2013) Ed. Artmed.\n___BIBLIOGRAFIA COMPLEMENTAR___\nNEUROFISIOLOGIA\n1)Lambert, K. e Kinsley, G.H. (2006). Neurociência Clínica ? as bases neurobiológicas da saúde mental. Porto Alegre: Artmed Editora.\n2) Schiffman, H.R. (2005). Sensação e percepção. 5ª Ed. Rio de Janeiro: Editora LTC.\n3) Lundy-Ekman, N. (2004). Neurociência: Fundamentos para a reabilitação. 2ª Ed. Rio de Janeiro: Editora Elsevier.\n4) Kandel, E.R. Schwartz, J.H. e Jessel, T.M. (2003). Fundamentos da Neurociência e do Comportamento. São Paulo: Ed. Manole.\n5) Bear, M.F.; Connors, B.W. e Paradiso, M.A. (2002). Neurociências ? Desvendando o Sistema Nervoso. Porto Alegre, ArtMed Editora.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "5º Período": [
+     {
+      "Codigo": "CFB222",
+      "Nome": "Introdução à Bioinformática",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Treinamento básico na análise de sequências biológicas, em três partes de (i) Análise de Padrões, (ii) Comparação de Sequências, e (iii) Evolução Molecular.\n",
+       "BibliografiaBasica": "1) Mount DW. Bioinformatics: Sequence and genome analysis. Cold Spring Harbor Laboratory Press.\n2) Setubal J &Meidanis J. Introduction to computational molecular biology. PWS PublishingCompany. OBS: baseado no livro Uma Introdução à Biologia Computacional,  publicado pela UFPE).\n3) Pevzner P. An Introduction to Bioinformatics Algorithms. MIT Press.\n4) Nei M & Kumar S. Molecular evolution and phylogenetics. Oxford University Press.\n",
+       "BibliografiaComplementar": "1) Cormen TH. AnIntroductiontoAlgorithms. OBS: tradução para português - Algoritmos, publicado da Elsevier.\n2) Model ML. Bioinformaticsprogrammingusingpython. O'Reilly.\n3) Lewin B. Genes. Jones andBartlett. OBS: versão em português Genes disponível da editora Artmed.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 15:00",
+        "professor": "GRACIELA MARIA DIAS"
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 15:00",
+        "professor": ""
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 15:00",
+        "professor": ""
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 15:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "CFB126",
+       "CFB230"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "CFB353",
+      "Nome": "Imunologia Básica",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Fisiologia do sistema imune. Bases moleculares do sistema imunológico: desenvolvimento, ativação e função linfocitária. Mecanismos efetores da imunidade. Imunidade às infecções.\n___BIBLIOGRAFIA BÁSICA___\n1) Imunologia Celular e Molecular, Abul Abbas, Andrew Lichtman & Jordan Pober.\n2) Imunologia, Charles Janeway, Paul Traves& Mark Walport, J. Donald Capla.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) Artigos Científicos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "10:00 - 12:00",
+        "professor": "ANDRE MACEDO VALE"
+       },
+       {
+        "dia": "Seg",
+        "hora": "10:00 - 12:00",
+        "professor": "MARCELA DE FREITAS LOPES"
+       },
+       {
+        "dia": "Seg",
+        "hora": "10:00 - 12:00",
+        "professor": "LEONARDO HOLANDA TRAVASSOS CORREA"
+       },
+       {
+        "dia": "Seg",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       },
+       {
+        "dia": "Seg",
+        "hora": "10:00 - 12:00",
+        "professor": "ANDRE MACEDO VALE"
+       },
+       {
+        "dia": "Seg",
+        "hora": "10:00 - 12:00",
+        "professor": "MARCELA DE FREITAS LOPES"
+       }
+      ],
+      "Requisitos": [
+       "CFB118"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "CFF314",
+      "Nome": "Fisiologia Geral II",
+      "Créditos": "5.0",
+      "Teórica": "75",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Fisiologia Endócrina: Princípios gerais da ação hormonal. Regulação das funções endócrinas. Regulação endócrina do metabolismo hidrossalino. Regulação endócrina do metabolismo energético. Regulação endócrina da função sexual. Fisiologia Renal: princípios básicos da função renal. Mecanismos de filtração, secreção e reabsorção tubular e mecanismo de regulação. Fisiologia Digestória: Secreção salivar. Mastigação. Deglutição. Trânsito esofágico. Enchimento gástrico e esvaziamento gástrico. Secreção gástrica. Secreção pancreática. Secreção biliar. Intestino delgado. Secreções intestinais. Motilidade do intestino delgado. Digestão e absorção dos principais constituintes da dieta - ácidos aminados e peptídeos, lipídeos, hidratos de carbono, vitamínas, água e íons. Motilidade do intestino grosso. Regulação neuro-hormonal dos processos digestórios.\n___BIBLIOGRAFIA BÁSICA___\n1) Fisiologia, Margarida de Mello Aires, 2ª Ed., Guanabara Koogan, 1999.\n2) The Kidney, Brenner and Rector's. 6ª Ed., Vols. 1 e 2, Saunders, 2000.\n3) Fisiologia, Berne and Levy, 5ª Ed., Guanabara Koogan, 2004.\n4) Textbook of Endocrine Physiology, James E. Griffin and Sergio R. Ojeda ed. Oxford University  Press, 2000.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) Artigos Científicos e Revisões.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "JULIANNA DIAS ZEIDLER"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": ""
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "CLAUDIA FARIAS BENJAMIM"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "RODRIGO SOARES FORTUNATO"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "CLAUDIA FARIAS BENJAMIM"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "RODRIGO SOARES FORTUNATO"
+       },
+       {
+        "dia": "Qui",
+        "hora": "10:00 - 12:00",
+        "professor": "JULIANNA DIAS ZEIDLER"
+       },
+       {
+        "dia": "Qui",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       },
+       {
+        "dia": "Qui",
+        "hora": "10:00 - 12:00",
+        "professor": "JENNIFER LOWE"
+       },
+       {
+        "dia": "Qui",
+        "hora": "10:00 - 12:00",
+        "professor": "RODRIGO SOARES FORTUNATO"
+       },
+       {
+        "dia": "Qui",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       },
+       {
+        "dia": "Qui",
+        "hora": "10:00 - 12:00",
+        "professor": "JENNIFER LOWE"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "CFB016",
+      "Nome": "Física Biológica III",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Cargas elétricas e campos elétricos; Potencial elétrico e correntes; Magnetismo. Aplicações em Biologia: propriedades elétricas das células (equilíbrio de Donnan, Potencial de Nerst-Plank e modelo de Hodgkin-Huxley); Íons em solução; Modelo de Debye-Huckel e o Modelo de Gouy-Chapman.\n___BIBLIOGRAFIA BÁSICA___\n1- NELSON, PHILIP. Física Biológica: energia, informação, vida. Editora Guanabara Koogan, 2007.\n2- HOBBIE, RUSSELL K., ROTH, BRADLEY J. Intermediate Physics for Medicine and Biology. Editora Springer, 2007.\n3- NUSSENZVEIG, MOYSES. Curso de Física Básica - Mecânica, vol 1. Editora Blucher, 5 ed, 2013.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 10:00",
+        "professor": "RODRIGO DA COSTA LIMA BRUNI"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 10:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "CFB014",
+       "MAE123"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "CFB311",
+      "Nome": "Físico-química Biológica",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceitos físico-químicos fundamentais e suas aplicações em biologia; Propriedades físicas de gases, sólidos e líquidos; Princípios e leis termodinâmicas; Espontaneidade e equilíbrio termodinâmico; Termodinâmica dos processos reversíveis; Potenciais termodinâmicos; Cinética química; Reações ácido-base em solução; Eletroquímica; Potenciais eletroquímicos; Potenciais de membrana, Sistemas transportadores; Catálise e reações enzimáticas.\n___BIBLIOGRAFIA BÁSICA___\n1- Alberty, R.A. (1978) Physical Chemistry, John Wiley & Sons, New York.\n2- Marshall, A.G. (1978) Biophysical Chemistry, John Wiley & Sons, New York.\n3- Castellan, G.W. (1964) Physical Chemistry, Addison-Wesley Pub. Inc. London.\n4- Gandour, R. & Schowen, R.L. (1978) Transition states of biochemical processes, Plenum Press, New York.\n5- Moore, J.W. & Pearson, R.G. (1981) Kinetica and mechanisms, John Wiley & Sons, New York.\n6- Artigos e revisões selecionados para discussão de visões na fronteira da físico-química de sistemas biológicos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 17:00",
+        "professor": "PAULO MASCARELLO BISCH"
+       },
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 17:00",
+        "professor": "GILBERTO WEISSMULLER"
+       },
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 17:00",
+        "professor": ""
+       },
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 17:00",
+        "professor": "ROBERTA SOARES FACCION"
+       },
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 17:00",
+        "professor": "PAULO MASCARELLO BISCH"
+       },
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 17:00",
+        "professor": "ROBERTA SOARES FACCION"
+       },
+       {
+        "dia": "Ter",
+        "hora": "15:00 - 17:00",
+        "professor": "GILBERTO WEISSMULLER"
+       },
+       {
+        "dia": "Ter",
+        "hora": "15:00 - 17:00",
+        "professor": "PAULO MASCARELLO BISCH"
+       },
+       {
+        "dia": "Ter",
+        "hora": "15:00 - 17:00",
+        "professor": "ROBERTA SOARES FACCION"
+       },
+       {
+        "dia": "Ter",
+        "hora": "15:00 - 17:00",
+        "professor": "PAULO MASCARELLO BISCH"
+       },
+       {
+        "dia": "Ter",
+        "hora": "15:00 - 17:00",
+        "professor": "GILBERTO WEISSMULLER"
+       },
+       {
+        "dia": "Ter",
+        "hora": "15:00 - 17:00",
+        "professor": "ROBERTA SOARES FACCION"
+       }
+      ],
+      "Requisitos": [
+       "CFB015",
+       "CFB232",
+       "IQW130",
+       "MAE123"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "CFBU03",
+      "Nome": "Estágio Supervisionado III",
+      "Créditos": "3.0",
+      "Teórica": "0",
+      "Prática": "120",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Treinamento do aluno em diversas áreas nos laboratóriosde de pesquisa permitindo o aprendizado de técnicas diversas e da metodologia científica.\nObs.: O estágio rotativo implica na escolha de laboratórios diferentes a cada estágio.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "CFBU02"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "6º Período": [
+     {
+      "Codigo": "CFBU04",
+      "Nome": "Estágio Supervisionado IV",
+      "Créditos": "3.0",
+      "Teórica": "0",
+      "Prática": "120",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Treinamento do aluno em diversas áreas nos laboratórios de pesquisa permitindo o aprendizado de técnicas diversas e da metodologia científica.\nObs.: O estágio rotativo implica na escolha de laboratórios diferentes a cada estágio.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "CFBU03"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "CFF418",
+      "Nome": "Top Avanc Fis Endócrina Renal",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Visão atual do sistema endócrino e de seus componentes.  Conceito geral de sinalizadores: diferenças  e  semelhanças.  Mecanismos  de  regulação  no  sistema  endócrino.  Hormônios tireóideos, sua regulação e efeitos. Regulação endócrina do metabolismo energético. Cálcio e  fosfato:  importância  para  o  organismo  e  importância do  sistema  endócrino  para  sua homeostasia.  Adaptação  endócrina  ao  estresse  e  mecanismos  envolvidos  na  manutenção da homeostase. Regulação endócrina do sistema reprodutor masculino e feminino. Regulação  endócrina  do  metabolismo  hidrossalino:  visão  atual.  Renal: composição  corpórea. Transporte através de membranas celulares. Anatomia funcional do rim. Filtração glomerular. Função tubular. Influência do rim na regulação da pressão arterial. Homeostasia.\n___ BIBLIOGRAFIA BÁSICA ___\n1) Textbook of Endocrine Physiology, Eds. Kovacs WJ & Ojeda SR, 6a edição, 2012.\n2) Fisiologia, Eds. Aires MM, Guanabara Koogan, 4a edição, 2012.\n___ BIBLIOGRAFIA COMPLEMENTAR ___\n1) Williams Texbook of Endocrine Physiology. Eds. Kronenberg HM, Melmed S, Polonsky KS & Larsen PR, 11a edição, 2008.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "CFF314"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "CFB414",
+      "Nome": "Aquis e Proces Imag Biológicas",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Princípios  básicos  de  óptica  e  de  microscopia  óptica  de  luz. Resolução,  lentes  e  correções ópticas. Fontes de luz, filtros e espelhos. Microscopia de epi-fluorescência. Microscopia de luz estruturada.  Microscopia Confocal.  Microscopia  multifótons. Noções de  microscopia  de fluorescência  de  super-resolução.  Preparação  de  amostras  biológicas  fixadas ou  vivas  para observação ao microscópio  de  fluorescência. Aquisição  e  processamento de  imagens de fluorescência  multidimensionais. Funcionamento  básico dos microscópios de fluorescência (software e hardware).\n___ BIBLIOGRAFIA BÁSICA ___\n1) Murphy, D.B. 2001 Fundamentals of ligth microscopy and eletronic imaging. WileyLiss, Inc.\n2) Hibbs, A.R. 2004 Confocal microscopy for biologists. Kluwer Academic/Plenum Publishers.\n___ BIBLIOGRAFIA COMPLEMENTAR ___\n1) http://micro.magnet.fsu.edu/primer/index.html\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "CFF223",
+      "Nome": "Fisiologia Celular",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Ciclo celular: controle do ciclo celular, papel das ciclinas e cdks, fatores de crescimento, vias de transdução de sinais e fatores de transcrição envolvidos no controle do ciclo celular.  Morte celular: Morte celular programada, apoptose e outras formas de morte celular. Caspases,  vias de ativação de caspases, Família Bcl-2. Autofagia. Necroptose. Diferenciação celular: sinais extracelulares, vias de sinalização e fatores de transcrição que regulam processos de diferenciação celular.\n___ BIBLIOGRAFIA BÁSICA ___\n1) Molecular Biology of the Cell, 5 edição, Alberts, B.\n2) Tratado de Oncobiologia Vol. 1, capitulo 25 Apoptose e Outras formas de morte celular Programada.\n___ BIBLIOGRAFIA COMPLEMENTAR ___\n1) Artigos científicos utilizados para apresentação de seminários durante a disciplina.\n2) Artigos científicos de revisão.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "CFB118"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "CFWX01",
+      "Nome": "Atividades Complementares",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "50",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Participação em Eventos Científicos: participação em Congressos e Reuniões Científicas e a apresentação de trabalhos científicos, no âmbito da UFRJ ou em outros locais.  Participação em Cursos: cursos diversos que não estejam credenciados como disciplina da UFRJ, visando a complementação da formação do aluno em diferentes áreas (científica, literária, administrativa, cultural ou social).\nParticipação em Eventos Culturais: participação em palestras culturais, feiras de livros, exposições, aulas ou apresentações de teatro, dança, canto, instrumento musical, atividade esportiva ou assemelhada.\nMonitoria: assistência a aulas de disciplinas da UFRJ, cursadas anteriormente pelo aluno com aproveitamento igual ou superior a 7,0, em auxílio a um professor da disciplina.\nIntercâmbio: participação em atividades de intercâmbio acadêmico e/ou científico regulares, realizadas em outras instituições de Ensino Superior.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "7º Período": [
+     {
+      "Codigo": "CFB412",
+      "Nome": "Cult Tecid Bioengenh Tecidual",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "História e objetivos da bioengenharia tecidual, as bases do crescimento e diferenciação celulares. Matriz extracelular biológica, dinâmica da interação matriz-célula e determinantes mecânicos e químicos do desenvolvimento tecidual. Desenvolvimento tecidual in vitro: cultura de células e caracterização fenotípica. Recelularização de órgãos e tecidos: células-tronco pluripotentes (embrionária e de pluripotência induzida) e células-tronco adultas. Transplante de Células e Tecidos: vias de implante e métodos de rastreamento.\n___ BIBLIOGRAFIA BÁSICA ___\n1) Células-tronco Mesenquimais conceitos, métodos e aplicações. Goldenberg, R. C. S., Campos De Carvalho, A. C. São Paulo: Atheneu, 2012, v.1. p.208.\n2) Terapias Avançadas - Celulas Tronco, Terapia Gênica e Nanotecnologia.. - Marcelo M. Morales, São Paulo: Atheneu, 2007.\n___ BIBLIOGRAFIA COMPLEMENTAR ___\n1) Stem Cell Biology- Marshak, D., Gardner R., Gottlieb d., Cold Spring Harbor Laboratory Press, 2001.\n2) Stem Cell- Potten C.S., Academic Press, 1997.\n3) Stem Cell- Lanza R., Gearhat J., Hogan B., Melton D., Pedersen R., Thomson J.,  West M.,  Elsevier Inc., 2004.\n4) Principles of Tissue Engineering-Lanza R., Langer R., Vacanti J., Academic Press, 1997.\n5) Stem Cell Handbook ? Stewart Sell, Humana Press, 2004.\n6) Resident Stem Cells and Regenerative Therapy. Goldenberg, R. C. S., Carvalho, A. C. C. Amsterdam: Elsevier, 2013, p.251.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "PEDRO MORENO PIMENTEL COELHO"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "MARCELO FELIPPE SANTIAGO"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "ROSALIA MENDEZ OTERO"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "TAIS HANAE KASAI BRUNSWICK"
+       }
+      ],
+      "Requisitos": [
+       "CFB118"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "CFF312",
+      "Nome": "Bases Moleculares das Doenças",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Lesão e morte celular; inflamação crônica e aguda; reparo tecidual; doenças genéticas; doenças imunológicas; neoplasia; doenças infecciosas; lesões vasculares e hemodinâmicas.\n",
+       "BibliografiaBasica": "1) Robbins Pathologic Basis of Disease. Cotran RS, Kumar V, Collins T. 6ª ed. W.B. Saunder company, 1999.\n",
+       "BibliografiaComplementar": "1) Artigos científicos e revisões atualizadas.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 10:00",
+        "professor": "ISIS HARA TREVENZOLI"
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 10:00",
+        "professor": "BRUNO LOURENCO DIAZ"
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 10:00",
+        "professor": "MIRIAM BIANCHI DE FRONTIN WERNECK"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 10:00",
+        "professor": "ISIS HARA TREVENZOLI"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 10:00",
+        "professor": "BRUNO LOURENCO DIAZ"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 10:00",
+        "professor": "MIRIAM BIANCHI DE FRONTIN WERNECK"
+       }
+      ],
+      "Requisitos": [
+       "CFB230",
+       "CFB232",
+       "CFF223"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "CFF471",
+      "Nome": "Top Avanc Fis Cardio-respirat",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Coração: aspectos gerais: Estrutura, função e acoplamento do sistema vascular. Bioeletrogênese. Canais iônicos e bombas. Junções comunicantes e acoplamento elétrico. Técnicas avançadas para o estudo do perfil eletrofisiológico da membrana celular (Patch Clamp, Whole Cell). Bases avançadas da eletrocardiografia. Gênese das arritmias cardíacas. Métodos de estudo eletrocardiográfico. Coração isolado: métodos de estudo pela técnica de Langendorff. Métodos para avaliação da estrutura pulmonar. Propriedades elásticas e resistivas do pulmão, parede e sistema respiratório. Modelos constitutivos de mecânica respiratória. Avaliação quantitativa das trocas gasosas. Diagrama PCO2-PO2. Métodos quantitativos de avaliação do shunt intrapulmonar.\n___ BIBLIOGRAFIA BÁSICA ___\n1) Fisiologia, Berne and Levy, 6ª Ed., Guanabara Koogan.\n2) Fisiologia, Margarida de Mello Aires, 4ª Ed., Guanabara Koogan, 2012.\n3) Guyton, AC. Tratado de Fisiologia Médica. Ed. Guanabara,. 12.ed.,  2011.\n4) Guyton, AC. Fundamentos de Fisiologia Médica. Ed. Guanabara,. 12.ed.,  2011.\n___ BIBLIOGRAFIA COMPLEMENTAR ___\n1) Paes de Carvalho, A & Fonseca da Costa, A. Circulação e Respiração -  Fundamentos de Biofísica e Fisiologia. Ed. Cultura Médica, 3.ed., 1979.\n2) Braunwald. Heart Disease: A Textbook of Cardiovascular Medicine, Saunders Company, 10th ed. 2015.\n3) Dhein, S., Delmar, M.; Mohr, FW.  Pratical Methods in Cardiovascular Research,  Springer, 2005.\n4) Katz, AM. Physiology of the Heart. Raven Press, 15 ed. 2011.\n5) Opie, LH. The Heart. Physiology from Cell to Circulation. Ed. Lippincott-Raven. 4.ed., 2003.\n6) Jhon B West - Ventilation/blood flow and gas exchange, Third edition,  Blackwell Scientific Publications, 1977.\n7) Gregg L. Ruppel, Manual of Pulmonary Function Testing, Eighth Edition, Mosby, Volve, 1998.\n8) Jason H.T. Bates. Lung Mechanics - An Inverse Modeling Approach, Cambridge, 2009.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "13:00 - 17:00",
+        "professor": "JOSE HAMILTON MATHEUS NASCIMENTO"
+       },
+       {
+        "dia": "Sex",
+        "hora": "13:00 - 17:00",
+        "professor": "TAIS HANAE KASAI BRUNSWICK"
+       }
+      ],
+      "Requisitos": [
+       "CFF224"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "CFB321",
+      "Nome": "Biofísica Molecular",
+      "Créditos": "5.0",
+      "Teórica": "75",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Fenômenos que demonstraram as falhas da Física Clássica e deram origem à Mecânica Quântica. A função de onda e a equação de Schrödinger. Partícula em uma caixa unidimensional e o efeito túnel. Qantização de movimentos na escala atômico-molecular, rotação, vibração e transições eletrônicas. Componentes radial e angular da equação de Schrödinger e a formação de  ligações químicas. Energia de orbitais atômicos e o tratamento de átomos de muitos elétrons. Estrutura eletrônica molecular, Teoria de Valência e do Orbitais Moleculares. A aproximação de Hückel para orbitais moleculares de sistemas poliatômicos. Espectroscopia rotacional, vibracional, óptica, fluorescência e de ressonância magnética nuclear. Cristalografia de proteínas e difração de Raios X. Cálculos computacionais de estrutura eletrônica molecular. A Mecânica Quântica e os sistemas biológicos, interação com a radiação, processos de transferência de carga e energia. Associações com a evolução biológica.\n___ BIBLIOGRAFIA BÁSICA ___\n1) Físico-química, Peter W. Atkins e Júlio de Paula, volume 1, editora LTC, 9a edição, 2012.\n2) Física Moderna: Origens Clássicas e Fundamentos Quânticos, Vitor O. Caruso, Editora Campus, 2006.\n3) Conceitos Fundamentais em Espectroscopia, Adalberto B. M. S. Bassi, Chemkeys, 2001.\n___ BIBLIOGRAFIA COMPLEMENTAR ___\n1) Química-física, Gordon M. Barrow, McGraw-Hill, 1996.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "15:00 - 17:00",
+        "professor": "PEDRO GERALDO PASCUTTI"
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 17:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "CFB016",
+       "CFB311"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "CFBK01",
+      "Nome": "Trabalho Conclusão de Curso I",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Definição de um plano e início da elaboração de monografia como trabalho de conclusão de curso.\n___ BIBLIOGRAFIA BÁSICA ___\nDevido à peculiaridade intrínseca aos Trabalhos de Conclusão de Curso nos diversos temas abordados no instituto, a bibliografia é diversificada, inclusive constando de artigos científicos diversos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "CFBU04"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "CFF470",
+      "Nome": "Top Avanc em Neurociências",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Discussão de temas de fronteira em Neurobiologia Celular, Molecular e de Sistemas. Os tópicos serão discutidos através de livros de referência, revisões nas diferentes áreas e artigos científicos apresentados pelos alunos. Os tópicos estarão relacionados a temas tais como: aspectos de comunicação inter e intracelular dos componentes do sistema nervoso. Sinapse, substâncias neuroativas, seus receptores e a transdução de sinal. Papel das substâncias neuroativas durante a formação e plasticidade de sinapses. mecanismos moleculares  no decorrer do desenvolvimento do sistema nervoso; ciclo celular e diferenciação celular no sistema nervoso; mecanismos de neurodegeneração.\nRepresentação do estímulo físico e vias modalidade-específicas no sistema nervoso. Processamento de forma, cor e movimento no córtex cerebral. Organização colunar no córtex visual. Circuitos motores envolvidos nas ações voluntárias. Codificação neural no córtex parietal e pré-motor. Princípios básicos da neuroimagem funcional; processamento encefálico da emoção/motivação: diferenças interindividuais e relacionadas ao contexto.\n___ BIBLIOGRAFIA BÁSICA ___\n1) Kandel, E.R. Schwartz, J.H. e Jessel, T.M. (2012). Principles of Neuroscience 5th edition. caps. 19, 21 e 25.\n___ BIBLIOGRAFIA COMPLEMENTAR ___\n2) Artigos Científicos e Revisões associadas aos temas que poderão ser alterados a cada oferecimento da disciplina.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "10:00 - 12:00",
+        "professor": "FATIMA CRISTINA SMITH ERTHAL"
+       },
+       {
+        "dia": "Qua",
+        "hora": "10:00 - 12:00",
+        "professor": "JULIANA GUIMARAES MARTINS SOARES"
+       },
+       {
+        "dia": "Qua",
+        "hora": "10:00 - 12:00",
+        "professor": "MARIANA SOUZA DA SILVEIRA"
+       }
+      ],
+      "Requisitos": [
+       "CFF224"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "8º Período": [
+     {
+      "Codigo": "CFF010",
+      "Nome": "Processamento de Sinais Biológ",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução ao Processamento de sinais (sinais de tempo contínuo vs sinais de tempo discreto, amostragem, transdução e sinais analógicos, digitalização, sinais determinísticos vs sinais aleatórios). Noções de sistemas lineares (função impulso, resposta de sistemas lineares invariantes no tempo, resposta em frequência). Transformada de Fourier, Laplace e Z. Noções de Filtros. Probabilidade aplicada ao processamento de sinais. Classificação de sinais aleatórios. Testes de Estacionariedade. Processos Estocásticos Estacionários (Funções de Covariância e de Correlação, Funções Espectrais e função de coerência). Relações Espectrais em sistemas lineares com entradas aleatórias. Estimativas Espectrais.\n___BIBLIOGRAFIA BÁSICA ___\n1- Rangaraj M. Rangayyan. Biomedical Signal Analysis. A case-study approach. wiley IEEE press. isbn 0-471-20811-6.\n___BIBLIOGRAFIA COMPLEMENTAR___\nRevisões e artigos recentes sobre os temas abordados.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "CFBK02",
+      "Nome": "Trabalho Conclusão de Curso II",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Elaboração e finalização de uma monografia como Trabalho de Conclusão de Curso (TCC). A nota será conferida de acordo com a avaliação do TCC.\n___ BIBLIOGRAFIA BÁSICA ___\nDevido à peculiaridade intrínseca aos Trabalhos de Conclusão de Curso, a bibliografia é diversificada, inclusive constando de artigos científicos diversos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "CFBK01"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "Disciplinas Optativas (Escolha Condicionada)": [
+     {
+      "Codigo": "BMW351",
+      "Nome": "Biologia Parasitária",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo de protozoário, helmintos, artrópodes e fungos parasitas. Fundamentos da evolução do parasitismo, relação parasita-hospedeiro, vias de infecção, transmissão e virulência, ciclos de vida dos parasitas e transmissores e epidemiologia.\n___BIBLIOGRAFIA BÁSICA___\n1- NEVES, D. P. Parasitologia humana. Ed. Atheneu. 10ª ed. 2000. Inclui o estudo dos protozoários, helmintos e artrópodes. Não inclui o estudo de micologia.\n2- REY, L. Parasitologia. Guanabara Koogan S.A., 3ª ed., 2001. Inclui o estudo dos protozoários, helmintos e artrópodes. Não inclui o estudo de micologia.\n3- MORAES RG, GOULART EG & LEITE IC 2000 ? Parasitologia e Micologia Humana. Cultura Médica Ltda. ? 4ª ed. Inclui o estudo dos protozoários, Helmintos e Artrópodes. Não incluir o estudo de micologia.\n4- VERONESI, R. R., FOCACCIE, R. Tratado de Infectologia, Ed. Atheneu, 1997. Parasitologia Geral e Micologia.\n5- FISHER, F.; COOK, N. B. Micologia: Fundamentos e Diagnóstico. Ed. Revinter, 2002.\n6- LACAZ, CS, PORTO, E & MARTINS JEC. Micologia Médica, S. Paulo. Ed. Sarvier, 1984. Inclui apenas os estudos dos fungos.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1- Newsholme, Eric and Leech, T. Functional Biochemistry in Health and Disease. 2ª Ed. (2010).\n2- Da Poian, A. and Castanho, MARB. Integrative Human Biochemistry. 1ª ed (2015).\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BQM025",
+      "Nome": "Estatística Reprod Ciênc Vida",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Fundamentos básicos de metodologia científica (amostra e população, unidade experimental, variáveis, aleatorização). Fundamentos teóricos de bioestatística (probabilidades, distribuições, parâmetros, significância). Estatística descritiva (medidas de tendência central e dispersão). Cálculos de tamanho amostral e poder estatístico. Testes estatísticos mais frequentemente usados em bioestatística inferencial (teste z, teste t, teste t pareado, teste de Mann-Whitney, teste de Wilcoxon, análise de variância (ANOVA), teste de Kruskal-Wallis, correlação linear (de Pearson), regressão linear, correlação de Spearman, teste do qui-quadrado, teste de Fisher, análise de curvas de sobrevivência). Lógica bayesiana na interpretação de resultados estatísticos. Análise crítica da confiabilidade de dados da literatura e do sistema de publicação científica. Reprodutibilidade científica de dados da literatura e do sistema de publicação científica. Reprodutibilidade científica e conduta responsável em análise de dados. Ciência aberta e transparência no relato de resultados de pesquisa.\n___ BIBLIOGRAFIA BÁSICA ___\n1- Motulsky, Harvey. Intuitive Biostatistics. 3rd edition. Oxford University Press, 2013.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:30 - 16:30",
+        "professor": "OLAVO BOHRER AMARAL"
+       },
+       {
+        "dia": "Seg",
+        "hora": "13:30 - 16:30",
+        "professor": ""
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:30 - 16:30",
+        "professor": ""
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:30 - 16:30",
+        "professor": ""
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:30 - 16:30",
+        "professor": ""
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:30 - 16:30",
+        "professor": ""
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:30 - 16:30",
+        "professor": ""
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:30 - 16:30",
+        "professor": ""
+       },
+       {
+        "dia": "Sex",
+        "hora": "13:30 - 16:30",
+        "professor": ""
+       },
+       {
+        "dia": "Sex",
+        "hora": "13:30 - 16:30",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "CFB007",
+      "Nome": "Divulgação Científica I",
+      "Créditos": "5.0",
+      "Teórica": "15",
+      "Prática": "0",
+      "Extensão": "60",
+      "Informação": {
+       "Info": "Panorama geral sobre as distintas linguagens e veículos utilizados na divulgação científica (DC), da tecnologia e da saúde, bem como os distintos atores envolvidos neste processo. Desafios contemporâneos da DC, vantagens e limitações dos veículos e linguagens. A avaliação será através da produção de trabalhos de DC e participação em ações desenvolvidas em escolas e espaços não formais de ensino pelos projetos de extensão envolvidos na disciplina.\nProjetos de Extensão: \"Ciência e Cognição - Núcleo de Divulgação Científica e Ensino de Neurociências\" e \"Construindo o Saber 2016\".\n___BIBLIOGRAFIA BÁSICA___\n1- ARANHA, G.; CHICHIERCHIO, M.; SHOLL-FRANCO, A. (2015). A divulgação científica como instrumento de desmitificação e conscientização pública sobre neurociências. In: EKUNI, R.; ZEGGIO, L.; BUENO, O.F.A. (Org.) Caçadores de Neuromitos (pp. 204-220). São Paulo (SP): Memnon.\n2- ARANHA, G.; SHOLL-FRANCO, A. (2012a). Evolução e Adaptação nos Sistemas da Escritura: Narrativa Transmídia e Cognição. In: KIRCHOF, E. (Org.). Novos Horizontes para a Teoria da Literatura e das Mídias (pp. 93-105). Porto Alegre: ULBRA.\n3- ARANHA, G.; SSHOLL-FRANCO, A. (2012b). (Org.) Caminhos da Neuroeducação. 2ª Ed. Rio de Janeiro: Ciências e Cognição.\n4- BAUER, M. W.; PETKOVA, K.; BOYADJJEWA, P. (2000). Public knowledge of and attitudes to science ? alternative measures. Science, Technology & Human Values 25 (1): 30-51.\n5- JENKINS, Henry. Cultura da Convergência. São Paulo: Aleph, 2008.\n6- SHOLL-FRANCO, A. (2015). Bases morfofuncionais do sistema nervoso In: Neuropsicologia Hoje. 2ª Edição (pp. 25-48). Porto Alegre: Grupo A Artmed.\n7- SHOLL-FRANCO, A.; MIGUEL, A.C.; GUEDES, S. (2014). Desenhando Emoções. Rio de Janeiro/RJ: Ciências e Cognição.\n8- SHOLL-FRANCO, A.; BARRETO, T.M.; ASSIS, T. S. (2014). Neuroeducação e Inteligência: Como as Artes e a Atividade Física Podem Contribuir para a Melhora Cognitiva. In: Virgulin, A.M.R. & Konkiewitz, E.K. (Org.) Altas Habilidades/Superdotação, Inteligência e Criatividade. (pp. 139-160). Campinas (SP): Papirus Editora.\n9- SHOLL-FRANCO, A. (2015). Ponto de Vista: Deturpações e Oportunismos. Revista Neuroeducação, 3: 66.\n10- SHOLL-FRANCO, A.; ARANHA, G. (2015). Tecnologia para Aprender. Revista Neuroeducação, 4: 42-49.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "GLAUCIO ARANHA BARROS"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "ALFRED SHOLL FRANCO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "CFB010",
+      "Nome": "Biologia Molecular Avançada",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Discussão de artigos científicos, conceitos e técnicas avançadas em biologia molecular relacionadas aos temas de replicação do DNA, transcrição gênica e tradução de proteínas.\n___BIBLIOGRAFIA BÁSICA___\n1- ALBERTS, B.; BRAY, D.; LEWIS, J.; RAFF, M.; ROBERTS, K.; WATSON, J. D. Biologia molecular da célula. Porto Alegre: Artes Médicas, 5ª ed., 2010, 1396 p.\n2- GRIFFITHS, Anthony. Introdução à Genética. 10ª ed. Rio de Janeiro: Guanabara-Koogan, 2013.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1- DNA Replication; Bell S. D.; Méchali M., DePamphilis M. L., Cold Spring Harbor;\n2- DNA Replication and Human Diseases; DePamphilis M. L., Cold Spring Harbor;\n3- Transcriptional Regulation in Eukaryotes - Concepts, strategies and techniques; Carey M. F., Peterson C. L., Smale S. T., Cold Spring Harbor;\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "CFB118",
+       "CFB230",
+       "CFB232"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "CFB012",
+      "Nome": "Treinamento Científico I",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Esta disciplina visa promover a interação entre os alunos em uma atividade curricular eletiva de treinamento prático, aprimoramento técnico e científico, visando a complementação do processo de ensino-aprendizagem científico proporcionado ao aluno através de observações, estudos, pesquisas, visitas, exercício profissional e leituras novos conhecimentos. Por meio do plano de estágio, desenvolvido em conjunto com o orientador, supervisor e estagiário, serão oferecidas condições de treinamento específico pela aplicação, aprimoramento e complementação dos conhecimentos adquiridos de modo a permitir o desenvolvimento de habilidades com vistas à obtenção de uma visão prática do funcionamento de um laboratório de pesquisa que desenvolvem tecnologia, pesquisa, atividades de manejo de animais ou realizam prestação de serviços, de modo a permitir a familiarização do discente com a rotina de trabalho no ambiente acadêmico.\n___BIBLIOGRAFIA BÁSICA___\n1- ASTI, V. A. Metodologia da Pesquisa Científica. Porto Alegre: Globo, 1980. 223p.\n2- BACHELARD G. O Novo Espírito Científico. Paris: PUF, 1968. 207p.\n3- BUNGE M.L. Investigación Científica. Barcelona, Arial, 1987. 955p.\n4- CERVO, A. L. Metologia Científica. São Paulo: Prentice Hall, 2002. 242p.\n5- FREIRE-MAIA, N. A Ciências por dentro. Petrópolis: Vozes, 1991. 262p.\n6- RUIZ, J.A. Metodologia Científica: guia para eficiência nos estudos. São Paulo: Atlas, 1996. 178p.\n7- SANTOS, B. S. Introdução à Ciência pós-moderna. Rio de Janeiro: Graal, 1989. 176p.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1- ABRAHAMSON, P. Redação Científica. Rio de Janeiro: Guanabara Koogan, 2004. 284p. COORDENAÇÃO DE ESTÁGIO/EVZ/UFG. Manual do Estagiário. Goiânia: Escola de Veterinária e Zootecnia, 2010. 43p. Disponível em: http://www.vet.ufg.br/sites/vet/pages/5662.\n2- STRINGHINI, J. H.; BRITO, L.A.B.; CHAVES, N.S.T.; FIORAVANTI, M.C.S.; ROSA, B.; LOPES, E.L.; NUNES, R.C. Guia para Redação Técnico-Científica e Normatização Bibliográfica. Goiânia: Escola de Veterinária e Zootecnia, 2003. 69p.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "CFB018",
+      "Nome": "Virologia Básica",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Virologia: origens e história da Virologia; classificação e estrutura de genomas virais; estratégias e etapas de replicação viral; mecanismos de patogenicidade viral; métodos de cultivo de vírus; diagnóstico viral; interação vírus-célula, vírus animais, resposta do hospedeiro à infecção viral.\n___BIBLIOGRAFIA BÁSICA___\n1- S. J. Flint, L. W. Enquist, V. R. Racaniello, A. M. Skalka. Principles of Virology, Third Edition. 2009.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1- http://virology.ws/course/por Vincent Racaniello.\n2- Artigos científicos atuais do campo.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 15:00",
+        "professor": "CLARISSA ROSA DE ALMEIDA DAMASO"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 15:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "CFB118"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "CFB020",
+      "Nome": "Biofísica Agroambiental",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A relação homem - natureza. Indústria e Economia em um mundo em transformação constante. Defesa e vigilância sanitária e ambiental. A produção do alimento. Os POPs: Poluentes orgânicos persistentes. A questão agrária, os agrotóxicos e os fertilizantes. Métodos em química ambiental: Compostos inorgânicos, orgânicos e Biossensores. Elementos de agroecologia em campo. ONU 1972, Rio 92, Rio +20. A Convenção de Estocolmo e o Acordo de Paris. Poluição: ecotoxicidade, remediação e estratégias mitigadoras. o componente atmosférico: efeito gafanhoto e destilação global. Medicina ambiental.\n___BIBLIOGRAFIA BÁSICA___\n1- CARSON, Rachel. A Primavera Silenciosa.\n2- COLBORN, Teo. O Futuro Roubado.\n3- RIKCLETS. A Economia da Natureza.\n4- ROM. Environmental and Occupational Medicine.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1- ATKINS. Química Inorgânica.\n2- SOLOMONS. Química Orgânica.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 12:00",
+        "professor": "JOAO PAULO MACHADO TORRES"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "CFB022",
+      "Nome": "Metodologia Científica",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Etapas da pesquisa científica; embasamento teórico; delimitação da pergunta científica; elaboração de hipóteses e predições; desenho experimental e\namostral; replicação, pseudoreplicação, aleatorização e réplicas; introdução à redação científica e noções de boa conduta na ciência; estrutura e elaboração de\ntrabalhos acadêmicos; noções de oratória e apresentação de trabalhos.\n___BIBLIOGRAFIA BÁSICA___\n1) BUNGE M. L. Investigación Científica. Barcelona, Arial, 1987. 955p.\n2) CRESWELL, J. W.; CLARCK, V. L. P. Designing and Conducting mixed methods research. Sage, Los Angeles, 2011;\n3) RUXTON, G. D.; COLEGRAVE, N. Experimental design for the life sciences. Oxford, New York, 2006;\n4) ALBUQUERQUE, U. P. Comunicação e Ciência: Iniciação à Ciência, Redação Científica e Oratória Científica. NUPEEA, 2016;\n5) VOLPATO, G. L. 2018. Bases teóricas para redação científica. UNESP, 1ª edição, 2018.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) FARJI-BRENER, A. G. 2003. Uso correcto, parcial e incorrecto de los términos\" hipótesis\" y\" predicciones\" en ecología. Ecología Austral,13(2), 223-227;\n2) ALBUQUERQUE, U. P. O que você precisa saber sobre ciência para não passar vergonha. NUPEEA, 2020;\n3) VOLPATO, G. L. Método lógico para redação científica. 2ª Edição. BEST WRITING, 2017.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "CFBU01(C)"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "CFB024",
+      "Nome": "Inov Ambien Acad: Trls e Inici",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução à inovação no ambiente acadêmico, com ênfase nos Níveis de Maturidade Tecnológica (TRLs). Discussão do percurso de desenvolvimento de ideias científicas, dos principais gargalos à inovação e das estratégias para avanço tecnológico. Análise de iniciativas acadêmicas e institucionais, apresentação de startups fundadas por egressos e visitas guiadas a hubs de inovação do Rio de Janeiro, integrando ciência, tecnologia e empreendedorismo.\nBibliografia Básica\n1. RIES, E. (2025). O método Lean Startup. Infinito Particular.\n2. MEISSNER, D., ERDIL, E., & CHATAWAY, J. (Eds.). (2018). Innovation and the Entrepreneurial University (Vol. 327). Cham, Switzerland: Springer.\n3. Material suplementar será oferecido ao longo do curso.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "CFB413",
+      "Nome": "Introdução à Mod Dinam Molecul",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Modelagem computacional. Relações entre estrutura, dinâmica e função de macromoléculas biológicas. Aspectos físico-químicos da água em meio biológico e efeito hidrofóbico. Conformação e enovelamento de proteínas. Conceitos de Línux. Construção de modelos moleculares. Bases teóricas das interações intra e inter-moleculares e o campo de força. Potenciais harmônicos e potencial de torção. Interação de Van der Waals e potencial de Lennard-Jones. Tratamentos das interações eletrostáticas. Métodos para otimização de geometria. Algoritmos para minimização de energia. Equações de movimento para sistemas atômicos. Algoritmo de Verlet. Algoritmo Leapfrog. Simulação explícita do solvente. Condições periódicas de contorno. Dinâmica de proteínas. Banho térmico e pressórico. Movimentos em curta escala de tempo. Movimentos em larga escala de tempo. Transições estruturais locais e mudanças estruturais globais. Dinâmica da associação molecular. Cálculo da variação da energia livre de ligação. Planejamento computacional de fármacos. Simulações, análises estruturais e dinâmicas com os programas PyMol, Visual Molecular Dynamics ? VMD e GROMACS.\n___ BIBLIOGRAFIA BÁSICA ___\n1) Métodos de Química Teórica E Modelagem Molecular, Nelson H. Morgon, Kaline Coutinho, editora Livraria da Física, 1a edição, 2007.\n2) ABC da Simulação Computacional - Bismarck Vaz da Costa e José Pedro Rino, Livraria da Física, 1a edição, 2013.\n___ BIBLIOGRAFIA COMPLEMENTAR ___\n1) Princípios de Bioquímica ? Michel M. Cox & Albert L. Lehninger; Omega, 6a edição, 2014.\n2) Understanding Molecular Simulation ? From Algorithms to Aplications, Frenkel D. & Smit B., Academic Press, 2002.\n3) Computer Simulation of Liquids, Allen M. P. & Tildesley D. J., Clarendon Press, Oxford, 1987.\n4) Molecular Dynamics Simulation of Statistical Mechanical Systems, Ciccotti G. & Hoover W. G., North-Holland Physics Publ, 1986.\n5) Dynamics of Proteins and Nucleic Acids, McCammon J. A. & Harvey S. C., Cambridge University Press, 1977.\n6) The PyMOL Molecular Graphics System, Version 1.8 Schrödinger, LLC. (www.pymol.org).\n7) VMD: Visual molecular Dynamics, HumUMPHREY, W.; DALKE, A.; SCHULTEN, K. Journal of Molecular Graphics, v. 14, n. 1, p. 33-38, 1996. ISSN 0263-7855.\n8) GROMACS: fast, flexible, and free. VAN DER SPOEL, D. et al. Journal of Computational Chemistry, v. 26, n. 16, p. 1701-1718, 2005. ISSN 0192-8651.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "CFB311"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "CFB416",
+      "Nome": "Manejo Integ Ecossist Aquát co",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Princípios e conceitos para o ecossistema aquático: bacia hidrográfica como integradora da estrutura, função, fluxo de energia, ciclos biogeoquímicos. Comunidades aquáticas, cadeias tróficas, evolução do ecossistema; poluição e deterioração da qualidade de água; abordagens para o gerenciamento da qualidade da água; princípios para o gerenciamento ecotecnológico; amostragens, monitoramento e avaliação da qualidade ambiental; abordagens e métodos de gerenciamento e manejo de bacias hidrográficas; estudos de casos visando o\nmanejo integrado dos ecossistemas aquáticos continentais.\n",
+       "BibliografiaBasica": "1) Primer: Development of ILBM Platform Process Evolving Guidelines through Participatory Improvement - Masahisa Nakamura, Walter Rast, Toshiaki Kagatsume and Tomohiro Sato-L E C a n d R C S E - S h i g a U n i v e r s i t y. 2 0 1 2\n2) Development of ILBM Platform Process: Evolving Guidelines through Participatory Improvement. 2nd Edition. Masahisa Nakamura, Walter Rast. Printed and bound in 2014, by Otsushigyo Photo Printing Co. Ltd.\n3) Theoretical reservoir ecology and its applications. J. G. Tundisi e M. Straskraba, 1999 IIE, Backhuys Publishres.\n",
+       "BibliografiaComplementar": "1) Diretrizes para o gerenciamento de lagos. S. E. Jorgensen e R. A Vollenweider, (editor em português J. G. Tundisi) 2000, ILEC, IIE UNEP;\n2) Artigos científicos sobre o tema.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "CFB225"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "CFB634",
+      "Nome": "Toxicologia Ambiental",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução a toxicologia ambiental: conceito e termos utilizados. Principais fontes de produtos tóxicos: persistência, transporte, diluição. Interação de poluentes ou biotoxinas com a biota: bioacumulação, biotransformação, biomagnificação, biodegradação, detoxificação e eliminação. Toxicocinética e toxicodinâmica. Organismos como indicadores de qualidade ambiental, biomonitores, bioindicadores e biomarcadores de contaminantes. Efeitos em diferentes organismos: conceitos e metodologias para determinação de toxicidade aguda e crônica. Avaliação de risco ecológico e para populações humanas e educação ambiental. Micropoluentes orgânicos (PCB, HPA, PCDD, PCDF, DDT, HCB, HCH...): dinâmica ambiental, ecotoxicologia e aspectos desaúde pública. Metais: comportamento e especiação no ambiente e principais vias de acesso ao homem. Estudos de caso.\n___BIBLIOGRAFIA BÁSICA___\n1) Fundamentals of Ecotoxicology. Michael C. Newman, 3rd Ed. CRC Press. 2010.\n2) Casarett Daull?s toxicology ? Curtis D. Klaassen, 2008.\n3) Principles of Ecotoxicolog. Walker, C.H.; Silby, R.M.; Hopkin, S.P. Peakall, D.B. 4th Ed. CRC Press. 2012.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) As Bases Toxicológicas da Ecotoxicologia Azevedo, F.A e Chasin, A.A.M. RiMa. 2003.\n2) Química Ambiental. Colin Baird, 4a. Edição. Ed.Bookman. 2011.\n3) Agency for Toxic Substances and Disease Registry (ATSDR)\nhttp://www.atsdr.cdc.gov/toxpro2.html\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 15:00",
+        "professor": "NARA DE OLIVEIRA FERREIRA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 15:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "CFF007",
+      "Nome": "Neuroc Aplic Educ Dif Científ",
+      "Créditos": "6.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "60",
+      "Informação": {
+       "Info": "Interação entre os campos das neurociências e da educação através de atividades em ambientes formais e não formais de ensino desenvolvidas pelo projeto de extensão \"Ciências e Cognição - Núcleo de Divulgação Científica e Ensino de Neurociências\", integrando curricularmente o ensino de graduação às atividades de extensão e pesquisa. Temas: filosofia do conhecimento, desenvolvimento do sistema nervoso, períodos críticos, corporeidade, sensações, movimento, funções superiores, distúrbios da aprendizagem, sono e aproveitamento acadêmico.\n___BIBLIOGRAFIA BÁSICA___\n1- ARANHA, G.; SHOLL-FRANCO, A. (2012a). Evolução e Adaptação nos Sistemas da Escritura: Narrativa Transmídia e Cognição. In: KIRCHOF, E. (Org.). Novos Horizontes para a Teoria da Literatura e das Mídias (pp. 93-105). Porto Alegre: ULBRA.\n2- ARANHA, G.; SHOLL-FRANCO, A. (2012b). (Org.) Caminhos da Neuroeducação. 2ª Ed. Rio de Janeiro: Ciências e Cognição.\n3- COSENZA, R.A.; GERRA, L.B. (2011). Neurociências e Educação ? Como o Cérebro Aprende. Porto Alegre: ArtMed.\n4- GARDNER, H. (2005). Inteligências Múltiplas: a teoria na prática. Porto Alegre: ArtMed.\n5- HOWARD-JONES, P. (2010). Introducing Neuroeducational Research: Neuroscience, Education and the Brain from Contexts to Practice. Abingdon: Routledge.\n6- SHOLL-FRANCO, A. (2015). Bases morfofuncionais do sistema nervoso In: Neuropsicologia Hoje. 2ª Edição (pp. 25-48). Porto Alegre: Grupo A Artmed.\n7- SHOLL-FRANCO, A.; MIGUEL, A.C.; GUEDES, S. (2014). Desenhando Emoções. Rio de Janeiro/RJ: Ciências e Cognição.\n8- SHOLL-FRANCO, A.; BARRETO, T.M.; ASSIS, T. S. (2014). Neuroeducação e Inteligência: Como as Artes e a Atividade Física Podem Contribuir para a Melhora Cognitiva. In: Virgulin, A.M.R. & Konkiewitz, E.K. (Org.) Altas Habilidades/Superdotação, Inteligência e Criatividade. (pp. 139-160). Campinas (SP): Papirus Editora.\n9- SHOLL-FRANCO, A.; ASSIS, T.; MARRA, C. (2012). Neuroeducação: caminhos e desafios. Em: Aranha, G. & Sholl-Franco, A. (Org.) Caminhos da Neuroeducação (pp. 9-22). 2ª Edição. Rio de Janeiro/RJ: Ciências e Cognição.\n10- SHOLL-FRANCO, A.; ARANHA, G. (2015). Tecnologia para Aprender. Revista Neuroeducação, 4: 42-49.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1- ARANHA, G.; CHICHIERCHIO, M.; SHOLL-FRANCO, A. (2015). A divulgação científica como instrumento de desmitificação e conscientização pública sobre neurociências. In: EKUNI, R.; ZEGGIO, L.; BUENO, O.F.A. (Org.) Caçadores de Neuromitos (pp. 204-220). São Paulo (SP): Memnon.\n2- ANDRADE, L.B. (2010). Psicopedagogia e distúrbios de aprendizagem: uma visão diagnostica. Encontro: Rev. Psicol., 13 (19), 115-143.\n3- AUSUBEL, D.P. (1982). A aprendizagem significativa: A teoria de David Ausubel. São Paulo (SP): Editora Moraes.BEAR, M.F.; CONNORS, B.W.; PARADISO, M.A. (2002). Neurociências ? Desvendando o Sistema Nervoso. Porto Alegre, ArtMed Editora.\n4- COREW, T. J.; MAGSMEN, S. H.. (2010). Neuroscience and Education: An Ideal Partnership for Producing Evidence Based Solutions to Guide 21st Century Learning.  Neuron, 67 (5): 685-8.\n5- FISCHER, K.W.; IMMORDINO-YANG, M.H.; WABER, D. (2007).  Toward a grounded synthesis of mind, brain, and education for reading disorders: An introduction to the field and this book.  In: K.W. FISCHER, J.H. BERNSTEIN, & M.H. IMMORDINO-YANG (EDS.), Mind, Brain and Education in Reading Disorders, (pp. 3-15).  Cambridge, U.K.: Cambridge University Press.\n6- HUTTENLOCHER, P.R. (2002). Neural plasticity: The effects of the environment on the development of the cerebral cortex. Cambridge (MA): Harvard University Press.\n7- KANDEL, E.R. SCHWARTZ, J.H.; JESSEL, T.M. (2003). Fundamentos da Neurociência e do Comportamento. São Paulo: Ed. Manole.\n8- LOUZADA, F.; MENNA-BARRETO, L. (2007). O sono na sala de aula. Tempo escolar e tempo biológico. Rio de Janeiro: Vieira & Lent.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "CFF009",
+      "Nome": "Mod Matemática de Sist Biolog",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Tipos de modelos. Modelagem matemática.Simulação e identificação de sistemas dinâmicos. Implementações computacionais de modelos. Aplicações: membranas excitáveis, propagação de potencial de ação, circulação, respiração, biomecânica.\n___BIBLIOGRAFIA BÁSICA___\n1- Physiological Control Systems: Analysis, Simulation, and Estimation. Michael C.K. koo. EMB IEEE Engineering in Medicine and Biology Society, Sponsor in IEEE Press Series in Biomedica Engineering. MetinAkay, Series Editor.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1- GARCIA, C. Modelagem e Simulação. Editora USP.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "CFF012",
+      "Nome": "Tóp de Pesq em Neurobiologia",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Os temas abordados serão: neuroquímica, terapia gênica, neurogênese, neurodesenvolvimento, plasticidade, estresse celular, neuroinflamação,\nneurodegeneração, regeneração, aprendizagem, sistema visual, sistema motor, interface cérebro-máquina, fisiologia da ernoção, tisiopatologia do estresse\npós-raumático e neurobiologia comparativa. Cada docente do Programa de Neurobiologia será responsável por duas aulas, cada uma com duração de I hora\ne 30 minutos. Na primeira aula, será oferecida uma palestra geral da respectiva atividade de pesquisa. Na segunda aula, será discutido um artigo, revisão ou um capítulo, previamente enviado para os estudantes.\n",
+       "BibliografiaBasica": "1) Toda a bibliografia da disciplina será baseada em artigos científicos, revisões e/ou capítulos de livro publicados pelo respectivo docente. A bibliografia\nserá disponibilizada para os estudantes em formato eletrônico.\n",
+       "BibliografiaComplementar": "1) KANDEL, E. R.; KOESTER J. D.; MACK S. H.; SIEGELBAUM, S. A. Princípios de Neurociências. 60 Edição. Artmed, 2023.\n2) LENT, R.; Cem Bilhões de Neurônios - Conceitos Fundamentais de Neurociência. 30 Edição. Atheneu, 2022.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "CFF417",
+      "Nome": "Fisiopat Resp Inflam Pulmonar",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O curso abordará a fisiopatologia respiratória dando ênfase aos vários aspectos patogênicos controlados pelos processos de inflamação pulmonar. Após aula inaugural que revisa a organização morfo-funcional do sistema respiratório, o curso inicialmente oferecerá um embasamento dos componentes inflamatórios que controlam processos fisiopatológicos no pulmão. Especificamente, os tópicos abordados incluem: (i) Macrófagos Alvolares; (ii) Eosinófilos, Mastócitos e Basófilos; (iii) Neutrófilos Infiltrantes; (vi) Mediadores Lipídicos; e (v) Quimiocinas e Citocinas.  Focando nos processos patogênicos, o curso apresentará aos alunos algumas patogenias pulmonares de base inflamatória, incluindo Fibrose Pulmonar e Asma. Os discentes farão apresentação de artigos sobre os mais recentes avanços científicos dos diferentes tópicos abordados no curso que controlam a inflamação pulmonar, além de serem avaliados pelo desempenho nos estudos dirigidos e por prova escrita, ao final do curso.\n___BIBLIOGRAFIA BÁSICA___\n1- Fundamentos de Patologia - Robbins &Cotran.\n2- Abbas, Abul K. / Kumar,Vinay / Mitchell,Richard N. Cellular ans Molecular Immunologia.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1- As Bases Farmacológicas da Terapêutica de Goodman e Gilman.\n2- Fisiologia Berne e Levy; Bruce A. Stanton,Bruce M. Koeppen.\n3- Artigos recentes da área.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "CFB353",
+       "CFF224"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "CFP002",
+      "Nome": "Fungos: Poderes Perigos Possib",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Fungos: dimensões morfológica, ecológica, biotecnológica, clínica. Micotoxinas, psicodélicos fúngicos, mudanças climáticas, biodeterioração e inovação industrial\nBibliografia Básica\n1) SCHECHTMAN, R. C.; AZULAY, D. R. Micologia médica. Rio de Janeiro: Guanabara Koogan, 2022.\n2) MEZZARI, A.i WIEBBELLING, A. M. P. A micologia na prática laboratorial: guia prático para a identificação dos principais fungos agentes das micoses de\nimportância clínica. Porto Alegre: Editora da UFRGS, 2017. 224 p. ISBN 9788538603436.\n3) ESPÓSITO, E.; AZEVEDO, J. L. de (orgs.). Fungos: uma introdução à biologia, bioquímica e biotecnologia. 2. ed. Caxias do Sul: EDUCS, 2010. 638 p. ISBN\n9788570615626.\n4) AN, Zhiqiang (org.). Handbook of lndustrial Mycology. Boca Raton: CRC Press, 2oU.784 p. ISBN 978-0824756550.\nBibliografia Complementar\n1) Artigos científicos atuais relacionados com a ementa do curso.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 12:00",
+        "professor": "JULIANA APARECIDA RIZZO BALANCIN"
+       },
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 12:00",
+        "professor": "SUSANA FRASES CARVAJAL"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EFA745",
+      "Nome": "Top e Dança Afro-brasileira A.",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Realização de pesquisa visando uma síntese coreográfica através dos conteúdos técnicos, estéticos e culturais de manifestações afro-brasileiras.\n___ BIBLIOGRAFIA BÁSICA ___\n1) FERNANDES, Ciane. O corpo em movimento. São Paulo: Annablume, 2002.\n2) BERUTTI, Flávio; SANTO, Igor. Comunidades Quilombolas - Espaços de resistência. Belo Horizonte: RHJ, 2012.\n3) PEREIRA, Walmir; TAMAGNO, Liliana. Patrimônio cultural dos povos indígenas. São Paulo: Unisinos, 2012.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FIN242",
+      "Nome": "Física Moderna I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Experiências chaves para  mudança de paradigma da Mecânica Clássica para a Mecânica Quântica: Efeito foto-elétrico, Efeito Compton, Duallidade onda-partícula. O princípio da incerteza. Modelos atômicos. Equação de Schroedinger  e o átomo de hidrogênio. Introdução à Física Nuclear. Introdução à Física de partículas elementares. Introdução à Astrofísica. Os tópicos mais avançados podem ser ministrados através de seminários dados por professores convidados.\n___BIBLIOGRAFIA BÁSICA___\n1- Quantum Physics of Atoms, Molecules, Solids, Nuclei and Particles\n2- R. Eisberg and R. Resnick- Wiley and Sons, ed.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "FIM230"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAE125",
+      "Nome": "Álgebra Linear",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Sistemas de equações lineares e Eliminação Gaussiana. Matrizes e determinante. Espaços vetoriais Euclidianos. Geometria dos espaços vetoriais de dimensão finita. Transformações lineares. Espaços vetoriais com produto interno. Ortogonalidade e mínimos quadrados. Autovalores e autovetores. Teorema espectral. Aplicações à solução de Equações Diferenciais Ordinárias e em Geometria Euclidiana.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NEP110",
+      "Nome": "Fund Direitos Humanos",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Necessidade e possibilidade de uma fundamentação filosófica dos direitos humanos, para a determinação do conteúdo e construção de argumentos racionais na sua implementação. Identificação dos principais desafios para afirmação e a realização dos direitos humanos e apresentação de algumas propostas contemporâneas de Fundamentação Filosófica dos Direitos Humanos.\n",
+       "BibliografiaBasica": "1) BARBALET, J. M. A Cidadania. Lisboa: Editorial Estampa, 1989.\n2) BAUMAN, Zygmunt. Comunidade: a busca da segurança no mundo atual. Rio de Janeiro: Jorge Zahar, 2003.\n3) BECKER, Howard S. Métodos de pesquisa em ciências sociais. São Paulo: Hucitec, 1999.\n",
+       "BibliografiaComplementar": "1) BELLONI I, Magalhães h. / Souza L; Metodologia de avaliação em políticas públicas. São Paulo (Cortez) 2003.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BMF313",
+      "Nome": "Farmacologia Básica Aplicada",
+      "Créditos": "6.0",
+      "Teórica": "90",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Princípios básicos da farmacologia. Farmacocinética: vias de administração, absorção, distribuição e eliminação de fármacos. Modelos matemáticos e variabilidade farmacocinética. Farmacodinâmica: receptores, interação fármaco-receptor, agonismo e antagonismo. Avaliação do número de receptores e da afinidade do ligante. Inibição enzimática. Farmacologia da neurotransmissão central e periférica. Neurotransmissão colinérgica e adrenérgica no ACV. Anestesia de pequenos animais, convulsão experimental e anticonvulsivantes.\n___BIBLIOGRAFIA BÁSICA___\n1- The Goodman and Gilman´s Pharmacological Basis of Therapeutics.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 12:00",
+        "professor": "JOSIANE SABBADINI NEVES"
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 12:00",
+        "professor": "ROSANE VIANNA JORGE"
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 12:00",
+        "professor": "NEWTON GONCALVES DE CASTRO"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 17:00",
+        "professor": "MARILIA ZALUAR PASSOS GUIMARAES"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 17:00",
+        "professor": "JOSIANE SABBADINI NEVES"
+       }
+      ],
+      "Requisitos": [
+       "CFB212",
+       "CFF224"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BQM021",
+      "Nome": "Adm Pública e os Model Gestão",
+      "Créditos": "6.0",
+      "Teórica": "90",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Aspectos Gerais da Administração Pública Brasileira. Noções de Administração Direta e Indireta. Princípios Constitucionais emanados da Constituinte de 1988. Instituições, Personalidades Jurídicas Existentes e Marcos da Burocracia Estatal. Criação, crescimento e legalização do Terceiro Setor. Processo decisório do Orçamento Público. Modelos de Gestão aplicados à Pesquisa, Desenvolvimento e Inovação. Modelos de Negócio aplicados a Divulgação Científica.\n___ BIBLIOGRAFIA BÁSICA ___\n1- BRASIL. Constituição Federal do Brasil, de 02 de outubro de 1988.\n2- BRASIL. Lei n° 8.666 de 21 de junho de 1993. Regulamenta o art. 37, inciso XXI, da Constituição Federal, institui normas para licitações e contratos da Administração Pública e  dá outras providências.\n3- Lei n°9.637 de 15 de maio de 1998. Dispõe sobre a qualificação de entidades como organizações sociais, a criação do Programa Nacional de Publicização, a extinção dos órgãos e entidades que menciona e a absorção de suas atividades por organizações sociais, e dá outras providências.\n4- BRASIL. Ministério da Administração Federal e Reforma do Estado/Secretaria da Reforma do Estado: Ministério da Administração e Reforma do Estado, 1997. 74p. (Cadernos MARE da Reforma do Estado; v.2). Disponível em http://www.bresserpereira.org.br/ver file 3.asp?id=2790, em março de 2016.\n___ BIBLIOGRAFIA COMPLEMENTAR ___\n1- FERREIRA, S. F. & FERNANDO, A. V. A Escassez de Educação. Em: Giambiagi, Fábio et al. (orgs.). Economia Brasileira Contemporânea. Rio de Janeiro: Elsevier, 2005.\n2- NAVES, Rubens (Coord.). Organizações Sociais - a Construção do Modelo. São Paulo: Quartier Latin, 2014.\n3- VERONESE, Alexandre. Reforma do Estado e Organizações Sociais. Belo Horizonte: Editora Fórum, 2011.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "CFB005",
+      "Nome": "Divulg Científica Acervos Cult",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Promover reflexão sobre a origem e história dos museus de ciências no Brasil e no mundo; Discutir sobre aspectos da divulgação científica, abordando suas principais teorias e modelos relacionados à percepção pública da ciência; Abordar contextos sobre ensino de ciências, como conceitos e práticas pedagógicas (educação não formal, formal, informal e museal, formação continuada de professores),\nmediação e interatividade em museus e centros de ciências; Discutir sobre a temática de acervos culturais e memória, abordando como estudo de caso alguns aspectos históricos do Instituto de Biofísica Carlos Chagas Filho-EMCCF; Promover experiências sobre divulgação científica em museus e centros de ciência através de visitas técnicas a museus e espaços culturais da UFRJ.\n___BIBLIOGRAFIA BÁSICA___\n1) Castelfranchi, Y. Divulgação Científica e Museus de Ciências: O olhar do visitante - Memórias do Evento. Luisa Massarani, Rosicler Neves, Luís Amorim (Organizadores). Rio de Janeiro: Museu Da Vida/Casa de Oswaldo Cruz/Fiocruz; Redpop, 2016;\n2) Granato, M. Panorama Sobre o Patrimônio da Ciência e Tecnologia no Brasil: Objetos De C&T. In: Cultura Material E Patrimônio De C&T. Rio de Janeiro, Mast, 2009;\n3) Granato, M; Maia E; Santos, F. Valorização do Patrimônio Científico e Tecnológico Brasileiro: Descobrindo Conjuntos de Objetos de C&T pelo Brasil. Anais do Museu Paulista, São Paulo, nº Sér., v. 22, nº 2, p. 11-34, Jul-Dez 2014;\n4) Lewenstein, B., Brossard, D. Models Of Public Understanding Of Science. Cornell University, 2005;\n5) Marandino, M. A Mediação em Foco. Organização Martha Marandino. São Paulo, Sp: Geenf/Feusp, 2008;\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) Almeida, Darcy Fontoura De. A contribuição de Carlos Chagas Filho para a Institucionalização da Pesquisa Científica na Universidade Brasileira. História, Ciências, Saúde , Manguinhos, Rio de Janeiro, v. 19, nº 2. Abr-Jun, p. 653-668;\n2)  Azevedo, Nara; Lima, Ana Luce Girão Soares De; Souza, Luís Octavio Gomes De. A Ciência como Profissão: Entrevista com Carlos Chagas Filho. História, Ciências, Saúde. Manguinhos, Rio De Janeiro, v. 19, nº 2, Abr-Jun, 2012, p. 703-734;\n3) Chagas Filho, C. Um aprendiz de Ciência. Rio de Janeiro: Nova Fronteira. Rio de Janeiro: Editora Fiocruz, 2000.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "CFB008",
+      "Nome": "Seminário Integração Acadêmica",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Seminários semanais sobre assuntos das diferentes áreas do saber, proporcionando integração, no âmbito de atividades de ensino, pesquisa e extensão.\n___BIBLIOGRAFIA BÁSICA___\nArtigos científicos selecionados de acordo com os temas abordados.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "12:00 - 13:00",
+        "professor": "FABIO MENDONCA GOMES"
+       },
+       {
+        "dia": "Qua",
+        "hora": "12:00 - 13:00",
+        "professor": "JULIANA APARECIDA RIZZO BALANCIN"
+       },
+       {
+        "dia": "Qua",
+        "hora": "12:00 - 13:00",
+        "professor": ""
+       },
+       {
+        "dia": "Qua",
+        "hora": "12:00 - 13:00",
+        "professor": "FABIO MENDONCA GOMES"
+       },
+       {
+        "dia": "Qua",
+        "hora": "12:00 - 13:00",
+        "professor": "FERNANDO DE AZEVEDO CRUZ SEARA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "12:00 - 13:00",
+        "professor": ""
+       },
+       {
+        "dia": "Qui",
+        "hora": "12:00 - 13:00",
+        "professor": "JULIANA APARECIDA RIZZO BALANCIN"
+       },
+       {
+        "dia": "Qui",
+        "hora": "12:00 - 13:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "CFB011",
+      "Nome": "Genômica Funcional",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Métodos avançados na análise de genomas e transcriptomas. Estratégias de montagem de genomas e abordagens de genômica comparativa. Métodos para análise da expressão gênica a partir de dados de transcriptômica.\n___BIBLIOGRAFIA BÁSICA___\n1- Pevzner P. Computational molecular biology - an algorithmic approach. MIT Press.\n2- Campbell AM & Heyer L. J. Genomics, Proteomics & Bioinformatics. CSHL Press.\n3- Mount DW. Bioinformatics: Sequence and genome analysis. Cold Spring Harbor Laboratory Press.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1- Setubal J. & Meidanis J. Introduction to computational molecular biology. PWS Publishing Company (baseado no livro \"Uma introdução a biologia computacional\" publicado pela UFPE);\n2- Pevzner P. An Introduction to Bioinformatics Algorithms. MIT Press;\n3- Nei M & Kumar S. Molecular evolution and phylogenetics. Oxford University Press.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "CFB210",
+       "CFB222"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "CFB013",
+      "Nome": "Bacteriologia Básica",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Bacteriologia: estruturas e funções dos componentes da célula bacteriana, crescimento de populações bacterianas, transferência da informação genética, troca e aquisição de material genético externo, estratégias de classificação e identificação clássicas, genéticas e moleculares, impacto da interação bactéria-hospedeiro, impacto da interação bactéria-ambiente.\n___BIBLIOGRAFIA BÁSICA___\n1- VERMELHO, A.; BASTOS, M. C. FREITAS.; BRANQUINHA DE SÁ, M.H. Bacteriologia Geral. Guanabara Koogan.\n2-  STUART WALKER, T. Microbiology: Text and Review Series.\n3- MADIGAN, M.T.; MARTINKO, J. M. e cols. Microbiologia de Brock.  14. ed. Porto Alegre: ArtMed, 2016.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1- Site: http://textbookofbacteriology.net/kt_toc.html\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 15:00",
+        "professor": "ANA BEATRIZ FURLANETTO PACHECO"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 15:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "CFB118"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "CFB019",
+      "Nome": "Histologia e Embriologia Fund",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceitos básicos: integração celular, moléculas de adesão; receptores, matriz extracelular; Biologia Tecidual: tecido epitelial (de revestimento e glandular); tecido conjuntivo; tecido cartilaginoso; tecido ósseo; sangue e hematopoese; tecido muscular; tecido nervoso. Biologia do Desenvolvimento: Embriologia comparada. Bases celulares e moleculares da morfogênese, gametogênese masculina e feminina; fertilização, clivagem, implantação e anexos embrionários; gastrulação, mesoderma, ectoderma, endoderma, fechamento do embrião.\n___BIBLIOGRAFIA BÁSICA___\n1- KIERZEMBAUM, A. L. Histologia e Biologia Celular. Ed. Elsevier\n2- GILBERT, SCOTT F. Developmental Biology, Sinauer Associates\n___BIBLIOGRAFIA COMPLEMENTAR___\n1- WOLPERT, L. Princípios de Biologia do Desenvolvimento. Ed. Artmed\n2- SCHOENWOLF, GARY C. Larsen - Embriologia Humana. Ed Elsevier\n3- SADLER, T. W. Langman - Embriologia Médica. Ed. Guanabara Koogan\n4- GARTNER, L. P; HIATT, J. L. Tratado de Histologia. Ed. Elsevier\n5- JUNQUEIRA, L. C. Histologia Básica. Guanabara Koogan\n6- ROSS, M. et al. Atlas de Histologia Descritiva. Ed. Artmed\n7- LOWE, J; STEVENS, A; YOUNG, BÁRBARA. Wheather Histologia Funcional. Ed. Elsevier.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "CFB118"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "CFB021",
+      "Nome": "Introdução Redação Científica",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Ampliação das habilidades dos discentes em relação a escrita científica e a apresentação de dados, através de aulas expositivas, ensino ativo e exercícios.\nAbordagem sobre o que é a redação cientifica, diferenças e semelhanças entre os principais textos acadêmicos. Exploração dos principais erros na redação\ncientífica e na exposição de dados na forma de poster e painel. Discussão sobre as etapas de planejamento, desenvolvimento e revisão do texto acadêmico.\n",
+       "BibliografiaBasica": "1)  Manual para elaboração e normalização de dissertações e teses. Organizado por Elaine Baptista de Matos Paula et al. 6ª ed. rev., atual. e ampl. Rio de Janeiro: SiBl, 2014 102 p.(Série Manuais de Procedimentos, 5) ou versão mais atual disponível.\n2)  Pequeno Manual de Bons Costumes no Laboratório (Arto.comcienda Livro 1). Franklin Rumjanek.\n3) Como redigir um relatório de pesquisa: Finalidades e problemas em artigos científicos. Mark L. Savickas. Revista Brasileira de Orientação Profissional, 2009. 10(1), p. 7-10.\n",
+       "BibliografiaComplementar": "1) Artigos científicos indexados.\n2) Metodologia do Trabalho Científico. Edição: 812017 Editora: Atlas. Eva Maria Lakatos e Marina Marconi.\n3)  Redação Científica: Práticas de Fichamentos, Resumos, Resenhas. Edição: 1312019 Editora: Atlas. João Bosco Medeiros.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "CFBU01"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "CFB023",
+      "Nome": "Amostragem para Contaminantes",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Etapas da pesquisa científica; embasamento teórico; delimitação da pergunta científica; elaboração de hipóteses e predições; desenho experimental e\namostral; replicação, pseudoreplicação, aleatorização e réplicas; introdução à redação científica e noções boa conduta na ciência; estrutura e elaboração de\ntrabalhos acadêmicos; noções de oratória e apresentação de trabalhos.\n",
+       "BibliografiaBasica": "1) ZHANG, CHUNLONG CARL. Fundamentals of environmental sampling and analysis. John Wiley & Sons, Inc., 2007. 436p.\n2) CSUROS, MARIA. Environmental sampling and analysis for technicians. Taylor & Francis Group, 1994. 320p.\n3) CETESB. Guia nacional de coleta e preservação de amostras: água, sedimento, comunidades aquáticas e efluentes líquidas / Companhia Ambiental do Estado de São Paulo; Organizadores: Carlos Jesus Brandão. [et al.]. -- São Paulo: CETESB; Brasília: ANA, 2011. 325p.\n4) FILIZOLA, HELOISA FERREIRA. Manual de procedimentos de coleta de amostras em áreas agrícolas para análise da qualidade ambiental: solo, água e sedimentos / editado por Heloisa Ferreira Filizola, Marcos Antonio Ferreira Gomes e Manoel Dornelas de Souza. - Jaguariúna: Embrapa Meio Ambiente, 2006. 169p\n",
+       "BibliografiaComplementar": "1) Berg, E. HANDBOOK FOR SAMPLING AND SAMPLE PRESERVATION OF WATER\nAND WASTEWATER. U.S. Environmental Protection Agency, Washington, D.C.,\nEPA/600/4-82/029 (NTIS PB83124503).\n2) CETESB. Significado ambiental e sanitário das variáveis de qualidade das águas e dos sedimentos e metodologias analíticas e de amostragem ? Apêndice A. 2008. 40p\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "CFB325",
+      "Nome": "Métodos Biofísicos",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo teórico e prático de métodos biofísicos selecionados: RMN, Dicroísmo circular, fluorescência, AFM e SEM, difração, espectrometria de massa, calorimetria, patch-clamp, entre outras. Introdução conceitual; Relevância e avanços recentes; Princípios físicos. Descrição de equipamentos; Aplicações e limitações; Técnicas correlatas. Experimentos guiados ou demonstrativos: preparação de amostras; ajuste e calibração do equipamento; coleta de dados. \"Softwares\" para análise de dados e estatística.\n___ BIBLIOGRAFIA BÁSICA ___\n1) SKOOG, HOLLER, NIEMAN - Princípios de Análise Instrumental - Editora Bookman, Porto Alegre, 5a Edição, Porto Alegre, 2002.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "CFB015",
+       "CFB016"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "CFB415",
+      "Nome": "Cont Amb Hum Met Pes Micr Org",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Ciclo biogeoquímico de Metais Pesados; Emissões naturais e antrópicas: Origem e quantificação relativa. Usos Industriais. Formas destes poluentes no meio ambiente. Lançamentos e transformações. Formas dissolvidas, associadas a partículas ou à matéria orgânica. Granulometria, pH, Eh, condutividade. Sedimentos de fundo. Ocorrência destes poluentes em diferentes sistemas aquáticos. Rios poluídos e não poluídos. Especiação. Disponibilidade e incorporação biológica. Transformações por organismos. Acumulação. Meia vida biológica. Órgãos alvo. Efeitos tóxicos. Monitoração humana. Monitoração Ambiental. Coleta, preservação e tratamento de amostras. Extrações. Metodologias analíticas: Espectrofotometria de absorção e emissão atômica. Técnicas cromatográficas (TLC, CG). Análise de parâmetros críticos. Avaliação de impacto e monitoração de fontes pontuais em situações de rotina e acidentes. Monitoração de fontes difusas: fatores de enriquecimento e índices geoquímicos. Micropoluentes orgânicos no meio ambiente. Principais classes. Origem industrial e uso agrícola. Comportamento, persistência, degradação e volatilização. Técnicas cromatográficas (CG e HPLC). Associação entre a contaminação ambiental e a educação ambiental.\n___BIBLIOGRAFIA BÁSICA___\n1) Salomons,W and Förstner,U  Metals in the Hydrocycle:1984 Springer-Verlag Berlin Heidelberg.\n2) Forstner, U & Wittmann, G. 1979.\"Metal Pollution in the Aquatic Environment\". Springer-Verlag, Berlin.\n3) Agency for Toxic Substances and Disease Registry (ATSDR)\thttp://www.atsdr.cdc.gov/toxpro2.html.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) Environmental Health Criteria Monographs (EHCs)  WHO\n2) http://www.who.int/pcs/pubs/pub_ehc_alph.htm\n3) http://www.inchem.org/pages/ehc.html\n4) http://www.who.int/ifcs/documents/forums/forum5/side_events/en/\n5) http://search.who.int/search?q=heavy+metals+study+cases&ie=utf8&site=default_collection&client=_en&proxystylesheet=_en&output=xml_no_dtd&oe=UTF-8&ip=146.164.3.22&access=p&sort=date:D:L:d1&entqr=3&entsp=a&lr=lang_en&ud=1&start=10\n6) http://www.who.int/ifcs/documents/general/clim_change.pdf\n7) http://www.who.int/ifcs/documents/forums/forum5/hm_agarwal.pdf\n8) http://www.who.int/ifcs/documents/forums/forum5/hm_kozak.pdf\n9) http://www.who.int/ifcs/forums/six/07.02rev1_summary.pdf\n10) http://www.who.int/ifcs/documents/forums/forum6/ppt_l&c_arscp.pdf\n11)http://www.who.int/water_sanitation_health/resourcesquality/wpccasestudy2.pdf\nEPA ? US Environment Protection Agency\n12)http://www.epa.gov/ebtpages/pollutants.html\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "CFB225"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "CFB428",
+      "Nome": "Interações Receptor Ligante",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Relevância do estudo de interações moleculares e da relação entre receptores e seus ligantes no estudo de doenças e de suas terapias. Diferentes tipos de receptores e ligantes serão abordados com ênfase em interações carboidratos-proteínas. Métodos e modelos para determinação de constantes de afinidade, vantagens e desvantagens de cada abordagem. Uso de diferentes técnicas incluindo: espectroscopia de ressonância magnética nuclear (RMN), modelagem molecular, espectrometria de massas, força atômica, calorimetria, cristalografia de RaioX e ressonância de plasmon de superfície.\n___BIBLIOGRAFIA BÁSICA___\n1) Carbohydrate-protein interaction. In Glycosciences: Status and perspective (ed. H S. Gabius) 1997. Champaman and Hall, Weinheim.\n2) Recognition of carbohydrate antigens by anttibody bindeng sites. In Carbohydrates (ed. S. Hecht) 1998 Oxford University Press, Oxford, United Kingdom.\n3) Protein-Glycan Interactions. In Essentials of Gycobiology (ed. A. Varki, R. Cummings, J. Esko, H. Freese, G. Hart and J. Marth) 2004 Col Spring Harbor Laboratory Press.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) Livro  - Revisões e artigos recentes nos temas abordados.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "CFB232"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "CFB635",
+      "Nome": "Qualidade Água e Saúde Pública",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A água, histórico e responsabilidades: distribuição, propriedades, consumo e contaminação.  Múltiplos usos da água: água x agricultura, água x indústria, água x energia. Aspectos microbiológicos: doenças de veiculação hídrica, agentes, indicadores, recomendações e monitoramento. Aspectos químicos: normatização, riscos, parâmetros de qualidade e valores máximos permitido.  Enquadramento dos corpos dágua: definição, classes e monitoramento. Qualidade de água x Consumo humano x saúde. Vigilância e qualidade de água para consumo humano: sisagua e saúde humana. Controle e tratamento da água: captação, floculação, flotação, decantação, filtração e desinfecção. Política Nacional de Recursos Hídricos: legislação, gerenciamento e diretrizes. Mudanças climáticas: impactos, extremos climáticos, problemáticas regionais. A educação ambiental como ferramenta na melhoria da qualidade de água.\n___BIBLIOGRAFIA BÁSICA___\n1)  Guidelines for Drinking Water Quality. 3ª ed. Who, 2008.\n2) Água no século XXI. Enfrentando a escassez. José Galizia Tundesi, 2003.\n3) Watera shared responsilibity. UNESCO 2006.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) Águas do Brasil: Análises Estratégicas. Bicudo, C.E.de M.; Tundisi, J.G.; Scheuenstuhl, M.C.B , orgs  São Paulo, Instituto de Botânica, 2010. 224 p.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "CFF008",
+      "Nome": "Introdução a Instrum Biomédica",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceitos de instrumentação, diagramas de blocos, sinais no domínio do tempo e da frequência. Sensores e transdutores, amplificadores,filtros, conversores A/D e D/A, aquisição de sinais. Segurança elétrica e blindagem. Noções de metrologia.\n___ BIBLIOGRAFIA BÁSICA ___\n1- Transdutores e Interfaces. Marcelo Martins Werneck. Livros Técnicos e Científicos Editora.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "CFF011",
+      "Nome": "Tóp Esp Reprod Human Assistida",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Disciplina será híbrida entre ensino remoto e presencial (caso seja possível). Apresentar histórico e conceitos, além de\ndiscutir as principais técnicas utilizadas na reprodução assistida humana. Discutir conceitos básicos de fertilidade e\ninfertilidade. Discutir o papel dos profissionais que atuam na reprodução assistida. Discutir a ética no uso desta tecnologia\nemergente. Discutir projetos de pesquisa em reprodução assistida.\n___BIBLIOGRAFIA BÁSICA___\n1) Fisiologia (Aires), Fisiologia Humana (Berne e Levy).\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) Artigos atuais da área, 'Reprodução Assistida- Técnicos de Laboratório' PRONUCLEO\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "CFF314"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "CFF013",
+      "Nome": "Monitoria em Neurofisiologia I",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Principais características e conceitos em neurofisiologia. Panorama sobre as distintas áreas de confluência para os estudos da fisiologia do sistema nervoso. Desafios contemporâneos da neurofisiologia, considerando vantagens e limitações das distintas tecnologias educacionais relacionadas ao ensino de fisiologia. Produção de material audiovisual voltada para o ensino de neurofisiologia. Acompanhamento de discentes de diferentes cursos de graduação. Estudos dirigidos, pesquisas temáticas e grupos de trabalhos desenvolvidos por graduandos.\nBibliografia básica\n1) LENTT. R. 100 bilhões de neurônios. 3 ed. Rio de Janeiro: Editora Atheneu. 2022.\n2) BEAR, M. F.; CONNORS. B. W. & PARADISO. M. A. Neurociências: desvendando o sistema nervoso. Artmed editora. 2017.\n3) SHOLL-FRANCO, A; ARANHA, G. Tecnologia para Aprender. Revista Neuroeducação, 4: 42-49. 2015.\n4) KANDEL. E.; SCHARTZ. J.; JESSEL, T. SIEGELBAUM, S. & HUDSPETH. A J. Princípios de neurociências-5. AMGH Editora. 2014.\n5) ARANHA, G.; SHOLL-FRANCO. A. Evolução e Adaptação nos Sistemas da Escritura: Narrativa Transmídia e Cognição. In: KIRCHOF, E (Org.). Novos horizontes para a Teoria da Literatura e das Mídias (p.p 93-105). Porto Alegre: ULBRA. 2012\nBibliografia complementar\n1) SHOLL-FRANCO, A.; Aranha, G. Cognição e Mídias: o Uso de Novas Tecnologias nos Processos de Aprendizagem e Memória. In: As novas tecnologias e os desafios para uma educação humanizadora. (pp. l-23).1a. Ed. Santa Maria: Biblos. 2013.\n2) JENKINS, H. Cultura da Convergência. São Paulo: Aleph. 2008.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "12:00 - 13:00",
+        "professor": "ALFRED SHOLL FRANCO"
+       },
+       {
+        "dia": "Qui",
+        "hora": "12:00 - 13:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "CFP001",
+      "Nome": "Tóp Avançados em Parasitologia",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Utilização de artigos científicos, publicações de órgãos de saúde e estudos de casos para abordagem dos principais grupos de parasitos de interesse médico e seus vetores,\ncobrindo diversos temas atuais da parasitologia com foco na: Biologia dos parasitos;\nEvolução, morfologia e taxonomia; Epidemiologia e distribuição das principais parasitoses e seus componentes ambientais e sociais; Coevolução e interação com seus hospedeiros invertebrados e vertebrados; Recursos terapêuticos modernos e vacinas contra estes parasitos; Técnicas avançadas de controle e diagnóstico das doenças parasitárias.\n__ BIBLIOGRAFIA BÁSICA__\n1) Rey, L. - Parasitologia. Ed. Guanabara Koogan S.4., 3ª ed., 2001. Inclui o estudo dos protozoários e helmintos. Não inclui o estudo de micologia.\n2) Coura, JR. - Dinâmica das Doenças Infecciosas e Parasitárias. Ed. Guanabara Koogan S.4., 2' ed., 2013. Inclui o estudo dos protozoários, helmintos e fungos.\n3) Neves, DP. - Parasitologia Humana. Ed. Atheneu. Utilizar as últimas edições.\n4) Neves, D.P., Bittencourt Neto, J.B. Atlas Didático de Parasitologia 3a. edição, 2019.\n5) Neves, D.P, Franco, MA. Atlas de Parasitologia, 2a. edíçâo,2012.\n6) The Biololy of Disease Vectors, 2nd Edn (ed. Marquardt,W.C.)  785. Elsevier Academic Press, USA. 2005. ISBN 0 l2 473276 3.\n__BIBLIOGRAFIA COMPLEMENTAR__\n1) Artigos científicos obtidos de revistas internacionais indexadas\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "CFB353"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "CFP003",
+      "Nome": "Micolog Apl Cons Rest Bens Cul",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Micologia aplicada à Conservação e Restauro: fundamentos (estrutura, fisiologia e ciclo de vida), gêneros relevantes (Aspegillus, Penicillium, Cladosporium, Chaetomium, Trichoderma), fatores ambientais (umidade, temperatura, luz) e mecanismos de biodeterioração. Danos em suportes (papel, madeira, têxteis, pinturas). Métodos de monitoramento e diagnóstico. Estratégias de prevenção/controle e biossegurança para conservadores-restauradores.\nBibliografia Básica\n1) BRASIL. Ministério do Trabalho e Emprego. Norma Regulamentadora n.º 6 (NR 6): Equipamento de Proteção Individual ? EPI. Brasília, DF: MTE, [s.d.].\n2) CANADIAN CONSERVATION INSTITUTE (CCI). CCI Notes 10/1: Mould Prevention and Collection Recovery: Guidelines for Heritage Collections. Ottawa: CCI, 2017.\n3) CENTRO DE CONSERVAÇÃO DE ARTE E ARTEFATOS (CCAHA). Managing Mold Infestation: Guidelines for Disaster Response. Philadelphia, PA: CCAHA, [s.d.].\n4) FLORIAN, Mary-Lou. Fungal Facts: Solving Fungal Problems in Heritage Collections. London: Archetype Publications, 2002.\n5) INSTITUTO BRASILEIRO DE MUSEUS (IBRAM). Guia de Conservação Preventiva para Acervos Museológicos. Brasília, DF: IBRAM, 2016.\n6) INTERNATIONAL INSTITUTE FOR CONSERVATION OF HISTORIC AND ARTISTIC WORKS (IIC). Guidelines for Health and Safety in Conservation. London: IIC, 2019.\n7) MORA, Paolo; MORA, Laura; PHILIPPOT, Paul. The Conservation of Wall Paintings. London: Butterworths, 1984.\n8) PRESCOTT, L. M.; HARLEY, J. P.; KLEIN, D. A. Microbiologia. 9. ed. Porto Alegre: AMGH, 2017.\n9) STERFLINGER, Katja. Fungi: their role in deterioration of cultural heritage. Fungal Biology Reviews, v. 24, n. 1-2, p. 47-55, 2010.\nBibliografia Complementar\nArtigos científicos atuais sobre a ementa do curso.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FCA662",
+      "Nome": "Sociedades Indígenas",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A diversidade cultural e linguística das sociedades indígenas brasileiras. Ocupação histórica e atual do território. Aspectos de demografia. Tipos de\norganização social e sistemas de parentesco. Cosmologia e mitologia comparada.\n",
+       "BibliografiaBasica": "1- Clastres, Helene. 1978- Terra sem mal. O profetismo Tupi-Guarani. São Paulo, Brasiliense.\n2- Carneiro da Cunha, Manoela. 1987 - ?Lógica do mito e da ação. O movimento messiânico Canela de 1963? (pp. 13-52). In Antropologia do Brasil, São Paulo, Brasiliense.\n3- Carneiro da Cunha, Manuela. 1978- Os mortos e os outros. São Paulo, Hucitec. (Cap 5. ?Amizade formal, companheirismo e a noção de pessoa?(pp. 74-94); Cap. 7. ?Escatologia? (pp. 112-130). Conclusão (pp. 142-146).\n8- Gonçalves, Marco Antonio. 1993 - O Significado do nome. Cosmologia e sociedade Pirahã. Rio de Janeiro, Sette Letras.\n9- Reichel-Dolmatoff, Gerardo. 1968 - Desana. Simbolismo de los índios Tukano del Uaupés. Bogotá, Universidade de Los Andes Viveiros de Castro, Eduardo. 1986 - Araweté: Os Deuses Canibais. Rio de Janeiro, Jorge Zahar Editor/ANPOCS.\nViveiros de Castro, Eduardo. 1996- ?Os pronomes cosmológicos e o perspectivismo ameríndio?. Mana, Vol. 2, N. 2- 115-144.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEB599",
+      "Nome": "Est da Líng Bras de Sinais I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Nomes próprios; pronomes pessoais; demonstrativos; possessivos; locativos em sentenças simples do tipo pergunta-resposta com \"o que\" e \"quem\" e outros vocábulos básicos; numerais; quantidade; topicalização; flexão verbal; flexão de negação; expressões faciais e corporais; percepção visual; conversação; diálogos; textos: LIBRAS, cultura e comunidade surda.\n",
+       "BibliografiaBasica": "1) BRITO, L. F. Por uma gramática de língua de sinais. Rio de Janeiro: Tempo Brasileiro, 1995.\n2) FELIPE, T.; MONTEIRO, M. S. LIBRAS em contexto. Curso Básico. Brasília: Ministério da Educação e do Desporto/Secretaria de Educação Especial, 2001.\n3) GESSER, A. Libras - Que língua é essa? Crença e preconceitos em torno da língua de sinais e da realidade surda. Florianópolis: Parábola, 2009.\n4) STROBEL, K. L. As imagens do outro sobre a cultura surda. Florianópolis: EdUFSC, 2008.\n",
+       "BibliografiaComplementar": "1) PIMENTA, Nelson e QUADROS, Ronice Muller. Curso de Libras I, LSB Vídeo, volume I, Iniciante, 2006 e 3a ed., 2008.\n2) Dicionário Enciclopédico Ilustrado Triíngue da Língua de Sinais Brasileira ? vol 1 e vol. 2 Site: www.acessobrasil.org.brasil\n3) Dicionário da Língua Brasileira de Sinais, INES, versão, 2.0, ano 2006.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAE127",
+      "Nome": "Equações Diferenciais",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Equações diferenciais de 1ª ordem e aplicações; Teoremas de Existência e Unicidade de Soluções; Equações diferenciais lineares de 2ª ordem e aplicações;\n",
+       "BibliografiaBasica": "1) BOYCE, William E.; DIPRIMA, Richard C. Equações diferenciais elementares e problemas de valores de contorno. Rio de Janeiro: LTC, 2006.\n2) FIGUEIREDO, Djairo Guedes de; NEVES, Aloisio Freiria. Equações diferenciais aplicadas. Rio de Janeiro : IMPA, c2007.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MAC123",
+       "MAE125"
+      ],
+      "Tipo": "eletiva"
+     }
+    ]
+   },
+   "obrigatorias": 43,
+   "eletivas": 42,
+   "ano": "2020/1 a 9999/9"
+  }
+ ]
+}

@@ -1,0 +1,3557 @@
+{
+ "Enfermagem - M": [
+  {
+   "materias": {
+    "1º Período": [
+     {
+      "Codigo": "MCE111",
+      "Nome": "Fontes para História da Enferm",
+      "Créditos": "1.0",
+      "Teórica": "15",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O Modelo Nigthingale. A implantação da enfermagem moderna no Brasil.\n___BIBLIOGRAFIA BÁSICA___\n1) Costa R et al. O legado de Florence Nightingale: uma viagem no tempo. Texto Contexto. Florianópolis, 2009. Out-Dez; 18 (4): 661-9.\n2) Espírito Santo FH do. Cuidado de Enfermagem: saberes e fazeres de enfermeiras novatas e veteranas no cenário hospitalar. Rio de Janeiro: UFRJ/EEAN, 2008.\n3) International Council of Nurses (ICN). Notas de Enfermagem: um guia para cuidadores na atualidade. Rio de Janeiro: Elsevier, 2010.\n4) Lima MJ de. O que é Enfermagem? São Paulo: Brasiliense, 2005.\n5) Lopes LMM, Santos SMP dos. Florence Nightingale: apontamentos sobre a fundadora da enfermagem moderna. História e memória. Revista de Enfermagem Referência. III Série. N.2. Dez 2010. Pp. 181-189.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:30 - 17:30",
+        "professor": "PACITA GEOVANA GAMA DE SOUSA APERIBENSE"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCW111",
+      "Nome": "Saúde da Comunidade I",
+      "Créditos": "6.0",
+      "Teórica": "30",
+      "Prática": "120",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O conceito e a prática de saúde integral do indivíduo: dimensões biológicas, ambientais, psicológica, social e ética. Introdução ao Sistema Único de Saúde (SUS) e organização da Atenção Básica em Saúde. Estudo dos aspectos básicos da estrutura e dinâmica da relação profissional de saúde-paciente e contexto social. Saúde integral da criança e do escolar. Avaliação de crianças escolares no plano individual e coletivo. Práticas educativas em saúde em ambiente escolar e unidades de saúde. Pesquisa em saúde da criança.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 17:30",
+        "professor": "THIAGO PRIVADO DA SILVA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 17:30",
+        "professor": "MARIALDA MOREIRA CHRISTOFFEL"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCE110",
+      "Nome": "Ext Univ Aplicada à Enfermagem",
+      "Créditos": "1.0",
+      "Teórica": "15",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A política de extensão universitária no Brasil: trajetória evolutiva, bases conceituais e programáticas. A extensão universitária: conceito e princípios. Extensão como processo para a transformação social a partir da relação Universidade /Sociedade. O desenvolvimento da práxis de extensão universitária no que tange as atividades concernentes às temáticas relacionadas à saúde. A interface da extensão com as políticas sociais, integrando as unidades de ensino e pesquisa com o sistema de saúde.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 12:00",
+        "professor": "GLAUCIA VALENTE VALADARES"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 12:00",
+        "professor": "GLAUCIA ALEXANDRE FORMOZO"
+       }
+      ],
+      "Requisitos": [
+       "MCW111(C)"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCW110",
+      "Nome": "Biologia para Saúde I",
+      "Créditos": "11.0",
+      "Teórica": "45",
+      "Prática": "240",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução ao estudo da anatomia humana descritiva e topográfica. Aspectos ultraestruturais e funcionais das células e tecidos. Embriologia básica. Biofísica das membranas, biologia molecular, radioisótopos e radiobiologia. Bioquímica da estrutura molecular e suas relações com as funções biológicas e o metabolismo. Princípios gerais das regulações metabólicas. Princípios morfo-funcionais do sistema locomotor. Correlações clínicas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "2º Período": [
+     {
+      "Codigo": "MCE121",
+      "Nome": "Saúde Comunidade II - E.",
+      "Créditos": "5.0",
+      "Teórica": "30",
+      "Prática": "105",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Semiologia e semiotécnica em saúde do adolescente e família. O adolescente: aspectos bio-psico-social-cultural-espiritual. Educação estilo de vida e crise. O jovem que trabalha. Ações de avaliação e intervenção em saúde do adolescente. Organização, planejamento, execução e avalição de propostas de trabalho com a coletividade de adolescentes e família. Ações educativas em saúde. Questões éticas aplicadas no cuidado ao adolescente. Projeto de pesquisa aplicado à saúde do adolescente e a família.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 12:00",
+        "professor": "PACITA GEOVANA GAMA DE SOUSA APERIBENSE"
+       },
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 12:00",
+        "professor": "CAROLINE GUILHERME"
+       },
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 12:00",
+        "professor": "TADEU LESSA DA COSTA"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": ""
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "PACITA GEOVANA GAMA DE SOUSA APERIBENSE"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "CAROLINE GUILHERME"
+       }
+      ],
+      "Requisitos": [
+       "MCW111"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCE123",
+      "Nome": "Teorias, Mod Proc Cuidar Enf I",
+      "Créditos": "1.0",
+      "Teórica": "15",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Teorias de enfermagem: origem, evolução, enfoques conceituais e modelos de cuidar. O cuidado de enfermagem: aspectos teóricos e conceituais. As diferentes dimensões do saber e do fazer da enfermagem: o cuidar, o ensinar, o assistir, o investigar e o administrar. Sistematização da assistência de enfermagem (SAE): aspectos preliminares.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "13:30 - 17:30",
+        "professor": "TADEU LESSA DA COSTA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:30 - 17:30",
+        "professor": "ROBERTA PEREIRA COUTINHO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCW120",
+      "Nome": "Biologia para Saúde II",
+      "Créditos": "13.0",
+      "Teórica": "90",
+      "Prática": "210",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Sistema nervoso: Bioeletrogênese. Organização geral, anatomia e ontogenia do sistema nervoso. Sistemas sensitivo-motores. Regulação das funções viscerais pelo sistema nervoso. Funções nervosas superiores. Sistemas cardiovascular, respiratório e digestivo: embriogênese, anatomia e fisiologia cardiovascular, respiratória e digestiva. Genética básica. Correlações clínicas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:30 - 17:30",
+        "professor": "RAFAEL AREAS VARGAS"
+       },
+       {
+        "dia": "Seg",
+        "hora": "13:30 - 17:30",
+        "professor": "MOISES CLEMENTE MARINHO CAVALCANTE"
+       },
+       {
+        "dia": "Seg",
+        "hora": "13:30 - 17:30",
+        "professor": "AINA EIRAS DOMINGOS"
+       },
+       {
+        "dia": "Seg",
+        "hora": "13:30 - 17:30",
+        "professor": "ISABELA VILLARINHO DE PAULA LOBO"
+       },
+       {
+        "dia": "Seg",
+        "hora": "13:30 - 17:30",
+        "professor": "HENRIQUE ROCHA MENDONCA"
+       },
+       {
+        "dia": "Seg",
+        "hora": "13:30 - 17:30",
+        "professor": "ALEXANDRE DE AZEVEDO"
+       },
+       {
+        "dia": "Seg",
+        "hora": "13:30 - 17:30",
+        "professor": "FILIPE BRAGA DOS SANTOS"
+       },
+       {
+        "dia": "Seg",
+        "hora": "13:30 - 17:30",
+        "professor": "CELIA YELIMAR PALMERO QUINTANA"
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:30 - 17:30",
+        "professor": "ISABELA VILLARINHO DE PAULA LOBO"
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:30 - 17:30",
+        "professor": "HENRIQUE ROCHA MENDONCA"
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:30 - 17:30",
+        "professor": "AINA EIRAS DOMINGOS"
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:30 - 17:30",
+        "professor": "CELIA YELIMAR PALMERO QUINTANA"
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:30 - 17:30",
+        "professor": "ALEXANDRE DE AZEVEDO"
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:30 - 17:30",
+        "professor": "MOISES CLEMENTE MARINHO CAVALCANTE"
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:30 - 17:30",
+        "professor": "RAFAEL AREAS VARGAS"
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:30 - 17:30",
+        "professor": "FILIPE BRAGA DOS SANTOS"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:30 - 17:30",
+        "professor": "CELIA YELIMAR PALMERO QUINTANA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:30 - 17:30",
+        "professor": "AINA EIRAS DOMINGOS"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:30 - 17:30",
+        "professor": "MOISES CLEMENTE MARINHO CAVALCANTE"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:30 - 17:30",
+        "professor": "RAFAEL AREAS VARGAS"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:30 - 17:30",
+        "professor": "FILIPE BRAGA DOS SANTOS"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:30 - 17:30",
+        "professor": "HENRIQUE ROCHA MENDONCA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:30 - 17:30",
+        "professor": "ALEXANDRE DE AZEVEDO"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:30 - 17:30",
+        "professor": "ISABELA VILLARINHO DE PAULA LOBO"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 12:00",
+        "professor": "MOISES CLEMENTE MARINHO CAVALCANTE"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 12:00",
+        "professor": "FILIPE BRAGA DOS SANTOS"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 12:00",
+        "professor": "ALEXANDRE DE AZEVEDO"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 12:00",
+        "professor": "HENRIQUE ROCHA MENDONCA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 12:00",
+        "professor": "CELIA YELIMAR PALMERO QUINTANA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 12:00",
+        "professor": "AINA EIRAS DOMINGOS"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 12:00",
+        "professor": "ISABELA VILLARINHO DE PAULA LOBO"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 12:00",
+        "professor": "RAFAEL AREAS VARGAS"
+       }
+      ],
+      "Requisitos": [
+       "MCW110"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCE120",
+      "Nome": "Psic Aplicada à Enfermagem",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estuda a relação enfermeira-cliente. Ciclo vital - crises evolutivas e acidentais do ciclo vital. Discussão da dimensão psicológica na prática assistencial realizada pela equipe de saúde. Estudo das características psicológicas peculiares nas diferentes situações do cuidado de enfermagem. Significado histórico de saúde, doença e morte; desenvolvimento humano normal na infância, adolescência, maturidade e velhice, dentro do ciclo de vida; Problemas decorrentes de cada fase e da situação de enfrentamento com o fenômeno do adoecimento; Objetividade e subjetividade dos problemas humanos; Desenvolvimento; Relações humanas nas históricas reorganizações da sociedade; Relações humanas e interdisciplinaridade na equipe de saúde; Enfermagem e o ato de cuidar individual e coletivo.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "14:30 - 17:00",
+        "professor": "GIZELE DA CONCEICAO SOARES MARTINS"
+       },
+       {
+        "dia": "Qui",
+        "hora": "14:30 - 17:00",
+        "professor": "LARISSA ESCARCE BENTO WOLLZ"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCE122",
+      "Nome": "Bioestatística",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Importância da bioestatística no processo de pesquisar. Índices ou razões usadas em saúde. Coeficientes vitais gerais e específicos. Indicadores de saúde. Crescimento e perfil populacional. Tábuas de sobrevivência. Aplicações da estatística na saúde. Amostragem. Teste de hipóteses. Estimação. Conceitos e métodos estatísticos aplicados: Obtenção de dados (desenho de pesquisa e amostragem). Apresentação de bancos de dados (estatística descritiva); Interpretação de dados em pesquisa científica. Interpretação de resultados, leitura e utilização das técnicas apresentadas na enfermagem.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 12:00",
+        "professor": "FLAVIA RIBEIRO VILLELA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCEX01",
+      "Nome": "Ativid Curr de Exte Univer I",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Disponibilidade para atividades curriculares de extensão universitária; atividades científico - culturais.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 12:00",
+        "professor": "PATRICIA REGINA AFFONSO DE SIQUEIRA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 12:00",
+        "professor": "ISIS VANESSA NAZARETH"
+       }
+      ],
+      "Requisitos": [
+       "MCE110",
+       "MCW111"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "3º Período": [
+     {
+      "Codigo": "MCE231",
+      "Nome": "Pesquisa Aplic à Enfermagem I",
+      "Créditos": "1.0",
+      "Teórica": "15",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A ciência e a produção do conhecimento científico. Natureza do conhecimento. Natureza da ciência e da pesquisa científica. Diretrizes metodológicas para a leitura, compreensão e documentação de textos. O Método científico: conceitos e elementos. Fontes de consulta: bibliotecas, bancos de dados e centros de documentação. Trabalhos científicos acadêmicos e aplicabilidade das normas de Vancouver. Metodologia da pesquisa bibliográfica: elaboração de fichas de leitura, resumos, normas de referências e citação bibliográfica.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "14:00 - 17:30",
+        "professor": "LUCIA HELENA OLIVEIRA DA COSTA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "14:00 - 17:30",
+        "professor": "DEBORAH MACHADO DOS SANTOS"
+       },
+       {
+        "dia": "Qua",
+        "hora": "14:00 - 17:30",
+        "professor": "CAROLINE GUILHERME"
+       }
+      ],
+      "Requisitos": [
+       "MCE122"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCW230",
+      "Nome": "Biologia para Saúde III",
+      "Créditos": "13.0",
+      "Teórica": "90",
+      "Prática": "210",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Morfologia, fisiologia e bioquímica dos aparelhos: endócrino, urinário e reprodutor. Correlações clínicas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "AINA EIRAS DOMINGOS"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "ALESSANDRA CORDEIRO DE SOUZA RODRIGUES CUNHA"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "MARINALDO PACIFICO CAVALCANTI NETO"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "CELINA GARCIA DA FONSECA"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "RIBRIO IVAN TAVARES PEREIRA BATISTA"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "ALEXANDRE DE AZEVEDO"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "TAIS FONTOURA DE ALMEIDA"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "MOISES CLEMENTE MARINHO CAVALCANTE"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "CELIA YELIMAR PALMERO QUINTANA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 12:00",
+        "professor": "RIBRIO IVAN TAVARES PEREIRA BATISTA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 12:00",
+        "professor": "MOISES CLEMENTE MARINHO CAVALCANTE"
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 12:00",
+        "professor": "CELIA YELIMAR PALMERO QUINTANA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 12:00",
+        "professor": "AINA EIRAS DOMINGOS"
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 12:00",
+        "professor": "ALEXANDRE DE AZEVEDO"
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 12:00",
+        "professor": "ALESSANDRA CORDEIRO DE SOUZA RODRIGUES CUNHA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 12:00",
+        "professor": "TAIS FONTOURA DE ALMEIDA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 12:00",
+        "professor": "MARINALDO PACIFICO CAVALCANTI NETO"
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 12:00",
+        "professor": "CELINA GARCIA DA FONSECA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "13:30 - 17:30",
+        "professor": "TAIS FONTOURA DE ALMEIDA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 12:00",
+        "professor": "ALESSANDRA CORDEIRO DE SOUZA RODRIGUES CUNHA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 12:00",
+        "professor": "CELINA GARCIA DA FONSECA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 12:00",
+        "professor": "ALEXANDRE DE AZEVEDO"
+       },
+       {
+        "dia": "Sex",
+        "hora": "13:30 - 17:30",
+        "professor": ""
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 12:00",
+        "professor": "CELIA YELIMAR PALMERO QUINTANA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "13:30 - 17:30",
+        "professor": "CELINA GARCIA DA FONSECA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "13:30 - 17:30",
+        "professor": "MOISES CLEMENTE MARINHO CAVALCANTE"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 12:00",
+        "professor": "TAIS FONTOURA DE ALMEIDA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "13:30 - 17:30",
+        "professor": "ALESSANDRA CORDEIRO DE SOUZA RODRIGUES CUNHA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 12:00",
+        "professor": "MOISES CLEMENTE MARINHO CAVALCANTE"
+       },
+       {
+        "dia": "Sex",
+        "hora": "13:30 - 17:30",
+        "professor": "MARINALDO PACIFICO CAVALCANTI NETO"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 12:00",
+        "professor": "AINA EIRAS DOMINGOS"
+       },
+       {
+        "dia": "Sex",
+        "hora": "13:30 - 17:30",
+        "professor": "RIBRIO IVAN TAVARES PEREIRA BATISTA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "13:30 - 17:30",
+        "professor": "CELIA YELIMAR PALMERO QUINTANA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 12:00",
+        "professor": "MARINALDO PACIFICO CAVALCANTI NETO"
+       },
+       {
+        "dia": "Sex",
+        "hora": "13:30 - 17:30",
+        "professor": "AINA EIRAS DOMINGOS"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 12:00",
+        "professor": "RIBRIO IVAN TAVARES PEREIRA BATISTA"
+       }
+      ],
+      "Requisitos": [
+       "MCW120"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCE230",
+      "Nome": "Antropologia Cultural em Saúde",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Antropologia como campo de conhecimento. A Antropologia e as demais ciências sociais. Sistematização de conteúdos que expressam a evolução historicamente contextualizada da produção e manisfestação dos componentes sócio-culturais, econômicos e políticos decorrentes da antropogênese do processo civilizatório. Base antropológica indispensável ao exercício profissional em saúde.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "13:30 - 17:30",
+        "professor": "PACITA GEOVANA GAMA DE SOUSA APERIBENSE"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCEU01",
+      "Nome": "Estágio Curr em Comunidade I",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Disponibilidade para estágio curricular em comunidade I; atividade supervisionada desenvolvida na comunidade junto a clientes escolares e famílias.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 17:00",
+        "professor": "THIAGO PRIVADO DA SILVA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 17:00",
+        "professor": "MARIALDA MOREIRA CHRISTOFFEL"
+       }
+      ],
+      "Requisitos": [
+       "MCE121"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCW231",
+      "Nome": "Saúde da Comunidade III",
+      "Créditos": "6.0",
+      "Teórica": "30",
+      "Prática": "120",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Epidemiologia e Políticas de saúde. Categorias utilizadas para avaliação de serviços de saúde: eficiência, eficácia, efetividade, eqüidade. Sistemas administrativos: infra-estrutura física, material, recursos humanos e recursos financeiros. Sistemas de informação em saúde: principais sistemas, objetivos, fluxos, instrumentos de coleta de dados. Análise da estrutura e do processo organizacional dos serviços de saúde. Análise dos resultados.Qualidade da atenção à saúde: implicações técnicas, éticas e dos sistemas de controle. Principais indicadores de avaliação de qualidade. Saúde e trabalho: semiologia e saúde do das pessoas que trabalham; avaliação e intervenções; segurança e condições de trabalho; necessidades pessoais e direitos do trabalhador; gênero e trabalho; saúde mental; programas assistenciais em saúde do trabalhador no SUS; educação e saúde; pesquisa aplicada ao trabalhador e à família. Ecologia e Saúde.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:30 - 17:30",
+        "professor": "GLAUCIA VALENTE VALADARES"
+       },
+       {
+        "dia": "Seg",
+        "hora": "13:30 - 17:30",
+        "professor": "GLAUCIA ALEXANDRE FORMOZO"
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:30 - 17:30",
+        "professor": "GLAUCIA VALENTE VALADARES"
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:30 - 17:30",
+        "professor": "GLAUCIA ALEXANDRE FORMOZO"
+       }
+      ],
+      "Requisitos": [
+       "MCM121"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "4º Período": [
+     {
+      "Codigo": "MCE242",
+      "Nome": "Pesq Aplicada à Enfermagem II",
+      "Créditos": "1.0",
+      "Teórica": "15",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A pesquisa na área da saúde e da enfermagem. Ética em pesquisa na saúde. Estrutura do Projeto de Pesquisa. Distinções entre partes: pré-textual e pós-textual do projeto de pesquisa. Pesquisa bibliográfica, portais de revistas científicas e outros recursos disponíveis na Internet. Preparação para a construção de um anteprojeto de pesquisa: a contextualização, o objeto, o problema, os objetivos e a justificativa. Introdução dos diferentes tipos de abordagem metodológica. Elaboração de artigos: estudos preliminares.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "08:30 - 12:00",
+        "professor": "GRAZIELE RIBEIRO BITENCOURT"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:30 - 12:00",
+        "professor": "TADEU LESSA DA COSTA"
+       }
+      ],
+      "Requisitos": [
+       "MCE231"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCE244",
+      "Nome": "Didática Aplicada à Enfermagem",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Abordagens dos fundamentos da educação, das diferentes concepções e pressupostos teórico-metodológicos do processo de ensino-aprendizagem. os pilares da educação. Métodos e estratégias na educação. Prática educativa em saúde. Planejamento do processo de ensino-aprendizagem e avaliação. Natureza e fundamento da ação educativa em saúde. Processo ensino-aprendizagem e seus elementos constitutivos. Instrumentalização para o desempenho da função educativa na enfermagem e na práxis profissional.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:30 - 17:30",
+        "professor": "ADRIANA BISPO ALVAREZ"
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:30 - 17:30",
+        "professor": "RAQUEL SILVA DE PAIVA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCEU04",
+      "Nome": "Estágio Curr em Pesquisa I",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Disponibilidade para estágio curricular pesquisa: atividade de iniciação científica voluntária, com bolsa (IC/PIBIC) ou como colaborador, realizada pelo estudante.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "17:30 - 19:30",
+        "professor": "CARINA BULCAO PINTO"
+       },
+       {
+        "dia": "Qui",
+        "hora": "17:30 - 19:30",
+        "professor": "CASSIA QUELHO TAVARES"
+       }
+      ],
+      "Requisitos": [
+       "MCE231"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCE240",
+      "Nome": "Informática para a Enfermagem",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Sistema de informação: conceitos e princípios. Subsistemas de informação em saúde. Noções de sistemas operacionais. Aplicativos de Escritório (Editor de textos; Planilhas Apresentações). Internet: conceitos e princípios de navegação. Interação em ambientes virtuais: aplicação para enfermagem. Procedimentos gerais de segurança de nível usuário no uso de sistemas em rede. Informática e Internet como ferramentas da pesquisa científica. Software de análise de dados científicos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "13:30 - 17:30",
+        "professor": "JOANA DARC FIALHO DE SOUZA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:30 - 17:30",
+        "professor": "ITALO RODOLFO SILVA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:30 - 17:30",
+        "professor": "ANGELICA MONICA ANDRADE"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:30 - 17:30",
+        "professor": "SABRINA AYD PEREIRA JOSE"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCE243",
+      "Nome": "Sociologia em Saúde",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A problemática das ciências sociais: a questão do método da objetividade, na sociedade, a noção de totalidade, a interdisciplinaridade. A emergência do pensamento sociológico, Conceitos de sociologia. Base sociológica indispensável ao exercício profissional em saúde.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "14:00 - 17:00",
+        "professor": "GIULIANA FRANCO LEAL"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCE245",
+      "Nome": "Estudos da História da Enferm",
+      "Créditos": "1.0",
+      "Teórica": "15",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Determinantes sociais, políticos e econômicos. Planejamento e implantação dos serviços de enfermagem nos hospitais modernos com ênfase nas especialidades.\n___BIBLIOGRAFIA BÁSICA___\n1) COMISSÃO NACIONAL SOBRE DETERMINANTES SOCIAIS DA SAÚDE. As causas sociais das iniquidades no Brasil. Rio de Janeiro: Fiocruz, 2008.\n2) LIMA, NVT. Saúde e democracia: história e perspectivas do SUS. Rio de Janeiro: Fiocruz, 2011.\n3) POTTER, PA. Fundamentos de Enfermagem. 7 ed. Rio de Janeiro: Elsevier, 2009.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:30 - 17:30",
+        "professor": "PACITA GEOVANA GAMA DE SOUSA APERIBENSE"
+       },
+       {
+        "dia": "Seg",
+        "hora": "13:30 - 17:30",
+        "professor": "BRUNA TAVARES UCHOA DOS SANTOS XAVIER"
+       }
+      ],
+      "Requisitos": [
+       "MCE123"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCW240",
+      "Nome": "Mecan Básicos Saúde Doença",
+      "Créditos": "17.0",
+      "Teórica": "90",
+      "Prática": "330",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceito de doença através do estudo dos agentes agressores e da resposta do organismo a esta agressão. Estudo dos diversos tipos de agressão com ênfase na correlação clínico-patológica através da integração dos achados morfológicos com os clínicos. Estudo das características dos microorganismos patogênicos e do sistema imune. Imunidade. Métodos de controle e diagnóstico laboratorial de infecções humanas. Relação parasito-hospedeiro. Noções de epidemiologia e correlações clínicas. Estrutura, replicação e funcionamento do material genético. Classificação das doenças genéticas. Aconselhamento genético. Genética de populações. Processo evolutivo. Mecanismos genéticos e psico-sociais de produção de doenças.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 12:00",
+        "professor": "GIZELE DUARTE GARCIA"
+       },
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 12:00",
+        "professor": "DANIELLE PEREIRA VIEIRA SILVEIRA"
+       },
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 12:00",
+        "professor": "KATIA CALVI LENZI DE ALMEIDA"
+       },
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 12:00",
+        "professor": "CELSO LUIS RIBEIRO BELMIRO"
+       },
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 12:00",
+        "professor": "FERNANDA SAMPAIO CAVALCANTE"
+       },
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 12:00",
+        "professor": "LILIAN MARIA GARCIA BAHIA DE OLIVEIRA"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": ""
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "CELSO LUIS RIBEIRO BELMIRO"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "FERNANDA SAMPAIO CAVALCANTE"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "KATIA CALVI LENZI DE ALMEIDA"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "GIZELE DUARTE GARCIA"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "DANIELLE PEREIRA VIEIRA SILVEIRA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 12:00",
+        "professor": "GIZELE DUARTE GARCIA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 12:00",
+        "professor": "DANIELLE PEREIRA VIEIRA SILVEIRA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 12:00",
+        "professor": "FERNANDA SAMPAIO CAVALCANTE"
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 12:00",
+        "professor": "LILIAN MARIA GARCIA BAHIA DE OLIVEIRA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 12:00",
+        "professor": "CELSO LUIS RIBEIRO BELMIRO"
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 12:00",
+        "professor": "KATIA CALVI LENZI DE ALMEIDA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 17:30",
+        "professor": ""
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 17:30",
+        "professor": "FERNANDA SAMPAIO CAVALCANTE"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 17:30",
+        "professor": "LILIAN MARIA GARCIA BAHIA DE OLIVEIRA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 17:30",
+        "professor": "CELSO LUIS RIBEIRO BELMIRO"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 17:30",
+        "professor": "GIZELE DUARTE GARCIA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 17:30",
+        "professor": "DANIELLE PEREIRA VIEIRA SILVEIRA"
+       }
+      ],
+      "Requisitos": [
+       "MCW230"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "5º Período": [
+     {
+      "Codigo": "MCE311",
+      "Nome": "Enf Cuidados Bás Saú: Ind e Gr",
+      "Créditos": "10.0",
+      "Teórica": "75",
+      "Prática": "150",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Semiologia e Semiotécnica do indivíduo saudável. Políticas Públicas de Saúde e o Sistema Único de Saúde (SUS): histórico, conceituação, princípios, estratégias, ações básicas. Características da Atenção Primária em Saúde, Conceito, estratégias e ações em Saúde da Família. Gestão de trabalho a clientes, grupos e comunidade em unidades básicas e centros de saúde.Ações de diagnóstico, intervenção e controle em saúde dos clientes a grupos de baixa complexidade. Atividades fins da assistência de enfermagem em serviços de saúde: consulta de enfermagem, visita domiciliar e programa de educação em saúde. Programas governamentais prioritários à população na atenção básica. Princípios e métodos epidemiológicos do processo saúde-doença. Projeto de pesquisa aplicado à saúde dos indivíduos e grupos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 17:00",
+        "professor": "FERNANDA TELES MORAIS DO NASCIMENTO"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 17:00",
+        "professor": "TIAGO OLIVEIRA DE SOUZA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 17:00",
+        "professor": "ISABELA BARBOZA DA SILVA TAVARES AMARAL"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 12:00",
+        "professor": ""
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 12:00",
+        "professor": "FERNANDA TELES MORAIS DO NASCIMENTO"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 12:00",
+        "professor": "TIAGO OLIVEIRA DE SOUZA"
+       }
+      ],
+      "Requisitos": [
+       "MCE121",
+       "MCW231",
+       "MCW240"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCE313",
+      "Nome": "Pesquisa Aplicada à Enfermagem",
+      "Créditos": "1.0",
+      "Teórica": "15",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Planejamento do projeto de pesquisa. Abordagens metodológicas nas pesquisas: quantitativa e qualitativa. Contrastes e complementaridade. A abordagem metodológica. Tipos de estudo: observacionais, experimentais e não experimentais. Os sujeitos do estudo. A amostragem, critérios e seleção. Distinção entre instrumento de coleta de dados: observação, entrevista, questionário, formulário, produção pictória, análise documental, dentre outros. A fundamentação teórica: a consistência e a coerência interna. Diferenças entre apêndices e anexos. Adequação do termo de consentimento livre e e esclarecido. Cronogramas de Pesquisa.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 17:00",
+        "professor": "SORAIA DO SOCORRO FURTADO BASTOS"
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 17:00",
+        "professor": "LUCIANA MARIA CAPURRO DE QUEIROZ OBERG"
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 17:00",
+        "professor": "GENESIS DE SOUZA BARBOSA"
+       }
+      ],
+      "Requisitos": [
+       "MCE242"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCEX02",
+      "Nome": "Ativid Curr de Exte Univer II",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Atividades de extensão universitária que compreende cursos de extensão e atividades científico - culturais.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "07:30 - 13:30",
+        "professor": "BRUNA TAVARES UCHOA DOS SANTOS XAVIER"
+       }
+      ],
+      "Requisitos": [
+       "MCEX01",
+       "MCW111"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCE310",
+      "Nome": "Farmacologia A. I",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Farmacologia geral, animais simpaticomiméticas. Anestésicos locais. Antistamínicos. Farmacologia do sangue. Introdução à farmacologia cardíaca. Farmacologia da dor.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 11:00",
+        "professor": "ANDRE GUSTAVO CALVANO BONAVITA"
+       }
+      ],
+      "Requisitos": [
+       "MCW240"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCE312",
+      "Nome": "Enf Cuidados Bás Saúd à Mulher",
+      "Créditos": "10.0",
+      "Teórica": "75",
+      "Prática": "150",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Semiologia e semiotécnica em saúde da mulher e do recém-nascido. Política de Assitência Integral de Saúde a Muher (PAISM): histórico, conceituação, princípios, ações básicas. Direitos Sexuais e reprodutivos. Hospital-maternidade: estrutura funcional e organização. Planejamento familiar: aspectos históricos, conceituais e progamáticos. Cuidados de enfermagem a mulheres com problemas ginecológicos, doenças sexualmente transmissíveis/ HIV/ AIDS. Prevenção e controle do câncer cérvico, uterino e mamário. Doenças prevalentes na população feminina (da adolescência a terceira idade). Cuidados de enfermagem à mulher na gestação. parto, nascimento, puerpério e ao recém-nascido em níveis de baixa complexidade. Avaliação de fatoresde risco e de situações emergenciais no ciclo gravídico-puerperal. Ações educativas em saúde à mulher e família. Questões éticas aplicadas no cuidado à mulher e ao recém-nascido. Projeto de pesquisa aplicado saúde da mulher.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 17:00",
+        "professor": "PATRICIA REGINA AFFONSO DE SIQUEIRA"
+       },
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 17:00",
+        "professor": "CARLA OLIVEIRA SHUBERT"
+       },
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 17:00",
+        "professor": "GLAUCIMARA RIGUETE DE SOUZA SOARES"
+       },
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 17:00",
+        "professor": "CARINA BULCAO PINTO"
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 12:00",
+        "professor": "PATRICIA REGINA AFFONSO DE SIQUEIRA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 12:00",
+        "professor": "GLAUCIMARA RIGUETE DE SOUZA SOARES"
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 12:00",
+        "professor": "CARINA BULCAO PINTO"
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 12:00",
+        "professor": "CARLA OLIVEIRA SHUBERT"
+       }
+      ],
+      "Requisitos": [
+       "MCE121",
+       "MCW231",
+       "MCW240"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCE314",
+      "Nome": "Nutrição Aplicada à Enfermagem",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Reconhecimento dos alimentos como fonte de nutrientes por faixa etária. Visão crítica da nutrição considerando a realidade da sociedade brasileira. Avaliação do estado nutricional da população (escolar, adolescente, adulto e terceira idade). Vigilância nutricional dos grupos e populçaões de risco.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 17:00",
+        "professor": "MARIA FERNANDA LARCHER DE ALMEIDA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 17:00",
+        "professor": "JANE DE CARLOS SANTANA CAPELLI"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 17:00",
+        "professor": "LUANA SILVA MONTEIRO"
+       }
+      ],
+      "Requisitos": [
+       "MCW230"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "6º Período": [
+     {
+      "Codigo": "MCE321",
+      "Nome": "Cuid Enf I Adul Idoso Família",
+      "Créditos": "8.0",
+      "Teórica": "45",
+      "Prática": "150",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Semiologia e Semiotécnica. Sistema Único de Saúde: assistência primária e secundária e sistema de referência e contra-referência. Planejamento e Programação de Recursos Humanos na gestão de enfermagem. O papel do hospital no sistema de saúde: hospital geral e especializado. Cuidados de enfermagem a clientes e família em ambulatório de unidades especiais. Atividades fins da assistência de enfermagem em serviços de hospitais e ambulatórios de saúde: consulta de enfermagem, visita domiciliar e programa de educação em saúde. Ações de disgnóstico, intervenção e controle em saúde do indivíduo e família em nível de baixa complexidade. Ações educativas em saúde ao indivíduo e família em situações de assistência ambulatorial. Questões éticas aplicadas no cuidado ao adulto, idoso e família. Projeto de pesquisa aplicado à saúde do indivíduo e família.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 12:00",
+        "professor": "RAQUEL SILVA DE PAIVA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 12:00",
+        "professor": "ANGELICA MONICA ANDRADE"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 17:00",
+        "professor": "RAQUEL SILVA DE PAIVA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 17:00",
+        "professor": "ANGELICA MONICA ANDRADE"
+       }
+      ],
+      "Requisitos": [
+       "MCE310",
+       "MCE311",
+       "MCE312"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCE323",
+      "Nome": "Pesq Aplicada à Enfermagem IV",
+      "Créditos": "1.0",
+      "Teórica": "15",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Correntes do pensamento: positivismo, construtivismo e marxismo. Análise de dados em pesquisa quantitativa. Tipos e Natureza das Variáveis. Instrumentos de Medida em Pesquisa. Relações entre variáveis e Deliniamentos de Pesquisa Quantitativa. Descrição das Variáveis, Normalidade e Outilers. Elaboração de Gráficos. Análise de dados em pesquisa qualitativa como uma totalidade social das realidades (objetivas e subjetivas). Diversidades e antagonismos nos variados campos de estudo com a interconexão do pensamento com o mundo da práxis vivida, sentida e percebida. Análise de Conteúdo. Análise Temática. Análise documental.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "09:00 - 12:00",
+        "professor": "ISABELA BARBOZA DA SILVA TAVARES AMARAL"
+       },
+       {
+        "dia": "Sex",
+        "hora": "09:00 - 12:00",
+        "professor": "FERNANDA TELES MORAIS DO NASCIMENTO"
+       }
+      ],
+      "Requisitos": [
+       "MCE313"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCE325",
+      "Nome": "Ética em Enfermagem",
+      "Créditos": "1.0",
+      "Teórica": "15",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Ética: fundamentos, epistemológicos e conceituais. A enfermagem e a ética profissional. Questões éticas no processo de nascer, crescer e morrer. A ética e a bioética em saúde. O código de ética na prática profissional. Cidadania, direitos humanos e ética.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "13:30 - 17:30",
+        "professor": "PACITA GEOVANA GAMA DE SOUSA APERIBENSE"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:30 - 17:30",
+        "professor": "GLAUCIA VALENTE VALADARES"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:30 - 17:30",
+        "professor": "BRUNA TAVARES UCHOA DOS SANTOS XAVIER"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCE320",
+      "Nome": "Farmacologia A. II",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Ansiolíticos e tranquilizantes, antibióticos e quimioterápicos. Corticosteróides. Introdução aos anestésicos gerais. Farmacologia dos antissépticos e desinfetantes.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "13:30 - 17:30",
+        "professor": "ANDRE GUSTAVO CALVANO BONAVITA"
+       }
+      ],
+      "Requisitos": [
+       "MCE310"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCE322",
+      "Nome": "Cuid Enf II Adul Hosp Família",
+      "Créditos": "8.0",
+      "Teórica": "45",
+      "Prática": "150",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Semiologia e Semiotécnica. O Hospital e serviço de enfermagem: aspectos estruturais, funcionais e organizacionais. Procedimentos e tecnologias aplicadas ao cuidado de enfermagem. Documentação clínica dos clientes. Cuidados de enfermagem em situações clínicas e cirúrgicas de média complexidade ao adulto e ao idoso hospitalizado e a sua família. Aplicação da metodologia de assisência de enfermagem ao adulto hospitalizado e a família da admissão até a alta. Procedimentos de enfermagem no processo de admissão, transferência e alta do adulto hospitalizado. O processo de enfermagem. Ações educativas em saúde. As questões éticas aplicadas no cuidade ao adulto e idoso hospitalizado. Projeto de pesquisa aplicado ao adulto hospitalizado à família.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "07:30 - 17:30",
+        "professor": "ROBERTA PEREIRA COUTINHO"
+       },
+       {
+        "dia": "Seg",
+        "hora": "07:30 - 17:30",
+        "professor": "GUNNAR GLAUCO DE CUNTO CARELLI TAETS"
+       },
+       {
+        "dia": "Seg",
+        "hora": "07:30 - 17:30",
+        "professor": "GLAUCIA CRISTINA ANDRADE VIEIRA"
+       },
+       {
+        "dia": "Ter",
+        "hora": "07:30 - 17:30",
+        "professor": "ROBERTA PEREIRA COUTINHO"
+       },
+       {
+        "dia": "Ter",
+        "hora": "07:30 - 17:30",
+        "professor": "GUNNAR GLAUCO DE CUNTO CARELLI TAETS"
+       },
+       {
+        "dia": "Ter",
+        "hora": "07:30 - 17:30",
+        "professor": "GLAUCIA CRISTINA ANDRADE VIEIRA"
+       }
+      ],
+      "Requisitos": [
+       "MCE310",
+       "MCE311",
+       "MCE312"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCE324",
+      "Nome": "Legis Deon Exe Prof Enfermagem",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Política, cidadania e os direitos humanos. Bases legais para o exercício profissional em geral e nas especialidades. Lei do exercício profissional Lei 7498/86 e Decreto Lei que regulamenta 94406/87. Resoluções do Conselho Federal de Enfermagem e Portarias Ministeriais de Institucionalização da Prática Geral e das Práticas Especializadas. Código de Deontologia do Exercício Profissional de Enfermagem.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "13:30 - 17:30",
+        "professor": "SABRINA AYD PEREIRA JOSE"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:30 - 17:30",
+        "professor": "JOANA DARC FIALHO DE SOUZA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:30 - 17:30",
+        "professor": "ANGELICA MONICA ANDRADE"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:30 - 17:30",
+        "professor": "ITALO RODOLFO SILVA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "7º Período": [
+     {
+      "Codigo": "MCE411",
+      "Nome": "Ce IV Assis Adu Ido Fam Crític",
+      "Créditos": "8.0",
+      "Teórica": "45",
+      "Prática": "150",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Semiologia e Semiotécnica. Tecnologias aplicadas ao cuidado de enfermagem. O processo de enfermagem aplicados nas situações de cuidados intermediários, intensivos e no processo de morrer e morte. Procedimentos de enfermagem no preparo e esterilização de materiais e no cuidado ao cliente no pré, trans e pós-operatório. Cuidados de Enfermagem a situações de saúde  de grande complexidade, de natureza clínico-cirúrgico-traumática, em condições de urgência e emergência, ao adulto e o idoso. Clientes sob cuidados intensivos. Essencialidade de Enfermagem para o paciente critico. Situações de vida-morte. Orientação da família quanto ao paciente em situações de risco. Ações educativas de apoio à família. Estudos científicos e análise de situações de alta complexidade emirjam da prática profissional. Questões éticas aplicadas ao adulto e ao idoso hospitalizado.\n___BIBLIOGRAFIA BÁSICA___\n1) BARROS, ALBL. Anamnese e exame físico: a avalição diagnóstica de Enfermagem no adulto. Porto Alegre: Artmed, 2010;\n2) Pinheiro, CTS. Programa de atualização em medicina intensiva. Porto Alegre: Artmed, 2003;\n3) Smeltzer, SC. Tratado de Enfermagem médico-cirúrgica. Rio de Janeiro: Guanabara Koogan, 2011.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 17:00",
+        "professor": "SORAIA DO SOCORRO FURTADO BASTOS"
+       },
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 17:00",
+        "professor": "GENESIS DE SOUZA BARBOSA"
+       },
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 17:00",
+        "professor": "LUCIANA MARIA CAPURRO DE QUEIROZ OBERG"
+       },
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 17:00",
+        "professor": "ALLAN PEIXOTO DE ASSIS"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "GENESIS DE SOUZA BARBOSA"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "SORAIA DO SOCORRO FURTADO BASTOS"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "LUCIANA MARIA CAPURRO DE QUEIROZ OBERG"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "ALLAN PEIXOTO DE ASSIS"
+       }
+      ],
+      "Requisitos": [
+       "MCE320",
+       "MCE321",
+       "MCE322"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCE413",
+      "Nome": "Teor Modelos Proc Cuid Enf II",
+      "Créditos": "1.0",
+      "Teórica": "15",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O pensamento teórico na enfermagem e suas tendências de evolução na busca da unidade possível diante da diversidade dos modos de pensar as concepções  do mundo. Meta paradigma da enfermagem. Teorias de enfermagem e sua aplicabilidade no contexto social brasileiro. Evoluções teóricas para uma assistência na inter-relação ensino e pesquisa. Referênciais teóricos na sistematização de processos metodológicos da prática assistencial de enfermagem.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "13:30 - 17:30",
+        "professor": "BRUNA TAVARES UCHOA DOS SANTOS XAVIER"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:30 - 17:30",
+        "professor": "GLAUCIA CRISTINA ANDRADE VIEIRA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:30 - 17:30",
+        "professor": "MONIQUE DA SILVA DIAS BABINSKI"
+       }
+      ],
+      "Requisitos": [
+       "MCE122",
+       "MCE123"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCEX03",
+      "Nome": "Ativid Curr de Exte Univer III",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Atividades científico - culturais, projetos, programas e cursos de extensão.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:30 - 15:30",
+        "professor": "JOANA DARC FIALHO DE SOUZA"
+       }
+      ],
+      "Requisitos": [
+       "MCEX02"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCE410",
+      "Nome": "Ce III Ass Méd Cir Crian Ad Fa",
+      "Créditos": "8.0",
+      "Teórica": "45",
+      "Prática": "150",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Semiologia e Semiotécnica de enfermagem à criança, ao adulto e ao idoso hospitalizado em nível de média e alta complexidade de cuidados. A criança o adulto e o idoso - o processo da hospitalização. Cuidados intensivos à criança, ao adulto a ao idoso. Cuidado de enfermagem em situações de saúde de grande complexidade, de natureza clinico-cirúrgica e traumática, em condições de urgência e emergência à criança, adulto e idoso.O cuidado de enfermagem mediante ao cliente portador de doença infecto-parasitária. O Serviço de enfermagem em hospital pediátrico: aspectos estruturais, funcionais e organizacionais. Tecnologias aplicadas ao cuidado de enfermagem. O processo de enfermagem. Ações educativas em saúde. Questões éticas aplicadas no cuidado à criança, ao adulto e ao idoso hospitalizado. Projeto de pesquisa aplicado à saúde da criança, ao adulto e ao idoso hospitalizados.\n___BIBLIOGRAFIA BÁSICA___\n1) Smeltzer SC. Brunner & Suddarth. Tratado de Enfermagem médico-cirúrgica. Rio da Janeiro: Guanabara Koogan, 2011;\n2) Honckenberry MJ, Wilson D. Wong. Fundamentos de Enfermagem Pediátrica. 9ª edição. Rio de Janeiro: Elsevier, 2014;\n3) Potter P., Perry AG. Fundamentos de Enfermagem. 8ª edição. Rio de Janeiro: Elsevier, 2013.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 12:00",
+        "professor": "RUTH FRANCISCA FREITAS DE SOUZA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 12:00",
+        "professor": "JULIANA MARIA REGO MACIEL CARDOSO"
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 12:00",
+        "professor": "DEBORAH MACHADO DOS SANTOS"
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 12:00",
+        "professor": "LUCIA HELENA OLIVEIRA DA COSTA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 17:00",
+        "professor": "RUTH FRANCISCA FREITAS DE SOUZA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 17:00",
+        "professor": "LUCIA HELENA OLIVEIRA DA COSTA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 17:00",
+        "professor": "DEBORAH MACHADO DOS SANTOS"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 17:00",
+        "professor": "JULIANA MARIA REGO MACIEL CARDOSO"
+       }
+      ],
+      "Requisitos": [
+       "MCE320",
+       "MCE321",
+       "MCE322"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCE412",
+      "Nome": "Pesqui Aplicada à Enfermagem V",
+      "Créditos": "1.0",
+      "Teórica": "15",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenvolvimento de estudos científicos e análise de situações que emergem da prática profissional.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "13:30 - 17:30",
+        "professor": "LUCIANA MARIA CAPURRO DE QUEIROZ OBERG"
+       }
+      ],
+      "Requisitos": [
+       "MCE323"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCEU02",
+      "Nome": "Estágio Curr em Comunidade II",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Disponibilidade para estágio curricular: atividade escolar supervisionada desenvolvida na comunidade junto a grupos e comunidades visando a preparação do educando para o trabalho produtivo. Enfoque: Comunidade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 17:00",
+        "professor": "ISIS VANESSA NAZARETH"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 17:00",
+        "professor": "PATRICIA REGINA AFFONSO DE SIQUEIRA"
+       }
+      ],
+      "Requisitos": [
+       "MCE321",
+       "MCE322"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "8º Período": [
+     {
+      "Codigo": "MCE421",
+      "Nome": "Cuid Enf VI Pess Proc Reab II",
+      "Créditos": "8.0",
+      "Teórica": "45",
+      "Prática": "150",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Semiologia e Semiotécnica. Estigma social e direito da pessoa em situações especiais. A família da pessoa excepcional e suas necessidades em situações especiais. Instituições de reabilitação: aspectos estruturais, funcionais e organizacionais. Tecnologias de adaptação física, mental e social. O processo de enfermagem. Ações educativas ao cliente e família. Questões éticas aplicadas no cuidado de pessoa em situações especiais. Projeto de pesquisa aplicado à pessoas em processo de reabilitação 2.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 17:00",
+        "professor": "MICHELLA FLORENCIA BARBOSA CAMARA"
+       },
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 17:00",
+        "professor": "PAULA CRISTINA DA SILVA CAVALCANTI"
+       },
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 17:00",
+        "professor": "INES LEONEZA DE SOUZA"
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 17:00",
+        "professor": "MICHELLA FLORENCIA BARBOSA CAMARA"
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 17:00",
+        "professor": "PAULA CRISTINA DA SILVA CAVALCANTI"
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 17:00",
+        "professor": "INES LEONEZA DE SOUZA"
+       }
+      ],
+      "Requisitos": [
+       "MCE410",
+       "MCE411"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCE423",
+      "Nome": "Pesquisa Aplicada à Enferm VI",
+      "Créditos": "1.0",
+      "Teórica": "15",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Organização de artigo científico com base nos estudos dos períodos anteriores.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "13:30 - 17:30",
+        "professor": "CAROLINE GUILHERME"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:30 - 17:30",
+        "professor": "GLAUCIA ALEXANDRE FORMOZO"
+       }
+      ],
+      "Requisitos": [
+       "MCE412"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCE420",
+      "Nome": "Cuid Enf V Pess Proc Reab I",
+      "Créditos": "8.0",
+      "Teórica": "45",
+      "Prática": "150",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Semiologia e Semiotécnica de enfermagem à pessoa em situação de dificuldade de integração psicossocial e com transtorno mental. Aspectos históricos de Enfermagem em Saúde Mental. O hospital psiquiátrico e CAPS: aspectos históricos, conceituais e programáticos. Instituições  Totais; Processos Humanos de dificuldades psíquicas e sociais, e de integração; Inserção na Política Nacional de Saúde Mental; Atenção Psicossocial, interdisciplinaridade e sistema de saúde; Processos Interpessoais de relações; Ações de cuidados às pessoas, famílias e comunidades, relacionadas com o sofrimento psíquico e a estigmatização social; Estudos científicos e análise de situações em saúde mental que emirjam da prática profissional. Tecnologias aplicadas ao cuidado de enfermagem. O processo de enfermagem. Questões éticas aplicadas no cuidado á pessoas em situação de dificuldade de integração psicossocial em com transtorno mental. Ações educativas ao cliente e família. Projeto de pesquisa aplicado á pessoa em processo de reabilitação.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 12:00",
+        "professor": "LARISSA ESCARCE BENTO WOLLZ"
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 12:00",
+        "professor": "GIZELE DA CONCEICAO SOARES MARTINS"
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 12:00",
+        "professor": "MARCIA PEIXOTO CESAR"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 17:00",
+        "professor": ""
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 17:00",
+        "professor": "GIZELE DA CONCEICAO SOARES MARTINS"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 17:00",
+        "professor": "LARISSA ESCARCE BENTO WOLLZ"
+       }
+      ],
+      "Requisitos": [
+       "MCE410",
+       "MCE411"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCE422",
+      "Nome": "Introdução à Filosofia",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "História do conhecimento; Representação histórica da sociedade; Conceitos fundamentais do conhecimento humano; Epistemologia e Ontologia; Funcionamento do pensamento e ação humanos; Natureza e concepção da realidade; Teoria de valores - questões éticas, sociais e políticas; Leis do pensamento e do argumento; Teoria da ação - desejo e ato; Saúde como fenômeno filosófico.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "CASSIA QUELHO TAVARES"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCEU06",
+      "Nome": "Estágio Curricular Clínico I",
+      "Créditos": "3.0",
+      "Teórica": "0",
+      "Prática": "135",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Disponibilidade para estágio curricular em hospitais: atividade escolar supervisionada desenvolvida na comunidade junto a clientes, famílias, grupos e comunidades visando a preparação do educando para o trabalho produtivo. Enfoque: hospitais gerais modalidade preceptoria.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 17:00",
+        "professor": "MONIQUE DA SILVA DIAS BABINSKI"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 17:00",
+        "professor": "BRUNA TAVARES UCHOA DOS SANTOS XAVIER"
+       }
+      ],
+      "Requisitos": [
+       "MCE321",
+       "MCE322",
+       "MCE410",
+       "MCE411"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "9º Período": [
+     {
+      "Codigo": "MCE511",
+      "Nome": "o Prof Enf em Diag MI Reg Saúd",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Políticas públicas: papel do estado, dos profissionais de saúde e da sociedade. Comunidade: conceitos, características e palno de ação. Micro-região como área de saúde e unidade de trabalho na enfermagem. Diagnóstico de micro-região: fatores determinantes do processo saúde-doença, indicadores sócio-demográficos e epidemiológicos, e problemas emergentes da micro-região. Programas e projetos aplicados ao diagnóstico de micro-região. Indicadores de avaliação em saúde e enfermagem.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "09:00 - 16:00",
+        "professor": "INES LEONEZA DE SOUZA"
+       }
+      ],
+      "Requisitos": [
+       "MCE420",
+       "MCE421"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCE510",
+      "Nome": "Oficina Elab Projeto Pesquisa",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Elaboração, desenvolvimento e avaliação de projeto de trabalho de conclusão de curso.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:30 - 17:30",
+        "professor": "CASSIA QUELHO TAVARES"
+       }
+      ],
+      "Requisitos": [
+       "MCE423"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCEU03",
+      "Nome": "Estágio Curr em Comun III (MI)",
+      "Créditos": "7.0",
+      "Teórica": "0",
+      "Prática": "300",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Disponibilidade para estágio curricular em comunidade III; atividade escolar supervisionada desenvolvida junto a clientes, famílias, grupos e comunidades visando a preparação do educando para o trabalho produtivo. Enfoque: rede básica de saúde e estratégias de saúde da comunidade, preceptores. Modalidade: internato.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 17:00",
+        "professor": "TIAGO OLIVEIRA DE SOUZA"
+       },
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 17:00",
+        "professor": "ISABELA BARBOZA DA SILVA TAVARES AMARAL"
+       },
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 17:00",
+        "professor": "FERNANDA TELES MORAIS DO NASCIMENTO"
+       },
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 17:00",
+        "professor": "INES LEONEZA DE SOUZA"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 17:00",
+        "professor": "ISABELA BARBOZA DA SILVA TAVARES AMARAL"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 17:00",
+        "professor": "TIAGO OLIVEIRA DE SOUZA"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 17:00",
+        "professor": "INES LEONEZA DE SOUZA"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 17:00",
+        "professor": "FERNANDA TELES MORAIS DO NASCIMENTO"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 17:00",
+        "professor": "ISABELA BARBOZA DA SILVA TAVARES AMARAL"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 17:00",
+        "professor": "TIAGO OLIVEIRA DE SOUZA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 17:00",
+        "professor": "FERNANDA TELES MORAIS DO NASCIMENTO"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 17:00",
+        "professor": "INES LEONEZA DE SOUZA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 17:00",
+        "professor": "TIAGO OLIVEIRA DE SOUZA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 17:00",
+        "professor": "ISABELA BARBOZA DA SILVA TAVARES AMARAL"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 17:00",
+        "professor": "INES LEONEZA DE SOUZA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 17:00",
+        "professor": "FERNANDA TELES MORAIS DO NASCIMENTO"
+       }
+      ],
+      "Requisitos": [
+       "MCE420",
+       "MCE421",
+       "MCEU02"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "10º Período": [
+     {
+      "Codigo": "MCEU05",
+      "Nome": "Estágio Curr em Pesquisa II",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Disponibilidade para estágio curricular pesquisa: atividade de iniciação científica voluntária, com bolsa (IC/PIBIC) ou como colaborador, realizada pelo estudante.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 15:30",
+        "professor": "GENESIS DE SOUZA BARBOSA"
+       }
+      ],
+      "Requisitos": [
+       "MCEU04"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCEU08",
+      "Nome": "Estág Curr em Instr Pedagógica",
+      "Créditos": "3.0",
+      "Teórica": "0",
+      "Prática": "135",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estágio curricular em ensino de enfermagem: atividade escolar supervisionada desenvolvida na comunidade junto à clientes, famílias, grupos e comunidades visando a preparação do educando para o trabalho produtivo. Enfoque: instrução pedagógica (treinamentos em serviço de educação permanente, seniorato, monitorias e tutorias).\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 17:00",
+        "professor": "ITALO RODOLFO SILVA"
+       },
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 17:00",
+        "professor": "SABRINA AYD PEREIRA JOSE"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 17:00",
+        "professor": "ITALO RODOLFO SILVA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 17:00",
+        "professor": "SABRINA AYD PEREIRA JOSE"
+       }
+      ],
+      "Requisitos": [
+       "MCE244"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCE520",
+      "Nome": "o Prof de Enf nos Serv de Saúd",
+      "Créditos": "8.0",
+      "Teórica": "45",
+      "Prática": "150",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Gestão de cuidados e serviços de enfermagem em Unidades Básicas (média e alta complexidade). Planejamento e programação de recursos humanos para o cuidado de enfermagem. O processo de trabalho em saúde: desafios na formação e na prática profissional. Assessoria e consultoria na organização e gestão de unidades e serviços de saúde e de enfermagem. Programas de capacitação de recursos humanos em saúde e enfermagem. Entidades de classe e o profissional de enfermagem.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 17:00",
+        "professor": "SABRINA AYD PEREIRA JOSE"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 17:00",
+        "professor": "JOANA DARC FIALHO DE SOUZA"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 17:00",
+        "professor": "ITALO RODOLFO SILVA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 12:00",
+        "professor": "JOANA DARC FIALHO DE SOUZA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 12:00",
+        "professor": "ITALO RODOLFO SILVA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 12:00",
+        "professor": "SABRINA AYD PEREIRA JOSE"
+       }
+      ],
+      "Requisitos": [
+       "MCE511"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCEU07",
+      "Nome": "Estágio Curricular Clínico II",
+      "Créditos": "3.0",
+      "Teórica": "0",
+      "Prática": "135",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Disponibilidade para estágio curricular em hospitais: atividade escolar supervisionada desenvolvida na comunidade junto a clientes, famílias e grupos visando a preparação do educando para o trabalho produtivo. Enfoque: hospitais gerais modalidade preceptoria.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 17:00",
+        "professor": "DEBORAH MACHADO DOS SANTOS"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 17:00",
+        "professor": "GENESIS DE SOUZA BARBOSA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 17:00",
+        "professor": "RUTH FRANCISCA FREITAS DE SOUZA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 17:00",
+        "professor": "SORAIA DO SOCORRO FURTADO BASTOS"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 17:00",
+        "professor": "LUCIANA MARIA CAPURRO DE QUEIROZ OBERG"
+       }
+      ],
+      "Requisitos": [
+       "MCEU06"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCEX04",
+      "Nome": "Trabalho Conclusão Curso Enf",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Elaboração, acompanhamento e apresentação da pesquisa científica referente ao trabalho de conclusão de curso com base na articulação teórica-prática e no rigor científico. Organização e pesquisa no formato de artigo científico.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "15:30 - 17:30",
+        "professor": "GENESIS DE SOUZA BARBOSA"
+       }
+      ],
+      "Requisitos": [
+       "MCE510"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "Disciplinas Optativas (Escolha Condicionada)": [
+     {
+      "Codigo": "BQM156",
+      "Nome": "Sociologia da Ciencia A.",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Ciencia e tecnologia: evolucao historica, evolucao do conhecimento e seu impacto no individuo e na sociedade. Conceito de criatividade em ciencias. Divulgacao cientifica. Correlacao entre ciencia basica e aplicada: fatos e mitos. A ciencia e a importancia da multidisciplinaridade na sociedade contemporanea. A imagem da ciencia e do cientista na sociedade. A evolucao da ciencia no Brasil. A contribuicao da universidade brasileira para a ciencia. O valor social da ciencia.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EFC125",
+      "Nome": "Educação Física Desportiva II",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conhecimento da modalidade desportiva escolhida de modo a ser possivel usa-la futuramente para sua recreacao desportiva.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "EFC115"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FML599",
+      "Nome": "Saúde, Corpo e Sociedade",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Aspectos históricos da epistemologia das doenças. A produção do conhecimento da pesquisa básica, dos estudos populacionais e da pesquisa qualitativa em saúde. A contribuição das ciências humanas e sociais na produção de saberes e práticas em saúde. Saúde, direitos humanos, cidadania e gênero: aspectos conceituais e apreciação de programas institucionais de atendimento. A interseção entre violência e saúde e o papel dos proficionais de saúde.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEG125",
+      "Nome": "Inglês Instrumental I",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estruturas basicas. Conversacao em nivel basico elementar. Compreensao e traducao de textos tecnicos especificos em nivel elementar.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEG235",
+      "Nome": "Inglês Instrumental III",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estrutura iii. Compreensao e traducao de textos tecnicos especificos iii. Conversacao. Compreensao de textos falados.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEG130"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEV121",
+      "Nome": "Português Instrumental I",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A linguagem e seu papel nas sociedades humanas. Expressão oral e escrita.\nA variação linguística em função dos fins e das situações de comunicação. A oração\ne o período.\n",
+       "BibliografiaBasica": "1) COSTA, Iara; FOLTRAN, Ma. J. (org.). A tessitura da escrita. São Paulo: Contexto, 2013.\n2) FIGUEIREDO, Luiz Carlos. A redação pelo parágrafo. Brasília: UnB, 1999.\n3) KOCH, Ingedore; ELIAS, Vanda. Ler e compreender: os sentidos do texto. São Paulo: Contexto, 2006.\n4) LUFT, Celso P. A vírgula. São Paulo: Ática, 1996.\n5) MARCUSCHI, Luiz Antonio. Produção textual, análise de gêneros e compreensão. São Paulo: Parábola, 2008.\n6) MEDEIROS, João Bosco. Redação cientÍfica. 11. ed. São Paulo: Atlas, 2009.\n7) MOTTA-ROTH, Desirée; HENDGES, Graciela. Produção textual na universidade. São Paulo: Parábola, 2010.\n",
+       "BibliografiaComplementar": "1) CARDOSO, João Batista. Teoria e prática de leitura, apreensão e produção de texto. Brasília: EDUNB, 2001.\n2) MACHADO, Anna Rachel et al. Resumo. São Paulo: Parábola Editorial, 2004.\n3) MACHADO, Anna Rachel et al. Resenha. São Paulo: Parábola Editorial, 2004.\n4) MARCUSCHI, Luiz Antônio. Gêneros Textuais: configuração, dinamicidade e circulação. In: KARWOSKI, A.;\n5) GAYDECZKA, B.; BRITO, K. (orgs.). Gêneros textuais: reflexões e ensino. 4. ed. São\nPaulo: Parábola, 2011. p. 15-28.\n6) MEDEIROS, João Bosco. Português Instrumental; para cursos de Contabilidade, Economia e Administração. 4. ed. São Paulo: Atlas, 2000.\n7) PAULIUKONIS, Ma. Aparecida L.; GAVAZZI, Sigrid (org.). Texto e discurso:\nMídia, literatura e ensino. Rio de Janeiro: Lucerna, 2003.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEV221",
+      "Nome": "Portugues Instrumental III",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Tecnicas de expressao escrita e oral. Formas de argumentacao. Meios de concatenacao. Das ideias: subordinacao. Sintaxe de colocacao.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEV131"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCE001",
+      "Nome": "Oficina Proj Pesq Enf Hospital",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Elaboracao de projeto de trabalho cientifico e definicao do objeto, das questoes norteadoras, dos objetivos, da relevancia e do impacto junto a assistencia em enfermagem hospitalar, fundamentacao teorico - metodologica, planejamento de etapas, cronograma de desenvolvimento.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCE003",
+      "Nome": "Ofic Proj Pesq Fund Cuid Enf",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Elaboracao de projeto de trabalho cientifico e definicao do objeto, das questoes norteadoras, dos objetivos, da relevancia e do impacto junto aos fundamentos do cuidado de enfermagem, fundamentacao teorica, metodologia, planejamento de etapas, cronograma de desenvolvimento.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCE005",
+      "Nome": "Prog de Orient Academica a II",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Interpretacao da leitura cientifica a partir de dados de artigos originais. Evolucao das ideias e dos fatos experimentais numa area especifica das Ciencias Biologicas. Exercitacao na apresentacao de resultados cientificos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCE007",
+      "Nome": "Oficina Historia Enfermagem I",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Elaboracao de projeto de trabalho cientifico sobre tema de Historia da Enfermagem Brasileira: definicao do tema de estudo e objetivos. Revisao de bibliografia para contextualizacao e interpretacao. Selecao de fontes primarias.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCE009",
+      "Nome": "Ofic Proj Pesq Saude da Mulher",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Elaboração de projeto de trabalho cientifico e definição do objeto, das questões norteadoras, dos objetivos, da relevância e do impacto junto à assistência de enfermagem em saúde da mulher e da criança, fundamentação teórico- metodologica; planejamento de etapas, cronograma de desenvolvimento.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCE011",
+      "Nome": "Pol Prob Assist Saude da Crian",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Política nacional de saúde a criança com destaque para a problemática, o modelo governamental, as normas e diretrizes de ação bem como a participação dos movimentos sociais em prol e defesa da vida das crianças. Aspectos gerais e específicos da programação estatal e do estatuto da criança e do adolescente.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "13:30 - 17:30",
+        "professor": "MARIALDA MOREIRA CHRISTOFFEL"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:30 - 17:30",
+        "professor": "THIAGO PRIVADO DA SILVA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:30 - 17:30",
+        "professor": "JULIANA MARIA REGO MACIEL CARDOSO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCE013",
+      "Nome": "Est Sobre Registros de Enferm",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Instrumentos administrativos. Caracteristicas, Funcao, implicacoes etico-legais, regras basicas para a construcao do registro. Aplicacao em unidades de saude.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCE015",
+      "Nome": "Ofic Proj Pesq Saude Trabalhad",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Elaboracao de projeto de trabalho cientifico e definicao do objeto, das questoes norteadoras, dos objetivos, da relevancia e do impacto junto a assistencia em saude do trabalhador, fundamentacao teorica- metodologica, planejamento de etapas, cronograma dedesenvolvimento.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCE017",
+      "Nome": "Introducao a Pesquisa em Enf",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Variedades situacionais dos campos de trabalho. As solucoes cientificas dos problemas, aproveitamento critico-reflexivo dos relatorios de pesquisa e elaboracao e execucao de um projeto de pesquisa simples.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCE019",
+      "Nome": "Introdução a Estomaterapia",
+      "Créditos": "2.0",
+      "Teórica": "20",
+      "Prática": "10",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A disciplina possibilita a aquisição de conhecimentos específicos de Enfermagem em Estomaterapia, no desenvolvimento de aspectos básicos da sua fundamentação, embasando a sua prática para a tomada de decisões adequadas, considerando a Política Nacional de Saúde da Pessoa com Deficiência e direitos do cidadão.\n___Bibliografia Recomendada___\n1- BARANOSKI S, AYELLO E.A. Wound care essentials: practice principles. 2nd ed. Philadelphia: Wolters Kluwer/ Lippincott Williams & Wilkins; 2008.\n2- BLACKLEY P. Practical stoma wound and continence management. 1 ed. Vermont: Research Publications. 1998.\n3- BORGES E.L., SAAR S.R.C, LIMA ULAN, GOMES F.S.L., MAGALHÃES M.B.B. Feridas: como tratar. 2 ed. Belo Horizonte: Coopmed, 2008.\n4- BRYANT R., NIX D.P. Acute & chronic wounds: current management concepts. 3rd ed. Sain Louis: Mosby/Elsevier; 2007.\n5- DEALEY C. Cuidando de feridas: um guia para as enfermeiras. 3 ed. São Paulo, Atheneu, 2006.\n6- SUSSMAN C, BATES-JENSEN B. Wound care: a collaborative practice manual for health care professionals. 3rd ed. Philadelphia: Wolters Kluwer/ Lippincott.\n7- WILLIAMS & WILKINS; 2007. KRASNER D. Chronic Wound care: a clinical source book for heatl care professionals. Phyladelphia, Health Management, 2007.\n8- BARREIRE SG, OLIVEIRA AO, KAZAMA W, KIMURA M, SANTOS VLCG. Qualidade de vida de crianças ostomizadas na ótica das crianças e das mães. Jornal de Pediatria 2003; 79(1):55-62.\n9- BLACKLEY P. Practical stoma wound and continence management. 1 ed. Vermont: Research Publications. 1998.\n10- CREMA E, SILVA R. Estomas: uma abordagem interdisciplinar. Uberaba: Pinti, 1997.\n11-MICHELONE ARC, SANTOS VLCG. Qualidade de vida de adultos com câncer colorretal, com e sem ostomia. Rev. Latino-Americana de Enfermagem 2004; 12(6): 875-83.\n12- PAULA MAB, SANTOS VLCG SANTOS. O significado  de ser especialista para o enfermeiro estomaterapeuta. Rev. Latin Amer Enf 2003; 11(4): 474-481.\n13- CESARETTI IUR, PAULA MAB, PAULA PP. Estomaterapia: tema básicos em estomas. Taubaté: Cabral Editora e Livraria Universitária, 2006.\n14- SANTOS VLCG, CESARETTI IUR. Assistência em Estomaterapia: cuidando do ostomizado. 1 ed. São Paulo: 2000.\n15- SANTOS VLCG, SAWAIA BB. A bolsa na mediação estar ostomizado - estar profissional: análise de uma estratégia pedagógica. Rev Latin Amer Enf, 2000; 8(3): 40-50.\n16- SANTOS VLCG, CESARETTI IUR. Dermatites periestoma: da prevenção ao tratamento. In: Jorge AS, Dantas SR (coord) Abordagem multidisciplinar do tratamento de feridas. São Paulo: Atheneu 2003. Cap 21; p. 299-308.\n17- Revistas: WOCN Journal; Ostomy & Wound Management/ Wounds/ Estima.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MCW240"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCE021",
+      "Nome": "Sociedade, Saúde e Ambiente",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Sustentabilidade, justiça ambiental e saúde. Questões urbanas e saúde. Qualidade de vida como problema social.\n___ BIBLIOGRAFIA BÁSICA ___\n1- HERCULANO, Selene. Qualidade de Vida e Riscos Ambientais. Niterói: Eduff, 2000.\n2- PORTO, Marcelo e MARTÍNEZ_ALIER, Juan. Ecologia política, economia ecológica e saúde coletiva: interfaces para a sustentabilidade do desenvolvimento para a promoção da saúde. Cadernos de Saúde Pública, 23, 2007.\n3- PORTO, Marcelo Firpo; PACHECO, Tania; LEROY, Jean-Pierre. Injustiça Ambiental e Saúde no Brasil: o Mapa de Conflitos. Rio de Janeiro: Editora Fiocruz, 2013.\n4- PEIXOTO, Paulo de Tarso. Composições Afetivas, Cidade e Heterogênese Urbana: Para uma Democracia Composicional. 1. ed. Macaé: Paulo-de-Tarso Edições, 2016.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCE023",
+      "Nome": "Tóp Esp Políticas e o Sus",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Políticas públicas e aspectos organizacionais do Sistema Único de Saúde. Política social e cidadania. Desafios da atenção à saúde em Regiões Metropolitanas. Aspectos sobre o financiamento em Saúde no Brasil. O cuidado continuado no atendimento domiciliar. Temas emergentes em políticas públicas.\n___ BIBLIOGRAFIA BÁSICA ___\n1- GIOVANELLA, Ligia et. al. (org). Políticas e Sistema de Saúde no Brasil. Rio de Janeiro: Ed. FIOCRUZ, 2008.\n2- CAMPOS, et. al. (organizadores). Tratado de saúde coletiva. São Paulo - Rio de Janeiro: Hucitec, 2ed, 2012.\n3- CZERESNIA, Dina (org). Promoção da Saúde: Conceitos, reflexões, tendências. 2ª ed. 5ª reimpressão, 2017.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCE025",
+      "Nome": "Introdução à Oncologia",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Oncologia e câncer: aspectos conceituais, epidemiológicos, biológicos e clínicos. Câncer como um grave problema de saúde no Brasil e no mundo. Ações e políticas de controle e tratamento do câncer. As múltiplas interfaces da assistência ao paciente oncológico para a prática interdisciplinar.\n___ BIBLIOGRAFIA BÁSICA ___\n1) MURAD AM, Katz. Oncologia: bases clínicas do tratamento. Guanabara Koogan, Rio de Janeiro, 1990.\n2) DENARDI, U. Enfermagem em Radioterapia. Ed. Lemar, 2008.\n3) DeVITA, HELLMAN, and ROSENBERGS. Lippincott Williams & Wilkins. Cancer: Principles and Pratice of Oncology.\n___ BIBLIOGRAFIA COMPLEMENTAR ___\n1) SALVAJOLI JV; SOUHAMI, Faria SL (org.). Radioterapia em Oncologia. Ed. MedSi, 1ª Ed., 1999.\n2) SANTOS, CER; MELLO, EL. Manual de Cirurgia Oncológica. Ed. Novo Conceito, 2008.\n3) BONASSA, E. Enfermagem em Terapêutica Oncológica. Ed. Atheneu, 2000.\n4) PASQUINI, R. Fundamentos e Biologia do Transplante de Células Hematopoiéticas. In _________. Hematologia: Fundamentos e Prática. São Paulo: Atheneu, 2005. p. 914-935.\n5) KUBLER-ROSS, E. Sobre a morte e o morrer: o que os doentes têm para ensinar aos médicos, enfermeiras, religiosos e aos próprios parentes. Ed. São Paulo: Martins Fontes, 1992.\n6) BRASIL. Ministério da Saúde. Secretária de Atenção à Saúde. Instituto Nacional de Câncer. Coordenação de Prevenção e Vigilância. Parâmetros técnicos para programação de ações de detecção precoce do câncer da mama: recomendações para gestores estaduais e municipais / Ministério da Saúde. Secretária de Atenção à Saúde. Instituto Nacional de Câncer. Coordenação de Prevenção e Vigilância. Rio de Janeiro: INCA, 2006.\n7) PADILHA PC; PINHEIRO, RL. O papel dos alimentos funcionais na prevenção e controle do câncer de mama. Revista Brasileira de Cancerologia, 2004; 50(3) 251-260.\n8) BRASIL. Ministério da Saúde. Secretária de Atenção à Saúde. Instituto Nacional de Câncer José Alencar Gomes da Silva. A situação do tabagismo no Brasil: dados dos inquéritos do Sistema Internacional de Vigilância, da Organização Mundial da Saúde, realizados no Brasil, entre 2002 e 2009. Instituto Nacional de Câncer José Alencar Gomes da Silva. Rio de Janeiro: INCA, 2011, 76 p.\n9) BRASIL. Ministério da Saúde. Secretária de Atenção à Saúde. Instituto Nacional de Câncer (Brasil). Coordenação Geral de Ações Estratégicas. Divisão de Apoio à Rede de Atenção Oncológica. Diretrizes Brasileiras para o Rastreamento do Câncer do colo do útero. Instituto Nacional do Câncer. Coordenação Geral de Ações Estratégicas. Divisão de Apoio à Rede de Atenção Oncológica. Rio de Janeiro: INCA, 2011.\n10) BRASIL. Ministério da Saúde. Secretária de Atenção à Saúde. Instituto Nacional de Câncer (Brasil). Coordenação Geral de Ações Estratégicas. Coordenação de Prevenção e Vigilância. Políticas e Ações para prevenção do câncer no Brasil: alimentação, nutrição e atividade física. 1 reimpr. Instituto Nacional de Câncer. Coordenação Geral de Ações Estratégicas. Coordenação de Prevenção e Vigilância. Rio de Janeiro: INCA, 2011.\n11) BRASIL. Ministério da Saúde. Secretária de Atenção à Saúde. Instituto Nacional de Câncer (Brasil). Diagnóstico precoce do câncer na criança e no adolescente. Instituto Nacional do Câncer, Instituto Ronald McDonald. 2 ed rev. ampl. Rio de Janeiro: INCA, 2011.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MCW240"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCE027",
+      "Nome": "Espiritualidade e Saúde",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução aos conceitos de espiritualidade, religião e religiosidade, sua relação com a saúde e assistência espiritual. Evidências Científicas da Espiritualidade na Saúde e qualidade de vida. Abordagem da espiritualidade/religiosidade na Prática Clínica. Abuso religioso e questões éticas. Anamnese, diagnósticos, Planejamento, Intervenções e Avaliações no contexto dos Princípios da vida (Bioética, Valores, Dignidade, Fases do Ciclo da Vida). Simulação realística em laboratório. Política Nacional de Humanização. Seminário de Extensão e Produção de artigo científico.\n",
+       "BibliografiaBasica": "1) BARCHIFONTAINE, P.; ZOBOLI, E. Bioética. Vulnerabilidade e Saúde. São Paulo: São Camilo, 2007;\n2) BOFF, L. Saber cuidar: ética do humano-compaixão pela terra. Petrópolis: Vozes, 1999;\n3) BRASIL. MINISTÉRIO DA SAÚDE. Política Nacional de Humanização da Assistência. HumanizaSus. p.352-357, 2001. Disponível em:\nAcesso em: junho 2012;\n4) ESPERANDIO, M., LEGET, C. Espiritualidade nos Cuidados Paliativos no Brasil: Revisão Integrativa de Literatura. REVER. São Paulo, v. 20, n. 2, mai/ago 2020;\n5) GUILHERME, CAROLINE; FULQUINI, FRANCINE LIMA; RIBEIRO, VANESSA SANTOS; GADIOLI, BÁRBARA ; EDUARDO, ALINE HELENA APPOLONI; CALDEIRA, SILVIA; LEEUWEN, RENÉ VAN; CARVALHO, EMILIA CAMPOS. Evidências de validade da spiritual care competence scale para estudantes de graduação em enfermagem brasileiros. REME - Revista Mineira de Enfermagem, v. 24, p. e-1343, 2020;\n6) KOENIG, H. G. Medicina, religião e saúde: o encontro da ciência e da espiritualidade (tradução: Iuri Abreu). Porto Alegre, RS: L&PM. Revista da Associação Brasileira de Logoterapia e Análise Existencial, v. 3, n. 2, 203-215, 2014;\n7) MESQUITA, A. C.; GUILHERME, C.; CALDEIRA, S.; CHAVES, E. C. L.; CARVALHO, E. C. Espiritualidade e sofrimento espiritual como foco de atenção da enfermagem. In: NANDA International Inc.; HERDMAN, T. H.; LOPES, M. V. O.; ALMEIDA, M. A.; CHIANCA, T. C. M.,organizadores. PRONANDA Programa de Atualização em Diagnósticos de Enfermagem: ciclo 2. Porto Alegre: Artmed Panamericana; 2014, p. 49-72. (Sistema de Educação Continuada a Distância, v.2);\n8) PESSINI, L., BARCHIFONTAINE, C. P. (Orgs.). Buscar Sentido e Plenitude de Vida. Bioética, Saúde e Espiritualidade. São Paulo: Paulinas e São Camilo 2008;\n9) SAAD, M., MEDEIROS, R., PERES, M. F. P. Assistência Religiosa-Espiritual Hospitalar: Os 'porquês' e os 'com'. HU Revista, Juiz de Fora, v. 44, n. 4, p. 499-505, out./dez. 2018;\n10) TAVARES, C. Q. Tanatologia: a ciência da ressignificação da vida. In: Corradi-Perini C, Esperandio MRG, Souza W. Biohcs: Bioética e Tanatologia. Série Bioética. Curitiba: CRV; 2020;\n11) TAVARES, C. Q., VALENTE, T. C. O., CAVALCANTI, A. P. R., CARMO, H. O. Espiritualidade, Religiosidade e Saúde: velhos debates, novas perspectivas. Interações - Cultura e Comunidade, Belo Horizonte, v.11 n. 20, p. 85-97, JUL./DEZ. 2016;\n12) TAVARES, C. Q. Espiritualidade e bioética: prevenção da 'violência' em instituições de saúde. Rev Pistis Prax, v.5, n.1, p.39-57, 2013;\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "17:30 - 20:30",
+        "professor": "CASSIA QUELHO TAVARES"
+       },
+       {
+        "dia": "Qua",
+        "hora": "17:30 - 20:30",
+        "professor": "CAROLINE GUILHERME"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCF005",
+      "Nome": "Plant Alimen Não-convencionais",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "1- Biodiversidade e recursos alimentares; 2- Diversidade de plantas alimentícias não convencionais: conceitos, características taxonômicas, nutricionais e principais utilizações; 3- PANCs - soberania e segurança alimentar; 4- Uso potencial de PANCs em diferentes culturas; 5- Produção e comercialização de PANCs.\n___BIBLIOGRAFIA BÁSICA___\n1- ABREU, E. S.; VIANA, I. C.; MORENO, R.B.; TORRES, E.A.F.S. Alimentação mundial: - uma reflexão sobre a história. Saúde e sociedade. V. 10 n. 2, p. 3-14, 2001.\n2- BADUE, A.F.B.; RANIERI, G.R. Guia prático de plantas alimentícias não convencionais: São Paulo. Instituto Kairós. 60p. 2018.\n3- BRACK, P. Plantas alimentícias não convencionais. Agriculturas. Etymus, São Paulo, V. 13, n. 2, p. 4-6. 2016.\n4- BRASIL. Guia Alimentar para a população brasileira: Promovendo a alimentação saudável. Brasília: Ministério da Saúde. 2006.\n5- BRASIL. Manual de hortaliças não convencionais. Brasília: Ministério da Agricultura Pecuária e Abastecimento. 2010.\n6- Felippe, G. M. Entre o Jardim e a Horta. as flores que vão para a mesa. São Paulo: Ed. SENAC. 286p. 2004.\n7- KELEN, M. E. B. et al. Plantas alimentícias não convencionais (PANCs). Hortaliças espontâneas e nativas. Porto Alegre; UFRGS. 44p. 2015.\n8- KINUPP, V.F.: LORENZI, H. Plantas alimentícias não convencionais (PANC) no Brasil: Guia de identificação, aspectos nutricionais e receitas ilustradas. Nova Odessa: Ed. Plantarum, 728p. 2014.\n9- RANIERI, G. R. Guia prático de PANC: Plantas alimentícias não convencionais. são Paulo: Instituto Kairós. 43p. 2017.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCF710",
+      "Nome": "Asp Cel Molec Insuf Renal",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Visão morfofuncional do rim, Hemodinâmica renal, Filtração glomerular, transporte tubular renal, regulação da tonicidade, volume e pH do fluido extracelular, regulação da pressão arterial, nefropatia diabética, isquemia e reperfusão renal, lessão renal induzida por cianotoxinas, doenças genéticas renais, terapia com células tronco e antiinflamatórios na doença renal crônica.\n___ BIBLIOGRAFIA BÁSICA ___\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCF745",
+      "Nome": "Desenvolvimento de Vacinas",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Princípios gerais da imunidade a patógenos revisão sobre imunidade contra virus, bactérias intracelulares, protozoários e helmintos.\n___ BIBLIOGRAFIA BÁSICA ___\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCN001",
+      "Nome": "Narrat Lit e Cinem Cuid Saúde",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Compartilhamento de experiências de leituras e de vídeos em que sejam exploradas situações limites, como a morte, a dor física proveniente de estados patológicos irreversíveis, a violência doméstica, a distanásia, agressões e conflitos étnicos e de gênero, conflitos familiares, o uso de drogas, entre diferentes situações de angústia existencial.\n___BIBLIOGRAFIA BÁSICA___\n1- ASSIS, Machado de. O Alienista. Disponível em www.dominiopublico.gov.br>.\n2- BEAUVOIR, Simone de. Uma morte suave. Rio de Janeiro: Nova Fronteira, 1984.\n___FILMOGRAFIA___\n1- Preciosa, uma estória de esperança. Título original: Precious: Based on the Novel 'Push' by Sapphire. Direção: Lee Daniels, 2009.\n2 - O Escafandro e a borboleta. Título original: Le Scaphandre et le Papillon. Direção: Julian Shnabel, 2007.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1- BITTAR, Y, SOUZA, M.S, GALLIAN, D.M. A Experiência Estética da Literatura como Meio de Humanização em Saúde: O Laboratório de Humanidades da EPM/UNIFESP. Revista Interface,v.17, n.44, p.171-86, jan./mar.2013.\n2- BRASIL. Ministério da Saúde. Política Nacional de Humanização. Disponível em: . Obs: Ler os ícones: O que é/Princípios/Diretrizes e Dispositivos/Objetivos\n3- GALLIAN, D.M. A Cultura Contemporânea na Clínica de Joseph Ratzinger: as patologias da modernidade e a terapêutica da humanização. Memorandum, v. 21, p. 249-260, out 2011.\n4- GALLIAN, D. M.; PONDÉ, L.F.; RUIZ, R. Humanidades, Humanismos e Humanidades: problematizando conceitos e práticas no contexto da saúde no Brasil. Revista Internacional de Humanidades Médicas. Vol 1, n. 1, p. 5-16, out/dez, 2012.\n5- GALLIAN, D. M.; RUIZ, R. O Bem, o Mal ? é tudo igual? O drama das palavras e paixões em Macbeth de Shakespeare. Memoramdum, v. 23, p. 198 ? 209, out 2012.\n6- GALLIAN, D. M. C.; LIMA, C. C.; DE BENEDETTO, M.A.C.; GUZMAN, S. M. Humanidades e humanização em saúde: a literatura como elemento humanizador para graduandos da área da saúde. Interface (Botucatu. Online), v. 18, p. 139-150, 2014.\n7- GALLO, Silvio. Subjetividade, ideologia e educação. PERSPECTIVA. Florianópolis, v.16, n. 2.9, p.133 -152, jan./jun. 1998.\n8- HALBWACHS, M. A memoria coletiva. Trad. de Beatriz Sidou. São Paulo: Centauro, 2006.\n9- RIBEIRO, M.; SAKAMOTO, J.; GALLIAN, D. M. C. A cultura estética e a educação do gosto como caminho de formação e humanização na área da saúde. Trabalho, Educação e Saúde (Online), v. 12, p. 15-28, 2014.\n10- ORTEGA Y GASSET, José. A Desumanização da Arte, São Paulo, Cortez, 5ª edição, 2005. PEDUZZI, M. Equipe multiprofissional de saúde: conceito e tipologia. Rev Saúde Pública 2001;35(1):103-9. Disponível em\n11- PINHO, MCG. Trabalho em equipe de saúde: limites e possibilidades de atuação eficaz. Ciências e Cognição, vol. 8 68-87. 2006. Disponível em\n12- POLÔNIA, AC. DESSEN, MA. Em busca de uma compreensão das relações entre família e escola. In: Psicologia Escolar e Educacional, 2005 Volume 9 Número 2 303-312\n13- STEWART, M. et alli 2010. Medicina Centrada na Pessoa. Artmed. Porto Alegre. 2ª Ed. Capítulos 3, Pag. 35 a 67.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MCN114"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCN009",
+      "Nome": "Nutrição e Comportamento",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Fundamentos da Nutrição Comportamental. O Comportamento Humano: uma abordagem das programações mentais para a saúde e doença. Fundamentos teóricos sobre análise e mudança de comportamento. Atitude e comportamento alimentar. Funcionamento e aplicabilidade das estratégias propostas pela Nutrição Comportamental. Determinantes das escolhas alimentares. Aconselhamento nutricional versus prescrição. Habilidades de comunicação e entrevista motivacional. Atividades práticas em sala e trabalho prático de campo.\n___BIBLIOGRAFIA BÁSICA ___\n1) KANDEL, E. R. SCHWARTZ, J. H. JESSEL, T. M. Fundamentos da neurociência e do comportamento. 1 Ed. Rio de Janeiro: GUANABARA KOOGAN, 197. 591p.\n2) DIEZ-GARCIA, R. W. CERVATO-MANCUSO, A.M. Mudanças Alimentares e Educação Nutricional. 1ª Ed. Rio de Janeiro: GUANABARA KOOGAN, 2012. 345p.\n3) MORAN, V. em forma de dentro para fora. 1ª Ed. Rio de Janeiro: ROCCO, 2003. 308p.\n___BIBLIOGRAFIA COMPLEMENTAR ___\n1) ALVARENGA, M. Nutrição Comportamental. 2ª Ed. São Paulo: Manole, 2018. 576.\n2) DERAM, S. O peso das Dietas. 1ª Ed. São Paulo: SARAIVA, 2014. 320p.\n3) DUHIGG, C. O Poder do Hábito. Tradução Rafael Mantovani. 1 ª Ed. Rio de Janeiro: OBJETIVA, 2012. 408p.\n4) ORNELLAS, L. H. A alimentação através dos tempos. Reedição. Florianópolis: Editora da UFSC, 2000. (Série Nutrição).\n5) POLLAN, M. Em defesa da comida. Tradução Adalgisa Campos da Silva. Rio de Janeiro: Intrínseca, 2008.\n6) PROENÇA, R. P.C. Alimentação e globalização: algumas reflexões. Revista Ciência e Cultura. V. 62, n. 4, 43-47, 2010.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MCN212",
+       "MCN310"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCN014",
+      "Nome": "Educação Interprofission Saúde",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desafios da Formação Profissional em Saúde. História da Educação Interprofissional em Saúde. Definição de Educação Interprofissional em Saúde. prática Colaborativa em Saúde. Competências a serem desenvolvidas através da Educação Interprofissional em Saúde.\n___BIBLIOGRAFIA BÁSICA ___\n1) COSTA, M.V.; FREIRE FILHO, J.R.; SILVA, C.B.G. educação Interprofissional em Saúde. Natal: SEDIS-UFRN, 85p, 2018.\n2) ORGANIZAÇÃO MUNDIAL DA SAÚDE (OMS). Marco para a Ação em Educação Interprofissional e prática Colaborativa.Genebra: OMS; 2010.\n3) AGRELI, H.F; PEDUZZI, M; SILVA, M.C. Atenção centrada no paciente na prática interprofissional colaborativa. Interface - Comunicação, Saúde, Educação, V.20, p. 905-916, 2016.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCW004",
+      "Nome": "Biosseg Norm Boas Prát Laborat",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Histórico e legislação sobre biossegurança e normas de boas práticas em laboratórios no Brasil. Riscos em laboratórios: físicos, químicos, biológicos, ergonômicos e de acidentes. mapas de risco. Organismos geneticamente modificados. Níveis de biossegurança em laboratórios: medidas de segurança. equipamentos de proteção individual e coletiva. gerenciamento de resíduos biológicos, químicos e de Serviços de Saúde: normas regulamentadoras e aplicações. Noção básica de primeiros socorros em casos de acidentes no ambiente de trabalho.\n___ BIBLIOGRAFIA BÁSICA ___\n1) HIDRATA, Mario Hiroyuki, MANCINI FILHO, Jorge e HIDRATA, Rosario Dominguez Crespo. Manual de Biossegurança - 3 ª Ed. Manole, 2017.\n2) MASTROENI, Marco Fabio. Biossegurança Aplicada a laboratórios e Serviços de Saúde - 2ª Ed. Atheneu, 2005.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCW006",
+      "Nome": "Saúde Mental Materna e Parenta",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução da temática de maternidade, trabalho de cuidado e os objetivos de Desenvolvimento Sustentáveis: Redução das desigualdades. Saúde e bem-estar. Paz, justiça e instituições eficazes. Igualdade de gênero. Estereótipo materno: corpo, sexualidade, subjetividade e afetos. Abordagem e escuta a mulher: gestante e puérpera. Recorte racial e ambiental. Lugar social da mulher mãe com seus filhos. Parentalidade e Paternidades. Evidências científicas sobre o trabalho de cuidado da maternidade e o impacto na produtividade e no mercado de trabalho para mulheres. Direitos legais e institucionais. Dinâmicas e produções criativas.\nBibliografia Básica\n1. IACONELLI, Vera. Mal-estar na maternidade: do infanticídio à função materna. 1. ed. São Paulo: Zagodoni, 2015.\n2. GUTMAN, Laura. A maternidade e o encontro com a própria sombra. 5. ed. São\nPaulo: Editora BestSeller, 2017.\n3. WINNICOTT, Donald. Os bebês e suas mães. 2. ed. São Paulo: Martins Fontes, 1988.\n4. VILARINHO, Thais. Mãe fora da caixa. 1. ed. São Paulo: Outro Planeta, 2018.\n5. CARVALHO, Rafaela. 60 dias de neblina. 1. ed. São Paulo: Editora Planeta, 2020.\n6. CARPES, P. B. M. et al.. Parentalidade e carreira científica: o impacto não é o mesmo para todos.  Epidemiologia e Serviços de Saúde, v. 31, n. 2, p. e2022354, 2022.\n7. STANISCUASKI, F. et al. Impact of COVID-19 on academic mothers. Science 368,724-724 (2020). DOI:10.1126/science.abc2740.\n8. STANISCUASKI, F. et al. Gender, race and parenthood impact academic productivity during the COVID-19 pandemic: from survey to action. Preprint at bioRxiv https://doi.org/10.1101/2020.07.04.187583 (2020).\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCW122",
+      "Nome": "Int Sinais Sintomas em Clínica",
+      "Créditos": "2.0",
+      "Teórica": "40",
+      "Prática": "10",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Epidemiologia dos sintomas, doenças mais prevalentes, doenças relacionadas à pobreza; características dos sintomas; Aspectos funcionais, subjetivos e ocupacionais. Abordagem das medidas gerais e de estilo de vida (promoção de saúde e prevenção primária); Diagnósticos diferenciais e grandes síndromes. Introduzir importância de história clínica e anmnese.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MCW111"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUP117",
+      "Nome": "Estudos Sócioantropológicos",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A seleção natural e a mente humana. O conceito do superorgânico na Antropologia. A construção da visão do sociocultural e a gênese do pensamento socio-antropológico no contexto da modernidade: positivismo científico, expansão colonial, urbanismo e capitalismo (hegemonia do pensamento positivista). Evolução social e a questão de raça: as experiências africanas e amerindígenas sob colonialismo, no Brasil e nas Américas. De raça a cultura: Galton, Spencer, Tylor e Boas. O método etnográfico: a construção do outro primitivo. Etnocentrismo e relativismo cultural. Marx, Durkheim e Weber: as bases clássicas do pensamento sociológico. Formas modernas de desigualdade e discriminação: raça e etnia; gênero; classe. A pluralidade sociocultural brasileira: algumas expressões.\n",
+       "BibliografiaBasica": "1- HAVILAND et al. 2011. Princípios da Antropologia. São Paulo: Cengage Learning\n2- HARARI, Y.N. 2015. Sapiens: Uma Breve História da Humanidade. São Paulo: LPM.\n3- LARAIA, R. 2005. Cultura: Um Conceito Antropológico. Ed. Jorge Zahar. Rio de Janeiro.\n4- LÉVI-STRAUSS, C. 2009. ?Natureza e Cultura?, Revista Antropos. V3, Ano 2.\n5- MINNER, H. 1956. ?O Ritual do Corpo entre os Sonacirema?. Publicação original: ?Body ritual among the Sonacirema?, American Anthropologist, Vol. 58, n° 3.\n6- QUINTANEIRO, T., et. al. 1995. Um Toque de Clássicos: Durkheim, Marx e Weber. Ed. UFMG. Belo Horizonte.\n",
+       "BibliografiaComplementar": "1- GIDDENS, A. 2006. Sociologia. Porto Alegre: Artmed.\n2- MARX, K. 1979. Marx: Sociologia. Otavio, I. (org.). São Paulo: Ática.\n3- DURKHEIM, E.: 1992. Sociologia: Coleção Grandes Cientistas Sociais. n.10. São Paulo: Ática.\n4- WEBER, M. 1999. Economia e Sociedade. Ed. UnB. Brasília.\n5- GOULD, S. J. 1991. A falsa Medida do Homem. São Paulo: Martins Fontes.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BMH303",
+      "Nome": "Organogênese Teratogenia I",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Períodos críticos do desenvolvimento Pré-Natal. Histologia da Placenta. Biotransformação das drogas na unidade feto-placentária. Formação de face (mal-formações decorrentes). Formação de Pescoço (mal-formações decorrentes).Desenvolvimento dos Sistemas Digestivo, Respiratório e Urinário (mal-formações decorrentes).\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BMH191",
+       "ENW231"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EFC115",
+      "Nome": "Educação Física Desportiva I",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "40",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Exercicios aerobicos, objetivando bom nivel de aptidao fisica. Natacao e corridas rusticas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FML205",
+      "Nome": "Políticas Públ de Saúde Mental",
+      "Créditos": "3.0",
+      "Teórica": "48",
+      "Prática": "24",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O sistema único de Saúde e a Política de Saúde Mental. A relação público x privado na Política de Saúde Mental. O Campo atual da Política Pública de Saúde Mental. Os conceitos de rede e território na organização da assistência. Os dispositivos de cuidado em saúde mental. O campo da atenção psicossocial: saberes e conceitos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEB599",
+      "Nome": "Est da Líng Bras de Sinais I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Nomes próprios; pronomes pessoais; demonstrativos; possessivos; locativos em sentenças simples do tipo pergunta-resposta com \"o que\" e \"quem\" e outros vocábulos básicos; numerais; quantidade; topicalização; flexão verbal; flexão de negação; expressões faciais e corporais; percepção visual; conversação; diálogos; textos: LIBRAS, cultura e comunidade surda.\n",
+       "BibliografiaBasica": "1) BRITO, L. F. Por uma gramática de língua de sinais. Rio de Janeiro: Tempo Brasileiro, 1995.\n2) FELIPE, T.; MONTEIRO, M. S. LIBRAS em contexto. Curso Básico. Brasília: Ministério da Educação e do Desporto/Secretaria de Educação Especial, 2001.\n3) GESSER, A. Libras - Que língua é essa? Crença e preconceitos em torno da língua de sinais e da realidade surda. Florianópolis: Parábola, 2009.\n4) STROBEL, K. L. As imagens do outro sobre a cultura surda. Florianópolis: EdUFSC, 2008.\n",
+       "BibliografiaComplementar": "1) PIMENTA, Nelson e QUADROS, Ronice Muller. Curso de Libras I, LSB Vídeo, volume I, Iniciante, 2006 e 3a ed., 2008.\n2) Dicionário Enciclopédico Ilustrado Triíngue da Língua de Sinais Brasileira ? vol 1 e vol. 2 Site: www.acessobrasil.org.brasil\n3) Dicionário da Língua Brasileira de Sinais, INES, versão, 2.0, ano 2006.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEG130",
+      "Nome": "Inglês Instrumental II",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Compreensao e traducao de textos tecnicos e especificos em nivel ii. Conversacao.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEG125"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEG240",
+      "Nome": "Inglês Instrumental IV",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estrutura iv. Composicao e traducao de textos tecnicos especificos. Pratica oral.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEG235"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEV131",
+      "Nome": "Portugues Instrumental II",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Importancia e caracteristica do portugues no brasil. Lingua escrita e lingua literaria. Comunicacao tecnica, jornalistica e burocratica.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEV121"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEV231",
+      "Nome": "Portugues Instrumental IV",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Expressao oral.Interpretacao de textos. Redacao de relatorios relacionados com a especialidade do curso. Ortografia oficial. Pontuacao.Nocoes de morfologia e sintaxe aplicaveis a comunicacao.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEV221"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCE002",
+      "Nome": "Socorro em Urgência En",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O homem como sistema. Conceitos e definições de acidentes. O ambiente e a segurança dos indivíduos. Liderança frente as situações assistenciais em primeiros socorros. Exame simplificado do acidentado, suas prioridades e tipos de transportes. Como agentes terapêuticos: calor, frio, controle de hemostasia, da hemodinâmica, imobilizações, desobstrução das vias aéreas superiores, manobras de ressuscitação cardiorrespiratória e nas emergências especificas.\n___BIBLIOGRAFIA BÁSICA___\n1- GRAU - Grupo de Resgate e Atenção às Urgências e Emergências. Pré-hospitalar. 2ª edição. Editora: Manole, 2015.\n2- HAFEN, Brent Q.; KARREN, Keith J.; LIMMER, Daniel; MISTOVICH, Joseph J. Primeiros Socorros para estudantes. 10ª edição. Editora: Manole, 2014.\n3- PHTLS, Naemt. Atendimento pré-hospitalar ao traumatizado. PHTLS 8ª edição. Editora: Artmed, 2016.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "17:30 - 20:30",
+        "professor": "GENESIS DE SOUZA BARBOSA"
+       }
+      ],
+      "Requisitos": [
+       "MCW230"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCE004",
+      "Nome": "Prog de Orient Academica a I",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O ensino de enfermagem na estrutura academica do CCS. Dinamica de aulas no curriculo de graduacao (teorica e pratica). Desafios dos estudantes no ciclo basico. Planos de estudos - bibliotecas, laboratorios e atividades de campo pratico. Trabalhos escritos - ind e de grupos. Alcance de objetivos e de creditos. Visitas a inst da rede oficial de serv de saude. Mesa redonda com exp relevantes do trab profissional na area da enf (participacao de convidados especiais). apresentacao de relatorios de grupos sobre visitas realizadas. Avaliacao dos trabalhos de grupo e do programa.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCE006",
+      "Nome": "Prog de Orient Academica a III",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Abordar de forma experimental e teorica temas de imunologia de interesse para profissionais de enfermagem, dentre eles: sistemas linfoide e reacao imune; vias de imunizacao; reacoes celulares e dependentes de anticorpo in vivo; rejeicao e tumores; reacao de contato; reacao de transplante contra hospedeiro;PPD; anafilaxia; etc..\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCE008",
+      "Nome": "Oficina Historia Enfermagem II",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Apresentação e discussão sobre currículo, perfil profissional, perspectivas do mercado de trabalho na área de enfermagem.  Utilização do computador através de processamento de texto.  Treinamento em técnica de estudo para busca de levantamento bibliográfico.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCE010",
+      "Nome": "Ofic Proj Pesq Saude Crianca",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Elaboração de projeto de trabalho cientifico e definição do objeto das questões norteadoras, dos objetivos, da relevância e do impacto junto à assistência de enfermagem em saúde da mulher e da criança, fundamentação teórico - metodologica; planejamento de etapas, cronograma de desenvolvimento.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCE012",
+      "Nome": "Ofic p p Ed, Ger e Ex Prof Enf",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Elaboracao de projeto de trabalho cientifico e definicao do objeto, das questoes norteadoras, dos objetivos, da relevancia e do impacto junto a assistencia em educacao, gerencia e exercicio profissional de enfermagem, fundamentacao teorica, metodologia, planejamento de etapas e cronograma de desenvolvimento.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCE014",
+      "Nome": "Ofic Proj Pesq Saude Coletiva",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Elaboracao de projeto de trabalho cientifico e definicao do objeto, das questoes norteadoras, dos objetivos, da relevancia e do impacto junto a assistencia em saude coletiva , fundamentacao teorica-metodologica, planejamento de etapas, cronograma de desenvolvimento.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCE016",
+      "Nome": "Tecnica de Comunicacao",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceito de informacao e comunicacao. Dimensoes do processamento horizontal e vertical: eu-voce, cliente-enfermeiro, familia. Enfermeiro/instituicao, sociedade, grupos categorizados. O processo de comunicacao: emissor, receptor, mensagem, significado metodos e meios. Teorias das relacoes interpessoais.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCE018",
+      "Nome": "Pol Prob Assis Saude da Mulher",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Política nacional de saúde da mulher com destaque para a problemática.  O modelo governamental, as normas e diretrizes de ação bem como a participação dos movimentos sociais, em especial, o das mulheres em prol dos direitos de cidadania em geral e o de saúde em particular. Aspectos gerais e específicos da programação estatal e das reivindicações das mulheres.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCE020",
+      "Nome": "Desenv Racioc Diagn Enfermagem",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenvolvimento de habilidades e competências para p estabelecimento do pensamento crítico necessário ao raciocínio diagnóstico em enfermagem. Compartilhamento de experiências sobre a prática diagnóstica utilizando a taxonomia NANDA-I na realidade brasileira. resolução de casos clínicos para prática diagnóstica em enfermagem.\n___ BIBLIOGRAFIA BÁSICA ___\n1- BARROS, Alba Lucia Botura Leite de. Anamnese e exame físico: avaliação diagnóstica de enfermagem no adulto. Porto Alegre: Artmed, 2010.\n2- POTTER, Patricia A. Fundamentos de enfermagem. 7. ed. Rio de Janeiro: Elsevier, 2009.\n3- North American Nursing Diagnosis Association International. Diagnósticos de Enfermagem da NANDA: definições e classificação: 2015-2017. Porto Alegre: Artes Médicas; 2015.\n___ BIBLIOGRAFIA COMPLEMENTAR ___\n1- ALMEIDA, Miriam de Abreu. Competências e o processo ensino-aprendizagem do diagnóstico de enfermagem. Revista brasileira de enfermagem. Brasília. Vol. 57, n. 3 (jun. 2004)\n2- Bittencourt Greicy Kelly Gouveia Dias, Crossetti Maria da Graça Oliveira. Habilidades de pensamento crítico no processo diagnóstico em enfermagem. Rev. esc. enferm. USP [Internet]. 2013 Apr [cited 2017 Oct 03]; 47(2):341-347. Available from: http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0080-62342013000200010&1ng=en. http://dx.doi.org/10.1590/S0080-62342013000200010.\n3- Carvalho EC, Oliveira-Kumakura ARS, Morais SCRV. Raciocínio clínico em enfermagem: estratégias de ensino e instrumentos de avaliação. Rev. Bras Enferm [Internet]. 2017;70(3):662-8. DOI: http://dx.doi.org/10.1590/0034-7167-2016-0509\n4- Cecilia Passos Vaz da Costa; Maria Helena Barros Araújo Luz. Objeto virtual de aprendizagem sobre o raciocínio diagnóstico em enfermagem aplicado ao sistema tegumentar. Rev Gaúcha Enferm. 2015 dez; 36(4):55-62.\n5- Cleires ABB, Brandão MAG, Dias BF, Primo CC. Content analysis of a technology to the nursing diagnostic reasoning. Rev Bras Enferm. 2015; 68(2):261-8. DOI: http://dx.doi.org/10.1590/0034-7167.2015680211i\n6- CONSELHO FEDERAL DE ENFERMAGEM. Resolução 358/2009, de 15 de outubro de 2009. Dispõe sobre a sistematização da assistência de enfermagem e a implementação do Processo de Enfermagem em ambientes públicos ou privados, onde ocorre o cuidado profissional de Enfermagem e dá outras providências. In: Conselho Federal de Enfermagem (legislação na Internet]. Brasília, 2009.\n7- Góes FSN, Dalri MCB, Fonseca LMM, Canini SRMS, Scochi CGS. Desenvolvimento de casos clínicos para o ensino do raciocínio diagnóstico. Rev. Eletr. Enf. [Internet]. 2014 jan/mar; 16(1):44-51. Disponível em: http://dx.doi.org/10.5216/ree.v16i1.19812. -doi: 10.5216/ree.v16i1.19812.\n8- Lira Ana Luisa Brandão de Carvalho, Lopes Marcos Venícios de Oliveira. Diagnóstico de enfermagem: estratégia educativa fundamentada na aprendizagem baseada em problemas. Rev. Latino-Am. Enfermagem [Internet]. 2011 Aug [cited 2018 Jan 17]; 19(4): 936-943. Available from: http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0104-11692011000400012&1ng=en. http://dx.doi.org/101590/S0104-11692011000400012.\n9- Lunney M. Pensamento crítico e diagnósticos de enfermagem: estudos de caso e análises. Porto Alegre: Artmed.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MCW230"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCE022",
+      "Nome": "Simulação Clínica",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Aprendizagem significativa e simulação. Complexidade da simulação. Simuladores e dramatização. Design da estratégia. Recursos físicos, materiais e humanos. Inserção curricular de simulação. Simulação em Enfermagem. Simulação in situ. Simulação clínica no ensino. desenvolvimento de cenários simulados no ensino em saúde.\n___ BIBLIOGRAFIA BÁSICA ___\n1- BARROS, Alba Lucia Botura Leite de. Anamnese e exame físico: avaliação diagnóstica de enfermagem no adulto. Porto Alegre: Artmed, 2010.\n2- POTTER, Patricia A. Fundamentos de enfermagem. 7. ed. Rio de Janeiro: Elsevier, 2009.\n3- North American Nursing Diagnosis Association International. Diagnósticos de Enfermagem da NANDA: definições e classificação: 2015-2017. Porto Alegre: Artes Médicas; 2015.\n___ BIBLIOGRAFIA COMPLEMENTAR ___\n1- ALMEIDA, Miriam de Abreu. Competências e o processo ensino-aprendizagem do diagnóstico de enfermagem. Revista brasileira de enfermagem. Brasília. Vol. 57, n. 3 (jun. 2004)\n2- Bittencourt Greicy Kelly Gouveia Dias, Crossetti Maria da Graça Oliveira. Habilidades de pensamento crítico no processo diagnóstico em enfermagem. Rev. esc. enferm. USP [Internet]. 2013 Apr [cited 2017 Oct 03]; 47(2):341-347. Available from: http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0080-62342013000200010&1ng=en. http://dx.doi.org/10.1590/S0080-62342013000200010.\n3- Carvalho EC, Oliveira-Kumakura ARS, Morais SCRV. Raciocínio clínico em enfermagem: estratégias de ensino e instrumentos de avaliação. Rev. Bras Enferm [Internet]. 2017;70(3):662-8. DOI: http://dx.doi.org/10.1590/0034-7167-2016-0509\n4- Cecilia Passos Vaz da Costa; Maria Helena Barros Araújo Luz. Objeto virtual de aprendizagem sobre o raciocínio diagnóstico em enfermagem aplicado ao sistema tegumentar. Rev Gaúcha Enferm. 2015 dez; 36(4):55-62.\n5- Cleires ABB, Brandão MAG, Dias BF, Primo CC. Content analysis of a technology to the nursing diagnostic reasoning. Rev Bras Enferm. 2015; 68(2):261-8. DOI: http://dx.doi.org/10.1590/0034-7167.2015680211i\n6- CONSELHO FEDERAL DE ENFERMAGEM. Resolução 358/2009, de 15 de outubro de 2009. Dispõe sobre a sistematização da assistência de enfermagem e a implementação do Processo de Enfermagem em ambientes públicos ou privados, onde ocorre o cuidado profissional de Enfermagem e dá outras providências. In: Conselho Federal de Enfermagem (legislação na Internet]. Brasília, 2009.\n7- Góes FSN, Dalri MCB, Fonseca LMM, Canini SRMS, Scochi CGS. Desenvolvimento de casos clínicos para o ensino do raciocínio diagnóstico. Rev. Eletr. Enf. [Internet]. 2014 jan/mar; 16(1):44-51. Disponível em: http://dx.doi.org/10.5216/ree.v16i1.19812. -doi: 10.5216/ree.v16i1.19812.\n8- Lira Ana Luisa Brandão de Carvalho, Lopes Marcos Venícios de Oliveira. Diagnóstico de enfermagem: estratégia educativa fundamentada na aprendizagem baseada em problemas. Rev. Latino-Am. Enfermagem [Internet]. 2011 Aug [cited 2018 Jan 17]; 19(4): 936-943. Available from: http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0104-11692011000400012&1ng=en. http://dx.doi.org/101590/S0104-11692011000400012.\n9- Lunney M. Pensamento crítico e diagnósticos de enfermagem: estudos de caso e análises. Porto Alegre: Artmed.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "13:30 - 17:30",
+        "professor": "ROBERTA PEREIRA COUTINHO"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:30 - 17:30",
+        "professor": "MONIQUE DA SILVA DIAS BABINSKI"
+       }
+      ],
+      "Requisitos": [
+       "MCE411"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCE024",
+      "Nome": "Estr Redu Dano Uso Álco Drogas",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estratégias de redução de danos. O uso abusivo de drogas e direitos humanos. Fatores de risco e vulnerabilidade em diferentes grupos de usuários: mulheres, adolescentes, idosos, negros e indígenas. Epidemiologia do uso de substâncias psicoativas. Classificação das drogas. Os efeitos de substâncias psicotrópicas e a redução de danos. A intervenção breve na atenção primária. A promoção e a prevenção em saúde aos usuários no uso abusivo de substâncias psicotrópicas. Políticas Públicas sobre drogas.\n___ BIBLIOGRAFIA BÁSICA ___\n1- ANDRADE TM, FRIEDMAN SR. Princípios e práticas de redução de danos: interfaces e extensão a outros campos da intervenção e do saber. In: Silveira DX. et. al. (org). Panorama atual de drogas e dependências. São Paulo: Atheneu, 2006.\n2- CRUZ MS, FERREIRA S. Álcool e drogas: usos, dependências e tratamento. Rio de Janeiro: Edições IPUB/CUCA, 2001.\n3- KINOSHITA RT. Contratualidade e Reabilitação Psicossocial. In: Pitta AMF. Reabilitação Psicossocial no Brasil. 4ª Ed. São Paulo: Hucitec, 2016, p. 69-74.\n___ BIBLIOGRAFIA COMPLEMENTAR ___\n1- ANDRADE TM. Reflexões sobre Políticas de Drogas no Brasil. Ciên. Saúde Coletiva, 2011, v. 16, n. 12, p. 4665-4674.\n2- CRUZ MS. Considerações sobre possíveis razões para resistência às estratégias de redução de danos. In: Cirino O., Medeiros R. (orgs.). Álcool e outras drogas: escolhas, impasses e saídas possíveis. Belo Horizonte: Autêntica, 2006, p. 13-24.\n3- SILVEIRA DX, MOREIRA FG. Panorama atual de drogas e dependências. São Paulo: Editora Atheneu, 2006.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCE026",
+      "Nome": "Introdução em Direitos Humanos",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução e Histórico sobre Direitos Humanos e Movimentos Sociais: direitos individuais, coletivos e ambientais; Dignidade Humana como condição de vida e o\nenfrentamento às desigualdades sociais: enfoque nas Políticas Públicas e Legislações; Direitos Humanos e Interdisciplinaridade na Educação e na Saúde;\nDiscriminação de etnia, origem, raça e cor e as Políticas Afirmativas; Direitos Humanos e o Respeito às Diferenças de Gênero e de Orientação Sexual; Direitos\nHumanos e Movimentos feministas; Comunicação não violenta nos Direitos Humanos; Direitos Humanos e respeito às diferenças socioculturais, religiosas,\nideológicas, filosóficas e políticas; Direitos Humanos, Capacitismo, Acessibilidade e Inclusão; Direitos Humanos e o combate às violências no cotidiano.\n",
+       "BibliografiaBasica": "1)DIBBERN, T. A.; CRISTOFOLETTI, E. C.; SERAFIM, M. P. Educação em Direitos Humanos: um panorama do compromisso social da universidade pública. Educação em Revista, v. 34, 2018;\n2) FREIRE, S. M. Extensão Universitária e Direitos Humanos: desafios na contemporaneidade. Extensão em Foco, nº 2, p. 133-142. 2008;\n3) JUBILUT, L. L.; LOPES, R. O. (Organizadoras). Direitos humanos e vulnerabilidade e a declaração universal dos direitos humanos [e-book]. Santos (SP): Editora Universitária Leopoldianum, 2018. 445 p.\n4) MINISTÉRIO DA EDUCAÇÃO. Plano Nacional de Educação em Direitos Humanos. Comitê Nacional de Educação em Direitos Humanos. Brasília: Secretaria Especial dos Direitos Humanos, Ministério da Educação, Ministério da Justiça, UNESCO, 2007. 76 p.\n5) MINISTÉRIO DA EDUCAÇÃO. Programa Ética e Cidadania: construindo valores na escola e na sociedade: inclusão e exclusão social / organização FAFE ? Fundação de Apoio à Faculdade de Educação (USP). Brasília: Ministério da Educação, Secretaria de Educação Básica, 2007. 4 v.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "17:30 - 20:30",
+        "professor": "MARCIA REGINA VIANA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "17:30 - 20:30",
+        "professor": "MARCOS VIEIRA FERREIRA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "17:30 - 20:30",
+        "professor": "CAMILA AZEVEDO SOUZA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "17:30 - 20:30",
+        "professor": "ANA CAROLINA DA SILVA CARVALHO"
+       },
+       {
+        "dia": "Qua",
+        "hora": "17:30 - 20:30",
+        "professor": "ANTONIO CANDIDO DE CAMARGO GUIMARAES JUNIOR"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCEZ50",
+      "Nome": "Ativ Curricular Extensão - Enf",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "0",
+      "Extensão": "555",
+      "Informação": {
+       "Info": "Atuação em atividades de extensão registradas na Pró-Reitoria de Extensão da UFRJ, como programas, projetos, cursos de extensão e eventos, coordenados por docentes do quadro permanente ou técnicos da carreira de nível superior na UFRJ. Para eventos, a atuação deverá ser na organização ou na realização do evento. Para cursos, a atuação deve ser na organização ou ministrando aulas.\n___ BIBLIOGRAFIA BÁSICA ___\nBibliografia recomendada pelo coordenador da atividade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCF705",
+      "Nome": "Neurobiol Bas e Neuropatol",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Esta disciplina tem como objetivo aprofundar as bases neurobiológicas das doenças neurodegenerativas e do neurotrauma e apresentar novas propostas terapêuticas, focalizando os avanços recentes nos estudos da terapia celular. Serão apresentadas informações básicas a respeito da estrutura e função do Sistema Nervoso Central (SNC), sendo abordados aspectos celulares e moleculares fundamentais da neuropatologia de doenças neurodegenerativas e do neurotrauma. Na etapa final, serão discutidos estudos clínicos e pré-clínicos recentes sobre a utilização de transplante com células-tronco ou células diferenciadas em modelos experimentais de doenças neurodegenerativas e de lesões traumáticas. Além disso, serão abordados recentes estudos sobre recuperação funcional com associação de diferentes terapias em modelos experimentais.\n___ BIBLIOGRAFIA BÁSICA ___\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCF735",
+      "Nome": "Controle Metobol Energético",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução à endocrinologia; bioquímica (glicólise; metabolismo do glicogênio; gliconeogênese e metabolismo lipídico); controle neuro-hormonal do metabolismo energético (ação da insulina; glucagon, adrenalina/sistema nervoso autônomo, hormônios tireoidianos, cortisol, hormônio do crescimento sobre o metabolismo energético); biologia do tecido adiposo (estrutura do tecido adiposo e ação das adipocitocinas: leptina, adiponectina, resistina e citocinas); controle neuroendócrino do comportamento alimentar; fisiologia das doenças metabólicas (desnutrição; obesidade; diabetes do tipo i e tipo ii; síndrome metabólica; epigenética e doenças metabólicas); e alternativas terapêuticas para prevenção e tratamento da obesidade, diabete e síndrome metabólica.\n___ BIBLIOGRAFIA BÁSICA ___\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCF752",
+      "Nome": "Inter Parasito Hospedeiro",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Mecanismo de infecção, invasão e evasão imunológica dos principais parasitos humanos, contemplando os protozoários Leishmania spp, trypanosoma cruzi, toxplasma gondi, plasmodium spp; e helmitos Schistosoma mansoni, ancilostomídeos e filárias.\n___ BIBLIOGRAFIA BÁSICA ___\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCN005",
+      "Nome": "Tóp Esp Envelhecimento e Saúde",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "15",
+      "Informação": {
+       "Info": "Fundamentos de geriatria e gerontologia. Políticas públicas e envelhecimento. Modalidades de assistência ao idoso. Introdução ao estudo das Síndromes Geriátricas e doenças crônicas em idosos. Processos de cuidado e atuação interdisciplinar em saúde do idoso. Vivência em projeto de extensão universitária de promoção à saúde do idoso. Projeto de Extensão \"Envelhecimento, Nutrição e Promoção da Saúde\".\n___ BIBLIOGRAFIA BÁSICA ___\n1) FREITAS, PY. Tratado de geriatria e gerontologia. 4ª Ed. Rio de Janeiro: GUANABARA KOOGAN, 2016. 1696P.\n2) LOPES, MENDES, SILVA. Envelhecimento: estudos e perspectivas. 1ª Ed. São Paulo: Martinari, 2014. 334p.\n3) MENDES, T. Geriatria e Gerontologia. 1ª Ed. São Paulo: MANOLE, 2014. 862p.\n4) TERRA, BÓS, CASTILHOS. Temas sobre envelhecimento ativo. Porto Alegre: ediPUCRS, 2013. 599p.\n5) TINOCO, ROSA. Saúde do idoso: epidemiologia, aspectos nutricionais e processo de envelhecimento. 1ª Ed. Rio de Janeiro: RUBIO, 2015. 528p.\n6) TOMARSO et al. Geriatria: guia prático. Rio de Janeiro: GUANABARA KOOGAN, 2016. 388p.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) ALCÂNTARA et  al. Política nacional do idoso: velhas e novas questões. Rio de Janeiro: Instituto de Pesquisa Econômica e Aplicada (Ipea), 2016. 615p.\n2) BATSIS et al. Weight loss interventions in older adults with obesity: a systematic review of randomized controlled trials since 2005. Journal of the American Geriatrics Society 65: 257-268, 2017.\n3) CONROY, TURPIN. New horizons: urgent care for older people with Frailty. Age and Aging 45: 579-586, 2016.\n4) MORLEY. Nutrition and ageing. Journal of the American Medical Directors Association 18: 91-94, 2017.\n5) ORGANIZAÇÃO MUNDAL DA SAÚDE.  Relatório  Mundial de Envelhecimento e Saúde. 2015. Disponível  em  WWW.who.int/about/licensing/copyright_form/en/index.html\n6) SODERSTORM et al. Malnutrition is associated with increased mortality in older adults regardless of the cause of death. British Journal of Nutrition 117: 532-540, 2017.\n7) SOUZA. Brasil, 2050: desafios de uma nação que envelhece. Centro de Estudos e Debates Estratégicos - Brasília: Câmara dos Deputados, Edições Câmara, 2017. Disponível em: www.livraria.camara.leg.br\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCN011",
+      "Nome": "Introd aos Cuidados Paliativos",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Cuidados Paliativos: histórico, fundamentos, princípios e indicações. Aspectos sociais e conceituais acerca da saúde e do adoecer. Fundamentos filosóficos e bioéticos para Cuidados Paliativos. O papel dos profissionais de saúde na equipe de Cuidados Paliativos. Legislação. Espiritualidade e Cuidados Paliativos: conceitos e intervenções. Princípios no controle de sintomas. Higiene, conforto, cuidados com a pele e hipodermóclise. Farmacologia nos Cuidados Paliativos. Abordagem psicológica do paciente e família. Avaliação nutricional, hidratação e suporte nutricional. Cuidados Paliativos pediátricos e neonatais. Cuidados Paliativos em pacientes oncológicos. Fim de vida.\n",
+       "BibliografiaBasica": "1) BYOCK, I. Principles of Palliative Medicine. In: WALSH, D. et al. Palliative Medicine. [An Expert Consult Title]. Philadelphia, USA: Saunders Elsevier, 2009. p. 33-41.\n2) CARVALHO, R. T.; PARSONS, H. A. (Org.). Manual de Cuidados Paliativos ANCP. 2. ed. São Paulo: s. n., 2012. 320p.\n3) CARVALHO, R. T.; SOUZA, M. R. B.; FRANCK, E. M.; POLASTRINI, R. T. V., CRISPIM, D.; JALES, S. M. C. P.; BARBOSA, S. S. M.; TORRES, S. H. B. Manual de Residência de Cuidados Paliativos - abordagem multiprofissional. São Paulo: Manole, 2018. 1056 p.\n4) WHO. Integrating palliative care and symptom relief into primary health care: a WHO guide for planners, implementers and managers. Switzerland. 78 p.\n5) YENNURAJALINGAM, S.; BRUERA, E. oxford American Handbook. Hospice and palliative medicine and supportive care. 2 ed. Oxford University Press., 2016. 510 p.\n6) OTHERO, M. B. et al. Profiles of palliative care services and teams composition in Brazil: First steps to the Brazilian Atkas of Palliative Care. European Journal Of Palliative Care. 14th World Congress of the European Association of Palliative Care. Copenhaguen, Dennmark. May. 2015. p. 113.\n",
+       "BibliografiaComplementar": "1) MACIEL, M. G. S. et al. Critérios de qualidade para os cuidados paliativos no Brasil. Academia Nacional de Cuidados Paliativos. Rio de Janeiro: Diagraphic, 2016. 60p.\n2) TAKENOSHITA et al. Tube feeding decreases pneumonia rate in patients with severe dementian comparison between pre- and post-intervention. BMC Geriatrics 2017; 17 (267): 2-5.\n3) VICENSI, M. C. Enfermagem em cuidados paliativos. Conselho Regional de Enfermagem de Santa Catarina: Letra Editorial, 2016. 60p.\n4) GARCIA et al. A estruturação de um serviço de cuidados paliativos no Brasil: relato de experiência. Rev Bras Anestesiol. 2014; 64(4): 286-291.\n5) ARAUJO. Comunicação em Cuidados Paliativos: Proposta Educacional para profissionais de saúde. Tese (Doutorado) - Escola de Enfermagem da Universidade de São Paulo. São Paulo, 2011. 260 p.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "09:00 - 12:00",
+        "professor": "CASSIA QUELHO TAVARES"
+       },
+       {
+        "dia": "Qua",
+        "hora": "09:00 - 12:00",
+        "professor": "GUNNAR GLAUCO DE CUNTO CARELLI TAETS"
+       },
+       {
+        "dia": "Qua",
+        "hora": "09:00 - 12:00",
+        "professor": "PAULA LIMA DO CARMO"
+       },
+       {
+        "dia": "Qua",
+        "hora": "09:00 - 12:00",
+        "professor": "LARISSA ESCARCE BENTO WOLLZ"
+       },
+       {
+        "dia": "Qua",
+        "hora": "09:00 - 12:00",
+        "professor": "RENATA BORBA DE AMORIM OLIVEIRA"
+       }
+      ],
+      "Requisitos": [
+       "MCW240"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCW003",
+      "Nome": "Tóp em Relações Étnico Raciais",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução à história dos povos ameríndios e da diáspora africana; eurocentrismo e a evolução das teorias eugênicas; abolição da escravatura negra e o mito da democracia racial. Aproximação da história, cultura, território e religiosidades tradicionais afro-indígenas na região norte-fluminense. Educação das relações étnico raciais e a efetivação da Lei 11.645/08. Alimentação e cuidado na ótica das políticas de saúde\nintegral da população negra e indígena.\n___ BIBLIOGRAFIA BÁSICA ___\n1) ALMEIDA, A. A. B.; SANCHEZ, L. Os negros na legislação educacional e educação formal no Brasil. Revista Eletrônica de Educação, vol.10, n.2, p.234-246, 2016.\n2) KAHN M, Franchetto B. Educação indígena no Brasil: conquistas e desafios. Em Aberto, v.14, n.63, 1994.\n3) WERNECK J. Racismo Institucional e Saúde da População Negra. Saúde Soc, v.25, n.3, p.535-549, 2016.\n___ BIBLIOGRAFIA COMPLEMENTAR ___\n1) ALMEIDA, A. A. B.; SANCHEZ, L. Os negros na legislação educacional e educação formal no Brasil. Revista Eletrônica de Educação, vol.10, n.2, p.234-246, 2016.\n2) FREYRE, G. Casa-grande & senzala: formação da família brasileira sob o regime da economia patriarcal, São Paulo: Global, 2013.\n3) GOMES, Nilma Lino. O Movimento Negro educador: saberes construídos nas lutas por emancipação. RJ: Vozes, 2017.\n4) JACCOUD, Luciana. Racismo e república: o debate sobre o branqueamento e a discriminação racial no Brasil. IN. HEODORO, Mario (Oeg.). Luciana Jaccoud; Rafael Osório; Sergei Soares. As políticas Públicas e a desigualdade racial no Brasil: 120 anos após a abolição. Brasília: IPEA, 2008.\n5) MUNANGA, Kabengele. Negritude: usos e sentidos. 3. ed. Belo Horizonte: Autêntica, 2012.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCW005",
+      "Nome": "Introd Prát Integr Compl Saúde",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Bases Paradigmáticas da Ciência. Políticas Públicas das Práticas Integrativas e Complementares em Saúde (PICS) e sua inserção no SUS. A utilização das Práticas Integrativas e Complementares pelos profissionais de saúde: aspectos relacionados a formação e a legislação vigente. PICS e a relação com a prática interdisciplinar e a integralidade no Cuidado à Saúde: possibilidades e limites. Apresentação das diferentes PICS.\n___ BIBLIOGRAFIA BÁSICA ___\n1) BRASIL, Ministério da Saúde. Secretaria de Atenção à Saúde. Departamento de Atenção Básica. Práticas Integrativas e Complementares: plantas medicinais e fitoterapia na Atenção Básica/Ministério da Saúde. Secretaria de Atenção à Saúde. Departamento de Atenção Básica. - Brasília: Ministério da Saúde, 2012.\n2) BRASIL, Ministério da Saúde. Secretaria de Atenção à Saúde. Departamento de Atenção Básica. Manual de implantação de serviços de práticas integrativas e complementares no SUS / Ministério da Saúde, Secretaria de Atenção à Saúde, Departamento de Atenção Básica. Brasília: Ministério da Saúde, 2018. 56p.\n3) BRASIL, Ministério da Saúde. Secretaria-Executiva. Secretaria de Atenção à Saúde. Glossário temático: práticas integrativas e complementares em saúde / Ministério da Saúde, Secretaria-Executiva, Secretaria de Atenção à Saúde. Brasília: Ministério da Saúde, 2018. 180 p.\n___ BIBLIOGRAFIA COMPLEMENTAR ___\n1) FRIJOT, C. Ponto de Mutação - A Ciência, a Sociedade e a Cultura emergente. Cultrix: 1982.\n2) BRASIL. Ministério da Saúde. Departamento de Atenção Básica. Política Nacional de Práticas Integrativas e Complementares no SUS - PNPIC-SUS. Braspilia: Ministério da Saúde; 2006. 92 pp.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "17:30 - 20:30",
+        "professor": "EDISON LUIS SANTANA CARVALHO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCW112",
+      "Nome": "Políticas Estrat Inovaç Saúde",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceitos gerais de Competitividade e Desenvolvimento Econômico; Pesquisa e desenvolvimento; Inovação. Estratégias Governamentais - Política industrial; Programas e leis de apoio ao desenvolvimento industrial e à inovação; A nova política industrial e da saúde do governo brasileiro. Estratégias empresariais - Cenário da produção e da inovação no setor de saúde; Medicamentos genéricos x acesso x inovação; Interações com demais atores do sistema: universidades, institutos de pesquisa, fornecedores e clientes.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "17:30 - 20:30",
+        "professor": "RAQUEL MIGUEL RODRIGUES"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCW123",
+      "Nome": "Imunizações",
+      "Créditos": "2.0",
+      "Teórica": "36",
+      "Prática": "12",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução à vacinação. História da vacinação. Fundamentos biomédicos e sócio-epidemiológicos da vacinação. Calendário vacinal do Programa Nacional de Imunizações e da Sociedade Brasileira de Pediatria. Vacina BCG; Tríplice Viral e Bacteriana; Anti-hepatite B; Anti-hepatite A; Anti-poliomielete; Anti-haemophilus Influenzae A; Anti-rotavírus; Anti-Influenzae, Anti-pneumocócica; Antimeningocócica; Anti-febre amarela; Anti-varicela; Anti-HPV; Rede de frio. Efeitos adversos da vacinação. Imunizações em situações especiais. Centro de referência de imunobiológicos especiais (CRIEs). Vacinação ocupacional e de viajantes.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MCW111"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUP364",
+      "Nome": "Gestão Ambiental",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Principais elementos relacionados ao gerenciamento ambiental abordando temas como Meio Ambiente e Desenvolvimento Sustentável; Políticas Ambientais; Licenciamento e Avaliação de Impacto Ambiental; Economia Ambiental, Gerenciamento de Recursos Hídricos; Energia e Meio Ambiente; e Educação Ambiental. Visitas técnicas.\n",
+       "BibliografiaBasica": "1- ALMEIDA, J.R. 2006. Gestão ambiental: para o desenvolvimento sustentável. Ed. Thex. Rio de Janeiro.\n2- MAY, P.H.; LUSTOSA, M.C. & VINHA, V. 2003. Economia do meio ambiente: teoria e prática. Rio de Janeiro: Elsevier.\n3- MILARÉ, E. 2001. Direito do ambiente: doutrina, prática, jurisprudência e glossário. 2ª ed. Revista dos Tribunais. São Paulo.\n4- Hinrichs R.; Kleinbach, M.; Reis, L.B. 2010 Energia e Meio Ambiente. Cengage Learning.\n",
+       "BibliografiaComplementar": "1- BRASIL. Ministério do Meio Ambiente ? MMA. 2004. Recursos Hídricos. Ed. Associação Brasileira de Recursos Hídricos. Brasília.\n2- CAMPOS, N. & STUDART T. 2001. Gestão das águas. Ed. Associação Brasileira de Recursos Hídricos. Fortaleza.\n3- ROMÉRO, M. A.; BRUNA, G. C.; PHILIPPI Jr., A. 2004. Curso de gestão ambiental. Ed. Manole. Barueri.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     }
+    ]
+   },
+   "obrigatorias": 53,
+   "eletivas": 63,
+   "ano": "2009/2 a 9999/9"
+  }
+ ]
+}

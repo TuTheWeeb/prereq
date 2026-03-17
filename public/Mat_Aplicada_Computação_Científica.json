@@ -1,0 +1,1466 @@
+{
+ "Mat Aplicada - Computação Científica": [
+  {
+   "materias": {
+    "1º Período": [
+     {
+      "Codigo": "MAA114",
+      "Nome": "Álgebra I",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Algoritmo da divisão e máximo divisor comum; Números primos e fatoração de interiores; Relações de equivalência; Aritmética modular; Teorema chinês dos restos; Indução finita; Teorema de Fermat; Grupos, Subgrupos e teorema de Lagrange; Teorema de Euler; Testes de primalidade e pseudoprimalidade; Números de Carmichael, Marsenne e  Fermat.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAE115",
+      "Nome": "Cálculo Vetorial e G Analítica",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Vetores no plano e no espaço. Produto escalar e vetorial. Aplicações a geometria do plano e do espaço. Cônicas e quádricas. Construção das cônicas: traçado de tangentes.\n",
+       "BibliografiaBasica": "1- ANTON, H.A. & RORRES, C. Álgebra Linear com Aplicações. 8ª edição. Porto\nAlegre: Bookman, 2001.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 15:00",
+        "professor": "HEUDSON TOSTA MIRANDOLA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 15:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ICP121",
+      "Nome": "Computação I",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Informações relevantes de um problema e sua respectiva representação computacional. Resolução de problemas de forma algorítmica. Aspectos sintático se semânticos de uma linguagem de programação de alto nível. Comandos, estruturas de dados e estruturas básicas para a construção de soluções computacionais. Modelagem e implementação de código modularizado. Noções de organização,reutilização e legibilidade de código. Princípios das boas práticas de programação.\n",
+       "BibliografiaBasica": "1) Nilo N. C. Menezes. Introdução a programação com Python - Algoritmos e Lógica de Programação para iniciantes. 3ª edição. Novatec. 2019.\n2) Mark Lutz e David Ascher.Aprendendo Python.Bookman Companhia Ed. 2ª edição. 2007.\n3)Carla A. D. M. Delgado, João C. P. da Silva, Fabio Mascarenhas, Ana Luisa Duboc. The teaching of functions as the first step to learn imperative programming.\n4) WORKSHOP SOBRE EDUCAÇÃO EM COMPUTAÇÃO (WEI), 24, 2016, Porto Alegre. Anais[...]. PortoAlegre: Sociedade Brasileira de Computação, 2016.p. 2393-2402. ISSN2595-6175.DOI: .\n5) Python Software Foundation. Otutorialde Python. 2001-2023.\n",
+       "BibliografiaComplementar": "1) Plataforma para prática de programação:\n2) Site oficial da linguagem Python:\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 15:00",
+        "professor": "HUGO DE HOLANDA CUNHA NOBREGA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 15:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAE111",
+      "Nome": "Cálculo Infinitesimal I",
+      "Créditos": "6.0",
+      "Teórica": "75",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Funções de uma variável real. Limites e derivadas. Cálculo de derivadas e aplicações. Teorema do valor médio. Integral definida. Teorema fundamental do cálculo. Cálculo de integrais e aplicações.\n___BIBLIOGRAFIA BÁSICA___\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAEX10",
+      "Nome": "Seminário",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "40",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Apresentação, por parte de docentes da UFRJ, de linhas e projetos de pesquisa, com ênfase nas questões matemáticas subjacentes.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "2º Período": [
+     {
+      "Codigo": "MAE121",
+      "Nome": "Cálculo Infinitesimal II",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Equações diferenciais ordinárias de primeira ordem. Equações diferenciais ordinárias de segunda ordem com coeficientes constantes. Aplicações de equações diferenciais. Curvas em r2 e aplicação ao estudo do movimento planetário. Funções de várias variáveis. Curvas em r3. Gráficos de funções de r2 em r. Derivadas parciais. Derivadas parciais vetoriais, diferencial, derivadas direcionais, gradiente. Integral de linha e aplicações.\n___BIBLIOGRAFIA BÁSICA___\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MAE111"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAEX11",
+      "Nome": "Projeto I",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "120",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Participação do estudante em projeto de pesquisa sob orientação de docente da UFRJ\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAE113",
+      "Nome": "Computação Científica I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução ao Maple e o traçado de gráficos em R2 e em R3. Introdução ao Matlab e o traçado de superfícies de nível e campos vetoriais. Animação de funções dependentes do tempo. Cálculo de zeros de funções reais. Cálculo matricial numérico e a resolução de sistemas lineares. Iteração de Newton. Interpolação e mínimos quadrados. Integração numérica. Introdução à resolução de EDO'S.\n",
+       "BibliografiaBasica": "1) Scientific Computing with MATLAB and Octave, Alfio Quarteroni, Fausto Saleri, Paola Gervasio;\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "15:00 - 17:00",
+        "professor": "SERGEY SERGEEV"
+       },
+       {
+        "dia": "Qua",
+        "hora": "15:00 - 17:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "ICP121",
+       "MAE111"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAE125",
+      "Nome": "Álgebra Linear",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Sistemas de equações lineares e Eliminação Gaussiana. Matrizes e determinante. Espaços vetoriais Euclidianos. Geometria dos espaços vetoriais de dimensão finita. Transformações lineares. Espaços vetoriais com produto interno. Ortogonalidade e mínimos quadrados. Autovalores e autovetores. Teorema espectral. Aplicações à solução de Equações Diferenciais Ordinárias e em Geometria Euclidiana.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "3º Período": [
+     {
+      "Codigo": "MAE127",
+      "Nome": "Equações Diferenciais",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Equações diferenciais de 1ª ordem e aplicações; Teoremas de Existência e Unicidade de Soluções; Equações diferenciais lineares de 2ª ordem e aplicações;\n",
+       "BibliografiaBasica": "1) BOYCE, William E.; DIPRIMA, Richard C. Equações diferenciais elementares e problemas de valores de contorno. Rio de Janeiro: LTC, 2006.\n2) FIGUEIREDO, Djairo Guedes de; NEVES, Aloisio Freiria. Equações diferenciais aplicadas. Rio de Janeiro : IMPA, c2007.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "10:00 - 12:00",
+        "professor": "STEFANELLA BOATTO"
+       },
+       {
+        "dia": "Qui",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MAC123",
+       "MAE125"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAD233",
+      "Nome": "Cálculo das Probabilidades I",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Probabilidade. Probabilidade condicional. Independência. Variáveis aleatórias discretas e contínuas. Esperança e variância de variáveis aleatórias. Modelos de variáveis aleatórias unidimensionais.\n",
+       "BibliografiaBasica": "1) DEGROOT, Morris. H.; SCHERVISH, Mark J. Probability and statistics. Boston: Addison-Wesley, c2002.\n2) HOEL, Paul Gerhard; PORT, Sidney C.; STONE, Charles Joel. Introdução à teoria da probabilidade. Rio de Janeiro : Interciência, 1978.\n3) ROSS, Sheldon M. A first course in probability. New Jersey: Pearson/Prentice Hall, c2006.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 15:00",
+        "professor": "GIULIO IACOBELLI"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 15:00",
+        "professor": ""
+       },
+       {
+        "dia": "Sex",
+        "hora": "13:00 - 15:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MAC128(C)MAC128=MAE123MAC128=MAW231MAC128=MAE121MAC128=MAC124MAC128=MAC123"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAE231",
+      "Nome": "Calculo Infinitesimal III",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Polinomios de taylor de funcoes de uma e varias variaveis. Regra da cadeia, coordenadas curvilineas, teoremas da funcao inversa e implicita. Superficies em r3. Maximos e minimos. Integral multipla. Aplicacoes de integral multipla. Teoria do campo. Teoremas de green, stokes e gausss. Interpretacao fisica.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MAE121"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "4º Período": [
+     {
+      "Codigo": "MAE240",
+      "Nome": "Análise Real",
+      "Créditos": "6.0",
+      "Teórica": "90",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Construções dos números reais.  Discussão dos axiomas que caracterizam R. Limites de sequências e convergência de séries.  Espaços métricos e espaços normados, limite e continuidade. Diferenciação de funções de uma variável real.  Integral de Riemann e de Kurzweil-Henstock.  Sequências de funções.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MAA114",
+       "MAE111"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAE122",
+      "Nome": "Computação Científica II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Simulação numérica de EDO's e de sistemas dinâmicos: estabilidade, esquemas de um passo, esquemas Multistep lineares.  Métodos de Runge-Kutta e pacotes de rotinas em linguagem Fortran (Netlib).  Métodos de diferenças finitas para a simulação numérica de equações a derivadas parciais.  Teorema de Lax.  Método de Von Neumann, dispersão e difusão. Condições de fronteira. Introdução aos métodos espectrais: polinômios trigonométricos e polinômios de Chebyshev.\n",
+       "BibliografiaBasica": "1) Finite Differences. G. D. Smith.\n2) Numerical solutions of partial differential equations by the finite element method, Claes Johnson; Cambridge University Press.\n3) Finite Difference Schemes and Partial Differential Equations, John C. Strikwerda.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MAE113",
+       "MAE127"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAEX12",
+      "Nome": "Projeto II",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "120",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Participação do estudante em projeto de pesquisa sob a orientação de docente da UFRJ.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "5º Período": [
+     {
+      "Codigo": "MAE242",
+      "Nome": "Modelagem Matemática",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Problemas de otimização. Derivada de Gateaux de um funcional, equações de Euler-Lagrange. Métodos de diferenças finitas. Métodos do gradiente e gradiente conjugado. Métodos diretos e métodos iterativos para a solução de sistemas lineares.\n",
+       "BibliografiaBasica": "1- Tijonov & Samarsky; Equações da Física Matemática\n2- Churchill, R.; Operational Mathematics.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "10:00 - 12:00",
+        "professor": "ADRIANO MAURICIO DE ALMEIDA CORTES"
+       },
+       {
+        "dia": "Qui",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MAE113",
+       "MAE127"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAD352",
+      "Nome": "Cálculo das Probabilidades II",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Espaços de probabilidade. Vetores aleatórios. Distribuição e esperança condicionais. Função geratriz e função característica. Teoremas limites.\n",
+       "BibliografiaBasica": "1- James, B. (1981). Probabilidade: um curso em nível intermediário.IMPA. Projeto Euclides.\n2- Magalhães, M. N. (2004). Probabilidade e Variáveis Aleatórias. Ed.Universidade de São Paulo.\n3- Shiryayev, A. N. (1995). Probability. Second edition. Springer.\n",
+       "BibliografiaComplementar": "1- BILLINGSLEY, PATRICK. Convergence of probability measures ? 2.ed.? ? New York : J. Wiley & Sons, c1999.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 15:00",
+        "professor": "LEANDRO PINTO RODRIGUES PIMENTEL"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 15:00",
+        "professor": ""
+       },
+       {
+        "dia": "Sex",
+        "hora": "13:00 - 15:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MAD233"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "6º Período": [
+     {
+      "Codigo": "MAD364",
+      "Nome": "Processos Estocásticos",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceitos gerais.  Cadeias de Markov a tempo discreto.  Processos de Poisson.   Processos Markovianos a tempo contínuo: Processos de Nascimento Puro, Processos de Morte Pura e Processos de Nascimento e Morte.  Motivações à Teoria de Filas.  Martingais.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 15:00",
+        "professor": "GUILHERME OST DE AGUIAR"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 15:00",
+        "professor": ""
+       },
+       {
+        "dia": "Sex",
+        "hora": "13:00 - 15:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MAD352"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "7º Período": [],
+    "8º Período": [],
+    "Disciplinas Optativas (Escolha Condicionada)": [
+     {
+      "Codigo": "ICP516",
+      "Nome": "Análise Num Eq Dif Ordinárias",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Fundamentos de Equações Diferenciais Ordinárias. Discretizacao. Compatibilidade. Estabilidade e convergencia. Problemas de valor inicial e de contornos. Metodos de passos simples e multiplos, predicao - correcao, tiro, diferencas finitas. Metodos integrais e variacionais.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ICP230"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ICP528",
+      "Nome": "Tóp Esp Algoritmos",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "TÓPICOS DE INTERESSE ATUAL EM ALGORÍTMOS LECIONADOS A NÍVEL DE GRADUAÇÃO. OS ASSUNTOS PODEM VARIAR A CADA PERIODO LETIVO, SUJEITOS A APROVAÇÃO PREVIA PELA COMISSÃO DE GRADUAÇÃO DO INSTITUTO DE MATEMÁTICA.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ICP368"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAA233",
+      "Nome": "Álgebra II",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Grupos, subgrupos e teoremas de Lagrange; Grupos de permutações; Subgrupos normais e quocientes; Teorema dos homomorfismos; Anéis e corpos; Corpos de um anel de integridade; Anel de polinômios sobre um corpo: allgoritmo da divisão, máximo divisor comum, teorema da fatoração única, irredutibilidade e critério de Eisenstein; Extensões dos racionais; Funções simétricas; Teorema de Newton; Resolvente de Lagrange; Solução algébrica de equações de grau 3 e 4.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MAA114"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAC360",
+      "Nome": "Geometria Diferencial I",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Curvas planas; Fórmulas de Frenet. Curvas no espaço; Teorema Fundamental das curvas em R3. Teoria local das superfícies: superfícies parametrizadas em R3; plano tangente; primeira forma fundamental; aplicação normal de Gauss; segunda forma fundamental; curvaturas média e gaussiana; classificação de pontos na superfície; linhas de curvatura; linhas assintóticas; geodésicas; Teorema Egregium de Gauss; Equações de Gauss e Mainardi-Codazzi; Teorema de Bonnet, Teorema de Gauss-Bonnet.\n",
+       "BibliografiaBasica": "1) ARAUJO, Paulo Ventura. Geometria diferencial. Rio de Janeiro : IMPA, c2008.\n2) CARMO, Manfredo Perdigão do. Geometria diferencial de curvas e superfícies. Rio de Janeiro: SBM, c2005.\n3) TENENBLAT, Keti. Introducao a Geometria Diferencial. Brasília: UNB, 1988.\n",
+       "BibliografiaComplementar": "1) KUHNEL, Wolfgang. Differential Geometry: Curves ? Surfaces ? Manifolds. AMS, 2006.\n2) STRUIK, D.J. Geometria Diferencial Clásica. Madrid: Aguilar, 1955.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MAC233",
+       "MAE125"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAE004",
+      "Nome": "Model Simul Reserv Petroleo II",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Tópicos recentes em Simulação de Reservatórios de Petróleo.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAE006",
+      "Nome": "Monitoria B",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Realização de trabalho que implique em prática didática e de organização de aulas teóricas ou práticas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAE008",
+      "Nome": "Iniciação Científica B",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Realização de trabalho que implique em desenvolvimento de aptidões e criatividade e no que se refere à prática de investigação científica.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAE011",
+      "Nome": "Tóp Engenharia Matemática B",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Ementa variável.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAE013",
+      "Nome": "Tóp em Ciências de Dados A.",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Ementa variável.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAE015",
+      "Nome": "Tóp em Engenharia de Dados A.",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Ementa variável.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAE017",
+      "Nome": "Matemática Concreta",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "I) Recorrência e Indução. Solução de problemas por recorrência. Demonstração por indução. Equações de recorrência. Métodos de Álgebra Linear aplicados às recorrências. II) Somas. Propriedades do somatório. Manipulação de somas. Somas duplas e múltiplas. Notação de Iverson para somas. Somas como anti-diferenças. Potências decrescentes. Somas por partes. III) Coeficientes Binomiais. Definição. Generalização para números reais. Propriedades. Identidades binomiais por argumento polinomial. Teorema binomial. Convolução de Vandermonde.\nIV) Funções geradoras. Definição. Manipulação algébrica. Manipulação analítica. Propriedades combinatórias. Decomposição em frações parciais. Solução de recorrências não-lineares via funções geradoras. V) Comportamento Assintótico. Notação assintótica O(), o(). Propriedades formais. Propriedades analíticas. Técnicas de estimativa assintótica. Aproximação usando séries assintóticas divergentes. Exemplos clássicos.\n___BIBLIOGRAFIA BÁSICA___\n1) R.L.Graham, D.E. Knuth, O. Patashnik, Concrete Mathematics. (Reading, Massachusetts: Addison-Wesley, 1994), xiii+657pp.\nISBN 0-201-55802-5\nErratas em: https://www-cs-faculty.stanford.edu/~knuth/gkp.html\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAE019",
+      "Nome": "Equações Diferenc Estocásticas",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Movimento Browniano e o processo de Wiener. Integração estocástica. Equações diferenciais estocásticas. Equação de Fokker-Planck. Fórmula de Feynman-Kac. Convergência forte e fraca de aproximações numéricas. Métodos de Euler-Maruyama e de Milstein.\nBibliografia básica\n1) D. J. Higham & P. E. Kloeden. An Introduction to the Numerical Simulation of Stochastic Differential Equations. SIAM, 2021.\n2) B. Øksendal. Stochastic Differential Equations. An Introduction with Applications. Springer-Verlag, 2003.\n3) P. E. Kloeden & E. Platen. Numerical Solution of Stochastic Differential Equations. Springer-Verlag, 1992.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "10:00 - 12:00",
+        "professor": "RICARDO MARTINS DA SILVA ROSA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MAD352",
+       "MAE127",
+       "MAE240"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAE351",
+      "Nome": "Cálculo Avançado I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Topologia do Rn: Normas, Distâncias, Vizinhanças, Conjuntos abertos e fechados, continuidade, Conjuntos Conexos. Compacidade. Teorema de Borel-Lebesgue. Continuidade Uniforme. Sequências. Teorema do Ponto Fixo de Banach. Cálculo Diferencial em Rn: Conceito de Diferencial, Regra da Cadeia. Relações entre Derivadas de Gateaux e de Fréchet. Introdução ao Cálculo das Variações. Teoremas dos Acréscimos Finitos. Derivadas de Ordem Superior e Polinômios de Taylor. Teorema da Função Inversa e Formas Locais. Multiplicadores de Lagrange.\n",
+       "BibliografiaBasica": "1) PUGH. Real Mathematical Analysis. Springer;\n2) RUDIN. Princípios de Análise Matemática. McGraw-Hill;\n3) LIMA. Espaços Métricos. Projeto Euclides.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MAE121",
+       "MAE125",
+       "MAE240"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAE353",
+      "Nome": "Top de Matematica Aplicada A",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Variavel\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 15:00",
+        "professor": "LACRAMIOARA MARIANTY IONEL"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 15:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAE361",
+      "Nome": "Cálculo Avançado II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Integração Múltipla: Critério de Riemann-Lebesgue, Medida Nula. Integrais Interadas. O Jacobiano e Mudanças de Variéveis. Integrais de Linha de Superfície. Potencial, Teoremas de Stoke e de Gauss. Noções sobre Formas Diferenciais.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MAE231",
+       "MAE240"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAE363",
+      "Nome": "Top de Matematica Aplicada B",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Variavel\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAE471",
+      "Nome": "Álgebra Linear Computacional",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Aritmética finita. Erro de Arredondamento. Condicionamento de Sistemas Lineares. Decomposição em Valores Singulares. Decomposição de Schur. Métodos Diretos para resolução de Sistemas Lineares. Método de Gauss e Decomposição QR. Análise de Estabilidade. Métodos Iterativos: Jacobi, Gauss-Siedel, SSOR. Gradientes Conjugados e Generalizações. Mínimos Quadrados. Resolução via Equação Normal e via QR. Cálculo de Autovalores e Autovetores. Estabilidade. Método da Potência Inversa e QR.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 15:00",
+        "professor": "GREGORIO MALAJOVICH MUNOZ"
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 15:00",
+        "professor": "TIAGO DOS SANTOS DOMINGUES"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 15:00",
+        "professor": "GREGORIO MALAJOVICH MUNOZ"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 15:00",
+        "professor": "TIAGO DOS SANTOS DOMINGUES"
+       }
+      ],
+      "Requisitos": [
+       "ICP121",
+       "MAE125"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAE473",
+      "Nome": "Tóp de Matemática Aplicada C",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Não cadastrada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "15:00 - 17:00",
+        "professor": "FRANCESCO NOSEDA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "15:00 - 17:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAE475",
+      "Nome": "Medida e Integração",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Medida e Medida exterior: Medidas em Anéis e o-álgebras. Propriedades. Medida Exterior. Medida de Lebesgue em Rn. Caracterização. Extensão de Medidas. Construção das Medidas de Stieltjes. Funções Mensuráveis e Integração: Funções Mensuráveis. Propriedades, Conjuntos não mensuráveis a Lebesgue. A Integral de Lebesgue. Teoremas de Convergência. Os Espaços Lp. Completude e Separabilidade. Duais e Isometrias. Medida produto Teorema de Fubini e Tonelli. Aplicações. Medidas com sinal:Teoremas de Decomposição, de Hahn e Jordan. Continuidade Absoluta. Teorema de Radon-Nikodym. Teorema da Decomposição de Lebesgue. Diferenciação: Derivação de medidas. Diferenciação de Funções. Teorema de Lebesgue. Funções Absolutamente Contínuas e a Integral Definida.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "10:00 - 12:00",
+        "professor": "MARCO AURELIO PALUMBO CABRAL"
+       },
+       {
+        "dia": "Qui",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MAE240"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAE477",
+      "Nome": "Sistemas Dinâmicos",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Sistemas Lineares com coeficientes constantes: Sistemas Lineares com autovalores reais, Sistemas Lineares com autovalores complexos, Exponencial de Operadores Lineares, Classificação dos Sistemas Lineares Homogêneos a Coeficientes Constantes 2x2 e 3x3. Métodos de Variação de Parâmetros. Teorema de Existência e Unicidade de Solução. Fluxo Associado. Continuidade eDiferenciabilidade do Fluxo. Soluções Maximais. Poços, Fontes, Singularidades Hiperbólicas, Genericidade. Estabilidade no sentido de Liapunov. Teorema de Poincaré-Bendixon. Atratores Periódicos. Perturbações e Estabilidade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MAE127"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAE511",
+      "Nome": "Fund Computação Científica I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceitos de Algoritmos. Fundamentos Matemáticos, Combinatória, Teoria dos Números elementar. Técnicas fundamentais de Computação, Estruturas de informação: listas, pilhas, filas, arranjos. Árvores e árvores binárias. Propriedades matemáticas de árvores. Estruturas com encadeamento múltiplo.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAE513",
+      "Nome": "Fund Computação Científica III",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Propriedades das permutações. Algorítmos de ordenação interior e externa. procura por tabela ordenada, árvore binária, árvore balanceada, hashing.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAWZ02",
+      "Nome": "Ativ Curricular Extensão II",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "0",
+      "Extensão": "120",
+      "Informação": {
+       "Info": "Atuação em atividades de extensão como programas, projetos, empresa júnior, eventos e cursos de extensão, presenciais ou à distância.\n___Bibliografia Recomendada___\n1- Bibliografia recomendada pelo coordenador da atividade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAWZ04",
+      "Nome": "Ativ Curricular Extensão IV",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "0",
+      "Extensão": "30",
+      "Informação": {
+       "Info": "Atuação em atividades de extensão como programas, projetos, empresa júnior, eventos e cursos de extensão, presenciais ou à distância.\n___Bibliografia Recomendada___\n1- Bibliografia recomendada pelo coordenador da atividade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ICP368",
+      "Nome": "Algoritmos e Grafos",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Representação de Grafos; Ordenação Topológica; Buscas em grafos e Digrafos (largura e profundidade); Técnicas de Desenvolvimento de Algoritmos; Decomposição; Recursão; Algoritmo Guloso; Programação Dinâmica; Aplicação das Técnicas Usadas; Fluxo Máximo.\n___BIBLIOGRAFIA BÁSICA___\n1) Teoria Computacional de Grafos; os algoritmos. Jayme Luiz Swarcfiter, Fabiano S. Oliveira e Paulo E. D. Pinto. Elsevier, 2018.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ICP116",
+       "ICP144"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ICP518",
+      "Nome": "Teoria de Grafos",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Revisão dos Conceitos Básicos de Teoria dos Grafos. Representação de Grafos. Subgrafos. Árvores, articulações, pontes. Conectividade, blocos. Circuitos eulerianos. Ciclos hamiltonianos. Emparelhamentos. Coloração de arestas. Conjuntos independentes e cliques. Coloração de vértices. Grafos planares.\n___BIBLIOGRAFIA BÁSICA___\n1) Szwarcfiter, J. L, Grafos e Algoritmos Computacionais, Editora Campus.\n2) J. A. Bondy and U. S. R. Murty, Graph Theory with Applications, North-Holland, 1976.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ICP368"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ICP531",
+      "Nome": "Tóp Esp Teoria de Grafos",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Tópicos de interesse atual em Teoria de Grafos lecionados a nível de graduação. Os assuntos podem variar a cada período letivo, sujeitos à aprovação prévia pela Comissão de Graduação do Instituto de Matemática.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ICP368"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAA243",
+      "Nome": "Algebra III",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Teoria basica dos grupos. Exemplos: grupos de simetrias do triangulo e do quadrado. Subgrupos. Classes laterais. Subgrupos normais. Grupos quocientes. Classes de cinjugacao. Homomorfismos. Grupos ciclicos. Teoremas de cauchy e sylow. Grupos soluveis. Extensoes normais e galoisianos (sobre os racionais). correspondencia de galois. Solubilidade por meio de radicais.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MAA233"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAE003",
+      "Nome": "Model Simul Reserv Petroleo I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Fluxo monofásico em meios porosos. Lei de Darcy. Conservação de massa. Casos compressível e incompressível;  Fluxo bifásico em meios porosos. Lei de Darcy. Permeabilidades relativas, pressão capilar. Equações de conservação de massas; Equação de transporte. Casos linear e não-linear. A equação de Burckley-Leverret;  Resoluções Numérica da equação de transporte. Método explícitos e implícitos de diferenças finitas. Esquemas conservativos. Condição de CFL. Consistência e convergência; Equação de Laplace. Funções Harmônicas. Propriedade da média. Princípio do máximo. Problemas de Dirchlet e de Neumann. Análise espectral;  Análise numérica da equação de Laplace. Consistência, estabilidade e convergência. Análise espectral; Equação do calor. Princípio do máximo. Fórmula de Poisson. Problema de valor inicial e de fronteira; Análise numérica da equação do calor. Métodos explícitos e implícitos, análise de convergência;  O esquema IMPES para o problema bifásico 2D; O esquema totalmente implícito;  O problema de ajuste ao histórico.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAE005",
+      "Nome": "Monitoria A.",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Realização de trabalho que implique em prática didática e de oganização de aulas teóricas ou práticas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAE007",
+      "Nome": "Iniciação Científica A.",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Realização de trabalho que implique em desenvolvimento de aptidões e criatividade e no que se refere à prática de investigação científica.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAE010",
+      "Nome": "Tóp Engenharia Matemática A.",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Ementa variável.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 12:00",
+        "professor": "ADRIANO MAURICIO DE ALMEIDA CORTES"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAE012",
+      "Nome": "Tóp Engenharia Matemática C",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Ementa variável.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAE014",
+      "Nome": "Tóp em Ciências de Dados B",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Ementa variável.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "15:00 - 17:00",
+        "professor": "HAMIDREZA ANBARLOOEI"
+       },
+       {
+        "dia": "Qui",
+        "hora": "15:00 - 17:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAE016",
+      "Nome": "Tóp em Engenharia de Dados B",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Ementa variável.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "10:00 - 12:00",
+        "professor": "MILTON RAMOS RAMIREZ"
+       },
+       {
+        "dia": "Qua",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAE018",
+      "Nome": "Introdução à Física Matemática",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "I) Mecânica clássica de partículas pontuais (Refs 1, 2, 3.vol1): Leis de Newton, pêndulo, mola, problema de Kepler, sistemas de partículas com vínculos, formalismos Lagrangiano e Hamiltoniano. II) Fenômenos de sistemas contínuos (Ref 1): Propagação de ondas, propagação de calor. III) Termodinâmica e modelos microscópicos (Ref 3.vol5): Leis da termodinâmica para quantidades macroscópicas, exemplos, propriedades dos gases, modelos mecânico-estatísticos com muitas partículas. IV) Campos de forças (Ref 1, 3.vol2): Campo gravitacional e distribuições de massa, campo elétrico e distribuições de carga, campo magnético, teoria eletromagnética, ondas eletromagnéticas. V) Tópicos avançados (breve introdução): Mecânica quântica (Refs 1, 3.vol3) e Relatividade especial (Ref 1)\n___BIBLIOGRAFIA BÁSICA___\n1) Iniciação à Física Matemática, Juan López Gondar, Rolci Cipolatti, IMPA (2016).\n2) Classical Dynamics: A Contemporary Approach, Jorge V. José, Eugene J. Saletan, Cambridge University Press.\n3) Série Curso de Física Teórica de Landau, Lifshitz: Mecânica (vol 1); Teoria de campos clássicos (vol 2); Física estatística (vol 5); Mecânica quântica não relativista (vol 3).\n4) The Feynman Lectures on Physics, vol 1 (Mecânica, radiação e calor), vol 2 (Eletromagnetismo), vol 3 (Mecânica quântica).\n5) Mathematical Methods in Classical Mechanics, V. Arnold; bom para tópicos mais avançados de mecânica clássica.\n6) Statistical Mechanics, K. Huang; para a parte de termodinâmica e mec. Estatística.\n7) Classical Electrodynamics, J.D. Jackson; para eletromagnetismo e método das imagens\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MAE125",
+       "MAE127",
+       "MAE231",
+       "MAE240"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAE232",
+      "Nome": "Métodos de Otimização",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introducao a modelagem matematica de problemas de decisao. Definicao de um problema de otimizacao. Introducao a programacao linear; desigualdades lineares, metodo de eliminacao de fourrier, algoritmos primal e dual do simplex. Implementacao dos algoritmos estudados no computador.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "15:00 - 17:00",
+        "professor": "RENAN VICENTE PINTO"
+       },
+       {
+        "dia": "Qua",
+        "hora": "15:00 - 17:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAE352",
+      "Nome": "Álgebra Linear Avançada",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Vetoriais e Transformações Lineares.Bases e Dimensão. Determinantes e Formas Multilineares.Produto Interno.Espaço Dual. Auto-Valores e Auto-Vetores,Complexificação.Operadores Simétricos,Unitários e Normais.Decomposição Espectral.Forma Canônica de Jordan.Decomposição em Valores Singulares.Normas de Matrizes.Condicionamento.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MAE125"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAE354",
+      "Nome": "Análise Real II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Espaços métricos; sequências e séries de funções; espaços de Hilbert; integral de Lebesgue.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 10:00",
+        "professor": "TIAGO DOS SANTOS DOMINGUES"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 10:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MAE240"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAE362",
+      "Nome": "Cálculo Avançado III",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Funções Holomorfas, Séries de Potências, Funções Elementares, O Logarítmo. Teorema de Cauchy, Fórmula Integral de Cauchy, Aplicação à determinação da Série de Taylor de uma Função Holomorfa. Singularidades. Zeros e Polos, Aplicações Locais, Princípio do Máximo, Cálculo dos Resíduos, Princípio do Argumento, Cálculo de Integrais Definidas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MAE231",
+       "MAE240"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAE470",
+      "Nome": "Análise Numérica",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Esquemas de Diferença para a Equação de Poisson. Estimativa de Erro e Convergência. Solução Direta de Sistemas Lineares - eliminação Gauss. Métodos Iterativos - Métodos de Relaxação e de Gradientes Conjugados . Equação Parabólica. Esquemas Implícitos e Explicítos em Diferenças Finitas. Estimativas de Estabilidade e Convergência. O Problema Misto de Valor Inicial e Condições de Fronteira. Equação Hiperbólica de Primeira Ordem. Esquemas em Diferenças Finitas Explícitas. Dispe     Difusão. Estabilidade e Convergência. Introdução à Tópicos Especiais: Malhas não Uniformes, Equação de Advecção e Difusão, Problemas não Lineares.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ICP121",
+       "MAE127",
+       "MAE231"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAE472",
+      "Nome": "Análise Funcional",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Exemplos de Espaços vetoriais de Dimensão Infinita. Equivalência entre Normas e Compacidade. Espaços de Hilbert: 1 2 e L 2. Projeção em um Convexo Fechado e Dualidade. Bases Ortonormais e Caracterização de Espaços de Hilbert. Séries de Fourier. Espaços Métricos Completos. Espaços de Banach: Teorema de Baire e consequências. Dualidade: Teorema de Hahn-Banach. Topologia. Compacidade.Topologia Fraca. Caracterização de Espaços Reflexivos. Operadores Compactos e Teorema Espectral. Espaços de Sobolev sobre R. Formulação de Problemas de valores de Contorno em Dimensão 1. Formulação de problemas de Valor Inicial em uma Dimensão Espacial.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MAE125",
+       "MAE240"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAE474",
+      "Nome": "Equações a Derivadas Parciais",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Equações de Primeira Ordem. Método das Características. Teorema de Cauchy-kovaleski. Equações do Calor, da Onda, do Potencial e de Schrödinger. Análise de Fourier. Transformada de Fourier.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MAE127",
+       "MAE231"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAE476",
+      "Nome": "Métodos Topológicos",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Variedades Diferenciáveis, Funções Diferenciáveis e Subvariedades. Espaço tangente. Partição da Unidade. Fibrados Vetoriais. Integração de Campos Vetoriais. Teorema de Sard. Fibrado de Jatos. Topologia C de Whitney. Transversalidade. Teorema de Mergulho de Whitney. Teoria de Morse. Teorema da Vizinhança Tubular.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MAE121",
+       "MAE240"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAE478",
+      "Nome": "Teoria dos Grafos",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução: Grafos e sub-grafos, Isomorfismos, Matrizes de Adjacência e Incidência, Caminhos e Ciclos. Árvores: Caracterização de árvores, Cortes de Arestas, Cortes de Vértices. Conectividade: Conectividade de vértices e Arestas, Blocos. Passeios de Euler e Ciclos de Hamilton. Emparelhamentos: Caracterização de Emparelhamentos Máximos, Emparelhamentos e Coberturas, Emparelhamentos Perfeitos. Coloração de Arestas: Índice Cromático e Teorema de Vizing. Conjuntos Independentes e Cliques, Teoria de Ramsey. Coloração de Vértices: Número Cromático, teorema de Brooks, Conjectura de Hajos, Polinômios Cromáticos. Grafos Planares: Grafos Planos, Grafos Duais, Pontes, Teorema de Kuratowkski, Teorema das 5 Cores. Grafos Direcionados: Caminhos e Ciclos Direcionados, Facho e Redução Transitivas, Conectividade de Dígrafos.\n",
+       "BibliografiaBasica": "1- Algorithm Design por Jon Kleinberg e Éva Tardos, Addison-Wesley, 2005.\n2- Teoria Computacional de Grafos por Jayme Szwarcfiter, Elsevier, 2018\n3- Introduction to Algorithms por Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, e Clifford Stein, MIT Press, 2022 (4a. edição).\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "15:00 - 17:00",
+        "professor": "MARCIA ROSANA CERIOLI"
+       },
+       {
+        "dia": "Qua",
+        "hora": "15:00 - 17:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAE512",
+      "Nome": "Fund Computação Científica II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Números aleatórios e pseudo-aleatórios. Testes estatísticos. Distribuições. Aritmética de ponto flutuante, de precisão  múltipla, racional, de polinômios e manipulação de Séries de Potências.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAWZ01",
+      "Nome": "Ativ Curricular Extensão I",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "0",
+      "Extensão": "120",
+      "Informação": {
+       "Info": "Atuação em atividades de extensão como programas, projetos, empresa júnior, eventos e cursos de extensão, presenciais ou à distância.\n___Bibliografia Recomendada___\n1- Bibliografia recomendada pelo coordenador da atividade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MAWZ03",
+      "Nome": "Ativ Curricular Extensão III",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "0",
+      "Extensão": "75",
+      "Informação": {
+       "Info": "Atuação em atividades de extensão como programas, projetos, empresa júnior, eventos e cursos de extensão, presenciais ou à distância.\n___Bibliografia Recomendada___\n1- Bibliografia recomendada pelo coordenador da atividade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     }
+    ]
+   },
+   "obrigatorias": 18,
+   "eletivas": 48,
+   "ano": "2003/1 a 9999/9"
+  }
+ ]
+}

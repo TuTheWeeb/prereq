@@ -1,0 +1,3149 @@
+{
+ "Ciências Biológicas - M": [
+  {
+   "materias": {
+    "1º Período": [
+     {
+      "Codigo": "NUP112",
+      "Nome": "Matemática para Biologia I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Principais funções reais e representação gráfica.Limites e continuidade em funções reais.Derivadas e funções diferenciáveis.Taxas de variação.Principais técnicas de diferenciação.A derivada no esboço do gráfico de funções.Instrumentação didático-pedagógica referente ao conteúdo pertinente aos ensinos de Ciências e Biologia nos níveis fundamental e médio.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NUP114",
+      "Nome": "Tópicos em Ciências Biológicas",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Apresentação das diferentes linhas de pesquisa desenvolvidas dentro do campus UFRJ/Macaé,que estejam inseridas nas diferentes ênfases oferecidas pelo curso de Bacharelado e na Licenciatura.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NUP116",
+      "Nome": "Leit Prod Textos Científicos",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Natureza da produção textual científica. Leitura e interpretação de textos científicos. Contexto de produção textual científica. Redação científica.\n",
+       "BibliografiaBasica": "1- ALVES, R.  Educação e construção do conhecimento. Porto Alegre: Artmed.2001.\n2- BARRAS, R.  Cientistas precisam escrever. São Paulo: Ed. T.A. Queiroz. 1994.\n3- CARDOSO, S. H. B.  Discurso e ensino. Belo Horizonte: Ed. Autêntica. 1999.\n",
+       "BibliografiaComplementar": "1- LUFT, C.P. 1992. Dicionário prático de Regência Nominal. São Paulo: Ática.1992.\n2- VIEIRA, C.L.  Pequeno Manual da Divulgação Científica. São Paulo: Ed. SPBC. 2008.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "13:00 - 16:00",
+        "professor": "FERNANDA ANTUNES GOMES DA COSTA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NUP118",
+      "Nome": "Fund Sistemática Biogeografia",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução à sistemática filogenética. Procedimentos metodológicos da sistemática. Apresentação das diferentes escolas de classificação biológica, situando o conhecimento dentro da evolução epistemológica da ciência. Os sistemas de classificação de animais e plantas. Fontes de evidência taxonômica. Coleções científicas: importância, tipos e manejo. Noções de nomenclatura botânica e zoológica. História da Biogeografia. Princípios de análise biogeográfica.\n",
+       "BibliografiaBasica": "1- AMORIM, D.S.  Fundamentos de Sistemática Filogenética. Ribeirão Preto: Ed. Holos. 2002.\n2- BROWN, J.H. & LOMOLINO, M.V.  Biogeografia. 2a ed. Ribeirão Preto: Ed. FUNPEC. 2006.\n3- NELSON, G. & PLATNICK, N.  Systematics and biogeography: cladistics and vicariance. New York: Ed. Columbia University Press. 1981.\n4- PAPAVERO, N.  Fundamentos práticos de taxonomia zoológica: coleções, bibliografia, nomenclatura. 2ªed. São Paulo: Ed. EDUNESP. 1994.\n",
+       "BibliografiaComplementar": "1- HENNIG, W., 1999. Phylogenetic Systematics. Ed. University of Illinois Press. Urbana.\n2- HULL, D. L. 1988. Science as a process: an evolutionary account of the social and conceptual development of science. Chicago:Ed. University of Chicago Press.\n3- HUMPHRIES, C. J. & PARENTI, L. R. (1984). Cladistic biogeography. Oxford:Ed. Clarendon Press.\n4- KITCHING, P. L. FOREY, C. J. Humphries e D. M. Williams 1998. Cladistics, the theory and practice of parsimony analysis. 2a ed. Ed. Oxford University Press. Oxford.\n5- KUHN, T. S. 2009. A estrutura das revoluções científicas, 9aed. São Paulo.Ed. Perspectiva.\n6- POPPER, K.R. 2007. A lógica da pesquisa científica, 19a ed. São Paulo: Cultrix.\nWILEY, E. O. 1981. Phylogenetics: The Theory and Practice of Phylogenetic Systematics. Ed. John Wiley & Sons. New York.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "17:00 - 21:30",
+        "professor": "FABIO DI DARIO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NUP110",
+      "Nome": "Química para Biologia",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Relação entre a Química e a Biologia. Introdução ao Laboratório Químico. Conceitos básicos de Ligação Química. Soluções. Equilíbrio Químico. Equilíbrio ácido-base. Reações de oxido redução. Compostos de coordenação. Introdução a Química Orgânica, Hidrocarbonetos. Conceitos básicos de estereoquímica. Biomoléculas. Instrumentação didático-pedagógica referente ao conteúdo.\n",
+       "BibliografiaBasica": "1- BROWN T.L.; LEMAY, H.E Jr.; BURSTEN, B.E. 2005. Química. A Ciência Central. 9ª ed. Ed. Pearson Prentice Hall, São Paulo.\n2- VOLLHARDT, K.P.C. & SCHORE, N.E. 2004. Química Orgânica: Estrutura e Função. 4ª ed. Ed. Bookman, Porto Alegre.\nBIBLIOGRAFIA Complementar\n1- ATKINS, P. & Jones, L. Princípios de Química: Questionando a Vida Moderna e o Meio Ambiente. 3a ed. Ed. Bookman. Porto Alegre.\n2- KOTZ, J.C. & TREICHEL Jr, P.M. 2005. Química Geral e Reações Químicas, Vol. 1-2. Ed. Cengage Learning. São Paulo.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 15:00",
+        "professor": "ANGELICA RIBEIRO SOARES"
+       },
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 15:00",
+        "professor": "MARIO SERGIO SCHULTZ"
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 16:00",
+        "professor": "ANGELICA RIBEIRO SOARES"
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 16:00",
+        "professor": "MARIO SERGIO SCHULTZ"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NUP113",
+      "Nome": "Práticas Ciências Biológicas",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Proporcionar aos discentes noções de biossegurança em laboratório de pesquisa.Preparo e análise de amostras para microscopia.Técnicas de coleta e preservação de material biológico.Manuseio e manutenção de equipamentos ópticos.Instrumentação didático-pedagógica referente ao conteúdo pertiente aos ensinos fundamental e médio.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NUP115",
+      "Nome": "Dinâmica da Terra",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Tópicos básicos e integrados de Geociências e Biociências. Componentes geológicos, climatológicos e oceanográficos relevantes para a compreensão da distribuição e do papel desempenhado pelos organismos nos ecossistemas. Práticas de campo em ecossistemas costeiros e a visão integrada da influência do ambiente físico e dos organismos na ciclagem de materiais e no fluxo de energia.\n",
+       "BibliografiaBasica": "1- BROWN, JH.. & LOMOLINO, M.V. 2006. Biogeografia. 2ª ed. Ribeirão Preto: Ed. Funpec.\n2- ODUM, E. P. 1988. Ecologia. Ed. Guanabara Koogan S.A. Rio de Janeiro.\n3- POPP, J.H. 1998. Geologia geral. Ed. LTC. Rio de Janeiro.\n4- PRESS, F.; SIEVER, R.; GROTZINGER, J.; THOMAS, J.H., 2006 Para entender a Terra, Porto Alegre: Menegat.\n5- RICKLEFS, R.E. 1993. A Economia da Natureza. 3ª ed. Rio de Janeiro: Guanabara Koogan.\n6- TOWNSEND, C.R.; BEGON, M. & HARPER, J.L. 2006. Fundamentos em Ecologia. 2a ed. Porto Alegre: Artmed.\n",
+       "BibliografiaComplementar": "1- BEGON, M.; HARPER, J.L. & Townsend, C.R.1996. Ecology. 3a ed. London: Blackwell Science.\n2- GUERRA, A.J.T. & CUNHA, S.B., 2000. Geomorfologia e Meio ambiente. Ed. Bertrand. Rio de Janeiro.\n3- SALGADO-LABOURIOU, M.L.1994. História Ecológica da Terra. 1ª ed. São Paulo: Edgard Blücher.\n4- TEIXEIRA, W.; TOLEDO, M.C.M.; FAIRCHILD, T.R.; TAIOLOI, F. 2000. Decifrando a Terra. Oficina de Texto/USP. São Paulo.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "17:00 - 20:30",
+        "professor": "CRISTINA ALEDI FELSEMBURGH"
+       },
+       {
+        "dia": "Sab",
+        "hora": "13:00 - 15:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NUP117",
+      "Nome": "Estudos Sócioantropológicos",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A seleção natural e a mente humana. O conceito do superorgânico na Antropologia. A construção da visão do sociocultural e a gênese do pensamento socio-antropológico no contexto da modernidade: positivismo científico, expansão colonial, urbanismo e capitalismo (hegemonia do pensamento positivista). Evolução social e a questão de raça: as experiências africanas e amerindígenas sob colonialismo, no Brasil e nas Américas. De raça a cultura: Galton, Spencer, Tylor e Boas. O método etnográfico: a construção do outro primitivo. Etnocentrismo e relativismo cultural. Marx, Durkheim e Weber: as bases clássicas do pensamento sociológico. Formas modernas de desigualdade e discriminação: raça e etnia; gênero; classe. A pluralidade sociocultural brasileira: algumas expressões.\n",
+       "BibliografiaBasica": "1- HAVILAND et al. 2011. Princípios da Antropologia. São Paulo: Cengage Learning\n2- HARARI, Y.N. 2015. Sapiens: Uma Breve História da Humanidade. São Paulo: LPM.\n3- LARAIA, R. 2005. Cultura: Um Conceito Antropológico. Ed. Jorge Zahar. Rio de Janeiro.\n4- LÉVI-STRAUSS, C. 2009. ?Natureza e Cultura?, Revista Antropos. V3, Ano 2.\n5- MINNER, H. 1956. ?O Ritual do Corpo entre os Sonacirema?. Publicação original: ?Body ritual among the Sonacirema?, American Anthropologist, Vol. 58, n° 3.\n6- QUINTANEIRO, T., et. al. 1995. Um Toque de Clássicos: Durkheim, Marx e Weber. Ed. UFMG. Belo Horizonte.\n",
+       "BibliografiaComplementar": "1- GIDDENS, A. 2006. Sociologia. Porto Alegre: Artmed.\n2- MARX, K. 1979. Marx: Sociologia. Otavio, I. (org.). São Paulo: Ática.\n3- DURKHEIM, E.: 1992. Sociologia: Coleção Grandes Cientistas Sociais. n.10. São Paulo: Ática.\n4- WEBER, M. 1999. Economia e Sociedade. Ed. UnB. Brasília.\n5- GOULD, S. J. 1991. A falsa Medida do Homem. São Paulo: Martins Fontes.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "17:00 - 21:30",
+        "professor": "THADDEUS GREGORY BLANCHETTE"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "2º Período": [
+     {
+      "Codigo": "NUP122",
+      "Nome": "Diversidade Biológica",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Esquemas contemporâneos de classificações dos seres vivos. Os domínios da vida na Terra e a diversidade de Bacteria e Archaea. Classificação dos eucariotos. Sistemática e biologia de eucariotos unicelulares.\n",
+       "BibliografiaBasica": "1- EVERT, RF & EICCHORN, SE. 2014. Raven - Biologia Vegetal. 8ª ed. Rio de Janeiro: Guanabara Koogan.\n2- REVIERS, B. de. 2006. Biologia e Filogenia das Algas. Porto Alegre: Artmed.\n3- SCHWARTZ, KV & MARGULIS, L. 2001. Cinco Reinos. Rio de Janeiro: Guanabara Koogan.\n4- MADIGAN, MT, MARTINK, JM, DUNLAP, PV & CLARK, DP. 2010. Microbiologia de Brock. 12ª ed. Porto Alegre: Artmed.\n5- LOURENÇO, S.O. 2013. Glossário de Protistologia: Verbetes Utilizados No Estudo de Protozoários, Algas e Protistas Fungóides. 1ª ed Technical Books.\n",
+       "BibliografiaComplementar": "1- BRUSCA, R.C. & BRUSCA, G.J. 2007. Invertebrados 2ª ed. Rio de Janeiro: Guanabara Koogan.\n2- CURTIS, H. 1977. Biologia. 2ªed. Rio de Janeiro: Guanabara Koogan.\n3- TISSOT-SQUALLI, M.L. 2006. Introdução a Botânica Sistemática. Ed. Unijui. Ijuí.\n4- VALENTINE, J. W. 2004. On the Origin of Phyla. Chicago: The University Chicago Press.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "17:00 - 19:00",
+        "professor": "JOSE LUCIANO NEPOMUCENO DA SILVA"
+       },
+       {
+        "dia": "Ter",
+        "hora": "17:00 - 19:00",
+        "professor": "CARLOS FREDERICO DELUQUI GURGEL"
+       },
+       {
+        "dia": "Qua",
+        "hora": "17:00 - 20:30",
+        "professor": ""
+       },
+       {
+        "dia": "Qua",
+        "hora": "17:00 - 20:30",
+        "professor": "JOSE LUCIANO NEPOMUCENO DA SILVA"
+       }
+      ],
+      "Requisitos": [
+       "NUP118"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NUP124",
+      "Nome": "Zoologia I",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Origem, Evolução e Introdução ao Metazoa. Bauplan, biologia e aspectos ecológicos e comportamentais dos Filos Porifera, Cnidaria, Ctenophora, Placozoa. Introdução aos Bilateria; Platyhelminthes. Blastocelomados (Gastrotricha, Nematoda, Nematomorpha, Priapulida, Kinorrhyncha, Loricifera, Acanthocephala, Rotifera, Cycliophora, Nemertea) e Filo Annelida.\n",
+       "BibliografiaBasica": "1- BRUSCA, R.C. & BRUSCA, G.J. 2007. Invertebrados 2ª ed. Rio de Janeiro: Guanabara Koogan.\n2- RUPPERT, E.E.; FOX, R.S. & BARNES, R.D. 2005. Zoologia dos Invertebrados. 7ª Ed. São Paulo: Ed. Roca.\n",
+       "BibliografiaComplementar": "1- LARSON, A.; HICKMAN Jr., C. & ROBERTS, L. 2004. Princípios Integrados de Zoologia. 11ª ed. Rio de Janeiro: Guanabara Koogan.\n2- MEGLITSCH, P. 1967. Invertebrate Zoology. New York: Oxford University Press.\n3- MEGLITSCH, P. A & SCHRAM, F. R. 1991. Invertebrate Zoology. 3th ed. New York: Oxford University Press.\n4- VALENTINE, J. W. 2004. On the Origin of Phyla. Chicago: The University Chicago Press.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "15:00 - 17:00",
+        "professor": "CARLA ZILBERBERG"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 17:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "NUP122"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NUP126",
+      "Nome": "Ecologia Geral",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estrutura, fatores reguladores e dinâmica de populações, comunidades e ecossistemas. Teorias ecológicas. Transferência de energia nos ecossistemas. Sucessão ecológica. Ecologia evolutiva. Diversidade biológica. Ferramentas para o estudo de populações, comunidades e ecossistemas.\n",
+       "BibliografiaBasica": "1- BROWN, JH.. & LOMOLINO M.V. 2006. Biogeografia. 2ª ed. Ribeirão Preto: Ed. Funpec.\n2- ODUM, E. P. 1988. Ecologia. Rio de Janeiro: Guanabara Koogan.\n3- RICKLEFS, R.E. 1993. A Economia da Natureza. 3ª ed. Rio de Janeiro: Guanabara Koogan.\n",
+       "BibliografiaComplementar": "1- BEGON, M.; HARPER,J.L. & TOWNSEND, C.R.1996. Ecology. 3a ed. London: Blackwell Science.\n2- ESTEVES, F. A. 1998. Fundamentos de Limnologia, 2ªed. Rio de Janeiro: Interciência.\n3- TOWNSEND, C.R.; BEGON, M. & HARPER, J.L. 2006. Fundamentos em Ecologia. 2ªed. Porto Alegre: Artmed.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "17:00 - 19:00",
+        "professor": "RODRIGO LEMES MARTINS"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 17:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "NUP115"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NUP121",
+      "Nome": "Metodologia Científica",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Ciência e epistemológicas em ciências; indutivismo e dedutivismo. Conhecimento do método científico e suas bases (princípio da falseabilidade e o método hipotético dedutivo). Estrutura de teorias científicas; conceito e fundamentação. Normas e formatação de trabalho científico. Introdução à Bioética: histórico, princípios fundamentais; condutas.\n",
+       "BibliografiaBasica": "1- ALVES, R. Filosofia da Ciência: introdução ao jogo e suas regras. São Paulo: Ed. Loyola. 2000.\n2- COSTA, S. & DINIZ, D. Ensaios: Bioética. São Paulo: Ed. Brasiliense. 2006.\n3- GALLIANO, A. G. 1986. O método científico: teoria e prática. São Paulo: Ed. HARBRA. 1986.\n4- SEVERINO, A.J. Metodologia do trabalho científico [livro eletrônico]. São Paulo: Cortez. 2013.\n",
+       "BibliografiaComplementar": "Artigos e textos variados\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "15:00 - 17:00",
+        "professor": "DANIEL BASILIO ZANDONADI"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NUP123",
+      "Nome": "Biologia Celular",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Evolução celular. Membranas biológicas. Transporte por membranas. Citoesqueleto. Junções celulares, matriz extracelular e parede celular. Organelas do metabolismo oxidativo. Núcleo, cromatina e subcompartimentos nucleares. O fluxo da informação genética nas células. Síntese e degradação de proteínas. Vias exocítica e endocítica. Sinalização celular. Ciclo celular, divisão, diferenciação e morte programada.\n",
+       "BibliografiaBasica": "1- ALBERTS, B.; JOHNSON, A. & WALTER, P. 2010. Biologia Molecular da Célula. 5a ed. Porto Alegre: Artmed.\n2- ALBERTS, B.; BRAY, D.; JOHNSON, A.; LEWIS, J.; RAFF, M.; ROBERTS, K. & WALTER, P. 2006. Fundamentos de Biologia Celular. 2ª Ed. Porto Alegre: Artmed.\n",
+       "BibliografiaComplementar": "1- COOPER, G.M. & HAUSMAN, R.E. 2007. A Célula: Uma Abordagem Molecular. 3ª edição, Porto Alegre: Artmed.\n2- LODISH, H.; BERK, A.; MATSUDAIRA, P.; KAISER, C.; KRIEGER, M.; SCOUT, M.P.; Zipursky, L. & DARNELL, J. 2005. Biologia Celular e Molecular. 5ª Edição, Porto Alegre: Artmed.\n3- POLLARD, T.D. & EARNSHAW, W.C. 2006. Biologia Celular. 1ª edição, Rio de Janeiro: Elsevier.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 16:00",
+        "professor": "MIRELLA PUPO SANTOS"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NUP125",
+      "Nome": "Matemática para Biologia II",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Integração e o Teorema Fundamental do Cálculo.Principais técnicas de Integração.A integral no cálculo de áreas.Introdução às equações diferenciais ordinárias e aplicações em Ciências Biológicas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "NUP112"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NUP127",
+      "Nome": "Bioquímica Geral",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução à bioquímica e seus fundamentos. Propriedades da água; conceito de pH, soluções tampão e fundamentos de termodinâmica. Estrutura e função dos aminoácidos. Proteínas e suas unidades constituintes. Enzimas: conceitos e cinética enzimática. Estrutura e função de carboidratos. Estrutura e função de lipídios e lipídios de membrana. Nucleotídeos e ácidos nucléicos. Vitaminas.\n",
+       "BibliografiaBasica": "1- LEHNINGER, A.L., NELSON, D.L. & COX, M.M. Princípios de bioquímica. 4ª ed. São Paulo: Ed. Sarvier. 2005.\n2- BERG, J.M., STRYER, L. & TYMOCZKO, J.L. Bioquímica. (7a Edição). 2014.\n",
+       "BibliografiaComplementar": "1- DEVLIN,T.M. Manual de Bioquímica Com Correlações Clínicas - 7ª Ed. (2011).\n2- MATHEWS, CHRISTOPHER K. Bioquímica. 3a Edição (2013).\n5- VOET, D. & VOET, J.G. Bioquímica - 4ª Ed. (2013).\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 17:00",
+        "professor": "ELANE DA SILVA RIBEIRO"
+       },
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 17:00",
+        "professor": "FLAVIA BORGES MURY"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "3º Período": [
+     {
+      "Codigo": "NUP232",
+      "Nome": "Biologia Molecular",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estrutura e função do DNA e do RNA. Organização do genoma em células procariotas, eucariotos (vegetais e animais). Mutação e reparo do DNA. Transcrição, processamento do RNA, tradução e o código genético. Sistemas de recombinação e transposição do DNA. Regulação gênica de procariotos e eucariotos.\n",
+       "BibliografiaBasica": "1- GRIFFITHS, A.J.F.; MILLER, J.H.; Suzuki, D.T.; LEWONTIN, R.C. & GELBART, W.M. 2009. Introdução à Genética. 7ªed. Rio de Janeiro: Guanabara Koogan.\n2- LEWIN, B. 2009. GENES IX. 9ª ed. Porto Alegre: Artmed.\n",
+       "BibliografiaComplementar": "1- ALBERTS, B.; JOHNSON, A. & WALTER, P. 2010. Biologia Molecular da Célula. 5a ed. Porto Alegre: Artmed.\n2- DEVLIN, T.M. 2007. Manual de Bioquímica com Correlações Clínicas. São Paulo: Edgard Blücher.\n3- OSÓRIO-BORGES, M. R. & ROBINSON, W. M. 2002. Genética Humana, 2ªed. Porto Alegre: Artmed.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "13:00 - 16:00",
+        "professor": "ELDO CAMPOS"
+       }
+      ],
+      "Requisitos": [
+       "MCB123"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NUP234",
+      "Nome": "Biologia Tecidual",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo dos tecidos básicos que compõem os diferentes órgãos e sistemas. Correlações histofisiológicas e aspectos histoquímicos. Classificação dos tecidos e análise de suas localizações gerais nos órgãos que compõem. Instrumentação didático-pedagógica referente ao conteúdo pertinente aos ensinos fundamental e médio.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "NUP123"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NUP236",
+      "Nome": "Bioquímica do Metabolismo",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Teórica: introdução ao metabolismo intermediário; bioenergética; oxidações biológicas; glicídeos: estrutura e metabolismo; fotossíntese; lipídios: estrutura e metabolismo; integração metabólica; controle do metabolismo. Prática: crescimento celular; fermentação anaeróbica; extração, hidrólise ácida e dosagem de glicogênio. Oxidações biológicas; Fotossíntese.\n",
+       "BibliografiaBasica": "1- BERG, Jeremy M.; STRYER, Lubert; TYMOCZKO, John L. 2014. Bioquímica. 7. ed. Rio de Janeiro: Guanabara Koogan.\n2- Nelson, David L.; COX, Michael M.2014. Princípios de bioquímica de Lehninger. Porto Alegre: Artmed, 2011.\n",
+       "BibliografiaComplementar": "1- DEVLIN, T.M. 2007. Manual de Bioquímica com Correlações Clínicas. São Paulo: Edgard Blücher.\n2- VOET, Donald; VOET, Judith G. 2013. Bioquímica. 4. ed. Porto Alegre, Artmed.\nArtigos científicos relacionados aos tópicos das aulas para discussão.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "17:00 - 20:30",
+        "professor": "JOSE ROBERTO DA SILVA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "17:00 - 20:30",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "NUP127"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NUP231",
+      "Nome": "Zoologia II",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Origem, Evolução, Bauplan, biologia e aspectos ecológicos e comportamentais dos grupos chaves de Mollusca, Tardigrada, Onychophora, Arthropoda, Sipuncula, Echiura, Lofoforados e Echinodermata.\n",
+       "BibliografiaBasica": "1- BRUSCA, R.C. & BRUSCA, G.J. 2007. Invertebrados 2ª ed. Rio de Janeiro: Guanabara Koogan.\n3- RUPPERT, E.E.; FOX, R.S. & BARNES, R.D. 2005. Zoologia dos Invertebrados. 7ª Ed. São Paulo: Ed. Roca.\n",
+       "BibliografiaComplementar": "1- LARSON, A.; HICKMAN Jr., C. & ROBERTS, L. 2004. Princípios Integrados de Zoologia. 11ª ed. Rio de Janeiro: Guanabara Koogan.\n2- MEGLITSCH, P. 1967. Invertebrate Zoology. New York: Oxford University Press.\n3- MEGLITSCH, P. A & SCHRAM, F. R. 1991. Invertebrate Zoology. 3th ed. New York: Oxford University Press.\n4- VALENTINE, J. W. 2004. On the Origin of Phyla. Chicago: The University Chicago Press.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "17:00 - 20:30",
+        "professor": "VINICIUS ALBANO ARAUJO"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 15:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "NUP124"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NUP233",
+      "Nome": "Biologia do Desenvolvimento",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo da diferenciação dos tecidos embrionários desde a fertilização até a quarta semana do desenvolvimento humano. Introdução aos aspectos evolutivos da embriogênese dos diversos grupos de metazoários. Instrumentação didático-pedagógica referente ao conteúdo pertinente aos ensinos fundamental e médio.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "NUP123"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NUP235",
+      "Nome": "Bioestatística",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Investigação científica, Indução e Dedução, Introdução à Estatística, Amostragem, Tipos de variáveis, Tabelas e Gráficos, Medidas de tendência central, Medidas de variabilidade, Correlação, Regressão Simples, Probabilidade, Distribuição binomial, Distribuição de Poisson, Distribuição normal, Estimativas de parâmetros, Teste de hipótese, Comparação de vários grupos (Análise de variância).\n",
+       "BibliografiaBasica": "1- Vieira, S. Introdução à Bioestatística. 4ed, Editora Elsevier. São Paulo.\n2- Pagano, M & Gauvreau, K. 2003. Princípios de Bioestatística. Editora Cenage Learning.\n3- Quinn, G.P. and M.J. Keough. 2002. Experimental Design and Data Analysis for Biologists. Cambridge University Press, Cambridge.\n",
+       "BibliografiaComplementar": "1- Dalgard, P. Introductory Statistics with R. 2008. Springer, New York, USA.\n2- R Development Core Team. http://www.Rproject.org\n3- Underwood. A.J. Experiments in Ecology. Their logical design and interpretation using analysis of variance. Cambridge University Press.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "13:00 - 17:00",
+        "professor": "CARLOS ALBERTO DE MOURA BARBOZA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NUP237",
+      "Nome": "Didática",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Pressupostos e características da Didática. O contexto da prática pedagogica. A identidade da profissão docente. A dinâmica da sala de aula. A construção de uma proposta de ensino-aprendizagem. A vivência e o aperfeiçoamento da Didática.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "4º Período": [
+     {
+      "Codigo": "NUP242",
+      "Nome": "Genética Básica",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução à genética. Bases citológicas da Herança. Herança Mendeliana e suas extensões. Herança relacionada ao sexo. Genes ligados e mapas de ligação. Herança poligênica e efeito do ambiente. Herança não-Mendeliana. Mutações cromossômicas e gênicas.\n",
+       "BibliografiaBasica": "1- ALBERTS, B.; JOHNSON, A. & WALTER, P. 2010. Biologia Molecular da Célula. 5a ed. Porto Alegre: Artmed.\n2- BROWN, T.A. 2009. Um Enfoque Molecular. Ed. Rio de Janeiro: Guanabara Koogan.\n2- GRIFFITHS, A.J.F.; WESSLER, S.R.; CARROLL, S.B. & DOEBLEY, J. 2016. Introdução à genética. 11ª ed. Rio de Janeiro: Guanabara Koogan.\n3- OSÓRIO-BORGES, M. R. & ROBINSON, W. M. 2013. Genética Humana, 3ªed. Porto Alegre: Artmed.\n",
+       "BibliografiaComplementar": "1- PIERCE, B. 2016. Genética: Um enfoque conceitual. 5a. Guanabara Koogan, Rio de Janeiro.PIERCE, B. 2016. Genética: Um enfoque conceitual. 5a. Guanabara Koogan, Rio de Janeiro.\n2- HOFFE, P.A. 2000. Genética Médica Molecular. Rio de Janeiro: Guanabara Koogan.\n3- LEWIN, B. 2014. Genes XI. Ed. Artmed Ltda. Porto Alegre.\n4- STRACHAN, T. & READ, A.P. 2013. Genética Molecular Humana. 4ª. Ed. São Paulo: Artmed.\n5- SNUSTAD, D.P. & SIMONS, M.J. 2017. Fundamentos de Genética. 7a. Guanabara Koogan, Rio de Janeiro.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 16:00",
+        "professor": "LAURA ISABEL WEBER DA CONCEICAO"
+       }
+      ],
+      "Requisitos": [
+       "NUP123"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NUP244",
+      "Nome": "Anatomia Humana",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Organização anatômica dos sistemas locomotor, nervoso, cárdio-respiratório, urogenital e digestório e endócrino através de um estudo teórico e prático, com observação das relações anatômicas, vascularização e inervação dos principais órgãos que compõem estes sistemas.\n",
+       "BibliografiaBasica": "1- NETTER, F. H. 2000. Atlas de Anatomia Humana Netter ? 4ª Edição. Editora: Artmed. Porto Alegre.\n2- PUTZ, R.; PABST, R. 2006. Atlas de Anatomia Humana Sobbotta ? 2 volumes ? 22 ª edição. Rio de Janeiro: Guanabara Koogan.\n3- WILLIAMS, P.L.; DYSON, M.; WARWICK, R. 2005. Gray?s Anatomia para estudantes ? 1ª edição. Editora: Elsevier.\n",
+       "BibliografiaComplementar": "1- DANGELO, J.G. & FATTINI, C.A. 2007. Anatomia Humana Sistêmica e Segmentar. 3ª ed. São Paulo:  Atheneu.\n3- SPENCE, A.P. 1991. Anatomia Humana Básica. 2ª ed. São Paulo: Ed. Manole.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "17:00 - 20:30",
+        "professor": "CINTIA MONTEIRO DE BARROS"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NUP246",
+      "Nome": "Algas e Plantas Avasculares",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Origem e evolução dos seres autotróficos. Cianobactérias, algas e briófitas: Diferenciação de filos e classes atualmente representados; Aspectos citológicos, bioquímicos, morfológicos, anatômicos, reprodutivos e ciclos de vida; Estratégias/adaptações ao ambiente; Importância econômica e ecológica; Táxons de ecossistemas do Rio de Janeiro. Coleta e preservação dos grupos apresentados.\n",
+       "BibliografiaBasica": "1- EVERT, R.F. & EICHHORN, S.E. 2014. Raven - Biologia vegetal. 8aed. Rio de Janeiro: Guanabara Koogan.\n2- NARBORS, M.W. 2012. Introdução à Botânica. São Paulo: Roca.\n3- OLIVEIRA, E.C. de. 2001. Introdução à Biologia Vegetal. 2a ed. Ed. Universidade de São Paulo. São Paulo.\n4- REVIERS, B. de. 2006. Biologia e filogenia de algas. Porto Alegre: Artmed.\n",
+       "BibliografiaComplementar": "1- GRAHAM, L.E. & WILCOX, L.W. 2008. Algae. 2aed. Ed. Prentice- Hall.\n2- SCHOFIELD, W.B. 1985. Introduction to Bryology. New Jersey: The Blackburn Press.\n3- SMITH, G.M. 1971. Botânica criptogâmica. Volume I. Algas e Fungos. Lisboa: Calouste Gulbenkian.\n4- SMITH, G.M. 1979. Botânica criptogâmica. Volume II. Briófitas e Pteridófitas. Lisboa: Calouste Gulbenkian.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "17:00 - 21:30",
+        "professor": "CARLOS FREDERICO DELUQUI GURGEL"
+       }
+      ],
+      "Requisitos": [
+       "NUP122"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NUP241",
+      "Nome": "Fisiologia Humana Comparada",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo teórico da função dos sistemas nervoso, respiratório, cardiovascular, digestivo, renal, urinário, endócrino e reprodutor, destacando a fisiologia integrativa, o controle neural do comportamento, o controle cardiovascular, o controle das funções digestivas, respiratórias e hidrossalinas, o crescimento e a reprodução.\n",
+       "BibliografiaBasica": "1- AIRES, M.M. 2012. Fisiologia. 4ªed. Rio de Janeiro: Guanabara Koogan.\n2- CURI, R. & PROCÓPIO, J. 2009. Fisiologia Básica. 1ª Ed. Rio de Janeiro: Guanabara Koogan.\n3- WALTER F. BORON & EMILE L. BOULPAEP. Fisiologia Médica. 2ªed. Elsevier.\n4- KOEPPEN, B. & STATON, B.A. 2009. Fisiologia: Berne e Levy. 6ªed. Ed Elsevier. Rio de Janeiro\n",
+       "BibliografiaComplementar": "1- GANONG, W.F. 2006. Fisiologia Médica. 22ª ed. São Paulo: McGraw Hill.\n2- JACOB, S.W.; FRANCONE, C.A. & LOSSON, W.J. 1990. Anatomia e Fisiologia 3- Humana, 4ª ed. Rio de Janeiro: Guanabara Koogan.\n3- TAVARES, P. 1981. Fisiologia Humana. São Paulo: Atheneu.\n4- VANDER, A.J.; SHERMAN, J.H. & LUCIANO, D.S. 1996. Fisiologia Humana, São Paulo: McGraw Hill.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 17:00",
+        "professor": "JACKSON DE SOUZA MENEZES"
+       },
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 17:00",
+        "professor": "ISABELA VILLARINHO DE PAULA LOBO"
+       }
+      ],
+      "Requisitos": [
+       "NUP236"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NUP243",
+      "Nome": "Pesq em Edu e Ensi de Ciências",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O campo de pesquisa em Educação. Histórico da pesquisa em Ensino de Ciências. Metodologias da pesquisa em Educação. Contribuições das pesquisas em educação ao ensino.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NUP245",
+      "Nome": "Física para Biologia",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Forças da Natureza, Energia, Fluidos, Fenômenos Ondulatórios, Ótica Geométrica, Fenômenos Elétricos e Magnéticos, Física da Radiação.\n",
+       "BibliografiaBasica": "1- HALLIDAY, D. & RESNICK, R. 2009. Fundamentos de Física v.1-4. 8aed. Ed. Editora LTC (Grupo GEN). Rio de Janeiro.\n2- OKUNO E.; CALDAS, I.C. & CHOW, C. 1986. Física Para Ciências Biológicas e Biomédicas. Ed. Harbra. São Paulo.\n",
+       "BibliografiaComplementar": "1- NUSSENZVEIG, H.M. 1999. Curso de Física Básica. v.1-4. Ed. Edgard Blücher. São Paulo.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 16:00",
+        "professor": "PAULA DEBIASI"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NUP247",
+      "Nome": "Zoologia III",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Filogenia, origem e caracterização de Pharyngotremata, com ênfase em Chordata e subgrupos. Morfologia, biologia e diversidade em Tunicata, Cephalochordata e Craniata. Evolução, anatomia comparada e biologia das principais linhagens recentes de Craniata: Myxiniformes, Petromyzontiformes, Chondrichthyes, Actinopterygii, Sarcopterygii, Lissamphibia, Mammalia, Sauropsida, Lepidosauria, Crocodylia e Aves.\n",
+       "BibliografiaBasica": "1- BENEDITO, E. 2015. Biologia e ecologia dos vertebrados. São Paulo: Ed. Roca.\n2- HILDEBRAND, M. & GOSLOW, G. 2006. Análise da estrutura dos vertebrados. 2ªed. São Paulo: Atheneu.\n3- POUGH, F.H.; Janis, C.M. & HEISER, J.B. 2008. A vida dos vertebrados. 4a ed. São Paulo: Atheneu.\n4- RUPPERT, E.E.; Fox, R.S. & Barnes, R.D. 2005. Zoologia dos Invertebrados. 7ªed. São Paulo: Ed. Roca.\n",
+       "BibliografiaComplementar": "1- FIGUEIREDO, J.L.; MENEZES, N.A. 1978, 1980, 2000. Manual de peixes marinhos do sudeste do Brasil, Vols. II (Teleostei(1)), III (Teleostei (2)) e VI (Teleostei(5)). Museu de Zoologia da Universidade de São Paulo, São Paulo. Download disponível em http://www.mz.usp.br\n2- MENEZES, N.A.; FIGUEIREDO, J.L. 1980, 1985. Manual de peixes marinhos do sudeste do Brasil, Vols. IV (Teleostei (3)) e V (Teleostei (4)). Museu de Zoologia da Universidade de São Paulo, São Paulo. Download disponível em http://www.mz.usp.br/collab/ictio.html#pub.\n3- SICK, H. 1997. Ornitologia brasileira. 3ª ed. Ed. Nova Fronteira. Rio de Janeiro.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "17:00 - 20:30",
+        "professor": "MICHAEL MAIA MINCARONE"
+       },
+       {
+        "dia": "Ter",
+        "hora": "17:00 - 20:30",
+        "professor": "FABIO DI DARIO"
+       },
+       {
+        "dia": "Qui",
+        "hora": "17:00 - 20:30",
+        "professor": ""
+       },
+       {
+        "dia": "Qui",
+        "hora": "17:00 - 20:30",
+        "professor": "MICHAEL MAIA MINCARONE"
+       }
+      ],
+      "Requisitos": [
+       "NUP122"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "5º Período": [
+     {
+      "Codigo": "NUP352",
+      "Nome": "Microbiologia Geral e Médica",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Características gerais de bactérias e vírus. Classificação; multiplicação; componentes estruturais; metabolismo; genética; diagnóstico clínico e laboratorial; isolamento e propagação; prevenção e tratamento; mecanismos de patogenicidade; além de abordar os principais vírus e bactérias patogênicos ao ser humano. Instrumentação didático-pedagógica referente ao conteúdo pertinente aos ensinos fundamental e médio.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "NUP122"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NUP354",
+      "Nome": "Evolução",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "História da ?Biologia Comparada?. A origem das espécies e das adaptações. Teoria Sintética da Evolução e seus desdobramentos nas diversas disciplinas da Biologia.\n",
+       "BibliografiaBasica": "1- BARTON, N.H.; BRIGGS, D.E.G.; EISEN, J.A.; GOLDSTEIN, D.B.; PATEL, N.H. 2007. Evolution. Ed. CSHL Press. New York.\n3- FUTUYMA, D. 1996. Biologia Evolutiva. Ed. Sociedade Brasileira de Genética. Ribeirão Preto.\n3- RIDLEY, M. 2003. Evolução. Porto Alegre: Artmed\n",
+       "BibliografiaComplementar": "1- AVISE, J.C. 2000. Phylogeography: the history and formation of species. Ed. Harvard University Press. UK.\n2- BROWN, JH.; LOMOLINO, M.V. 2006. Biogeografia. 2ª ed. Ribeirão Preto: Ed. Funpec.\n3- DAWKINS, R. 1989. O gene egoísta. Ed. Itatiaia. São Paulo.\n4- FREEMAN, S.; HERRON, J. C. 2009. Análise Evolutiva. Porto Alegre: Artmed.\n5- GRIFFITHS, A.J.F., et al. 2005. An Introduction to Genetic Analysis. 8ª ed. Ed. W. H. Freeman. New York.\n5- PAPAVERO, N.; Pujol-Luz, J.R. 2000. História da Biologia Comparada: desde o gênesis até o fim do Império Romano do Ocidente. Ed. Holos. Ribeirão Preto.\n6- TEMPLETON, A. R. 2006. Population Genetics and Microevolutionary Theory. Ed. John Wiley & Sons, Inc. New York.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "17:00 - 19:00",
+        "professor": "PABLO RODRIGUES GONCALVES"
+       },
+       {
+        "dia": "Sex",
+        "hora": "13:00 - 16:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "NUP242"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NUP357",
+      "Nome": "Filosofia da Educação",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 17:00",
+        "professor": "GUSTAVO ARANTES CAMARGO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NUP351",
+      "Nome": "Introdução à Biotecnologia",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Abordagem crítica de benefícios de métodos e técnicas biotecnológicas utilizados para disponibilização de recursos vegetais para a sociedade. Conhecimentos específicos sobre Biotecnologia e Biologia Molecular, suas implicações e aplicações na agricultura e indústria, não somente referente às técnicas utilizadas, mas também quanto aos aspectos éticos, ambientais e de biossegurança envolvidos.\n",
+       "BibliografiaBasica": "1- LEWIN, B. 2009. Genes IX. 9ª ed. Ed. Artmed. Porto Alegre.\n2- TORRES, A.C.; CALDAS, L.S. & BUZZO, J.A. 1998. Cultura de Tecidos e Transformação Genética de Plantas. v.1. Ed. Embrapa. Brasília.\n3- TORRES, A.C.; CALDAS, L.S. & BUZZO, J.A. 1999. Cultura de Tecidos e Transformação Genética de Plantas. v.2. Ed. Embrapa. Brasília.\n",
+       "BibliografiaComplementar": "1- GEORGE, E.F.; HALL, M.A. & DE KLERK, G.J. 2008. Plant propagation by tissue culture. 3a ed. Ed. Springer. Dordrecht.\n2- GRIFFITHS, A.J.F.; MILLER, J.H.; SUZUKI, D.T.; LEWONTIN, R.C. & GELBART, W.M. 2009. Introdução à Genética. 7ª ed. Ed. Guanabara Koogan. Rio de Janeiro.\n3- GUERRA M.P. & NODARI, R.O. 2007. Apostila de Biotecnologia vegetal. Apostila de aula. [http://www.cca.ufsc.br/lfdgv/Apostila.htm].\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 17:00",
+        "professor": "MARCO ANTONIO LOPES CRUZ"
+       }
+      ],
+      "Requisitos": [
+       "NUP242"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NUP353",
+      "Nome": "Micologia",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Definições, terminologia, materiais e metodologia de aplicação geral em micologia. Características gerais dos fungos: estruturas somáticas, nutrição, reprodução assexuada, sexuada e parassexuada, históricos de vida. Classificação e evolução. Importância das principais categorias de fungos na agricultura, indústria, alimentação, medicina e na biosfera\n",
+       "BibliografiaBasica": "1- CARLILE, M.J. & WATKINSON, S.C. 1996. The Fungi. 3 ed. London: Academic Press. 482 p.\n2- EVERT, R.F. & EICHHORN, S.E. 2014. Raven - Biologia vegetal. 8aed. Rio de Janeiro: Guanabara Koogan.\n3- SILVEIRA, V.D. 1995. Micologia. 5ª ed. Rio de Janeiro: Âmbito Cultural. 332 p.\n",
+       "BibliografiaComplementar": "Artigos variados\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 16:00",
+        "professor": "VINICIUS RESENDE BUENO"
+       }
+      ],
+      "Requisitos": [
+       "NUP122"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NUP355",
+      "Nome": "Plantas Vasculares",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Relações filogenéticas nas plantas vasculares e classificação. Estudo da organização morfológica, ciclos de vida e diversidade das plantas vasculares (traqueófitas), incluindo análise sobre evolução, ecologia, estratégias reprodutivas e importância econômica. Identificação taxonômica.\n",
+       "BibliografiaBasica": "1- EVERT, R.F. & EICHHORN, S.E. 2014. Raven - Biologia vegetal. 8aed. Rio de Janeiro: Guanabara Koogan.\n2- SOUZA, V. C.; FLORES, T. B.; LORENZI, H. 2013. Introdução à Botânica: morfologia. São Paulo: Instituto Plantarum de Estudos da Flora. 224p.\n3- JUDD, W.S., CAMPBELL, C.S.; KELLOG, E. A.; STEVENS, P. F. & DONOGHUE, M.D. 2002. Sistemática Vegetal: um enfoque filogenético. 3a ed. Artmed.\n4- SOUZA, V.C. & LORENZI, L. 2005. Botânica Sistemática: guia ilustrado para identificação das famílias de Angiospermas da flora brasileira, baseado em APGII. São Paulo, Instituto Plantarum. 640p.\n5- VIDAL, W.N. & VIDAL, M.R.R. 2005. Botânica ? Organografia. 4a. ed. Ed. Imprensa Universitária da Universidade Federal de Viçosa. Viçosa.\n",
+       "BibliografiaComplementar": "1- MARCHIORI, J.N.C. 1996. Dendrologia das gimnospermas. Ed. UFSM. Santa Maria.\n2- KRAMER, K.U. & GREEN, P.S. (ed). 1990. Pteridophytes and Gymnosperms. In: The Families and genera of Vascular Plants. Vol 1. Springer-Verlag.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 17:00",
+        "professor": "VINICIUS RESENDE BUENO"
+       }
+      ],
+      "Requisitos": [
+       "NUP246"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "6º Período": [
+     {
+      "Codigo": "NUP362",
+      "Nome": "Imunologia Básica",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução à Imunologia, células e órgãos linfóides; mecanismos efetores da imunidade inata e adaptativa e imunoregulação. Inflamação e sistema complemento; ontogenia dos linfócitos T e B e mecanismos genéticos da geração da diversidade dos receptores de antígeno; complexo principal de histocompatibilidade (MHC), imunidade celular e humoral; estrutura e funções das imunoglobulinas; reações de hipersensibilidade; autoimunidade e imunodeficiência; evolução do sistema imune.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "NUP123",
+       "NUP232"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NUP364",
+      "Nome": "Gestão Ambiental",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Principais elementos relacionados ao gerenciamento ambiental abordando temas como Meio Ambiente e Desenvolvimento Sustentável; Políticas Ambientais; Licenciamento e Avaliação de Impacto Ambiental; Economia Ambiental, Gerenciamento de Recursos Hídricos; Energia e Meio Ambiente; e Educação Ambiental. Visitas técnicas.\n",
+       "BibliografiaBasica": "1- ALMEIDA, J.R. 2006. Gestão ambiental: para o desenvolvimento sustentável. Ed. Thex. Rio de Janeiro.\n2- MAY, P.H.; LUSTOSA, M.C. & VINHA, V. 2003. Economia do meio ambiente: teoria e prática. Rio de Janeiro: Elsevier.\n3- MILARÉ, E. 2001. Direito do ambiente: doutrina, prática, jurisprudência e glossário. 2ª ed. Revista dos Tribunais. São Paulo.\n4- Hinrichs R.; Kleinbach, M.; Reis, L.B. 2010 Energia e Meio Ambiente. Cengage Learning.\n",
+       "BibliografiaComplementar": "1- BRASIL. Ministério do Meio Ambiente ? MMA. 2004. Recursos Hídricos. Ed. Associação Brasileira de Recursos Hídricos. Brasília.\n2- CAMPOS, N. & STUDART T. 2001. Gestão das águas. Ed. Associação Brasileira de Recursos Hídricos. Fortaleza.\n3- ROMÉRO, M. A.; BRUNA, G. C.; PHILIPPI Jr., A. 2004. Curso de gestão ambiental. Ed. Manole. Barueri.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 16:00",
+        "professor": "MAURICIO MUSSI MOLISANI"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NUP360",
+      "Nome": "Anatomia e Fisiologia Vegetal",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Anatomia do caule, raiz e folha. Relações hídricas e a estrutura morfo-anatômica do vegetal. Nutrição do vegetal e relações com as adaptações morfológicas e fisiológicas. Fotossíntese: reações de luz e reações do carbono; fotorrespiração; metabolismo C3, C4 e CAM. Transporte pelo floema. Metabolismo secundário. Desenvolvimento, hormônios vegetais e fotomorfogênese. Contextualização ecológica.\n",
+       "BibliografiaBasica": "1- APPEZATO-DA-GLÓRIA, B. & Carmello-Guerreiro, S.M. 2003. Anatomia Vegetal. 2ª ed. Ed. UFV. Viçosa.\n2- ESAU, K. 1974. Anatomia de plantas com sementes. São Paulo: Edgard Blücher.\n3- TAIZ, L & ZEIGER, E. 2006. Fisiologia Vegetal. 4ª ed. Porto Alegre: Artmed.\n",
+       "BibliografiaComplementar": "1- KERBAUY,G. B. 2004. Fisiologia Vegetal, 2ª ed. Ed. Guanabara Koogan.\n2- MORISON, J.I.L. & MORECROFT, M.D. 2006. Plant Growth and Climate Change. Ed. Wiley-Blackwell. Oxford.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 15:00",
+        "professor": "HEITOR MONTEIRO DUARTE"
+       },
+       {
+        "dia": "Sex",
+        "hora": "13:00 - 15:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "NUP355"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NUP363",
+      "Nome": "Introd à Oceanog e Bio Marinha",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução ao Estudo dos Oceanos, Introdução à Dinâmica dos Oceanos, Processos Oceanográficos de Mesoescala, Características Fisico-químicas da água do mar, Diversidade e Características de Ambientes e Ecossistemas Marinhos, Introdução ao Estudo do Plâncton, Introdução ao Estudo do Bentos, Introdução ao Estudo do Nécton, Métodos de Coleta e Estudo de Organismos Marinho, Impactos Antrópicos nos Oceanos.\n",
+       "BibliografiaBasica": "1- Jorge P. e Krug, Luiz C. 2015. Introdução às Ciências do Mar. Editora Textos. 602p.\n2- Castro, P & Huber, ME. 2012. Biologia Marinha. 8ª Ed. Artmed. 480p.\n3- Garrison, T. 2010. Fundamentos de Oceanografia (4a ed) Cengage Learning. 526p.\n",
+       "BibliografiaComplementar": "1- Crespo, R. & Soares-Gomes, A. 2009. Biologia Marinha. 2ª ed. Ed. Interciência Ltda. 382p.\n2- Calazans (org) 2011. Estudos Oceanográficos: do instrumental ao prático. Textos. 463p.\n3- Garrison, T. 2009. Essentials of Oceanography (5th ed). Cengage Learning. 463p.\nCousteau, F. 2007. Grande Enciclopédia do Oceano. Livraria Civilização Editora. 512p.\n4- Cousteau, F. 2006. Ocean: The World's Last Wilderness Revealed. DK.512p.\n5- Bollmann, M. et, al. 2010. World Ocean Review: Living with the oceans. Maribus. 236p.\n6- Maribus. 2013. World Ocean Review: The future of fish, the fisheries of future. Maribus. 145p.\n7- Lalli & Parsons. 1997.Biological Oceanography. An introduction. The Open University, 337p.\n8- Trujillo & Thurman. 2011. Essentials of Oceanography. 10th Ed. Pearson Prentice-Hall. 557p.\n9- McIntyre. A.(Ed) 2010. Life in the world?s oceans. Diversity, distribution, and abundance. Blackwell Publishing. 383p.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 17:00",
+        "professor": "LUCIANO GOMES FISCHER"
+       },
+       {
+        "dia": "Qui",
+        "hora": "17:00 - 21:30",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "NUP115"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NUPK01",
+      "Nome": "Projeto Ciências Biológicas A.",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "100",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Elaboração de estudo,individual ou em grupo,sobre tema relevante em Ciências Biológicas.Esse estudo deve ter como escopo assunto no qual seja contemplada a integração de conhecimentos adquiridos ao longo do curso.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "NUP365(C)NUP365=MCB365NUP365=MCB367"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "7º Período": [
+     {
+      "Codigo": "NUPK02",
+      "Nome": "Projeto Ciências Biológicas B",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "100",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Elaboração de estudo,individual ou em grupo,sobre tema relevante em Ciências Biológicas.Esse estudo deve ter como escopo assunto no qual seja contemplada a integração de conhecimentos adquiridos ao longo do curso.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 09:00",
+        "professor": "ELANE DA SILVA RIBEIRO"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 09:00",
+        "professor": "RAQUEL DE SOUZA GESTINARI"
+       }
+      ],
+      "Requisitos": [
+       "NUPK01"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "8º Período": [
+     {
+      "Codigo": "NUPX01",
+      "Nome": "Ativid Acadêmicas Especiais",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Os alunos deverão apresentar, ao final do 8º período, certificados de participação em atividades de Ensino, Pesquisa e Extensão, tais como conferências, mini-cursos, reuniões científicas que frequentaram durante o curso de graduação.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NUPK03",
+      "Nome": "Projeto Ciências Biológicas C",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "100",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Elaboração de estudo,individual ou em grupo,sobre tema relevante em Ciências Biológicas.Esse estudo deve ter como escopo assunto no qual seja contemplada a integração de conhecimentos adquiridos ao longo do curso.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "NUPK02"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "9º Período": [
+     {
+      "Codigo": "NUPK04",
+      "Nome": "Projeto Ciências Biológicas D",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "100",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Elaboração de estudo,individual ou em grupo,sobre tema relevante em Ciências Biológicas.Esse estudo deve ter como escopo assunto no qual seja contemplada a integração de conhecimentos adquiridos ao longo do curso.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "NUPK03"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ]
+   },
+   "obrigatorias": 44,
+   "eletivas": 0,
+   "ano": "2012/1 a 2024/1"
+  },
+  {
+   "materias": {
+    "1º Período": [
+     {
+      "Codigo": "NUP102",
+      "Nome": "Tóp e Prát Ciências Biológicas",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Noções de biossegurança em laboratórios de pesquisa. Preparo e análise de amostras para microscopia. Manuseio e manutenção de equipamentos ópticos. Técnicas de coleta e preservação de material biológico. Coleções científicas. Apresentação das diferentes linhas de pesquisa desenvolvidas dentro do Campus UFRJ Macaé, que estejam inseridas nas diferentes ênfases oferecidas pelo curso de Bacharelado e na Licenciatura.\n",
+       "BibliografiaBasica": "1- AZEVEDO, C.B. Metodologia Científica ao Alcance de Todos. 2a ed. São Paulo: Ed. Manole. 2009.\n2- HIRATA, M. H. & FILHO, J. M. 2002. Manual de Biossegurança. São Paulo: Ed. Manole. 2002.\n3- PURVES, W.K.; SADAVA, D.; ORIANS, G.H. & HELLER, H.C. Vida: A Ciência da Biologia. v.1,2,3. 6a.ed. Porto Alegre: Artmed. 2009.\n",
+       "BibliografiaComplementar": "1- BRACHT, A.; ISHII-IWAMOTO, E.L. Métodos de Laboratório em Bioquímica São Paulo: Ed. Manole. 2002.\n2- GALLIANO, A. G. O método científico: teoria e prática. São Paulo: Ed. HARBRA. 1986.\n3- Textos e vídeos selecionados.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "17:00 - 21:30",
+        "professor": "FELIPE FAJARDO VILLELA ANTOLIN BARBERENA"
+       },
+       {
+        "dia": "Seg",
+        "hora": "17:00 - 21:30",
+        "professor": "PEDRO HOLLANDA CARVALHO"
+       },
+       {
+        "dia": "Seg",
+        "hora": "17:00 - 21:30",
+        "professor": "MAGDALENA NASCIMENTO RENNO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NUP110",
+      "Nome": "Química para Biologia",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Relação entre a Química e a Biologia. Introdução ao Laboratório Químico. Conceitos básicos de Ligação Química. Soluções. Equilíbrio Químico. Equilíbrio ácido-base. Reações de oxido redução. Compostos de coordenação. Introdução a Química Orgânica, Hidrocarbonetos. Conceitos básicos de estereoquímica. Biomoléculas. Instrumentação didático-pedagógica referente ao conteúdo.\n",
+       "BibliografiaBasica": "1- BROWN T.L.; LEMAY, H.E Jr.; BURSTEN, B.E. 2005. Química. A Ciência Central. 9ª ed. Ed. Pearson Prentice Hall, São Paulo.\n2- VOLLHARDT, K.P.C. & SCHORE, N.E. 2004. Química Orgânica: Estrutura e Função. 4ª ed. Ed. Bookman, Porto Alegre.\nBIBLIOGRAFIA Complementar\n1- ATKINS, P. & Jones, L. Princípios de Química: Questionando a Vida Moderna e o Meio Ambiente. 3a ed. Ed. Bookman. Porto Alegre.\n2- KOTZ, J.C. & TREICHEL Jr, P.M. 2005. Química Geral e Reações Químicas, Vol. 1-2. Ed. Cengage Learning. São Paulo.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 15:00",
+        "professor": "ANGELICA RIBEIRO SOARES"
+       },
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 15:00",
+        "professor": "MARIO SERGIO SCHULTZ"
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 16:00",
+        "professor": ""
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 16:00",
+        "professor": "ANGELICA RIBEIRO SOARES"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NUP116",
+      "Nome": "Leit Prod Textos Científicos",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Natureza da produção textual científica. Leitura e interpretação de textos científicos. Contexto de produção textual científica. Redação científica.\n",
+       "BibliografiaBasica": "1- ALVES, R.  Educação e construção do conhecimento. Porto Alegre: Artmed.2001.\n2- BARRAS, R.  Cientistas precisam escrever. São Paulo: Ed. T.A. Queiroz. 1994.\n3- CARDOSO, S. H. B.  Discurso e ensino. Belo Horizonte: Ed. Autêntica. 1999.\n",
+       "BibliografiaComplementar": "1- LUFT, C.P. 1992. Dicionário prático de Regência Nominal. São Paulo: Ática.1992.\n2- VIEIRA, C.L.  Pequeno Manual da Divulgação Científica. São Paulo: Ed. SPBC. 2008.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "13:00 - 16:00",
+        "professor": "FERNANDA ANTUNES GOMES DA COSTA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NUPZ50",
+      "Nome": "Ativ Curricular Extensão - Bcb",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "0",
+      "Extensão": "300",
+      "Informação": {
+       "Info": "Atuação em atividades de extensão registradas na Pró-Reitoria de Extensão da UFRJ, como programas, projetos, cursos de extensão e eventos, coordenados por docentes do quadro permanente ou técnicos da carreira de nível superior na UFRJ. Para eventos, a atuação deverá ser na organização ou na realização do evento. Para cursos, a atuação deve ser na organização ou ministrando aulas.\n",
+       "BibliografiaBasica": "Bibliografia recomendada pelo coordenador da atividade.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NUP101",
+      "Nome": "Univ e Responsabilidade Social",
+      "Créditos": "3.0",
+      "Teórica": "15",
+      "Prática": "0",
+      "Extensão": "30",
+      "Informação": {
+       "Info": "Etologia e a base do comportamento social humano. Movimento organizado universitário e suas consequências na dinâmica sociocultural da sociedade. Conceitos, filosofia e prática das ações extensionistas universitárias. Evolução da socialidade e cultura humana. Planejamento e execução de ações extensionistas.\nAÇÃO DE EXTENSÃO VINCULADA: \"Universidade do Brasil e Responsabilidade Social\"\n",
+       "BibliografiaBasica": "1- ALCOCK, J. Comportamento Animal: uma abordagem evolutiva. São Paulo, Artmed Editora, 2011.\n2- OTTA, E.; Yamamoto, M.E. Fundamentos de psicologia evolucionista. Rio de Janeiro: Guanabara Koogan, 2009\n3- Política Nacional de Extensão Universitária (disponível em: http://www.pr5.ufrj.br/index.php/o-que-e-extensao/documentos)\n",
+       "BibliografiaComplementar": "1- DALGALARRONDO, P. Evolução do cérebro: sistema nervoso, psicologia e psicopatologia sob a perspectiva evolucionista. Porto Alegre: Artmed, 2011.\n2- HINDE, R. A. The dialetical personal relationships. Cambridge: Cambridge University Press, 1997.\n3- HINDE, R. A.; Groebel, J. (Orgs). Cooperation and prosocial behaviour. Cambridge: Cambridge University Press, 1991.\n4-  Coletânea de Artigos Especificos.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 16:00",
+        "professor": "VINICIUS ALBANO ARAUJO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NUP103",
+      "Nome": "Matemática para Biologia",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Funções: teoria elementar. Função inversa, funções trigonométricas. Funções transcendentes elementares. Funções reais de variável real: limite e continuidade. Derivada e integral. Teoremas fundamentais e propriedades técnicas de cálculo e aplicações. Área entre curvas. Introdução às equações diferenciadas ordinárias.\n",
+       "BibliografiaBasica": "1- LARSON, R. & EDWARDS, B. 2005. Cálculo com Aplicações, 6a ed., Ed. LTC. Rio de Janeiro.\n2- STEWART, J. 2009. Cálculo, vol. 1, 64 ed., Ed. Cengage Learning. São Paulo.\n3- STEWART, J. 2009. Cálculo, vol. 2, 64 ed., Ed. Cengage Learning. São Paulo.\nHoward, A. 2007.\n4- Cálculo um novo horizonte, vol.1, 8a ed., Ed. Bookman. Porto Alegre.\n",
+       "BibliografiaComplementar": "1- HALLETT, D. & GLEASON, A. Cálculo e Aplicações. 1a ed., Edgard Blucher Ltda. São Paulo. 1999.\n2- HIMONAS, A. & HOWARD, A. 2005. Cálculo: Conceitos e Aplicações. 1a ed., Ed. LTC. Rio de Janeiro.\n3- MEDEIROS, V. 2009. Pré-Cálculo, 2a ed., Ed. Cengage Learning. São Paulo.\n4- HUETTENMUELLER, R. 2011. Pré-Cálculo, la ed., Ed. Alta Books. Rio de Janeiro.\n5- GOTELLI, N.J. A Primer of Ecology, 4a ed. Sinauer Associates, Inc. Massachusets.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 17:00",
+        "professor": "CARLOS ALBERTO DE MOURA BARBOZA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NUP115",
+      "Nome": "Dinâmica da Terra",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Tópicos básicos e integrados de Geociências e Biociências. Componentes geológicos, climatológicos e oceanográficos relevantes para a compreensão da distribuição e do papel desempenhado pelos organismos nos ecossistemas. Práticas de campo em ecossistemas costeiros e a visão integrada da influência do ambiente físico e dos organismos na ciclagem de materiais e no fluxo de energia.\n",
+       "BibliografiaBasica": "1- BROWN, JH.. & LOMOLINO, M.V. 2006. Biogeografia. 2ª ed. Ribeirão Preto: Ed. Funpec.\n2- ODUM, E. P. 1988. Ecologia. Ed. Guanabara Koogan S.A. Rio de Janeiro.\n3- POPP, J.H. 1998. Geologia geral. Ed. LTC. Rio de Janeiro.\n4- PRESS, F.; SIEVER, R.; GROTZINGER, J.; THOMAS, J.H., 2006 Para entender a Terra, Porto Alegre: Menegat.\n5- RICKLEFS, R.E. 1993. A Economia da Natureza. 3ª ed. Rio de Janeiro: Guanabara Koogan.\n6- TOWNSEND, C.R.; BEGON, M. & HARPER, J.L. 2006. Fundamentos em Ecologia. 2a ed. Porto Alegre: Artmed.\n",
+       "BibliografiaComplementar": "1- BEGON, M.; HARPER, J.L. & Townsend, C.R.1996. Ecology. 3a ed. London: Blackwell Science.\n2- GUERRA, A.J.T. & CUNHA, S.B., 2000. Geomorfologia e Meio ambiente. Ed. Bertrand. Rio de Janeiro.\n3- SALGADO-LABOURIOU, M.L.1994. História Ecológica da Terra. 1ª ed. São Paulo: Edgard Blücher.\n4- TEIXEIRA, W.; TOLEDO, M.C.M.; FAIRCHILD, T.R.; TAIOLOI, F. 2000. Decifrando a Terra. Oficina de Texto/USP. São Paulo.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "17:00 - 20:30",
+        "professor": "CRISTINA ALEDI FELSEMBURGH"
+       },
+       {
+        "dia": "Sab",
+        "hora": "13:00 - 15:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NUP118",
+      "Nome": "Fund Sistemática Biogeografia",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução à sistemática filogenética. Procedimentos metodológicos da sistemática. Apresentação das diferentes escolas de classificação biológica, situando o conhecimento dentro da evolução epistemológica da ciência. Os sistemas de classificação de animais e plantas. Fontes de evidência taxonômica. Coleções científicas: importância, tipos e manejo. Noções de nomenclatura botânica e zoológica. História da Biogeografia. Princípios de análise biogeográfica.\n",
+       "BibliografiaBasica": "1- AMORIM, D.S.  Fundamentos de Sistemática Filogenética. Ribeirão Preto: Ed. Holos. 2002.\n2- BROWN, J.H. & LOMOLINO, M.V.  Biogeografia. 2a ed. Ribeirão Preto: Ed. FUNPEC. 2006.\n3- NELSON, G. & PLATNICK, N.  Systematics and biogeography: cladistics and vicariance. New York: Ed. Columbia University Press. 1981.\n4- PAPAVERO, N.  Fundamentos práticos de taxonomia zoológica: coleções, bibliografia, nomenclatura. 2ªed. São Paulo: Ed. EDUNESP. 1994.\n",
+       "BibliografiaComplementar": "1- HENNIG, W., 1999. Phylogenetic Systematics. Ed. University of Illinois Press. Urbana.\n2- HULL, D. L. 1988. Science as a process: an evolutionary account of the social and conceptual development of science. Chicago:Ed. University of Chicago Press.\n3- HUMPHRIES, C. J. & PARENTI, L. R. (1984). Cladistic biogeography. Oxford:Ed. Clarendon Press.\n4- KITCHING, P. L. FOREY, C. J. Humphries e D. M. Williams 1998. Cladistics, the theory and practice of parsimony analysis. 2a ed. Ed. Oxford University Press. Oxford.\n5- KUHN, T. S. 2009. A estrutura das revoluções científicas, 9aed. São Paulo.Ed. Perspectiva.\n6- POPPER, K.R. 2007. A lógica da pesquisa científica, 19a ed. São Paulo: Cultrix.\nWILEY, E. O. 1981. Phylogenetics: The Theory and Practice of Phylogenetic Systematics. Ed. John Wiley & Sons. New York.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "17:00 - 21:30",
+        "professor": "FABIO DI DARIO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "2º Período": [
+     {
+      "Codigo": "NUP120",
+      "Nome": "Atuação do Biólogo",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Grandes áreas de atuação do Biólogo. Conselho Federal e Regional de Biologia. Biodiversidade e Meio Ambiente: definição, regulamentação, áreas de atuação. Biotecnologia e Produção: definição, regulamentação, áreas de atuação. Saúde: definição, regulamentação, áreas de atuação. Visitas Técnicas e Palestras.\n",
+       "BibliografiaBasica": "1- Legislação pertinente a cada área de atuação.\n2- Artigos de destaque teórico.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "14:00 - 17:00",
+        "professor": "LISIA MONICA DE SOUZA GESTINARI"
+       },
+       {
+        "dia": "Ter",
+        "hora": "14:00 - 17:00",
+        "professor": "RAQUEL DE SOUZA GESTINARI"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NUP123",
+      "Nome": "Biologia Celular",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Evolução celular. Membranas biológicas. Transporte por membranas. Citoesqueleto. Junções celulares, matriz extracelular e parede celular. Organelas do metabolismo oxidativo. Núcleo, cromatina e subcompartimentos nucleares. O fluxo da informação genética nas células. Síntese e degradação de proteínas. Vias exocítica e endocítica. Sinalização celular. Ciclo celular, divisão, diferenciação e morte programada.\n",
+       "BibliografiaBasica": "1- ALBERTS, B.; JOHNSON, A. & WALTER, P. 2010. Biologia Molecular da Célula. 5a ed. Porto Alegre: Artmed.\n2- ALBERTS, B.; BRAY, D.; JOHNSON, A.; LEWIS, J.; RAFF, M.; ROBERTS, K. & WALTER, P. 2006. Fundamentos de Biologia Celular. 2ª Ed. Porto Alegre: Artmed.\n",
+       "BibliografiaComplementar": "1- COOPER, G.M. & HAUSMAN, R.E. 2007. A Célula: Uma Abordagem Molecular. 3ª edição, Porto Alegre: Artmed.\n2- LODISH, H.; BERK, A.; MATSUDAIRA, P.; KAISER, C.; KRIEGER, M.; SCOUT, M.P.; Zipursky, L. & DARNELL, J. 2005. Biologia Celular e Molecular. 5ª Edição, Porto Alegre: Artmed.\n3- POLLARD, T.D. & EARNSHAW, W.C. 2006. Biologia Celular. 1ª edição, Rio de Janeiro: Elsevier.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 16:00",
+        "professor": "MIRELLA PUPO SANTOS"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NUP235",
+      "Nome": "Bioestatística",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Investigação científica, Indução e Dedução, Introdução à Estatística, Amostragem, Tipos de variáveis, Tabelas e Gráficos, Medidas de tendência central, Medidas de variabilidade, Correlação, Regressão Simples, Probabilidade, Distribuição binomial, Distribuição de Poisson, Distribuição normal, Estimativas de parâmetros, Teste de hipótese, Comparação de vários grupos (Análise de variância).\n",
+       "BibliografiaBasica": "1- Vieira, S. Introdução à Bioestatística. 4ed, Editora Elsevier. São Paulo.\n2- Pagano, M & Gauvreau, K. 2003. Princípios de Bioestatística. Editora Cenage Learning.\n3- Quinn, G.P. and M.J. Keough. 2002. Experimental Design and Data Analysis for Biologists. Cambridge University Press, Cambridge.\n",
+       "BibliografiaComplementar": "1- Dalgard, P. Introductory Statistics with R. 2008. Springer, New York, USA.\n2- R Development Core Team. http://www.Rproject.org\n3- Underwood. A.J. Experiments in Ecology. Their logical design and interpretation using analysis of variance. Cambridge University Press.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "13:00 - 17:00",
+        "professor": "CARLOS ALBERTO DE MOURA BARBOZA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NUP117",
+      "Nome": "Estudos Sócioantropológicos",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A seleção natural e a mente humana. O conceito do superorgânico na Antropologia. A construção da visão do sociocultural e a gênese do pensamento socio-antropológico no contexto da modernidade: positivismo científico, expansão colonial, urbanismo e capitalismo (hegemonia do pensamento positivista). Evolução social e a questão de raça: as experiências africanas e amerindígenas sob colonialismo, no Brasil e nas Américas. De raça a cultura: Galton, Spencer, Tylor e Boas. O método etnográfico: a construção do outro primitivo. Etnocentrismo e relativismo cultural. Marx, Durkheim e Weber: as bases clássicas do pensamento sociológico. Formas modernas de desigualdade e discriminação: raça e etnia; gênero; classe. A pluralidade sociocultural brasileira: algumas expressões.\n",
+       "BibliografiaBasica": "1- HAVILAND et al. 2011. Princípios da Antropologia. São Paulo: Cengage Learning\n2- HARARI, Y.N. 2015. Sapiens: Uma Breve História da Humanidade. São Paulo: LPM.\n3- LARAIA, R. 2005. Cultura: Um Conceito Antropológico. Ed. Jorge Zahar. Rio de Janeiro.\n4- LÉVI-STRAUSS, C. 2009. ?Natureza e Cultura?, Revista Antropos. V3, Ano 2.\n5- MINNER, H. 1956. ?O Ritual do Corpo entre os Sonacirema?. Publicação original: ?Body ritual among the Sonacirema?, American Anthropologist, Vol. 58, n° 3.\n6- QUINTANEIRO, T., et. al. 1995. Um Toque de Clássicos: Durkheim, Marx e Weber. Ed. UFMG. Belo Horizonte.\n",
+       "BibliografiaComplementar": "1- GIDDENS, A. 2006. Sociologia. Porto Alegre: Artmed.\n2- MARX, K. 1979. Marx: Sociologia. Otavio, I. (org.). São Paulo: Ática.\n3- DURKHEIM, E.: 1992. Sociologia: Coleção Grandes Cientistas Sociais. n.10. São Paulo: Ática.\n4- WEBER, M. 1999. Economia e Sociedade. Ed. UnB. Brasília.\n5- GOULD, S. J. 1991. A falsa Medida do Homem. São Paulo: Martins Fontes.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "17:00 - 21:30",
+        "professor": "THADDEUS GREGORY BLANCHETTE"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NUP122",
+      "Nome": "Diversidade Biológica",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Esquemas contemporâneos de classificações dos seres vivos. Os domínios da vida na Terra e a diversidade de Bacteria e Archaea. Classificação dos eucariotos. Sistemática e biologia de eucariotos unicelulares.\n",
+       "BibliografiaBasica": "1- EVERT, RF & EICCHORN, SE. 2014. Raven - Biologia Vegetal. 8ª ed. Rio de Janeiro: Guanabara Koogan.\n2- REVIERS, B. de. 2006. Biologia e Filogenia das Algas. Porto Alegre: Artmed.\n3- SCHWARTZ, KV & MARGULIS, L. 2001. Cinco Reinos. Rio de Janeiro: Guanabara Koogan.\n4- MADIGAN, MT, MARTINK, JM, DUNLAP, PV & CLARK, DP. 2010. Microbiologia de Brock. 12ª ed. Porto Alegre: Artmed.\n5- LOURENÇO, S.O. 2013. Glossário de Protistologia: Verbetes Utilizados No Estudo de Protozoários, Algas e Protistas Fungóides. 1ª ed Technical Books.\n",
+       "BibliografiaComplementar": "1- BRUSCA, R.C. & BRUSCA, G.J. 2007. Invertebrados 2ª ed. Rio de Janeiro: Guanabara Koogan.\n2- CURTIS, H. 1977. Biologia. 2ªed. Rio de Janeiro: Guanabara Koogan.\n3- TISSOT-SQUALLI, M.L. 2006. Introdução a Botânica Sistemática. Ed. Unijui. Ijuí.\n4- VALENTINE, J. W. 2004. On the Origin of Phyla. Chicago: The University Chicago Press.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "17:00 - 19:00",
+        "professor": "JOSE LUCIANO NEPOMUCENO DA SILVA"
+       },
+       {
+        "dia": "Ter",
+        "hora": "17:00 - 19:00",
+        "professor": "CARLOS FREDERICO DELUQUI GURGEL"
+       },
+       {
+        "dia": "Qua",
+        "hora": "17:00 - 20:30",
+        "professor": "JOSE LUCIANO NEPOMUCENO DA SILVA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "17:00 - 20:30",
+        "professor": "CARLOS FREDERICO DELUQUI GURGEL"
+       }
+      ],
+      "Requisitos": [
+       "NUP118"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NUP127",
+      "Nome": "Bioquímica Geral",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução à bioquímica e seus fundamentos. Propriedades da água; conceito de pH, soluções tampão e fundamentos de termodinâmica. Estrutura e função dos aminoácidos. Proteínas e suas unidades constituintes. Enzimas: conceitos e cinética enzimática. Estrutura e função de carboidratos. Estrutura e função de lipídios e lipídios de membrana. Nucleotídeos e ácidos nucléicos. Vitaminas.\n",
+       "BibliografiaBasica": "1- LEHNINGER, A.L., NELSON, D.L. & COX, M.M. Princípios de bioquímica. 4ª ed. São Paulo: Ed. Sarvier. 2005.\n2- BERG, J.M., STRYER, L. & TYMOCZKO, J.L. Bioquímica. (7a Edição). 2014.\n",
+       "BibliografiaComplementar": "1- DEVLIN,T.M. Manual de Bioquímica Com Correlações Clínicas - 7ª Ed. (2011).\n2- MATHEWS, CHRISTOPHER K. Bioquímica. 3a Edição (2013).\n5- VOET, D. & VOET, J.G. Bioquímica - 4ª Ed. (2013).\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 17:00",
+        "professor": "ELANE DA SILVA RIBEIRO"
+       },
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 17:00",
+        "professor": "FLAVIA BORGES MURY"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NUP357",
+      "Nome": "Filosofia da Educação",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 17:00",
+        "professor": "GUSTAVO ARANTES CAMARGO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "3º Período": [
+     {
+      "Codigo": "NUP230",
+      "Nome": "Embriologia e Histologia",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo da diferenciação dos tecidos embrionários e da formação do rudimento dos órgãos e sistemas orgânicos desde a fertilização até a quarta semana do desenvolvimento humano. Introdução aos aspectos evolutivos da embriogênese dos diversos grupos de metazoários. Estudo da organização, classificação e função dos tecidos básicos correlacionando com sua origem embriológica e suas localizações nos órgãos.\n",
+       "BibliografiaBasica": "1- CARLSON, B.M. 2004. Embriologia Humana e Biologia do Desenvolvimento. Rio de Janeiro: Guanabara Koogan.\n2- GILBERT, S.F. 2006. Developmental Biology. 8th ed. Ed Sinauer Associates. Sunderland. MA.\n3- LARSEN, W. J. 2003. Embriologia Humana. 3a ed. Ed. Elsevier Science. Madrid.\n4- JUNQUEIRA, L.C & CARNEIRO, L. 1998. Histologia Básica. 8a.ed. Rio de Janeiro: Guanabara Koogan.\n5- KIERZENBAUM, A.L. 2009. Histologia e Biologia Celular: Uma introdução à patologia. 2oed. Rio de Janeiro: Elsevier.\n6- ROSS, M.H.; REITH, E.J. & ROMRELL, 1.J. 1993. Histologia: Texto e Atlas 2a. ed. Panamericana. São Paulo.\n",
+       "BibliografiaComplementar": "1- PURVES, W.K.; Sadava, D.; ORIANS, G.H. & Heller, H.C. 2009. Vida: A Ciência da Biologia. v.III. 6a.ed. Porto Alegre: Artmed.\n2- WOLPERT, L. 2000. Princípios da Biologia do Desenvolvimento. Porto Alegre: Artmed.\n3- BLOOM, R. & FAWCETT, D. W. 1994. A Textbook of Histology. 20th ed. Ed. Chapman & Hall. New York.\n4- GARTNER, L.P. & HIATT, J.L. 1997. Color Text Book of Histology. Ed. W.B. Saunders Comp. Philadelphia.\n5- KIERZENBAUM, A.L. 2009. Histologia e Biologia Celular: Uma introdução à patologia. 2aed. Rio de Janeiro: Elsevier.\n6- WHEATER, P.R.; BURKITT, H.G. & DANIELS, V.G. 1994. Histologia Funcional. 3'ed. Rio de Janeiro: Guanabara Koogan.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 16:00",
+        "professor": "PEDRO HOLLANDA CARVALHO"
+       },
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 16:00",
+        "professor": "RODRIGO NUNES DA FONSECA"
+       },
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 16:00",
+        "professor": "ALEXANDRE DE AZEVEDO"
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 15:00",
+        "professor": "PEDRO HOLLANDA CARVALHO"
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 15:00",
+        "professor": "ALEXANDRE DE AZEVEDO"
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 15:00",
+        "professor": "RODRIGO NUNES DA FONSECA"
+       }
+      ],
+      "Requisitos": [
+       "NUP123"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NUP236",
+      "Nome": "Bioquímica do Metabolismo",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Teórica: introdução ao metabolismo intermediário; bioenergética; oxidações biológicas; glicídeos: estrutura e metabolismo; fotossíntese; lipídios: estrutura e metabolismo; integração metabólica; controle do metabolismo. Prática: crescimento celular; fermentação anaeróbica; extração, hidrólise ácida e dosagem de glicogênio. Oxidações biológicas; Fotossíntese.\n",
+       "BibliografiaBasica": "1- BERG, Jeremy M.; STRYER, Lubert; TYMOCZKO, John L. 2014. Bioquímica. 7. ed. Rio de Janeiro: Guanabara Koogan.\n2- Nelson, David L.; COX, Michael M.2014. Princípios de bioquímica de Lehninger. Porto Alegre: Artmed, 2011.\n",
+       "BibliografiaComplementar": "1- DEVLIN, T.M. 2007. Manual de Bioquímica com Correlações Clínicas. São Paulo: Edgard Blücher.\n2- VOET, Donald; VOET, Judith G. 2013. Bioquímica. 4. ed. Porto Alegre, Artmed.\nArtigos científicos relacionados aos tópicos das aulas para discussão.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "17:00 - 20:30",
+        "professor": "JOSE ROBERTO DA SILVA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "17:00 - 20:30",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "NUP127"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NUP242",
+      "Nome": "Genética Básica",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução à genética. Bases citológicas da Herança. Herança Mendeliana e suas extensões. Herança relacionada ao sexo. Genes ligados e mapas de ligação. Herança poligênica e efeito do ambiente. Herança não-Mendeliana. Mutações cromossômicas e gênicas.\n",
+       "BibliografiaBasica": "1- ALBERTS, B.; JOHNSON, A. & WALTER, P. 2010. Biologia Molecular da Célula. 5a ed. Porto Alegre: Artmed.\n2- BROWN, T.A. 2009. Um Enfoque Molecular. Ed. Rio de Janeiro: Guanabara Koogan.\n2- GRIFFITHS, A.J.F.; WESSLER, S.R.; CARROLL, S.B. & DOEBLEY, J. 2016. Introdução à genética. 11ª ed. Rio de Janeiro: Guanabara Koogan.\n3- OSÓRIO-BORGES, M. R. & ROBINSON, W. M. 2013. Genética Humana, 3ªed. Porto Alegre: Artmed.\n",
+       "BibliografiaComplementar": "1- PIERCE, B. 2016. Genética: Um enfoque conceitual. 5a. Guanabara Koogan, Rio de Janeiro.PIERCE, B. 2016. Genética: Um enfoque conceitual. 5a. Guanabara Koogan, Rio de Janeiro.\n2- HOFFE, P.A. 2000. Genética Médica Molecular. Rio de Janeiro: Guanabara Koogan.\n3- LEWIN, B. 2014. Genes XI. Ed. Artmed Ltda. Porto Alegre.\n4- STRACHAN, T. & READ, A.P. 2013. Genética Molecular Humana. 4ª. Ed. São Paulo: Artmed.\n5- SNUSTAD, D.P. & SIMONS, M.J. 2017. Fundamentos de Genética. 7a. Guanabara Koogan, Rio de Janeiro.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 16:00",
+        "professor": "LAURA ISABEL WEBER DA CONCEICAO"
+       }
+      ],
+      "Requisitos": [
+       "NUP123"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NUP121",
+      "Nome": "Metodologia Científica",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Ciência e epistemológicas em ciências; indutivismo e dedutivismo. Conhecimento do método científico e suas bases (princípio da falseabilidade e o método hipotético dedutivo). Estrutura de teorias científicas; conceito e fundamentação. Normas e formatação de trabalho científico. Introdução à Bioética: histórico, princípios fundamentais; condutas.\n",
+       "BibliografiaBasica": "1- ALVES, R. Filosofia da Ciência: introdução ao jogo e suas regras. São Paulo: Ed. Loyola. 2000.\n2- COSTA, S. & DINIZ, D. Ensaios: Bioética. São Paulo: Ed. Brasiliense. 2006.\n3- GALLIANO, A. G. 1986. O método científico: teoria e prática. São Paulo: Ed. HARBRA. 1986.\n4- SEVERINO, A.J. Metodologia do trabalho científico [livro eletrônico]. São Paulo: Cortez. 2013.\n",
+       "BibliografiaComplementar": "Artigos e textos variados\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "15:00 - 17:00",
+        "professor": "DANIEL BASILIO ZANDONADI"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NUP232",
+      "Nome": "Biologia Molecular",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estrutura e função do DNA e do RNA. Organização do genoma em células procariotas, eucariotos (vegetais e animais). Mutação e reparo do DNA. Transcrição, processamento do RNA, tradução e o código genético. Sistemas de recombinação e transposição do DNA. Regulação gênica de procariotos e eucariotos.\n",
+       "BibliografiaBasica": "1- GRIFFITHS, A.J.F.; MILLER, J.H.; Suzuki, D.T.; LEWONTIN, R.C. & GELBART, W.M. 2009. Introdução à Genética. 7ªed. Rio de Janeiro: Guanabara Koogan.\n2- LEWIN, B. 2009. GENES IX. 9ª ed. Porto Alegre: Artmed.\n",
+       "BibliografiaComplementar": "1- ALBERTS, B.; JOHNSON, A. & WALTER, P. 2010. Biologia Molecular da Célula. 5a ed. Porto Alegre: Artmed.\n2- DEVLIN, T.M. 2007. Manual de Bioquímica com Correlações Clínicas. São Paulo: Edgard Blücher.\n3- OSÓRIO-BORGES, M. R. & ROBINSON, W. M. 2002. Genética Humana, 2ªed. Porto Alegre: Artmed.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "13:00 - 16:00",
+        "professor": "ELDO CAMPOS"
+       }
+      ],
+      "Requisitos": [
+       "MCB123"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NUP239",
+      "Nome": "Geopaleontologia",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceitos Básicos de Geologia, Sedimentologia, Oceanografia e Climatologia. Tópicos básicos de formação da paisagem. Conceitos de Paleontologia evolutiva e Paleoecologia. As eras geológicas no contexto geomorfológico e biológico. Dinâmica da paisagem terrestre. Invertebrados e Vertebrados fósseis; Paleobotânica e Micropaleontologia. Introdução à Paleoclimatologia.\n",
+       "BibliografiaBasica": "1- CARVALHO, I. S. (Ed.). 2004. Paleontologia. v. 1-2. Rio de Janeiro: Interciência.\n2- DANA, J.D. 1986. Manual de mineralogia. Rio de Janeiro: LTC.\n3- GUERRA, A.J.T. & CUNHA, S.B., 2000. Geomorfologia e Meio ambiente, Ed. Bertrand Brasil. Rio de Janeiro.\n4- LEINZ, V.& AMARA, S.E. 1989. Geologia Geral. 11ª ed. Ed. Companhia Editora Nacional. São Paulo.\n5- MENDES, J.C. 1982. Paleontologia geral. 2aed. Rio de Janeiro: LTC.\n6- POPP, J.H. 1979. Geologia geral. Rio de Janeiro: LTC.\n7- PRESS, F.; SIEVER, R.; GROTZINGER, J.; THOMAS, J.H., 2006 Para entender a Terra, Porto Alegre: Menegat.\n8- SALGADO-LABOURIOU, M.L.1994. História Ecológica da Terra. 1a edição São Paulo: Edgard Blücher.\n9- SUGUIO, K. 2003. Geologia Sedimentar. Edgard Blücher. São Paulo.\n",
+       "BibliografiaComplementar": "1- BRITO, I.M. 1990. O cretáceo e sua importância na geologia do Brasil. Ed. UFRJ. Rio de Janeiro.\n2- BRITO, I.M. 1991. A era paleozoica e sua importância na estratigrafia do Brasil. Ed. Inst. De Geociências do CCMN/UFRJ. Rio de Janeiro.\n3- LAPORTE, L.F. 1982. Ambientes antigos de sedimentação. 2aed. São Paulo: Edgard Blücher\n4- PIPKIN, B.W.; TRENT, D.D. & HAZLETT, R.W. 2005. Geology and the Environment, Ed. Thomson Brooks/Cole. Belmont.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "17:00 - 21:30",
+        "professor": "MARCOS PAULO FIGUEIREDO DE BARROS"
+       }
+      ],
+      "Requisitos": [
+       "NUP115"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "4º Período": [
+     {
+      "Codigo": "NUP126",
+      "Nome": "Ecologia Geral",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estrutura, fatores reguladores e dinâmica de populações, comunidades e ecossistemas. Teorias ecológicas. Transferência de energia nos ecossistemas. Sucessão ecológica. Ecologia evolutiva. Diversidade biológica. Ferramentas para o estudo de populações, comunidades e ecossistemas.\n",
+       "BibliografiaBasica": "1- BROWN, JH.. & LOMOLINO M.V. 2006. Biogeografia. 2ª ed. Ribeirão Preto: Ed. Funpec.\n2- ODUM, E. P. 1988. Ecologia. Rio de Janeiro: Guanabara Koogan.\n3- RICKLEFS, R.E. 1993. A Economia da Natureza. 3ª ed. Rio de Janeiro: Guanabara Koogan.\n",
+       "BibliografiaComplementar": "1- BEGON, M.; HARPER,J.L. & TOWNSEND, C.R.1996. Ecology. 3a ed. London: Blackwell Science.\n2- ESTEVES, F. A. 1998. Fundamentos de Limnologia, 2ªed. Rio de Janeiro: Interciência.\n3- TOWNSEND, C.R.; BEGON, M. & HARPER, J.L. 2006. Fundamentos em Ecologia. 2ªed. Porto Alegre: Artmed.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "17:00 - 19:00",
+        "professor": "RODRIGO LEMES MARTINS"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 17:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "NUP115"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NUP244",
+      "Nome": "Anatomia Humana",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Organização anatômica dos sistemas locomotor, nervoso, cárdio-respiratório, urogenital e digestório e endócrino através de um estudo teórico e prático, com observação das relações anatômicas, vascularização e inervação dos principais órgãos que compõem estes sistemas.\n",
+       "BibliografiaBasica": "1- NETTER, F. H. 2000. Atlas de Anatomia Humana Netter ? 4ª Edição. Editora: Artmed. Porto Alegre.\n2- PUTZ, R.; PABST, R. 2006. Atlas de Anatomia Humana Sobbotta ? 2 volumes ? 22 ª edição. Rio de Janeiro: Guanabara Koogan.\n3- WILLIAMS, P.L.; DYSON, M.; WARWICK, R. 2005. Gray?s Anatomia para estudantes ? 1ª edição. Editora: Elsevier.\n",
+       "BibliografiaComplementar": "1- DANGELO, J.G. & FATTINI, C.A. 2007. Anatomia Humana Sistêmica e Segmentar. 3ª ed. São Paulo:  Atheneu.\n3- SPENCE, A.P. 1991. Anatomia Humana Básica. 2ª ed. São Paulo: Ed. Manole.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "17:00 - 20:30",
+        "professor": "CINTIA MONTEIRO DE BARROS"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NUP246",
+      "Nome": "Algas e Plantas Avasculares",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Origem e evolução dos seres autotróficos. Cianobactérias, algas e briófitas: Diferenciação de filos e classes atualmente representados; Aspectos citológicos, bioquímicos, morfológicos, anatômicos, reprodutivos e ciclos de vida; Estratégias/adaptações ao ambiente; Importância econômica e ecológica; Táxons de ecossistemas do Rio de Janeiro. Coleta e preservação dos grupos apresentados.\n",
+       "BibliografiaBasica": "1- EVERT, R.F. & EICHHORN, S.E. 2014. Raven - Biologia vegetal. 8aed. Rio de Janeiro: Guanabara Koogan.\n2- NARBORS, M.W. 2012. Introdução à Botânica. São Paulo: Roca.\n3- OLIVEIRA, E.C. de. 2001. Introdução à Biologia Vegetal. 2a ed. Ed. Universidade de São Paulo. São Paulo.\n4- REVIERS, B. de. 2006. Biologia e filogenia de algas. Porto Alegre: Artmed.\n",
+       "BibliografiaComplementar": "1- GRAHAM, L.E. & WILCOX, L.W. 2008. Algae. 2aed. Ed. Prentice- Hall.\n2- SCHOFIELD, W.B. 1985. Introduction to Bryology. New Jersey: The Blackburn Press.\n3- SMITH, G.M. 1971. Botânica criptogâmica. Volume I. Algas e Fungos. Lisboa: Calouste Gulbenkian.\n4- SMITH, G.M. 1979. Botânica criptogâmica. Volume II. Briófitas e Pteridófitas. Lisboa: Calouste Gulbenkian.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "17:00 - 21:30",
+        "professor": "CARLOS FREDERICO DELUQUI GURGEL"
+       }
+      ],
+      "Requisitos": [
+       "NUP122"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NUP124",
+      "Nome": "Zoologia I",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Origem, Evolução e Introdução ao Metazoa. Bauplan, biologia e aspectos ecológicos e comportamentais dos Filos Porifera, Cnidaria, Ctenophora, Placozoa. Introdução aos Bilateria; Platyhelminthes. Blastocelomados (Gastrotricha, Nematoda, Nematomorpha, Priapulida, Kinorrhyncha, Loricifera, Acanthocephala, Rotifera, Cycliophora, Nemertea) e Filo Annelida.\n",
+       "BibliografiaBasica": "1- BRUSCA, R.C. & BRUSCA, G.J. 2007. Invertebrados 2ª ed. Rio de Janeiro: Guanabara Koogan.\n2- RUPPERT, E.E.; FOX, R.S. & BARNES, R.D. 2005. Zoologia dos Invertebrados. 7ª Ed. São Paulo: Ed. Roca.\n",
+       "BibliografiaComplementar": "1- LARSON, A.; HICKMAN Jr., C. & ROBERTS, L. 2004. Princípios Integrados de Zoologia. 11ª ed. Rio de Janeiro: Guanabara Koogan.\n2- MEGLITSCH, P. 1967. Invertebrate Zoology. New York: Oxford University Press.\n3- MEGLITSCH, P. A & SCHRAM, F. R. 1991. Invertebrate Zoology. 3th ed. New York: Oxford University Press.\n4- VALENTINE, J. W. 2004. On the Origin of Phyla. Chicago: The University Chicago Press.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "15:00 - 17:00",
+        "professor": "CARLA ZILBERBERG"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 17:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "NUP122"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NUP200",
+      "Nome": "Biofísica",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Paralelo histórico entre a física e a Biologia: o nascimento da Biofísica. Eventos em escala atômica: Átomo e Matéria. Energia e termodinâmica, radiação e radioatividade. Moléculas de interesse biológico: a Água (diluição e osmose) e o Oxigênio (respiração e estresse oxidativo). Eventos em escala celular: membranas, receptores e comunicação celular. Mutagênese e mecanismos de reparo de DNA. Eventos em escala organismica: bioeletrogênese, bioacústica e visão (comprimento de onda de luz). Toxicocinética e toxicodinâmica. Eventos em escala de ecossistema: a hipótese Gaia, poluição, atividades antrópicas e a disponibilidade de elementos no ambiente, ciclo global de transporte de compostos poluentes.\n",
+       "BibliografiaBasica": "1- DURAN, J.E.R. 2011. Biofísica: Fundamentos e Aplicações. 2a ed. São Paulo: Pearson Prentice Hall.\n2- HENEINE, I.F. 2004. Biofísica Básica. 2ª ed. São Paulo: Atheneu.\n",
+       "BibliografiaComplementar": "1- ALBERTS, B.; JOHNSON, A. & WALTER, P. 2010. Biologia Molecular da Célula. 5a ed. Porto Alegre: Artmed.\n2- LEWIN, B. 2009. GENES IX. 9a ed. Porto Alegre: Artmed.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "13:00 - 16:00",
+        "professor": "MARCOS PAULO FIGUEIREDO DE BARROS"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NUP245",
+      "Nome": "Física para Biologia",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Forças da Natureza, Energia, Fluidos, Fenômenos Ondulatórios, Ótica Geométrica, Fenômenos Elétricos e Magnéticos, Física da Radiação.\n",
+       "BibliografiaBasica": "1- HALLIDAY, D. & RESNICK, R. 2009. Fundamentos de Física v.1-4. 8aed. Ed. Editora LTC (Grupo GEN). Rio de Janeiro.\n2- OKUNO E.; CALDAS, I.C. & CHOW, C. 1986. Física Para Ciências Biológicas e Biomédicas. Ed. Harbra. São Paulo.\n",
+       "BibliografiaComplementar": "1- NUSSENZVEIG, H.M. 1999. Curso de Física Básica. v.1-4. Ed. Edgard Blücher. São Paulo.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 16:00",
+        "professor": "PAULA DEBIASI"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "5º Período": [
+     {
+      "Codigo": "NUP241",
+      "Nome": "Fisiologia Humana Comparada",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo teórico da função dos sistemas nervoso, respiratório, cardiovascular, digestivo, renal, urinário, endócrino e reprodutor, destacando a fisiologia integrativa, o controle neural do comportamento, o controle cardiovascular, o controle das funções digestivas, respiratórias e hidrossalinas, o crescimento e a reprodução.\n",
+       "BibliografiaBasica": "1- AIRES, M.M. 2012. Fisiologia. 4ªed. Rio de Janeiro: Guanabara Koogan.\n2- CURI, R. & PROCÓPIO, J. 2009. Fisiologia Básica. 1ª Ed. Rio de Janeiro: Guanabara Koogan.\n3- WALTER F. BORON & EMILE L. BOULPAEP. Fisiologia Médica. 2ªed. Elsevier.\n4- KOEPPEN, B. & STATON, B.A. 2009. Fisiologia: Berne e Levy. 6ªed. Ed Elsevier. Rio de Janeiro\n",
+       "BibliografiaComplementar": "1- GANONG, W.F. 2006. Fisiologia Médica. 22ª ed. São Paulo: McGraw Hill.\n2- JACOB, S.W.; FRANCONE, C.A. & LOSSON, W.J. 1990. Anatomia e Fisiologia 3- Humana, 4ª ed. Rio de Janeiro: Guanabara Koogan.\n3- TAVARES, P. 1981. Fisiologia Humana. São Paulo: Atheneu.\n4- VANDER, A.J.; SHERMAN, J.H. & LUCIANO, D.S. 1996. Fisiologia Humana, São Paulo: McGraw Hill.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 17:00",
+        "professor": "JACKSON DE SOUZA MENEZES"
+       },
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 17:00",
+        "professor": "ISABELA VILLARINHO DE PAULA LOBO"
+       }
+      ],
+      "Requisitos": [
+       "NUP236"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NUP354",
+      "Nome": "Evolução",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "História da ?Biologia Comparada?. A origem das espécies e das adaptações. Teoria Sintética da Evolução e seus desdobramentos nas diversas disciplinas da Biologia.\n",
+       "BibliografiaBasica": "1- BARTON, N.H.; BRIGGS, D.E.G.; EISEN, J.A.; GOLDSTEIN, D.B.; PATEL, N.H. 2007. Evolution. Ed. CSHL Press. New York.\n3- FUTUYMA, D. 1996. Biologia Evolutiva. Ed. Sociedade Brasileira de Genética. Ribeirão Preto.\n3- RIDLEY, M. 2003. Evolução. Porto Alegre: Artmed\n",
+       "BibliografiaComplementar": "1- AVISE, J.C. 2000. Phylogeography: the history and formation of species. Ed. Harvard University Press. UK.\n2- BROWN, JH.; LOMOLINO, M.V. 2006. Biogeografia. 2ª ed. Ribeirão Preto: Ed. Funpec.\n3- DAWKINS, R. 1989. O gene egoísta. Ed. Itatiaia. São Paulo.\n4- FREEMAN, S.; HERRON, J. C. 2009. Análise Evolutiva. Porto Alegre: Artmed.\n5- GRIFFITHS, A.J.F., et al. 2005. An Introduction to Genetic Analysis. 8ª ed. Ed. W. H. Freeman. New York.\n5- PAPAVERO, N.; Pujol-Luz, J.R. 2000. História da Biologia Comparada: desde o gênesis até o fim do Império Romano do Ocidente. Ed. Holos. Ribeirão Preto.\n6- TEMPLETON, A. R. 2006. Population Genetics and Microevolutionary Theory. Ed. John Wiley & Sons, Inc. New York.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "17:00 - 19:00",
+        "professor": "PABLO RODRIGUES GONCALVES"
+       },
+       {
+        "dia": "Sex",
+        "hora": "13:00 - 16:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "NUP242"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NUP365",
+      "Nome": "Planejamento em Pesquisa",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução ao universo da pesquisa científica: histórico, panorama atual e perspectivas. Redação científica, definição e formulação de hipóteses, delineamento experimental. Levantamento do estado da arte em bases de dados. Etapas envolvidas na elaboração de projetos de pesquisa, relatórios técnicos, monografias e artigos científicos. Elaboração de um projeto de pesquisa individual.\n",
+       "BibliografiaBasica": "1- ALVES, R. 2000. Filosofia da Ciência: introdução ao jogo e suas regras. Ed. Loyola. São Paulo.\n2- CHAUI, M. 2003. Convite à filosofia. Ed. Ática. São Paulo.\n3- VIEIRA, S. 1980. Introdução à Bioestatística. Ed. Campus. Rio de Janeiro.\n",
+       "BibliografiaComplementar": "1- CHALMERS, A.F. 2000. O que é ciência afinal? Ed. Brasilense. São Paulo.\n2- GAUCH Jr. H.G. 2003. Scientific method in practice. Cambridge University Press. Cambridge.\n3- KUHN, T.S. 2000. A Estrutura das Revoluções Científicas. Ed. Perspectiva. São Paulo.\n4- MORIN, E. 2000. A cabeça bem feita: repensar e reformar, reformar o pensamento. Ed. Bertrand Brasil. Rio de Janeiro.\n5- PATTEN, M.L. 2004. Understanding research methods: an overview of the Essentials. Ed. McNaughton and Gunn, Inc. California.\n6- PATTEN, M.L. 2002. Proposing empirical research: a guide to the fundamentals. Ed. McNaughton and Gunn, Inc. California.\n7- POPPER, K. 1972. A lógica da pesquisa científica. Ed. Cultrix Ltda. São Paulo.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "17:00 - 20:30",
+        "professor": "MANUELA LEAL DA SILVA"
+       }
+      ],
+      "Requisitos": [
+       "NUP121",
+       "NUP235"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NUP231",
+      "Nome": "Zoologia II",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Origem, Evolução, Bauplan, biologia e aspectos ecológicos e comportamentais dos grupos chaves de Mollusca, Tardigrada, Onychophora, Arthropoda, Sipuncula, Echiura, Lofoforados e Echinodermata.\n",
+       "BibliografiaBasica": "1- BRUSCA, R.C. & BRUSCA, G.J. 2007. Invertebrados 2ª ed. Rio de Janeiro: Guanabara Koogan.\n3- RUPPERT, E.E.; FOX, R.S. & BARNES, R.D. 2005. Zoologia dos Invertebrados. 7ª Ed. São Paulo: Ed. Roca.\n",
+       "BibliografiaComplementar": "1- LARSON, A.; HICKMAN Jr., C. & ROBERTS, L. 2004. Princípios Integrados de Zoologia. 11ª ed. Rio de Janeiro: Guanabara Koogan.\n2- MEGLITSCH, P. 1967. Invertebrate Zoology. New York: Oxford University Press.\n3- MEGLITSCH, P. A & SCHRAM, F. R. 1991. Invertebrate Zoology. 3th ed. New York: Oxford University Press.\n4- VALENTINE, J. W. 2004. On the Origin of Phyla. Chicago: The University Chicago Press.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "17:00 - 20:30",
+        "professor": "VINICIUS ALBANO ARAUJO"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 15:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "NUP124"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NUP353",
+      "Nome": "Micologia",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Definições, terminologia, materiais e metodologia de aplicação geral em micologia. Características gerais dos fungos: estruturas somáticas, nutrição, reprodução assexuada, sexuada e parassexuada, históricos de vida. Classificação e evolução. Importância das principais categorias de fungos na agricultura, indústria, alimentação, medicina e na biosfera\n",
+       "BibliografiaBasica": "1- CARLILE, M.J. & WATKINSON, S.C. 1996. The Fungi. 3 ed. London: Academic Press. 482 p.\n2- EVERT, R.F. & EICHHORN, S.E. 2014. Raven - Biologia vegetal. 8aed. Rio de Janeiro: Guanabara Koogan.\n3- SILVEIRA, V.D. 1995. Micologia. 5ª ed. Rio de Janeiro: Âmbito Cultural. 332 p.\n",
+       "BibliografiaComplementar": "Artigos variados\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 16:00",
+        "professor": "VINICIUS RESENDE BUENO"
+       }
+      ],
+      "Requisitos": [
+       "NUP122"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NUP355",
+      "Nome": "Plantas Vasculares",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Relações filogenéticas nas plantas vasculares e classificação. Estudo da organização morfológica, ciclos de vida e diversidade das plantas vasculares (traqueófitas), incluindo análise sobre evolução, ecologia, estratégias reprodutivas e importância econômica. Identificação taxonômica.\n",
+       "BibliografiaBasica": "1- EVERT, R.F. & EICHHORN, S.E. 2014. Raven - Biologia vegetal. 8aed. Rio de Janeiro: Guanabara Koogan.\n2- SOUZA, V. C.; FLORES, T. B.; LORENZI, H. 2013. Introdução à Botânica: morfologia. São Paulo: Instituto Plantarum de Estudos da Flora. 224p.\n3- JUDD, W.S., CAMPBELL, C.S.; KELLOG, E. A.; STEVENS, P. F. & DONOGHUE, M.D. 2002. Sistemática Vegetal: um enfoque filogenético. 3a ed. Artmed.\n4- SOUZA, V.C. & LORENZI, L. 2005. Botânica Sistemática: guia ilustrado para identificação das famílias de Angiospermas da flora brasileira, baseado em APGII. São Paulo, Instituto Plantarum. 640p.\n5- VIDAL, W.N. & VIDAL, M.R.R. 2005. Botânica ? Organografia. 4a. ed. Ed. Imprensa Universitária da Universidade Federal de Viçosa. Viçosa.\n",
+       "BibliografiaComplementar": "1- MARCHIORI, J.N.C. 1996. Dendrologia das gimnospermas. Ed. UFSM. Santa Maria.\n2- KRAMER, K.U. & GREEN, P.S. (ed). 1990. Pteridophytes and Gymnosperms. In: The Families and genera of Vascular Plants. Vol 1. Springer-Verlag.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 17:00",
+        "professor": "VINICIUS RESENDE BUENO"
+       }
+      ],
+      "Requisitos": [
+       "NUP246"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NUPX03",
+      "Nome": "Inic Científica em Biologia I",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "120",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A Iniciação Científica (IC) é um processo alinhado com o perfil do Biólogo a ser formado e propicia a consolidação de competências e habilidades descritas para pesquisa científica.\n",
+       "BibliografiaBasica": "1- MASSI, L; QUEIROZ, S.L. (orgs.). Iniciação científica: aspectos históricos, organizacionais e formativos da atividade no ensino superior brasileiro [livro digital].São Paulo: Editora Unesp Digital. 2015.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "MARCOS PAULO FIGUEIREDO DE BARROS"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "6º Período": [
+     {
+      "Codigo": "NUP360",
+      "Nome": "Anatomia e Fisiologia Vegetal",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Anatomia do caule, raiz e folha. Relações hídricas e a estrutura morfo-anatômica do vegetal. Nutrição do vegetal e relações com as adaptações morfológicas e fisiológicas. Fotossíntese: reações de luz e reações do carbono; fotorrespiração; metabolismo C3, C4 e CAM. Transporte pelo floema. Metabolismo secundário. Desenvolvimento, hormônios vegetais e fotomorfogênese. Contextualização ecológica.\n",
+       "BibliografiaBasica": "1- APPEZATO-DA-GLÓRIA, B. & Carmello-Guerreiro, S.M. 2003. Anatomia Vegetal. 2ª ed. Ed. UFV. Viçosa.\n2- ESAU, K. 1974. Anatomia de plantas com sementes. São Paulo: Edgard Blücher.\n3- TAIZ, L & ZEIGER, E. 2006. Fisiologia Vegetal. 4ª ed. Porto Alegre: Artmed.\n",
+       "BibliografiaComplementar": "1- KERBAUY,G. B. 2004. Fisiologia Vegetal, 2ª ed. Ed. Guanabara Koogan.\n2- MORISON, J.I.L. & MORECROFT, M.D. 2006. Plant Growth and Climate Change. Ed. Wiley-Blackwell. Oxford.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 15:00",
+        "professor": "HEITOR MONTEIRO DUARTE"
+       },
+       {
+        "dia": "Sex",
+        "hora": "13:00 - 15:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "NUP355"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NUP247",
+      "Nome": "Zoologia III",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Filogenia, origem e caracterização de Pharyngotremata, com ênfase em Chordata e subgrupos. Morfologia, biologia e diversidade em Tunicata, Cephalochordata e Craniata. Evolução, anatomia comparada e biologia das principais linhagens recentes de Craniata: Myxiniformes, Petromyzontiformes, Chondrichthyes, Actinopterygii, Sarcopterygii, Lissamphibia, Mammalia, Sauropsida, Lepidosauria, Crocodylia e Aves.\n",
+       "BibliografiaBasica": "1- BENEDITO, E. 2015. Biologia e ecologia dos vertebrados. São Paulo: Ed. Roca.\n2- HILDEBRAND, M. & GOSLOW, G. 2006. Análise da estrutura dos vertebrados. 2ªed. São Paulo: Atheneu.\n3- POUGH, F.H.; Janis, C.M. & HEISER, J.B. 2008. A vida dos vertebrados. 4a ed. São Paulo: Atheneu.\n4- RUPPERT, E.E.; Fox, R.S. & Barnes, R.D. 2005. Zoologia dos Invertebrados. 7ªed. São Paulo: Ed. Roca.\n",
+       "BibliografiaComplementar": "1- FIGUEIREDO, J.L.; MENEZES, N.A. 1978, 1980, 2000. Manual de peixes marinhos do sudeste do Brasil, Vols. II (Teleostei(1)), III (Teleostei (2)) e VI (Teleostei(5)). Museu de Zoologia da Universidade de São Paulo, São Paulo. Download disponível em http://www.mz.usp.br\n2- MENEZES, N.A.; FIGUEIREDO, J.L. 1980, 1985. Manual de peixes marinhos do sudeste do Brasil, Vols. IV (Teleostei (3)) e V (Teleostei (4)). Museu de Zoologia da Universidade de São Paulo, São Paulo. Download disponível em http://www.mz.usp.br/collab/ictio.html#pub.\n3- SICK, H. 1997. Ornitologia brasileira. 3ª ed. Ed. Nova Fronteira. Rio de Janeiro.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "17:00 - 20:30",
+        "professor": "MICHAEL MAIA MINCARONE"
+       },
+       {
+        "dia": "Ter",
+        "hora": "17:00 - 20:30",
+        "professor": "FABIO DI DARIO"
+       },
+       {
+        "dia": "Qui",
+        "hora": "17:00 - 20:30",
+        "professor": ""
+       },
+       {
+        "dia": "Qui",
+        "hora": "17:00 - 20:30",
+        "professor": "MICHAEL MAIA MINCARONE"
+       }
+      ],
+      "Requisitos": [
+       "NUP122"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NUP361",
+      "Nome": "Microbiol e Imunologia Básica",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Caracterização e classificação de micro-organismos. Morfologia, ultraestrutura e fisiologia microbiana; crescimento, nutrição e metabolismo bacteriano; isolamento, propagação e identificação bacteriana. Mecanismos de patogenicidade; bactérias e vírus de interesse médico. Introdução à Imunologia; células e órgãos linfoides; mecanismos efetores da imunidade inata, adaptativa e imunorregulação; células do sistema imune e órgãos linfóides, antígenos, anticorpos, sistema complemento, complexo principal de histocompatibilidade (MHC). Hipersensibilidades; autoimunidade\n",
+       "BibliografiaBasica": "1- ABBAS, A.K.; LICHTMAN, A.H.; PILLAI, S. 2008. Imunologia Celular e Molecular. 6a ed. Rio de Janeiro: Elsevier.\n2- KINDT, T.J.; GOLDSBY, R.A. & OSBORNE, B.A. 2003. Imunologia de Kuby. 6a ed. Porto Alegre: Artmed.\n3- MADIGAN, M.T.; MARTINKO, J.M.; DUNLAP, P.V.; CLARK D.P. 2010. Microbiologia de Brock. 12. ed., Porto Alegre: Artmed.\n4- MURPHY, K.; TRAVERS, P. & WALPORT, M. 2009. Imunobiologia de Janeway. 7a ed. Porto Alegre: Artmed.\n5- TRABULSI L.R. & ALTERTHUM, F. 2004. Microbiologia. 5a ed. São Paulo: Atheneu.\n",
+       "BibliografiaComplementar": "1- LEVINSON, W. & ERNEST JAWETZ, E. 2010. Microbiologia Médica e Imunologia. Porto Alegre: Artmed.\n2- MURRAY, P.R.; ROSENTHAL, K.S.; KOBAYASHI, G.S. & PFALLER, M.A. 1998. Microbiologia Médica. Rio de Janeiro: Guanabara Koogan.\n3- SANTOS, N.S.O.; VILLELA, M.T. & WIGG, M.D. 1999. Introdução à virologia humana. 2a ed. Rio de Janeiro: Guanabara Koogan.\n4- ROSEN, F. & GEHA, R. 2002. Estudo de casos em Imunologia: um guia prático. 3a ed. Ed.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 16:00",
+        "professor": "DANIELLE DA SILVEIRA DOS SANTOS MARTINS"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 15:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "NUP127",
+       "NUP232"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "7º Período": [
+     {
+      "Codigo": "NUPX01",
+      "Nome": "Ativid Acadêmicas Especiais",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Os alunos deverão apresentar, ao final do 8º período, certificados de participação em atividades de Ensino, Pesquisa e Extensão, tais como conferências, mini-cursos, reuniões científicas que frequentaram durante o curso de graduação.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NUPK05",
+      "Nome": "Trab de Conclusão de Curso A.",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "120",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Aplicação prática do conhecimento em projeto de pesquisa de desenvolvimento ou de aplicação econômico-social, em nível de execução de tarefas, elementares de desenvolvimento do projeto. O projeto poderá ser desenvolvido no Campus UFRJ-Macaé, ou em outra unidade, previamente escolhida.\n",
+       "BibliografiaBasica": "Pertinente a cada projeto a ser desenvolvido.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "NUP365"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "8º Período": [
+     {
+      "Codigo": "NUPK06",
+      "Nome": "Trab de Conclusão de Curso B",
+      "Créditos": "3.0",
+      "Teórica": "0",
+      "Prática": "180",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Aplicação prática do conhecimento em projeto de pesquisa de desenvolvimento ou de aplicação econômico-social, em nível de execução de tarefas, elementares de desenvolvimento do projeto. O projeto poderá ser desenvolvido no Campus UFRJ-Macaé, ou em outra unidade, previamente escolhida.\n",
+       "BibliografiaBasica": "Pertinente a cada projeto a ser desenvolvido.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "NUPK05"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NUP018",
+      "Nome": "Educação Ambiental",
+      "Créditos": "3.0",
+      "Teórica": "15",
+      "Prática": "0",
+      "Extensão": "30",
+      "Informação": {
+       "Info": "Histórico, trajetórias e fundamentos da Educação Ambiental no Brasil. A emergência da ?questão ambiental?. Conferências Internacionais e Nacionais em EA. O arcabouço institucional-legal nacional (Instituições, leis, decretos e normativas). A EA formal e não-formal. Movimentos por justiça socioambiental, conflitos ambientais, ecologia política, populações vulneráveis, EA popular e de base comunitária. Pensadores contemporâneos do campo. EA no licenciamento de petróleo e em Unidades de Conservação. Comunicação Ambiental como ferramenta educativa. Cinema e multimídia voltada para EA (Circuito Tela Verde, Festivais de Cinema, educomunicação e mídia de massa).\nAÇÃO DE EXTENSÃO VINCULADA: \"Educação Ambiental e Cinema\" e \"Imaginamundos: educação, sustentabilidade e novas formas de viver\".\n",
+       "BibliografiaBasica": "1- Amazônia Legal/Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis, 1994. 109 p.\n2- BRASIL. Ministério da Educação e do Desporto. Coordenação de Educação Ambiental. A implantação da Educação Ambiental no Brasil. Brasília,1998. 166 p.\n3- CARVALHO, Vilson Sérgio de. Educação ambiental e desenvolvimento comunitário. Rio de Janeiro, RJ: WAK, 2002.\n4 GUIMARÃES, M. A dimensão ambiental na educação. 4. ed. São Paulo: Papirus, 2001.\n5- LATOUR, B. (2012). Reagregando o Social. Bauru, SP: EDUSC/ Salvador, BA: EDUFBA.\n6- LAYRARGUES, Philippe Pomier (coord.). Identidades da Educação Ambiental Brasileira. Brasília: Ministério do Meio Ambiente, 2004.\n7- LOUREIRO, C. F. B. et al Educação Ambiental e gestão participativa em unidades de conservação. 3a ed. (revisada e atualizada). Rio de Janeiro: IBAMA, 2008.\n8- QUINTAS, José da Silva (org.) Pensando e praticando a educação na gestão do meio ambiente. Brasília: IBAMA, 2000. 161 p. (Coleção Ambiente. Série estudos Educação Ambiental)\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 16:00",
+        "professor": "FRANCISCO DE ASSIS ESTEVES"
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 16:00",
+        "professor": "RAFAEL NOGUEIRA COSTA"
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 16:00",
+        "professor": "DANIEL BASILIO ZANDONADI"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "Disciplinas Optativas (Escolha Condicionada)": [
+     {
+      "Codigo": "FFP306",
+      "Nome": "Plantas Medicinais",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Cultivo, coleta e secagem de plantas medicinais. Conceitos de Química Vegetal. Produção de metabolitos secundários. Principais grupos de princípios ativos. Noções de abordagem fitoquímica. Estudo das plantas medicinais, usos, princípios ativos e toxicidade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "FFP600"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NEP110",
+      "Nome": "Fund Direitos Humanos",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Necessidade e possibilidade de uma fundamentação filosófica dos direitos humanos, para a determinação do conteúdo e construção de argumentos racionais na sua implementação. Identificação dos principais desafios para afirmação e a realização dos direitos humanos e apresentação de algumas propostas contemporâneas de Fundamentação Filosófica dos Direitos Humanos.\n",
+       "BibliografiaBasica": "1) BARBALET, J. M. A Cidadania. Lisboa: Editorial Estampa, 1989.\n2) BAUMAN, Zygmunt. Comunidade: a busca da segurança no mundo atual. Rio de Janeiro: Jorge Zahar, 2003.\n3) BECKER, Howard S. Métodos de pesquisa em ciências sociais. São Paulo: Hucitec, 1999.\n",
+       "BibliografiaComplementar": "1) BELLONI I, Magalhães h. / Souza L; Metodologia de avaliação em políticas públicas. São Paulo (Cortez) 2003.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUP003",
+      "Nome": "Eco de Invert Bentôn Lacustres",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Tópicos básicos de ecologia de invertebrados bentônicos de ambientes aquáticos lacustres. Estrutura e composição da comunidade bentônica e seu papel na ciclagem de materiais e fluxo de energia. Importância da comunidade de invertebrados bentônicos como indicadores de qualidade de água.\n",
+       "BibliografiaBasica": "1- BEGON, M.; TOWNSEND, C.R. & HARPER, J.L. 2007. Ecologia: de Indivíduos a Ecossistemas. Ed. Artmed. Porto Alegre.\n2- BOZELLI, R.L.; ESTEVES, F.A. & ROLAND, F. 2000. Impacto e Recuperação de um Ecossistema Amazônico. Ed. UFRJ. Rio de Janeiro.\n3- ESTEVES, F. A. 1998. Fundamentos de Limnologia, 2aed. Ed. Interciência. Rio de Janeiro.\n4- WETZEL, R. G., 1993. Limnologia. Ed. Fundação Caloustre Gulbenkian. Lisboa.\n",
+       "BibliografiaComplementar": "1- ESTEVES, F.A. 1998. Ecologia das lagoas costeiras do Parque Nacional da Restinga de Jurubatiba e do município de Macaé (RJ). Ed. NUPEM/UFRJ. Macaé.\n2- ODUM, E. P. 1988. Ecologia. Ed. Guanabara Koogan S.A. Rio de Janeiro.\n3- RICKLEFS, R.E. 1993. A Economia da Natureza. 3ª ed. Ed. Guanabara Koogan S.A. Rio de Janeiro.\nTUNDISI, J.G. & TUNDISI, T.M. 2008. Limnologia. Ed. Oficina de Textos. São Carlos.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "NUP126"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUP005",
+      "Nome": "Fito Marinho:biolog e Taxonom",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Aspectos biológicos e taxonômicos, teóricos e práticos, sobre os principais grupos de algas marinhas bentônicas incluindo os métodos básicos de pesquisa e estudo de representantes brasileiros.\n",
+       "BibliografiaBasica": "1- GRAHAM, J.; WILCOX, L.W. & GRAHAM, L.E. 2008. Algae. 2aed. Prentice Hall. London.\n2- REVIERS, B. de. 2006. Biologia e filogenia das algas. Ed. Artmed. Porto Alegre.\n",
+       "BibliografiaComplementar": "1- BOLD, H.C. & WYNNE, M.J. 1985. Introduction to the Algae. Structure and Reproduction. Ed. Prentice-Hall. London.\n2- HOEK, C. van den; MANN, D.G. & JAHNS, H.M. 1997. Algae. An Introduction to Phycology. Ed. Cambridge University Press. United Kingdom.\n3- LEE, R.E. 2008. Phycology. 4aed. Ed. Cambridge University Press. Cambridge.\n4- MAGGS, C.A. & HOMMERSAND, M.H. 1993. Seaweeds of the British Isles. v.1. Rhodophyta. Part 3 A Ceramiales. Ed. The Natural History Museum. London.\n5- SCHNEIDER, C.W. & SEARLES, R.B. 1991. Seaweeds of the Southeastern United States. Cape Hatteras to Cape Canaveral. Ed. Duke University Press. Durham and London.\n6- WOMERSLEY, H.B.S. 2003. The marine benthic flora of Australia. Rhodophyta ? Part III D. Ed. Australian Biological Resources Study, Canberra and the State Herbarium of South Australia, Adelaide.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "NUP246"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUP008",
+      "Nome": "Tóp Esp em Biotecnologia",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Abordagens de temas científicos e tecnológicos nas áreas de: Ciências Genômicas e Biotecnologia, Bioquímica, Biologia Molecular, Genética, Bioinformática e Imunologia.\n",
+       "BibliografiaBasica": "1- ALBERTS, B.; JOHNSON, A. & WALTER, P. 2010. Biologia Molecular da Célula. 5a ed. Ed. Artmed. Porto Alegre.\n2- GRIFFITHS, A.J.F.; MILLER, J.H.; SUZUKI, D.T.; LEWONTIN, R.C. & GELBART, W.M. 2009. Introdução à Genética. 7ª ed. Ed. Guanabara Koogan. Rio de Janeiro.\n3- LEHNINGER, A.L., NELSON, D.L. & COX, M.M. 2005. Princípios de bioquímica. 4aed. Ed. Sarvier. São Paulo.\n",
+       "BibliografiaComplementar": "1- LEWIN, B. 2009. GENES IX. 9ª ed. Ed. Artmed. Porto Alegre.\n2- PURVES, W.K.; SADAVA, D.; ORIANS, G.H. & HELLER, H.C.. Vida: A Ciência da Biologia. 6ª ed. v.1-3. Ed. Artmed. Porto Alegre.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "NUP236"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUP010",
+      "Nome": "Tóp Esp em Evolução",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "NUP354"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUP012",
+      "Nome": "Intr Fil Áreas: Conh Éti Estet",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A Filosofia e os diferentes tipos de conhecimentos. A Filosofia como interpretação e crítica da realidade. O homem e a realidade nos diferentes momentos da história da filosofia. Limitações da filosofia clássica: verdade x ideologia. Ética e a pressuposição de sujeitos autônomos. Diferentes abordagens éticas. Estética e sua relação com o mundo contemporâneo. Estética, transformação da percepção e utopia. Descondicionamento do olhar e criação.\n",
+       "BibliografiaBasica": "1- BENJAMIN, W. 1986. Obras Escolhidas. v.1. 2ª ed. Ed. Brasiliense. São Paulo.\n2- ECO, U. 1995. Obra Aberta. Ed. Perspectiva. São Paulo.\n3- KANT, I. 1898. Crítica da razão pura. Ed. Fundação Calouste Gulbenkian. Lisboa.\n",
+       "BibliografiaComplementar": "1- KANT, I. 1988 Fundamentação da metafísica dos costumes. Tradução de Paulo Quintela. Ed. Edições 70. Lisboa.\n2- MACHADO, A. 1988. A arte do vídeo. Ed. Brasiliense. São Paulo.\n3- ORTEFA, F. 1999. Amizade e Estética da Existência em Foucault. Ed. Graal. Rio de Janeiro.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUP016",
+      "Nome": "Ingles Instrumental I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUP020",
+      "Nome": "Pteridologia",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Sistemática de Lycophyta e Monilophyta. Aspectos evolutivos e ecológicos. Processos reprodutivos. Classes, ordens e famílias nas fitofisionomias brasileiras. Importância econômica.\n",
+       "BibliografiaBasica": "1- EVERT, R.F. & EICHHORN, S.E. 2014. Raven - Biologia vegetal. 8aed. Ed. Guanabara Koogan. Rio de Janeiro.\n2- KRAMER, K.U. & GREEN, P.S. (ed). 1990. Pteridophytes and Gymnosperms. In: The Families and genera of Vascular Plants. Vol 1. Springer-Verlag.\n",
+       "BibliografiaComplementar": "Artigos\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "NUP355"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUP022",
+      "Nome": "Cultiv e Fisiol das Macroalgas",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Cultivo de organismos. Níveis de cultivo em Maricultura. Finalidades e Sistemas de cultivo. Cultivo de macro algas de valor econômico. Importãncia das macroalgas: alimentação, ficocolóides e outros. Cultivo na natureza: material de cultivo in situ. Preparação do meio de cultura. Diferentes meios de cultura. Combate aos contaminantes. Condições de laboratório: luz, temperatura e salinidade. Isolamento e Purificação. Técnicas de crescimento.\n",
+       "BibliografiaBasica": "1- Brasil. Ministério da Saúde. Organização Pan-Americana da Saúde. Ministério da Ciência e Tecnologia. Caracterização do Estado da Arte em Biotecnologia Marinha no Brasil. Ministério da Saúde, Organização Pan-Americana da Saúde, Ministério da Ciência e Tecnologia. ? Brasília: Ministério da Saúde, 2010.\n2- GRAHAM, L.E. & WILCOX, L.W. 2000. Algae. Prentice-Hall, Inc.\n3- HURD, C.L., HARRISON, P.J., BISCHOF, K. & LOBBAN, C.S. 2014. Seaweed Ecology and Physiology. 2nd. Edition. Cambridge University Press.\n4- LEE, R.E. 2008. Phycology. 3rd. Edition. Cambridge University Press.\n5- PEDRINI, A.G.  (Org.). 2010. Macroalgas - Uma Introdução à Taxonomia. Rio de Janeiro: Technical Books.\n6- PEDRINI, A.G.  (Org.). 2011. Macroalgas e Gramas Marinhas do Brasil - Vol. 2. Rio de Janeiro: Technical Books.\n7- PEDRINI, A.G.  (Org.). 2013. Macroalgas (Ocrófitas Multicelulares) Marinhas do Brasil - Vol. 3. Rio de Janeiro: Technical Books.\n8- PDFs de artigos publicados e teses que abordem o tema de cultivo de macroalgas marinhas.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "NUP246"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUP024",
+      "Nome": "Pens Soc Hist Conhec Educação",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Império do Brasil: escravidão, letrados e Estado; \"Civilização\" versus \"Barbárie\"; viajantes e cientistas; invenção do romance; médicos e higienistas; raça e etnia. República: cidadanias; letrados e ensaístas; \"identidade nacional\"; modernismos; regimes autoritários e críticas internacionais no Brasil; capitalismos e suas diferentes interpretações: liberalismos e marxismos; as subjetividades e as novas formas de pensar a escrita e a leitura; historiografia do poder, da disciplina e da autoridade; teoria e pesquisa social.\n",
+       "BibliografiaBasica": "1- CARVALHO, José Murilo de (org.). Nação e cidadania no Império: novos horizontes. Rio de Janeiro: Civilização Brasileira, 2007.\n2- FERREIRA, Jorge e DELGADO, Lucilia de Almeida Neves (orgs.). O Brasil Republicano. Rio de Janeiro: Civilização Brasileiro, 2003.\n",
+       "BibliografiaComplementar": "1- CHALHOUB, Sidney & PEREIRA, Leonardo Affonso de M. (orgs.). A história contada: capítulos de História Social da literatura no Brasil. Rio de Janeiro: Nova Fronteira, 1998.\n2- HOLANDA, Sérgio Buarque de (dir.). História Geral da Civilização Brasileira. São Paulo: DIFEL, 1974.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUP026",
+      "Nome": "Tóp Esp Éti Filo Polít Contemp",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O séc. XIX caracteriza-se por forte crítca ao modelo epistemológico moderno aplicado à ética e à política. A universalidade dos valores e sistemas de governo não mais se sustenta com tanta facilidade uma vez que ruiram seus fundamentos. Contudo, a ausência de alternativas também se mostra sombria. No presente curso se buscará estudar como o pensamento filosófico contemporâneo tem trabalhado estas questões e quais as suas possíveis contribuições para o debate ético e político no séc. XXI. Instrumentação para ensino teórico dos conteúdos supracitados.\n",
+       "BibliografiaBasica": "1- AGAMBEN ?Homo sacer?. UFMG Editora, Belo Horizonte, 2010.\n2- DELEUZE, G. ?Mil platôs?. Editora 34, 2009.\n3- ESPINOSA, B. ?Ética?. Autêntica. Belo Horizonte, 2009.\n4- FOUCAULT, M. ?Em defesa da sociedade?. Martins Fontes, São Paulo, 1999.\n5- NIETZSCHE. F.W. ?Genealogia da moral?. Companhia das letras, São Paulo, 2007.\n",
+       "BibliografiaComplementar": "1- DELEUZE, G. ?Diferença e repetição?. Graal editor. Rio de Janeiro, 2009.\n2- ESPINOSA, B. ?Tratado político?. Editora Nova Cultural. São Paulo, 1996.\n3- FOUCAULT, M. ?Hermenêutica do sujeito?, Martins Fontes, São Paulo, 2004.\n4- HARDT, M. e NEGRI, A. ?Império?. Record editora. Rio de Janeiro, 2004.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUP028",
+      "Nome": "Tópicos Especiais em Genética",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Temas em Genética e Biologia Molecular complementares ao currículo obrigatório.\n",
+       "BibliografiaBasica": "Por se tratar de tópicos especiais, a bibliografia será mudada a cada oferecimento da disciplina, em acordo com a temática a ser abordada\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "NUP242"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUP030",
+      "Nome": "Tóp Especiais em Botânica",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Temas e tecnologias avançadas e atuais em Botânica e suas subáreas.\n",
+       "BibliografiaBasica": "1- EVERT, R.F. & EICHHORN, S.E. 2014. Raven - Biologia vegetal. 8aed. Ed. Guanabara Koogan. Rio de Janeiro.\n",
+       "BibliografiaComplementar": "A ser definida em acordo com o tema proposto.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "14:00 - 17:00",
+        "professor": "FELIPE FAJARDO VILLELA ANTOLIN BARBERENA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUP033",
+      "Nome": "Oficina da Palavra",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Leitura, interpretação e produção de textos: dos gêneros do cotidiano ao contexto de produção textual da universidade. O que é escrever bem / Preconceito linguístico: reflexões. Coerência e coesão. Práticas de escrita e de leitura (Oficinas I e II): os sentidos do texto.\n",
+       "BibliografiaBasica": "1- BAGNO, Marcos. Preconceito linguístico: o que é, como se faz. São Paulo: Edições Loyola, 1999.\n2- BECHARA, Evanildo. Moderna Gramática Portuguesa. 37. ed. Rio de Janeiro: Nova Fronteira, 2009.\n3- CARNEIRO, Agostinho Dias. Redação em Construção. 2. ed. São Paulo: Moderna, 2001.\n4- GARCIA, Othon M. Comunicação em Prosa Moderna. 27.ed. Rio de Janeiro: FGV 2010. ]\n5- KOCH, Ingedore G. Villaça. Argumentação e linguagem. 4. ed. São Paulo: Cortez, 1996.\n6- Intertextualidade: diálogos possíveis. 2. ed. São Paulo: Cortez, 2008.\n7- ELIAS, Vanda Maria. Ler e escrever: estratégias de produção. São Paulo: Contexto, 2009.\n8- TRAVAGLIA, Luiz Carlos. Texto e Coerência. 11. ed. São Paulo: Cortez, 2007.\n9- PLATÃO, Francisco; FIORINI José. Para Entender o Texto: leitura e redação. 17. ed. São Paulo: Ática, 2007.\n",
+       "BibliografiaComplementar": "1- ANTUNES, Irandé. Lutar com Palavras: coesão e coerência. São Paulo: parábola, 2005.\n2- ABREU. Antônio Suarez. Curso de Redação. 11. ed. São Paulo: Ática, 2003.\n3- CASTILHO, Ataliba T. de; ELIAS, Vanda Maria. Pequena Gramática do Português Brasileiro. São Paulo: Contexto, 2012.\n4- KOCH, Ingedore G. Villaça. A Inter-ação pela Linguagem. 11. ed. São Paulo: Contexto, 2012.\n5- MARCUSCHI, Luiz Antônio. Da fala para a escrita: atividades de retextualização. 10. ed. São Paulo: Cortez, 2010.\n6- Produção Textual, Análise de Gêneros e Compreensão. São Paulo: parábola Editorial, 2008.\n7- SEVERINO, Joaquim Antônio. Metodologia do Trabalho Científico. 23. ed. São Paulo: Cortez, 2007.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUP035",
+      "Nome": "Educ em Espaços Não Formais",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo e análise da produção teórica e prática da educação em ciências em espaços não formais ou espaços não escolares. Avaliação do potencial das metodologias e linguagens nos processos de ensino-aprendizagem relacionados às práticas da educação não formal em ciências. Construção de projetos, materiais e propostas de abordagem de conteúdos científicos em contextos não escolares. Atividades práticas de apresentação de relatórios, debates e discussões sobre as vivências e experiências dos alunos em espaços formais, não formais e virtuais de educação em ciências.\n",
+       "BibliografiaBasica": "1- MARANDINO, M.; MONACO, L. e McManus, P. Educação em museus: pesquisas e prática; organizadoras. São Paulo: FEUSP, 2013. 97 p.\n2- GOUVÊA, M. MARANDINO e M. C. LEAL (orgs.). Educação e Museus, a Construção Social do Caráter Educativo dos Museus de Ciência, RJ, Access Editora. 2003.\n3- MARANDINO et al. A Educação em Museus e os Materiais Educativos São Paulo: GEENF/USP, 2016.48 p.\n4- PEREIRA, J. S.; SIMAN, L. M. C. ; COSTA, C. M. ; NASCIMENTO, S. S. Escola e Museu: diálogos e práticas. 1. ed. Belo Horizonte: Secretaria de Estado da Cultura/ Superintendência de Museus/Cefor, 2007.\n",
+       "BibliografiaComplementar": "1- CAZELLI, S; QUEIROZ, G; ALVES, F; FALCÃO, D; VALENTE, M. E; GOUVÊA, G; COLINVAUX, D. Tendências pedagógicas das exposições de um museu de ciência. In: Anais do Seminário Internacional de Implantação de Centros e Museus de Ciência. Rio de Janeiro: UFRJ, 2002.\n2- CAZELLI, S. Ciência, cultura, museus, jovens e escolas: Quais suas relações? 2005. 260 f. Tese Faculdade de Educação, Pontifícia Universidade Católica, Rio de Janeiro, 2005.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUP038",
+      "Nome": "Tóp Especiais em Saúde",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Temas e tecnologias avançadas e atuais em Saúde e suas subáreas.\n",
+       "BibliografiaBasica": "A ser definido em acordo com o tema proposto.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "17:00 - 19:00",
+        "professor": "WAGNER DE OLIVEIRA VITAL"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUP040",
+      "Nome": "Genética Humana",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Mutações gênicas e Mecanismos de reparo. Padrões de herança. Herança poligênica e\nmultifatorial. Cromossomos: organização e alterações cromossômicas. Grupos sanguíneos e Hemoglobinopatias. Genética metabólica. Diagnóstico pré-natal. Tratamento das doenças genéticas. Aspectos éticos na Genética Médica.\n",
+       "BibliografiaBasica": "1- CARROLL, SEAN B.; GRIFFITHS, ANTHONY J. F., WESSLER, SUSAN R., DOEBLEY, JOHN. Introdução à Genética. 11 ed. Rio de Janeiro: Guanabara Koogan, 2016. ISBN: 9788527729727.\n2- PIERCE, BA. Genética um enfoque conceitual. 5 ed. Rio de Janeiro: Guanabara Koogan. 2016. ISBN: 9788527729055.\n3- SNUSTAD DP & SIMMONS MJ. Fundamentos de Genética. 7 ed. Rio de Janeiro: Guanabara Koogan, 2017. ISBN: 9788527731010.\n4- STRACHAN, T, READ, A. Genética Molecular Humana. 4 ed. Porto alegre: Artmed.2013. ISBN: 9788565852517.\n",
+       "BibliografiaComplementar": "1- BORGES-OSÓRIO MR; ROBINSON WM. Genética humana. 2. ed. Porto Alegre: Artmed, 2001. ISBN: 9788573077834.\n2- JORDE, LB; CAREY, JC; BAMSHAD, MJ; WHITE, RL. Genética médica. 4 ed. Rio de Janeiro: Elsevier, 2010. ISBN: 8535225692.\n3- LEWIN B. Genes IX - Tratado de Genética Molecular. 9 ed. Porto Alegre: Artmed, 2009. ISBN: 8573077921.\n4- NUSSBAUM, RL, MCINNES, RR, WILLARD, HF. Thompson & Thompson - Genética médica. 8. ed. Rio de Janeiro: Elsevier. 2016. ISBN: 9788535284003.\n5- READ, A; DONNAI, D. Genética clínica ? uma nova abordagem. 1 ed. Porto Alegre: Artmed, 2008. ISBN: 9788536311906.\n6- WESTMAN, JA. Genética Médica. 1 ed. Rio de Janeiro: Guanabara Koogan, 2007. ISBN: 9788527711685.\n7- YOUNG, ID. Genética Médica. 1 ed. Rio de Janeiro: Guanabara Koogan, 2007. ISBN: 9788527712354.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "NUP242"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUP042",
+      "Nome": "Geoproces Ciências Biológicas",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Tópicos básicos de Cartografia, Geodésia, Fotogrametria, Sensoriamento Remoto e Processamento Digital de Imagens. Introdução aos Sistemas de Informações Geográficas.\n",
+       "BibliografiaBasica": "1- BORROUGH, P. (1998), Principles of geography information systems for land resources assessment. Oxford: Clarendon Press.\n2- GONZALEZ, R.C., WOODS, R.E. (2000), Processamento de imagens digitais, 509 p., E. Blucher.\n3- JENSEN, J.R. (2009), Sensoriamento Remoto do Ambiente: Uma Perspectiva em Recursos Terrestres, 1a Ed. 672 p., Parêntese Editora.\n4- MOREIRA, M.A., (2012) Fundamentos do Sensoriamento Remoto e Metodologias de Aplicação, Editora UFV, 4a edição.\n5-  NOVO, E.M.L.M. (2010) Sensoriamento Remoto: Princípios e Aplicações Editora Edgar Blucher Ltda.\n6- ROCHA, C. H. B. (2002) Geoprocessamento: Tecnologia Transdisciplinar, Edição do autor, 2 edição, 220p.\n",
+       "BibliografiaComplementar": "1- RICHARDS, J.A., JIA, X. (2005), Remote Sensing Digital Image Analysis: An Introduction, 4a Ed., 439 p., Springer-Verlag Berlin Heidelberg.\n2- SCHOWENGERDT, R.A. (2007), Remote Sensing: Models and Methods for Image Processing, 3a Ed., 515 p., Academic Press.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "09:00 - 12:00",
+        "professor": "PAULA DEBIASI"
+       },
+       {
+        "dia": "Qua",
+        "hora": "09:00 - 12:00",
+        "professor": ""
+       },
+       {
+        "dia": "Sex",
+        "hora": "09:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUP351",
+      "Nome": "Introdução à Biotecnologia",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Abordagem crítica de benefícios de métodos e técnicas biotecnológicas utilizados para disponibilização de recursos vegetais para a sociedade. Conhecimentos específicos sobre Biotecnologia e Biologia Molecular, suas implicações e aplicações na agricultura e indústria, não somente referente às técnicas utilizadas, mas também quanto aos aspectos éticos, ambientais e de biossegurança envolvidos.\n",
+       "BibliografiaBasica": "1- LEWIN, B. 2009. Genes IX. 9ª ed. Ed. Artmed. Porto Alegre.\n2- TORRES, A.C.; CALDAS, L.S. & BUZZO, J.A. 1998. Cultura de Tecidos e Transformação Genética de Plantas. v.1. Ed. Embrapa. Brasília.\n3- TORRES, A.C.; CALDAS, L.S. & BUZZO, J.A. 1999. Cultura de Tecidos e Transformação Genética de Plantas. v.2. Ed. Embrapa. Brasília.\n",
+       "BibliografiaComplementar": "1- GEORGE, E.F.; HALL, M.A. & DE KLERK, G.J. 2008. Plant propagation by tissue culture. 3a ed. Ed. Springer. Dordrecht.\n2- GRIFFITHS, A.J.F.; MILLER, J.H.; SUZUKI, D.T.; LEWONTIN, R.C. & GELBART, W.M. 2009. Introdução à Genética. 7ª ed. Ed. Guanabara Koogan. Rio de Janeiro.\n3- GUERRA M.P. & NODARI, R.O. 2007. Apostila de Biotecnologia vegetal. Apostila de aula. [http://www.cca.ufsc.br/lfdgv/Apostila.htm].\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 17:00",
+        "professor": "MARCO ANTONIO LOPES CRUZ"
+       }
+      ],
+      "Requisitos": [
+       "NUP242"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUP470",
+      "Nome": "Educação e Comunicação- Libras",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUP474",
+      "Nome": "Fund Biol Cel Apl Cult Cel Mam",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Preparo de material para cultura de células, Cultura primária de células de mamíferos, Mecanismos de adesão celular, Testes de Viabilidade Celular, Identificação de marcadores celulares, Uso do cultivo de células na pesquisa científica.\n",
+       "BibliografiaBasica": "1- ALBERTS, B; JOHNSON, A. & WALTER, P. Biologia Molecular da Célula. 5a ed. Porto Alegre: Ed. Artmed. 2010.\n2- LODISH, H.; BERK, A.; MATSUDAIRA, P.; KAISER, C.; KRIEGER, M.; SCOUT, M.P.; ZIPURSKY, L. & DARNELL, J. Biologia Celular e Molecular. 5ª ed. Porto Alegre: Ed. Artmed. 2005.\n",
+       "BibliografiaComplementar": "1- LEVINSON, W. Microbiologia médica e imunologia. 10ª.ed. Porto Alegre: Ed. Artmed. 2010.\n2- SANTOS, N.S.O.; ROMANOS, M.T.V. & WIGG, M.D. Introdução à Virologia Humana. 2ª ed. Rio de Janeiro: Guanabara Koogan. 2008.\n3- TORTORA, G.J.; FUNKE, B.R. & CASE, C.L.. Microbiologia. 8ª ed. Porto Alegre: Ed. Artmed. 2005.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "NUP123"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUP489",
+      "Nome": "Metabolismo e Energético",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "NUP236"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUPX04",
+      "Nome": "Inic Científica em Biologia II",
+      "Créditos": "4.0",
+      "Teórica": "0",
+      "Prática": "240",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A Iniciação Científica (IC) é um processo alinhado com o perfil do Biólogo a ser formado e propicia a consolidação de competências e habilidades\ndescritas para pesquisa científica.\n",
+       "BibliografiaBasica": "1- MASSI, L; QUEIROZ, S.L. (orgs.). Iniciação científica: aspectos históricos, organizacionais e formativos da atividade no ensino superior brasileiro [livro digital]..São Paulo: Editora Unesp Digital. 2015.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "NUPX03"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FFP304",
+      "Nome": "Introd à Quím de Prod Naturais",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Áreas da química de produtos naturais, fatores que afetam a produção de metabólitos secundários, fotossínteses e metabolismo primário, via do acetato-malonato, policetídeos, via do acetato-mevalonato - terpenóides, via do ácido chiquímico, alcalóides aromáticos e não aromáticos. Ocorrência das classes de metabólitos secundários. Aspectos ecológicos de interação planta-planta, inseto-planta, mamíferos herbívoros-planta.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "IQO230"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCW003",
+      "Nome": "Tóp em Relações Étnico Raciais",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução à história dos povos ameríndios e da diáspora africana; eurocentrismo e a evolução das teorias eugênicas; abolição da escravatura negra e o mito da democracia racial. Aproximação da história, cultura, território e religiosidades tradicionais afro-indígenas na região norte-fluminense. Educação das relações étnico raciais e a efetivação da Lei 11.645/08. Alimentação e cuidado na ótica das políticas de saúde\nintegral da população negra e indígena.\n___ BIBLIOGRAFIA BÁSICA ___\n1) ALMEIDA, A. A. B.; SANCHEZ, L. Os negros na legislação educacional e educação formal no Brasil. Revista Eletrônica de Educação, vol.10, n.2, p.234-246, 2016.\n2) KAHN M, Franchetto B. Educação indígena no Brasil: conquistas e desafios. Em Aberto, v.14, n.63, 1994.\n3) WERNECK J. Racismo Institucional e Saúde da População Negra. Saúde Soc, v.25, n.3, p.535-549, 2016.\n___ BIBLIOGRAFIA COMPLEMENTAR ___\n1) ALMEIDA, A. A. B.; SANCHEZ, L. Os negros na legislação educacional e educação formal no Brasil. Revista Eletrônica de Educação, vol.10, n.2, p.234-246, 2016.\n2) FREYRE, G. Casa-grande & senzala: formação da família brasileira sob o regime da economia patriarcal, São Paulo: Global, 2013.\n3) GOMES, Nilma Lino. O Movimento Negro educador: saberes construídos nas lutas por emancipação. RJ: Vozes, 2017.\n4) JACCOUD, Luciana. Racismo e república: o debate sobre o branqueamento e a discriminação racial no Brasil. IN. HEODORO, Mario (Oeg.). Luciana Jaccoud; Rafael Osório; Sergei Soares. As políticas Públicas e a desigualdade racial no Brasil: 120 anos após a abolição. Brasília: IPEA, 2008.\n5) MUNANGA, Kabengele. Negritude: usos e sentidos. 3. ed. Belo Horizonte: Autêntica, 2012.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUP002",
+      "Nome": "Recur Vegetais e Etnobotânica",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUP004",
+      "Nome": "Filog e Evoluç em Angiospermas",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Origem das Angiospermas. Interpretação evolutiva dos caracteres morfológicos, genéticos e químicos. Aspectos gerais da filogenia dos grupos angiospérmicos atuais. Caracterização taxonômica das principais famílias botânicas ocorrentes nas formações vegetais atlânticas.\n",
+       "BibliografiaBasica": "1- JUDD, W.S.; CAMPBELL, C.S., KELLOG, E. A., STEVENS, P. F. & DONOGHUE, M.D. 2009. Sistemática Vegetal, um enfoque filogenético. Ed. Artmed. Porto Alegre.\n2- SOUZA, V.C. & LORENZI, H. 2005. Botânica Sistemática. Guia ilustrado para identificação das famílias de Angiospermas da flora brasileira, baseado em APG II. Ed. Instituto Plantarum de Estudos da Flora Ltda. Nova Odessa.\n",
+       "BibliografiaComplementar": "1- HEYWOOD, V.H. 2007. Flowering Plants of the World. 2aed. Oxford University Press. Oxford.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "NUP355"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUP006",
+      "Nome": "Ictiologia Básica",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Diversidade e evolução os principais grupos de peixes, com ênfase nos grupos presentes no Norte Fluminense.\n",
+       "BibliografiaBasica": "1- FIGUEIREDO, J.L. 1977. Manual de peixes marinhos do sudeste do Brasil. v.1 (Introdução. Cações, raias e quimeras). Ed. Museu de Zoologia da Universidade de São Paulo. São Paulo. Download disponível em http://www.mz.usp.br\n2- FIGUEIREDO, J.L. & MENEZES, N.A. 1978. Manual de peixes marinhos do sudeste do Brasil, v.2 (Teleostei). Ed. Museu de Zoologia da Universidade de São Paulo. São Paulo. Download disponível em http://www.mz.usp.br\n3- FIGUEIREDO, J.L. & MENEZES, N.A. 1980. Manual de peixes marinhos do sudeste do Brasil, v.3 (Teleostei) Ed. Museu de Zoologia da Universidade de São Paulo. São Paulo. Download disponível em http://www.mz.usp.br\n4- FIGUEIREDO, J.L. & MENEZES, N.A. 2000. Manual de peixes marinhos do sudeste do Brasil, v.4 (Teleostei). Ed. Museu de Zoologia da Universidade de São Paulo. São Paulo. Download disponível em http://www.mz.usp.br\n5- HICKMAN, Jr. C.P.; ROBERTS, L.S. & LARSON, A. 2004. Princípios Integrados de Zoologia. Ed. Guanabara Koogan. Rio de Janeiro.\n6- HILDEBRAND, M. & GOSLOW, G. 2006. Análise da estrutura dos vertebrados. 2ªed. Ed. Atheneu. São Paulo.\n7- MAISEY, J.G. 1996. Discovering fossil fishes. Ed. Henry Holt and Company. New York.\n8- NELSON, J. 2006. Fishes of the world. Ed. Wiley & Sons. New Jersey.\n9- POUGH, F.H.; JANIS, C.M. & HEISER, J.B. 2\n",
+       "BibliografiaComplementar": "1- HENNIG, W. 1999. Phylogenetic Systematics. 3aed. Ed.University of Illinois Press. Urbana.\n2- PAPAVERO, N. 1994. Fundamentos práticos de taxonomia zoológica: coleções, bibliografia, nomenclatura. 2ªed. Ed. EDUNESP. São Paulo.\n3- WILEY, E.O.; SIEGEL-CAUSEY, D.; BROOKS, D.R. & FUNK, V.A. 1991. The Compleat Cladist: A primer of phylogenetic procedures. Ed. The University of Kansas, Museum of Natural History. Kansas.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "NUP247"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUP009",
+      "Nome": "Tóp Esp em Ecologia",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Temas e tecnologias relacionados à ecologia aquática e/ou ecologia de ecossistemas terrestres. Recuperação e conservação da vida silvestre. Análise específica de um determinado nível de complexidade (populações, comunidades, ecossistemas e/ou paisagem) e suas propriedades emergentes. Interações entre níveis de complexidade. Efeito do componente humano sobre determinado nível de complexidade.\n",
+       "BibliografiaBasica": "A ser definida em acordo com o tema abordado.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "NUP126"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUP011",
+      "Nome": "Tóp Esp em Bioquímica",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Aprofundamento dos conhecimentos básicos de Bioquímica aplicados a diferentes sistemas biológicos, abordando grandes temas através da apresentação de aulas e discussão de artigos e capítulos de livros especializados.\n",
+       "BibliografiaBasica": "1- BERG, J.M.; TYMOCZKO, J.L.; STRYER, L.; 2004. Bioquímica. 5aed. Ed. Guanabara Koogan. Rio de Janeiro.\n2- LEHNINGER, A.L.; NELSON, D.L. & COX, M.M. 2005. Princípios de bioquímica. 4aed. Ed. Sarvier. São Paulo.\n3- VOET, D.; VOET, J.G. & PRATT, C.W. 2006. Fundamentos de bioquímica. 3aed. Ed. Artmed. Porto Alegre.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "NUP236"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUP014",
+      "Nome": "Tópicos Espec em Humanidades",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Temas de pesquisa em Ciências Humanas e Sociais, História, Filosofia, Artes e Religião. Relações entre as Ciências, os Saberes e a Sociedade.\n",
+       "BibliografiaBasica": "A ser definida em acordo com o tema proposto.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUP019",
+      "Nome": "Biologia de Galhas",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Definições, morfologia, desenvolvimento e interações entre plantas hospedeiras e organismos indutores de galhas. Mecanismos de indução e defesa. Ecologia de galhas.\n",
+       "BibliografiaBasica": "1- APPEZATO-DA-GLÓRIA, B. & Carmello-Guerreiro, S.M. 2003. Anatomia Vegetal. 2ª ed. Ed. UFV. Viçosa.\n2- DEL-CLARO, K. & TOREZAN-SILINGARDI, H.M. (2012). Ecologia das interações plantas-animais - Uma abordagem ecológico-evolutiva. Technical Books Editora.\n3- FERNANDES, G.W. & SANTOS, J.C. (2014). Neotropical Insect Galls. Springer-Verlag.\n4- MEYER, J. Plant galls and gall inducers. Berlin : Gebrüeder Borntraeger, 1987. 291 p.\n5- MEYER, J.; MARESQUELLE, H. J. Anatomie des galles. Berlin : Gebrüder Borntraeger, 1983. 662 p.\n6- SHORTHOUSE, J. D.; ROHFRITSCH, O. (Ed.). 1992 Biology of insect-induced galls. Oxford University Press.\n7- TISSOT-SQUALI, M.L. (Org) (2009). Interações ecológicas e Biodiversidade. Editora UNIJUÍ.\n",
+       "BibliografiaComplementar": "Artigos selecionados em jornais especializados em publicações sobre estudos de galhas, sendo a listagem atualizada a cada período\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "NUP360"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUP021",
+      "Nome": "Briologia",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Taxonomia dos Briófitos; Evolução; aparecimento e expansão. Classes, Ordens e Famílias. Reprodução, Gametófito e Esporófito.\n",
+       "BibliografiaBasica": "1- EVERT, R.F. & EICHHORN, S.E. 2014. Raven - Biologia vegetal. 8aed. Ed. Guanabara Koogan. Rio de Janeiro.\n2- VANDERPOORTEN, A. & GOFFINET, B. 2009. Introduction to Bryophytes. Cambridge Univ. Press.\n",
+       "BibliografiaComplementar": "Artigos\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "NUP246"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUP023",
+      "Nome": "Documentário Educ e Pesquisa",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Documentário e Pesquisa ? O Filme etnográfico como utilização da imagem aplicada ao estudo do Homem na sua dimensão social e cultural. O pensamento e as formas estéticas do documentário. A constituição de um campo de pesquisa na área da discussão da imagem. A história da construção da linguagem fotográfica e cinematográfica paralelamente à elaboração dos métodos clássicos da antropologia. Crise e transformação do pensamento científico. Educação ? Os limites e os equívocos das visões liberais e utópico-liberais da educação. A práxis educativa emancipadora. O pensamento para além de um conhecimento fragmentado.\n",
+       "BibliografiaBasica": "1- BARBOSA, A.; CUNHA, E. Antropologia e imagem. Rio de Janeiro, RJ: Zahar, 2006.\n2- MÉSZÁROS, I. A Educação para além do capital. São Paulo, SP: Boitempo, 2008.\n3- NICHOLS, B. Introdução ao documentário. Campinas, SP: Papirus, 2005.\n4- KUHN, T.S. A estrutura das revoluções científicas. São Paulo, SP: Perspectiva, 2006.\n",
+       "BibliografiaComplementar": "1- BARBOSA, A.; CUNHA, E. T.; HIKIJI. R.S.G. Imagem-conhecimento: Antropologia, cinema e outros diálogos. Campinas, SP: Papirus, 2009 .\n2- EVANS-PRITCHARD, E.E. Os Nuer: Uma descrição do modo de subsistência e das instituições políticas de um povo nilota. São Paulo, SP: Perspectiva, 1978.\n3- JEAN-CLAUDE, B. Cineasta e iamgens do povo. São Paulo, SP: Companhia das Letras, 2003.\n4- MORIN, E. A cabeça bem-feita: repensar a reforma, reformar o pensamento. Rio de Janeiro, RJ: Bertrand Brasil, 2010.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUP025",
+      "Nome": "Pesq Ciênc Soc Aplic Educação",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução a questões epistemológicas e teóricas da produção de conhecimento em ciências sociais. Métodos e práticas em ciências sociais aplicadas à educação.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUP027",
+      "Nome": "Ecologia Química",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Ferramentas para o entendimento das interações biológicas mediadas por substâncias químicas em diferentes ecossistemas. Princípios e conceitos gerais da ecologia química possibilitando a compreensão da importância ecológica e evolutiva destes compostos nos organismos produtores.\n",
+       "BibliografiaBasica": "1- HARBORNE, J. B. 1994. Introduction to ecological biochemistry, 4a ed. Ed. Academic Press. New York.\n2- LANG, A.L.A. 2003. Ecologia química, Ed. Plaza y Valdes, Col. San Rafael, Mexico.\n3- LARA, F. M. 1981. Ecologia das interações entre insetos e plantas. Ed. EDUSP. São Paulo.\n4- MANN, J.; DAVIDSON, R.S.; HOPPS, J.B.; BANTHORPE, D.V. & HARBORNE, J.B. 1996. Natural Products: their chemistry and biological significance. Ed. Longman Essex. England.\n5- RICE, E. L. 1974. Allelopathy. Ed. Academic Press. New York.\n",
+       "BibliografiaComplementar": "1- DEY, P.M. & HARBORNE, J.B. 1997. Plant biochemistry. Ed. Academic Press, London.\n2- MCCLINTOCK, J.B. & BAKER, B.J. 2001. Marine chemical ecology. Ed. CRC Press, Boca Raton.\n3- MILLER, J.R. & MILLER, T.A. 1986. Insect-plant interactions. Ed. Springer - Verlag. New York.\n4- RAILKIN, A.I. 2004. Marine biofouling: colonization process and defenses. 1ª ed. Ed. CRC Press, Boca Raton.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "NUP110"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUP029",
+      "Nome": "Ecologia e Sociedade",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUP032",
+      "Nome": "Tóp Especiais em Zoologia",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Temas relacionados à Zoologia, complementares ao currículo.\n",
+       "BibliografiaBasica": "A ser definida em acordo com o tema escolhido\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUP034",
+      "Nome": "Arte no Ensino de Ciências",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Cultura científica. Cultura artística. Science Art e Art Science. Educação, ciência e arte. Perspectivas atuais para o ensino de ciências e produção de estratégias didáticas.\n",
+       "BibliografiaBasica": "1- CHALMERS, A. F. 1993. O que é Ciência Afinal? Ed. Brasiliense.\n2- FISCHER, E. 2014. A necessidade da arte. Rio de Janeiro: LTC.\n3- LARAIA, R. DE B. 2008. Cultura: Um conceito antropológico. Ed. Zahar.\n4- SNOW, C. P. 2015. As duas culturas e uma segunda leitura. São Paulo: Editora da Universidade de São Paulo.\n5- Periódicos: Ciência & Educação, Investigações no Ensino de Ciências, Revista Electrónica de Enseñanza de las Ciencias, Science Teacher, Science Education, entre outras.\n",
+       "BibliografiaComplementar": "1- KIVY, P. 2008. Estética: fundamentos e questões de filosofia da arte. Paulus Editora.\n2- LATOUR, B.; WOOLGAR, S. 1997. A vida de laboratório: a produção dos fatos científicos. Rio de Janeiro: Relume Dumará.\n3- SANTOS, J. L. dos. 1994. O que é cultura? Ed. Brasiliense.\n4- VASCONCELLOS, M. J. E. 2013. Pensamento sistêmico: o novo paradigma da ciência. São Paulo: Papirus.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUP037",
+      "Nome": "Tóp Especiais em Meio Ambiente",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Temas e tecnologias avançadas e atuais em Meio Ambiente e suas subáreas.\n",
+       "BibliografiaBasica": "A ser definido em acordo com o tema proposto\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUP039",
+      "Nome": "Tóp Especiais em Geociências",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Integração da Biologia a áreas do conhecimento como Geologia e Mineralogia, Geografia, Climatologia, Oceanografia, Geomorfologia, Georreferenciamento e Mapeamento.\n",
+       "BibliografiaBasica": "A ser definido em acordo com o tema abordado.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUP041",
+      "Nome": "Entmologia Geral",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Diversidade de insetos em um contexto dinâmico, focando nos seus serviços ecológicos e na identificação das principais famílias.\n",
+       "BibliografiaBasica": "1- CARRANO MOREIRA, A. F. Insetos: Manual de coleta e identificação. Rio de Janeiro: Technical Books. 372p. 2015.\n2- FUJIHARA, R.T. et al. Insetos de importância econômica: Guia ilustrado para identificação de Famílias. Botucatu: Fepaf. 391p. 2011.\n3- GULLAN,P. J.; CRANSTON, P. S. Os Insetos - um resumo de Entomologia. São Paulo: Roca. 2008. 453p.\n4- TRIPLEHORN, C.A.; JOHNSON, N.F. Estudo dos insetos. São Paulo: Cengage Learning. 809p. 2013.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "NUP231"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUP111",
+      "Nome": "Biologia Cultura Questão Raça",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceito de Raça e como essa ideia tem sido aplicada historicamente aos seres humanos na luz dos entendimentos da Antropologia Cultural. Noções de Natureza e de Cultura e a interação entre o social e o biológico. A Raça como conceito biológico e como isso tem sido aplicado aos seres humanos, tocando nas histórias imbricadas de racismo e racialismo. A Antropologia como campo de conhecimento; e a evolução humana na luz do conceito do superorgânico de A.E.Kroeber. As distinções entre o conceito de distribuição clinática de atributos versus o modelo racialista. O posicionamento dos alunos de Ciências Biológicas frente às principais discussões sobre a questão da (não) existência das raças humanas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUP363",
+      "Nome": "Introd à Oceanog e Bio Marinha",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução ao Estudo dos Oceanos, Introdução à Dinâmica dos Oceanos, Processos Oceanográficos de Mesoescala, Características Fisico-químicas da água do mar, Diversidade e Características de Ambientes e Ecossistemas Marinhos, Introdução ao Estudo do Plâncton, Introdução ao Estudo do Bentos, Introdução ao Estudo do Nécton, Métodos de Coleta e Estudo de Organismos Marinho, Impactos Antrópicos nos Oceanos.\n",
+       "BibliografiaBasica": "1- Jorge P. e Krug, Luiz C. 2015. Introdução às Ciências do Mar. Editora Textos. 602p.\n2- Castro, P & Huber, ME. 2012. Biologia Marinha. 8ª Ed. Artmed. 480p.\n3- Garrison, T. 2010. Fundamentos de Oceanografia (4a ed) Cengage Learning. 526p.\n",
+       "BibliografiaComplementar": "1- Crespo, R. & Soares-Gomes, A. 2009. Biologia Marinha. 2ª ed. Ed. Interciência Ltda. 382p.\n2- Calazans (org) 2011. Estudos Oceanográficos: do instrumental ao prático. Textos. 463p.\n3- Garrison, T. 2009. Essentials of Oceanography (5th ed). Cengage Learning. 463p.\nCousteau, F. 2007. Grande Enciclopédia do Oceano. Livraria Civilização Editora. 512p.\n4- Cousteau, F. 2006. Ocean: The World's Last Wilderness Revealed. DK.512p.\n5- Bollmann, M. et, al. 2010. World Ocean Review: Living with the oceans. Maribus. 236p.\n6- Maribus. 2013. World Ocean Review: The future of fish, the fisheries of future. Maribus. 145p.\n7- Lalli & Parsons. 1997.Biological Oceanography. An introduction. The Open University, 337p.\n8- Trujillo & Thurman. 2011. Essentials of Oceanography. 10th Ed. Pearson Prentice-Hall. 557p.\n9- McIntyre. A.(Ed) 2010. Life in the world?s oceans. Diversity, distribution, and abundance. Blackwell Publishing. 383p.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 17:00",
+        "professor": "LUCIANO GOMES FISCHER"
+       },
+       {
+        "dia": "Qui",
+        "hora": "17:00 - 21:30",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "NUP115"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUP472",
+      "Nome": "Princ Geol Sedim Din Ambiental",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Tópicos básicos de sedimentologia, oceanografia, climatologia, ambientes deposicionais atuais e pretéritos, Tafonomia e Paleoecologia (agentes, processos, evidências, dinâmicas, fatores condicionantes e controladores). Interdependência e co-ação entre aspectos biológicos em diferentes modelos de erosão, transporte e deposição. Interpretações paleoecológicas, bioestratificação e biogeografia. Introdução à Paleoclimatologia: Evolução climática e ambiental da Terra.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "17:00 - 20:30",
+        "professor": "MARCOS PAULO FIGUEIREDO DE BARROS"
+       }
+      ],
+      "Requisitos": [
+       "NUP115"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUP478",
+      "Nome": "Viro Bact Aplic Biotecnologia",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Utilização de diferentes métodos de cultura e identificação de genes virais; Estruturas e funções em bactérias, aspectos nutricionais, metabólicos, genéticos e taxonômicos; Identificação dos principais grupos de bactérias patogênicas e de interesse industrial e ambiental; Mecanismos básicos de interações entre vírus, bactérias e outros organismos (plantas e animais).\n",
+       "BibliografiaBasica": "1- PELCZAR, M. Jr.; CHAN, E.C.S. & KRIEG, N. R.1997. Microbiologia. 2aed. Ed. Makron Books. São Paulo.\n2- SANTOS, N.S.O.; VILLELA, M.T. & WIGG, M. D.1999. Introdução à virologia humana. 2ª ed. Ed. Guanabara Koogan. Rio de Janeiro.\n3- TRABULSI, L.R. & ALTERTHUM, F. 2004. Microbiologia. 5ª ed. Ed. Atheneu. São Paulo.\n",
+       "BibliografiaComplementar": "1- DAVID, M. K.; HOWLEY, P.M. & GRIFFIN, E.D. 2001. Fields' virology. 4ª ed. Ed. Lippincott Williams & Wilkins. Philadelphia.\n2- MADIGAN, M.T.; MARTINKO, J. M. & PARKER, P. 2003. Biology of Microorganisms. 10ª ed. Ed. Prentice-Hall. London.\n3- MURRAY, P.R. 2002. Microbiologia Clínica. 2ª ed. Ed. Medsi. Rio de Janeiro.\n4- SCHELEGEL, H. G. 1986. General Microbiology. 6ª ed. Ed. Cambridge University Press. London.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "NUP361"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUP492",
+      "Nome": "Model Comp 3d de Biomacromolec",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Correlações Estrutura-Função: Aplicações em Biologia Estrutural; Predição da estrutura de proteínas: Modelagem Comparativa, Threading e Predição por Primeiros Princípios. Introdução ao campo de força clássico. Introdução à otimização de geometria. Interações entre moléculas biológicas. Docking Molecular: proteína-proteína e proteína-ligante. Introdução a Dinâmica molecular. Aplicações em biotecnologia e no desenho racional de fármacos. Perspectivas na área de modelagem molecular.\n",
+       "BibliografiaBasica": "1- BARREIRO, E. & FRAGA, C.A.M. Química Medicinal: As Bases Moleculares da Ação dos Fármacos. 3ª ed. Porto Alegre: Artmed. 2014.\n2- BRANDEN, C. & TOOZE, J. Introduction to Protein Structure. New York: Ed. Garland. 1991.\n3- LEACH, A. Molecular Modeling: Principles and Applications. 2a ed. Singapore: Ed. Longman. 2001.\n4- LEHNINGER, A.L.; NELSON, D.L. & COX, M.M. Princípios de Bioquímica. 4a ed. São Paulo: Ed. Sarvier. 2005.\n5- LESK, A.M. Introdução a Bioinformática. 2ª ed Porto Alegre: Artmed. 2008.\n6- MORGON, N. H. et al. Métodos de Química Teórica e Modelagem Molecular. São Paulo: Editora Livraria da Física. 2007.\n",
+       "BibliografiaComplementar": "1- ALBERTS, B.; JOHNSON, A. & WALTER, P. Biologia Molecular da Célula. 5a ed. Porto Alegre: Ed. Artmed. 2010.\n2- LEWIN, B. GENES IX. 9ª ed. Porto Alegre: Ed. Artmed. 2009.\n3- MONTANARI, C. A. (organizador) Química Medicinal: Métodos e Fundamentos em Planejamento de Fármacos. São Paulo: EDUSP. 2012.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "NUP123"
+      ],
+      "Tipo": "eletiva"
+     }
+    ]
+   },
+   "obrigatorias": 41,
+   "eletivas": 48,
+   "ano": "2024/2 a 9999/9"
+  }
+ ]
+}

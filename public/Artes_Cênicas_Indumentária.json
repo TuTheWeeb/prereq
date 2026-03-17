@@ -1,0 +1,3580 @@
+{
+ "Artes Cênicas - Indumentária": [
+  {
+   "materias": {
+    "1º Período": [
+     {
+      "Codigo": "BAH106",
+      "Nome": "Hist das Artes e Tecnicas I",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Elementos e conceitos basicos para compreensao do fenomeno artistico em suas dimensoes plasticas, musicais e cenicas, no contexto cultural dos diferentes periodos historicos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAR101",
+      "Nome": "Geometria Descritiva I",
+      "Créditos": "4.0",
+      "Teórica": "30",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Fundamentos e técnicas do sistema triedrico e cotado de representação, tomando por modelo o espaço métrico euclidiano. As transformações descritivas das imagens convencionais dos sólidos poliédrico e a resolução de sua problemática básica (seções, interseções, geodésicas).\n___Bibliografia Recomendada___\n1) BUSTAMANTE, Léa Santos. Metodologia dos Sistemas Projetivos. RJ . Ed Bahiense.\n2) _______________________. Transformações Projetivas. Sistemas Projetivos. RJ . Ed Bahiense.\n3) PINHEIRO, V. Athayde. Noções de Geometria Descritiva. V.I, II e III. RJ. Ao livro Técnico Ltda.\n4) RODRIGUES. Alvaro J. Geometria Descritiva. V II. RJ. Imprensa Nacional.\n___Bibliografia Complementar___\n1) Príncipe Júnior, Alfredo de Reis. Noções de Geometria Descritiva I. São Paulo, Nobel, 1984.\n2) Príncipe Júnior, Alfredo de Reis. Noções de Geometria Descritiva II. São Paulo, Nobel, 1984.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAR111",
+      "Nome": "Perspectiva de Observacao",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Fundamentos da perspectica aplicados a representacao grafica dos objetos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAF101",
+      "Nome": "Desenho Artístico I",
+      "Créditos": "4.0",
+      "Teórica": "0",
+      "Prática": "135",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenho de observação a partir de sólidos geométricos, com ensinamentos teóricos e exercícios práticos de observação e percepção do campo visual, análise estrutural da forma e iniciação ao processo de criação.\n___Bibliografia Recomendada___\n1- OSTROWER, Fayga. Universos da Arte. Campinas: UNICAMP, 2013.\n2- PEDROSA, Israel. Da cor à cor inexistente. Rio de Janeiro: Senac Nacional, 2009.\n3- PIGNATTI, Terisio. O desenho: de Altamira a Picasso. São Paulo: Abril, 1982.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "06:00 - 13:00",
+        "professor": "LUCIANA MAIA COUTINHO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH111",
+      "Nome": "Análise Estrutural da Forma",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Aspectos sensoriais da percepção: percepção visual, percepção tactil e percepção auditiva. Aspectos racionais da percepção: forma, cor, som, ritmo.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAR103",
+      "Nome": "Desenho Geométrico Básico",
+      "Créditos": "4.0",
+      "Teórica": "30",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Morfologia geométrica. Instrumentos de desenho. Construções fundamentais a régua, compasso e esquadros. Letras e algarismos padronizados. Partição do círculo. Polígonos regulares. Tangência e concordância de curvas. Linhas proporcionais. Escalas. Cônicas, cíclicas e espirais.\n___Bibliografia Recomendada___\n1) CARVALHO, B DE A. Curso  de Desenho. Rio de Janeiro:Ao Livro Técnico Ltda, 1976.\n2) NASSER, L. Curso Básico de Geometria: Módulos I, II e III. São Paulo: Editora Scipione, 1989.\n3) PTNOKI, J. C. Elementos de Geometria e Desenho Geométrico, vols. I, II e III. São Paulo: Editora Scipione, 1989.\n4) PEREIRA, A. A. Geometria Descritiva I, Rio de Janeiro: Editora 2 AB, 2001.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "2º Período": [
+     {
+      "Codigo": "BAF205",
+      "Nome": "Modelo Vivo I",
+      "Créditos": "3.0",
+      "Teórica": "0",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenho de observação da estrutura da forma no espaço com seus atributos de ritmo, volumes e proporção. Percepção da linha e suas possibilidades expressivas e do claro-escuro.\n___Bibliografia Recomendada___\n1- ARNHEIM, Rudolf. Arte e percepção visual: uma psicologia da visão criadora. São Paulo: Cengage Learning, 2011.\n2- ARNHEIM, Rudolf. Intuição e intelecto na arte. São Paulo: Martins Fontes, 1989.\n3- KANDINSKY, Wassily. Ponto linha plano: contribuição para a análise dos elementos picturais. Lisboa: Edições 70, 1996.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 16:00",
+        "professor": "LUANA MANHAES DA SILVA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "13:00 - 16:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAR102",
+      "Nome": "Geometria Descritiva II",
+      "Créditos": "4.0",
+      "Teórica": "30",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Curvas em geral: classificações, estudo projetivo, curvas planas.Superfícies em geral: superfícies de revolução, representação pelas projeções de monge. Tratamento descritivo em problemas práticos.\n___Bibliografia Recomendada___\n1) BUSTAMANTE, Léa Santos. Metodologia dos Sistemas Projetivos. RJ . Ed Bahiense.\n2) _______________________. Transformações Projetivas. Sistemas Projetivos. RJ . Ed Bahiense.\n3) PINHEIRO, V. Athayde. Noções de Geometria Descritiva. V.I, II e III. RJ. Ao livro Técnico Ltda.\n4) RODRIGUES. Alvaro J. Geometria Descritiva. V II. RJ. Imprensa Nacional.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAR101"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAF105",
+      "Nome": "Desenho Artístico II",
+      "Créditos": "4.0",
+      "Teórica": "0",
+      "Prática": "135",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Instrumental teórico e prático para a análise, representação e composição bidimensional. Observação visual de formas naturais e artificiais. Apresentação de materiais e técnicas de desenho. Estudos da cor.\n___Bibliografia Recomendada___\n1- BAXANDALL, M. Sombras e luzes. São Paulo: EDUSP, 1997.\n2- COLI, J. O que é a arte?. São Paulo: Editora Brasiliense, 2006.\n3- DONDIS, Donis A. Sintaxe da Linguagem Visual. São Paulo: Martins Fontes, 2007.\n4- OSTROWER, F. Acasos e criação artística. Rio de Janeiro: Editora Campus, 1990.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "06:00 - 13:00",
+        "professor": "LUCIANA MAIA COUTINHO"
+       }
+      ],
+      "Requisitos": [
+       "BAF101"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH116",
+      "Nome": "Hist das Artes e Tecnicas II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Manifestacoes artisticas dos povos da antiguidade e a producao artistica das civilizacoes mediterraneas. Caracteristicas das artes durante a idade media: elementos formadores e desenvolvimento da producao artistica em suas dimensoes plasticas, musicais e cenicas, nos principais centros europeus.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAH106"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAT126",
+      "Nome": "Metodologia Visual",
+      "Créditos": "4.0",
+      "Teórica": "30",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Tecnicas de expressao autonoma. Nocoes gerais de ponto, linha, planos, forma, cor e composicao. Problemas iniciais de cor e suas relacoes com o espaco atraves da composicao.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "3º Período": [
+     {
+      "Codigo": "BAI113",
+      "Nome": "Oficina de Texteis",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A tecelagem. O tecido. Generalidades. Definicoes. Materiais. Tecidos sem tear. Tapecaria. Tapete. O tecido como suporte. O bordado. A estamparia.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAR231",
+      "Nome": "Elementos de Arquitetura I",
+      "Créditos": "4.0",
+      "Teórica": "30",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "As convenções adotadas na representação gráfica dos projetos de arquitetura de acordo com as normas vigentes.O material e o instrumental.As escalas usuais.Convenções gráficas. Projeções ortogonais e em perspectivas. Representação gráfica do projeto de arquitetura.\n___Bibliografia Recomendada___\n1) NEUFERT, E. El Arte de Projetar en Arquitetura. Barcelona. Gustavo Gil.\n2) CORBELLA, Oscar e YANNAS, Simos. Em busca de uma arquitetura sustentável para os trópicos - conforto ambiental. Editora Revan, 2003.\n3) MASCARO, Juan Luis. O custo das decisões arquitetônicas - nova versão - Editora Sagra Luzzatto, 1998.\n___Bibliografia Complementar___\n1) Dicionário ilustrado de arquitetura, volumes I e II. Albernaz, Maria Paula/ Modesto Lima, Cecília. PRO Editores São Paulo, 2003.\n2) Sites: http://www.arcoweb.com.br http://www.arqbrasil.com.br http://www.abea-arq.org.br\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAR102"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAU233",
+      "Nome": "Cenografia I",
+      "Créditos": "3.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Complementa a formação do cenógrafo ministrando conhecimentos sobre o espaço cênico bem como a criação  construção da cenografia. Aplicabilidade prática de marcenaria teatral. Apresentação de equipamentos e ferramental de cenotecnia. Execução de maquetes em propostas cenográficas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH216",
+      "Nome": "Hist das Artes e Tecnicas III",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Artes nos tempos modernos, do seculo XV ao xviii. O renascimento como consequencia das transformacoes economicas e seus reflexos socio-culturais na musica, nas artes plasticas e nas artes dramaticas. Sua influencia na arte brasileira. Analise da reacao maneirista e barroca. O rococo como desdobramento do barroco.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAH116"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAR203",
+      "Nome": "Perspectiva e Sombras",
+      "Créditos": "4.0",
+      "Teórica": "30",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceito e metodos fundamentais de representacao em perspectiva exata,sombra propria e projetada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAR102"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAU231",
+      "Nome": "Figurino I",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo da História da Indumentária, da Antiguidade Clássica à Idade Média. Desenvolvimento de projeto de figurinos adequados à linguagem teatral, com pesquisa e representação gráfica.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "4º Período": [
+     {
+      "Codigo": "BAH226",
+      "Nome": "Hist das Artes e Tecnicas IV",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Seculo XIX- os movimentos de rompimento com a tradicao classica: impacto da revolucao industrial e seus reflexos na criacao artistica plastica, musical e dramatica. Seculo XX - evolucao das artes no periodo contemporaneo. O surgimento das escolas de desenho industrial. Os novos conceitos de forma industrial e suas diferenciacoes do objeto artesanal. Novas tendencias nas artes (musica- artes plasticas - literatura -teatro)\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAH216"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAU241",
+      "Nome": "Indumentaria II (AC)",
+      "Créditos": "4.0",
+      "Teórica": "30",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Pesquisa, criacao, projeto, especificacao, orcamento e montagem em escala de figurinos para teatro, segundo a analise das caracteristicas e condicoes historico - sociais da antiguidade ao renascimento. Pesquisa, analise manipulacao, adequacao e tratamento dos materiais, desenho da figura humana em tecnicas de representacao pertinentes.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAU231"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAU243",
+      "Nome": "Cenografia II (AC)",
+      "Créditos": "3.0",
+      "Teórica": "15",
+      "Prática": "75",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Partidos cenograficos. Relacao cenografo x diretor. Organizacao do trabalho da cenografia. Planejamento, execucao em modelo reduzido e apresentacao grafica de cenarios para textos dramaticos em pequenos palcos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAR231",
+       "BAU233"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAB215",
+      "Nome": "Modelagem",
+      "Créditos": "3.0",
+      "Teórica": "0",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Materiais, ferramental, processos e tecnicas de modelagem. Percepcao e analise da estrutura da forma de figuras e suas representacoes no campo tridimensional. A modelagem de formas volumetricas. Composicao de formas representativas do campo geometrico, vegetal e animal.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAR241",
+      "Nome": "Elementos de Arquitetura II",
+      "Créditos": "4.0",
+      "Teórica": "30",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Detalhes de construcao - alvenaria de tijolo, madeira, ferro, concreto, esquadrias.Instalacoes:desenhos convencionais.Nocoes de esquemas de instalacoes eletricas.Nocoes de esquemas de instalacoes hidraulicas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAR231"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAU242",
+      "Nome": "Tec Mont Ilum Cenica I (AC)",
+      "Créditos": "1.0",
+      "Teórica": "15",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O espaco cenico - variantes - utilizacao - elementos basicos - nomenclatura. O equipamento da iluminacao teatral. Desenho cenotecnico de projetos do aluno, limitado a pequenos palcos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAR231"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAU244",
+      "Nome": "Técnicas de Figurino I",
+      "Créditos": "3.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Iniciação à técnicas de corte e costura. estudo e construção da modelagem de roupas femininas e masculinas pelo método da modelagem tridimensional.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "5º Período": [
+     {
+      "Codigo": "BAH221",
+      "Nome": "Folclore Brasileiro I",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Folclore: conceito e implicacoes. Visao antropologica e social do folclore. Bases do folclore brasileiro: relativismo e intercambio cultural. Divisao cultural do brasil: caracteristicas quanto ao folclore.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAU355",
+      "Nome": "Tec Mont Ilum Cenica II (AC)",
+      "Créditos": "1.0",
+      "Teórica": "15",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A montagem teatral - elementos tecnicos. Carpintaria e mecanica. O projeto de iluminacao teatral. Desenho cenotecnico de projetos do aluno para grandes palcos e espacos especiais.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAU242"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAU357",
+      "Nome": "Técnicas de Figurino II",
+      "Créditos": "3.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A modelagem plana na construção de roupas. Técnicas de planificação do corpo e transformação das modelagens planificadas. estudo do corte e das técnicas de montagem de roupas feitas pela modelagem plana.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAU244"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAU511",
+      "Nome": "Cena e Dramaturgia I",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O estudo do teatro da Antiguidade ao renascimento, valorizando as transformações do espaço cênico e as acepções da teoria aristotélica, da origem até o século XVII.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH204",
+      "Nome": "Estética I",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O pensamento estético e a noção de belo; Aristóteles, Platão. A estética helenística e greco romana. O médio e extremo oriente. Estética Cristã; Idade Média e Renascimento.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAU354",
+      "Nome": "Cenografia III",
+      "Créditos": "3.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo, manipulação e análise de materiais e espaços cênicos determinados buscando a criação de cenários para espetáculo teatral, performance, site specific e instalações.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAU243"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAU356",
+      "Nome": "Indumentaria III (AC)",
+      "Créditos": "4.0",
+      "Teórica": "30",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Pesquisa, criacao, projeto, especificacao, orcamento e montagem em escala de figurinos para teatro, segundo a analise das caracteristicas e condicoes historico - sociais do barroco ao imperio na franca. Pesquisa, analise manipulacao, adequacao e tratamento dos materiais, desenho da figura humana em tecnicas de representacao pertinentes.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAU241"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAU410",
+      "Nome": "Adereços para Figurino",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Significado e importância do adereço nas diversas civilizações. Seu uso e sua aplicação na indumentária teatral. O adereço atual: interpretação, criação e execução.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IPC135",
+      "Nome": "Psicologia Aplic as Artes Cen",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Fundamentos de psicologia relacionados com a cenografia e o figurino: aplicacao pratica da relacao existente entre a expressao e a representacao dos simbolos e seu significado.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "6º Período": [
+     {
+      "Codigo": "BAU365",
+      "Nome": "Interpretacao",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O processo da interpretacao. Sua linguagem, sua tecnica. O ator, o texto, a direcao e o personagem.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAU369",
+      "Nome": "Técnicas de Figurino III",
+      "Créditos": "3.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Laboratório de modelagem que explora métodos não convencionais de construção de roupas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAU357"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAU512",
+      "Nome": "Cena e Dramaturgia II",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A disciplina aborda a evolução do teatro mundial entre o século XVII e o século XIX, enfatizando a construção da ilusão no espetáculo barroco, a ideia de ilusão no teatro moderno e a crise do drama no final do século XIX.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH316",
+      "Nome": "Folclore Brasileiro II",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Metodos e tecnicas de pesquisa em folclore. Analise de manifestacao folclorica, de arte popular brasileira, e da arte indigena: suas dimensoes plasticas, musicais, cenicas e literarias.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAH221"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAU368",
+      "Nome": "Figurino IV",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo e pesquisa da História da Indumentária correspondente ao século XX e XXI. Desenvolvimento de projetos de figurinos adequados à linguagem teatral, com pesquisa e representação gráfica.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAU356"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAU411",
+      "Nome": "Caracterizacao Teatral",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo da caracterização teatral e sua aplicação às Artes Cênicas. Ensino de técnicas e criação de projeto para caracterização teatral.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "7º Período": [
+     {
+      "Codigo": "BAU477",
+      "Nome": "Indumentaria V (AC)",
+      "Créditos": "4.0",
+      "Teórica": "30",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Pesquisa, criacao, projeto, especificacao, orcamento e montagem em escala de figurinos para espetaculos de televisao e cinema, segundo a analise das caracteristicas e condicoes historico-sociais da colonia ate o 2 imperio no brasil, incluindo as festividades cenicas populares.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAU368"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAU479",
+      "Nome": "Direcao de Espetaculo",
+      "Créditos": "1.0",
+      "Teórica": "15",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A direcao no teatro, cinema e televisao: revisao historica, atualidade e perspectivas. A linguagem teatral e a direcao de espetaculos. Cinema e televisao - novas formas de linguagem. O relacionamento e a importancia da cenografia e indumentaria na encenacao.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH202",
+      "Nome": "Etica Profissional",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Objetivos da ética. A ética e a filosofia. A evolução  da ética  da antigüidade aos tempos modernos. Aspectos éticos nas artes plásticas. Ética profissional.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAU478",
+      "Nome": "Corte e Montagem IV (AC)",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo da evolucao, do corte, da montagem, dos tecidos, outros materiais e acessorios da indumentaria para cinema, televisao e festividades cenicas populares do brasil.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAU369"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAU513",
+      "Nome": "Cena e Dramaturgia III",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A disciplina aborda as características da estética teatral na primeira metade do século XX, na Europa, Estados Unidos e no Brasil, dando ênfase aos debates sobre elementos visuais do espetáculo (cenografia, figurino, iluminação).\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "8º Período": [
+     {
+      "Codigo": "BAUY01",
+      "Nome": "Proj Graduacao em Figurino Tcc",
+      "Créditos": "3.0",
+      "Teórica": "120",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo e pesquisa da História da Indumentária correspondente ao século XX. Desenvolvimento da pesquisa e adequação à criação artística de projeto de figurinos para teatro, TV, cinema ou carnaval.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAU368",
+       "BAU369"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAU484",
+      "Nome": "Legisl e Prod de Espetaculo",
+      "Créditos": "1.0",
+      "Teórica": "15",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A producao do espetaculo e suas etapas: o planejamento, o desenvolvimento e a carreira normal. A producao e seus aspectos legais.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "Disciplinas Optativas (Escolha Condicionada)": [
+     {
+      "Codigo": "BAB114",
+      "Nome": "Aquarela A",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudos das técnicas de aquarela e da utilização dos pigmentos e aglutinantes; a preparação dos suportes e acabamentos.\n",
+       "BibliografiaBasica": "1) ARNHEIM, Rudolf. Intuição e intelecto na arte. São Paulo: Martins Fontes, 1989.\n2) MAYER, Ralph. Manual do artista : de técnicas e materiais / . 5. ed. rev. e atual. São Paulo : Martins Fontes, 2016.\n3) MOTTA, Edson. SALGADO, Maria Luiza Guimarães. Iniciação à pintura. Rio de Janeiro: Nova Fronteira, 1976.\n",
+       "BibliografiaComplementar": "1) Hayes, Colin Guia completa de pintura y dibujo : tecnicas y materiales / . Madrid : Hermann Blume, c1980.\n2) Doerner, Max; Reverté, Pedro. Los materiales de pintura y su empleo en el arte : materiales y técnica de las pinturas al óleo, temple, acuarela, fresco, pastel. Técnica de los antiguos maestros. Conservación de monumentos y cuadros / . Barcelona : G. Gili, 1946.\n3) Barreto, Lourdes. Oficina de pintura : materiais, fórmulas e procedimentos / . Rio de Janeiro : Rio Books, 2011.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAF103",
+      "Nome": "Desenho Anatômico I",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Proporções e relações do corpo humano; nomenclatura básica da osteologia; desenho do esqueleto dando o conhecimento da forma, estrutura e função das partes que constituem a cabeça; tronco e membros.\n___Bibliografia Recomendada___\n1- BRIDGMAN, George B. Bridgman's complete guide to drawing from life. New York: Sterling Publishing Company, Inc., 2009.\n2- GORDON, Louise. Desenho anatómico. Lisboa: Presença; [São Paulo]: Martins Fontes, 1980.\n3- LOOMIS, Andrew. Figure drawing for all it?s work. New York: The Viking Press, 1944.\n4- PERARD, Victor. Desenho e anatomia. Rio de Janeiro: Ediouro, [s.d.].\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 16:00",
+        "professor": "ANDERSON LIMA PERES"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAF301",
+      "Nome": "Modelo Vivo II",
+      "Créditos": "3.0",
+      "Teórica": "0",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A figura e sua representação através do estudo do claro-escuro\n___Bibliografia Recomendada___\n1- ARNHEIM, Rudolf. Arte e percepção visual: uma psicologia da visão criadora. São Paulo: Cengage Learning, 2011.\n2- ARNHEIM, Rudolf. Intuição e intelecto na arte. São Paulo: Martins Fontes, 1989.\n3- CHIPP, Herschel B. Teorias da arte moderna. São Paulo: Martins Fontes, 1999.\n4- KANDINSKY, Wassily. Ponto linha plano: contribuição para análise dos elementos picturais. Lisboa: Edições 70, 1996.\n5- WICK, Rainer. Pedagogia da Bauhaus. São Paulo: Martins Fontes, 1989.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 16:00",
+        "professor": "ALVARO MARTINS DE SEIXAS NETO"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 16:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "BAF205"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAH207",
+      "Nome": "Estética II",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Os sistemas esteticos em seus compromissos com o mundo moderno e contemporaneo. A estetica de descartes aos nossos dias. A estetica contemporanea, as principais correntes.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAH204"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAH222",
+      "Nome": "Arte no Brasil I",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Os antecedentes portugueses. A arte no brasil do periodo colonial do seculo XVI ao xix. O seculo XIX e as influencias europeias.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAH313",
+      "Nome": "Historia dos Texteis II",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Os aspectos tecnicos e formais do tecido, nos diferentes periodos historicos do sec. XV ao sec. XX.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAH308"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAI112",
+      "Nome": "Oficina de Metais",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Teoria dos metais - tecnicas de trabalho dos metais - o funcionamento da oficina de metais - normas de seguranca - possibilidades artisticas e industriais dos metais - materiais paralelos e auxiliares.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAI115",
+      "Nome": "Oficina de Cerâmica",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Cerâmica: características do material, processos de beneficiamento, acabamento, uso e aplicações. A cerâmica como linguagem cultural, como resgate da história, da cultura afro-brasileira e indígena. Os produtos utilitários em cerâmica e a sustentabilidade. O design de objetos em cerâmica. Exercícios práticos.\n___ BIBLIOGRAFIA BÁSICA ___\n1) FERRANTE, M./ WALTER, Y. A materialização da ideia-Noções de materiais para o design de produtos. Rio, LTC, 2010.\n2) TAYLOR, L. The Ceramics Bible. S. Francisco-EUA, Chronicle Books, 2011.\n3) CHAVARRIA, J. the Big Book os Ceramics. N. York, Watson-Guptill, 1994.\n4) MARTIN, A. The Essential Guide to Mold Making & Slip Casting. EUA, Lark Craft, 2007.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAI325",
+      "Nome": "Tapecaria A",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A tapecaria bordada. Suas caracteristicas. Os suportes. Os materiais. Os diferentes pontos. O cartao e sua execucao. Exercicios praticos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAI328",
+      "Nome": "Tapecaria B",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Tecnica de patecaria em teares de mesa e teares verticais.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAI423",
+      "Nome": "Serigrafia I",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Emprego artistico e industrial; planejamento do desenho; montagem dos chassis; processos primitivos; filme de corte; impressao monocromatica; processo fotografico; sensibilizacao da tela; montagem da linha de impressao; impressao em diversos suportes; varias cores; recuperacao das telas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAU201",
+      "Nome": "Proces de Atuação Cênica L.t.",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Experimentação prática de noções básicas envolvidas nos processos criativos do ator - jogo e improvisação; tempo, ritmo e espaço; palavra e texto; ações físicas -, com ênfase em processos de composição de um personagem.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAU236",
+      "Nome": "Metod da Pesquisa",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "os princípios básicos da pesquisa. as especificidades da pesquisa no campo das artes. A formulação de uma hipótese. Alguns caminhos metodológicos. A elaboração de um projeto de pesquisa e a delimitação das etapas a percorrer.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAU404",
+      "Nome": "Evol do Equip de Interior II",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Analise da evolucao do espaco arquitetonico e dos equipamentos de interior - Caracteristicas dos estilos: seculo XV ao XVIII - Europa e Brasil.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAH104"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAU600",
+      "Nome": "Maquetes",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conhecimento dos processos de redução e ampliação em escala. Ferramentas manuais, máquinas operatrizes, materiais e acabamento. Desenvolvimento das práticas de confecção e montagem.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAUU02",
+      "Nome": "Metod Aplicada Artes Cênicas",
+      "Créditos": "4.0",
+      "Teórica": "0",
+      "Prática": "150",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Assistência ou criação e execução de cenário ou figurino visando a encenação de espetáculos teatrais ou dança, a criação de vídeo ou filme, a realização de desfiles ou trabalhos na área de artes visuais.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAU354",
+       "BAU356"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV231",
+      "Nome": "Fotografia II",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Teoria da impressao fotografica, iluminacao artificial, introducao aos principios da fotografia a cores.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV121"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAW002",
+      "Nome": "Pod Cultural: Evento Filmagem",
+      "Créditos": "4.0",
+      "Teórica": "30",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O conceito de evento.Linguagens alternativas que transcendem a dicotomia entre o espaço bi e tridimensional. A apropriação da fotografia, vídeo, cinema e informática na criação de obras de arte - suas características e especificidades.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEB599",
+      "Nome": "Est da Líng Bras de Sinais I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Nomes próprios; pronomes pessoais; demonstrativos; possessivos; locativos em sentenças simples do tipo pergunta-resposta com \"o que\" e \"quem\" e outros vocábulos básicos; numerais; quantidade; topicalização; flexão verbal; flexão de negação; expressões faciais e corporais; percepção visual; conversação; diálogos; textos: LIBRAS, cultura e comunidade surda.\n",
+       "BibliografiaBasica": "1) BRITO, L. F. Por uma gramática de língua de sinais. Rio de Janeiro: Tempo Brasileiro, 1995.\n2) FELIPE, T.; MONTEIRO, M. S. LIBRAS em contexto. Curso Básico. Brasília: Ministério da Educação e do Desporto/Secretaria de Educação Especial, 2001.\n3) GESSER, A. Libras - Que língua é essa? Crença e preconceitos em torno da língua de sinais e da realidade surda. Florianópolis: Parábola, 2009.\n4) STROBEL, K. L. As imagens do outro sobre a cultura surda. Florianópolis: EdUFSC, 2008.\n",
+       "BibliografiaComplementar": "1) PIMENTA, Nelson e QUADROS, Ronice Muller. Curso de Libras I, LSB Vídeo, volume I, Iniciante, 2006 e 3a ed., 2008.\n2) Dicionário Enciclopédico Ilustrado Triíngue da Língua de Sinais Brasileira ? vol 1 e vol. 2 Site: www.acessobrasil.org.brasil\n3) Dicionário da Língua Brasileira de Sinais, INES, versão, 2.0, ano 2006.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MUT103",
+      "Nome": "Musicalizacao Basica I",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Sensibilizacao, vivencia, fixacao e apreciacao musical. Iniciacao a leitura e grafia musical nos planos ritmico e sonoro. Conjuntos ritmicos de percussao com instrumentos de som determinado e indeterminado.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAB112",
+      "Nome": "Pintura A",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Os materiais de pintura e seu emprego através dos processos usuais. Habilitar o aluno ao uso do material de pintura na execução de trabalhos.\n",
+       "BibliografiaBasica": "1) BARRETO, Lourdes.Oficina de pintura : materiais, fórmulas e procedimentos. Rio de Janeiro : Rio Books, 2011.\n2) MAYER, Ralph. Manual do Artista. São Paulo: Martins Fontes, 1996.\n3) MOTTA, Edson e SALGADO, Maria Luiza. Iniciação a Pintura. Rio de Janeiro: Ed. Nova Fronteira, 1976.\n",
+       "BibliografiaComplementar": "1) ARNHEIM, Rudolf. Intuição e intelecto na arte. São Paulo: Martins Fontes, 1989.\n2) Doerner, Max; Reverté, Pedro. Los materiales de pintura y su empleo en el arte : materiales y técnica de las pinturas al óleo, temple, acuarela, fresco, pastel. Técnica de los antiguos maestros. Conservación de monumentos y cuadros / . Barcelona : G. Gili, 1946.\n3) Hayes, Colin Guia completa de pintura y dibujo : tecnicas y materiales / . Madrid : Hermann Blume, c1980.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAB411",
+      "Nome": "Gravura I",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A gravura em madeira: xilogravura. Ferramental, processos e tecnicas. Caracteristicas e propriedades do material.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAF107",
+      "Nome": "Desenho Anatômico II",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenvolver a disciplina anterior, oferecendo conhecimentos científicos auxiliares para a realização de obras realistas. Informa sobre proporções, equilíbrios, movimento e expressão na figura humana.\n___Bibliografia Recomendada___\n1- BRIDGMAN, George B. Bridgman's complete guide to drawing from life. New York: Sterling Publishing Company, Inc., 2009.\n2- GORDON, Louise. Desenho anatómico. Lisboa: Presença; [São Paulo]: Martins Fontes, 1980.\n3- LOOMIS, Andrew. Figure drawing for all it?s work. New York: The Viking Press, 1944.\n4- PERARD, Victor. Desenho e anatomia. Rio de Janeiro: Ediouro, [s.d.].\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 16:00",
+        "professor": "ANDERSON LIMA PERES"
+       }
+      ],
+      "Requisitos": [
+       "BAF103"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAH107",
+      "Nome": "História da Arte",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo dos conceitos fundamentais ao entendimento da produção artística. instrumentalização de vocabulário próprio para a compreensão da História da Arte. A arte da pré-história até o período neoclássico.\n___Bibliografia Recomendada___\n1) BAZIN, Germain. História da Arte. Da pré-história aos nossos dias. Lisboa: Martins Fontes, 1976.\n2) GOMBRICH. E. H. A História da Arte. rio de Janeiro: LTC, 2011.\n3) HAUSER, Arnold. História social da literatura e da arte. São Paulo: Martins Fontes, 2003.\n4) JANSON, H. W. História da Arte. 9ª ed. Lisboa: Fundação Calouste Gulbenkian, 2010.\n5) WOODFORD,  Susan. A arte de ver a arte. Rio de Janeiro:Zahar, 1983.\n___Bibliografia Complementar___\n1) ARGAN, Giulio Carlo. História da italiana - Da Antiguidade a Duccio. São Paulo: Editora Cosac e Naify, 2003.\n2) GOZZOLI, Maria Cristina. Como reconhecer a arte gótica. Lisboa: Edições 70, 1986.\n3) MANDEL, Gabriele. Como reconhecer a arte islâmica. São Paulo: Martins Fontes, 1985.\n4) TARELLA, Alda. Como reconhecer a arte romana. Lisboa: Edições 70, 1988.\n5) WOODFORD,  Susan. Grécia e Roma. Rio de Janeiro: Zahar, 1983.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "CARLOS GONCALVES TERRA"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "THIAGO SPINDOLA MOTTA FERNANDES"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAH208",
+      "Nome": "Teoria da Inf e da Comunicacao",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A informacao e a comunicacao: ambito e objetivo. Processo de comunicacao: a comunicacao e o sistema social. Importancia das artes no processo de comunicacao: aplicacao dos principios esteticos na comunicacao. Comunicacao visual e sonora.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAH308",
+      "Nome": "Historia dos Texteis I",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Os aspectos tecnicos e formais do tecido nos diferentes periodos historicos da antiguidade no seculo xv. Bac310a evolucao do jardim da antiguidade ate o sec. Xvii.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAH205"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAH317",
+      "Nome": "Arte no Brasil II",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O seculo XX, e a implantacao da arte contemporanea, no brasil. Principais tendencias.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAH222"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAI114",
+      "Nome": "Oficina de Couro",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O couro sua obtencao, curtimento e classificacao-maquinas e ferramentas-conservacao e seguranca-o projeto-o molde-fabricacao em serie-corantes e preservativos-metodos e tecnicas de trabalho-artesanato e industria-forma-funcao e moda-prepara de material.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAI324",
+      "Nome": "Tecelagem A",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Atividade teorica e pratica para dar conhecimentos elementares da tecnica da tecelagem manual, rudimentar, artesanal e primitiva.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAI326",
+      "Nome": "Estamparia A",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Aulas teórico-práticas sobre estamparia têxtil. Técnicas, materiais e processos da estamparia por impressão. Desenvolvimento de trabalhos por métodos experimentais e artesanais. Introdução ao design têxtil para estamparia localizada e corrida.\n___Bibliografia Recomendada___\n1- BOWLES, Melanie. Diseño y estampación textil digital. Barcelona: Art Blume, 2009.\n2- COLE, Drusilla. Diseño textil contemporaneo. Barcelona: Art Blume, 2008.\n3- CONRAN, Terence. Printed textile design. London : The Studio Limited, 1975.ESTAMPARIA, tapeçaria, tecelagem: Exposição de Arte Têxtil da Escola de Belas Artes da UFRJ. Rio de Janeiro : UFRJ, 1989. 47 p.\n4- ESTAMPARIA, tapeçaria: II Exposição - Mostra de Arte Têxtil da Escola de Belas Artes da UFRJ, artistas homenageadas: Hilda Campofiorito e Tana. Rio de Janeiro : UFRJ, 1993. 48 p.\n5- JONES, Owen. A gramática do ornamento. Edição brasileira:Editora Senac São Paulo, 2010.\n6- RUBIM, Renata. Desenhando a superfície. São Paulo: Rosari, 2005. 95 p.\n7- RÜTHSCHILLING, Evelise Anicet. Design de superfície. Porto Alegre: Ed. Da UFRGS, 2008. 104 p.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAI329",
+      "Nome": "Estamparia B",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Aulas teórico-práticas sobre estamparia têxtil. Técnicas, materiais e processos da estamparia a quadro. Desenvolvimento de trabalhos por métodos semi-industriais. Introdução ao design têxtil e conceitos de Rapport para estamparia localizada e corrida.\n___Bibliografia Recomendada___\n1- BOWLES, Melanie. Diseño y estampación textil digital. Barcelona: Art Blume, 2009. - COLE, Drusilla. Diseño textil contemporaneo. Barcelona: Art Blume, 2008.\n2- ESTAMPARIA, tapeçaria, tecelagem: Exposição de Arte Têxtil da Escola de Belas Artes da UFRJ. Rio de Janeiro : UFRJ, 1989. 47 p.\n3- ESTAMPARIA, tapeçaria: II Exposição - Mostra de Arte Têxtil da Escola de Belas Artes da UFRJ, artistas homenageadas: Hilda Campofiorito e Tana. Rio de Janeiro : UFRJ, 1993. 48 p.\n4- JACQUÉ, Jacqueline. Printed textiles. In: CARLANO, Marianne et alii. French textiles; from the middle ages through the second empire. Connecticut : Wadsworth Atheneum, 1985.\n5- JONES, Owen. A gramática do ornamento. Edição brasileira:Editora Senac São Paulo, 2010.\n6- MELLER, Susan; ELFFERS, Joost. Textile designs: 200 years of patterns for printed fabrics arranged by motif, colour, period and design. London: Thames & Hudson, 2002. 464 p.\n7- PROCTOR, Richard M. , LEW, Jennifer F. Surface design for fabric. Washington : University of Washington Press, 1985. - RUBIM, Renata. Desenhando a superfície. São Paulo: Rosari, 2005. 95 p.\n8- RÜTHSCHILLING, Evelise Anicet. Design de superfície. Porto Alegre: Ed. Da UFRGS, 2008. 104 p.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAI503",
+      "Nome": "Oficina de Estamparia",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Aulas teórico-práticas sobre estamparia têxtil. Técnicas, materiais e processos da estamparia por reserva. Desenvolvimento de trabalhos exclusivos. Introdução ao design têxtil decorrente do fazer artístico em Estamparia.\n___Bibliografia Recomendada___\n1- BOWLES, Melanie. Diseño y estampación textil digital. Barcelona: Art Blume, 2009.\n2- COLE, Drusilla. Diseño textil contemporaneo. Barcelona: Art Blume, 2008.\n3- CONRAN, Terence. Printed textile design. London : The Studio Limited, 1975.\n4- ESTAMPARIA, tapeçaria, tecelagem: Exposição de Arte Têxtil da Escola de Belas Artes da UFRJ. Rio de Janeiro : UFRJ, 1989. 47 p.\n5- ESTAMPARIA, tapeçaria: II Exposição - Mostra de Arte Têxtil da Escola de Belas Artes da UFRJ, artistas homenageadas: Hilda Campofiorito e Tana. Rio de Janeiro : UFRJ, 1993. 48 p.\n6- JONES, Owen. A gramática do ornamento. Edição brasileira:Editora Senac São Paulo, 2010.\n7- LARSEN, Jack Lenor. The dyer's art; ikat, batik, plangi. New York : Van Nostrand Reinhold, 1976.\n8- MELLER, Susan; ELFFERS, Joost. Textile designs: 200 years of patterns for printed fabrics arranged by motif, colour, period and design. London: Thames & Hudson, 2002. 464 p.\n9- PROCTOR, Richard M. , LEW, Jennifer F. Surface design for fabric. Washington : University of Washington Press, 1985.\n10- RÜTHSCHILLING, Evelise Anicet. Design de superfície. Porto Alegre: Ed. Da UFRGS, 2008. 104 p._\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAU232",
+      "Nome": "Oficina de Montagem",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conhecimento e utilizacao das ferramentas, maquinas, materiais, tecnicas e solucoes da carpintaria cenografica. Construcao e montagem de modelos. Feitura e leitura de desenhos tecnicos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAU320",
+      "Nome": "Evol do Equipamento Interior I",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introducao ao vocabulario tecnico e aos processos tecnicos dos principais equipamentos de interior. Analise da evolucao do espaco arquitetonico e dos equipamentos de interior - Caracteristicas dos estilos: Antiguidade a Idade Media.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAH104"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAU423",
+      "Nome": "Evol Equip Interior III",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Analise da evolucao do espaco arquitetonico e dos equipamentos de interior. Caracteristicas dos estilos: seculos XIX e XX - Europa e Brasil.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAH104"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAU605",
+      "Nome": "Oficina de Teatro de Animação",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo do teatro de animação: estática, técnicas diversas, materiais e processos de confecção e manipulação de formas animadas no espetáculo teatral.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV121",
+      "Nome": "Fotografia I",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Teoria fotográfica, a câmera, estruturação da imagem; introdução ao laboratório fotográfico.\n___Bibliografia Recomendada___\n1) ADAMS,Ansel.The Camera, New York: Litle, Brown and Company, 1991. Existe edição do SENAC SP.\n2) ____, Ansel. The Negative, New York:Litle, Brown and Company, 1991. Existe edição do SENAC SP.\n3) ____, Ansel. The Print, New York: Litle, Brown and Company, 1991. Existe edição do SENAC.\n4) SPGOLDBERG, Vicki. Photography in Print, Alburquerque: University New Mexico Press, 1988Catálogo da XXV Bienal de São Paulo, Iconografias Metropolitanas. São Paulo, 2002.\n5)CARSON, D. , MEGGS P. : Fotografiks, David Carson, Corte Madera: Gingko Press, 2000.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAW001",
+      "Nome": "Escultura e Reciclagem",
+      "Créditos": "4.0",
+      "Teórica": "30",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O emprego de resíduos industriais na Arte a partir do Cubismo. Ready-made e instalação como conceitos escultóricos. Arte ambiental.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAW360",
+      "Nome": "Computacao Grafica nas Artes F",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Não cadastrada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAU304"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEV121",
+      "Nome": "Português Instrumental I",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A linguagem e seu papel nas sociedades humanas. Expressão oral e escrita.\nA variação linguística em função dos fins e das situações de comunicação. A oração\ne o período.\n",
+       "BibliografiaBasica": "1) COSTA, Iara; FOLTRAN, Ma. J. (org.). A tessitura da escrita. São Paulo: Contexto, 2013.\n2) FIGUEIREDO, Luiz Carlos. A redação pelo parágrafo. Brasília: UnB, 1999.\n3) KOCH, Ingedore; ELIAS, Vanda. Ler e compreender: os sentidos do texto. São Paulo: Contexto, 2006.\n4) LUFT, Celso P. A vírgula. São Paulo: Ática, 1996.\n5) MARCUSCHI, Luiz Antonio. Produção textual, análise de gêneros e compreensão. São Paulo: Parábola, 2008.\n6) MEDEIROS, João Bosco. Redação cientÍfica. 11. ed. São Paulo: Atlas, 2009.\n7) MOTTA-ROTH, Desirée; HENDGES, Graciela. Produção textual na universidade. São Paulo: Parábola, 2010.\n",
+       "BibliografiaComplementar": "1) CARDOSO, João Batista. Teoria e prática de leitura, apreensão e produção de texto. Brasília: EDUNB, 2001.\n2) MACHADO, Anna Rachel et al. Resumo. São Paulo: Parábola Editorial, 2004.\n3) MACHADO, Anna Rachel et al. Resenha. São Paulo: Parábola Editorial, 2004.\n4) MARCUSCHI, Luiz Antônio. Gêneros Textuais: configuração, dinamicidade e circulação. In: KARWOSKI, A.;\n5) GAYDECZKA, B.; BRITO, K. (orgs.). Gêneros textuais: reflexões e ensino. 4. ed. São\nPaulo: Parábola, 2011. p. 15-28.\n6) MEDEIROS, João Bosco. Português Instrumental; para cursos de Contabilidade, Economia e Administração. 4. ed. São Paulo: Atlas, 2000.\n7) PAULIUKONIS, Ma. Aparecida L.; GAVAZZI, Sigrid (org.). Texto e discurso:\nMídia, literatura e ensino. Rio de Janeiro: Lucerna, 2003.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MUV103",
+      "Nome": "Tec de Exp Oral e Corporal",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Respiracao, diccao, impostacao de voz e esquema corporal. Improvisacao com recursos vocais e gestuais. Valorizacao da expressao oral e corporal. Pesquisa das possibilidades da voz falada e cantada e do corpo como forma de expressao.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     }
+    ]
+   },
+   "obrigatorias": 46,
+   "eletivas": 41,
+   "ano": "1983/1 a 2013/2"
+  },
+  {
+   "materias": {
+    "1º Período": [
+     {
+      "Codigo": "BAF205",
+      "Nome": "Modelo Vivo I",
+      "Créditos": "3.0",
+      "Teórica": "0",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenho de observação da estrutura da forma no espaço com seus atributos de ritmo, volumes e proporção. Percepção da linha e suas possibilidades expressivas e do claro-escuro.\n___Bibliografia Recomendada___\n1- ARNHEIM, Rudolf. Arte e percepção visual: uma psicologia da visão criadora. São Paulo: Cengage Learning, 2011.\n2- ARNHEIM, Rudolf. Intuição e intelecto na arte. São Paulo: Martins Fontes, 1989.\n3- KANDINSKY, Wassily. Ponto linha plano: contribuição para a análise dos elementos picturais. Lisboa: Edições 70, 1996.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 16:00",
+        "professor": "LUANA MANHAES DA SILVA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "13:00 - 16:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAT110",
+      "Nome": "Estudos do Vestuário",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo e pesquisa do traje. Os fundamentos da indumentária para os diversos tipos de espetáculos. A forma, a cor, texturas e materiais apropriados para a concepção de um figurino.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "09:00 - 12:00",
+        "professor": "DESIREE BASTOS DE ALMEIDA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAT120",
+      "Nome": "Estética Apl Artes Cênicas I",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A disciplina apresenta os principais conceitos filosóficos indispensáveis para a compreensão do lugar da arte e, mais especificamente, do teatro na cultura ocidental. A ênfase estará na formação da noção de representação a partir das traduções e das interpretações do termo mimesis.\n___BIBLIOGRAFIA BÁSICA___\n1- ARISTÓTELES. Poética. São Paulo: Edipro, 2011.\n2- PLATÃO. A República. São Paulo: Hemus, s/d.\n3- VERNANT, Jean-Pierre; VIDAL-NAQUET, Pierre. Mito e tragédia na Grécia antiga. V. I e II. São Paulo: Perspectiva, 1999.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAF101",
+      "Nome": "Desenho Artístico I",
+      "Créditos": "4.0",
+      "Teórica": "0",
+      "Prática": "135",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenho de observação a partir de sólidos geométricos, com ensinamentos teóricos e exercícios práticos de observação e percepção do campo visual, análise estrutural da forma e iniciação ao processo de criação.\n___Bibliografia Recomendada___\n1- OSTROWER, Fayga. Universos da Arte. Campinas: UNICAMP, 2013.\n2- PEDROSA, Israel. Da cor à cor inexistente. Rio de Janeiro: Senac Nacional, 2009.\n3- PIGNATTI, Terisio. O desenho: de Altamira a Picasso. São Paulo: Abril, 1982.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "06:00 - 13:00",
+        "professor": "LUCIANA MAIA COUTINHO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH107",
+      "Nome": "História da Arte",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo dos conceitos fundamentais ao entendimento da produção artística. instrumentalização de vocabulário próprio para a compreensão da História da Arte. A arte da pré-história até o período neoclássico.\n___Bibliografia Recomendada___\n1) BAZIN, Germain. História da Arte. Da pré-história aos nossos dias. Lisboa: Martins Fontes, 1976.\n2) GOMBRICH. E. H. A História da Arte. rio de Janeiro: LTC, 2011.\n3) HAUSER, Arnold. História social da literatura e da arte. São Paulo: Martins Fontes, 2003.\n4) JANSON, H. W. História da Arte. 9ª ed. Lisboa: Fundação Calouste Gulbenkian, 2010.\n5) WOODFORD,  Susan. A arte de ver a arte. Rio de Janeiro:Zahar, 1983.\n___Bibliografia Complementar___\n1) ARGAN, Giulio Carlo. História da italiana - Da Antiguidade a Duccio. São Paulo: Editora Cosac e Naify, 2003.\n2) GOZZOLI, Maria Cristina. Como reconhecer a arte gótica. Lisboa: Edições 70, 1986.\n3) MANDEL, Gabriele. Como reconhecer a arte islâmica. São Paulo: Martins Fontes, 1985.\n4) TARELLA, Alda. Como reconhecer a arte romana. Lisboa: Edições 70, 1988.\n5) WOODFORD,  Susan. Grécia e Roma. Rio de Janeiro: Zahar, 1983.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "THIAGO SPINDOLA MOTTA FERNANDES"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "CARLOS GONCALVES TERRA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAT113",
+      "Nome": "Estudos do Espaço Cênico I",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Apresentação da arquitetura teatral no ocidente e suas transformações, abordando as técnicas cenográficas empregadas e os cenógrafos de destaque ao longo dos períodos históricos.\n___BIBLIOGRAFIA BÁSICA___\n1- BERTHOLD, Margot. História Mundial do Teatro. São Paulo: Perspectiva, 2010.\n2- MANTOVANI, Ana. Cenografia. São Paulo: Ática, 1988.\n3- RATTO, Gianni. Antitratado de cenografia: variações sobre o mesmo tema. São Paulo: SENAC, 1999.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 16:00",
+        "professor": "ANDREA RENCK REIS"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAWZ51",
+      "Nome": "Ativ Curricular Extensão - Ac",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "0",
+      "Extensão": "267",
+      "Informação": {
+       "Info": "Atuação em atividades registradas na Pró-reitoria de Extensão da UFRJ, como programas, projetos, cursos de extensão e eventos, coordenados por docentes do quadro permanente ou técnicos de carreira de nível superior na UFRJ.\n___  BIBLIOGRAFIA BÁSICA ___\nBibliografia recomendada pelo coordenador da atividade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "2º Período": [
+     {
+      "Codigo": "BAF105",
+      "Nome": "Desenho Artístico II",
+      "Créditos": "4.0",
+      "Teórica": "0",
+      "Prática": "135",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Instrumental teórico e prático para a análise, representação e composição bidimensional. Observação visual de formas naturais e artificiais. Apresentação de materiais e técnicas de desenho. Estudos da cor.\n___Bibliografia Recomendada___\n1- BAXANDALL, M. Sombras e luzes. São Paulo: EDUSP, 1997.\n2- COLI, J. O que é a arte?. São Paulo: Editora Brasiliense, 2006.\n3- DONDIS, Donis A. Sintaxe da Linguagem Visual. São Paulo: Martins Fontes, 2007.\n4- OSTROWER, F. Acasos e criação artística. Rio de Janeiro: Editora Campus, 1990.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "06:00 - 13:00",
+        "professor": "LUCIANA MAIA COUTINHO"
+       }
+      ],
+      "Requisitos": [
+       "BAF101"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAT114",
+      "Nome": "Teoria da Cor e da Forma",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo dos aspectos técnicos, funcionais, expressivos e simbólicos da cor e da forma. Sistematização, classificação e teoria das cores.\n___BIBLIOGRAFIA BÁSICA___\n1) ARNHEIM, Rudolf. Arte e percepção visual: uma psicologia de visão criadora. São Paulo: Cengage Learning, 2005.\n2) OSTROWER, Fayga. Criatividade e processos de criação. Petrópolis: Vozes, 1983.\n3) PEDROSA, Israel. Da cor a cor inexistente. São Paulo: Editora SENAC, 2009.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "09:00 - 12:00",
+        "professor": "LARISSA CARDOSO FERES ELIAS"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAT235",
+      "Nome": "Oficina de Têxteis",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A disciplina compreende o estudo dos tecidos e tipos de entrelaçamentos de fios, macramé, tricô, crochê, além dos tipos de tingimentos e beneficiamentos de\nmateriais têxteis.\n___BIBLIOGRAFIA BÁSICA___\n1) ABRANTES, Samuel. Heróis e bufões; o figurino encena. Rio de Janeiro: Ed. Agora da Ilha, 2001.\n2) CÁURIO, Rita. Artêxtil no Brasil. Rio de Janeiro: s/ed. 1985.\n3) VICENT- RICARD, Françoise. As espirais da moda. Rio de Janeiro: Paz e Terra, 1989.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 16:00",
+        "professor": "SAMUEL SAMPAIO ABRANTES"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAF103",
+      "Nome": "Desenho Anatômico I",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Proporções e relações do corpo humano; nomenclatura básica da osteologia; desenho do esqueleto dando o conhecimento da forma, estrutura e função das partes que constituem a cabeça; tronco e membros.\n___Bibliografia Recomendada___\n1- BRIDGMAN, George B. Bridgman's complete guide to drawing from life. New York: Sterling Publishing Company, Inc., 2009.\n2- GORDON, Louise. Desenho anatómico. Lisboa: Presença; [São Paulo]: Martins Fontes, 1980.\n3- LOOMIS, Andrew. Figure drawing for all it?s work. New York: The Viking Press, 1944.\n4- PERARD, Victor. Desenho e anatomia. Rio de Janeiro: Ediouro, [s.d.].\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 16:00",
+        "professor": "ANDERSON LIMA PERES"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAF301",
+      "Nome": "Modelo Vivo II",
+      "Créditos": "3.0",
+      "Teórica": "0",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A figura e sua representação através do estudo do claro-escuro\n___Bibliografia Recomendada___\n1- ARNHEIM, Rudolf. Arte e percepção visual: uma psicologia da visão criadora. São Paulo: Cengage Learning, 2011.\n2- ARNHEIM, Rudolf. Intuição e intelecto na arte. São Paulo: Martins Fontes, 1989.\n3- CHIPP, Herschel B. Teorias da arte moderna. São Paulo: Martins Fontes, 1999.\n4- KANDINSKY, Wassily. Ponto linha plano: contribuição para análise dos elementos picturais. Lisboa: Edições 70, 1996.\n5- WICK, Rainer. Pedagogia da Bauhaus. São Paulo: Martins Fontes, 1989.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 16:00",
+        "professor": "ALVARO MARTINS DE SEIXAS NETO"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 16:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "BAF205"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAT234",
+      "Nome": "Estética Apl Artes Cênicas II",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A partir das principais teorias filosóficas sobre a arte que se desenvolveram ao longo do século XX, a disciplina apresenta diferentes formas de ruptura com a tradição que determinam a produção teatral contemporânea.\n___BIBLIOGRAFIA BÁSICA___\n1- ADORNO, Theodor. Teoria estética. Lisboa: Edições 70, 2011.\n2- BENJAMIN, Walter. A obra de arte na era da sua reprodutibilidade técnica. In: Magia e técnica, arte e política. Obras Escolhidas, V. 1. São Paulo: Brasiliense, 1985.\n3- KANTOR, Tadeusz. O teatro da morte. São Paulo: Perspectiva, 2008.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "09:00 - 12:00",
+        "professor": "GILSON MORAES MOTTA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "3º Período": [
+     {
+      "Codigo": "BAT122",
+      "Nome": "Metodologia da Imagem",
+      "Créditos": "3.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenvolvimento de metodologia para estudos da imagem e representação gráfica complementares à prática projetual em artes cênicas. A metodologia da imagem\nenquanto linguagem nos procedimentos comunicativos das artes cênicas.\n___BIBLIOGRAFIA BÁSICA___\n1) ARNHEIM, Rudolf. Arte e percepção visual: uma psicologia de visão criadora. São Paulo: Cengage Learning, 2005.\n2) OLIVEIRA, Sandra Ramalho. Imagem também se lê. São Paulo: Edições Rosari, 2005.\n3) OSTROWER, Fayga. Criatividade e processos de criação. Petrópolis: Vozes, 1983.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 17:00",
+        "professor": "LARISSA CARDOSO FERES ELIAS"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAT360",
+      "Nome": "Ator, Espaço e Imagem",
+      "Créditos": "3.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Experimentação prática de processos criativos do ator-performer, com ênfase nas noções de presença, de teatralidade e de autoralidade, e nas relações ator-espaço, ator-tempo, ator-visualidades e ator-narratividades.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "09:30 - 13:00",
+        "professor": "LARISSA CARDOSO FERES ELIAS"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAF107",
+      "Nome": "Desenho Anatômico II",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenvolver a disciplina anterior, oferecendo conhecimentos científicos auxiliares para a realização de obras realistas. Informa sobre proporções, equilíbrios, movimento e expressão na figura humana.\n___Bibliografia Recomendada___\n1- BRIDGMAN, George B. Bridgman's complete guide to drawing from life. New York: Sterling Publishing Company, Inc., 2009.\n2- GORDON, Louise. Desenho anatómico. Lisboa: Presença; [São Paulo]: Martins Fontes, 1980.\n3- LOOMIS, Andrew. Figure drawing for all it?s work. New York: The Viking Press, 1944.\n4- PERARD, Victor. Desenho e anatomia. Rio de Janeiro: Ediouro, [s.d.].\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 16:00",
+        "professor": "ANDERSON LIMA PERES"
+       }
+      ],
+      "Requisitos": [
+       "BAF103"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAT245",
+      "Nome": "Desenho Técnico de Vestuário",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenvolvimento da elaboração do desenho técnico através de medidas e escalas visando à representação planificada de roupas. Interpretação de modelos através de desenhos artísticos. Reconhecimento de matérias primas e operações para execução do produto.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "13:00 - 17:00",
+        "professor": "LARISSA CARDOSO FERES ELIAS"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAT511",
+      "Nome": "Cena e Dramaturgia I",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A disciplina propõe o estudo do teatro, da Antiguidade ao Renascimento, valorizando as relações dinâmicas entre os diversos elementos do espetáculo em sua produção de sentido.\n___BIBLIOGRAFIA BÁSICA___\n1- BERTHOLD, Margot. História mundial do teatro. São Paulo: Perspectiva, 2010.\n2- PRADO, Décio de Almeida. História concisa do teatro brasileiro. 1570-1908. São Paulo: Edusp, 1999.\n3- VERNANT, Jean-Pierre; VIDAL-NAQUET, Pierre. Mito e tragédia na Grécia antiga. V. I e II. São Paulo: Perspectiva, 1999.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 16:00",
+        "professor": "GILSON MORAES MOTTA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "4º Período": [
+     {
+      "Codigo": "BAT236",
+      "Nome": "Metodologia da Pesquisa",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Os princípios básicos da pesquisa. As especificidades da pesquisa no campo das artes. A formulação de uma hipótese. Alguns caminhos metodológicos. A elaboração\nde um projeto de pesquisa e a delimitação das etapas a percorrer.\n___BIBLIOGRAFIA BÁSICA___\n1) BARTHES, Roland. A câmara clara. Lisboa: Edições 70, 1980.\n2) CARREIRA, André et alii (org.). Metodologias da pesquisa em artes cênicas. Rio: 7Letras, 2006.\n3) MATERNO, Angela. O olho e a névoa. Considerações sobre a teoria do teatro. Sala Preta. São Paulo, v. 3. n. 1, 2003.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "10:00 - 12:00",
+        "professor": "LARISSA CARDOSO FERES ELIAS"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAT476",
+      "Nome": "Iluminação Cênica I",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Abordar noções básicas de equipamento de luz. Apresentar nomenclatura, constituição e uso dos equipamentos, tipos de lâmpadas e especificidade dos focos. Mesas\nanalógicas e mesas digitais. Elaboração de mapas e roteiros de operação. Experiência na criação de um desenho de luz para uma cena: do conceito ao roteiro.\n___BIBLIOGRAFIA BÁSICA___\n1) BABLET, Denis. A luz no teatro. In: JUNIOR, Redondo. (org.). O teatro e a sua estética. V. 2. Lisboa: Editora Arcádia, 1964.\n2) CAMARGO, Roberto Gill. Função estética da luz. Sorocaba/SP: Editora TCM-Comunicação, 2000.\n3) PRENAFETA, Beato Tem; DIAS, Jamil; PIEDADE, Milton B. Iluminação cênica ? fragmentos da história. São Paulo: Edições Abric, 2005\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "15:00 - 18:00",
+        "professor": "ANTONIO DE SOUZA PINTO GUEDES"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAT512",
+      "Nome": "Cena e Dramaturgia II",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A disciplina trata das transformações do teatro entre o século XVII e o século XIX, enfatizando a construção da noção de ilusão e suas consequências para a produção teatral do final do século XIX.\n___BIBLIOGRAFIA BÁSICA___\n1- BERTHOLD, Margot. História mundial do teatro. São Paulo: Perspectiva, 2010.\n2- PRADO, Décio de Almeida. O teatro brasileiro moderno. São Paulo: Perspectiva, 1996.\n3- ROUBINE, Jean-Jacques. Introdução às grandes teorias do teatro. Rio de Janeiro: Jorge Zahar, 2003.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAT231",
+      "Nome": "Figurino I",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo da História da Indumentária, da Antiguidade Clássica à Idade Média. Desenvolvimento de projeto de figurinos adequados à linguagem teatral, com pesquisa e representação gráfica.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 17:00",
+        "professor": "DESIREE BASTOS DE ALMEIDA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAT244",
+      "Nome": "Técnicas de Figurino I",
+      "Créditos": "3.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Iniciação às técnicas da corte e costura. Estudo e construção da modelagem de roupas femininas e masculinas pelo método da modelagem tridimensional.\n___BIBLIOGRAFIA BÁSICA___\n1) DANIEL, Maria Helena. Guia prático dos tecidos. Osasco-São Paulo: Novo Século Editora, 2011.\n2) SABRA, Flávio (org.). Modelagem: tecnologia em produção de vestuário. São Paulo: Estação das Letras e Cores, 2009.\n3) UDALE, Jenny. Fundamentos de design de moda: tecidos e moda. Porto Alegre: Bookman, 2009.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 12:00",
+        "professor": "LARISSA CARDOSO FERES ELIAS"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAT479",
+      "Nome": "Direção de Espetáculo",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Abordar o surgimento do encenador como um marco histórico. entender a elaboração de um conceito para a cena, o pensamento global e a articulação dos diversos elementos da cena. Compreensão da trajetória e consolidação do termo \"dramaturgia da cena\".\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 15:00",
+        "professor": "ANTONIO DE SOUZA PINTO GUEDES"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "5º Período": [
+     {
+      "Codigo": "BAT357",
+      "Nome": "Técnicas de Figurino II",
+      "Créditos": "3.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A modelagem plana na construção de roupas. Técnicas de planificação do corpo e transformação das modelagens planificadas. Estudo do corte e das técnicas de\nmontagem de roupas feitas pela modelagem plana.\n___BIBLIOGRAFIA BÁSICA___\n1) DUARTE, Sônia; SAGESSE, Sylvia. Modelagem industrial brasileira. Rio de Janeiro: Editora Guarda-roupa, 2008.\n2) ___. Saias. Rio de Janeiro: Editora Guarda-roupa, 2010.\n3) FISHER, Anette. Fundamentos do design de moda: construção do vestuário. Porto Alegre: Bookman, 2010.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 12:00",
+        "professor": "LARISSA CARDOSO FERES ELIAS"
+       }
+      ],
+      "Requisitos": [
+       "BAT244"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAT513",
+      "Nome": "Cena e Dramaturgia III",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A disciplina trata das transformações do teatro ao longo do século XX, com ênfase nas tentativas de ruptura da noção de ilusão.\n___BIBLIOGRAFIA BÁSICA___\n1- BORNHEIM, Gerd. Brecht: a estética do teatro. São Paulo: Graal, 1992.\n2- GUINSBURG, J. Stanislávski, Meierhold & Cia. São Paulo: Perspectiva, 2001.\n3- LOPES, Angela Leite. Nelson Rodrigues, trágico, então moderno. Rio de janeiro: Nova Fronteira, 2007.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "14:00 - 16:00",
+        "professor": "ANTONIO DE SOUZA PINTO GUEDES"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAT241",
+      "Nome": "Figurino II",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo da História da Indumentária correspondente aos séculos XV, XVI e XVII. Desenvolvimento de projeto de figurinos adequados à linguagem teatral, com pesquisa e representação gráfica.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "MADSON LUIS GOMES DE OLIVEIRA"
+       }
+      ],
+      "Requisitos": [
+       "BAT231"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAT410",
+      "Nome": "Adereços de Figurino",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Significado e importância do adereço nas diversas civilizações. Seu uso e sua aplicação na indumentária teatral. O adereço atual: interpretação, criação e execução.\n___BIBLIOGRAFIA BÁSICA___\n1- MAGALHÃES, Rosa. Fazendo carnaval. The making of carnival. Rio de Janeiro: Nova Aguilar, 1997.\n2- NERY, Marie Louise. A evolução da indumentária: subsídios para criação de figurinos. Rio de Janeiro: SENAC, 2003.\n3- OLESEN, Jens. Hans Christian Andersen: carnival 2005: Imperatriz Leopoldinense. [s.L.]: Gráficos Burti, 2005.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "09:00 - 12:00",
+        "professor": "LEONARDO AUGUSTO DE JESUS"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAWX03",
+      "Nome": "Atividades Complementares",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "120",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Atividades de naturezas diversas (monitoria; iniciação científica, artística e cultural; projetos artísticos, apresentação de trabalhos etc.) desenvolvidas nas áreas de artes da\ncena e artes visuais, realizadas dentro ou fora da UFRJ.\n___BIBLIOGRAFIA BÁSICA___\n1) Bibliografia recomendada pelo coordenador da atividade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "6º Período": [
+     {
+      "Codigo": "BAT340",
+      "Nome": "Cena e Dramaturgia IV",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A disciplina propõe o estudo aprofundado de alguns aspectos da produção teatral contemporânea, com ênfase nos artistas que romperam com as fronteiras tradicionais dos campos das artes. Uma atenção especial será dada às questões ligadas às diferenças culturais, sociais, étnicas e de gênero levantadas por essas manifestações artísticas.\n___BIBLIOGRAFIA BÁSICA___\n1- COHEN, Renato. Performance como linguagem. São Paulo: Perspectiva, 1989.\n2- LEHMANN, Hans-Thies. Teatro pós-dramático. São Paulo: Cosac Naify, 2007.\n3- SARRAZAC, Jean-Pierre. O futuro do drama. Porto: Campo das Letras, 2002.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 17:00",
+        "professor": "ANTONIO DE SOUZA PINTO GUEDES"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAT369",
+      "Nome": "Técnicas de Figurino III",
+      "Créditos": "3.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Laboratório de modelagem que explora métodos não convencionais de construção de roupas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "13:00 - 17:00",
+        "professor": "DESIREE BASTOS DE ALMEIDA"
+       }
+      ],
+      "Requisitos": [
+       "BAT357"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH369",
+      "Nome": "Cultura Brasileira",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Formação da cultura brasileira. Etnicidade. Culturas tradicionais, regionais, populares e urbanas no Brasil.\n___ BIBLIOGRAFIA BÁSICA ___\n1- CANDIDO, A. O significado de Raízes do Brasil (Prefácio). In: HOLANDA, S. B. de. Raízes do Brasil. 26.ed. São Paulo: Cia. das Letras, 1995.\n2- FREYRE, G. Prefácio. Casa-grande & senzala: formação da família brasileira sob o regime da economia patriarcal. São Paulo: Global, 2005.\n3- DAMATTA, R. Notas sobre o racismo à brasileira. In: SOUZA, J. (Org) Multiculturalismo e racismo: uma comparação Brasil - Estados Unidos. Brasília: Paralelo, 1997.\n4- MICELI, S. Intelectuais e classe dirigente no Brasil (1920-1945). São Paulo: Difel, 1979.\n5- ROCHA, J. C. de C. As origens e equívocos da cordialidade brasileira. In: ___. O exílio do homem cordial. Rio de Janeiro: Editora do Museu Nacional, 2004.\n___ BIBLIOGRAFIA COMPLEMENTAR ____\n1- CANDIDO, A. Dialética da malandragem. Revista do Instituto de Estudos Brasileiros, São Paulo, v.8, p.67-89, 1970.\n2- FERNANDES, F. A integração do negro na sociedade de classes. São Paulo: Ática, 1978.\n3- HOLANDA, S. B. de. Raízes do Brasil. 26.ed. São Paulo: Cia. das Letras, 1995.\n4- ROMERO, S. Estudos sobre a poesia popular do Brasil. 2.ed. Petrópolis: Vozes, 1977.\n5- WISNIK, J. M. Veneno remédio: o futebol e o Brasil. São Paulo: Cia. das Letras, 2008.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "14:00 - 17:00",
+        "professor": "PAULO DA COSTA E SILVA FRANCO DE OLIVEIRA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAT356",
+      "Nome": "Figurino III",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo da História da indumentária correspondente aos séculos XVIII e XIX. Desenvolvimento de projeto de figurinos adequados à linguagem teatral, com pesquisa e representação gráfica.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 17:00",
+        "professor": "SAMUEL SAMPAIO ABRANTES"
+       }
+      ],
+      "Requisitos": [
+       "BAT241"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAT411",
+      "Nome": "Caracterização Teatral",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo da caracterização teatral e sua aplicação às Artes Cênicas. Ensino de técnicas e criação de projeto para caracterização teatral.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "09:00 - 12:00",
+        "professor": "LEONARDO AUGUSTO DE JESUS"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "7º Período": [
+     {
+      "Codigo": "BAT484",
+      "Nome": "Empreend e Produção Cultural",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Abordar os aspectos legais da produção, da empresa e do espetáculo. Discutir as leis de incentivo; os editais de fomento; as condições de mercado. Entender a relação entre teatro, entendido como atividade econômica e a sociedade; as relações entre poder público, empresa privada e a atividade cultural.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAT368",
+      "Nome": "Figurino IV",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo e pesquisa da História da Indumentária correspondente ao século XX e XXI. Desenvolvimento de projetos de figurinos adequados à linguagem teatral, com pesquisa e representação gráfica.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 12:00",
+        "professor": "MADSON LUIS GOMES DE OLIVEIRA"
+       }
+      ],
+      "Requisitos": [
+       "BAT356"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "8º Período": [
+     {
+      "Codigo": "BATY01",
+      "Nome": "Proj Graduacao em Figurino Tcc",
+      "Créditos": "3.0",
+      "Teórica": "15",
+      "Prática": "105",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenvolvimento de projeto de figurino para um setor específico das artes cênicas (teatro, dança, circo, ópera, performance), para o espetáculo de carnaval ou para as\nartes do vídeo.\n___BIBLIOGRAFIA BÁSICA___\n1) Bibliografia recomendada pelo orientador do projeto.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAT368",
+       "BAT369"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "Disciplinas Optativas (Escolha Condicionada)": [
+     {
+      "Codigo": "BAA002",
+      "Nome": "Tóp Especiais Paisagismo II",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Palestras e seminários diversificados sobre os temas: Paisagismo, paisagem, espaços extrnos, urbanismo, conforto ambiental, técnicas e materiais de revestimento, equipamento, mobiliário urbano, vegetação e outros assuntos afins que possibilitem o crescimento e o desenvolvimento técnico-profissional dos alunos. Visitas guiadas e experimentos de campo ligadas ao estudo e ao projeto dos espaços exteriores.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAA004",
+      "Nome": "Tóp Especiais Paisagismo IV",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Palestras e encontros. Seminários diversificado sobre os temas: Paisagismo, paisagem, espaços externos, urbanismo, conforto ambiental, técnicas e materiais de revestimento, equipamento, mobiliário urbano, vegetação e outros assuntos afins que possibilitem o crescimento e o desenvolvimento técnico-profissional dos alunos. Visitas guiadas e experimentos de campo ligadas ao estudo e ao  projeto dos espaços exteriores.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAA404",
+      "Nome": "Hist Lugares e Coisas-ocupaç",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo teórico e crítico dos ambientes interiores e objetos, seus usos e linguagens, sob perspectiva histórica, envolvendo questões artísticas, estéticas, funcionais e culturais. Da casa de porta e janela ao palacete, das oficinas às lojas de departamento, dos gabinetes de curiosidades aos museus. Era moderna até o século XIX, com ênfase no Brasil.\n___ BIBLIOGRAFIA BÁSICA ___\n1- ARIÈS, Philippe (coord.). História da vida privada. São Paulo: Companhia das Letras, 1990. 5 vol.\n2- MALTA, Marize; MENDONÇA, Isabel M. G. Casas senhoriais Rio-Lisboa e seus interiores. Rio de Janeiro/Lisboa: UFRJ/UNL/FRESS, 2014.\n3- NOVAIS, Fernando (coord.). História da vida privada no Brasil. São Paulo: Companhia das Letras, 1999. 4 vol.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "13:00 - 16:00",
+        "professor": "MARIZE MALTA TEIXEIRA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAB112",
+      "Nome": "Pintura A",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Os materiais de pintura e seu emprego através dos processos usuais. Habilitar o aluno ao uso do material de pintura na execução de trabalhos.\n",
+       "BibliografiaBasica": "1) BARRETO, Lourdes.Oficina de pintura : materiais, fórmulas e procedimentos. Rio de Janeiro : Rio Books, 2011.\n2) MAYER, Ralph. Manual do Artista. São Paulo: Martins Fontes, 1996.\n3) MOTTA, Edson e SALGADO, Maria Luiza. Iniciação a Pintura. Rio de Janeiro: Ed. Nova Fronteira, 1976.\n",
+       "BibliografiaComplementar": "1) ARNHEIM, Rudolf. Intuição e intelecto na arte. São Paulo: Martins Fontes, 1989.\n2) Doerner, Max; Reverté, Pedro. Los materiales de pintura y su empleo en el arte : materiales y técnica de las pinturas al óleo, temple, acuarela, fresco, pastel. Técnica de los antiguos maestros. Conservación de monumentos y cuadros / . Barcelona : G. Gili, 1946.\n3) Hayes, Colin Guia completa de pintura y dibujo : tecnicas y materiales / . Madrid : Hermann Blume, c1980.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAB411",
+      "Nome": "Gravura I",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A disciplina oferece um panorama prático e teórico dos procedimentos artesanais de reprodução de imagens. O aluno será convidado a realizar experiências de impressão e reprodução de imagens, tomando conhecimento de uma variedade de técnicas gráficas, e sendo convidado a realizar trabalhos coletivos e autorais a partir destes.\n",
+       "BibliografiaBasica": "1) A gravura brasileira na coleção Mônica e George Kornis. Rio de Janeiro: Caixa Cultural, 2007.\n2) DA SILVA, Orlando. A arte maior da gravura. São Paulo: edição Espade, 1976.\n3) Gravura brasileira hoje: depoimentos / coordenação Heloísa Pires Ferreira - Rio de Janeiro: SESC, 1995-1997.\n",
+       "BibliografiaComplementar": "1) CAVALCANTI, Newton; MASSON, Michel (org.) Newton Cavalcanti: lendas rústicas. Rio de Janeiro: Data Coop, 2012.\n2) EICHENBERG, Fritz. The art of print: masterpieces, history, techniques. New York: Harry N. Abrams, 1976.\n3) Gravura: arte brasileira do século XX. São Paulo: Itaú Cultural: Cosac Naify, 2000.\n4) Prefeitura da Cidade do Rio de Janeiro. Mostra Rio Gravura catálogo geral dos eventos. Rio de Janeiro: Rio Arte, 1999.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAE004",
+      "Nome": "Performance",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Realização de exercícios dentro da linguagem da performance do viés das artes visuais; estudo da história da performance.\n___BIBLIOGRAFIA BÁSICA___\n1- CARVALHO, Flavio de. Uma possível teoria e uma experiência. Rio de Janeiro: Nau, 2001.\n2- GOLDBERG, Roselee. A arte da performance, do futurismo ao presente. São Paulo: Martins Fontes, 2006.\n3- GLUSBERG, Jorge. A arte da performance. São Paulo: Perspectiva, 2005.\n4- Caderno VIDEOBRASIL, vol. 1, n. 1, Performance. São Paulo: SESC, 2005.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAE006",
+      "Nome": "Videoarte II",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Arte eletrônica, videoarte. Realização de vídeos, vídeos-objetos e vídeo-instalações. Estudo da história da videoarte.\n___BIBLIOGRAFIA BÁSICA___\n1- FIFER, Sally Jo; HALL, Doug. Illuminating Video: an essential guide to video art. New York: Aperture / Bay Area Video Coalision, 1990.\n2- MACHADO, Arlindo. Máquina e imaginário. São Paulo: EDUSP, 1993.\n3- MACHADO, Arlindo. A arte do vídeo. São Paulo: Brasiliense, 1988.\n4- SHAW, Jeffrey; WEIBEL, Peter. Future cinema: the cinematic imaginary after film. ZKM Center for Art and Media Karlsruhe, 16 November 2002 - 30 March 2003, travelling to the following venues: Musuem of Contemporary Art, KIASMA Helsinki, 28 June - 28 September 2003, NTT Intercommunication Center ICC Tokyo 2 December 2003 - 7 March 2004. Cambridge: MIT Press, 2003. 635 S.: zahlr. III.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAE119",
+      "Nome": "Oficina de Fôrmas I",
+      "Créditos": "3.0",
+      "Teórica": "0",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Técnicas de formagem em gesso, passagem, fundição, vazamento em positivo; moldagem direta; formas de areia; forma perdida; tacelos. Relevos. Escultura em bloco e perfurada.\n___BIBLIOGRAFIA BÁSICA___\n1- MIDGLEY, Barry (Ed.). The Complete Guide to Sculpture, Modeling and Ceramics, techniques and materials. Chartwell Books, Inc. London, 1982.\n2-VERHELST, Wilbert. Sculpture: Tools, Materials and Techniques. Prentice Hall; 2 Sub edition (January 1988).\n3- MILLER, Richard McDermott. Figure in Wax and Plaster. Dover Publications, 1987.\n4- WILLIAMS, Arthur. The Sculpture reference: contemporary techniques, terms, tools, materials and sculpture. Sculpture Books, 2004.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAH503",
+      "Nome": "Arte no Brasil II",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das Artes Visuais no Brasil nos séculos XX e XXI, em seus aspectos conceituais, históricos e historiográficos. Dos diferentes modernismos à arte contemporânea brasileira.\n___ BIBLIOGRAFIA BÁSICA ___\n1-) AMARAL, Aracy. Arte para quê? A preocupação social na arte brasileira, 1930-1970 [1984]. 2ª ed. São Paulo: Nobel, 1987.\n2) BASBAUM, Ricardo (org.). Arte Contemporânea Brasileira: texturas, dicções, ficções, estratégias. Rio de Janeiro: Rio Ambiciosos, 2001.\n3) BRITO, Ronaldo. Neoconcretismo: vértice e ruptura do projeto construtivo brasileiro [1975/1985]. São Paulo: Cosac Naify, 1999.\n4) FERREIRA, Glória (org.). Crítica de arte no Brasil: temáticas contemporâneas. Rio de Janeiro: Funarte, 2006.\n5) ZÍLIO, Carlos. A querela do Brasil: a questão da identidade na arte brasileira: a obra de Tarsila, Di Cavalcanti e Portinari, 1922-1945. Rio de Janeiro: Funarte, 1982.\n___ BIBLIOGRAFIA COMPLEMENTAR ___\n1) AMARAL, Aracy (org.). Projeto construtivo brasileira na arte. 1950-1962. Rio de Janeiro: Museu de Arte Moderna. São Paulo: Pinacoteca do Estado, 1977.\n2) BRETT, Guy. Brasil experimental: arte/vida: proposições e paradoxos. Rio de Janeiro: Contra Capa, 2005.\n3) DUARTE, Paulo Sérgio. Anos 60: transformações da arte no Brasil. Rio de Janeiro: Campos Gerais, 1998.\n4) FABRIS, Annateresa (org.). Modernidade e modernismo no Brasil. Campinas: Mercado das Letras, 1994.\n5) MORAIS, Frederico. Artes Plásticas: a crise da hora atual. Rio de Janeiro: Paz e Terra, 1975.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAI329",
+      "Nome": "Estamparia B",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Aulas teórico-práticas sobre estamparia têxtil. Técnicas, materiais e processos da estamparia a quadro. Desenvolvimento de trabalhos por métodos semi-industriais. Introdução ao design têxtil e conceitos de Rapport para estamparia localizada e corrida.\n___Bibliografia Recomendada___\n1- BOWLES, Melanie. Diseño y estampación textil digital. Barcelona: Art Blume, 2009. - COLE, Drusilla. Diseño textil contemporaneo. Barcelona: Art Blume, 2008.\n2- ESTAMPARIA, tapeçaria, tecelagem: Exposição de Arte Têxtil da Escola de Belas Artes da UFRJ. Rio de Janeiro : UFRJ, 1989. 47 p.\n3- ESTAMPARIA, tapeçaria: II Exposição - Mostra de Arte Têxtil da Escola de Belas Artes da UFRJ, artistas homenageadas: Hilda Campofiorito e Tana. Rio de Janeiro : UFRJ, 1993. 48 p.\n4- JACQUÉ, Jacqueline. Printed textiles. In: CARLANO, Marianne et alii. French textiles; from the middle ages through the second empire. Connecticut : Wadsworth Atheneum, 1985.\n5- JONES, Owen. A gramática do ornamento. Edição brasileira:Editora Senac São Paulo, 2010.\n6- MELLER, Susan; ELFFERS, Joost. Textile designs: 200 years of patterns for printed fabrics arranged by motif, colour, period and design. London: Thames & Hudson, 2002. 464 p.\n7- PROCTOR, Richard M. , LEW, Jennifer F. Surface design for fabric. Washington : University of Washington Press, 1985. - RUBIM, Renata. Desenhando a superfície. São Paulo: Rosari, 2005. 95 p.\n8- RÜTHSCHILLING, Evelise Anicet. Design de superfície. Porto Alegre: Ed. Da UFRGS, 2008. 104 p.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAI503",
+      "Nome": "Oficina de Estamparia",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Aulas teórico-práticas sobre estamparia têxtil. Técnicas, materiais e processos da estamparia por reserva. Desenvolvimento de trabalhos exclusivos. Introdução ao design têxtil decorrente do fazer artístico em Estamparia.\n___Bibliografia Recomendada___\n1- BOWLES, Melanie. Diseño y estampación textil digital. Barcelona: Art Blume, 2009.\n2- COLE, Drusilla. Diseño textil contemporaneo. Barcelona: Art Blume, 2008.\n3- CONRAN, Terence. Printed textile design. London : The Studio Limited, 1975.\n4- ESTAMPARIA, tapeçaria, tecelagem: Exposição de Arte Têxtil da Escola de Belas Artes da UFRJ. Rio de Janeiro : UFRJ, 1989. 47 p.\n5- ESTAMPARIA, tapeçaria: II Exposição - Mostra de Arte Têxtil da Escola de Belas Artes da UFRJ, artistas homenageadas: Hilda Campofiorito e Tana. Rio de Janeiro : UFRJ, 1993. 48 p.\n6- JONES, Owen. A gramática do ornamento. Edição brasileira:Editora Senac São Paulo, 2010.\n7- LARSEN, Jack Lenor. The dyer's art; ikat, batik, plangi. New York : Van Nostrand Reinhold, 1976.\n8- MELLER, Susan; ELFFERS, Joost. Textile designs: 200 years of patterns for printed fabrics arranged by motif, colour, period and design. London: Thames & Hudson, 2002. 464 p.\n9- PROCTOR, Richard M. , LEW, Jennifer F. Surface design for fabric. Washington : University of Washington Press, 1985.\n10- RÜTHSCHILLING, Evelise Anicet. Design de superfície. Porto Alegre: Ed. Da UFRGS, 2008. 104 p._\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAT005",
+      "Nome": "Figurino para Carnaval",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo e pesquisa de figurinos para carnaval utilizados para os desfiles de escola de samba. Os figurinos carnavalescos ou fantasias para carnaval e suas divisões: fantasias de ala, fantasias de composição, fantasias semi-destaques e fantasias de destaque. História da indumentária/moda e sua relação com os figurinos carnavalescos. Desenvolvimento de projetos de figurinos adequados à linguagem carnavalesca, com pesquisa e representação gráfica.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAT007",
+      "Nome": "Figurino e Moda",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo e pesquisa de figurinos relacionados à história da moda. criadores de figurinos e criadores de moda. criadores nacionais e criadores internacionais. Análises de casos em que a moda se transformou em figurino e vice e versa. Desenvolvimento de projeto de pesquisa sobre a relação entre figurino e moda.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAT009",
+      "Nome": "Tóp Especiais Figurinos II",
+      "Créditos": "3.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Disciplina com conteúdo variável,voltada para projetos de pesquisa e de extensão nas áreas de Figurino, Carnaval e afins.\n___Bibliografia Recomendada___\nA bibliografia será definida de acordo com o tema abordado no curso proposto.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sab",
+        "hora": "09:00 - 12:00",
+        "professor": "DESIREE BASTOS DE ALMEIDA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAT011",
+      "Nome": "Tóp Especiais Cenografia II",
+      "Créditos": "3.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Disciplina com conteúdo variável, voltada para projetos de pesquisa e de extensão nas áreas de Cenografia, Iluminação e afins.\n___BIBLIOGRAFIA BÁSICA___\n1) A bibliografia será definida de acordo com o tema abordado no curso proposto.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAT013",
+      "Nome": "Tóp Especiais Performance II",
+      "Créditos": "3.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Disciplina com conteúdo variável,voltada para projetos de pesquisa e de extensão nas áreas de Performance, Atuação, Direção, Dramaturgia e afins.\n___Bibliografia Recomendada___\nA bibliografia será definida de acordo com o tema abordado no curso proposto.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAT017",
+      "Nome": "Tóp Especiais Figurino III",
+      "Créditos": "3.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Disciplina com conteúdo variável,voltada para projetos de pesquisa e de extensão nas áreas de Figurino, Carnaval e afins.\n___Bibliografia Recomendada___\nA bibliografia será definida de acordo com o tema abordado no curso proposto.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAT019",
+      "Nome": "Tóp Especiais Figurino V",
+      "Créditos": "3.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Disciplina com conteúdo variável,voltada para projetos de pesquisa e de extensão nas áreas de Figurino, Carnaval e afins.\n___Bibliografia Recomendada___\nA bibliografia será definida de acordo com o tema abordado no curso proposto.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAT021",
+      "Nome": "Tóp Especiais Figurino VII",
+      "Créditos": "3.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Disciplina com conteúdo variável,voltada para projetos de pesquisa e de extensão nas áreas de Figurino, Carnaval e afins.\n___Bibliografia Recomendada___\nA bibliografia será definida de acordo com o tema abordado no curso proposto.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAT023",
+      "Nome": "Tóp Especiais Cenografia III",
+      "Créditos": "3.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Disciplina com conteúdo variável,voltada para projetos de pesquisa e de extensão nas áreas de Cenografia, Iluminação e afins.\n___Bibliografia Recomendada___\nA bibliografia será definida de acordo com o tema abordado no curso proposto.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAT025",
+      "Nome": "Tóp Especiais Cenografia V",
+      "Créditos": "3.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Disciplina com conteúdo variável,voltada para projetos de pesquisa e de extensão nas áreas de Cenografia, Iluminação e afins.\n___Bibliografia Recomendada___\nA bibliografia será definida de acordo com o tema abordado no curso proposto.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAT027",
+      "Nome": "Tóp Especiais Cenografia VII",
+      "Créditos": "3.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Disciplina com conteúdo variável,voltada para projetos de pesquisa e de extensão nas áreas de Cenografia, Iluminação e afins.\n___Bibliografia Recomendada___\nA bibliografia será definida de acordo com o tema abordado no curso proposto.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAT029",
+      "Nome": "Tóp Especiais Performance III",
+      "Créditos": "3.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Disciplina com conteúdo variável, voltada para projetos de pesquisa e de extensão nas áreas de Performance, Atuação, Direção, Dramaturgia e afins.\n___BIBLIOGRAFIA BÁSICA___\n1) A bibliografia será definida de acordo com o tema abordado no curso proposto.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAT031",
+      "Nome": "Tóp Especiais Performance V",
+      "Créditos": "3.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Disciplina com conteúdo variável, voltada para projetos de pesquisa e de extensão nas áreas de Performance, Atuação, Direção, Dramaturgia e afins.\n___BIBLIOGRAFIA BÁSICA___\n1) A bibliografia será definida de acordo com o tema abordado no curso proposto.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAT033",
+      "Nome": "Tóp Especiais Performance VII",
+      "Créditos": "3.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Disciplina com conteúdo variável, voltada para projetos de pesquisa e de extensão nas áreas de Performance, Atuação, Direção, Dramaturgia e afins.\n___BIBLIOGRAFIA BÁSICA___\n1) A bibliografia será definida de acordo com o tema abordado no curso proposto.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAT201",
+      "Nome": "Linguagem Teatral",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Experimentação prática de processos criativos da cena, com ênfase nos seguintes aspectos: ator, espaço, visualidades, sonoridades e textualidades.\n___BIBLIOGRAFIA BÁSICA___\n1) BOGART, Anne. A preparação do diretor. São Paulo: Martins Fontes, 2011.\n2) BROOK, Peter. O ponto de mudança: quarenta anos de experiências teatrais: 1946-1987. Rio de Janeiro: Civilização Brasileira, 1994.\n3) FÉRAL, Josette. Além dos limites: teoria e prática do teatro. São Paulo: Perspectiva, 2015.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "09:30 - 13:00",
+        "professor": "LARISSA CARDOSO FERES ELIAS"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAT605",
+      "Nome": "Oficina de Teatro de Animação",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo do teatro de animação: estética, técnicas diversas, materiais e processos de confecção e manipulação de formas animadas no espetáculo teatral.\n___BIBLIOGRAFIA BÁSICA___\n1) AMARAL, Ana Maria. Teatro de formas animadas. Col. Teatro & Arte. V. 2. São Paulo: EDUSP, 1992.\n2) JAGENDORF, Moritz. The first book of pripperts. London: Edmund Ward Publ., 1964.\n3) SOULIER, Pierre. Marionnettes; leur manipulation, leur thêàtre. Paris: Ed. Réunion des Musées Nationaux, 1987.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAA001",
+      "Nome": "Tóp Especiais Paisagismo I",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Palestras, vistas e experimentos sobre os temas: Paisagismo, paisagem, espaços extrnos, urbanismo, conforto ambiental, técnicas e materiais de revestimento, equipamento, mobiliário urbano, vegetação e outros temas afins que possibilitem o crescimento e o desenvolvimento técnico-profissional dos alunos, no estudo e no projeto dos espaços exteriores.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAA003",
+      "Nome": "Tóp Especiais Paisagismo III",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Seminários, palestras, vistas técnicas e experimento sobre os temas: Paisagismo, paisagem, espaços externos, urbanismo, conforto ambiental, técnicas e materiais de revestimento, equipamento, mobiliário urbano, vegetação e outros temas afins que possibilitem o crescimento e o desenvolvimento técnico-profissional dos alunos, no estudo e no projeto dos espaços exteriores.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAA320",
+      "Nome": "Hist Lugares e Coisas-casas",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo teórico e crítico dos ambientes interiores e objetos, seus usos e linguagens, sob perspectiva histórica, envolvendo questões artísticas, estéticas, funcionais e culturais. Diversidades culturais de morar no mundo, com observação nas relações étnico-raciais. Ênfase nos modelos de moradias, suas ocupações, decorações, artefatos. Espaços ancestrais, primeiros, locais, estrangeiros, rurais, urbanos, outros. Arte e domesticidade.\n___ BIBLIOGRAFIA BÁSICA ___\n1- ARIÈS, Philippe (coord.). História da vida privada. São Paulo: Companhia das Letras, 1990. 5 vol.\n2- MALTA, Marize; MENDONÇA, Isabel M. G. Casas senhoriais Rio-Lisboa e seus interiores. Rio de Janeiro/Lisboa: UFRJ/UNL/FRESS, 2014.\n3- NOVAIS, Fernando (coord.). História da vida privada no Brasil. São Paulo: Companhia das Letras, 1999. 4 vol.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "09:00 - 12:00",
+        "professor": "MARIZE MALTA TEIXEIRA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAA423",
+      "Nome": "Hist Lugares e Coisas-design",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo teórico e crítico dos ambientes interiores e objetos, seus usos e linguagens, sob perspectiva histórica, envolvendo questões artísticas, estéticas, funcionais e culturais. Ênfase nos aspectos ideológicos do design no mundo e no Brasil, no século XX.\n___ BIBLIOGRAFIA BÁSICA ___\n1- ARCHER, Michael. Arte contemporânea: uma história concisa. São Paulo: Martins Fontes, 2001.\n2- BORGES, Adelia et al. O móvel brasileiro contemporâneo. Rio de Janeiro: Aeroplano, 2014.\n3- CARDOSO, Rafael. Uma introdução à história do design. São Paulo: Edgard Blücher, 2000.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "10:00 - 13:00",
+        "professor": "MARIZE MALTA TEIXEIRA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAB114",
+      "Nome": "Aquarela A",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudos das técnicas de aquarela e da utilização dos pigmentos e aglutinantes; a preparação dos suportes e acabamentos.\n",
+       "BibliografiaBasica": "1) ARNHEIM, Rudolf. Intuição e intelecto na arte. São Paulo: Martins Fontes, 1989.\n2) MAYER, Ralph. Manual do artista : de técnicas e materiais / . 5. ed. rev. e atual. São Paulo : Martins Fontes, 2016.\n3) MOTTA, Edson. SALGADO, Maria Luiza Guimarães. Iniciação à pintura. Rio de Janeiro: Nova Fronteira, 1976.\n",
+       "BibliografiaComplementar": "1) Hayes, Colin Guia completa de pintura y dibujo : tecnicas y materiales / . Madrid : Hermann Blume, c1980.\n2) Doerner, Max; Reverté, Pedro. Los materiales de pintura y su empleo en el arte : materiales y técnica de las pinturas al óleo, temple, acuarela, fresco, pastel. Técnica de los antiguos maestros. Conservación de monumentos y cuadros / . Barcelona : G. Gili, 1946.\n3) Barreto, Lourdes. Oficina de pintura : materiais, fórmulas e procedimentos / . Rio de Janeiro : Rio Books, 2011.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAE003",
+      "Nome": "Arte Pública",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Inserção da arte no espaço público e sua prática de produção experimental. As obras bidimensionais e tridimensionais, seus processos de criação e a interação com o público. As diversas estratégias de ampliação da categoria tradicional das artes visuais - interferências: arquitetônica, pictórica, na paisagem e urbana, produção efêmera, vídeo-escultura, foto-escultura, instalação, ocupação sonora e corpo como meio.\n___BIBLIOGRAFIA BÁSICA___\n1- ARGAN, Giulio Carlo. História da arte como história da cidade. São Paulo: Martins Fontes, 1989.\n2- AUGÉ, Marc. Non-places: introduction to an anthropology of supermodernity. London, New York: Verso, 1995.\n3- CRUICSHANK, Jeffrey; KORSA, Pam. Going public: a field guide of developments in art in public spaces. Massachussets: Arts Extension Service, 1988.\n4- LILES, Malcom. Art space and the city: public art and urban futures. London, New York: Routledge, 1997.\n5- BRISSAC, Nelson. Arte/Cidade - a cidade e suas histórias. São Paulo: Marca D´água, 1997.\n6- BRISSAC, Nelson. Arte/Cidade - a cidade e seus fluxos. São Paulo: Marca D´água, 1994.\n7- BRISSAC, Nelson. Arte/Cidade - as máquinas de guerra contra os aparelhos de captura. São Paulo: Gráfica Garilli, 2002.\n8- BRISSAC, Nelson. Arte/Cidade - cidade sem janelas. São Paulo: Marca D´água, 1994.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAE005",
+      "Nome": "Videoarte I",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Arte eletrônica, vídeoarte. Realização de vídeos, vídeo-objetos e vídeo-instalações. Estudo da história da vídeoarte.\n___BIBLIOGRAFIA BÁSICA___\n1- FIFER, Sally Jo; HALL, Doug. Illuminating Video: an essential guide to video art. New York: Aperture / Bay Area Video Coalision, 1990.\n2- MACHADO, Arlindo. Máquina e imaginário. São Paulo: EDUSP, 1993.\n3- MACHADO, Arlindo. A arte do vídeo. São Paulo: Brasiliense, 1988.\n4- MACHADO, Arlindo. O quarto iconoclasmo e outros ensaios. Rio de Janeiro: Marca D´água, 2001.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAE009",
+      "Nome": "Escultura Cênica I",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Escultura em grandes formatos, escultura cênica, carnaval, cinema, teatro, televisão, parque temático.\n___BIBLIOGRAFIA BÁSICA___\n1- FERREIRA, Felipe. Inventando carnavais: o surgimento do carnaval carioca no século XIX e outras questões carnavalescas. Rio de Janeiro: Editora UFRJ, 2005.\n2- MORAES, Eneida de. História do carnaval carioca. Rio de Janeiro: Record, (1958) 1987.\n3- RICH Jack C. The Materials and Methods of Sculpture. Dover publications, 1988.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAH502",
+      "Nome": "Arte no Brasil I",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das Artes Visuais no Brasil, desde antes da chegada dos europeus até o século XIX, em seus aspectos conceituais, históricos e historiográficos. Da arte ameríndia ao academicismo.\n___ BIBLIOGRAFIA BÁSICA ___\n1) ÁVILA, Afonso. Barroco: teoria e análise. São Paulo: Editora Perspectiva. Belo Horizonte: Companhia Brasileira de Metalurgia e Mineração, 1997.\n2) BARCINSKI, Fabiana Werneck (org.). Sobre a arte brasileira: da pré-história aos anos 1960. São Paulo: Martins Fontes: Ed. Sesc-SP, 2014.\n3) COLI, Jorge. Como estudar a arte brasileira do século XIX? São Paulo: Ed. Senac, 2005.\n4) OLIVEIRA, M. A. R.; PEREIRA, S. G.; LUZ, A. A. História da Arte no Brasil: textos de síntese. Rio de Janeiro: Editora da UFRJ, 2008.\n5) ZANINI, Walter (coord.). História geral da arte no Brasil. São Paulo: Instituto Walther Moreira Salles, 1983. 2 v.\n___ BIBLIOGRAFIA COMPLEMENTAR ___\n1) ALVIN, Sandra. Arquitetura religiosa colonial no Rio de Janeiro. Rio de Janeiro: Editora UFRJ/Minc - Iphan/Prefeitura da Cidade do Rio de Janeiro, 1999. 2 v.\n2) D'ARAÚJO, A. L. Arte no Brasil Colonial. Rio de Janeiro: Revan, 2000.\n3) LAGROU, Els. Arte indígena no Brasil. Belo Horizonte: C/Arte, 2007.\n4) OLIVEIRA, M. A. R. O rococó religioso no Brasil e seus antecedentes europeus. São Paulo: Cosac e Naify, 2003.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAI326",
+      "Nome": "Estamparia a",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Aulas teórico-práticas sobre estamparia têxtil. Técnicas, materiais e processos da estamparia por impressão. Desenvolvimento de trabalhos por métodos experimentais e artesanais. Introdução ao design têxtil para estamparia localizada e corrida.\n___Bibliografia Recomendada___\n1- BOWLES, Melanie. Diseño y estampación textil digital. Barcelona: Art Blume, 2009.\n2- COLE, Drusilla. Diseño textil contemporaneo. Barcelona: Art Blume, 2008.\n3- CONRAN, Terence. Printed textile design. London : The Studio Limited, 1975.\n4- ESTAMPARIA, tapeçaria, tecelagem: Exposição de Arte Têxtil da Escola de Belas Artes da UFRJ. Rio de Janeiro : UFRJ, 1989. 47 p.\n5- ESTAMPARIA, tapeçaria: II Exposição - Mostra de Arte Têxtil da Escola de Belas Artes da UFRJ, artistas homenageadas: Hilda Campofiorito e Tana. Rio de Janeiro : UFRJ, 1993. 48 p.\n6- JONES, Owen. A gramática do ornamento. Edição Brasileira: Editora Senac São Paulo, 2010.\n7- RUBIM, Renata. Desenhando a superfície. São Paulo: Rosari, 2005. 95 p.\n8- RÜTHSCHILLING, Evelise Anicet. Design de superfície. Porto Alegre: Ed. Da UFRGS, 2008. 104 p.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAI423",
+      "Nome": "Serigrafia I",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Emprego artistico e industrial; planejamento do desenho; montagem dos chassis; processos primitivos; filme de corte; impressao monocromatica; processo fotografico; sensibilizacao da tela; montagem da linha de impressao; impressao em diversos suportes; varias cores; recuperacao das telas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAR481",
+      "Nome": "Ed Ambiental-preserv de Bens C",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Convenções adotadas (regulamentações de leis e procedimentos técnicos) para preservação de bens culturais, relacionados ao meio ambiente.\n___ BIBLIOGRAFIA RECOMENDADA ___\n1- LEI Nº9.605, DE 12 DE FEVEREIRO DE 1998 - Dispõe sobre as sanções penais e administrativas derivadas de condutas e atividades lesivas ao meio ambiente.\n2- DECRETO-LEI Nº 25, DE 30 DE NOVEMBRO DE 1937 - Organiza a proteção do patrimônio histórico e artístico nacional.\n3- INSTITUTO DO PATRIMÔNIO HISTÓRICO ARTÍSTICO NACIONAL. Cartas Patrimoniais. Brasília: IPHAN, 1995.\n4- Cadernos Técnicos IPHAN - publicações on line - http://portal.iphan.gov.br/- publicações.\n5- Manuais IPHAN - publicações on line - http://portal.iphan.gov.br/- publicações\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAT006",
+      "Nome": "Figurino p Tv e Cinema",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo e pesquisa de figurinos para televisão e cinema. Figurinos para TV: novelas, minisséries e shows. Figurinos para cinema: filmes e publicidade. desenvolvimento de projeto de figurinos adequados à linguagem televisiva e/ou cinematográfica, com pesquisa e representação gráfica.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAT008",
+      "Nome": "Tóp Especiais Figurinos I",
+      "Créditos": "3.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Disciplina com conteúdo variável,voltada para projetos de pesquisa e de extensão nas áreas de Figurino, Carnaval e afins.\n___Bibliografia Recomendada___\nA bibliografia será definida de acordo com o tema abordado no curso proposto.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAT010",
+      "Nome": "Tóp Especiais Cenografia I",
+      "Créditos": "3.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Disciplina com conteúdo variável, voltada para projetos de pesquisa e de extensão nas áreas de Cenografia, Iluminação e afins.\n___BIBLIOGRAFIA BÁSICA___\n1) A bibliografia será definida de acordo com o tema abordado no curso proposto.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sab",
+        "hora": "09:00 - 13:00",
+        "professor": "CASSIA MARIA FERNANDES MONTEIRO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAT012",
+      "Nome": "Tóp Especiais Performance I",
+      "Créditos": "3.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Disciplina com conteúdo variável,voltada para projetos de pesquisa e de extensão nas áreas de Performance, Atuação, Direção, Dramaturgia e afins.\n___Bibliografia Recomendada___\nA bibliografia será definida de acordo com o tema abordado no curso proposto.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAT014",
+      "Nome": "Iluminação Cênica II",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Aprofundar as noções de equipamento de luz. Utilizar os diversos equipamentos, tipos de lâmpadas e especificidade dos focos em função da construção de uma\nnarrativa. Elaboração de mapa e roteiro de operação visando à criação de um desenho de luz para uma peça: do conceito ao roteiro.\n___BIBLIOGRAFIA BÁSICA___\n1) BABLET, Denis. A luz no teatro. In: JUNIOR, Redondo. (org.). O Teatro e a sua estética. V. 2. Lisboa: Editora Arcádia, 1964.\n2) CAMARGO, Roberto Gill. Função estética da luz. Sorocaba/SP: Editora TCM-Comunicação, 2000.\n3) PRENAFETA, Beato Tem; DIAS, Jamil; PIEDADE, Milton B. Iluminação cênica ? Fragmentos da história. São Paulo: Edições Abric, 2005\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAT018",
+      "Nome": "Tóp Especiais Figurino IV",
+      "Créditos": "3.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Disciplina com conteúdo variável,voltada para projetos de pesquisa e de extensão nas áreas de Figurino, Carnaval e afins.\n___Bibliografia Recomendada___\nA bibliografia será definida de acordo com o tema abordado no curso proposto.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAT020",
+      "Nome": "Tóp Especiais Figurino VI",
+      "Créditos": "3.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Disciplina com conteúdo variável,voltada para projetos de pesquisa e de extensão nas áreas de Figurino, Carnaval e afins.\n___Bibliografia Recomendada___\nA bibliografia será definida de acordo com o tema abordado no curso proposto.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAT022",
+      "Nome": "Tóp Especiais Figurino VIII",
+      "Créditos": "3.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Disciplina com conteúdo variável,voltada para projetos de pesquisa e de extensão nas áreas de Figurino, Carnaval e afins.\n___Bibliografia Recomendada___\nA bibliografia será definida de acordo com o tema abordado no curso proposto.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAT024",
+      "Nome": "Tóp Especiais Cenografia IV",
+      "Créditos": "3.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Disciplina com conteúdo variável,voltada para projetos de pesquisa e de extensão nas áreas de Cenografia, Iluminação e afins.\n___Bibliografia Recomendada___\nA bibliografia será definida de acordo com o tema abordado no curso proposto.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAT026",
+      "Nome": "Tóp Especiais Cenografia VI",
+      "Créditos": "3.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Disciplina com conteúdo variável,voltada para projetos de pesquisa e de extensão nas áreas de Cenografia, Iluminação e afins.\n___Bibliografia Recomendada___\nA bibliografia será definida de acordo com o tema abordado no curso proposto.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sab",
+        "hora": "08:00 - 12:00",
+        "professor": "CASSIA MARIA FERNANDES MONTEIRO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAT028",
+      "Nome": "Tóp Especiais Cenografia VIII",
+      "Créditos": "3.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Disciplina com conteúdo variável,voltada para projetos de pesquisa e de extensão nas áreas de Cenografia, Iluminação e afins.\n___Bibliografia Recomendada___\nA bibliografia será definida de acordo com o tema abordado no curso proposto.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAT030",
+      "Nome": "Tóp Especiais Performance IV",
+      "Créditos": "3.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Disciplina com conteúdo variável, voltada para projetos de pesquisa e de extensão nas áreas de Performance, Atuação, Direção, Dramaturgia e afins.\n___BIBLIOGRAFIA BÁSICA___\n1) A bibliografia será definida de acordo com o tema abordado no curso proposto.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAT032",
+      "Nome": "Tóp Especiais Performance VI",
+      "Créditos": "3.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Disciplina com conteúdo variável, voltada para projetos de pesquisa e de extensão nas áreas de Performance, Atuação, Direção, Dramaturgia e afins.\n___BIBLIOGRAFIA BÁSICA___\n1) A bibliografia será definida de acordo com o tema abordado no curso proposto.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAT034",
+      "Nome": "Tóp Especiais Performance VIII",
+      "Créditos": "3.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Disciplina com conteúdo variável, voltada para projetos de pesquisa e de extensão nas áreas de Performance, Atuação, Direção, Dramaturgia e afins.\n___BIBLIOGRAFIA BÁSICA___\n1) A bibliografia será definida de acordo com o tema abordado no curso proposto.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAT600",
+      "Nome": "Maquetes",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo dos processos de redução e ampliação em escala. Ferramentas manuais, máquinas operatrizes, materiais e acabamento. Desenvolvimento das práticas de confecção e montagem.\n___BIBLIOGRAFIA BÁSICA___\n1- CONSALEZ, Lorenzo. Maquetes: a representação do espaço no projeto arquitetônico. Barcelona: Editora Gustavo Gili, 2001.\n2- MILLS, Criss B. Projetando com maquetes: um guia para a construção e o uso de maquetes como ferramenta de projeto. Porto Alegre: Bookman, 2007.\n3- NACCA, Regina Mazzocato. Maquetes e miniaturas: técnicas de montagem passo-a-passo. São Paulo: Giz Editorial, 2006.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEB599",
+      "Nome": "Est da Líng Bras de Sinais I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Nomes próprios; pronomes pessoais; demonstrativos; possessivos; locativos em sentenças simples do tipo pergunta-resposta com \"o que\" e \"quem\" e outros vocábulos básicos; numerais; quantidade; topicalização; flexão verbal; flexão de negação; expressões faciais e corporais; percepção visual; conversação; diálogos; textos: LIBRAS, cultura e comunidade surda.\n",
+       "BibliografiaBasica": "1) BRITO, L. F. Por uma gramática de língua de sinais. Rio de Janeiro: Tempo Brasileiro, 1995.\n2) FELIPE, T.; MONTEIRO, M. S. LIBRAS em contexto. Curso Básico. Brasília: Ministério da Educação e do Desporto/Secretaria de Educação Especial, 2001.\n3) GESSER, A. Libras - Que língua é essa? Crença e preconceitos em torno da língua de sinais e da realidade surda. Florianópolis: Parábola, 2009.\n4) STROBEL, K. L. As imagens do outro sobre a cultura surda. Florianópolis: EdUFSC, 2008.\n",
+       "BibliografiaComplementar": "1) PIMENTA, Nelson e QUADROS, Ronice Muller. Curso de Libras I, LSB Vídeo, volume I, Iniciante, 2006 e 3a ed., 2008.\n2) Dicionário Enciclopédico Ilustrado Triíngue da Língua de Sinais Brasileira ? vol 1 e vol. 2 Site: www.acessobrasil.org.brasil\n3) Dicionário da Língua Brasileira de Sinais, INES, versão, 2.0, ano 2006.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     }
+    ]
+   },
+   "obrigatorias": 37,
+   "eletivas": 55,
+   "ano": "2014/1 a 9999/9"
+  }
+ ]
+}

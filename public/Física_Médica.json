@@ -1,0 +1,2651 @@
+{
+ "Física Médica": [
+  {
+   "materias": {
+    "1º Período": [
+     {
+      "Codigo": "FIT111",
+      "Nome": "Física I",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Noções de cálculo diferencial e integral e calculo vetorial. Força, cinemática e dinâmica do ponto material. Leis de Newton. Trabalho. Energia e sua conservação. Momento linear e sua conservação. Cinemática e dinâmica do movimento de rotação. Momento angular e sua conservação. Gravitação.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIS111",
+      "Nome": "Física Experimental I",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução à medida: como medir. Como expressar corretamente os valores medidos. Estimar a precisão de instrumentos. Dispersão de uma medida: controle de grandezas físicas numa experiência. Como caracterizar a dispersão de um conjunto de dados por um indicador apropriado. Cinemática unidimensional: desenvolvimento intuitivo e operacional dos conceitos de velocidade e aceleração. Representação e análise gráfica. Leis de Newton. Como definir operacionalmente a inércia e um corpo. Relação massa inercial-massa gravitacional. Colisões unidimensionais elásticas, semi-elásticas e inelásticas. Modelo teórico de uma colisão unidimensional.\n",
+       "BibliografiaBasica": "1) Apostila de Física Experimental I. Instituto de Física, UFRJ.\n2) Fundamentos da Teoria de Erros. J.H. Vuolo.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "15:00 - 17:00",
+        "professor": "MARCELO MARTINS SANT ANNA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAC118",
+      "Nome": "Cálculo Difer e Integral I",
+      "Créditos": "6.0",
+      "Teórica": "90",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Técnicas de Integração. Integral Imprópria.\n",
+       "BibliografiaBasica": "1) SANTOS, A. R.; BIANCHINI, Waldecir. Aprendendo Cálculo com Maple: Cálculo de Uma Variável. 1ª ed. Rio de Janeiro: LTC, 2002.\n2) LEITHOLD, Louis. O Cálculo com Geometria Analítica. 3.ed. São Paulo: Harbra, 2002. vol. 1.\n3) STEWART, James. Cálculo. 4.ed. São Paulo: Pioneira Thomson Learning, 2002. vol. 1.\n",
+       "BibliografiaComplementar": "1) ANTON, H.; BIVIS. I.; DAVIS, S. Cálculo, Vol. I. 8ª ed. Editora Harbra.\n2) APOSTOL, TOM M. Calculus, Vol. 1: One Variable Calculus With an Introduction to Linear Algebra. 2ª ed. - Ed. Wiley.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 10:00",
+        "professor": "AFTAB PANDE"
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 10:00",
+        "professor": ""
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 10:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "2º Período": [
+     {
+      "Codigo": "CFB113",
+      "Nome": "Fundamentos Biol Cel e Mol I",
+      "Créditos": "5.0",
+      "Teórica": "45",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Metodos de estudo da celula; celulas procariotas e eucariotas; a natureza do mat genetico; estr e topologia dos acidos nucleicos; a divisao celular; cromossomos e cromatina; organiz de genomas; mec de transmissao da inform genetica; replicacao, mec e enzimologia; transcricao em pro e eucariotos; tipos de rnas e suas caract; processam de rna; cod gen e traducao; envoltorio nuclear e control de transito nucleo-citoplasma; citoesqueleto e movimento celular; transporte intracelular; reticulo endoplasmatico, complexo de golgi; lissossomas; secrecao; membrana plasmatica: estrutura, fluidez e transporte.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIT121",
+      "Nome": "Física II",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Hidrostatica; pressao. Hidrodinamica; viscosidade. Movimento harmonico. Ondas mecanicas; interferencias. Ondas sonoras e acusticas. Termologia. Temperatura. Termometria; dilatacao termica. Calor. Primeiro principio de termodinamica. Teoria cinetica dos gases; gas perfeito de Van-der Waals. Reversibilidade. Segundo principio da termodinamica.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "FIT111",
+       "MAC114"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BMA231",
+      "Nome": "Anatomia Médico Aplicada",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Abordagem dos planos gerais de construção do corpo humano e análise dos aspectos morfológicos e funcionais dos sistemas: locomotor, digestivo, urinário, nervoso, respiratório, circulatório, endócrino e reprodutor.\n___ BIBLIOGRAFIA BÁSICA ___\n1) Anatomia (Hollinshead; Rosse).\n2) Anatomia (Snell).\n3) Anatomy (Gardner; Gray; O'rahily).\n4) Anatomy (Poritsky).\n5) Anatomia do Corpo Humano (Lockhart; Hamilton; Fyfe).\n6) Anatomia Humana Básica (Spence).\n7) Atlas of Medical Anatomy (Langman; Woerdman).\n8) Atlas de Anatomia Humana (Antunez; Amendolla).\n9) Atlas de Anatomia Humana (Netter).\n10) Anatomia orientada para a clínica (Moore).\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "FLAVIA CARVALHO ALCANTARA GOMES"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "LUCIANA FERREIRA ROMAO"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "FLAVIA REGINA SOUZA LIMA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIS121",
+      "Nome": "Física Experimental II",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Dinâmica das rotações: cinemática das rotações, determinação de momento de inércia, pêndulo composto. Movimento oscilatório: movimento harmônico simples, movimento harmônico amortecido, combinação de movimentos harmônicos. Hidrostática: determinação de viscosidade, determinação de densidade de líquidos e sólidos. Ondas mecânicas: velocidade do som (método de ressonância), cordas vibrantes. Calorimetria: capacidade calorífica, equivalente mecânico.\n",
+       "BibliografiaBasica": "1) Apostila de Física Experimental II, Instituto de Física, UFRJ.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 15:00",
+        "professor": "LUCAS OLIVEIRA LIMA"
+       }
+      ],
+      "Requisitos": [
+       "FIS111",
+       "FIT112"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAC128",
+      "Nome": "Cálculo Diferen e Integral II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Equações Diferenciais Ordinárias de Primeira  Ordem. Equações Diferenciais Ordinárias Lineares de Segunda Ordem com Coeficientes Constantes. Curvas e Vetores no Plano. Vetores no Espaço Tridimensional e Geometria Analítica Sólida. Funções de R2 em R. Funções de R3 em R. Máximos e Mínimos de Funções de R2 em R. Máximos e Mínimos de Funções de R3 em R.\n",
+       "BibliografiaBasica": "1) BOYCE, W. E.; DIPRIMA, R. C. Equações Diferenciais Elementares e Problemas de Valores de Contorno. 7. ed. Rio de Janeiro: UFRJ, 2004.\n2) PINTO, D.; MORGADO, M.C.F. Cálculo Diferencial e Integral de Funções de Várias Variáveis. 3.ed. Rio de Janeiro: UFRJ, 2004.\n3) STEWART, J. Cálculo. 4. ed. São Paulo: Pioneira Thomson Learning, 2002. vol. 2.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 10:00",
+        "professor": "AFTAB PANDE"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 10:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MAC118"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "3º Período": [
+     {
+      "Codigo": "FIM231",
+      "Nome": "Física III",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Fenomenos eletricos e magneticos. Conceitos de campos eletrico e magnetico. Situacoes estacionarias e quase-estacionarias.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "FIT111",
+       "MAC128"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIW234",
+      "Nome": "Métodos Comp em Física I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Programação básica em linguagem C, com aplicações numéricas a problemas de física envolvendo determinação de raízes de polinômios, integração e solução de equações diferenciais.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 17:00",
+        "professor": "SANDRA FILIPPA AMATO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "CFB123",
+      "Nome": "Fundamentos Biol Cel e Mol II",
+      "Créditos": "5.0",
+      "Teórica": "45",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Juncoes celulares; sinalizacao celular; receptores de sinalizacao; proliferacao e diferenciacao celular; conceito de celula tronco; linhagens celulares e controle genico da determinacao e diferenciacao; fatores de transcricao e nocao basica de promotores eucariotos, niveis de regulacao genica. Mitocondrias e a respiracao celular; senescencia celular; apoptose.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "12:00 - 15:00",
+        "professor": "KILDARE ROCHA DE MIRANDA"
+       },
+       {
+        "dia": "Ter",
+        "hora": "10:00 - 12:00",
+        "professor": "MARCIA ATTIAS"
+       },
+       {
+        "dia": "Ter",
+        "hora": "10:00 - 12:00",
+        "professor": "KILDARE ROCHA DE MIRANDA"
+       },
+       {
+        "dia": "Ter",
+        "hora": "10:00 - 12:00",
+        "professor": "MARIA CRISTINA MACHADO MOTTA"
+       },
+       {
+        "dia": "Ter",
+        "hora": "12:00 - 15:00",
+        "professor": "MARCIA ATTIAS"
+       },
+       {
+        "dia": "Ter",
+        "hora": "12:00 - 15:00",
+        "professor": "MARIA CRISTINA MACHADO MOTTA"
+       },
+       {
+        "dia": "Ter",
+        "hora": "12:00 - 15:00",
+        "professor": "NARCISA LEAL DA CUNHA E SILVA"
+       },
+       {
+        "dia": "Ter",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "CFB113"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIN231",
+      "Nome": "Física Experimental III",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Instrumentos de Medidas Elétricas. Resistores. Capacitores. Tensões e Correntes Alternadas. Campos Magnéticos Estáticos.\n",
+       "BibliografiaBasica": "1)  Apostila de Física Experimental III, Instituto de Física, UFRJ.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 15:00",
+        "professor": "BENJAMIN RACHE SALLES"
+       }
+      ],
+      "Requisitos": [
+       "FIS121"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAC238",
+      "Nome": "Cálculo Diferen e Integral III",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Integrais Múltiplas. Integrais de Linha. Integrais de Superfície. Teorema de Gauss. Teorema de Stokes.\n",
+       "BibliografiaBasica": "1) PINTO, D.; MORGADO, M. C. F. Cálculo Diferencial e Integral de Funções de Várias Variáveis. 3ª ed. Rio de Janeiro: UFRJ, 2004.\n2) TROMBA, A. J.; MARSDEN, J. E. Vector Calculus. 5ª ed. New York: W. H. Freeman & Company, 2003.\n3) ANTON, H. Cálculo: Um Novo Horizonte. 6ª ed. Porto Alegre: Bookman, 2000. vol.2.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 10:00",
+        "professor": "ERIC ALBERTO CABEZAS BONILLA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 10:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MAC128"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "4º Período": [
+     {
+      "Codigo": "FIM241",
+      "Nome": "Física IV",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Oscilacoes eletromagneticas. Otica. Introducao a fisica moderna.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "FIM231"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIN242",
+      "Nome": "Física Moderna I",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução à teoria especial da relatividade. A radiação de uma carga elétrica acelerada. A distribuição de Boltzmann. Teoria clássica e quântica da radiação em uma cavidade. A lei de Planck e suas aplicações. O efeito fotoelétrico. O efeito Compton. A natureza dualística da radiação eletromagnética. Ondas materiais. A dualidade onda particula. O principio da incerteza. Os modelos iniciais do núcleo atômico. O espalhamento de partículas alfa e o modelo de Rutherford do núcleo atômico. Níveis atômicos. Modelos de Bohr e Sommerfeld. O principio da correspondência.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "10:00 - 12:00",
+        "professor": "ALESSANDRA MAIA MARQUES MARTINEZ PEREZ"
+       },
+       {
+        "dia": "Qui",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "FIM231"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "CFB231",
+      "Nome": "Biofisica",
+      "Créditos": "5.0",
+      "Teórica": "75",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O papel da agua nos sistemas biologicos; solucoes; pH e tampoes; a estrutura das membranas biologicas; transportes atraves das membranas celulares; potencial transmembrana; canais ionicos; metodos de estudo eletrofisiologico das celulas; caracteristicas eletrofisiologicas e farmacologicas dos canais ionicos; forma de ativacao dos canais ionicos; potencial de acao; medidas eletrofisiologicas in vitro; doencas provocadas por efeitos estruturais nos canais ionicos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 17:00",
+        "professor": "ERIKA MICHELE AVELINO NEGREIROS GONCALVES"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 17:00",
+        "professor": "SILVANA ALLODI"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIN241",
+      "Nome": "Física Experimental IV",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Principio do magnetismo, leis de Ampere, Faraday e Lentz. Medidor de campo magnetico. Propriedades magneticas da materia, histerese, corrente alternada: circuitos de corrente alternada RLC, oscilacoes eletromagneticas. Conservacao de energia. Otica geometrica: reflexao, refracao, lentes e prismas. Otica fisica: interferencia, difracao e polarizacao.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 15:00",
+        "professor": "FABRICIO TOSCANO"
+       }
+      ],
+      "Requisitos": [
+       "FIM230",
+       "FIN231"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIW245",
+      "Nome": "Métodos da Física Teórica I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Números complexos. Funções de variáveis complexas: Teorema de Cauchy, Séries de Taylor e de Laurent, Teorema do Resíduo e aplicações ao cálculo de integrais. Séries de Fourier. Noções de Teoria das Distribuições: a Função Delta. Transformada de Fourier e aplicações. Transformada de Laplace e aplicações.\n",
+       "BibliografiaBasica": "1- ?Elementary Linear Algebra Applications? de Howard Anton, Chris Rorres, Anton Kaul - Version-Wiley (2019);\n2- \"Variáveis Complexas e aplicações\" de James Ward Brown e Ruel V. Churchill (tradução Claus Ivo Doering) 9 Ed.; AMGH (2016);\n2- ?Cálculo Avançado?, Volume II, 7a Reimpressão, de Wilfred Kaplan; Editora Edgard Blucher ltda (1996);\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 10:00",
+        "professor": "THALES AGRICOLA CALIXTO DE AZEVEDO"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 10:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MAC238"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "5º Período": [
+     {
+      "Codigo": "CFF241",
+      "Nome": "Fisiologia Humana",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Neurofisiol. Neurônios Sinapse Sist. Sensor. Neuroloc. SNA; Fisiol.Cardiovasc. Miocárdio Bomba card. Hemodin. card. Hemodin.; Sist. Respiratório Ap. Respir. Mec. Ventil. Ciclo respir.Espirogr. Ventil.-Perf. Transp.Gases Regul. Resp.;Sist.Urin.F. renal Filtr. secr. reabs. glomer.; Sist.Endóc. Mec.ação horm.Mec.regul.Endóc. Metabol. Hidrossal Metabol.Energ. F.sexual; Nutr. e Metabol. Digest. Abs.Intest. Regul. digest.; Integr.Sist. Termorregul. Reg. p.a. e déb.Card. Adap.esforço Reg. Vol.Extracel e Tônus Equil. Ác-base Adap.estresse Eixo Neuro-imuno-endóc. Homeostasia\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIW363",
+      "Nome": "Termodinâmica Fís Estatística",
+      "Créditos": "6.0",
+      "Teórica": "90",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estados de um sistema. Entropia e temperatura. Distribuição de Bostzmann. Radiação térmica. Potencial químico. Gás ideal. Gases de Fermi e Bose. Calor e trabalho. Energia livre de Gibbs. Reações químicas. Transformações de fase. Teoria cinética. Propagação do som em gases. Condução de calor.\n___ BIBLIOGRAFIA BÁSICA ___\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "12:00 - 15:00",
+        "professor": "FERNANDO ANTONIO NAZARETH NICACIO"
+       },
+       {
+        "dia": "Qua",
+        "hora": "12:00 - 15:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "FIM240",
+       "MAC238"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "CFB352",
+      "Nome": "Radiobiologia e Fotobiologia",
+      "Créditos": "5.0",
+      "Teórica": "75",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A interacao das radiacoes com a materia; origem das lesoes induzidas pelas radiacoes; radioquimica de acidos nucleicos; fotoquimica de acidos nucleicos; inativacao nos diferentes niveis de organizacao biologica; fatores que modificam a sensibilidade as radiacoes ionizantes; mecanismos celulares de reparacao; efeitos somaticos das radiacoes nao ionizantes; efeitos somaticos das radiacoes ionizantes.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 10:00",
+        "professor": "FRANCISCO MEIRELLES BASTOS DE OLIVEIRA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 09:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "CFB113",
+       "CFB123"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIN482",
+      "Nome": "Física das Radiações",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Principios: modelos atomicos e nucleares, formas de interacao. Detetores: principais tipos, funcionamento e eletronica associada. Conceitos de radioprotecao e dosimetria. Usos medicos (diagnostico e terapeutico) e industriais.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 15:00",
+        "professor": "MURILO SANTANA RANGEL"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 15:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIWU01",
+      "Nome": "Estagio Ien",
+      "Créditos": "6.0",
+      "Teórica": "180",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Produção de radioisótopos; controle estatístico de processo; utilização de monitores de área; monitoração de superfície e descontaminação; monitoração de ar; radioproteção ocupacional no Ciclotron e no reator Argonauta.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "FIM241"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "6º Período": [
+     {
+      "Codigo": "FIW368",
+      "Nome": "Física das Radiações II",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Fontes de Radiação Ionizante. Interação da radiação ionizante com a matéria: fótons e partículas. Quantidades usadas para descrever a interação da radiação com a matéria; Kerma e Dose. Fundamentos de Dosimetria: dosimetria integrada; dosimetria com detetores em modo pulso; dosimetria de neutrons. Imageologia em Física  Médica: a matemática da formação de imagens; Raios X diagnóstico; qualidade em radiologia diagnóstica; Tomografia computadorizada; imagens obtidas com radioisótopos; ultra-som; NMR de Fourier. Formação e reconstrução de imagens em Tomografia, Ultra-som, Ressonância Nuclear Magnética, ect.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "15:00 - 17:00",
+        "professor": "JOSILENE CERQUEIRA SANTOS"
+       },
+       {
+        "dia": "Qui",
+        "hora": "15:00 - 17:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "FIN482"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIWU03",
+      "Nome": "Estagio Ird II",
+      "Créditos": "4.0",
+      "Teórica": "120",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Radioterapia - Fundamentos de dosimetria; dose absorvida em feixes de fótons e elétrons; dosimetria absoluta, dosimetria química, câmaras de ionização; propriedades e técnicas de calibração desímetros clínicos; câmaras de ionização utilizadas em dosimetria de braquiterapia; determinação da taxa de kerma no ar em braquiterapia. Radiologia - equipamentos e acessórios; formação e registro de imagem; qualidade de imagem; métodos radiográficos especiais; controle de qualidade de serviços de radiologia; dosimetria clínica e níveis de referência de radiodiagnóstico; cálculo de blindagem; radiodiagnóstico odontológico; radioproteção em instalações de radiodiagnóstico; regulamentos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "FIN242",
+       "FIN482"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIW367",
+      "Nome": "Conceito de Mecânica Quântica",
+      "Créditos": "5.0",
+      "Teórica": "75",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução aos conceitos quânticos; Observáveis e equações de evolução; Partículas quânticas em uma e três dimensões; O oscilador harmônico em uma dimensão; Momento angular; Potenciais centrais; Átomo de hidrogênio; Spin do elétron; Perturbações estacionárias; Perturbações dependentes do tempo; Teoria semi-clássica da radiação; Teoria quântica do espalhamento; Partículas idênticas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "10:00 - 12:00",
+        "professor": "ARMANDO NAZARENO FARIA ALEIXO"
+       },
+       {
+        "dia": "Qui",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "FIN242",
+       "FIW245"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIWU02",
+      "Nome": "Estagio IRD I",
+      "Créditos": "2.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Organização da metrologia mundial e nacional. Conceitos básicos da metrologia geral e metrologia das radiações ionizantes. Grandezas e unidades. Padronização Primária e Secundária. Métodos de estimativa de incertezas. Instrumentação para medição da radiação, aplicados às áreas de radioproteção e dosimetria na área médica. Controle e garantia de qualidade em metrologia. Processos de padronização e calibração. Práticas de medição e intercomparação. Metrologia em Radiodiagnóstico, Medicina Nuclear e Radioterapia.\n___ BIBLIOGRAFIA BÁSICA ___\n1) Attix, F.H. ?Introduction to Radiological Physics and Radiation Dosimetry? - John Wiley & Sons, N.Y., 1986.\n2) Beckurts, K.H. e Wirtz, K. ?Neutron Physics? ? Springer-Verlag, N.Y., 1964.\n3) Bell, S ?Guia do Iniciante à Incerteza da Medição?  edição brasileira ? apostila IRD/CNEN-MCT, BIPM, IEC, IFCC, ISO, IUPAC, IUPAP, OIML ?Guia para a\n4) Expressão da Incerteza de Medição? 3a. edição brasileira ? ABNT e INMETRO, 2003\n5) BIPM, IEC, IFCC, ISO, IUPAC, IUPAP, OIML ?Vocabulário Internacional de Termos Fundamentais e Gerais de Metrologia ? VIM?  ? 3a. edição brasileira -  INMETRO, 2003.\n6) Cavallo, L.M.; Cousey, B.M; Garfinkel, S.B.; Hutchinson, J.M.P. e Mann, W.B. ?Needs for Radioactivity Standards and Measurements in Differents Fields? ? Nucl. Instr.Meth, 112, 5-18, 1973.\n7) Johns, H.E., Cunningham, J.R. ?The Physics of Radiology? - Thomas, Springfield, IL. 1985.\n8) Knoll, G.F. ?Radiation Detection and Measurement? ? John Wiley & Sons, N.Y., 1989.\n9) Mann, W.B.; Rytz, A; Spernol, ?A  Radioativity Measurements - Principles and Practice? ? Pergamon Press, 1998.\n10) NPL National Physics Laboratory. Practical Course in Reference Dosimetry : Lectures Notes e Session Notes; Tauhata, L.; Matos, M.R.O. (prg.) ?Grandezas e Unidades para Radiação Ionizante -  Recomendações e definições?  publicação do LNMRI-IRD/CNEN-MCT 2002\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "FIN242",
+       "FIN482"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIWU04",
+      "Nome": "Estagio Ird III",
+      "Créditos": "2.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Materiais, técnicas e procedimentos para monitoração individual externa e/ou interna de trabalhadores e indivíduos do público. Métodos de dosimetria interna de pacientes submetidos a protocolos diagnósticos e/ou terapêuticos com o uso de radiofármacos. Métodos de otimização de doses de pacientes. Interpretação de resultados de monitorações individuais. Estado da arte da monitoração individual e da dosimetria interna e externa, identificando perspectivas de pesquisa nestas áreas.\n___ BIBLIOGRAFIA BÁSICA ___\n1) Attix F.H.; WILEY J. Introduction to radiological physics and radiation dosimetry. New York, 1986.\n2) Busheberg T.J (ed). The Essential Physics of Medical Imaging. 2a ed, Lip.W & Willians, 2002.\n3) Manuais, Normas e Artigos especializados.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "FIN242",
+       "FIN482"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "7º Período": [
+     {
+      "Codigo": "FIWU05",
+      "Nome": "Estagio HU I",
+      "Créditos": "6.0",
+      "Teórica": "180",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Equipamentos radiológicos (Raios-X, Mamógrafos, Tomógrafos, etc). Instrumentação para aferição das condições dos equipamentos. Métodos de medidas. Normas e portarias sobre funcionamento do serviço. Processamento radiográfico. Câmaras clara e escura. Equipamentos de visualização. Índice de rejeição. Dosimetria (ambiental, do staff dos pacientes). Exames especiais contrastados. Hemodinâmica / CPER /  Videofluroscopia. CT e Centro cirúrgico. Qualidade(padrões e medidas). Rotina administrativa do serviço.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "FIN482"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIW124",
+      "Nome": "Estatística Aplicada",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceito de Probabilidade. Estatística descritiva (média, variança, histogramas, correlação). Distribuições mais comuns: Gaussiana, Poisson, Binomial, Lorentziana. Métodos de ajuste de curvas: mínimos quadrados, testes de significância estatística, máxima verossimilhança. Teoria de erros em medidas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "10:00 - 12:00",
+        "professor": "ROSIMARY TEREZINHA DE ALMEIDA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MAC238"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIWU06",
+      "Nome": "Estagio HU II",
+      "Créditos": "6.0",
+      "Teórica": "180",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Instrumentação em Medicina Nuclear. Princípio de formação de Imagem e controle de qualidade em Med. Nuclear. Fatores que podem alterar a qualidade da Imagem. Calibração de equipamentos. Radioproteção e Dosimetria em Medicina Nuclear. Princípio de diagnóstico em Medicina Nuclear. Produção de Radionuclídeos em Medina Nuclear. Radiofarmácia. Terapia Actínica.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "FIN482"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "8º Período": [
+     {
+      "Codigo": "FIW479",
+      "Nome": "Computação Aplicada à Medicina",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Noções sobre a linguagem FORTRAN. Métodos numéricos.  Simulação em Física; o método de Monte Carlo. Análise de Fourier. 5- Formação e reconstrução de imagens de imagens em  Tomografia,  Ultra-som, Ressonância Nuclear Magnética.\n___ BIBLIOGRAFIA BÁSICA ___\n1) The Physics of Medical Imaging, S.Webb, Inst.of Physics Publishing, Bristol and Philadelphia.\n2) Monte Carlo Methods,  Vol.I Basics, M.H. Kalos e P.A. Whitlock; Wiley- Interscience Pub.\n3) An Introduction to Computer Simulation Methods; H.Gould, J.Tobochnik, Addison Wesley 1996.\n4) Manual de Fortran.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "FIW234",
+       "FIW245"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIWU07",
+      "Nome": "Estagio Inca-Radioterapia",
+      "Créditos": "6.0",
+      "Teórica": "180",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Planejamento: Distribuição de dose, terapia de campos estacionários e móveis, correção de heterogeneidade e falta de tecido, campos especiais. Dosimetria: Especificação dos equipamentos, determinação da qualidade do feixe, dos fatores de correção, dos parâmetros físicos e da dose absorvida e elaboração de um Programa de Controle da Qualidade. Braquiterapia: Identificação dos aplicadores, cálculo de implante, inserção ginecológica e intralumial, dosimetria usando dois sistemas de medidas e Controle da Qualidade.\n___ BIBLIOGRAFIA BÁSICA ___\n1) Artigos e edições especializadas em geral, inclusive normas e regulamentos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "FIW368"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIW478",
+      "Nome": "Tópicos de Física Médica",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Não cadastrada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "FIW367"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIWK02",
+      "Nome": "Trabalho de Fim de Curso",
+      "Créditos": "6.0",
+      "Teórica": "180",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A ser decidida conjuntamente entre professor e aluno.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "Disciplinas Optativas (Escolha Condicionada)": [
+     {
+      "Codigo": "BMA022",
+      "Nome": "Bases Morfol da Fis do ouvido",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Não cadastrada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FIW002",
+      "Nome": "Introdução à Pesquisa II",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução aos métodos e procedimentos da pesquisa experimental e/ou teórica em Física ao nível de graduação.  Os assuntos podem variar a cada período letivo, sujeitos à aprovação prévia pela Comissão de Coordenação do Curso.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "FIW001"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FIW004",
+      "Nome": "Introdução à Pesquisa IV",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução aos métodos e procedimentos da pesquisa experimental e/ou teórica em Física ao nível de graduação.  Os assuntos podem variar a cada período letivo, sujeitos à aprovação prévia pela Comissão de Coordenação do Curso.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "FIW003"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FIW006",
+      "Nome": "Introdução à Pesquisa VI",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução aos métodos e procedimentos da pesquisa experimental e/ou teórica em Física ao nível de graduação.  Os assuntos podem variar a cada período letivo, sujeitos à aprovação prévia pela Comissão de Coordenação do Curso.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "FIW005"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FIW490",
+      "Nome": "Ultra - Som",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução ao conceito de onda acústica, reflexão, transmissão, velocidade de propagação, atenuação e intensidade. Piezoeletricidade e geração de ultra-som.  Métodos de diagnóstico: imagem (pulso-eco) e fluxo sanguíneo (efeito Doppler).  Métodos de caracterização de tecidos.  Aplicações terapêuticas.  Efeitos colaterais, dosimetria e segurança.  Protocolos para testar a qualidade de equipamentos de diagnóstico.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 10:00",
+        "professor": "WAGNER COELHO DE ALBUQUERQUE PEREIRA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 10:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "FIN482"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BMA021",
+      "Nome": "Rad Dinamica-Videofluorescenc.",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Não cadastrada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FIW001",
+      "Nome": "Introdução à Pesquisa I",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução aos métodos e procedimentos da pesquisa experimental e/ou teórica em Física ao nível de graduação.  Os assuntos podem variar a cada período letivo, sujeitos à aprovação prévia pela Comissão de Coordenação do Curso.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "FIS121",
+       "FIT121",
+       "MAC128"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FIW003",
+      "Nome": "Introdução à Pesquisa III",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução aos métodos e procedimentos da pesquisa experimental e/ou teórica em Física ao nível de graduação.  Os assuntos podem variar a cada período letivo, sujeitos à aprovação prévia pela Comissão de Coordenação do Curso.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "FIW002"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FIW005",
+      "Nome": "Introdução à Pesquisa V",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução aos métodos e procedimentos da pesquisa experimental e/ou teórica em Física ao nível de graduação.  Os assuntos podem variar a cada período letivo, sujeitos à aprovação prévia pela Comissão de Coordenação do Curso.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "FIW004"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FIW371",
+      "Nome": "Astrofísica Geral",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceitos básicos de astronomia e astrofísica. A natureza, classificação e estrutura das estrelas. Diagrama HR, noções de evolução estelar e transporte radiativo em astrofísica. A Via Láctea: composição estelar, morfologia e dinâmica. Estrutura e dinâmica das galáxias. Distribuição em grande escala das galáxias: aglomerados galácticos e vazios cósmicos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "FIM241",
+       "MAC238"
+      ],
+      "Tipo": "eletiva"
+     }
+    ]
+   },
+   "obrigatorias": 35,
+   "eletivas": 10,
+   "ano": "2010/2 a 2019/1"
+  },
+  {
+   "materias": {
+    "1º Período": [
+     {
+      "Codigo": "BQM113",
+      "Nome": "Bioquímica",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Água, pH e sistema tampão; Estrutura e função de biomoléculas; carboidratos; lipídios; ácidos nucléicos. Proteínas (aminoácidos; estrutura primária, secundária, terciária e quaternária; Enzimas: propriedades; cinética enzimática; princípios de termodinâmica; Introdução ao metabolismo: anabolismo, catabolismo e integração metabólica; visão geral a partir do ciclo de Krebs; Glicose e Glicogênese; Síntese e degradação de proteínas e ácidos graxos; Integração metabólica.\n___Bibliografia Recomendada___\n1) Princípios de Bioquímica de Lehninger ? 6. edição- David L. Nelson, Michael M. Cox- Artmed\n2) Bioquímica ? 7. edição ? Berg, Stryer e Tymoczko ? Guanabara Koogan\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIT112",
+      "Nome": "Física I - a",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução. Vetores. Velocidade e aceleração vetoriais. Os princípios da dinâmica. Aplicações das leis de Newton. Trabalho e energia mecânica. Conservação da energia. Momento linear e conservação do momento linear. Colisões. Rotação e momento angular. Dinâmica de corpos rígidos. Força que varia inversamente ao quadrado da distancia (gravitação).\n___ BIBLIOGRAFIA BÁSICA ___\n1) Física para Cientistas e Engenheiros, v.1. Mecânica, Oscilações e Ondas, Termodinâmica (6ª edição).\n2) Fundamentos de Física (4ª edição) D. Halliday. R. Resnick and J. Walker - John Wiley & Sons, Inc.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "10:00 - 12:00",
+        "professor": "BRUNO DE MOURA ESCHER"
+       },
+       {
+        "dia": "Sex",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIWX02",
+      "Nome": "Ativ Científica Cultural - Acc",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "As atividades acadêmico - científico - culturais deverão ser incrementadas a partir do segundo período do curso: participação dos alunos em programas institucionais de iniciação científica, de extensão universitária, de iniciação à docência e em atividades extra - acadêmicas, totalizando 200 horas\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAC118",
+      "Nome": "Cálculo Difer e Integral I",
+      "Créditos": "6.0",
+      "Teórica": "90",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Técnicas de Integração. Integral Imprópria.\n",
+       "BibliografiaBasica": "1) SANTOS, A. R.; BIANCHINI, Waldecir. Aprendendo Cálculo com Maple: Cálculo de Uma Variável. 1ª ed. Rio de Janeiro: LTC, 2002.\n2) LEITHOLD, Louis. O Cálculo com Geometria Analítica. 3.ed. São Paulo: Harbra, 2002. vol. 1.\n3) STEWART, James. Cálculo. 4.ed. São Paulo: Pioneira Thomson Learning, 2002. vol. 1.\n",
+       "BibliografiaComplementar": "1) ANTON, H.; BIVIS. I.; DAVIS, S. Cálculo, Vol. I. 8ª ed. Editora Harbra.\n2) APOSTOL, TOM M. Calculus, Vol. 1: One Variable Calculus With an Introduction to Linear Algebra. 2ª ed. - Ed. Wiley.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 10:00",
+        "professor": "AFTAB PANDE"
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 10:00",
+        "professor": ""
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 10:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BMA231",
+      "Nome": "Anatomia Médico Aplicada",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Abordagem dos planos gerais de construção do corpo humano e análise dos aspectos morfológicos e funcionais dos sistemas: locomotor, digestivo, urinário, nervoso, respiratório, circulatório, endócrino e reprodutor.\n___ BIBLIOGRAFIA BÁSICA ___\n1) Anatomia (Hollinshead; Rosse).\n2) Anatomia (Snell).\n3) Anatomy (Gardner; Gray; O'rahily).\n4) Anatomy (Poritsky).\n5) Anatomia do Corpo Humano (Lockhart; Hamilton; Fyfe).\n6) Anatomia Humana Básica (Spence).\n7) Atlas of Medical Anatomy (Langman; Woerdman).\n8) Atlas de Anatomia Humana (Antunez; Amendolla).\n9) Atlas de Anatomia Humana (Netter).\n10) Anatomia orientada para a clínica (Moore).\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "LUCIANA FERREIRA ROMAO"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "FLAVIA REGINA SOUZA LIMA"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "FLAVIA CARVALHO ALCANTARA GOMES"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIS111",
+      "Nome": "Física Experimental I",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução à medida: como medir. Como expressar corretamente os valores medidos. Estimar a precisão de instrumentos. Dispersão de uma medida: controle de grandezas físicas numa experiência. Como caracterizar a dispersão de um conjunto de dados por um indicador apropriado. Cinemática unidimensional: desenvolvimento intuitivo e operacional dos conceitos de velocidade e aceleração. Representação e análise gráfica. Leis de Newton. Como definir operacionalmente a inércia e um corpo. Relação massa inercial-massa gravitacional. Colisões unidimensionais elásticas, semi-elásticas e inelásticas. Modelo teórico de uma colisão unidimensional.\n",
+       "BibliografiaBasica": "1) Apostila de Física Experimental I. Instituto de Física, UFRJ.\n2) Fundamentos da Teoria de Erros. J.H. Vuolo.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "15:00 - 17:00",
+        "professor": "MARCELO MARTINS SANT ANNA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIW491",
+      "Nome": "Tópicos de Física Geral I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Tópicos de Física geral lecionados no nível dos dois primeiros anos de graduação, visando complementar a formação básica dos alunos. Os assuntos podem variar a cada período letivo, sujeitos a aprovação prévia pela Comissão de Coordenação do Curso.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 15:00",
+        "professor": "ERICA RIBEIRO POLYCARPO MACEDO"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 15:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIWZ50",
+      "Nome": "Ativ Curricular Extensão - Fme",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "0",
+      "Extensão": "300",
+      "Informação": {
+       "Info": "Atuação em programas/ projetos de extensão registrados na Pró- Reitoria de Extensão da UFRJ, coordenados por docentes do quadro permanente ou técnicos da carreira de nível superior na UFRJ e com trabalho apresentado em evento com essa finalidade.\n___Bibliografia Recomendada___\nBibliografia recomendada pelo coordenador da atividade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "2º Período": [
+     {
+      "Codigo": "FIS121",
+      "Nome": "Física Experimental II",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Dinâmica das rotações: cinemática das rotações, determinação de momento de inércia, pêndulo composto. Movimento oscilatório: movimento harmônico simples, movimento harmônico amortecido, combinação de movimentos harmônicos. Hidrostática: determinação de viscosidade, determinação de densidade de líquidos e sólidos. Ondas mecânicas: velocidade do som (método de ressonância), cordas vibrantes. Calorimetria: capacidade calorífica, equivalente mecânico.\n",
+       "BibliografiaBasica": "1) Apostila de Física Experimental II, Instituto de Física, UFRJ.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 15:00",
+        "professor": "LUCAS OLIVEIRA LIMA"
+       }
+      ],
+      "Requisitos": [
+       "FIS111",
+       "FIT112"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAC128",
+      "Nome": "Cálculo Diferen e Integral II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Equações Diferenciais Ordinárias de Primeira  Ordem. Equações Diferenciais Ordinárias Lineares de Segunda Ordem com Coeficientes Constantes. Curvas e Vetores no Plano. Vetores no Espaço Tridimensional e Geometria Analítica Sólida. Funções de R2 em R. Funções de R3 em R. Máximos e Mínimos de Funções de R2 em R. Máximos e Mínimos de Funções de R3 em R.\n",
+       "BibliografiaBasica": "1) BOYCE, W. E.; DIPRIMA, R. C. Equações Diferenciais Elementares e Problemas de Valores de Contorno. 7. ed. Rio de Janeiro: UFRJ, 2004.\n2) PINTO, D.; MORGADO, M.C.F. Cálculo Diferencial e Integral de Funções de Várias Variáveis. 3.ed. Rio de Janeiro: UFRJ, 2004.\n3) STEWART, J. Cálculo. 4. ed. São Paulo: Pioneira Thomson Learning, 2002. vol. 2.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 10:00",
+        "professor": "AFTAB PANDE"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 10:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MAC118"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "CFB113",
+      "Nome": "Fundamentos Biol Cel e Mol I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Métodos de estudo da célula. Células procariotas e eucariotas. A natureza do mat. genético. Estr. e topologia dos ácidos nucleicos. A divisão celular. Cromossomos e cromatina. Organiz. de genomas. Mec. de transmissão da inform. genética. Replicação, mec. e enzimologia. Transcrição em pro e eucariotos. Tipos de rnas e suas caract. Processam de rna. Cód. gen. e tradução. Estrutura nuclear e controle de  tráfego núcleo-citoplasma. Membrana plasmática: estrutura, fluidez, transporte e sinalização celular. Retículo endoplasmático, Complexo de Golgi. Transporte intracelular.\n___ BIBLIOGRAFIA BÁSICA ___\n1) Molecular Biology of the Cell,  Alberts et all. 3 edicao. Editora Garland.\n2) The Cell, Bruce Alberts et al.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BQM113"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIT122",
+      "Nome": "Física II - a",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Oscilações: oscilações amortecidas e forçadas. Ondas. Som. Fluidos. Temperatura. Calor - primeira Lei da Termodinâmica. Propriedades dos gases. Segunda Lei da Termodinâmica. Teoria cinética dos gases. Transferência de calor e de massa.\n",
+       "BibliografiaBasica": "1) Física, volume 1. Mecânica, Oscilações e Ondas (5ª edição). Paul A. Tipler e Gene Mosca. LTC Editora S.A.\n2) Curso de Física Básica , volume 1. Mecânica, Oscilações e Ondas. H. Moysés Nussenzveig - Editora Edgard Blücher Ltda.\n3) Fundamentos de Física (4ª edição). D. Halliday. R. Resnick e J. Walker - John Wiley & Sons, Inc.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "10:00 - 12:00",
+        "professor": "ARTHUR FERREIRA VIEIRA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "FIT112",
+       "MAC118"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "3º Período": [
+     {
+      "Codigo": "FIM230",
+      "Nome": "Física III - a",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Lei de Coulomb. Campos elétricos. Lei de Gauss. Potencial Elétrico, capacitores, correntes e circuitos. Campos magnéticos, leis de Ampere e Biot - Savart, Lei de Faraday, indutância, corrente de deslocamento. Circuitos de corrente alternada, equações de Maxwell.\n",
+       "BibliografiaBasica": "1) Física, volume 2. Eletricidade e Magnetismo, Ótica (5ª edição). Paul A. Tipler e Gene Mosca. LTC Editora S.A.\n2) Curso de Física Básica, volume 1. Mecânica, Oscilações e Ondas. H. Moysés Nussenzveig - Editora Edgard Blücher Ltda.\n3) Fundamentos de Física (4ª edição). D. Halliday. R. Resnick e J. Walker - John Wiley & Sons, Inc.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "10:00 - 12:00",
+        "professor": "MAURICIO ORTIZ CALVAO"
+       },
+       {
+        "dia": "Sex",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "FIT112",
+       "MAC128"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIW234",
+      "Nome": "Métodos Comp em Física I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Programação básica em linguagem C, com aplicações numéricas a problemas de física envolvendo determinação de raízes de polinômios, integração e solução de equações diferenciais.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 17:00",
+        "professor": "SANDRA FILIPPA AMATO"
+       }
+      ],
+      "Requisitos": [
+       "FIT112",
+       "MAC118"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "CFB123",
+      "Nome": "Fundamentos Biol Cel e Mol II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Citoesqueleto e movimento celular. Mitocôndrias: estrutura e respiração celular, peroxissomos, origem simbiótica de organelas. Endocitose. Lisossomas. Junções celulares. Matriz extracelular. Conceito de célula tronco. Linhagens celulares e controle gênico da determinação e diferenciação. Apoptose Célula tumoral e terapias anti-cancer. A célula cancerosa e metastização. Aplicações de Bioengenharia.\n___ BIBLIOGRAFIA BÁSICA ___\n1) Molecular Biology of the Cell. Alberts et al. 3 edicao. Editora Garland.\n2) The Cell, Bruce Alberts et al.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "12:00 - 15:00",
+        "professor": "KILDARE ROCHA DE MIRANDA"
+       },
+       {
+        "dia": "Ter",
+        "hora": "10:00 - 12:00",
+        "professor": "MARCIA ATTIAS"
+       },
+       {
+        "dia": "Ter",
+        "hora": "10:00 - 12:00",
+        "professor": "KILDARE ROCHA DE MIRANDA"
+       },
+       {
+        "dia": "Ter",
+        "hora": "10:00 - 12:00",
+        "professor": "MARIA CRISTINA MACHADO MOTTA"
+       },
+       {
+        "dia": "Ter",
+        "hora": "12:00 - 15:00",
+        "professor": "NARCISA LEAL DA CUNHA E SILVA"
+       },
+       {
+        "dia": "Ter",
+        "hora": "12:00 - 15:00",
+        "professor": "MARCIA ATTIAS"
+       },
+       {
+        "dia": "Ter",
+        "hora": "12:00 - 15:00",
+        "professor": "MARIA CRISTINA MACHADO MOTTA"
+       },
+       {
+        "dia": "Ter",
+        "hora": "10:00 - 12:00",
+        "professor": "NARCISA LEAL DA CUNHA E SILVA"
+       }
+      ],
+      "Requisitos": [
+       "CFB113"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIN231",
+      "Nome": "Física Experimental III",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Instrumentos de Medidas Elétricas. Resistores. Capacitores. Tensões e Correntes Alternadas. Campos Magnéticos Estáticos.\n",
+       "BibliografiaBasica": "1)  Apostila de Física Experimental III, Instituto de Física, UFRJ.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 15:00",
+        "professor": "BENJAMIN RACHE SALLES"
+       }
+      ],
+      "Requisitos": [
+       "FIS121"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAC238",
+      "Nome": "Cálculo Diferen e Integral III",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Integrais Múltiplas. Integrais de Linha. Integrais de Superfície. Teorema de Gauss. Teorema de Stokes.\n",
+       "BibliografiaBasica": "1) PINTO, D.; MORGADO, M. C. F. Cálculo Diferencial e Integral de Funções de Várias Variáveis. 3ª ed. Rio de Janeiro: UFRJ, 2004.\n2) TROMBA, A. J.; MARSDEN, J. E. Vector Calculus. 5ª ed. New York: W. H. Freeman & Company, 2003.\n3) ANTON, H. Cálculo: Um Novo Horizonte. 6ª ed. Porto Alegre: Bookman, 2000. vol.2.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 10:00",
+        "professor": "ERIC ALBERTO CABEZAS BONILLA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 10:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MAC128"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "4º Período": [
+     {
+      "Codigo": "FIM240",
+      "Nome": "Física IV - a",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Ondas eletromagnéticas. Energia e momento da luz. Noções da relatividade restrita. Ótica geométrica. Fenômenos de interferência. Difração. Polarização. Física moderna. Efeitos fotoelétricos e Compton. Átomo de hidrogênio. Difração de elétrons. Função de onda. Equação de Schroedinger. Principio de incerteza.\n",
+       "BibliografiaBasica": "1) Física, volume 2. Eletricidade e Magnetismo, Ótica (5ª edição). Paul A. Tipler e Gene Mosca. LTC Editora S.A.\n2) Física, volume 3. Física Moderna, Mecânica Quântica, Relatividade e a Estrutura da Matéria (5ª edição). Paul A. Tipler e Gene Mosca. LTC Editora S.A.\n3) Curso de Física Básica , volume 4. Ótica, Relatividade, Física Quântica H. Moysés Nussenzveig - Editora Edgard Blücher Ltda.\n4) Física IV. Ótica e Física Moderna Young & Freedman (12ª edição).\n5) Fundamentos de Física (4ª edição). D. Halliday. R. Resnick and J. Walker - John Wiley & Sons, Inc.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "10:00 - 12:00",
+        "professor": "PATRICIA LUSTOZA DE SOUZA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "FIM230"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIN242",
+      "Nome": "Física Moderna I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Experiências chaves para  mudança de paradigma da Mecânica Clássica para a Mecânica Quântica: Efeito foto-elétrico, Efeito Compton, Duallidade onda-partícula. O princípio da incerteza. Modelos atômicos. Equação de Schroedinger  e o átomo de hidrogênio. Introdução à Física Nuclear. Introdução à Física de partículas elementares. Introdução à Astrofísica. Os tópicos mais avançados podem ser ministrados através de seminários dados por professores convidados.\n___BIBLIOGRAFIA BÁSICA___\n1- Quantum Physics of Atoms, Molecules, Solids, Nuclei and Particles\n2- R. Eisberg and R. Resnick- Wiley and Sons, ed.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "10:00 - 12:00",
+        "professor": "ALESSANDRA MAIA MARQUES MARTINEZ PEREZ"
+       },
+       {
+        "dia": "Qui",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "FIM230"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "CFB231",
+      "Nome": "Biofísica de Sistemas",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "União das células na formação dos tecidos. Conceito de tecidos biológicos. Epitélios de revestimento. Tecido conjuntivo. Tecido muscular. Tecido nervoso. Formação de sistemas biológicos.\n___ BIBLIOGRAFIA BÁSICA ___\n1) Histologia e Biologia Celular: Uma Introdução à Patologia ? Editora Elsevier. Rio de Janeiro, 2012.\n2) Tratado de Histologia em Cores. 3ª. Ed., Editora Elsevier. Rio de Janeiro, 2007.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 17:00",
+        "professor": "SILVANA ALLODI"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 17:00",
+        "professor": "ERIKA MICHELE AVELINO NEGREIROS GONCALVES"
+       }
+      ],
+      "Requisitos": [
+       "BMA231",
+       "CFB123"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIN241",
+      "Nome": "Física Experimental IV",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Principio do magnetismo, leis de Ampere, Faraday e Lentz. Medidor de campo magnetico. Propriedades magneticas da materia, histerese, corrente alternada: circuitos de corrente alternada RLC, oscilacoes eletromagneticas. Conservacao de energia. Otica geometrica: reflexao, refracao, lentes e prismas. Otica fisica: interferencia, difracao e polarizacao.\n___ BIBLIOGRAFIA BÁSICA ___\n1) Apostila de Física Experimental IV. Instituto de Física, UFRJ.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 15:00",
+        "professor": "FABRICIO TOSCANO"
+       }
+      ],
+      "Requisitos": [
+       "FIN231"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIW245",
+      "Nome": "Métodos da Física Teórica I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Números complexos. Funções de variáveis complexas: Teorema de Cauchy, Séries de Taylor e de Laurent, Teorema do Resíduo e aplicações ao cálculo de integrais. Séries de Fourier. Noções de Teoria das Distribuições: a Função Delta. Transformada de Fourier e aplicações. Transformada de Laplace e aplicações.\n",
+       "BibliografiaBasica": "1- ?Elementary Linear Algebra Applications? de Howard Anton, Chris Rorres, Anton Kaul - Version-Wiley (2019);\n2- \"Variáveis Complexas e aplicações\" de James Ward Brown e Ruel V. Churchill (tradução Claus Ivo Doering) 9 Ed.; AMGH (2016);\n2- ?Cálculo Avançado?, Volume II, 7a Reimpressão, de Wilfred Kaplan; Editora Edgard Blucher ltda (1996);\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 10:00",
+        "professor": "THALES AGRICOLA CALIXTO DE AZEVEDO"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 10:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MAC238"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "5º Período": [
+     {
+      "Codigo": "CFF241",
+      "Nome": "Fisiologia Humana",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Neurofisiol. Neurônios Sinapse Sist. Sensor. Neuroloc. SNA; Fisiol.Cardiovasc. Miocárdio Bomba card. Hemodin. card. Hemodin.; Sist. Respiratório Ap. Respir. Mec. Ventil. Ciclo respir.Espirogr. Ventil.-Perf. Transp.Gases Regul. Resp.;Sist.Urin.F. renal Filtr. secr. reabs. glomer.; Sist.Endóc. Mec.ação horm.Mec.regul.Endóc. Metabol. Hidrossal Metabol.Energ. F.sexual; Nutr. e Metabol. Digest. Abs.Intest. Regul. digest.; Integr.Sist. Termorregul. Reg. p.a. e déb.Card. Adap.esforço Reg. Vol.Extracel e Tônus Equil. Ác-base Adap.estresse Eixo Neuro-imuno-endóc. Homeostasia\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIWU08",
+      "Nome": "Ien - Tóp Prod Radiofármacos",
+      "Créditos": "3.0",
+      "Teórica": "120",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Produção de radioisótopos; controle estatístico de processo; utilização de monitores de área; monitoração de superfície e descontaminação; monitoração de ar; radioproteção ocupacional no Ciclotron e no reator Argonauta.\n___Bibliografia Recomendada___\nApostilas desenvolvidas no IEN\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 12:00",
+        "professor": "SIMONE COUTINHO CARDOSO"
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "FIN242"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "CFB352",
+      "Nome": "Radiobiologia e Fotobiologia",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A interação das radiações com a matéria; origem das lesões induzidas pelas radiações; radioquimica de ácidos nucleicos; fotoquímica de ácidos nucleicos; inativação nos diferentes níveis de organização biológica; fatores que modificam a sensibilidade as radiações ionizantes; mecanismos celulares de reparação; efeitos somáticos das radiações não ionizantes; efeitos somáticos das radiações ionizantes\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 10:00",
+        "professor": "FRANCISCO MEIRELLES BASTOS DE OLIVEIRA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 09:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "CFB123"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIN482",
+      "Nome": "Física das Radiações I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Princípios gerais: o que é radiação; radiação ionizante; efeitos biológicos da radiação ionizante. Aplicações na medicina e na indústria. Grandezas e unidades\nFontes de radiação: radiação de origem atômica e nuclear. Modelos atômicos e nucleares. Fluorescência atômica. Decaimento nuclear e radioatividade. Breemstrahlung. Produção e aniquilação de pares. Interações da radiação ionizante eletromagnética com a matéria: seção de choque diferencial e integral. Efeito fotoelétrico. Espalhamento coerente e espalhamento incoerente. Coeficientes de atenuação e absorção. Interações da radiação de partículas com a matéria.\nDetecção de radiação ionizante: detetores a gás, cristais cintiladores e foto-multiplicadoras, detetores semicondutores. Eletrônica de detecção: fontes HV, amplificadores, multicanais.\n___ BIBLIOGRAFIA BÁSICA ___\n1) Introduction To Radiological Physics and Radiation Dosimetry. Frank ATTIX. John Wiley & Sons, 1986.\n2) Atoms, Radiation and radiation Protection. James E. TANNER. Wilei-VHC, 2007\n3) Radiation Physics for Medical Physicists. Ervin B. Podgorsak. Spronger, 2010.\n4) Quantum Physics of Atoms, Molecules, Solids, Nuclei and Particles R. Eisberg and R. Resnick - John Wiley and Sons.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 15:00",
+        "professor": "MURILO SANTANA RANGEL"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 15:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "FIM240",
+       "FIN242"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "6º Período": [
+     {
+      "Codigo": "FIW368",
+      "Nome": "Física das Radiações II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceitos de radioproteção e dosimetria : dose, unidades de medida e dose equivalente; meia vida biológica; dosimetria; dosímetros e equipamentos; normas internacionais de radioproteção.\nPráticas de laboratório: medidas de seções de choque; medidas de coeficientes de atenuação; Imagens com raios x ; qualidade em radiologia diagnóstica; medidas e cálculo de dose.\n___ BIBLIOGRAFIA BÁSICA ___\n1) Intriduction To Radiological Physics and Radiation Dosimetry- Frank ATTIX- John Wiley & Sons, 1986.\n2) Atoms, Radiation and radiation Protection, James E. TANNER ? Wilei-VHC ? 2007.\n3) Radiation Physics for Medical Physicists ? Ervin B. Podgorsak ? Spronger ? 2010.\n4) Quantum Physics of Atoms, Molecules, Solids, Nuclei and Particles R. Eisberg and R. Resnick-  John Wiley and Sons.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "15:00 - 17:00",
+        "professor": "JOSILENE CERQUEIRA SANTOS"
+       },
+       {
+        "dia": "Qui",
+        "hora": "15:00 - 17:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "FIN482"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIWU10",
+      "Nome": "Ird II A- Fismed Radiologia",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Histórico do radiodiagnóstico. Conceitos básicos de proteção radiológica, grandezas, produção de raios X e obtenção da imagem. Técnicas de diagnóstico por imagem: raios X convencional, dental, mamografia, fluoroscopia convencional e intervencionista, tomografia computadorizada e sistemas digitais. Aspectos físicos da qualidade de imagem. Instrumentação e testes de controle de qualidade para as diferentes técnicas de diagnóstico por imagem utilizadas em radiodiagnóstico. Legislação nacional e recomendações internacionais. Noções de métodos de otimização.\n___ BIBLIOGRAFIA BÁSICA ___\n1) The Physics of Radiology - Harold Elford Johns & John Robert Cunningham.\n2) The Basics of Processing in Medical Imaging. Arthur G. Haus & Susan M. Jaskulski.\n3) Radiologic Science for Technologists. Stewart C. Bushong.\n4) Physics for Diagnostic Radiology. P.P. Denty, B. Heaton.\n5) The Essential Physics of Medical Imaging. J.T.Bushberg, A. A. Seibert, E.M. Leidholdt, J. M .Boone, 2002.\n6) Computed Tomography. Fundamentals, System Technology, Image Quality, Applications. Willi A. Kalender, 2005.\n7) ICRP 103. Recommendations of the international Commission on radiological Protection. 2007.\n8) Normas Básicas Internacionales de Seguridad para la Protección contra la Radiación Ionizante y para la Seguridad de las Fuentes de Radiación. IAEA 115. 1997.\n9) Diretrizes Básicas de Proteção Radiológica em Radiodiagnóstico Médico e Odontológico. Portaria 453.\n10) ICRP 73. Radiological Protection and Safety in Medicine. 1996.\n11) An Introduction to the Physics of Diagnostic Radiology. Edward E. Christensen, Thomas S. James E. Dowdey.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "FIN482"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIWU12",
+      "Nome": "Ird II C- Fismed Radioterapia",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Histórico da radioterapia. Revisar os conceitos básicos de física moderna e de física das radiações, principais dosímetros utilizados em radioterapia, tanto para procedimentos dosimétricos e de controle da qualidade do tratamento, como para a avaliação de doses ocupacionais. Principais técnicas utilizadas em radioterapia, teleterapia e braquiterapia, bem como os irradiadores empregados na aplicação das mesmas. Aspectos físicos e clínicos inerentes aos tratamentos com feixes de fótons e com feixes de elétrons. Noções de planejamento do tratamento clínico. Testes de controle e garantia da qualidade em radioterapia. Braquiterapia. IMRT, IGRT, Radiocirurgia e TBI. Cálculo de blindagens para sala de irradiadores terapêuticos. Radioproteção e segurança em radioterapia. O papel do físico médico em radioterapia.\n___ BIBLIOGRAFIA BÁSICA ___\n1) Attix F.H., Wiley J. Introduction to radiological physics and radiation dosimetry. New York, 1986.\n2) Busheberg T.J (ed). The Essential Physics of Medical Imaging. 2a ed, Lip.W & Willians, 2002.\n3) Manuais, Normas e Artigos especializados.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "FIN482"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIW367",
+      "Nome": "Conceitos de Mecânica Quântica",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Aspectos mais fundamentais para o estudo da Física das Radiações, evitando o quanto possível os cálculos associados. De preferência o curso deve ser oferecido em power-point ou similar. O aluno já deve ter visto em Conceitos de Física Moderna os capítulos de 1 a 6 do livro do Eiseberg:\n1) Sistemas quânticos em três dimensões: Equação de Schrödinder em coordenadas esféricas abordando momento angular, oscilador harmônico  e átomos hidrogenóides; spin e interação spin-órbita\n3) Teoria da perturbação independente do tempo:\n4) Sistemas de muitas partículas: Partículas idênticas: simetrização e anti-simetrização; Átomos com dois ou mais elétrons; Moléculas e núcleo\n5) Teoria da colisão: Seção de choque; Espalhamento por um potencial; Ondas parciais; Aproximação de Born; Colisão de partículas idênticas; Colisão de sistemas compostos\n6) Potenciais periódicos; bandas de energia; condutores, isolantes e semicondutores.\n___ BIBLIOGRAFIA BÁSICA ___\n1) Quantum Physics of Atoms, Molecules, Solids, Nuclei and Particles, R. Eisberg and R. Resnick- Wiley and Sons, ed.  C. Cohen ? Tannoudji, Quantum Mechanics, vol 1 e 2\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "10:00 - 12:00",
+        "professor": "ARMANDO NAZARENO FARIA ALEIXO"
+       },
+       {
+        "dia": "Qui",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "FIN242",
+       "FIW245"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIWU09",
+      "Nome": "Ird - Metrologia",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Organização da metrologia mundial e nacional; Conceitos básicos da metrologia geral e metrologia das radiações ionizantes; Grandezas e unidades; Padronizaçãp Primária e Secundária; Métodos de estimativa de incertezas; Instrumentação para medição da radiação, aplicados às áreas de radioproteção e dosimetria na área médica; Controle e garantia de qualidade em metrologia; Processos de padronização e calibração; Práticas de medição e intercomparação; Metrologia em Radiodiagnóstico, Medicina Nuclear e Radioterapia.\n___Bibliografia Recomendada___\n1 )Attix, F.H. ?Introduction to Radiological Physics and Radiation Dosimetry? - John Wiley & Sons, N.Y., 1986.;Beckurts, K.H. e Wirtz, K. ?Neutron Physics? ? Springer-Verlag, N.Y., 1964;\n2) Bell, S ?Guia do Iniciante à Incerteza da Medição?  edição brasileira ? apostila IRD/CNEN-MCT, BIPM, IEC, IFCC, ISO, IUPAC, IUPAP, OIML ?Guia para a Expressão da Incerteza de Medição? 3a.  edição brasileira ? ABNT e INMETRO, 2003;\n3) BIPM, IEC, IFCC, ISO, IUPAC, IUPAP, OIML ?Vocabulário Internacional de Termos Fundamentais e Gerais de Metrologia ? VIM?  ? 3a. edição brasileira -  INMETRO, 2003;\n4) Cavallo, L.M.; Cousey, B.M; Garfinkel, S.B.; Hutchinson, J.M.P. e Mann, W.B. ?Needs for Radiactivity Standards and Measurements in Differents Fields? ? Nucl. Instr.Meth, 112, 5-18, 1973;\n5) Johns, H.E., Cunningham, J.R. ?The Physics of Radiology? - Thomas, Springfield, IL. 1985.; Knoll, G.F. ?Radiation Detection and Measurement? ? John Wiley & Sons, N.Y., 1989.; Mann, W.B.;\n6) Rytz, A; Spernol, ?A  Radioativity Measurements - Principles and Practice? ? Pergamon Press, 1998.; NPL National Physics Laboratory -  Practical Course in Reference Dosimetry : Lectures Notes e Session Notes; Tauhata, L.;\n7) Matos, M.R.O. (prg.) ?Grandezas e Unidades para Radiação Ionizante -  Recomendações e definições?  publicação do LNMRI-IRD/CNEN-MCT 2002\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "FIN482"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIWU11",
+      "Nome": "Ird II B- Fismed Medic Nuclear",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Histórico da medicina nuclear; Panoramas da medicina nuclear no país; Legislação e controle regulatóriono Brasil; Radiofármacos e processos de fabricação; Marcação; Tipos de tratamentos radioterápicos com fontes não seladas. Princípios e restrições de uso do quarto terapêutico; Medidores de radiação em medicina nuclear; Equipamentos utilizados em medicina nuclear e controle de qualidade dos mesmos; Programa de gerenciamento de rejeitos; Cálculo de blindagens; Radioproteção ocupacional; Dosimetria clínica e processos de otimização de doses.\n___Bibliografia Recomendada___\n1) MURRAY, I. P. C. and Ell, P.J. - Nuclear Medicine in Clinical Diagnosis and Treatment - Vol.2.\n2) ROLLO, F. D. - Nuclear Medicine Physics, Instrumentation, and Agents. The C. V. Mosby Company, 1977.\n3) CABREJAS, M.L., ?TomografiaemMedicina Nuclear?, ? Edición Argentina, Argentina, 1999.\n4) KNOLL, G.F., ? Radiation Detection and Measurements?, Second Edition, John Willey and Sons, 1989.\n5) ATITIX, F.H., ?Introduction to Radiological Physics and Radiation Dosimetry?, John Wiley & Sons, 1986.\n6)BUSHBERG, J.T., ?The Essential Physics of Medical Imaging?, Second Edition, Lippincott Willians& Wilkins, 2002.\nManuais, Normas e Artigos especializados\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "FIN482"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIWU13",
+      "Nome": "Ird III - Dosimetria Individ",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Materiais, técnicas e procedimentos para monitoração individual externa e/ou interna de trabalhadores e indivíduos do público; Métodos de dosimetria interna de pacientes submetidos a  protocolos diagnósticos e/ou terapêuticos com o uso de radiofármacos; Métodos de otimização de doses de pacientes; Interpretação de resultados de monitorações individuais. Estado da arte da monitoração individual e da dosimetria interna e externa,  identificando perspectivas de pesquisa nestas áreas.\n___Bibliografia Recomendada___\n1) Attix F.H., Wiley J. Introduction to radiological physics and radiation dosimetry. New York, 1986.\n2) Busheberg T.J (ed). The Essential Physics of Medical Imaging. 2aed, Lip.W&Willians, 2002.\n3) Manuais, Normas e Artigosespecializados\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "FIN482"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "7º Período": [
+     {
+      "Codigo": "FIW490",
+      "Nome": "Ultrassom",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução ao conceito de onda acústica, reflexão, transmissão, velocidade de propagação, atenuação e intensidade. Piezoeletricidade e geração de ultra-som. Métodos de diagnóstico: imagem (pulso-eco) e fluxo sangüíneo (efeito Doppler). Métodos de caracterização de tecidos. Aplicações terapêuticas. Efeitos colaterais, dosimetria e segurança. Protocolos para testar a qualidade de equipamentos de diagnóstico.\n___ BIBLIOGRAFIA BÁSICA ___\n1)  K. K. Shung, M. B. Smith, B. Tsui. Principles of Medical Imaging?, Academic Press, New York, 1992.\n2) P. N. T. Wells. Biomedical Ultrasonics, Academic Press, 1977.\n3) W. L. Nyborg e M. C. Ziskin (eds.). Biological Effects of Ultrasound, Churchill Livingstone, New York, 1985.\n4) D. H. Evans, W. N. McDicken, R. Skidmore e J. P. Woodcock. Doppler Ultrasound - Physics, Instrumentation and Clinical Applications, John Wiley & Sons, New York, 1989.\n5) L. E. Kinsler, A. R. Frey, A. B. Coppens e J. V. Sanders. Fundamentals of Acoustics. John Wiley & Sons, New York, 1982.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 10:00",
+        "professor": "WAGNER COELHO DE ALBUQUERQUE PEREIRA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 10:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "FIM230"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIW124",
+      "Nome": "Estatística Aplicada",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceito de Probabilidade. Estatística descritiva (média, variança, histogramas, correlação). Distribuições mais comuns: Gaussiana, Poisson, Binomial, Lorentziana. Métodos de ajuste de curvas: mínimos quadrados, testes de significância estatística, máxima verossimilhança. Teoria de erros em medidas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "10:00 - 12:00",
+        "professor": "ROSIMARY TEREZINHA DE ALMEIDA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MAC238"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "8º Período": [
+     {
+      "Codigo": "FIW479",
+      "Nome": "Computação Aplicada à Medicina",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Noções sobre a linguagem FORTRAN. Métodos numéricos.  Simulação em Física; o método de Monte Carlo. Análise de Fourier. 5- Formação e reconstrução de imagens de imagens em  Tomografia,  Ultra-som, Ressonância Nuclear Magnética.\n___ BIBLIOGRAFIA BÁSICA ___\n1) The Physics of Medical Imaging, S.Webb, Inst.of Physics Publishing, Bristol and Philadelphia.\n2) Monte Carlo Methods,  Vol.I Basics, M.H. Kalos e P.A. Whitlock; Wiley- Interscience Pub.\n3) An Introduction to Computer Simulation Methods; H.Gould, J.Tobochnik, Addison Wesley 1996.\n4) Manual de Fortran.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "FIW234",
+       "FIW245"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIW478",
+      "Nome": "Imagens Por Rmn",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Princípios de Imagens Médicas: pixel, voxel, resolução espacial, resolução temporal, contraste, artefatos e ruídos, processamento de imagens. Imagens por Ressonância Magnética Nuclear. Ressonância Magnética Funcional (RMf): desenho experimental, processamento e análise estatística dos resultados. Aplicações da RMf na Medicina (neurologia e psiquiatria) e nas Neurociências. O sinal Neural: potencial elétrico celular, transporte de íons pela membrana, potencial de ação, sinapses.\n___ BIBLIOGRAFIA BÁSICA ___\n1) Scott A. Huettel, Allen W. Song, Gregory Mc. Functional Magnetic Resonance Imaging ? 2nd Edition - Sinauer Ass. Inc., 2009.\n2) D´Esposito M. Functional MRI: Applications in Clinical Neurology and Psychiatry. Informa Healthcare, 1st Edition, 2009.\n3) Artigos diversos desta área de pesquisa.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "FIW367"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIWK02",
+      "Nome": "Trabalho de Fim de Curso",
+      "Créditos": "4.0",
+      "Teórica": "180",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Trabalho de pesquisa na área de Física Medica com tema escolhido entre o professor e o aluno e submetido à aprovação em apresentação pública a uma banca de três doutores, incluído o orientador. Não há exigência de originalidade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "Disciplinas Optativas (Escolha Restrita)": [
+     {
+      "Codigo": "FIW246",
+      "Nome": "Experimentos de Fís Quântica",
+      "Créditos": "4.0",
+      "Teórica": "30",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Experiencia de Milikan. Medida da relacao e/m para eletron. Radiacao de Corpo Negro. Efeito Compton. Difracao de eletrons. Formacao de pares. Emissao alfa. Efeito fotoeletrico. Sistematica de espectros atomicos. Experiencia de Frank-Hertz. Efeito Zeeman.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 17:00",
+        "professor": "ERICA RIBEIRO POLYCARPO MACEDO"
+       },
+       {
+        "dia": "Sex",
+        "hora": "10:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "FIM240",
+       "FIN241"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FIW357",
+      "Nome": "Instrumentação em Fís Contemp",
+      "Créditos": "4.0",
+      "Teórica": "30",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução à instrumentação analógica e digital: filtros passivos, dispositivos semicondutores, amplificador operacional, portas logicas, multivibradores e osciladores. Introdução ao tratamento analógico de sinais: conversões analógica / digital e digital / analógica, ruídos e interferências, amplificadores lock-in, monocanal e multicanal, módulos nim, microprocessadores, interfaceamento com microcomputadores, transdutores. Introdução a tecnologia de vácuo e deposição de filmes finos. Criogenia.\n___ BIBLIOGRAFIA BÁSICA ___\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "09:00 - 12:00",
+        "professor": "FABRICIO FRIZERA BORGHI"
+       },
+       {
+        "dia": "Sex",
+        "hora": "13:00 - 16:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "FIN241"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FIW365",
+      "Nome": "Mecânica Quântica II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Spin do elétron. Perturbações estacionarias (casos não degenerado e degenerado). Outras aproximações estacionarias: método WKB. Perturbações dependentes do tempo. Teoria sem clássica da radiação. Teoria quântica do espalhamento. Partículas idênticas. O paradoxo de Einstein, Podolski e Rosen e a desigualdade de Bell.\n___ BIBLIOGRAFIA BÁSICA ___\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 15:00",
+        "professor": "MARCELLO BARBOSA DA SILVA NETO"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 15:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "FIW356"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FIW474",
+      "Nome": "Lab de Física Corpuscular",
+      "Créditos": "4.0",
+      "Teórica": "30",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Produção e detecção de raios X contínuos e de linhas. Elétrons Auger. Fontes de íons e aceleradores. Fontes radioativas. Interação de partículas e da radiação com a matéria. Detetores de partículas e de radiação. Proteção radiológica. Analise de trajetória de partículas elementares.\n___ BIBLIOGRAFIA BÁSICA ____\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "09:00 - 12:00",
+        "professor": "DANIEL DE MIRANDA SILVEIRA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "09:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FIW476",
+      "Nome": "Fís Atômica Molecular e Ótica",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Atomos de um, dois e muitos eletrons; Metodos de Hartree-Fock; interacao de atomos com campos eletromagneticos, espectros atomicose radiacao; laser; estrutura moleclar; aproximacao de Born-Oppenheimer, esectro molecular; colisoes atomicas: eletron-atomo e atomo-atomo em diferentes regimes de velocidades; topicos especiais: jatos supersonicos, armadilha de atomos e icons, atomos e moleculas frios.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "15:00 - 17:00",
+        "professor": "WANIA WOLFF"
+       },
+       {
+        "dia": "Qua",
+        "hora": "15:00 - 17:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "FIW356"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FIWU14",
+      "Nome": "Física das Imagens Médicas",
+      "Créditos": "3.0",
+      "Teórica": "0",
+      "Prática": "120",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Os principais equipamentos e procedimentos associados às Imagens Médicas serão apresentados aos alunosorientando-os a aplicar as noções sobre controle de qualidade e radioproteção, tanto no caráter técnico quanto no administrativo, aprendidas ao longo do curso de física médica. Os alunos serão capacitados a análisar as normas de controle de qualidade e radiprotreção no funcionamento dos serviços de radiodiagnóstico, além de implementar eventuais melhorias.\n1- Equipamentos radiológicos (Raios-X, Mamógrafos, Fluoroscópios, Tomógrafos etc).; 2- Radioproteção em Radiodiagnóstico. O uso das normas e portarias sobre funcionamento do serviço (portaria 435 da ANVISA).; 3- Levantamento radiométrico e radiação de fuga. ; 4- Controle de Qualidade em Imagens Médicas (padrões e medidas). Índice de rejeição.; 5- Instrumentação para Controle de Qualidade: medidores de kVp, tempo de exposição, fantomas, sensitômetros, densitômetros, etc. Métodos de medidas.; 6- Processamento de filmes radiográficos e equipamentos de visualização: Processadoras, Camaras Clara e Escura, Filme, Tela Intensificadora, Chassis, Negatoscópio. ; 7- Radiografia Computacional e Radiografia Digital.  ; 8- Fluroscopia (Hemodinâmica, Exames Contrastados e Centro cirúrgico); 9- Tomografia Computadorizada.; 10- Ressonância Magnética; 12- Introdução ao Processamento de Imagens Digitais.\n___Bibliografia Recomendada___\n1) ARTIGOS E EDIÇÕES ESPECIALIZADAS EM GERAL, INCLUSIVE NORMAS E REGULAMENTOS\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "FIW478"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FIWU16",
+      "Nome": "Prática em Radioterapia",
+      "Créditos": "3.0",
+      "Teórica": "0",
+      "Prática": "120",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Radioterapia - Fundamentos de dosimetria; dose absorvida em feixes de fótons e elétrons; dosimetria absoluta, dosimetria química, câmaras de ionização; propriedades e técnicas de calibração desímetros clínicos; câmaras de ionização utilizadas em dosimetria de braquiterapia; determinação da taxa de kerma no ar em braquiterapia. Radiologia - equipamentos e acessórios; formação e registro de imagem; qualidade de imagem; métodos radiográficos especiais; controle de qualidade de serviços de radiologia; dosimetria clínica e níveis de referência de radiodiagnóstico; cálculo de blindagem; radiodiagnóstico odontológico; radioproteção em instalações de radiodiagnóstico; regulamentos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:30 - 17:30",
+        "professor": "SIMONE COUTINHO CARDOSO"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:30 - 17:30",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "FIW368"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FIW244",
+      "Nome": "Eletromagnetismo I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Eletrostática: campo, divergência, rotacional, potencial, trabalho e energia, condutores. Técnicas de cálculo de potenciais: equação de Laplace, método das imagens, separação de variáveis, expansão em multipolos. Eletrostática em meios materiais: polarização, campo de um objeto polarizado, deslocamento elétrico, dielétricos. Magnetostática no vácuo: lei de Lorenz, lei de biot-savart, divergência, rotacional, potencial vetorial. Magnetostática em meios materiais: magnetização, campo de um objeto magnetizado, campo auxiliar h, meios lineares e não lineares.\n",
+       "BibliografiaBasica": "1- David J. Griﬃths, ?Introduction to Electrodynamics?, 4th Edition (2013)\n2- E. M. Purcell and David J. Morin, ?Electricity and Magnetism?, 3rd Edition (2013)\n3- R. P. Feynman, R. B. Leighton, and M. Sands, ?The Feynman Lectures on Physics, vol. II? (2013)\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "15:00 - 17:00",
+        "professor": "DANIELA SZILARD LE COCQ D OLIVEIRA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "15:00 - 17:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "FIM240(C)",
+       "FIW245"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FIW355",
+      "Nome": "Eletromagnetismo II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Eletrodinamica: forca eletromotriz, Lei de Faraday, Equacoes de Maxwell, formulacoes dos potenciais da eletrodinamica, energia e momento. Ondas eletromagneticas em meios nao condutores e em meios condutores, dispersao, ondas guiadas. Radiacao de dipolo, Radiacao de uma carga puntiforme. Teoria da relatividade especial. Mecanica relativista. Eletrodinamica relativista.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "15:00 - 17:00",
+        "professor": "MARCOS GONCALVES DE MENEZES"
+       },
+       {
+        "dia": "Qui",
+        "hora": "15:00 - 17:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "FIW244"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FIW363",
+      "Nome": "Termodinâmica Fís Estatística",
+      "Créditos": "6.0",
+      "Teórica": "90",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estados de um sistema. Entropia e temperatura. Distribuição de Bostzmann. Radiação térmica. Potencial químico. Gás ideal. Gases de Fermi e Bose. Calor e trabalho. Energia livre de Gibbs. Reações químicas. Transformações de fase. Teoria cinética. Propagação do som em gases. Condução de calor.\n___ BIBLIOGRAFIA BÁSICA ___\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "12:00 - 15:00",
+        "professor": "FERNANDO ANTONIO NAZARETH NICACIO"
+       },
+       {
+        "dia": "Qua",
+        "hora": "12:00 - 15:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "FIM240",
+       "MAC238"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FIW366",
+      "Nome": "Lab de Matéria Condensada",
+      "Créditos": "4.0",
+      "Teórica": "30",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Difração de Bragg. Interferometria. Fibras óticas. Condutividade, semicondutores e isolantes, calor especifico de sólidos. Teoria de bandas, massa efetiva e impurezas. Junções PN, diodo e transistores. Propriedades magnéticas da matéria. Ressonância magnética. Materiais supercondutores. Efeitos Josephson e Squid.\n___ BIBLIOGRAFIA BÁSICA ___\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "FIW356"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FIW475",
+      "Nome": "Física da Matéria Condensada",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Modelos de Drude e Sommerfld para metais. Redes cristalinas. Rede recíproca. Elétrons em potencial periódico. Aproximação de elétrons quase livre e de elétron fortemente ligado. Descrição semiclássica da dinâmica de elétrons em sólidos. Coesão cristalina. Isolantes, semicondutores e metais. Vibrações cristalinas, Fônons. Propriedades magnéticas da matéria. Aplicações específicas que devem variar de semestre conforme motivação do professor e da turma.\n___ BIBLIOGRAFIA BÁSICA ___\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "FIW356",
+       "FIW363"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FIW477",
+      "Nome": "Fís Nuclear e de Partíc.elemem",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Espalhamento de Rutherford. Núcleos estáveis e instáveis. Modelos nucleares: gota liquida. Gás de Fermi, modelo de camadas e modelos coletivos. Decaimentos alfa, beta e gama. Aplicações de física nuclear: fissão, fusão, energia nuclear e datação. Detecção e aceleração de partículas. Fenomenologia de partículas elementares. Simetrias: teorema CPT. Apresentação, modelo padrão e de algumas extensões, astrofísica.\n___ BIBLIOGRAFIA BÁSICA ___\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "15:00 - 17:00",
+        "professor": "JOSE HELDER LOPES"
+       },
+       {
+        "dia": "Qui",
+        "hora": "15:00 - 17:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "FIW356"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FIWU15",
+      "Nome": "Prática em Medicina Nuclear",
+      "Créditos": "3.0",
+      "Teórica": "0",
+      "Prática": "120",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Acompanhar os Físicos Médicos em serviço de Medicina Nuclear com foco na instrumentação, radioproteção, controle de qualidade e gerenciamento de rejeitos\nUtilização de Curiômetros, Monitores de exposição, Monitores de contaminação, Gamacâmara. Realização de testes de qualidade com equipamentos, inclusive gamacâmara.\n___Bibliografia Recomendada___\n1) ARTIGOS E EDIÇÕES ESPECIALIZADAS EM GERAL, INCLUSIVE NORMAS E REGULAMENTOS\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "FIW478"
+      ],
+      "Tipo": "eletiva"
+     }
+    ],
+    "Disciplinas Optativas (Escolha Condicionada)": [
+     {
+      "Codigo": "FIW483",
+      "Nome": "História da Física",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Cosmologia antiga. A física de Aristóteles. A física medieval. As origens da mecânica. Mecanicismo. A teoria eletromagnética de Maxwell. Conceito de campo. Os impasses da mecânica clássica. A teoria da relatividade e a mecânica quântica.\n",
+       "BibliografiaBasica": "1- PIRES, A.S.T., Evolução das Ideias da Física. São Paulo: Ed. Livraria da Física, 2008.\n2- COHEN, I.B., O Nascimento de uma Nova Ciência. São Paulo: Edart, 1987.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FIWY02",
+      "Nome": "Monitoria II",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Auxílio aos professores do Instituto nas atividades de suporte ao ensino das disciplinas e atuação nas atividades acadêmicas gerais do Instituto, tais como desenvolvimento de novas experiências para as disciplinas de laboratório, atendimento a alunos fora de sala de aula e em aulas práticas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "FIM230",
+       "FIM240",
+       "FIN231",
+       "FIN241"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FIWY04",
+      "Nome": "Introdução à Pesquisa II",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução aos métodos e procedimentos da pesquisa experimental e/ou teórica em Física ao nível de graduação.  Os assuntos podem variar a cada período letivo, sujeitos à aprovação prévia pela Comissão de Coordenação do Curso.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "FIWY03"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEV121",
+      "Nome": "Português Instrumental I",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A linguagem e seu papel nas sociedades humanas. Expressão oral e escrita.\nA variação linguística em função dos fins e das situações de comunicação. A oração\ne o período.\n",
+       "BibliografiaBasica": "1) COSTA, Iara; FOLTRAN, Ma. J. (org.). A tessitura da escrita. São Paulo: Contexto, 2013.\n2) FIGUEIREDO, Luiz Carlos. A redação pelo parágrafo. Brasília: UnB, 1999.\n3) KOCH, Ingedore; ELIAS, Vanda. Ler e compreender: os sentidos do texto. São Paulo: Contexto, 2006.\n4) LUFT, Celso P. A vírgula. São Paulo: Ática, 1996.\n5) MARCUSCHI, Luiz Antonio. Produção textual, análise de gêneros e compreensão. São Paulo: Parábola, 2008.\n6) MEDEIROS, João Bosco. Redação cientÍfica. 11. ed. São Paulo: Atlas, 2009.\n7) MOTTA-ROTH, Desirée; HENDGES, Graciela. Produção textual na universidade. São Paulo: Parábola, 2010.\n",
+       "BibliografiaComplementar": "1) CARDOSO, João Batista. Teoria e prática de leitura, apreensão e produção de texto. Brasília: EDUNB, 2001.\n2) MACHADO, Anna Rachel et al. Resumo. São Paulo: Parábola Editorial, 2004.\n3) MACHADO, Anna Rachel et al. Resenha. São Paulo: Parábola Editorial, 2004.\n4) MARCUSCHI, Luiz Antônio. Gêneros Textuais: configuração, dinamicidade e circulação. In: KARWOSKI, A.;\n5) GAYDECZKA, B.; BRITO, K. (orgs.). Gêneros textuais: reflexões e ensino. 4. ed. São\nPaulo: Parábola, 2011. p. 15-28.\n6) MEDEIROS, João Bosco. Português Instrumental; para cursos de Contabilidade, Economia e Administração. 4. ed. São Paulo: Atlas, 2000.\n7) PAULIUKONIS, Ma. Aparecida L.; GAVAZZI, Sigrid (org.). Texto e discurso:\nMídia, literatura e ensino. Rio de Janeiro: Lucerna, 2003.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "SSM209",
+      "Nome": "Direitos Humanos no Brasil",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Concepções dos direitos humanos. O debate dos direitos humanos no Brasil. Garantias formais dos direitos humanos no Brasil e sua efetividade.\n___BIBLIOGRAFIA BÁSICA___\n1 - Alves, J. Os direitos humanos como tema global. S. Paulo, Perspectiva, 1994.\n2 - Bobbio, N. A era dos direitos. Rio de Janeiro, Campus, 1992.\n3 - Dornelles, J. R. W. O que são direitos humanos. S. Paulo, Brasiliense, 1988.\n4 - Goffredo, G. (org.). Direitos humanos: um debate necessário. S. Paulo, Brasiliense, 1989.\n5 - Lesbaupin, I. As classes populares e os direitos humanos. Petrópolis, Vozes, 1984.\n6 - Marshall, T. H. Cidadania, classe social e status. Rio de Janeiro, Zahar, 1967.\n7 - Raichelis, R. Esfera pública e conselhos de assistência social: caminhos da construção democrática. S. Paulo, Cortez, 1998.\n8 - Santos, W. G. Cidadania e justiça. Rio de Janeiro, Campus, 1979.\n9 - Souza Filho, R. Conselhos deliberativos: neocorporativismo brasileiro?, in Diniz, A., 10 - Cunha, J. R. (orgs.). Direitos humanos, democracia e senso de justiça. Rio de Janeiro, Litteris, 1999.\n11 - Velho, G., Alvito, M. (orgs.). Cidadania e violência. Rio de Janeiro, UFRJ/FGV, 1996.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EEH351",
+      "Nome": "Desenvolvim e Meio Ambiente",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Evolução histórica da questão ambiental. Clube de Roma e outros modelos mundiais. Conferência de Estocolmo (1972) e a criação do PNUMA, problemas ambientais em escala global: mudanças climáticas, destruição da camada de ozônio, chuva ácida, poluentes orgânicos persistentes, crise de água. Relatório Brudtland, o conceito de desenvolvimento sustentável e conferência do Rio (1992). A Conferência de Johanesburgo (2002) e os paradigmas para o futuro.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FIWY01",
+      "Nome": "Monitoria I",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Auxílio aos professores do Instituto nas atividades de suporte ao ensino das disciplinas e atuação nas atividades acadêmicas gerais do Instituto, tais como desenvolvimento de novas experiências para as disciplinas de laboratório, atendimento a alunos fora de sala de aula e em aulas práticas.\n___ BIBLIOGRAFIA BÁSICA ___\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "FIS111",
+       "FIS121",
+       "FIT112",
+       "FIT122"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FIWY03",
+      "Nome": "Introdução à Pesquisa I",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução aos métodos e procedimentos da pesquisa experimental e/ou teórica em Física ao nível de graduação. Os assuntos podem variar a cada período letivo, sujeitos à aprovação prévia pela Comissão de Coordenação do Curso.\n___ BIBLIOGRAFIA BÁSICA ___\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "FIS121",
+       "FIT122",
+       "MAC128"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEB599",
+      "Nome": "Est da Líng Bras de Sinais I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Nomes próprios; pronomes pessoais; demonstrativos; possessivos; locativos em sentenças simples do tipo pergunta-resposta com \"o que\" e \"quem\" e outros vocábulos básicos; numerais; quantidade; topicalização; flexão verbal; flexão de negação; expressões faciais e corporais; percepção visual; conversação; diálogos; textos: LIBRAS, cultura e comunidade surda.\n",
+       "BibliografiaBasica": "1) BRITO, L. F. Por uma gramática de língua de sinais. Rio de Janeiro: Tempo Brasileiro, 1995.\n2) FELIPE, T.; MONTEIRO, M. S. LIBRAS em contexto. Curso Básico. Brasília: Ministério da Educação e do Desporto/Secretaria de Educação Especial, 2001.\n3) GESSER, A. Libras - Que língua é essa? Crença e preconceitos em torno da língua de sinais e da realidade surda. Florianópolis: Parábola, 2009.\n4) STROBEL, K. L. As imagens do outro sobre a cultura surda. Florianópolis: EdUFSC, 2008.\n",
+       "BibliografiaComplementar": "1) PIMENTA, Nelson e QUADROS, Ronice Muller. Curso de Libras I, LSB Vídeo, volume I, Iniciante, 2006 e 3a ed., 2008.\n2) Dicionário Enciclopédico Ilustrado Triíngue da Língua de Sinais Brasileira ? vol 1 e vol. 2 Site: www.acessobrasil.org.brasil\n3) Dicionário da Língua Brasileira de Sinais, INES, versão, 2.0, ano 2006.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "SSM207",
+      "Nome": "Socied, Cultura e Identidades",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Eurocentrismo, racismo epistemológico e cultura. Identidade euro-ocidental-burguesa e hierarquização de corpos e saberes. Filosofia e cultura afrobrasileira e dos povos indígenas brasileiros. Identidade e cultura: povos de terreiro e comunidades tradicionais. Identidade e sexualidades. Luta política e direitos da população LGBTQIA+. Arte, cultura, música e festa: dimensões da identidade, da memória social, e da resistência popular na sociedade brasileira.\n___BIBLIOGRAFIA BÁSICA___\n1) BRAZ, Marcelo (org.). Samba, cultura e sociedade. Sambistas e trabalhadores entre a ?questão social? e a questão cultural no Brasil. São Paulo: Expressão Popular, 2013.\n2) FANON, Frantz. Racismo e cultura. Revista Convergência crítica. Dossiê questão ambiental na atualidade. n.13, 2018.\n3) FAUSTINO (NKOSI), D. O pênis sem o falo: algumas reflexões sobre homens negros, masculinidades e racismo in: Feminismos e masculinidades: novos caminhos para enfrentar a violência contra a mulher / organização Eva Alterman Blay. ? 1. ed. ? São Paulo: Cultura Acadêmica, 2014.\n4) HOOKS, Bell. Olhares negros: raça e representação. São Paulo: Elefante, 2019.\n5) KILOMBA, Grada. Memórias da Plantação. Episódios de racismo cotidiano. Rio de Janeiro: Cobogó, 2019.\n6) KRENAK, Ailton. Ideias para adiar o fim do mundo. Editora Companhia das Letras, 2019.\n7) LORDE, Audre. Irmã Outsider. Ensaios e Conferências. São Paulo: Editora Autêntica, 2019.\n8) MOURA, Clóvis. Quilombos: resistência ao escravismo. São Paulo: Editora Ática, 1993.\n9) NASCIMENTO, Letícia Carolina. Transfeminismo, coleção Feminismos Plurais.\n10) OLIVEIRA, Megg Rayara Gomes de. O diabo em forma de gente: (r) existências de gays afeminados, viados e bichas pretas na educação. ? Curitiba, 2017.\n11) Revista Em pauta. Dossiê Temático: Questão Etnico-Racial e Antirracismo. n.45 (2020): https://www.e-publicacoes.uerj.br/index.php/revistaempauta/issue/view/2237/showToc.\n12) RODRIGUES, Julian; FACCHINI, Regina. É preciso estar atenta(o) e forte: Histórico do movimento LGBT e conjuntura atual. Hasteemos a bandeira colorida. Expressão Popular. 1° edição. São Paulo. 2018.\n13) RUFINO, Luis. Pedagogia das encruzilhadas. Rio de Janeiro: Morula Editorial, 2019.\n14) SIMAS, Luiz Antonio. O corpo encantado das ruas. Rio de Janeiro: Civilização Brasileira, 2019.\n15) SODRE, Muniz. Pensar Nago. Rio de Janeiro, Vozes: 2017.\n16) SODRE, Muniz. O terreiro e a cidade, a forma social negro brasileira. Rio de Janeiro, Mauad X, 2019.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     }
+    ]
+   },
+   "obrigatorias": 38,
+   "eletivas": 24,
+   "ano": "2019/2 a 9999/9"
+  }
+ ]
+}

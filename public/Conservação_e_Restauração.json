@@ -1,0 +1,2740 @@
+{
+ "Conservação e Restauração": [
+  {
+   "materias": {
+    "1º Período": [
+     {
+      "Codigo": "BAH102",
+      "Nome": "Teoria da Percepção",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "As teorias contemporâneas da percepção visual relacionadas com a criação artística.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH107",
+      "Nome": "História da Arte",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo dos conceitos fundamentais ao entendimento da produção artística. instrumentalização de vocabulário próprio para a compreensão da História da Arte. A arte da pré-história até o período neoclássico.\n___Bibliografia Recomendada___\n1) BAZIN, Germain. História da Arte. Da pré-história aos nossos dias. Lisboa: Martins Fontes, 1976.\n2) GOMBRICH. E. H. A História da Arte. rio de Janeiro: LTC, 2011.\n3) HAUSER, Arnold. História social da literatura e da arte. São Paulo: Martins Fontes, 2003.\n4) JANSON, H. W. História da Arte. 9ª ed. Lisboa: Fundação Calouste Gulbenkian, 2010.\n5) WOODFORD,  Susan. A arte de ver a arte. Rio de Janeiro:Zahar, 1983.\n___Bibliografia Complementar___\n1) ARGAN, Giulio Carlo. História da italiana - Da Antiguidade a Duccio. São Paulo: Editora Cosac e Naify, 2003.\n2) GOZZOLI, Maria Cristina. Como reconhecer a arte gótica. Lisboa: Edições 70, 1986.\n3) MANDEL, Gabriele. Como reconhecer a arte islâmica. São Paulo: Martins Fontes, 1985.\n4) TARELLA, Alda. Como reconhecer a arte romana. Lisboa: Edições 70, 1988.\n5) WOODFORD,  Susan. Grécia e Roma. Rio de Janeiro: Zahar, 1983.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH204",
+      "Nome": "Estética I",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O pensamento estético e a noção de belo; Aristóteles, Platão. A estética helenística e greco romana. O médio e extremo oriente. Estética Cristã; Idade Média e Renascimento.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH100",
+      "Nome": "Desenho I- Cr",
+      "Créditos": "3.0",
+      "Teórica": "0",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo dos meios técnicos de expressão, análise teórico-prático da representação bidimensional. Observação visual e táctil de formas e estruturas simples naturais e artificiais. Aplicação de técnicas para restauração.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH103",
+      "Nome": "Pintura a - Cr",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das principais técnicas artíticas através da prática dos diversos processos das artes pictóricas. Preparação de telas para o emprego das técnicas artísticas. Os materiais e pigmentos de pintura e seu emprego através dos processo usuais.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH108",
+      "Nome": "Plastica I - Cr",
+      "Créditos": "3.0",
+      "Teórica": "0",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo da forma, as três dimensões, os materiais e o instrumental necessário para a aplicação nas técnicas de restauração.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAHX04",
+      "Nome": "Atividades Complementares",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "120",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Atividades que constituam um campo de conhecimentos cujos eixos estarão integrados às várias áreas de conhecimento do curso, tais como: participação em simpósios, congressos, projetos de extensão, curadorias, montagem de exposições, produção cultural.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "2º Período": [
+     {
+      "Codigo": "BAH128",
+      "Nome": "Desenho II - Cr",
+      "Créditos": "3.0",
+      "Teórica": "0",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo dos meios técnicos de expressão e análise teórico - práticas da representação bidimensional. Observação das formas e estruturas simples naturais e artificiais, com objetivo de aplicação junto às técnicas de restauração.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAH100"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH130",
+      "Nome": "Plastica II - Cr",
+      "Créditos": "3.0",
+      "Teórica": "0",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenvolvimento do sentido da forma e conhecimentos tecnicos em diferentes materiais, enfatizando sua aplicação às técnicas de conservação e restauro.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAH108"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH207",
+      "Nome": "Estética II",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Os sistemas esteticos em seus compromissos com o mundo moderno e contemporaneo. A estetica de descartes aos nossos dias. A estetica contemporanea, as principais correntes.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAH204"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH119",
+      "Nome": "História das Artes Plásticas I",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo da arte dos séculos XV e XVI nos principais centros europeus, considerando os aspectos formais do Renascimento e do Maneirismo.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAH107"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH129",
+      "Nome": "Pintura B -cr",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Capacitação do estudanete a realizar e identificar as principais técnicas de pintura a partir do conhecimento teórico de construção. O entendimento global da obra de arte e seu contexo histórico aliado ao desenvolvimento e interpretação de recursos artísticos ligados a gramática visual como subsídios para que o conservador/restaurador possa identificar patologias e propor tratamentos de conservação e restauro.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAH103"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH206",
+      "Nome": "Analise da Composicao - Cr",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo dos materiais que compoem os bens culturais móveis. Análises não destrutivas, instrumentais e da datação de materiais para identificação e caracterização dos objetivos para fins de conservação e restauro.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "3º Período": [
+     {
+      "Codigo": "BAH200",
+      "Nome": "Fund Científ da Restauração",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Os fundamentos da química geral básica e suas associações com materiais e procedimentos de Conservação e Restauração de Bens Culturais Móveis. Sistemas de solventes utilizados em processos de restauração.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH211",
+      "Nome": "História das Artes Plástica II",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo da arte dos séculos XVII e XVIII nos principais centros europeus, considerando os aspectos formais do Barroco e Rococó.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAH119"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH239",
+      "Nome": "Fotografia Conserv/restaur Cr",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Capacitação do estudante a realizar documentação fotográfica e exames radiológicos usados no diagnóstico da degradação de bens culturais.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAB213",
+      "Nome": "Processo das Artes Visuais",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo dos diversos materiais das obras de arte. Compreensão das soluções formais como resultado das limitações e possibilidades dos processos artísticoss. Análise da obra de arte pelos seus aspectos técnicos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH203",
+      "Nome": "Cerâmica Cr",
+      "Créditos": "4.0",
+      "Teórica": "30",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo dos materiais, técnicas e processos de preparo, percurso histórico, pigmentos e aglutinantes, ferramental, testes e processos de utilização nas áreas de conservação e restaurante de obras em materiais cerâmicos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH238",
+      "Nome": "Conserv Restaur Obr Sob Pap I",
+      "Créditos": "9.0",
+      "Teórica": "30",
+      "Prática": "210",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O processo estrutural dos diferentes materiais nas diferentes coleções. Tramas sociais que determinam processos de eleição e/ou descarte dos objetos como fonte documental e as normas culturais de conservação. critérios de intervenções dos conservadores - restauradores sobre diferentes óticas sociais. Análise das técnicas tradicionais e comtemporâneas de conservação e restauro de documentos gráficos. Teoria e prática, acondicionamentos, montagem e molduras.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "4º Período": [
+     {
+      "Codigo": "BAH223",
+      "Nome": "Arte Plástica no Brasil I",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das artes visuais no Brasil do período colonial ao século XVIII e sua relação com o panorama artístico europeu no período.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH248",
+      "Nome": "Conserv Restaur de Obr Pap II",
+      "Créditos": "9.0",
+      "Teórica": "30",
+      "Prática": "210",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Abordagem teórico-prática das metodologias de preservação, conservação e restauração de conjuntos patrimoniais e de acervos (gráficos e bibliográficos). Museus, bibliotecas e Arquivos. Conservação de Coleções. Tratamentos de Conservação e Restauração de obras de arte e acervo documental sobre papel nas suas fases avançadas que incluem tratamentos  mais envasivos e decisões estéticas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAH238"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAB220",
+      "Nome": "Metodologia da Pesquisa",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conhecer os pressupostos que caraterizam o trabalho científico; conhecer o significado e os limites dos métodos e técnicas de investigação; iniciar-se no trabalho reflexivo, ordenado e crítico.\n__BIBLIOGRAFIA BÁSICA__\n1) BARROS, Aidil de Jesus Paes de. Projeto de pesquisa: propostas metodológicas. Rio de Janeiro: Vozes. 2013.\n2) JAGODZINSKI, Jan. Arts-based research: a critique and a proposal. 2013. Disponível em: https://link.springer.com/book/10.1007%2F978-94-6209-185-6.\n3) REA, Louis M. Metodologia de pesquisa: do planejamento à execução. São Paulo: Pioneira 2000.\n__BIBLIOGRAFIA COMPLEMENTAR__\n1) BOSHI, Caio. Fontes Primárias para a História de Minas Gerais em Portugal.\n2) CARVALHO, Anésia de Souza. Metodologia da entrevista: uma abordagem fenomenológica. Rio de Janeiro: Agir Ed., 2007.\n3) ECO, Humberto. Como se faz uma tese. São Paulo: Perspectiva. 2009.\n4) LUDORF, Sílvia Maria Agatti. Metodologia da pesquisa: do projeto ao trabalho de conclusão de curso. Curitiba: Appris, 2017.\n5) MARCONI, Marina de A. Metodologia do trabalho científico: procedimentos básicos, pesquisa bibliográfica, projeto e relatório, publicações e trabalhos científicos. Rio de Janeiro: 2007.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH224",
+      "Nome": "História das Artes Plástic III",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das artes visuais no século XIX na Europa, o neoclassicismo e os principais movimentos do período.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAH211"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH249",
+      "Nome": "Conservação Preventiva-cr",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "As principais ações dos fatores ambientais, biológicos e fisico-químicos que atuam na deterioração dos bens culturais móveis, bem como normas internacionais aceitas para salvaguarda de acervos artísticos e culturais.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "5º Período": [
+     {
+      "Codigo": "BAH304",
+      "Nome": "Admin de Empr de Conser e Rest",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "As modalidades de empresas que o conservador/restaurador pode constituir. Administrar seu próprio negócio dentro do universo da conservação e da prestração. O mercado de arte onde o futuro conservador pode atuar em suas várias possibilidades de desenvolvimento administrativo. Legislação, contabilidade, técnicas de marketing e de estratégia empresarial para o mercado de arte.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH312",
+      "Nome": "Arte Plástica no Brasil II",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo da arte no Brasil no século XIX e sua relação com o contexto cultural artístico europeu no período.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAH223"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH300",
+      "Nome": "Conserv e Rest Esculturas I",
+      "Créditos": "9.0",
+      "Teórica": "30",
+      "Prática": "210",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Consevação e reutaro de esculturas e relevos decorativos, poli-cromados ou douradas, feitos em pedra mármore, terra cota e gesso.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH311",
+      "Nome": "História das Artes Plástica IV",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das artes visuais no século XX na Europa e seus desdobramentos e os reflexos da sociedade industrial na criação artística.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAH224"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "6º Período": [
+     {
+      "Codigo": "BAH301",
+      "Nome": "Conserv e Rest Esculturas II",
+      "Créditos": "9.0",
+      "Teórica": "30",
+      "Prática": "210",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conservação e restauro de esculturas e relevos decorativos, poli-cromados ou dourados, feitos em madeira e metais além de materiais contemporâneos como polímeros sintéticos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAH300"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH323",
+      "Nome": "Arte Plástica no Brasil III",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das artes visuais no Brasil no século XX no contexto cultural brasileiro e da modernidade européia. Análise dos movimentos artísticos contemporâneos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAH312"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH250",
+      "Nome": "Legislação e Cartas Patrim-cr",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O conceito de normalização formal da prática de conservação e restauração e as cartas patrimoniais e a legislação que delas decorre consoliodando o conhecimento da legislação brasileira relacionada a Patrimônio Artístico e Cultural.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH322",
+      "Nome": "História das Artes Plásticas V",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo da arte contemporânea e seus aspectos plurais; as principais correntes artísticas da contemporaneidade, suas obras e artistas mais significativos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAH311"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "7º Período": [
+     {
+      "Codigo": "BAH479",
+      "Nome": "História Ética Estéti Restauro",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A trajetória histórica das teorias e das práticas de restauração e as cartas patrimoniais nacionais e internacionais.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH477",
+      "Nome": "Conserv e Restauro de Pintu I",
+      "Créditos": "9.0",
+      "Teórica": "30",
+      "Prática": "210",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Os métodos de conservação e restauro de pinturas feitas com tintas a óleo e temperas sobre telas, madeira e aglomerados de madeira e outros suportes.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAHU02",
+      "Nome": "Estágio Supervisionado",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "120",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estágio com atividade prática nas áreas de Conservação e Restauração e áreas afins, para colocar o graduando em contato com o campo de atividades relativas ao curso e suas especificidades metodológicas, práticas e conceituais.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "8º Período": [
+     {
+      "Codigo": "BAHX03",
+      "Nome": "Projeto Final de Curso",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "120",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Projeto Final de pesquisa, trabalho prático/teórico versando sobre um trabalho de conservação/restauração em escultura, papel ou pintura. Redação do texto da monografia sob a supervisão de professor orientador. Apresentação do trabalho sob forma de dissertação com defesa oral.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH400",
+      "Nome": "Conserv e Restauro de Pintu II",
+      "Créditos": "9.0",
+      "Teórica": "30",
+      "Prática": "210",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "As técnicas de conservação e restauro de pinturas feitas com tinta a óleo e temperas sobre madeira e polímeros sintéticos sobre tela e madeira. Suportes e tintas diversas associados à arte contemporânea.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAH477"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "Disciplinas Optativas (Escolha Restrita)": [
+     {
+      "Codigo": "BAH481",
+      "Nome": "Tóp Esp- Arte Contemporânea I",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Tópicos especiais de história, teoria e estudos temáticos em arte. com enfoque em arte contemporânea.\n___ BIBLIOGRAFIA BÁSICA ___\n1) ARGAN, Giulio Carlo. Arte e crítica da arte. Lisboa: Estampa, 1988.\n2) _________; FAGIOLO, Maurizio. Guia de história da arte. Lisboa: Estampa, 1994.\n3) BAZIN, Germain. História da História da Arte. São Paulo: Martins Fontes, 1989.\n4) VENTURI, Lionello. História da crítica de arte. Lisboa: Martins Fontes, 1984.\n5) ZANINI, Walter (Coord.). História geral da arte no Brasil. São Paulo: Instituto Walther Moreira Salles, 1983. 2v.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAH483",
+      "Nome": "Tóp Esp- Museu Galer e Ateliês",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Tópicos especiais em História e Teoria da Arte. Estudo de questões de museologia e museografia, principais procedimentos de montagem de exposições; organização e funcionamento de ateliês de artistas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAH486",
+      "Nome": "Tóp Esp- Artes Visuais I",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Tópicos especiais de história, teoria e estudos temáticos em arte, com enfoque em artes visuais.\n___ BIBLIOGRAFIA BÁSICA ___\n1) ARGAN, Giulio Carlo. Arte e crítica da arte. Lisboa: Estampa, 1988.\n2) _________; FAGIOLO, Maurizio. Guia de história da arte. Lisboa: Estampa, 1994.\n3) BAZIN, Germain. História da História da Arte. São Paulo: Martins Fontes, 1989.\n4) VENTURI, Lionello. História da crítica de arte. Lisboa: Martins Fontes, 1984.\n5) ZANINI, Walter (Coord.). História geral da arte no Brasil. São Paulo: Instituto Walther Moreira Salles, 1983. 2v.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAH491",
+      "Nome": "Tóp Esp- Artes Visuais II",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Tópicos especiais de história, teoria e estudos temáticos em arte, com enfoque em artes visuais.\n___ BIBLIOGRAFIA BÁSICA ___\n1- ARGAN, Giulio Carlo. Arte e crítica da arte. Lisboa: Estampa, 1988.\n2- _________; FAGIOLO, Maurizio. Guia de história da arte. Lisboa: Estampa, 1994.\n3-BAZIN, Germain. História da História da Arte. São Paulo: Martins Fontes, 1989.\n4-VENTURI, Lionello. História da crítica de arte. Lisboa: Martins Fontes, 1984.\n5- ZANINI, Walter (Coord.). História geral da arte no Brasil. São Paulo: Instituto Walther Moreira Salles, 1983. 2v.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAH480",
+      "Nome": "Tóp Esp- Arte no Brasil",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Tópicos especiais de História e Teoria da Arte. Estudos das questões relativas aos processos de expressão e representação e suas imbricações nas artes visuais na sociedade brasileira.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAH482",
+      "Nome": "Tóp Esp- Arte Contemporânea II",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Tópicos especiais de História e Teoria da Arte. A realidade das novas tecnologias e mídias contemporâneas na produção artística. A presença das novas abordagens pictóricas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAH485",
+      "Nome": "Tóp Esp- Princ Con Restauração",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Tópicos especiais de história e Teoria da Arte. A evolução do conceito de restauração e a história dos métodos de intervenção. Estudo das questões de conservação e restauração de obras de arte.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAH490",
+      "Nome": "Tóp Esp- Estet Teor Crít Arte",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Tópicos especiais de História e Teoria  da Arte. Estudos das questões relativas às teorias da arte e o campo da crítica, considerando os aspectos mais releventes da contemporaneidade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     }
+    ],
+    "Disciplinas Optativas (Escolha Condicionada)": [
+     {
+      "Codigo": "BAB411",
+      "Nome": "Gravura I",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A disciplina oferece um panorama prático e teórico dos procedimentos artesanais de reprodução de imagens. O aluno será convidado a realizar experiências de impressão e reprodução de imagens, tomando conhecimento de uma variedade de técnicas gráficas, e sendo convidado a realizar trabalhos coletivos e autorais a partir destes.\n",
+       "BibliografiaBasica": "1) A gravura brasileira na coleção Mônica e George Kornis. Rio de Janeiro: Caixa Cultural, 2007.\n2) DA SILVA, Orlando. A arte maior da gravura. São Paulo: edição Espade, 1976.\n3) Gravura brasileira hoje: depoimentos / coordenação Heloísa Pires Ferreira - Rio de Janeiro: SESC, 1995-1997.\n",
+       "BibliografiaComplementar": "1) CAVALCANTI, Newton; MASSON, Michel (org.) Newton Cavalcanti: lendas rústicas. Rio de Janeiro: Data Coop, 2012.\n2) EICHENBERG, Fritz. The art of print: masterpieces, history, techniques. New York: Harry N. Abrams, 1976.\n3) Gravura: arte brasileira do século XX. São Paulo: Itaú Cultural: Cosac Naify, 2000.\n4) Prefeitura da Cidade do Rio de Janeiro. Mostra Rio Gravura catálogo geral dos eventos. Rio de Janeiro: Rio Arte, 1999.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAH008",
+      "Nome": "Solventes e Solubilidade",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "1- Soluções (tipos e propriedades físico-químicas);\n2- Polaridade e as interações intermoleculares;\n3- Fenômenos envolvidos na ação de um solvente (evaporação, retenção e penetração);\n4- Parâmetros de solubilidade (Hildebrand, Hansen, Teas);\n5- Sistemas de limpeza (Wolbers, géis, surfactantes, agentes quelantes);\n6- Adesivos e consolidantes.\n___Bibliografia Recomendada___\n1- Figueiredo Junuir, João Cura D'ars. Química aplicada à Conservação e Restauração: Uma introdução. Belo Horizonte: Editora São Jerônimo, 2012.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAH134",
+      "Nome": "Arte Contemporânea - Cr",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das técnicas de conservação e restauro de obras de arte feitas com os mais diversos materiais, sobre os mais diversos suportes. Instalações e outras especificidades.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAH369",
+      "Nome": "Cultura Brasileira",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Formação da cultura brasileira. Etnicidade. Culturas tradicionais, regionais, populares e urbanas no Brasil.\n___ BIBLIOGRAFIA BÁSICA ___\n1- CANDIDO, A. O significado de Raízes do Brasil (Prefácio). In: HOLANDA, S. B. de. Raízes do Brasil. 26.ed. São Paulo: Cia. das Letras, 1995.\n2- FREYRE, G. Prefácio. Casa-grande & senzala: formação da família brasileira sob o regime da economia patriarcal. São Paulo: Global, 2005.\n3- DAMATTA, R. Notas sobre o racismo à brasileira. In: SOUZA, J. (Org) Multiculturalismo e racismo: uma comparação Brasil - Estados Unidos. Brasília: Paralelo, 1997.\n4- MICELI, S. Intelectuais e classe dirigente no Brasil (1920-1945). São Paulo: Difel, 1979.\n5- ROCHA, J. C. de C. As origens e equívocos da cordialidade brasileira. In: ___. O exílio do homem cordial. Rio de Janeiro: Editora do Museu Nacional, 2004.\n___ BIBLIOGRAFIA COMPLEMENTAR ____\n1- CANDIDO, A. Dialética da malandragem. Revista do Instituto de Estudos Brasileiros, São Paulo, v.8, p.67-89, 1970.\n2- FERNANDES, F. A integração do negro na sociedade de classes. São Paulo: Ática, 1978.\n3- HOLANDA, S. B. de. Raízes do Brasil. 26.ed. São Paulo: Cia. das Letras, 1995.\n4- ROMERO, S. Estudos sobre a poesia popular do Brasil. 2.ed. Petrópolis: Vozes, 1977.\n5- WISNIK, J. M. Veneno remédio: o futebol e o Brasil. São Paulo: Cia. das Letras, 2008.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAH475",
+      "Nome": "Mercado de Arte",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A obra de arte como objeto de análise da ciência econômica, possibilitando uma reflexão em termos de produção e consumo. Dimensão econômica da arte. Mercado e investimento de arte no Brasil.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAH367"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAI423",
+      "Nome": "Serigrafia I",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Emprego artistico e industrial; planejamento do desenho; montagem dos chassis; processos primitivos; filme de corte; impressao monocromatica; processo fotografico; sensibilizacao da tela; montagem da linha de impressao; impressao em diversos suportes; varias cores; recuperacao das telas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV121",
+      "Nome": "Fotografia I",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Teoria fotográfica, a câmera, estruturação da imagem; introdução ao laboratório fotográfico.\n___Bibliografia Recomendada___\n1) ADAMS,Ansel.The Camera, New York: Litle, Brown and Company, 1991. Existe edição do SENAC SP.\n2) ____, Ansel. The Negative, New York:Litle, Brown and Company, 1991. Existe edição do SENAC SP.\n3) ____, Ansel. The Print, New York: Litle, Brown and Company, 1991. Existe edição do SENAC.\n4) SPGOLDBERG, Vicki. Photography in Print, Alburquerque: University New Mexico Press, 1988Catálogo da XXV Bienal de São Paulo, Iconografias Metropolitanas. São Paulo, 2002.\n5)CARSON, D. , MEGGS P. : Fotografiks, David Carson, Corte Madera: Gingko Press, 2000.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAWZ62",
+      "Nome": "Ativ Curricular Extensão II",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "0",
+      "Extensão": "90",
+      "Informação": {
+       "Info": "Atuação em atividades registradas na Pró-reitoria de Extensão da UFRJ, como programas, projetos, cursos de extensão e eventos, coordenados por docentes do quadro permanente ou técnicos de carreira de nível superior na UFRJ.\n___Bibliografia Recomendada___\nBibliografia recomendada pelo coordenador da atividade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAWZ67",
+      "Nome": "Ativ Curricular Extensão VII",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "0",
+      "Extensão": "60",
+      "Informação": {
+       "Info": "Atuação em atividades de extensão registradas na Pró-Reitoria de Extensão da UFRJ, como programas, projetos, cursos de extensão e eventos, coordenados por docentes do quadro permanente ou técnicos da carreira de nível superior na UFRJ. Para eventos, a\natuação deverá ser na organização ou na realização do evento. Para cursos, a atuação deve ser na organização ou ministrando aulas.\n___BIBLIOGRAFIA BÁSICA___\nBibliografia recomendada pelo coordenador da atividade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAB113",
+      "Nome": "Litografia A.",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Teoria e pratica da arte litografica monocromica.\n13. BIBLIOGRAFIA BÁSICA\n1) IHA, Kazuo; PEDROSA, Patrícia. Oficina de Litografia. Rio de Janeiro: Rio Books, 2020.\n2) DA SILVA, Orlando. A arte maior da gravura. São Paulo: Espade: 1976.\n3) PEDROSA, Patrícia Figueiredo. Maria Bonomi com a gravura: do meio como fim ao meio como princípio / . Rio de Janeiro : Rio Books, 2021.\n",
+       "BibliografiaBasica": "1) ANTEASIAN, Garo Z. The Tamarind Book of Lithography: Art and Techniques, Harry N. Abrams Inc. Publishers; 1St Edition edition (January 1, 1971).\n2) CANTON, Katia. Gravura aventura. São Paulo: Universo, 2011.\n3) TERRA, Fernanda. Mestres da gravura / . Rio de Janeiro : Artepadilla : Fundação Biblioteca Nacional, 2013.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAB511",
+      "Nome": "Gravura II",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A disciplina busca aprofundar as experiências dos alunos com os procedimentos de gravura. Os estudantes serão convidados a desenvolverem projetos individuais, explorando um ou mais procedimento de reprodução de imagens. Tem como objetivo convidar o estudante a explorar seu repertório poético, munindo-o de instrumentos\ntécnicos que o possibilitarão aprofundar sua pesquisa artística nos meios de reprodução de imagens.\n",
+       "BibliografiaBasica": "1) FERREIRA, Heloisa Pires. Gravura brasileira hoje: depoimentos. SESC Regional do Rio de Janeiro.1995\n2) Oswaldo Goeldi: desenhos, matrizes e gravuras - Rio de Janeiro: Museu Nacional de Belas Artes, 2008.\n3) CARDOSO, Rafael (org.). O design antes do design: aspectos da história gráfica 1870 - 1960. São Paulo: Cosac & Naify, 2005.\n",
+       "BibliografiaComplementar": "1) TERRA, Fernanda. Mestres da Gravura. Rio de Janeiro: Artepadilha; Fundação Biblioteca Nacional, 2013.\n2) HONNEF, Klaus. Andy Warhol 1928-1987: a comercialização da arte. Koln: Benedik Taschen, 1992.\n3) JOHNSON, William Harding. The Graphic Arts. New York: The MacMillan Company, 1942.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAB411"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAH132",
+      "Nome": "Aquarela - Cr",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo dos meios técnicos de expressão e análise teórico-práticas da representação figurativa e abstrata. Observação das estruturas construtivas e compositivas, com o objetivo de aplicação junto às técnicas de restauração e conservação.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAH307",
+      "Nome": "Reintegração Cromática - Cr",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das técnicas de pontilhismo e trattegio. Estudo das cores promárias, secundárias e terciárias. Aplicação das técnicas nas obras com objetivo de restaurar baseando-se nos teóricos clássicos e modernos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAH473",
+      "Nome": "Serv Museológicos e Curadoria",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conhecimentos teórico-práticos para concepção e montagem de exposições.  Morfologia de espaços expositivos.  Concepção de exposições e projetos museológicos / museográficos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAH489",
+      "Nome": "Sem Curadoria e Montag Eventos",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "As diferentes etapas de montagem de exposições e a importância do curador para a realização de eventos artísticos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAR481",
+      "Nome": "Ed Ambiental-preserv de Bens C",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Convenções adotadas (regulamentações de leis e procedimentos técnicos) para preservação de bens culturais, relacionados ao meio ambiente.\n___ BIBLIOGRAFIA RECOMENDADA ___\n1- LEI Nº9.605, DE 12 DE FEVEREIRO DE 1998 - Dispõe sobre as sanções penais e administrativas derivadas de condutas e atividades lesivas ao meio ambiente.\n2- DECRETO-LEI Nº 25, DE 30 DE NOVEMBRO DE 1937 - Organiza a proteção do patrimônio histórico e artístico nacional.\n3- INSTITUTO DO PATRIMÔNIO HISTÓRICO ARTÍSTICO NACIONAL. Cartas Patrimoniais. Brasília: IPHAN, 1995.\n4- Cadernos Técnicos IPHAN - publicações on line - http://portal.iphan.gov.br/- publicações.\n5- Manuais IPHAN - publicações on line - http://portal.iphan.gov.br/- publicações\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAWZ61",
+      "Nome": "Ativ Curricular Extensão I",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "0",
+      "Extensão": "60",
+      "Informação": {
+       "Info": "Atuação em atividades registradas na Pró-reitoria de Extensão da UFRJ, como programas, projetos, cursos de extensão e eventos, coordenados por docentes do quadro permanente ou técnicos de carreira de nível superior na UFRJ.\n___Bibliografia Recomendada___\nBibliografia recomendada pelo coordenador da atividade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAWZ66",
+      "Nome": "Ativ Curricular Extensão VI",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "0",
+      "Extensão": "45",
+      "Informação": {
+       "Info": "Atuação em atividades de extensão registradas na Pró-Reitoria de Extensão da UFRJ, como programas, projetos, cursos de extensão e eventos, coordenados por docentes do quadro permanente ou técnicos da carreira de nível superior na UFRJ. Para eventos, a\natuação deverá ser na organização ou na realização do evento. Para cursos, a atuação deve ser na organização ou ministrando aulas.\n___BIBLIOGRAFIA BÁSICA___\nBibliografia recomendada pelo coordenador da atividade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEB599",
+      "Nome": "Est da Líng Bras de Sinais I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Nomes próprios; pronomes pessoais; demonstrativos; possessivos; locativos em sentenças simples do tipo pergunta-resposta com \"o que\" e \"quem\" e outros vocábulos básicos; numerais; quantidade; topicalização; flexão verbal; flexão de negação; expressões faciais e corporais; percepção visual; conversação; diálogos; textos: LIBRAS, cultura e comunidade surda.\n",
+       "BibliografiaBasica": "1) BRITO, L. F. Por uma gramática de língua de sinais. Rio de Janeiro: Tempo Brasileiro, 1995.\n2) FELIPE, T.; MONTEIRO, M. S. LIBRAS em contexto. Curso Básico. Brasília: Ministério da Educação e do Desporto/Secretaria de Educação Especial, 2001.\n3) GESSER, A. Libras - Que língua é essa? Crença e preconceitos em torno da língua de sinais e da realidade surda. Florianópolis: Parábola, 2009.\n4) STROBEL, K. L. As imagens do outro sobre a cultura surda. Florianópolis: EdUFSC, 2008.\n",
+       "BibliografiaComplementar": "1) PIMENTA, Nelson e QUADROS, Ronice Muller. Curso de Libras I, LSB Vídeo, volume I, Iniciante, 2006 e 3a ed., 2008.\n2) Dicionário Enciclopédico Ilustrado Triíngue da Língua de Sinais Brasileira ? vol 1 e vol. 2 Site: www.acessobrasil.org.brasil\n3) Dicionário da Língua Brasileira de Sinais, INES, versão, 2.0, ano 2006.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     }
+    ]
+   },
+   "obrigatorias": 37,
+   "eletivas": 27,
+   "ano": "2010/1 a 2019/1"
+  },
+  {
+   "materias": {
+    "1º Período": [
+     {
+      "Codigo": "BAP100",
+      "Nome": "Desenho I- Cr",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Fundamentos do Desenho entre representação e raciocínio abstrato: Valor tonal e composição, noções básicas de perspectiva, exploração de\ngestos gráficos e criação de volume e profundidades através de massas e blocos tonais.\n___BIBLIOGRAFIA BÁSICA___\n1) DREWES, Frank. Grammatical picture generation. NY: Ed Springer, 2002 Disponível em :https://link.springer.com/book/ 10.1007%2F3-540-32507-7.\n2) MUSEU NACIONAL DE BELAS ARTES [Brasil]. Universo acadêmico: desenho brasileiro do século XIX da coleção do Museu Nacional de Belas Artes. Rio de Janeiro: [s.n.], 1989. 56 p., il\n3) OSTROWER, Fayga. Criatividade e processos de criação. Rio de Janeiro: Ed Vozes, 1977.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) CASCAES, Franklin. Franklin Cascaes : desenhos, esculturas. Santa Catarina: Ed. Museu Histórico de Santa Catarina,2010.\n2) DOYLE, Michael E. Desenho a cores : técnicas de desenho de projeto para arquitetos, paisagistas e designers de interiores. 2002\n3) PENTEADO, José Arruda. Curso de desenho : técnicas de artes plásticas e aplicadas. 1970\nPEDROSA, Israel. Da Cor à Cor Inexistente. São Paulo: Ed. Senac, 1982.\nSILVEIRA, Luciana Martha. Introdução à teoria da cor. Paraná: Ed UFPR, 2011.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 12:00",
+        "professor": "RAFAEL BTESHE"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAP131",
+      "Nome": "Introdução às Ciências I",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Classificação periódica dos elementos; Estrutura da matéria; Teoria eletrônica das ligações químicas; Estrutura de compostos orgânicos e inorgânicos: íons e moléculas. Hibridização de carbonos: sp3, sp2 e sp; Orbitais atômicos e moleculares.\n___ BIBLIOGRAFIA BÁSICA ___\n1) BRADY, J. E.; HUMISTON, G. E. Química Geral, vol. 1 (2a edição, 1995), LTC.\n2) BRADY, J. E.; HUMISTON, G. E. Química Geral, vol. 2 (2a edição, 1995), LTC.\n3) ATKINS, Peter William; JONES, Loretta. Princípios de química: questionando a vida moderna e o meio ambiente. Porto Alegre: Bookman, 2012.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) DOMINGUEZ, Servulo Folgueras. Classificação periódica dos elementos Rio de Janeiro: Editora IBECC, 1975.\n2) JONES, D. G. Introdução à tecnologia química: aplicações de princípios básicos em pesquisa e desenvolvimento de processo. São Paulo: Ed Edgard Blucher, 1967.\n3) MAHAN, Bruce M.; MYERS, Rollie J. Um Curso Universitário. 1995. 1ª edição.\n4) SANTOS FILHO, Pedro Faria. Estrutura atômica e ligação química. 2000.\n45 TRO, Nivaldo J. Química: uma abordagem molecular, Editora: LTC; Edição: 3, 2014.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 12:00",
+        "professor": "DANIEL LIMA MARQUES DE AGUIAR"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAPX04",
+      "Nome": "Atividades Complementares",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "120",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Atividades que constituam um campo de conhecimentos cujos eixos estarão integrados às várias áreas de conhecimento do curso, tais como: participação em simpósios, congressos, projetos de extensão, curadorias, montagem de exposições, produção cultural.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sab",
+        "hora": "18:00 - 20:00",
+        "professor": "Não Informado"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH101",
+      "Nome": "História da Arte I",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo do fenômeno e da representações artísticas da Pré-História ao Século XIV, em seus aspectos conceituais, históricos e culturais. Do Paleolítico ao Gótico.\n___BIBLIOGRAFIA BÁSICA___\n1- ARGAN, Giulio Carlo. História da arte italiana. Da Antiguidade a Duccio. São Paulo: Editora Cosac e Naify, 2003.\n2- BELL, Julian. Uma nova história da arte. São Paulo: Editora Martins Fontes, 2008.\n3- JANSON, Horst Woldemar. História geral da arte (Vol. I): O Mundo Antigo e a Idade Média. São Paulo: Martins Fontes, 2001.\n4- WOODFORD, Susan. A arte de ver a arte. Rio de Janeiro: Zahar, 1983.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1- GOMBRICH. E.H. A História da arte. Rio de Janeiro: LTC, 2011.\n2- JANSON, H. W. História da arte. Lisboa: Fundação Calouse Gulbenkian,  1989.\n3- LISE, Giorgio. Como reconhecer a arte egípcia. Lisboa: Edições 70, 1985.\n4- SHAVER-CRANDELL, Anne. A idade média. Rio de Janeiro: Zahar, 1984.\n5- TARELLA, Alda. Como reconhecer a arte romana. Lisboa: edições 70, 1988.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "14:00 - 17:00",
+        "professor": "JANAINA NAGATA OTOCH"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAP103",
+      "Nome": "Técnicas de Pintura I",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Diversas técnicas de produção de pinturas ao longo da história da arte. Compreensão de como as obras de arte realizadas nas técnicas de pintura\nforam produzidas.\n___BIBLIOGRAFIA BÁSICA___\n1) WALLERT, Arie; HERMENS, Erma; PECK, Marja FJ. Historical Paitings Tecniques, Materials, and Studio Pratictive.Los Angels: Getty Conservation Institute, 1995. Disponível em:\nhttps://www.getty.edu/publications/resources/virtuallibrary/0892363223.pdf\n2) MOTTA, Edson, SALGADO, Maria Luiza Guimarães. Iniciação a pintura. Rio de Janeiro: Editora Nova Fronteira, 1976.\n3) MOTTA, Edson. Fundamentos para o estudo da pintura. Rio de Janeiro: Editora Civilização Brasileira, 1979.\n___Bibliografia Complementar___\n1) BOIS, Yve-Alain. A Pintura como Modelo. São Paulo: Martins Fontes Paulista Ed, 2009\n2) KANDINSKY, Wassily. Do Espiritual na Arte:e na Pintura em Particular. São Paulo: Ed Martins Fontes, 1990.\n3) MYERS, Terry R. Paintings. USA: Whitechapel Art Gallery, 2011.\n4) ROCHA, Cássia;  AMARANTE, Regina. (trad). Curso de desenho e pintura. São Paulo : Globo, 1985.\n5) PEREIRA, Walter Luiz. Óleo sobre tela, olhos para a história : memória e pintura histórica nas exposições gerais de belas artes do Brasil Império (1872 e 1879). Rio de Janeiro: Ed 7Letras, 2013.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 17:00",
+        "professor": "MILENA BARBOSA BARRETO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAP137",
+      "Nome": "Princípios da Cr",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução aos conceitos norteadores das teorias da Conservação e da Restauração. Considerações sobre a trajetória da Conservação e Restauração no Brasil.\n___ BIBLIOGRAFIA BÁSICA ___\n1) AVRAMI, Erica, MASON, Randall; MCDONALD, Susan; MYERS, David. Values in Heritage Mangement. Los Angeles: Getty Conservation Institute, 2019. Disponível em: https://www.getty.edu/publications/heritagemanagement/\n2) BRANDI, Cesare. Teoria da restauração. São Paulo: Ateliê Editorial.\n3) BOITO, Camilo. Os Restauradores. São Paulo: Ateliê Editorial. Coleção Artes & Ofícios.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) ANDRADE, Rodrigo Melo Franco de.Rodrigo e o SPHAN : coletânea de textos sobre patrimônio cultural, 1987.\n2) WARD, Phillip. The Nature of Conservation: A Race Against Time. Los Angels: Getty Conservation Institute, 1986. Disponível em:\nhttps://www.getty.edu/conservation/publications_resources/pdf_publications/pdf/nature_cons_en_full.pdf\n3) RUSKIN, John. A lâmpada da memória. São Paulo: Ateliê Editorial, 2008.\n4) SCHAEFFER, Terry T. Effects of Lights on Materials in Collections: Data on Photoflash and Related SOURCES, Los Angels: Getty Conservation Institute. 2001. Disponível em:\nhttps/www.getty.edu/publications/resources/virtuallibrary/0892366451.pdf\n5) SÁ, Ivan C. A formação de profissionais em conservação no Brasil, 2007.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 12:00",
+        "professor": "NEUVANIA CURTY GHETTI"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAWZ55",
+      "Nome": "Ativ Curricular Extensão - Cr",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "0",
+      "Extensão": "250",
+      "Informação": {
+       "Info": "Atuação em atividades de extensão registradas na Pró-Reitoria de Extensão da UFRJ, como programas, projetos, cursos de extensão e eventos, coordenados por docentes do quadro permanente ou técnicos de carreira de nível superior na UFRJ. Para eventos, a atuação deverá ser na organização ou na realização do evento. Para cursos, a atuação deve ser na organização ou ministrando aulas.\n___  BIBLIOGRAFIA BÁSICA ___\nBibliografia recomendada pelo coordenador da atividade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sab",
+        "hora": "13:00 - 15:00",
+        "professor": "Não Informado"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "2º Período": [
+     {
+      "Codigo": "BAP108",
+      "Nome": "Plastica I - Cr",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Experimentação prática tridimensional através de diversos materiais e estudo das diversas expressões artísticas/culturais: fundamentos e sua\nvisibilidade num percurso histórico. Utilização de argila/cerâmica, ceras, gessos, plastilina, papel, ossos, conchas, pedras, madeira, metal, vidro, cimento e diferentes tipos de plásticos.\n___ BIBLIOGRAFIA BÁSICA ___\n1) ARGAN, Giulio Carlo. Arte Moderna. São Paulo: Cia das Letras, 1992.\n2)Caixa Cultural, Brasil. Coleção de Escultura da República à contemporaneidade. Acervo do Museu Nacional de Belas Artes.\n3)VARELA, Elizabeth Catoia. Arte Concreta além da Europa: diálogos entre Brasil e Argentina através do MAM RJ. Tese de Doutorado. EBA/UFRJ, 2016. Disponível no SIBI em:\nhttp://objdig.ufrj.br/27/teses/881176.pdf\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) BANETTE, D. Artes com plásticos, São Paulo: Editora Érica, 1976.\n2) COSTA, Marcus de Lontra; SILVA, Raquel. Celeida Tostes. Rio de Janeiro: Memória Visual, 2014.\n3) WITTKOWER, Rudolf. Escultura. São Paulo: Ed. Martins Fontes, 1989.\n4) MARTINS, Carlos. Introdução ao conhecimento da gravura em metal. Rio de Janeiro: PUC, 1982.\n5) REIS, Daniel.Modelagens do barro : Muquém. Rio de Janeiro: Imprenta. 2015.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 17:00",
+        "professor": "MAURO FAINGUELERNT"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAP129",
+      "Nome": "Técnicas de Pintura II",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A disciplina pretende apresentar as diversas técnicas de produção de pinturas ao longo da história da arte, ao final do curso os alunos estarão capacitado a compreender como as obras de arte realizadas nas técnicas de pintura foram produzidas. Estas informações fundamentarão as bases do conhecimento para as disciplinas de conservação e restauração de pinturas.\n___BIBLIOGRAFIA RECOMENDADA___\n1) BARRETO, Lourdes. Oficina de pintura : materiais, fórmulas e procedimentos. 2011.Rio de Janeiro: Ed Rio Books, 2011.\n2) WALLERT, Arie; HERMENS, Erma; PECK, Marja FJ. Historical Paitings Tecniques, Materials, and Studio Pratictive. Los Angels: Getty Conservation Institute, 1995. Disponível em:\nhttps://www.getty.edu/publications/resources/virtuallibrary/0892363223.pdf\n3) MOTTA, Edson, SALGADO, Maria Luiza Guimarães. Iniciação a pintura. Rio de Janeiro: Editora Nova Fronteira, 1976.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) FAZENDA, Jorge M. R. Tintas e vernizes : ciência e tecnologia.São Paulo: Ed Blucher 1995.\n2) KANDINSKY, Wassily. Do Espiritual na Arte:e na Pintura em Particular. São Paulo: Ed Martins Fontes, 1990.\n3) MOREIRA, Altamir. A pintura mural de Amelo Lazzarini nas Igrejas da Quarta Colônia. 2001.\n4) PEREIRA, Walter Luiz. Óleo sobre tela, olhos para a história : memória e pintura histórica nas exposições gerais de belas artes do Brasil Império (1872 e 1879). Rio de Janeiro,  2013.\n5) RAMOS, Paula. Frantz : o ateliê como pintura, Editora do autor, 2011.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 17:00",
+        "professor": "MILENA BARBOSA BARRETO"
+       }
+      ],
+      "Requisitos": [
+       "BAP103"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH104",
+      "Nome": "História da Arte II",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das Artes Visuais nos Séculos XV ao XVII, em seus aspectos conceituais, históricos e historiográficos. Do Renascimento ao Neoclássico.\n___BIBLIOGRAFIA BÁSICA___\n1- ARGAN, Giulio Carlo. Clássico e anticlássico. São Paulo: Companhia das Letras, 1999.\n2- ARGAN, Guilio Carlo. Imagem e persuasão. São Paulo: Companhia das Letras, 2004.\n3- ARGAN, Guilio Carlo. História da arte italiana. São Paulo: Cosac & Naify, 2003. v. 2 e 3.\n4- BAETA, Rodrigo Espinha. Teoria do Barroco. Salvador: EDUFBA-PPGAU, 2012.\n5- JANSON, H.W. História da arte. 9ª ed. Lisboa: Fundação Calouste Gulbenkian, 2010.\n___BIBLIOGRAFIA COMPLEMENTAR____\n1- HAUSER, Arnold. História social da literatura e da arte. São Paulo: Martins Fontes, 2003.\n2- OLIVEIRA, Myriam Andrade Ribeiro de. O rococó religioso no Brasil. São Paulo: Cosac & Naify, 2003.\n3- PEVSNER, Nikolaus. Panorama da arquitetura ocidental. São Paulo: Martins Fontes, 19¬¬82.\n4- SILVA, Jorge Henrique Pais da. Estudos sobre o maneirismo. Lisboa: Imprensa Universitária, 1983.\n5- WÖLFFLIN, Heinrich. Renascença e Barroco. São Paulo: Editora perspectiva, 1989.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "14:00 - 17:00",
+        "professor": "MARCUS VINICIUS DE PAULA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAP128",
+      "Nome": "Desenho II - Cr",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Concepções do Desenho nas artes plásticas: Entendimento e elaboração do desenho como processo investigativo e linguagem. Estudo cromático.\n___BIBLIOGRAFIA BÁSICA___\n1) ABREU, Laura Maria Neves de. Oswaldo Goeldi: desenhos, matrizes e gravuras: acervo Museu Nacional de Belas Artes. Rio de Janeiro: [s.n.], 2008. 112 p., il color\n2) ROCHA, Cássia, AMARANTE, Regina. (tradução) Curso de desenho e pintura. São Paulo : Globo, 1985.\n3) DREWES, Frank. Grammatical picture generation. NY: Ed Springer, 2002 Disponível em:https://link.springer.com/ book/ 10.1007%2F3-540-32507-7.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) DOYLE, Michael E. Desenho a cores : técnicas de desenho de projeto para arquitetos, paisagistas e designers de interiores. 2002.\n2) SILVA, Renato. A arte de desenhar. São Paulo: Ed Criativo, 1967.\n3) PEDROSA, Israel. Da Cor à Cor Inexistente. São Paulo: Ed. Senac, 1982.\n4) PETER, Cris. O uso das cores. Marsupial Editora, 2014.\n5) SILVEIRA, Luciana Martha. Introdução à teoria da cor. Paraná: Ed UFPR, 2011.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 17:00",
+        "professor": "RAFAEL BTESHE"
+       }
+      ],
+      "Requisitos": [
+       "BAP100"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAP133",
+      "Nome": "Introdução às Ciências II",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Ácidos, bases e sais (orgânicos e inorgânicos); Soluções; Equilíbrio químico; Termodinâmica; Cinética química; Eletroquímica.\n___BIBLIOGRAFIA BÁSICA___\n1) ATKINS, Peter William; JONES, Loretta. Princípios de química : questionando a vida moderna e o meio ambiente. Porto Alegre: Bookman, 2012.\n2) BRADY, J. E.; HUMISTON, G. E.; Química Geral, vol. 1 (2a edição), Rio de Janeiro: Ed. LTC, 1995.\n3) BRADY, J. E.; HUMISTON, G. E.; Química Geral, vol. 2 (2a edição), Rio de Janeiro: Ed. LTC, 1995.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) JONES, D. G. Introdução à tecnologia química: aplicações de princípios básicos em pesquisa e desenvolvimento de processo. São Paulo: Ed Edgard Blucher.\n2) VANDERWERF, Calvin Anthony. Ácidos, bases e a química da ligação covalente, 1970.\n3) FORMOSINHO, Sebastião J .Cinética química : Estrutura molecular e reactividade química. 2003.\n4) TRO, Nivaldo J. Química : uma abordagem molecular, Rio de Janeiro: Ed. LTC, 2014.\n5) FOLMER-JOHNSON, Tore Nils Olof. Termodinâmica : teoria cinética, transmissão de calor. 1977.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 12:00",
+        "professor": "MILENA BARBOSA BARRETO"
+       }
+      ],
+      "Requisitos": [
+       "BAP131"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "3º Período": [
+     {
+      "Codigo": "BAP130",
+      "Nome": "Plastica II - Cr",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Experimentação prática tridimensional através de diversos materiais, e estudo das diversas expressões artísticas/culturais. Que tem seus\nfundamentos e sua visibilidade num percurso histórico, onde quase todos os materiais foram empregados pelo homem para a criação escultórica. Exemplificada na utilização da argila/cerâmica,\nceras, gessos, plastilina, papel, ossos, conchas, pedras, madeira, metal, vidro, cimento e diferentes tipos de plásticos.\n___BIBLIOGRAFIA BÁSICA___\n1) BENJAMIN, Walter. A obra de arte na era de sua reprodutibilidade técnica. São Paulo: Editora Brasiliense.\n2)MUSEU NACIONAL DE BELAS ARTES [Brasil]. Registro fotográfico de Marc Ferrez: da construção da Av. Rio Branco 1903-1906. Rio de Janeiro: [s.n.], 1982. 62 p., il.\n3) VARELA, Elizabeth Catoia. Arte Concreta além da Europa: diálogos entre Brasil e Argentina através do MAM RJ. Tese de Doutorado. EBA/UFRJ, 2016. Disponível no SIBI em:\nhttp://objdig.ufrj.br/27/teses/881176.pdf\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) COSTA, Marcus de Lontra; SILVA, Raquel. Celeida Tostes. Rio de Janeiro: Memória Visual.2014.\n2) GUEDES. Benedito. O plástico, Editora Érica, 1987.\n3) MUSEU DE ARTE BRASILEIRA. Plástico : formas e cores dos materiaIs sintéticos: Coleção Maria Pia Incutti - Napoli, 2002.\n4) WITTKOWER, Rudolf. Escultura. São Paulo: Ed. Martins Fontes, 1989.\n5) ARGAN, Giulio Carlo. Arte Moderna. São Paulo: Cia das Letras, 1992.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "MAURO FAINGUELERNT"
+       }
+      ],
+      "Requisitos": [
+       "BAP108"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAP206",
+      "Nome": "Introd Análise de Materiais I",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Fundamentos de Química Analítica. Espectro eletromagnético. Apresentação de diferentes métodos analíticos usados na conservação e restauração. Fundamentos de espectroscopias: FTIR, RAMAN, UV/Vis, XRF/PIXE.\nBibliografia Básica\n1) SKOOG, Douglas A. Princípios de análise instrumental. 5. ed. Porto Alegre: Bookman, 2002.\n2) DERRICK, Michele R., et al. Infrared Spectroscopy in Conservation Science. Los Angeles: Getty Conservation Institute, 1999. Disponível em:\nhttp://www.getty.edu/publications/virtuallibrary/0892364696.html.\n3) VARELLA, Evangelia A. (Org). Conservation Science for the Cultural Heritage. Applications of Instrumental Analysis. Heidelberg, Springer, 2013. Disponível:\nhttps://link.springer.com/book/10.1007/978-3-642-30985-4.\nBibliografia Complementar\n1) CHALMERS, John M, EDWARDS, H. G.M, HARGREAVES, M. D. Infrared and Raman spectroscopy in forensic science. 1a Ed. Wiley, 2012. Disponível em:\nhttps://onlinelibrary.wiley.com/doi/book/10.1002/9781119962328.\n2) CANEVAROLO JR., Sebastião, V. (coord.). Técnicas de caracterização de polímeros. São Paulo: Artiber, 2004.\n3) JOHNSTONFELLER, Ruth. Color Science in the Examination of Museum Objects: non destruticve procedures. Los Angeles: Getty Conservation Institute, 2002. Disponível em: https://www.getty.edu/conservation/publications_resources/pdf_publications/pdf/color_science.pdf.\n4) PAVIA, Donald L. Introdução à espectroscopia. 2. ed. São Paulo : Cengage Learning, 2016. Disponível em: https://cengage.proxy.ufrj.br/9788522123391.\n5) MAGDY, M. X-Ray Techniques Dedicated to Materials Characterization in Cultural Heritage. Chemistry Select, 2023, 8, e202301306. Disponível em: https://chemistry-europe.onlinelibrary.wiley.com/doi/epdf/10.1002/slct.202301306.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAP133"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAP238",
+      "Nome": "Conserv Restaur de Papel I",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conservar-restaurar: O quê, como e por quê? Documentação Gráfica. Papiro/pergaminho/Papel. Análise das técnicas tradicionais e\ncontemporâneas de conservação e restauração de documentos gráficos. Acondicionamento.\n___BIBLIOGRAFIA BÁSICA___\n1) OLIVEIRA, Lucia Maria Velloso de.(org). Gestão de Documentos e Acesso à Informação: desafios e diretrizes para as instituições de ensino e pesquisa. Rio de Janeiro: Fundação Casa de Rui Barbosa, 2015.\n2) SCHWEIDLER, Max. The restoration of engravings, drawings, lbooks and others works on paper; translated Roy Perkinson 2006. Disponível em:\nhttps://www.getty.edu/publications/resources/virtuallibrary/9780892368358.pdf\n3) VAILLANT CALLOL, Millagros. Biodeterioração do patrimônio histórico.  documental: alternativas para sua erradicação e controle, Rio de Janeiro: Museu de astronomia e Ciências Afins; Fundação Casa de Rui Barbosa, 2013.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) BRANDI, Cesare. Teoria da restauração. São Paulo: Ateliê Editorial, 2004.\n2) BELLOTTO, Heloísa Liberalli. Arquivos permanentes: tratamento documental. São Paulo: Editora T.A. Queiroz, 1991.\n3) BURGI, Sérgio. Banco de dados : materiais empregados em conservação-restauração de bens culturais. 1990.\n4) MENDES, Marylka. Conservação : conceitos e práticas. Rio de Janeiro: Ed UFRJ, 2001.\n5) JARDIM, José Maria. Sistemas e políticas públicas de arquivos no Brasil. Rio de Janeiro: Ed UFF, 1995.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 17:00",
+        "professor": "LUIZA BATISTA AMARAL"
+       }
+      ],
+      "Requisitos": [
+       "BAP128"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH201",
+      "Nome": "História da Arte III",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das Artes Visuais nos Séculos XIX ao XX, em seus aspectos conceituais, históricos e historiográficos. Do Romantismo às Vanguardas Históricas.\n___BIBLIOGRAFIA BÁSICA___\n1- ARGAN, Giulio Carlo. Arte Moderna. São Paulo: Cia das Letras, 2004.\n2- ARGAN, Guilio Carlo. A arte moderna da Europa: de Hogarth a Picasso. São Paulo: Cia. Das Letras, 2010.\n3- HAUSER, Arnold. História social da literatura e da arte. São Paulo: Martins Fontes, 2003.\n4- JANSON, H.W. História da arte. 9ª ed. Lisboa: Fundação Calouste Gulbenkian, 2010.\n5- PEVSNER, Nikolaus. Panorama da arquitetura ocidental. São Paulo: Martins Fontes, 19¬¬82.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1- FABRIS, Annateresa (org). O ecletismo na arquitetura brasileira. São Paulo: Edusp, 1987.\n2- GIEDION, Siegfried. Espaço, tempo e arquitetura: o desenvolvimento de uma nova tradição. São Paulo: Martins Fontes, 2004.\n3- KELLY, C. et alii. Século XIX: o romantismo. Rio de Janeiro: Museu Nacional de Belas Artes, 1979.\n4- REYNOLDS, Donald. A arte do século XIX. Rio de Janeiro: Zahar editores, 1986.\n5- PEVSNER, Nikolaus. Pioneiros do desenho moderno. São Paulo: Martins Fontes, 1995.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "14:00 - 17:00",
+        "professor": "CLARISSA DINIZ DE MOURA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAP200",
+      "Nome": "Fund Científicos da Cr I",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Química de esculturas: estrutura e propriedades de materiais pétreos (silicatos e carbonatos), estrutura e propriedades de metais (ligas metálicas e pátinas). Química de papéis: estrutura e propriedades da celulose, tinta ferrogálica, hidrólise catalisada por ácidos e bases de Lewis.\nBibliografia Básica\n1) DOEHNE, E. & PRICE, C. A. Stone Conservation. An Overview of Current Research, 2. ed., Getty Conservation Institute, Los Angeles: Getty Publications, 2010. Disponível em:\nhttps://www.getty.edu/publications/resources/virtuallibrary/9781606060469.pdf.\n2) MENDES, Marylka. Conservação: conceitos e práticas. Rio de Janeiro: Ed UFRJ, 2001.\n3) FLORIAN, Mary-Lou E., Kronkright, Dale Paul, Norton, Ruth E. The Conservation of Artifacts Made from Plant Materials, 1990. Disponível em\nhttps://www.getty.edu/publications/resources/virtuallibrary/0892361603.pdf.\nBibliografia Complementar\n1) MOTTA, Edson. O papel: problemas de conservação e restauração. Rio de Janeiro: Museu de Armas Ferreira da Cunha, 1971.\n2) FELLERS, Robert. Evaluation of cellulose ethers for\nconservation. Los Angels: Getty Conservation Institute, 1990. Disponível em: https://www.getty.edu/publications/resources/virtuallibrary/9781606060469.pdf.\n3) ALTENBACH, Frank (ed.) Translucent materials: glass, plastics, metals. Munich : Birkhäuser : Edition Detail, 2004.\n4) D'ALMEIDA, Maria Luiza Otero (coord.). Celulose e papel. São Paulo : SENAI, Departamento Regional de São Paulo Escola Theobaldo De Nigris : IPT, Centro Técnico em Celulose e Papel, 1981. 2v.\n5) REIGADA, Felipe et al. Metais: restauração e conservação. Rio de Janeiro : In-Fólio, 2009.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "10:00 - 12:00",
+        "professor": "MILENA BARBOSA BARRETO"
+       }
+      ],
+      "Requisitos": [
+       "BAP133"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAP225",
+      "Nome": "Normativas Patrimônio Cultural",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Trajetória histórica das teorias e das práticas de restauração e as cartas patrimoniais nacionais e internacionais. Conceito de normalização formal da prática de conservação e restauração e as cartas patrimoniais e a legislação que delas decorre consolidando o conhecimento da legislação brasileira relacionada a Patrimônio Artístico e Cultural.\n___BIBLIOGRAFIA BÁSICA___\n1) CHUVA, Márcia Regina Romeiro.Os Arquitetos da Memória: sociogênese das práticas de preservação do patrimônio cultural no Brasil (anos 1930-1940). Rio de Janeiro: Editora da UFRJ, 2009.\n2) CASTRO, Sônia Rabello. O Estado na preservação de bens culturais. Rio de Janeiro: Renovar, 1991. Disponível em:\nhttp://portal.iphan.gov.br/uploads/publicacao/SerRee_OTombamento_m.pdf.\n3) FONSECA, Maria Cecília Londres. O Patrimônio em Processo: trajetória da política federal de preservação no Brasil. Rio de Janeiro: Editora UFRJ, 2017.\nhttp://portal.iphan.gov.br/uploads/publicacao/SerRee_OTombamento_m.pdf.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) ANDRADE, Rodrigo M. F. Rodrigo e o SPHAN: coletânea de textos sobre patrimônio cultural. Rio de Janeiro: MEC/SPHAN, 1987.\n2) BOURDIEU, Pierre. O Poder Simbólico. Rio de Janeiro: Editora Bertrand, 2009.\n3) CHOAY, Françoise. A Alegoria do Patrimônio. São Paulo: UNESP, 2001.\n4) CURY, Isabelle (org). Cartas Patrimoniais. 3 ed. Rio de Janeiro: IPHAN, 2004.\n5) PAIVA, Carlos Magno de Souza. Direito do patrimônio cultural: compêndio da legislação brasileira. Ouro Preto: UFOP, 2011. Disponível\nem: www.editora.ufop.br/index.php/editora/catalog/view/25/14/51-1\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 10:00",
+        "professor": "MARCUS TADEU DANIEL RIBEIRO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAP479",
+      "Nome": "Ética e Estética da Cr",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A disciplina discutirá os procedimentos de conservação e restauração que estão diretamente ligados aos aspectos estéticos comprometidos com a ética da conservação.\n___BIBLIOGRAFIA BÁSICA___\n1) CHOAY, Françoise. A Alegoria do Patrimônio. São Paulo: UNESP, 2001.\n2) MARCONDES, Danilo. Textos básicos de ética : de Platão a Foucault. Ed Zahar, 2009.\n3) RIEGL, Alois. O Culto Moderno dos monumentos: sua essência , sua gênese. 2003.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) BRANDI, Cesare. Teoria da restauração. São Paulo: Ateliê Editorial.\n2) BRASIL. Proteção e revitalização do patrimônio cultural no Brasil: uma trajetória. Pró- Memória.1980.\n3) CHOAY, Françoise. O patrimônio em questão : antologia para um combate, 2011.\n4) CURY, Isabelle. Cartas Patrimoniais. Rio de Janeiro: IPHAN, 2000.\n5) MOTTA, Lia. A SPHAN em Ouro Preto: uma história de conceitos e critérios. Revista do Patrimônio. Histórico e Artístico Nacional, n. 22, p. 108-122, 1987. Disponível em: http://portal.iphan.gov.br/uploads/publicacao/RevPat22_m.pdf.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 10:00",
+        "professor": "MARCUS TADEU DANIEL RIBEIRO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "4º Período": [
+     {
+      "Codigo": "BAP248",
+      "Nome": "Conserv Restaur de Papel II",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Abordagem teórico/prática das metodologias de preservação, de conservação e de restauração de acervos (gráficos e bibliográficos). Patrimônio\nbibliográfico e arquivístico. Conservação de coleções: diagnóstico.\n___BIBLIOGRAFIA BÁSICA___\n1) CASTRO, Aloísio Arnaldo Nunes de. A trajetória da conservação-restauração de acervos em papel no Brasil. Juiz de Fora: Ed UFJF, FUNALFA, 2012.\n2) MOTTA, Edson. O papel : problemas de conservação e restauração. Rio de Janeiro: Museu Armas Ferreira da Cunha,1971.\n3) VAILLANT CALLOL, Millagros. Biodeterioração do patrimônio histórico documental: alternativas para sua erradicação e controle, Rio de Janeiro: Museu de astronomia e Ciências Afins; Fundação Casa de Rui Barbosa, 2013. Disponível em:http://www.mast.br/images/pdf/publicacoes_do_mast/livro_millagros_portugues.pdf.\n___BIBLIOGAFIA COMPLEMENTAR___\n1) BURGI, Sérgio. Banco de dados : materiais empregados em conservação-restauração de bens culturais. Rio de Janeiro: ABRACOR, 1990.\n2) SPINELLI, Junior, Jayme. Introdução à conservação de acervos bibliográficos : experiência da Biblioteca Nacional. Rio de Janeiro: BN, 1996.\n3) SCHWEIDLER, Max. The restoration of engravings , drawings, lbooks and others works on paper ; translated Roy Perkinson 2006. Disponível em:\nhttps://www.getty.edu/publications/resources/virtuallibrary/9780892368358.pdf.\n4) GUIMARÃES, Lygia; BECK, Ingrid. Conservação & restauração de documentos em suporte de papel. Rio de Janeiro: MAST, 2007.\n5) LUCCAS, Lucy. Conservar para não restaurar: uma proposta para preservação de documentos em bibliotecas. Brasília: Thesaurus, 1995.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 17:00",
+        "professor": "ANA PAULA CORREA DE CARVALHO"
+       }
+      ],
+      "Requisitos": [
+       "BAP238"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAP252",
+      "Nome": "Coleções Especiais",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "História das Coleções. Terminologia e conceitos. Coleções Especiais : questões éticas. Conservação das coleções e suas especificidades em bibliotecas, arquivos e museus.\n___BIBLIOGRAFIA BÁSICA___\n1) CHRISTO, Tatiana Ribeiro. Encadernação Flexível em pergaminho em obras restauradas na Biblioteca Nacional. Rio de Janeiro: Fundação Biblioteca Nacional.\n2) FIGUEIREDO, Nice Menezes de. Desenvolvimento & avaliação de coleções. Brasília: ABDF, 1993.\n3) VAILANT, Milagros Callol. Biodeterioração do patrimônio histórico documental: alternativas para sua erradicação e controle. Rio de Janeiro: MAST, 2013. Disponível em: http://www.mast.br/mages/pdf/publicacoes_do_mast/livro_millagros_portugues.pdf.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) BRASIL. Congresso. Câmara dos Deputados. Catálogo de obras raras da Biblioteca da Câmara dos Deputados : Brasil por escrito. 2004.\n2) CHOAY, Françoise. A Alegoria do Patrimônio. São Paulo: UNESP, 2001.\n3) DAILY, Jay Elwood. Organizing nonprint materials. 1986.\n4) GAUZ, Valeria. Segurança em Acervos Raros. Rio de Janeiro: Fundação Biblioteca Nacional, 1994.\n5) PEARCE, Susan. Museums, objects and collections: a cultural study. Washington; Smithsonian Institution Press, 1993.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 17:00",
+        "professor": "NEUVANIA CURTY GHETTI"
+       }
+      ],
+      "Requisitos": [
+       "BAP238"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH205",
+      "Nome": "História da Arte IV",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das Artes Visuais nos Séculos XX ao XXI, em seus aspectos conceituais, históricos e historiográficos. Do Entre Guerras à Contemporaneidade.\n___ BIBLIOGRAFIA BÁSICA ___\n1- ARGAN. Giulio Carlo. Arte Moderna. São Paulo: Companhia das Letras, 1993.\n2- COTRIM, Cecília; FERREIRA, Glória (orgs.). Escritos de Artista. Rio de Janeiro: Funarte & Jorge Zahar Editor, 2006.\n3- KRAUSS, Rosalind. Caminhos da Escultura Moderna. São Paulo: Martins Fontes, 1998.\n___ BIBLIOGRAFIA COMPLEMENTAR ___\n1- BATCHELOR, David. Minimalismo. São Paulo: Cosac & Naify Edições, 2001.\n2- BELTING, Hans. O fim da História da Arte. São Paulo: Cosacnaify, 2006.\n3- DANTO, Arthur. A transfiguração do lugar comum. São Paulo: Cosacnaify, 2007.\n4- HOLMES, Brian. Investigações Extradisciplinares: para uma nova crítica das instituições. Concinnitas.  Ano 9.  vol. 1, nº 12, 06-13, julho/2008.\n5- JAMESON, Fredric. Pós-Modernismo: a lógica cultural do capitalismo tardio. São Paulo: Ática, 1997.\n6- KRAUSS, Rosalind. Vídeo : a estética do narcisismo. Arte e Ensaios∕PPGAV-EBA, ano XV, nº16, 144-157,  2008.\n7- McCARTHY, David. Arte Pop. São Paulo: Cosac & Naify Edições, 2002.\n8- ODOHERTY, Brian. No Interior do Cubo Branco. São Paulo: Martins Fontes, 2007.\n9- TIBERGHIEN, Gilles. Cabanas. Revista Conccinnitas, ano 4,  n° 4, 227-242, março/2003.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "14:00 - 17:00",
+        "professor": "ALINE COURI FABIAO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAP251",
+      "Nome": "Fund Científicos Cr II",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Química em Pinturas: cromóforos, polímeros (aglutinantes e vernizes). Materiais utilizados. Solventes, adesivos e consolidantes.\n___BIBLIOGRAFIA BÁSICA___\n1) DI PAOLI, Marco-Aurelio. Degradação e estabilização de polímeros. São Paulo: Ed Artliber, 2009.\n2) FAZENDA, Jorge M. R. Tintas e vernizes: ciência e tecnologia. São Paulo: Ed Blucher 1995.\n3) STULIK et al, Dusan. Solvent gels for the cleaning of works of art: the residue question. Edited by Valerie Dorge, 2004. Disponível em:\nhttp://d2aohiyo3d3idm.cloudfront.net/publications/virtuallibrary/9780892367597.pdf.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) AKCELRUD, Leni; Fundamentos da ciência dos polímeros. São Paulo: Ed Manole, 2007.\n2) MANO, E. B. Introdução a polímeros. São Paulo: E. Blucher, 2004.\n3) MENEZES, Marco Antonio Magalhães de. Determinação de modelos cinéticos para resinas poliésteres. 2000.\n4) SELWITZ, , Thomas; et al. Modern Paints Uncovered: Proceedings from the Modern Paints Uncovered Symposium. Londres: Tate Modern. Disponível em\n//www.getty.edu/publications/resources/virtuallibrary/9780892369065.pdf.\n5) SELWIT, C. Epoxy Resins in Stone Conservation. Los Angels: Getty Conservation Institute, 1992. Disponível em:\nhttp://www.getty.edu/conservation/publications_resources/pdf_publications/epoxy_resins_in_stone.html\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAP133"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "5º Período": [
+     {
+      "Codigo": "BAP249",
+      "Nome": "Conservação Preventiva",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Composição química dos bens culturais. Fatores intrínsecos e extrínsecos de degradação (Físicos, Químicos e Biológicos). Monitoramento\ne controle dos agentes de deterioração. Gerenciamento de riscos.\n___BIBLIOGRAFIA BÁSICA___\n1) DORGE, Valerie and JONES, Sharon L. (org) Building na emergency plan: a guide for museums and other cultural institutions. Los Angeles: The Getty Publications, 1999. Disponível em:\nhttps://www.getty.edu/conservation/publications_resources/pdf_publications/pdf/emergency_plan.pdf.\n2) MENDES, Marylka. Conservação: conceitos e práticas. Rio de Janeiro: Editora UFRJ.\n3) PONTIM, Carolina et al (org). Gestão de Riscos do Patrimônio Musealizado Brasileiro. Rio de Janeiro: IBRAM, 2013.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) GRZYWACZ, Cecily M. Monitoring for gaseous pollutants in museum environments. Los Angels: The Getty Publications, 2006. Disponível em:\nhttps://www.getty.edu/publications/resources/virtuallibrary/0892368519.pdf.\n2) BECK, Ingrid. (org.). Caderno Técnico: planejamento e prioridades. Rio de Janeiro: Arquivo Nacional.\n3) FELLER, Robert L., Accelerated aging: photochemical and thermal aspects. Los Angeles: The Getty Publications, 1994. Disponível em:\nhttp://www.getty.edu/conservation/publications_resources/pdf_publications/pdf/aging.pdf.\n4) TRINKLEY, Michael. Considerações sobre preservação na construção e reforma de bibliotecas : planejamento para preservação. 2001.\n5) VAILANT, Milagros Callol. Biodeterioração do patrimônio histórico documental: alternativas para sua erradicação e controle. Rio de Janeiro: MAST, 2013. Disponível em:\nhttp://www.mast.br/images/pdf/publicacoes_do_mast/livro_millagros_portugues.pd\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 10:00",
+        "professor": "MILENA BARBOSA BARRETO"
+       }
+      ],
+      "Requisitos": [
+       "BAP133"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH502",
+      "Nome": "Arte no Brasil I",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das Artes Visuais no Brasil, desde antes da chegada dos europeus até o século XIX, em seus aspectos conceituais, históricos e historiográficos. Da arte ameríndia ao academicismo.\n___ BIBLIOGRAFIA BÁSICA ___\n1) ÁVILA, Afonso. Barroco: teoria e análise. São Paulo: Editora Perspectiva. Belo Horizonte: Companhia Brasileira de Metalurgia e Mineração, 1997.\n2) BARCINSKI, Fabiana Werneck (org.). Sobre a arte brasileira: da pré-história aos anos 1960. São Paulo: Martins Fontes: Ed. Sesc-SP, 2014.\n3) COLI, Jorge. Como estudar a arte brasileira do século XIX? São Paulo: Ed. Senac, 2005.\n4) OLIVEIRA, M. A. R.; PEREIRA, S. G.; LUZ, A. A. História da Arte no Brasil: textos de síntese. Rio de Janeiro: Editora da UFRJ, 2008.\n5) ZANINI, Walter (coord.). História geral da arte no Brasil. São Paulo: Instituto Walther Moreira Salles, 1983. 2 v.\n___ BIBLIOGRAFIA COMPLEMENTAR ___\n1) ALVIN, Sandra. Arquitetura religiosa colonial no Rio de Janeiro. Rio de Janeiro: Editora UFRJ/Minc - Iphan/Prefeitura da Cidade do Rio de Janeiro, 1999. 2 v.\n2) D'ARAÚJO, A. L. Arte no Brasil Colonial. Rio de Janeiro: Revan, 2000.\n3) LAGROU, Els. Arte indígena no Brasil. Belo Horizonte: C/Arte, 2007.\n4) OLIVEIRA, M. A. R. O rococó religioso no Brasil e seus antecedentes europeus. São Paulo: Cosac e Naify, 2003.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "10:00 - 13:00",
+        "professor": "MARCELO DA ROCHA SILVEIRA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAP300",
+      "Nome": "Conserv Restaur Escultura I",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "História, identificação e os lugares de bens culturais escultóricos. Estudos teórico-metodológicos de conservação e restauração de esculturas. Tratamento de suporte, da forma, de complementos e acabamentos de obras escultóricas em suporte de gesso e terracota.\n__BIBLIOGRAFIA BÁSICA__\n1) ANUÁRIO DO MUSEU NACIONAL DE BELAS ARTES: nova fase: Rio de Janeiro: Contra Capa, v.1, 2009.\n2) BRANDI, Cesare. Teoria da Restauração. São Paulo: Atelie Editorial, 2004.\n3) DOEHNE, Eric Ferguson. Stone conservation an overview of current research. Los Angeles: Getty Conservation Institute, 2010. Disponível em: https://www.getty.edu/publications/resources/virtuallibrary/9781606060469.pdf\n__BIBLIOGRAFIA COMPLEMENTAR__\n1) ALMEIDA, Frederico Faria Neves. Conservação de cantarias: manual. Brasília: IPHAN, 2005.\n2) BALTIERI, Rosana Rocha. História e Técnicas de Conservação e Restauração de obras clássicas em gesso. Bahia: Ed. UFBA, 2021.\n3) FERRUZA, Maria Lucia. Ancient Terracottas. Los Angeles: Getty Conservation Institute, 2016. Disponível:em: www.getty.edu/publications/virtuallibrary/9781606061237.html\n4) IPHAN. Intervenções em bens culturais móveis e integrados à arquitetura: manual para elaboração de projetos. Brasília: IPHAN, 2019.\n5) STULIK et al, Dusan. Solvent gels for the cleaning of works of art: the residue question. Edited by Valerie Dorge, 2004. Disponível em:\nhttps://d2aohiyo3d3idm.cloudfront.net/publications/virtuallibrary/9780892367597.pdf\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 12:00",
+        "professor": "BENVINDA DE JESUS FERREIRA RIBEIRO"
+       }
+      ],
+      "Requisitos": [
+       "BAP130"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "6º Período": [
+     {
+      "Codigo": "BAP220",
+      "Nome": "Metodologia da Pesquisa",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Pressupostos característicos do trabalho científico. Significado e limites dos métodos e técnicas de investigação. Iniciação ao trabalho reflexivo, ordenado e crítico.\nBibliografia Básica\n1) ARIBONI, Sandro; PERITO, Rose. Guia prático para um projeto de pesquisa: exploratória  experimental descritiva. São Paulo : UNIMARCO, 2004.\n2) JAGODZINSKI, Jan. Arts based research: a critique and a proposal. 2013. Disponível em: https://link.springer.com/book/10.1007%2F978-94-6209-185-6.\n3) UNIVERSIDADE FEDERAL DO RIO DE JANEIRO. SISTEMA DE BIBLIOTECAS E INFORMAÇÃO. Manual para elaboração e normalização de trabalhos acadêmicos. 8. ed. Rio de janeiro: UFRJ/SiBI, 2023. https://drive.google.com/file/d/1IfNy51_qMf8cXEabOlm1U6zMXcH10FWL/view.\nBibliografia Complementar\n1) BOSHI, Caio César. Fontes primárias para a história de Minas Gerais em Portugal. Belo Horizonte: Conselho Estadual de Cultura de Minas Gerais, 1979.\n2) ECO, Humberto. Como se faz uma tese. São Paulo: Perspectiva. 1983.\n3) CARVALHO, Anésia de Souza. Metodologia da entrevista: uma abordagem fenomenológica. 2. ed. Rio de Janeiro: Agir Ed., 1991.\n4) LUDORF, Sílvia Maria Agatti. Metodologia da pesquisa: do projeto ao trabalho de conclusão de curso. Curitiba: Appris, 2017.\n5) MARCONI, Marina de A. Metodologia do trabalho científico: procedimentos básicos, pesquisa bibliográfica, projeto e relatório, publicações e trabalhos científicos. 8. ed. São Paulo: Atlas. 2017.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 15:00",
+        "professor": "NEUVANIA CURTY GHETTI"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH503",
+      "Nome": "Arte no Brasil II",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das Artes Visuais no Brasil nos séculos XX e XXI, em seus aspectos conceituais, históricos e historiográficos. Dos diferentes modernismos à arte contemporânea brasileira.\n___ BIBLIOGRAFIA BÁSICA ___\n1-) AMARAL, Aracy. Arte para quê? A preocupação social na arte brasileira, 1930-1970 [1984]. 2ª ed. São Paulo: Nobel, 1987.\n2) BASBAUM, Ricardo (org.). Arte Contemporânea Brasileira: texturas, dicções, ficções, estratégias. Rio de Janeiro: Rio Ambiciosos, 2001.\n3) BRITO, Ronaldo. Neoconcretismo: vértice e ruptura do projeto construtivo brasileiro [1975/1985]. São Paulo: Cosac Naify, 1999.\n4) FERREIRA, Glória (org.). Crítica de arte no Brasil: temáticas contemporâneas. Rio de Janeiro: Funarte, 2006.\n5) ZÍLIO, Carlos. A querela do Brasil: a questão da identidade na arte brasileira: a obra de Tarsila, Di Cavalcanti e Portinari, 1922-1945. Rio de Janeiro: Funarte, 1982.\n___ BIBLIOGRAFIA COMPLEMENTAR ___\n1) AMARAL, Aracy (org.). Projeto construtivo brasileira na arte. 1950-1962. Rio de Janeiro: Museu de Arte Moderna. São Paulo: Pinacoteca do Estado, 1977.\n2) BRETT, Guy. Brasil experimental: arte/vida: proposições e paradoxos. Rio de Janeiro: Contra Capa, 2005.\n3) DUARTE, Paulo Sérgio. Anos 60: transformações da arte no Brasil. Rio de Janeiro: Campos Gerais, 1998.\n4) FABRIS, Annateresa (org.). Modernidade e modernismo no Brasil. Campinas: Mercado das Letras, 1994.\n5) MORAIS, Frederico. Artes Plásticas: a crise da hora atual. Rio de Janeiro: Paz e Terra, 1975.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "14:00 - 17:00",
+        "professor": "ANA DE GUSMAO MANNARINO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAP301",
+      "Nome": "Conserv Restaur Escultura II",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudos teórico-metodológicos de conservação e restauração de esculturas. Tratamento de suporte, da forma, de complementos e acabamentos de bens culturais escultóricos em suporte de madeira. Gestão de coleções. Manuseio, transporte, embalagem e acondicionamento de esculturas.\n__BIBLIOGRAFIA BÁSICA__\n1) ALVIM, Sandra Poleshuck de Faria. Arquitetura Religiosa Colonial no Rio de Janeiro as três fases. Rio de Janeiro: Editora UFRJ; FAPERJ, 2014.\n2) PODANY, David A. Scott, Jerrya and Considine, Brian B. Ancient & historic metals: conservation and scientific research. Los Angels: Getty Publications, 1994. Disponível em:\nhttps://www.getty.edu/publications/virtuallibrary/0892362316.html.\n3) QUITES, Maria Regina E. Escultura Devocional em madeira: reflexões sobre critérios de conservação-restauração /Maria Regina Emery Quites. Belo Horizonte : São Jerônimo, 2019.\n__BIBLIOGRAFIA COMPLEMENTAR__\n1) BASSETT, Jane. The craftsman revealed Adriaen de Vries, sculptor in bronze. Los Angeles: Getty Conservation Institute, 2008. Disponível em:\nhttps://www.getty.edu/conservation/publications_resources/books/adriaen_de_vries_bronze.html.\n2) GRZYWACZ, Cecily M. Monitoring for gaseous pollutants in museum environments. Los Angels: The Getty Publications, 2006. Disponível em: htpps://www.getty.edu/publications/resources/virtuallibrary/0892368519.pdf.\n3) SCOTT, David A. Copper and bronze in art: corrosion, colorants, conservation. Los Angels: Getty Publications, 2006. Disponível em :\nhttps://www.getty.edu/publications/resources/virtuallibrary/9780892366385.pdf.\n4) RIBEIRO, Rosina Trevisan M. Patrimônio Cultural e Preservação no Brasil: perspectivas interdisciplinares e narrativas contemporâneas. Rio de Janeiro. Programa de Pós Graduação em Arquitetura - Faculdade de Arquitetura e Urbanismo. PROAQ - FAU - UFRJ. Editora Paisagens Híbridas, 2020.\n5) TOLEDO, F. Museum Passive Buildings in Warm, Humid Climates. In The Getty Conservation Institute, 2007. Disponível em:\nhttps://www.getty.edu/conservation/our_projects/science/climate/paper_toledo.pdf.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 12:00",
+        "professor": "BENVINDA DE JESUS FERREIRA RIBEIRO"
+       }
+      ],
+      "Requisitos": [
+       "BAP300"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "7º Período": [
+     {
+      "Codigo": "BAP477",
+      "Nome": "Conserv Restaur de Pintura I",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Exames e diagnóstico de estado de conservação de pinturas, elaboração de proposta de tratamento. Tratamentos de distintos tipos de suportes(ênfase em pintura sobre tela e madeira), consolidação de camada pictórica em distintas técnicas (óleo, tempera, encáustica, acrílica, vinílica, alquídica, técnica mista).\n__BIBLIOGRAFIA BÁSICA__\n1) MOTTA JUNIOR, Edson. As quatro integridades:manual de procedimentos para o restauro de pintura. Rio de Janeiro: Ed Desalinho Publicações, 2018.\n2) MAURO, Fábio di; PELLICCIOTTA, Mirza (org). Edificações no Tempo: olhares sobre a conservação. São Paulo: Museu de arte Sacra de São Paulo, 2019.\n3) RICETTO, Ligia. Pintura: arte,técnica e história. São Paulo: IBEP, 2011.\n__BIBLIOGRAFIA COMPLEMENTAR__\n1)FAZENDA, Jorge M. R. Tintas e vernizes : ciência e tecnologia.São Paulo: Ed Blucher 1995.\n2) MOTTA, Edson; SALGADO, Maria Luiza Guimarães .Restauração de Pinturas - Aplicações da Encaústica. Brasília: IPHAN, 1973.\n3)LEARNER, Thomas; et al. Modern Paints Uncovered: Proceedings from the Modern Paints Uncovered Symposium. Londres: Tate Modern. Disponível em:\nhttps://www.getty.edu/publications/resources/virtuallibrary/9780892369065.pdf\n4)STULIK et al, Dusan. Solvent gels for the cleaning of works of art: the residue question. Edited by Valerie Dorge, 2004. Disponível em:\n://d2aohiyo3d3idm.cloudfront.net/publications/virtuallibrary/9780892367597.pdf\n5)THE GETTY CONSERVATION INSTITUTE AND J. PAUL GETTY MUSEUM. The structural conservation of panel paintings: proceedings of symposium at the J. Getty Museum. 24-April 1995. Edited by Kathleen Dardes and Andrea Rothe. 1998 Disponível em: https://www.getty.edu/publications/resources/virtuallibrary/0892363843.pdf\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 12:00",
+        "professor": "MARCIA DE MATHIAS RIZZO"
+       }
+      ],
+      "Requisitos": [
+       "BAP129"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAPX03",
+      "Nome": "Projeto Final de Curso",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "120",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Projeto Final de pesquisa, trabalho prático/teórico versando sobre um trabalho de conservação/restauração em escultura, papel ou pintura. Redação do texto da monografia sob a supervisão de professor orientador. Apresentação do trabalho sob forma de dissertação com defesa oral.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sab",
+        "hora": "15:00 - 17:00",
+        "professor": "Não Informado"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAP134",
+      "Nome": "Conserv Restaur Arte Contemp I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A disciplina é informativa e abordará o estudo das técnicas de conservação e restauração de arte contemporânea aplicadas a obras de suportes bidimensionais.\n",
+       "BibliografiaBasica": "ANTON, Katia. Do moderno ao contemporâneo. São Paulo: ed. WNF Martins Fonte, 2009.\nFIDELIS, Gaudêncio. Dilemas da matéria: procedimento, permanência e conservação em arte contemporânea. Porto Alegre: Museu de Arte Contemporânea do Rio Grande do Sul, 2002.\nMAGALHÃES, Ana G.; ARANTES, Priscila. (org) Paradoxo(s) da arte contemporânea: diálogos entre os acervos do MAC USP e do Paço das Artes São Paulo: Museu de Arte Contemporânea da Universidade de São Paulo, 2018. Disponível em: http://www.livrosabertos.sibi.usp.br/portaldelivrosUSP/catalog/view/465/419/1632-1.\n",
+       "BibliografiaComplementar": "CONWAY, Paul. Preservação no universo digital. Rio de Janeiro: Projeto Conservação Preventiva em Bibliotecas e Arquivo, 1997.\nLEARNER, Thomas; et al. Modern Paints Uncovered: Proceedings from the Modern Paints Uncovered Symposium. Londres: Tate Modern. Disponível em:\nhttps://www.getty.edu/publications/resources/virtuallibrary/9780892369065.pdf.\nHARRISON, Sylvia. Pop Art and the origins of post-modernism. Cambridge University Press. Disponível em: https://www.cambridge.org/core/books/pop-art-and-the-origins- of tmodernism/891E2BA54B2CB71F51BEDAF256FD7AF9.\nSTANGOS, Nikos (Org.). Conceitos da arte moderna. Rio de Janeiro: Jorge Zahar, 1991.\nTHE GETTY CONSERVATION INSTITUTE AND J. PAUL GETTY MUSEUM. Kieep it Moving? Conserving Kinetic Art. Los Angeles, 2016. Disponível em:\nps://www.getty.edu/publications/resources/virtuallibrary/9781606065365.pdf\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 17:00",
+        "professor": "HUMBERTO FARIAS DE CARVALHO"
+       }
+      ],
+      "Requisitos": [
+       "BAP300"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAPU02",
+      "Nome": "Estágio Supervisionado",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "120",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estágio com atividade prática nas áreas de Conservação e Restauração e áreas afins, para colocar o graduando em contato com o campo de atividades relativas ao curso e suas especificidades metodológicas, práticas e conceituais.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sab",
+        "hora": "15:00 - 17:00",
+        "professor": "Não Informado"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "8º Período": [
+     {
+      "Codigo": "BAP401",
+      "Nome": "Conserv Restaur Art Contemp II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A disciplina é informativa e abordará o estudo das técnicas de conservação e restauração de arte contemporânea aplicadas a obras tridimensionais, incluso instalações e performance.\n",
+       "BibliografiaBasica": "MACHADO, Arlindo. Arte e mídia. Rio de Janeiro: Zahar, 2007.\nSEHN, Magali Melleu. Entre resíduos e dominós: preservação de inatalações de arte no Brasil. Belo Horizonte: Editora C/Arte, 2014.\nTHE GETTY CONSERVATION INSTITUTE AND J. PAUL GETTY MUSEUM. Kieep it Moving ?: Conserving Kinetic Art. Los Angeles, 2016 . Disponível em:\nhttps://www.getty.edu/publications/resources/virtuallibrary/9781606065365.pdf\n",
+       "BibliografiaComplementar": "BATTCOCK, Gregory. A nova arte. São Paulo: Perspectiva, 1975.\nLEARNER, Thomas; et al. Modern Paints Uncovered: Proceedings from the Modern Paints Uncovered Symposium. Londres: Tate Modern. Disponível em: https://www.getty.edu/publications/resources/virtuallibrary/9780892369065.pdf\nMAGALHÃES, Ana G.; ARANTES, Priscila. (org) Paradoxo(s) da arte\ncontemporânea: diálogos entre os acervos do MAC USP e do Paço das Artes São Paulo: 2018 e Museu de Contemporânea da Universidade de São Paulo, 2018. Disponível em:\nhttps://www.livrosabertos.sibi.usp.br/portaldelivrosUSP/catalog/view/465/419/1632-1.\nMINISSALE, G. (2021). Ritmo na Arte, Psicologia e Novo Materialismo. Cambridge: Cambridge Universityess. Disponível em: https://www.cambridge.org/core/books/rhythm-in-artchology-and-new-materialism/D45505DF04A8B404030140C9E9F951CF.\nSOUSA JUNIOR. Mario. A Conservação da arte Contemporânea: da Imagem da Ruína à Ruína da Imagem. Belo Horizonte: Ed .C/arte, 2019.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 12:00",
+        "professor": "MILENA BARBOSA BARRETO"
+       }
+      ],
+      "Requisitos": [
+       "BAP134",
+       "BAP477"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAP400",
+      "Nome": "Conserv Restaur de Pintura II",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Tramentos de camada pictórica, limpeza de pinturas (óleo, temperas, encáustica, acrílica, vinílica, alquídica, técnica mista); remoção de repinturas,\nremoção e aplicação de vernizes; tratamento de lacunas, princípios de reintegração cromática (materiais, ética e estética).\n__BIBLIOGRAFIA BÁSICA__\n1) LEONARD, Mark. View Points:Thoughts about Paintings Conservation. Los Angeles: Getty Publications, 2003 . Disponível em: http://www.getty.edu/publications/virtuallibrary/0892366982.html\n2) MAYER, Ralph; SHEEHAN, Steven. Manual do artista de tecnicas e materiais. São Paulo: Martins Fontes, 1996. 838p.\n3) MOTTA, EDSON; BRASIL. Restauração de pinturas em descolamento. Rio de Janeiro: MEC, 1969. [40]p. de estampas.\n__BIBLIOGRAFIA COMPLEMENTAR__\n1) FAZENDA, Jorge M. R. Tintas e vernizes : ciência e tecnologia.São Paulo: Ed Blucher, 1995.\n2)LEARNER, Thomas, et al. Modern Paints Uncovered: Proceedings from the Modern Paints Uncovered Symposium, Tate Modern. Los Angeles: Getty Publications, 2007 . Disponível em:https://\nwww.getty.edu/publications/resources/virtuallibrary/9780892369065.pdf\n3) MAM. Restauração de Parte da Coleção Museu de Arte Moderna do Rio de Janeiro Anterior a 1978/Museu de Arte Moderna do Rio de Janeiro - Rio de Janeiro: Museu de Arte Moderna do Rio de Janeiro, 2014.\n4) THE GETTY CONSERVATION INSTITUTE AND J. PAUL GETTY MUSEUM. The structural conservation of panel paintings: proceedings of symposium at the J. Getty Museum. 24-April, 1995. Edited by Kathleen Dardes and Andrea Rothe. 1998. Disponível em: https://www.getty.edu/publications/resources/virtuallibrary/0892363843.pdf\n5) PEDROSA, Israel. Da Cor à Cor Inexistente. São Paulo: Ed. Senac, 1982.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "MARILENE CORREA MAIA"
+       }
+      ],
+      "Requisitos": [
+       "BAP477"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "Disciplinas Optativas (Escolha Condicionada)": [
+     {
+      "Codigo": "BAH486",
+      "Nome": "Tóp Esp- Artes Visuais I",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Tópicos especiais de história, teoria e estudos temáticos em arte, com enfoque em artes visuais.\n___ BIBLIOGRAFIA BÁSICA ___\n1) ARGAN, Giulio Carlo. Arte e crítica da arte. Lisboa: Estampa, 1988.\n2) _________; FAGIOLO, Maurizio. Guia de história da arte. Lisboa: Estampa, 1994.\n3) BAZIN, Germain. História da História da Arte. São Paulo: Martins Fontes, 1989.\n4) VENTURI, Lionello. História da crítica de arte. Lisboa: Martins Fontes, 1984.\n5) ZANINI, Walter (Coord.). História geral da arte no Brasil. São Paulo: Instituto Walther Moreira Salles, 1983. 2v.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAP009",
+      "Nome": "Patrimônio Escultórico",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo teórico-metodológicos sobre técnicas construtivas, complementos, acabamentos e reintegração formal em esculturas.\n___ BIBLIOGRAFIA BÁSICA ___\n1) MENDES, Marylka. Restauração: ciência e arte. Rio de Janeiro: Editora UFRJ, 1998.\n2) J. M. ANDRÉ. Restauration des Sculptures, Fribourg, 1977.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "09:00 - 12:00",
+        "professor": "BENVINDA DE JESUS FERREIRA RIBEIRO"
+       }
+      ],
+      "Requisitos": [
+       "BAP301"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAP011",
+      "Nome": "Escultura X Arquitetura",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Relações e reflexões teórico-metodológicas para conservação e restauração de obras escultóricas.\n___ BIBLIOGRAFIA BÁSICA ___\n1) COSTA, Lígia Martins. Museologia artes e políticas de patrimônio, publicação do IPHAN, de 2002, p. 317-320.\n2) COUTINHO, E. O espaço da arquitetura. 2ª ed. 1ª reimpressão. São Paulo: Perspectiva, 2010.\n3) WÖLFFLIN, H. conceitos fundamentais da história da arte. (Trad. João Azenha Jr.) Ed. 4. São Paulo: Martins Fontes, 2000.\n4) Revista do Patrimônio Histórico e Artístico Nacional. (1987). n. 22.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAP300"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAP013",
+      "Nome": "Cr de Acervos Cartográficos",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Disciplina formativa. Abordagem das metodologias e tratamentos de conservação de acervo cartográfico. Estudo de caso das questões práticas.\n___ BIBLIOGRAFIA BÁSICA ___\n1) BELLOTTO, Heloísa Liberalli. Arquivos permanentes: tratamento documental. São Paulo: Editora T. A.  Queiroz, 1991.\n2) OGDEN, Sherelyn. A escolha de invólucros de qualidade arquivística para armazenagem de livros e documentos. Rio de Janeiro: Arquivo Nacional / The Commissionon Preservation & Acess, 1997. (Caderno Técnico, Armazenagem e Manuseio, 3). Projeto CPBA.\n3) OGDEN, Sherelyn. Métodos de armazenagem e práticas de manuseio. Rio de Janeiro: Arquivo Nacional / The Commissionon Preservation & Acess, 1997. (Caderno Técnico, Armazenagem e Manuseio, 2). Disponível em: http://www.arqsp.org.br/cpba/\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAP015",
+      "Nome": "Aprofundamento em Cr Pinturas",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudos especiais e de aprofundamento teórico e prático em conservação e restauração de pinturas.\n___BIBLIOGRAFIA BÁSICA___\n1) MOTTA, Edson; BRASIL. Restauração de pinturas em descolamento. Rio de Janeiro: MEC, 1969. [40]p. de estampas.\n2) RESCALA, João José; UNIVERSIDADE DA BAHIA. Restauração da pintura. Salvador: [s.n.], 1953. 52p.\n3) RESCALA, João José. Pintura em madeira: preparo e restauração do suporte. Salvador: Artes Gráficas, 1965. 109p.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "10:00 - 12:00",
+        "professor": "MARILENE CORREA MAIA"
+       },
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 15:00",
+        "professor": "Não Informado"
+       }
+      ],
+      "Requisitos": [
+       "BAP477"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAP017",
+      "Nome": "Tóp Esp Ciência Conservação I",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A disciplina aborda o eixo das ciências da conservação em diferentes aspectos.\n___BIBLIOGRAFIA BÁSICA___\n1) Material a ser disponibilizado pelo professor.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAP133"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAP019",
+      "Nome": "Arte Sacra Cristã I",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudos da arte cristã em seus primórdios, analisando o lento processo de abandono da linguagem classicizante, até o advento da Querela dos\nIconoclastas, com a implantação de uma arte não figurativa e sua evolução rumo a uma arte que assimilou várias tendências culturais distintas. Estudo da Arte Bizantina. Análise da arte da baixa Idade Média, com ênfase à arquitetura da peregrinação e à ideia da catedral, como espaço sagrado e de saber. Apreciação artística da pintura e da escultura, dentro das diversas formas que foram usadas pela Igreja. Arquitetura gótica e sua concepção mística.\n",
+       "BibliografiaBasica": "1- ARGAN, Giulio Carlo. História da arte italiana. São Paulo: Cosac & Naify, 2003. 3 v.\n2- CONTI, Flavio. Como reconhecer a arte Românica. Lisboa: Edições 70, 1984. (Guia de primeiras noções)\n3- GOZZOLI, Maria Cristina. Como reconhecer a arte gótica. Lisboa: Edições 70, 1994. (Guia para primeiras noções)\n4- KIDSON, Peter. Mundo Medieval. São Paulo: Encyclopaedia Britannica do Brasil, 1979. (O mundo da arte)\n5- LASSUS, Jean. Cristandade Clássica e Bizantina. São Paulo: Encyclopaedia Britannica do Brasil, 1979. (O mundo da arte)\n",
+       "BibliografiaComplementar": "1- GOMBRICH, E. H. A História da Arte. Trad. Álvaro Cabral, 16. ed. Rio de Janeiro: LTC, 1999.\n2- HAUSER, A. História Social da Literatura e da Arte. São Paulo: Mestre Jou, 1972. 2 v.\n3- CHILVERS, Ian. Dicionário Oxford de Arte. São Paulo: Martins Fontes, 1996.\n4- REAL, Regina. Dicionário de Belas-Artes: termos técnicos e matérias afins. Rio de Janeiro: Fundo de Cultura, 1962. 2 v.\n5- ZARNECKI, George. Art of the medieval word: architecture, sculpture, painting, the sacred arts. New York: Harry N. Abramsx, 1975\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAP021",
+      "Nome": "Conservação Preventiva II",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A disciplina aborda o eixo das ciências da conservação em diferentes aspectos.\n___BIBLIOGRAFIA BÁSICA___\n1) Material a ser disponibilizado pelo professor.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 15:00",
+        "professor": "MARILENE CORREA MAIA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAP023",
+      "Nome": "Educação Patrimonial",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Apresenta a trajetória da trajetória da educação patrimonial no Brasil. Aborda estudos conceitos, processos e metodologias voltados para o uso, apropriação e gestão do patrimônio cultural, de natureza material e imaterial, compreendidos, inclusive, como fontes primárias para a construção individual e coletiva de identidades. Aborda também o conhecimento e a análise dos processos educativos em projetos e ações no campo da preservação do patrimônio.\n",
+       "BibliografiaBasica": "1- Educação patrimonial: práticas e diálogos interdisciplinares / Disponível: www.iphan.gov.br e http://casadopatrimoniodapb.com.\n2- Educação Patrimonial: histórico, conceitos e processo. Brasília, DF: Iphan/DAF/Cogedip/Ceduc, 2014. Disponível em: www.iphan.gov.br\n3- Educação patrimonial: educação, memórias e identidades / Instituto do Patrimônio Histórico e Artístico Nacional (Iphan). Disponível: www.iphan.gov.br\n",
+       "BibliografiaComplementar": "1- Patrimonial no âmbito da política nacional de Patrimônio Cultural. Políticas Culturais em Revista. - Disponível em: www.politicasculturaisemrevista.ufba.br\n2- Educação patrimonial: políticas, relações de poder e ações afirmativas / Disponível: www.iphan.gov.br\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAP025",
+      "Nome": "Memória e Artefato",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A disciplina examina varias técnicas de construção tridimensional, no âmbito da escultura e do artefato cultural. Sendo estes constituídos por\ndiversas materialidades e processos tecnológicos. Dentre estes, se destacam a utilização da cerâmica, metal e os novos materiais. Serão abordadadas técnicas construtivas que revisitam o percurso histórico e sua memória. Através de um percurso de tempo anacrônico - onde as proposições artísticas e culturais são revisitadas. A atividade desenvolvida na disciplina tem como\nmeta: o desenvolvimento de propostas práticas e teóricas que tem como objetivo desenvolver a capacidade reflexiva sobre o artefato e a memória e sobre diversas metodologias de criação, produção e reprodução do objeto tridimensional assim como a sua conservação e restauração .\n___BIBLIOGRAFIA BÁSICA___\n1)\tBRANDI, Cesare. Teoria da Restauração.São Paulo;Ateliê Editorial,2004.\n2)\tBENJAMIN , Walter . A obra de arte na era de sua reprodutibilidade técnica .São Paulo :Editora Brasiliense.1985.\n3)\tSONTAG, Susan. Sobre a fotografia. São Paulo: Companhia das Letras, 2004.\n4)\tWITTKWOER, Rudolf. Escultura. São Paulo: Editora Martins Fontes, 1989.\n5)   KRAUSS, Rosalind. A escultura no campo ampliado. n.1, 87-93p. Rio de Janeiro:Gávea, 1984.\n6) KWON, Miwon. ?Um lugar após o outro: anotações sobre site-specificity? in: Arte e Ensaios, n. 17, PPGAV-EBA_UFRJ,2008, 166-187.\n7)MUÑOZ VIÑAS, S. Teoria contemporanea de la restauración. 1. ed. Madrid: Editorial Sintesis, 2003.\n8) SANTINELLI, Cecilia. Cerâmicas Arqueologicas - Un Puente entre América y Europa  inelli - Curso de Restauracion de la Ceramica - La habana - Cuba ? IILA (INSTITUTO ITALI - LATINO AMERICANO), 2006.\n9) SANTINELLI, Cecilia. A cerâmica Guarani e Guarani missioneira - Curso de Restauração de Cerâmica Histórica, Artistica e Arqueologica - Salvador da Bahia, Agosto de 2002- IILA.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAP108",
+       "BAP130"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAP027",
+      "Nome": "Arte no Brasil Preservação I",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Jesuítas e a catequese. As metamorfoses na arquitetura e na talha religiosa. Debates sobre restaurações da pintura, imaginária e arquitetura da Fase Missioneira. Cartas internacionais; Natureza e memória cultural: os holandeses no Brasil. A fase monumental e a obra jesuítica; conventos franciscanos e igrejas douradas; miscigenações étnicas. Imaginária, pintura e bens integrados: sua preservação. O período Mundano e o Rococó. Escolas Fluminense e Baiana de Pintura. A arte na terra do ouro: imaginária, ben integrado e pintura. Arquitetura pombalina e neoclássica.\n",
+       "BibliografiaBasica": "1)  BAZIN, Germain. Arquitetura Religiosa Barroca no Brsil. Rio de Janeiro: Record, 1956.\n2) BURY, John. Arquitetura e arte no Brasil colonial. Brasília: IPHAN, 2006.\n3) TOLEDO, Benedito Lima de. Do século XVI ao início do século XIX: maneirismo, barroco e rococó In: ZANINI, Walter. História da Arte no Brasil. Vol. 1. São Paulo: Instituto Walther Moreira Salles, 1983.\n",
+       "BibliografiaComplementar": "1) BARATA, Mário. Igreja da Ordem Terceira da Penitência do Rio de Janeiro. Rio de Janeiro: Agir, 1975.\n2) NAKAMUTA, Adriana. Hanna Levy no Sphan : História da Arte e Patrimônio. Rio de Janeiro: Iphan, Copedoc, 2010. Disponível em\n3) OLIVEIRA, Myriam A. Ribeiro de. O Rococó religioso no Brasil e seus antecedentes europeus. São Paulo: Cosac Naife, 2003.\n4) OLIVEIRA, Myriam; SANTOS Fº, Olinto R. dos. Aleijadinho e sua oficina: catálogo das esculturas devocionais. São Paulo: Capivara, 2002.\n5) ROCHA, Dom Mateus Ramalho. O Mosteiro de São Bento do Rio de Janeiro: 1590-1890. Rio de Janeiro: Studio HMF, 1991.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAP029",
+      "Nome": "Top Esp Conserv Rest Papel I",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O curso aborda a questão do branqueamento em suportes de papel, abarcando aspectos físico-químicos e debates teóricos da conservação e\nrestauração de documentos gráficos. Discute-se a historicidade do procedimento desde o clareamento de fibras na confecção do papel com uso de luz natural à absorção do procedimento no\ncampo da conservação e restauração, até os diferentes métodos que se consolidaram na área. A partir de revisão de literatura, problematiza-se a qualidade estética do clareamento, seus prós e\ncontras e o emergente emprego de métodos sustentáveis e minimamente invasivos.\n",
+       "BibliografiaBasica": "1) Amaral, Luiza Batista; Camargos, Camilla Henriques Maia de. Ponderações sobre o branqueamento em processos de restauração de papel: um panorama químico e teórico do procedimento.\n2) Anais do Museu Paulista: História e Cultura Material, São Paulo, v. 32, p. 1?25, 2025. DOI: 10.11606/1982-02672024v32e39.Disponível em:\nhttps://www.revistas.usp.br/anaismp/article/view/223256.. Acesso em: 11 mar. 2025;\n3)Baldini, Isis. ?A EFICÁCIA DOS TRATAMENTOS AQUOSOS PARA O CLAREAMENTO DA CELULOSE?, [s.d.];\n4)Bajpai, Pratima. Biotechnology for Pulp and Paper Processing. Singapore: Springer Singapore, 2018. https://doi.org/10.1007/978-981-10-7853-8;\n5)ückle, Irene. ?Bleaching in Paper Production versus Conservation?. Restaurator 30, no 4 (janeiro de 2009). https://doi.org/10.1515/rest.016; Material disponibilizado pelo professor\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 12:00",
+        "professor": "LUIZA BATISTA AMARAL"
+       }
+      ],
+      "Requisitos": [
+       "BAP248"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAP031",
+      "Nome": "Top Esp Cons Rest Pintura II",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A disciplina aborda assuntos relacionados com o aprofundamento da conservação e restauração de pinturas.\n",
+       "BibliografiaBasica": "1) Material disponibilizado pelo professor\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAP026"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAP033",
+      "Nome": "Linguagem Clássica na Arte",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Definições do classicismo: o clássico como delimitação histórica e o clássico como condição atemporal. As civilizações grega e romana: noções históricas. O teatro grego e suas origens religiosas; características do teatro grego: construções, elementos constitutivos e liturgia; tragédia e comédia ? Ésquilo, Sófocles e Eurípides; Exemplos de tragédias e de comédias e suas representações na arte; a figura emblemática do tragediógrafo. O mito: funções e simbolismo. Da Teogonia de Hesíodo à Metamorfose de Ovídio e ao Asno de Ouro de Apuleio; mitogia e iconografia clássica; sob o signo de Calíope: a poesia épica e a arte; Homero e Virgílio.\n",
+       "BibliografiaBasica": "1) BRANDÃO, Junito de Sousa. Helena, O Eterno Feminino, Petrópolis, Vozes, 1989.\n2) BRANDÃO, Junito de Sousa. Dicionário Mítico Etimológico de Mitologia. Petrópolis: Vozes, 1994.\n3) BRANDÃO, Junito de Sousa. Mitologia Grega, 3 volumes, Petrópolis: Vozes, 2009.\n4) BRANDÃO, Junito de Sousa. Teatro Grego: Tragédia e Comédia. Petrópolis: Vozes, 1997\n5) BULFINCH, Thomas. O livro de ouro da mitologia. 2. ed. Trad. David Jardim, Rio de Janeiro: Harper Collins, 2017\n6) GUIMARÃES, Ruth. Dicionário de Mitologia Grega. São Paulo: Cultrix, 1972.\n7) STEPHANIDES, Menelaos. A Odisseia. São Paulo: Odysseus, 2011.\n8) STEPHANIDES, Menelaos. Ilíada: a Guerra de Troia. São Paulo, Odysseus, 2010.\n9) STEPHANIDES, Menelaos. Os deuses do Olimpo. São Paulo: Odysseus, 2011\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "10:00 - 13:00",
+        "professor": "MARCUS TADEU DANIEL RIBEIRO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAP239",
+      "Nome": "Fotografia para Cr",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Documentação fotográfica de objetos do patrimônio. Documentação de procedimentos de conservação com o recurso de exames específicos.\n___ BIBLIOGRAFIA BÁSICA ___\n1) ADAMS, Ansel. A câmera fotográfica. 4d. São Paulo, Brasil: SENAC, 2006.\n2) CARDOSO, Danielle Luce. Documentação fotográfica de bens culturais utilizando luz visível: um guia básico. 2016. 106f. Trabalho de Conclusão de Curso (Graduação em Conservação e Restauração de Bens Culturais Móveis) - Escola de Belas Artes, Universidade Federal de Minas Gerais, Belo Horizonte, 2016.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAR481",
+      "Nome": "Ed Ambiental-preserv de Bens C",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Convenções adotadas (regulamentações de leis e procedimentos técnicos) para preservação de bens culturais, relacionados ao meio ambiente.\n___ BIBLIOGRAFIA RECOMENDADA ___\n1- LEI Nº9.605, DE 12 DE FEVEREIRO DE 1998 - Dispõe sobre as sanções penais e administrativas derivadas de condutas e atividades lesivas ao meio ambiente.\n2- DECRETO-LEI Nº 25, DE 30 DE NOVEMBRO DE 1937 - Organiza a proteção do patrimônio histórico e artístico nacional.\n3- INSTITUTO DO PATRIMÔNIO HISTÓRICO ARTÍSTICO NACIONAL. Cartas Patrimoniais. Brasília: IPHAN, 1995.\n4- Cadernos Técnicos IPHAN - publicações on line - http://portal.iphan.gov.br/- publicações.\n5- Manuais IPHAN - publicações on line - http://portal.iphan.gov.br/- publicações\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEB599",
+      "Nome": "Est da Líng Bras de Sinais I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Nomes próprios; pronomes pessoais; demonstrativos; possessivos; locativos em sentenças simples do tipo pergunta-resposta com \"o que\" e \"quem\" e outros vocábulos básicos; numerais; quantidade; topicalização; flexão verbal; flexão de negação; expressões faciais e corporais; percepção visual; conversação; diálogos; textos: LIBRAS, cultura e comunidade surda.\n",
+       "BibliografiaBasica": "1) BRITO, L. F. Por uma gramática de língua de sinais. Rio de Janeiro: Tempo Brasileiro, 1995.\n2) FELIPE, T.; MONTEIRO, M. S. LIBRAS em contexto. Curso Básico. Brasília: Ministério da Educação e do Desporto/Secretaria de Educação Especial, 2001.\n3) GESSER, A. Libras - Que língua é essa? Crença e preconceitos em torno da língua de sinais e da realidade surda. Florianópolis: Parábola, 2009.\n4) STROBEL, K. L. As imagens do outro sobre a cultura surda. Florianópolis: EdUFSC, 2008.\n",
+       "BibliografiaComplementar": "1) PIMENTA, Nelson e QUADROS, Ronice Muller. Curso de Libras I, LSB Vídeo, volume I, Iniciante, 2006 e 3a ed., 2008.\n2) Dicionário Enciclopédico Ilustrado Triíngue da Língua de Sinais Brasileira ? vol 1 e vol. 2 Site: www.acessobrasil.org.brasil\n3) Dicionário da Língua Brasileira de Sinais, INES, versão, 2.0, ano 2006.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAH369",
+      "Nome": "Cultura Brasileira",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Formação da cultura brasileira. Etnicidade. Culturas tradicionais, regionais, populares e urbanas no Brasil.\n___ BIBLIOGRAFIA BÁSICA ___\n1- CANDIDO, A. O significado de Raízes do Brasil (Prefácio). In: HOLANDA, S. B. de. Raízes do Brasil. 26.ed. São Paulo: Cia. das Letras, 1995.\n2- FREYRE, G. Prefácio. Casa-grande & senzala: formação da família brasileira sob o regime da economia patriarcal. São Paulo: Global, 2005.\n3- DAMATTA, R. Notas sobre o racismo à brasileira. In: SOUZA, J. (Org) Multiculturalismo e racismo: uma comparação Brasil - Estados Unidos. Brasília: Paralelo, 1997.\n4- MICELI, S. Intelectuais e classe dirigente no Brasil (1920-1945). São Paulo: Difel, 1979.\n5- ROCHA, J. C. de C. As origens e equívocos da cordialidade brasileira. In: ___. O exílio do homem cordial. Rio de Janeiro: Editora do Museu Nacional, 2004.\n___ BIBLIOGRAFIA COMPLEMENTAR ____\n1- CANDIDO, A. Dialética da malandragem. Revista do Instituto de Estudos Brasileiros, São Paulo, v.8, p.67-89, 1970.\n2- FERNANDES, F. A integração do negro na sociedade de classes. São Paulo: Ática, 1978.\n3- HOLANDA, S. B. de. Raízes do Brasil. 26.ed. São Paulo: Cia. das Letras, 1995.\n4- ROMERO, S. Estudos sobre a poesia popular do Brasil. 2.ed. Petrópolis: Vozes, 1977.\n5- WISNIK, J. M. Veneno remédio: o futebol e o Brasil. São Paulo: Cia. das Letras, 2008.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAP001",
+      "Nome": "Introd à Conserv Arqueológica",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Principais questões referentes à conservação e salvaguarda do acervo arqueológico: objetos íntegros, fragmentados e coleções. Elaboração de diagnóstico do estado de conservação para os artefatos resgatados com a caracterização de patologias e a elaboração de protocolos para tratamentos a serem procedidos com vistas à conservação preventiva, salvaguarda e gestão do patrimônio arqueológico.\n___ BIBLIOGRAFIA BÁSICA ___\n1) CONSERVAÇÃO DE COLEÇÕES / Museums, Libraries anda Archives Council; [trad. Mauricio O. Santos e Patrícia Souza]. Editora da Universidade de São Paulo: [Fundação Vitae], São Paulo, 2005.\n2) LOREDO, W.M. Manual de Conservação em Arqueologia de Campo. Instituto Brasileiro do Patrimônio Cultural. Departamento de Proteção. Rio de Janeiro, 1994.\n3) MENDES, M (org) [et al]; tradução de Ribeiro, V.L. Conservação: Conceitos e Práticas. Rio de Janeiro, Editora UFRJ, 2001.\n4) PARÂMETROS PARA A CONSERVAÇÃO DE ACERVOS / Resource: The Concil for Museums, Archives and Libraries;  [trad. Mauricio O. Santos e Patrícia Souza] [Fundação Vitae], São Paulo, 2004.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAP252"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAP010",
+      "Nome": "Imaginária Devocional",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo da evolução da imaginária devocional no Brasil, desde o século XVI até o XIX, com ênfase à análise estilística das esculturas em terracota, madeira e pedra.\n___ BIBLIOGRAFIA BÁSICA ___\n1) BAZIM, Germain. O Aleijadinho e a escultura barroca no Brasil. Rio de Janeiro: Record, 1972 (edição francesa: Aleijadinho et la sculpture baroque au Brèsil. Paris: Le Temps, 1963).\n2) ETZEL, Eduardo. Arte Sacra, berço da arte brasileira. São Paulo: Melhoramentos, 1986.\n3) OLIVEIRA, Myriam Andrade Ribeiro de. A imagem religiosa no Brasil. In: Catálogo da Mostra do Redescobrimento - Arte Barroca. São Paulo: Associação Brasil 500 anos - Artes Visuais, 2000.\n4) SILVA NIGRA, Dom Clemente da. Os dois escultores Frei Agostinho da Piedade, Frei Agostinho de Jesus e o arquiteto Frei Macário de São João. Bahia. Universidade Federal da Bahia, 1971.\n5) TAVARES, Jorge Campos. Dicionário de Santos. Porto: Lello & Irmão, 1990.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAP012",
+      "Nome": "Desenho Pintura Campo Ampliado",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenvolvimento prático de técnicas úmidas como nanquim e aquarela, priorizando em uma primeira etapa, estudos cromáticos e, em seguida, processos que explorem técnicas e linguagens contemporâneas.\n___ BIBLIOGRAFIA BÁSICA ___\n1) KRAUSS, Rosalind. A escultura no campo ampliado. n. 1, 87-93p. Rio de Janeiro: gávea, 1984.\n2) KWON, Miwon. um lugar após o outro: anotações sobre site-specificity. In: Revista Arte e Ensaios, n. 17, 2008: 167-187.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAP014",
+      "Nome": "Conservação do Efêmero",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceito contemporâneo de arte. (Des) caminhos da conservação e da restauração de obras de arte modernas e/ou contemporâneas. Novos paradigmas- Permanência x Impermanência. Nova conservação. Ciência da Conservação. padrões de atuação pertinentes a interdisciplinaridade da área. Gerenciamento de coleções digitais. Políticas de preservação para documentos digitais. Análise e diagnóstico.\n___BIBLIOGRAFIA BÁSICA___\n1) PACHECO,  Rosario Llamas; SELVI, Eva Chico. Conservar la Pintura Contemporánea: el Arte Monocromo y de Superficie Plana de Color. p. 11. In: ECR - Estudos de Conservação e Restauro, nº 3, de 2011.\n2) SEHEN, Magali Melleu. Entre resíduos e dominós: preservação de instalações de arte no Brasil. Belo Horizonte: Editora C/Arte, 2014.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAP248"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAP016",
+      "Nome": "Administração da Preservação",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Gerenciamento de riscos como ferramenta/estratégia de aperfeiçoamento para tomadas de decisões na preservação de coleções. Conservação preventiva como política institucional. Empresas públicas e privadas. O papel social do profissional conservador-restaurador e suas atividades em gerenciamentos de projetos de conservação-restauração. Diagnóstico institucional e a elaboração de projetos.\n___BIBLIOGRAFIA BÁSICA___\n1) Preservação e segurança em museus - introdução á gestão de risco para acervo museológico. In: Seminário Gestão de Risco ao Patrimônio Cultural. Rio de Janeiro: Museu de Belas Artes, 2013.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAP018",
+      "Nome": "Tóp Esp Ciência Conservação II",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A disciplina aborda o eixo das ciências da conservação em diferentes aspectos.\n___BIBLIOGRAFIA BÁSICA___\n1) Material a ser disponibilizado pelo professor.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAP133"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAP020",
+      "Nome": "Arte Sacra Cristã II",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A transição para o Renascimento. Quattrocento e a descoberta do mundo: arquitetura, escultura e pintura. Fé e razão: a evolução para o Alto Renascimento. Florença e Roma: arte e mecenato oficial. A escola de Veneza. Um momento de crise na arte: Reforma e Contrarreforma. Pintura, escultura e Arquitetura: Barroco e a conquista das almas. Um novo estilo ganha o mundo: a arte da Contrarreforma. Diferenças no Barroco: entre o céu e a terra. O Rococó e a decadência da arte militante. A obra de talha das igrejas. Pintura e escultura barroca e rococó. O triunfo da razão e o Neoclassicismo. O século XIX e o Romantismo: o resgate dos valores cristãos. O revivalismo neomedieval Arte Sacra Moderna.\n",
+       "BibliografiaBasica": "1- ARGAN, Giulio Carlo. História da arte italiana. São Paulo: Cosac & Naify, 2003. 3 v.\n2- GOMBRICH, E. H. A História da Arte. Rio de janeiro: LTC, 2002.\n3- LEVEY, Michel. Pintura e escultura na França (1700-1789). São Paulo: Cosac & Naify, 1998.\n4- MARTINDALE, Andrew. Renascimento. Rio de Janeiro: Expressão e Cultura, 1979. (Encyclopaedia Britannica do Brasil)\n",
+       "BibliografiaComplementar": "1- HAUSER, Arnold. História Social da Literatura e da Arte. São Paulo: Mestre Jou, 1972\n2- PANOFSKY, Erwin. Significado nas artes visuais. 2. ed. São Paulo: Brasil, 1979.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "10:00 - 12:00",
+        "professor": "MARCUS TADEU DANIEL RIBEIRO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAP022",
+      "Nome": "Desenho nas Artes Visuais",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A disciplina aborda o eixo das ciências da conservação em diferentes aspectos.\n___BIBLIOGRAFIA BÁSICA___\n1) Material a ser disponibilizado pelo professor.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAP024",
+      "Nome": "Introd Análise de Materiais II",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A disciplina aborda o eixo das ciências da conservação em diferentes aspectos.\n___BIBLIOGRAFIA BÁSICA___\n1) Material a ser disponibilizado pelo professor.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAP026",
+      "Nome": "Tóp Esp Cons Rest Pintura I",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceitos éticos da conservação e restauração para o tratamento de obras de arte; Técnicas de tratamento de suporte de obras de arte; Materiais para o tratamento de suporte e suas características; Técnicas de reintegração de obras de arte; Materiais para a reintegração cromática e suas características. Materiais de enxerto para o tratamento de suportes.\n",
+       "BibliografiaBasica": "1) Appelbaum, Barabra. Metodologia do Tratamento de Conservação. Traduzido por Karina Schöder. 1ª ed. Porto Alegre: Mariana Gaelzer Wertheimer, 2017, 2021.\n2) Giulio Carlo, y Fagiolo. Guia de História da Arte. 2ª ed. Teoria da Arte 8. Lisboa: Editorial Estampo, 1994.\n3) Brandi, Cesare. Teoria da restauração. Cotia: Ateliê, 2004.\n",
+       "BibliografiaComplementar": "1) Danto, Arthur C. Após o fim da arte: A arte contemporânea e os Limites da História. São Paulo: Odysseus Editora, 2006.\n2) Ferreira, Glória. Critica de Arte no Brasil: Temáticas contemporâneas. Rio de Janeiro: Fundação Nacional de Arte-FUNARTE, 2006.\n3) Freire, Cristina. Arte conceitual. Rio de Janeiro: Jorge Zahar Ed., 2006.                      4) Motta Jr., Edson. As quatro integridades: manual de procedimentos para o restauro de pinturas. Rio de Janeiro: Desalinho, 2018.\n5) Muñoz Viñas, Salvador. Teoria contemporânea da restauração. Belo Horizonte: Editora UFMG, 2021.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 12:00",
+        "professor": "HUMBERTO FARIAS DE CARVALHO"
+       }
+      ],
+      "Requisitos": [
+       "BAP477"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAP028",
+      "Nome": "Arte no Brasil Preservação II",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A Missão Artística Francesa e a institucionalização do ensino artístico: os artistas neoclássicos e o fazer acadêmico. A questão da memória no século XIX. A primeira geração romântica e constituição de uma estética nacional: a natureza épica; a liberdade de expressão dentro do mundo acadêmico. A Primeira Missa do Brasil e a acusação do plágio. Artistas itinerantes e o apoio do Imperador. As grandes pinturas e os temas históricos. A restauração das Batalhas do MNBA. Realismo e a representação da natureza próxima. Retratos do cotidiano: a pintura de gênero. Os ateliês de restauração e a pintura oitocentista.\n",
+       "BibliografiaBasica": "1) BARATA, Mário. Século XIX. Transição e início do século XX. In ZANINI, Walter (org.). História geral da arte no Brasil. São Paulo: Instituto Walther Moreira Salles, 1983. v. 1, p. 377-451.\n2) LEVY, Carlos Roberto Maciel. Exposições Gerais da Academia Imperial e da Escola Nacional de Belas Artes. Rio de Janeiro: Edições Pinakotheke, 1990.\n3) PEREIRA, Sonia Gomes. Academia Imperial de Belas Artes no Rio de Janeiro: revisão historiográfica e estado da questão. Revista Arte & Ensaios, Rio de Janeiro, n. 8, p. 72-83, 2001.\n",
+       "BibliografiaComplementar": "1) ACQUARONE, Francisco. História das artes plásticas no Brasil. Rio de Janeiro: Editoria Americana, 1980 (reedição).\n2) MORALES de los Rios Filho Adolfo. O ensino artístico: subsídio para a sua história - um capítulo: 1816-1889. Anais do Instituto Histórico e Geográfico Brasileiro, v. 8, p. 3-430, 1942 (Anais do Terceiro Congresso de História Nacional, realizado em outubro/1938).\n3) ALONSO, Ângela. Ideias em movimento: a geração de 1870 na crise do Brasil-Império. São Paulo: Paz e Terra, 2002. p. 21-49.\n4) GALVÃO, Alfredo. Manuel de Araújo Porto-Alegre ? sua influência na Academia Imperial de Belas Artes e no meio artístico do Rio de Janeiro. Revista do Patrimônio Histórico e Artístico Nacional, Rio de Janeiro, n. 14, p. 19-120, 1959.\n5) PEREIRA, Sonia Gomes. Academia Imperial de Belas Artes no Rio de Janeiro: revisão historiográfica e estado da questão. Revista Arte & Ensaios, Rio de Janeiro, n. 8, p. 72-83, 2001.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "10:00 - 12:00",
+        "professor": "MARCUS TADEU DANIEL RIBEIRO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAP030",
+      "Nome": "Top Esp Conserv Rest Papel II",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A disciplina aborda assuntos relativos ao aprofundamento da conservação e restauração do papel.\n",
+       "BibliografiaBasica": "1) Material disponibilizado pelo professor\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "ANA PAULA CORREA DE CARVALHO"
+       }
+      ],
+      "Requisitos": [
+       "BAP248"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAP032",
+      "Nome": "Sustentabilidade Conserv Rest",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A disciplina discute a sustentabilidade na Conservação e Restauração de bens culturais, com foco em sistemas de limpeza de baixa toxicidade. Explora o conceito de sistema limpeza sustentável alinhado à química verde e ao desenvolvimento de pesquisas sobre sistemas coloidais, nanotecnologia e biotecnologia aplicada à restauração. Além da análise de artigos, inclui práticas baseadas em estudos de caso, com ênfase em materiais lignocelulósicos/celulósicos, capacitando os discentes no uso desses sistemas em intervenções.\n",
+       "BibliografiaBasica": "1- AMARAL, Luiza. Iniciativas sustentáveis no campo da Conservação e Restauração de Bens Culturais: Moxy, GreenArt e Sustainability in Conservation (SiC). Revista Memória em Rede, Pelotas, v.16, n.30, Jan/Jun/2024 ? ISSN-2177-4129 Disponível em: https://periodicos.ufpel.edu.br/index.php/Memoria Acesso em 26 de fev de 2025.\n2- KALIA, Susheel. Kaith, B. S.; Kaur, Inderjeet. Cellulose Fibers: Bio- and Nano-Polymer Composites: Green Chemistry and Technology. Berlin: Springer, 2011.(ebook)\n3-LANCASTER, Make. Green chemistry: na introductory text. Mike Lancaster . Londres: Royal Society of Chemestry, 2002. 310 p. 4- FIFE, Gwendoline, et al. Greener Solvents in Conservation: an introductory guide. Archetype Publication Ltd. London, 2021, pp.21-31. Disponível em: https://siconserve.wpengine.com/wp-content/uploads/2021/12/Greener-Solvents-in-Conservation NLINE- VERSION-v5.pdf. 5-GONÇALVES, W. de B.;\nSOUZA, L. A. C. O debate contemporâneo sobre as interfaces ansdisciplinares de dois campos de conhecimento em consolidação: a Ciência da sustentabilidade e a Ciência do Patrimônio. PÓS: Revista do Programa de Pós-graduação em Artes da EBA/UFMG, Belo Horizonte, p. 84?102, 2014. Disponível em: https://periodicos.ufmg.br/index.php/revistapos/article/view/15655\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "13:00 - 16:00",
+        "professor": "LUIZA BATISTA AMARAL"
+       }
+      ],
+      "Requisitos": [
+       "BAP238",
+       "BAP251"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAP224",
+      "Nome": "História das Artes Plástic III",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das artes visuais no século XIX na Europa, o neoclassicismo e os principais movimentos do período.\n___ BIBLIOGRAFIA BÁSICA ___\n1) ARGAN, G. C. Arte Moderna. São Paulo: Cia das Letras, 1992.\n2) BAZIN, Germain. História da arte. Da pré-história aos nosso dias. Lisboa: Martins Fontes, 1976.\n3) GOMBRICH, E. H. A história da arte. Rio de Janeiro: Guanabara Koogan, 1993.\n4) JANSON, H. W. História da arte. Lisboa: Fundação Calouste Gulbenkian, 1989.\n5) SCHAPIRO, Meyer. Arte moderna: séculos XIX e XX. São Paulo: EDUSP, 1994.\n6) SCHAPIRO, Meyer. Impressionismo. São Paulo: Cosac & Naify, 2002.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAP307",
+      "Nome": "Reintegração Cromática",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Disciplina formativa. Material de nivelamento de capas pictóricas. Tecnicas de reintegração cromática.\n____ BIBLIOGRAFIA BÁSICA ___\n1) MAYER, Ralph. Manual do artista. São Paulo: Martins Fontes, 1999.\n2) MOTTA, Edson. Fundamentos para o estudo da pintura. Rio de Janeiro: Editora Civilização Brasileira, 1979.\n3) MOTTA, Edson; SALGADO, Maria Luiza Guimarães. Iniciação à pintura. Rio de Janeiro: Editora Nova Fronteira, 1976.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 17:00",
+        "professor": "MARCIA DE MATHIAS RIZZO"
+       }
+      ],
+      "Requisitos": [
+       "BAP129"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "CFP003",
+      "Nome": "Micolog Apl Cons Rest Bens Cul",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Micologia aplicada à Conservação e Restauro: fundamentos (estrutura, fisiologia e ciclo de vida), gêneros relevantes (Aspegillus, Penicillium, Cladosporium, Chaetomium, Trichoderma), fatores ambientais (umidade, temperatura, luz) e mecanismos de biodeterioração. Danos em suportes (papel, madeira, têxteis, pinturas). Métodos de monitoramento e diagnóstico. Estratégias de prevenção/controle e biossegurança para conservadores-restauradores.\nBibliografia Básica\n1) BRASIL. Ministério do Trabalho e Emprego. Norma Regulamentadora n.º 6 (NR 6): Equipamento de Proteção Individual ? EPI. Brasília, DF: MTE, [s.d.].\n2) CANADIAN CONSERVATION INSTITUTE (CCI). CCI Notes 10/1: Mould Prevention and Collection Recovery: Guidelines for Heritage Collections. Ottawa: CCI, 2017.\n3) CENTRO DE CONSERVAÇÃO DE ARTE E ARTEFATOS (CCAHA). Managing Mold Infestation: Guidelines for Disaster Response. Philadelphia, PA: CCAHA, [s.d.].\n4) FLORIAN, Mary-Lou. Fungal Facts: Solving Fungal Problems in Heritage Collections. London: Archetype Publications, 2002.\n5) INSTITUTO BRASILEIRO DE MUSEUS (IBRAM). Guia de Conservação Preventiva para Acervos Museológicos. Brasília, DF: IBRAM, 2016.\n6) INTERNATIONAL INSTITUTE FOR CONSERVATION OF HISTORIC AND ARTISTIC WORKS (IIC). Guidelines for Health and Safety in Conservation. London: IIC, 2019.\n7) MORA, Paolo; MORA, Laura; PHILIPPOT, Paul. The Conservation of Wall Paintings. London: Butterworths, 1984.\n8) PRESCOTT, L. M.; HARLEY, J. P.; KLEIN, D. A. Microbiologia. 9. ed. Porto Alegre: AMGH, 2017.\n9) STERFLINGER, Katja. Fungi: their role in deterioration of cultural heritage. Fungal Biology Reviews, v. 24, n. 1-2, p. 47-55, 2010.\nBibliografia Complementar\nArtigos científicos atuais sobre a ementa do curso.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NEP144",
+      "Nome": "Tóp Esp Polít Públ Dir Hum VI",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Discussão de temas específicos em políticas públicas e direitos humanos com base no processo histórico e nas críticas contemporâneas, proporcionando ao aluno uma visão sobre o alcance e limites da sua proteção e promoção.\n___BIBLIOGRAFIA BÁSICA___\n1) BECKER, Howard S. Métodos de pesquisa em ciências sociais. São Paulo: Hucitec, 1999.\n2) BELLONI I.; Magalhães H.; Souza L; Metodologia de avaliação em políticas públicas. São Paulo (Cortez) 2003.\n3) BOBBIO, Norberto. A era dos direitos. Rio de Janeiro: Campus, 1992.\n4) BOURGUIGNON, Jussara Ayres; OLIVEIRA Jr., Constantino Ribeiro de (Orgs.).  Pesquisa em ciências sociais: interfaces, debates e metodologias. Ponta Grossa (PR): Todapalavra, 2012.\n5) BRASIL, Programa Nacional de Direitos Humanos , PNDH II, Fernando Henrique Cardoso,  Brasília, Presidência da República, Secretaria da Comunicação Social, Ministério da Justiça, 2002.\n6) BUCCI, Maria Paula Dalari Et. al. (Orgs.). Direitos Humanos e políticas públicas. São Paulo: Pólis, 2001.\n7) FAORO, Raymundo. Os donos do poder. Rio de Janeiro, Editora Globo, 1958.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     }
+    ]
+   },
+   "obrigatorias": 35,
+   "eletivas": 35,
+   "ano": "2019/2 a 9999/9"
+  }
+ ]
+}

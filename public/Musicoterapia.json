@@ -1,0 +1,1419 @@
+{
+ "Musicoterapia": [
+  {
+   "materias": {
+    "1º Período": [
+     {
+      "Codigo": "EFA480",
+      "Nome": "Música e Movimento",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Análise e experimentação corporal dos parâmetros do som e dos elementos básicos musicais. Musicalização básica para dançarinos com ênfase no Ritmo.\n___BIBLIOGRAFIA BÁSICA___\n1) Cadernos de música da universidade de cambridge/ Benet Roy; Costa, Maria Thereza Rezende; Elementos básicos da musica Jorge Zahar.\n2) ______.Uma breve história da música. Jorge Zahar.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) COPLAND, Aaron. Como ouvir e entender música. São Paulo: É Realizações, 2013.\n2) MED, Bohumil. Ritmo. 4ª ed. ampl. Brasília: Musimed, 1986.\n3) ______. Teoria da Música. 4ª ed. rev. e ampl. Brasília: Musimed, 1996.\n4) PRINCE, Adamo. Método Prince. Leitura e percepção ? Ritmo 1. São Paulo: Irmãos Vitale, 2009.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sab",
+        "hora": "08:30 - 12:20",
+        "professor": "MARCUS VINICIUS MACHADO DE ALMEIDA"
+       },
+       {
+        "dia": "Sab",
+        "hora": "08:30 - 12:20",
+        "professor": "BEATRIZ DE FREITAS SALLES"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MTPE01",
+      "Nome": "Universidade e Extensão - Mtp",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "0",
+      "Extensão": "30",
+      "Informação": {
+       "Info": "Aspectos históricos da Extensão e o papel da UFRJ nesse histórico. Diretrizes da extensão universitária (interação dialógica, interdisciplinaridade e interprofissionalidade, indissociabilidade de ensino, pesquisa e extensão, impacto na formação do estudante e impacto na transformação social). Políticas de extensão universitária na UFRJ e no Brasil. Estrutura da extensão na UFRJ. Tipos de ações de extensão. Visitas de observação aos programas, projetos, eventos e cursos de extensão da UFRJ.\n___ BIBLIOGRAFIA BÁSICA ___\n1) BRASIL. Lei nº 9.394, de 20 de dezembro de 1996. Estabelece as Diretrizes e Bases da Educação Nacional. Diário Oficial da República Federativa do Brasil, Brasília, DF, n. 248, 23 dez. 1996.\n2) BRASIL. Lei nº 10.172, de 09 de janeiro de 2001. Aprova o Plano Nacional de Educação (2001-2010) e dá outras providências. Brasília: 2001.\n3- BRASIL. Lei nº 13.005, de 25 de junho de 2014. Aprova o Plano Nacional de Educação (2014-2024) e dá outras providências. Brasília: 2014.\n4) FORPROEX. Avaliação Nacional da Extensão Universitária. Brasília: MEC SESU, 2001.\n5) FORPROEX. Avaliação Nacional da Extensão Universitária. Gráfica da UFRGS. Porto Alegre, RS, 2012 (Coleção Extensão Universitária; v.8).\n6) FORPROEX. Indissociabilidade Ensino-Pesquisa-Extensão e a Flexibilização Curricular: uma visão da extensão. Porto Alegre: UFRGS. Brasília: MEC/SESU, 2006 (Coleção Extensão Universitária; v.4).\n7) FORPROEX. Avaliação da Extensão Universitária: práticas e discussões da Comissão Permanente de Avaliação da Extensão. Organização: Maria das Dores Pimentel Nogueira. Belo Horizonte: FORPROEX/CPAE; PROEX/UFMG, 2013 (Coleção Extensão Universitária; v.8).\n8) THIOLLENT, M.; CASTELO BRANCO, A. L.; GUIMARÃES, R. G. M.; ARAÚJO FILHO, T. (Orgs.) Extensão Universitária: conceitos, métodos e práticas. Rio de Janeiro: UFRJ/SR5, 2003. 175p.\n9) THIOLLENT, Michel. Metodologia da Pesquisa-Ação. 14ª edição. São Paulo: Cortez, 2005.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "18:10 - 19:50",
+        "professor": "FRANCISCA MARIANA ABREU MAYERHOFFER"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MTPZ50",
+      "Nome": "Ativ Curricular Extensão - Mtp",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "0",
+      "Extensão": "246",
+      "Informação": {
+       "Info": "Atuação em atividades de extensão registradas na Pró-Reitoria de Extensão da UFRJ, como programas, projetos, cursos de extensão e eventos, coordenados por docentes do quadro permanente ou técnicos da carreira de nível superior na UFRJ. Para eventos, a atuação deverá ser na organização ou na realização do evento. Para cursos, a atuação deve ser na organização ou ministrando aulas.\n___ BIBLIOGRAFIA BÁSICA ___\nBibliografia recomendada pelo coordenador da atividade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sab",
+        "hora": "16:00 - 18:00",
+        "professor": "BEATRIZ DE FREITAS SALLES"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BMW110",
+      "Nome": "Bases Biológicas para T0",
+      "Créditos": "18.0",
+      "Teórica": "240",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Bases estruturais e fisiológicas da célula. Organização geral do corpo. Organização morfofuncional dos sistemas orgânicos.\n",
+       "BibliografiaBasica": "Hall, John E. Tratado de fisiologia médica:. Rio de Janeiro: Guanabara Koogan, 2011\nCARNEIRO, JOSÉ; JUNQUEIRA, CARLOS LUIZ UCHOA. Histologia Básica. Rio de Janeiro: Guanabara Koogan, 2017.\nSOBOTTA, JOHANNES; WELSCH, ULRCHI. Atlas de Anatomia Humana (2v). Rio de Janeiro: Guanabara Koogan, 2006.\n",
+       "BibliografiaComplementar": "MOORE, K. Embriologia Básica. Rio de Janeiro: Guanabara Koogan, 2016.\nJUNQUEIRA, L. C. Biologia celular e molecular. Rio de Janeiro: Guanabara Koogan, 2012.\nLENT, Roberto. Cem bilhões de neurônios: conceitos fundamentais de neurociência . Rio de Janeiro: Atheneu, 2010.\nSOBOTTA, JOHANNES; WELSCH, ULRCHI. Atlas de histologia. Rio de Janeiro : Guanabara Koogan, 2007.\nKIERSZENBAUM, ABRAHAM L. Histologia e biologia celular: uma introdução à patologia. Rio de Janeiro: Elsevier, 2012.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 17:00",
+        "professor": "RENATO ROZENTAL"
+       },
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 17:00",
+        "professor": "LETICIA DE ALMEIDA CARVALHO"
+       },
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 17:00",
+        "professor": "ATTILIO PANE"
+       },
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 17:00",
+        "professor": "LUIZ CLAUDIO FRANCISCO DA SILVA"
+       },
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 17:00",
+        "professor": "ANTONIO PALUMBO JUNIOR"
+       },
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 17:00",
+        "professor": "RONAN CHRISTIAN MACHADO DOS SANTOS"
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 17:00",
+        "professor": ""
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 17:00",
+        "professor": "BRUNO DE ALMEIDA CARLOS DE CARVALHO PONTES"
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 17:00",
+        "professor": "LETICIA DE ALMEIDA CARVALHO"
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 17:00",
+        "professor": "RENATO ROZENTAL"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 17:00",
+        "professor": "RONAN CHRISTIAN MACHADO DOS SANTOS"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 17:00",
+        "professor": "FELIPE LEITE DE OLIVEIRA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 17:00",
+        "professor": "BRUNO DE ALMEIDA CARLOS DE CARVALHO PONTES"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 17:00",
+        "professor": "LETICIA DE ALMEIDA CARVALHO"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 17:00",
+        "professor": "ANTONIO PALUMBO JUNIOR"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 17:00",
+        "professor": "BRUNO DE ALMEIDA CARLOS DE CARVALHO PONTES"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 17:00",
+        "professor": "LETICIA DE ALMEIDA CARVALHO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FMA006",
+      "Nome": "Musicoterapia",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceitos básicos em musicoterapia. As funções terapêuticas dos sons. Música em terapia ocupacional e musicoterapia.\n___BIBLIOGRAFIA BÁSICA___\n1-BARCELLOS, Lia Rejane M. Musicoterapia: alguns escritos. Rio de Janeiro: Enelivros, 2003.\n2-BRUSCIA, Kenneth.Definindo Musicoterapia. Rio de Janeiro: Enelivros, 2000.\n3-CHAGAS, Marly e PEDRO, Rosa. Musicoterapia: desafios entre a modernidade e a contemporaneiidade. Rio de Janeiro: Maud, 2008.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "18:10 - 21:50",
+        "professor": "Não Informado"
+       },
+       {
+        "dia": "Seg",
+        "hora": "18:10 - 21:50",
+        "professor": "MARLY CHAGAS OLIVEIRA PINTO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MTPX01",
+      "Nome": "Acc em Musicoterapia",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "100",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Participação em cursos, palestras, congressos, monitorias, projetos de pesquisa e de extensão, atividades culturais e artísticas, estágios extracurriculares de interesse para Musicoterapia.\n___ BIBLIOGRAFIA BÁSICA ___\n1) BARCELLOS, L. R.M. Cadernos de Musicoterapia 1. Enelivros: Rio de Janeiro, 1992.\n2) BARCELLOS. L. R. (ORG). Vozes da Musicoterapia Brasileira. Apontamentos Editora: São Paulo, 2007.\n3) RUUD, E. Caminhos da Musicoterapia. Summus Editorial: São Paulo, 1990.\n4) RUUD, E. (ORG). Música e Saúde. Summus Editorial: São Paulo, 1991.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sab",
+        "hora": "14:00 - 15:50",
+        "professor": "MARCUS VINICIUS MACHADO DE ALMEIDA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "2º Período": [
+     {
+      "Codigo": "EFA105",
+      "Nome": "Arte e Movimento",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Aspectos transdisciplinares das relações das artes visuais com a linguagem da dança. Panorama da história da arte através do estudo das artes visuais e sua relação com a dança.\nAplicações das artes visuais no ensino e na criação da dança como linguagem da arte contemporânea.\n",
+       "BibliografiaBasica": "ARGAN, Giulio Carlo. Arte moderna: do iluminismo aos movimentos contemporâneos. Rio de Janeiro: Cia das Letras, 2006\nALMEIDA, M. V. M.; COSTA, M. C. . Movimento de Artes e Ofícios: perspectiva Ético-política-estética de constituição da Terapia Ocupacional. In: Carla Regina Silva. (Org.). Atividades Humanas e Terapia\nOcupacional. 1ed. São Paulo: Hucitec, 2019, v. 1, p. 59-79.\n",
+       "BibliografiaComplementar": "ALMEIDA, Marcus Viníciuis Machado de ; SOUZA, Geruza Valadares. Terapia Ocupacional e o Movimento de Artes e Ofícios: Uma Proposta Ontológica do Fazer\nArtesanal. In: Saberes e competências em fisioterapia e terapia ocupacional rganizadora Anelice Calixto Ruh. Grossa (PR): Atena Editora, 2019.\nALMEIDA, MARCUS VINICIUS MACHADO de ; Souza, Geruza Valadares ; Graça, Marcelle Carvalho Queiroz . PROCESSOS DE CRIAÇÃO EM TERAPIA OCUPACIONAL: UMA PERSPECTIVA\nONTOLÓGICA DA ATIVIDADE MANUAL COM BASE EM MARTIN BUBER E GASTON BACHELARD. A Psicologia em Diferentes Contextos e Condições 2. 1ed.: Atena Editora, 2020, v. , p. 182- 198\nGOMBRICH, E. H. A história da arte. Tradução Álvaro Cabral. 16. ed. Rio de Janeiro : LTC, 2011\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 12:00",
+        "professor": "MARCUS VINICIUS MACHADO DE ALMEIDA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EFA132",
+      "Nome": "Comu Tra Ind Quil Prát Corp Sa",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "As práticas corporais de saúde nas comunidades de tradição africanas e indígenas.\n___ BIBLIOGRAFIA BÁSICA ___\n1) FERNANDES, Ciane. O corpo em movimento. São Paulo: Annablume, 2002.\n2) BERUTTI, Flávio e SANTO, Igor. Comunidades Quilombolas - Espaços de resistência. Belo Horizonte: RHJ, 2012.\n3) PEREIRA, Walmir; TAMAGNO, Liliana. Patrimônio cultural dos povos indígenas. São Paulo: Unisinos, 2012.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EFA360",
+      "Nome": "Folcl Bras: Danças e Folguedos",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O estudo da dança e dos folguedos na cultura popular brasileira e sua importância no desenvolvimento da dança como linguagem da arte contemporânea. Desenvolvimento artístico e pedagógico da dança.\n___ BIBLIOGRAFIA BÁSICA ___\n1) ANDRADE, M. Danças dramáticas brasileiras. Rio de Janeiro: Itatiaia, 2002.\n2) CASCUDO, L. C. Antologia do folclore brasileiro (v 1 e 2). Rio de Janeiro: Global, 2001 e 2002.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MTP121",
+      "Nome": "Música em Musicoterapia",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Principais teorias e técnicas da música e das produções sonoras em musicoterapia.\n___ BIBLIOGRAFIA BÁSICA ___\n1) CHAGAS, M.; PEDRO, R. Musicoterapia  desafios entre a Modernidade e a Contemporaneidade. Como sofrem os híbridos e como se divertem. Bapera, Muad, 2008.\n2) RUUD, E. Caminhos da Musicoterapia. São Paulo: Summus Editorial, 1990.\n3) BRUSCIA, K. Definindo Musicoterapia. Rio de Janeiro: Enelivros, 2000.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BMW133",
+      "Nome": "Sist Nervoso e Musicoterapia",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das bases fisiológicas e morfológicas do sistema Nervoso Central e Periférico. Bases das Neurociências e Neuroplasticidade nos processos de Musicoterapia.\n___ BIBLIOGRAFIA BÁSICA ___\n1) FATTINI, Carlo Américo; DANGELO, José Geraldo. Anatomia  básica  dos sistemas orgânios. Rio de Janeiro; Atheneu, s.d.\n2) GUYTON, Athur C. Fundamentos de Guyton: tratado de fisiologia. Rio de Janeiro: Guanabara Koogan, 2001.\n3) SOBOTTA, Johannes; WELSCH, Ulrich. Atlas de Histologia. Rio de Janeiro: Guanabara Koogan, 2003.\n4) SOBOTTA, Johannes. Atlas de Anatomia Humana (2v.). Rio de Janeiro: Guanabara Koogan, 2006.\n5) KÜHNEL, Wolfgang. Citologia, histologia e anatomia microscópica. Rio de Janeiro: ARTMED, 2005.\n6) CARNEIRO, José; Junqueira, Carlos Luiz  Uchoa. Histologia básica. Rio de Janeiro: Guanabara Koogan, 2008.\n7) LENT, Roberto. Cem bilhões de  neurônios. Rio de Janeiro: Atheneu, 2001.\n8) JUNQUEIRA, L. C. Biologia Celular e Molecular. Rio de Janeiro: Guanabara Koogan, 2000.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "18:00 - 20:00",
+        "professor": "TIAGO ARRUDA SANCHEZ"
+       },
+       {
+        "dia": "Qua",
+        "hora": "18:00 - 20:00",
+        "professor": "JEAN CHRISTOPHE HOUZEL"
+       }
+      ],
+      "Requisitos": [
+       "BMW110"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EFA107",
+      "Nome": "Música e Dança",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "As diferentes funções sociais e estéticas assumidas pela dança até o final do século XIX. Estudo das relações culturais da dança através da história, identificado as principais características de época numa análise contextual desde o período Pré-Histórico, Idade Moderna e o advento das bases acadêmicas da dança. O método e Escola de Ballet como paradigma gestador do conhecimento da dança no ocidente até final do século XIX.\n___ BIBLIOGRAFIA BÁSICA ___\n1) SCHAEFFER, Pierre. Tratado de los objetos musicales. Alianza, 1996.\n2) SCHAEFFER, Pierre. De la musique concrete a la musique meme. Archiple, 2002.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "20:10 - 21:50",
+        "professor": "LENINE VASCONCELLOS DE OLIVEIRA"
+       }
+      ],
+      "Requisitos": [
+       "EFA480"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EFA208",
+      "Nome": "Corpo e Prática Instrum A.",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das partes do violão. Principais posturas e acordes na música popular.\n___ BIBLIOGRAFIA BÁSICA ___\n1) SANCHEZ, Nilo Sérgio. Curso de Violão: São Paulo: Irmãos Vitale, 2004.\n2) PINTO, Henrique. Curso Progressivo de Violão. São Paulo: Ricordi, 2005.\n3) PINTO, Henrique. Violão Um olhar pedagógico. São Paulo: Ricordi, 2006.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "18:10 - 19:50",
+        "professor": "BEATRIZ DE FREITAS SALLES"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FMA120",
+      "Nome": "Fundamentos da Reabilitação",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das principais doenças e sequelas na área de Reabilitação. Alterações sensório-motoras, tônicas e cognitivas na reabilitação. Princípios de avaliação motora e sensorial em Reabilitação.\n___ BIBLIOGRAFIA BÁSICA ___\n1) CAVALCANTI, Alessandra; GALVÃO, Claudia. Terapia Ocupacional - Fundamentação e Prática. Rio de Janeiro: Guanabara Koogan, 2007.\n2- NEISTADT, Maureen E. Terapia Ocupacional - Willard e Spackman. Rio de Janeiro: Guanabara Koogan, 2002.\n3- OLIVEIRA, Maria Cristina de et al. Terapia Ocupacional na reabilitação física. São Paulo: Rocca, 2002.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "18:00 - 22:00",
+        "professor": "LISETE RIBEIRO VAZ"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MUT010",
+      "Nome": "Introd à Percepção Musical I",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo dos fundamentos musicais e suas relações com as diferentes maneiras de ouvir, escrever e fazer música. Parâmetros do som; as diferentes músicas: apreciação sob um perspectiva histórica; \"música\" e sua matéria-prima: som-ruído-silêncio, pulso/tempo, seus múltiplos; divisão do tempo em duas e três partes; figuras de duração (até a colcheia e sua respectiva pausa); ligadura, ponto de aumento; movimento do som (alturas) nas suas relações intervalares; tonalismo: modo maior e modo menor, centro de atração e intervalos; pauta, linhas suplementares (até 2), clave de sol e fa, âmbito do2-do4, tom e semitom, sinais de alteração; formas binárias e ternárias; legato e staccato; andamento; sinais de repetição: ritornello, da capo, casa de 1ª e 2ª vez.\n___BIBLIOGRAFIA BÁSICA___\n1) ARNOUD, J. 1600 gradués de lecture musicale 1-1000 exercices ; 2- 600 exercices. Paris: Alfonse Leduc, 1881.\n2) BARBOSA, Cacilda Borges - Estudos de Ritmo e Som-Preparatório, 1º ano. São Paulo: Ricordi, 1982.\n3) WILLEMS, Edgar. Solfejo-Curso Elementar. São Paulo: Editora Fermata do Brasil, 2020.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) GRAMANI. J. E. Rítmica. São Paulo: Perspectiva, 2010.\n2) HINDEMITH, Paul. Treinamento Elementar para Músicos. São Paulo: Ricordi, 2004.\n3) PAZ, Ermelinda. 500 Canções Brasileiras. Brasília: MusiMed, 2015.\n4) SCHAFER, Murray. O Ouvido Pensante. São Paulo: Editora UNESP, 2012.\n5) WISNIK, J.M. O Som e o Sentido. São Paulo: Companhia das Letras, 2017.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "3º Período": [
+     {
+      "Codigo": "EFA218",
+      "Nome": "Movimento e Percussão A.",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo de repertório das famílias dos instrumentos de percussão e introdução a técnica instrumental percussiva.\n___ BIBLIOGRAFIA BÁSICA ___\n1) BARBOSA, Joel. Da-capo- percussão. São Paulo: Keyboard, sd.\n2) ROSAURO, Ney. 10 Beginnings studs. São Paulo: Pro-percussão, 2001.\n3) ASSIS, Gilson. Brazilian percussion. Advance Music\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "20:10 - 21:50",
+        "professor": "RAQUEL SIQUEIRA DA SILVA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FMA232",
+      "Nome": "T0 e Processos Psicológicos",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Principais escolas teóricas da psicologia para embasamento das práticas terapêuticas ocupacionais.\n",
+       "BibliografiaBasica": "BOCK, A.M.B; FURTADO, O.;TEIXEIRA, M.L.T. Psicologias: uma introdução ao estudo de Psicologia. São Paulo: Saraiva, 2008.\nCAVALCANTI, A.; GALVÃO, C. Terapia Ocupacional: fundamentação e prática. Rio de Janeiro: Guanabara. 2007.\n",
+       "BibliografiaComplementar": "GAIARÇA, J. A. Couraça Muscular do Caráter. São Paulo: Àgora, 1984.\nSILVEIRA, N. Jung: vida e obra. Rio de Janeiro: J. Álvaro, 1968.Paz e Terra, 1981.\nSTERN, D. N. Diário de um bebê. Porto Alegre: Artes Médicas, 1991.\nWINNICOTT, D. W. O brincar e a realidade. Rio de Janeiro: Imago, 1975.\nKELEMAN, S. Anatomia Emocional. São Paulo: Summus, 1992.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 17:00",
+        "professor": "PATRICIA DE LIMA CAETANO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MTP230",
+      "Nome": "Avaliação em Musicoterapia",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Refletir sobre critérios de elegibilidade e modos de avaliação de aspectos de comunicação e da receptividade sonoro-musical cliente seja ele indivíduo, grupo, instituição ou comunidade.\n___ BIBLIOGRAFIA BÁSICA ___\n1) BARCELLOS. L. R.(ORG). Vozes da Musicoterapia Brasileira. Apontamentos Editora: São Paulo, 2007.\n2) RUUD, E. Caminhos da Musicoterapia. Summus Editorial: São Paulo, 1990.\n3) COSTA, C. (org). Musicoterapia no Rio de Janeiro, Novos Rumos. Editora CBM: Rio de Janeiro, 2008.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MUT011",
+      "Nome": "Introd à Percepção Musical II",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo dos fundamentos musicais e suas relações com as diferentes maneiras de ouvir, escrever e fazer música. Parâmetros do som; as diferentes músicas - apreciação sob um perspectiva histórica; discutir \"música\" e sua matéria-prima: som-ruído-silêncio; divisão do tempo em duas e três partes: síncope e contratempo; possibilidades da divisão do tempo em quatro partes; síncope interna; figuras de duração (até a semicolcheia e sua respectiva pausa); compasso simples e compostos; inícios e terminações rítmicas; métrica binária, ternária, quaternária; u.t.: mínima, semínima e colcheia, simples e pontuada, com ênfase na semínima e na semínima pontuada; movimento do som nas suas relações intervalares; tonalismo: modo maior e menor; pauta, linhas suplementares (até 3), clave de sol e fa, âmbito do1-do5; intervalos: 2ª maior, menor, aumentada diminuta, 3ª maior, menor, aumentada diminuta, 8ª justa; tríades; encadeamentos com tônica e dominante (estado fundamental), modos maior e menor; formas binárias e ternárias; mudanças de andamento; contextos atonais: tom e semitom com grafia convencional; modalismo: modo mixolídio e eólio.\n___ BIBLIOGRAFIA BÁSICA ___\n1) ARNOUD, J. 1600 gradués de lecture musicale 1-1000 exercices ; 2- 600 exercices. Paris: Alfonse Leduc, 1881.\n2) BARBOSA, Cacilda Borges. Estudos de Ritmo e Som-Preparatório, 1º ano. São Paulo: Ricordi, 1982.\n3) WILLEMS, Edgar. Solfejo- Curso Elementar. São Paulo: Editora Fermata do Brasil, 2020.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) GRAMANI. J. E. Rítmica. São Paulo: Perspectiva, 2010.\n2) HINDEMITH, Paul. Treinamento Elementar para Músicos. São Paulo: Ricordi, 2004.\n3) PAZ, Ermelinda. 500 Canções Brasileiras. Brasília: MusiMed, 2015.\n4) SCHAFER, Murray. O Ouvido Pensante. São Paulo: Editora UNESP, 2012.\n5) WISNIK, J. M. O Som e o Sentido. São Paulo: Companhia das Letras, 2017.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MUT010"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EFA209",
+      "Nome": "Corpo e Prática Instrum B",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo de repertório de média complexidade do violão popular. Repertório de canções populares infantis brasileiras.\n___ BIBLIOGRAFIA BÁSICA ___\n1) SANCHEZ, Nilo Sérgio. Curso de Violão: São Paulo: Irmãos Vitale, 2004.\n2) PINTO, Henrique. Curso Progressivo de Violão. São Paulo: Ricordi, 2005.\n3) PINTO, Henrique. Violão Um olhar pedagógico. São Paulo: Ricordi, 2006.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "20:10 - 21:50",
+        "professor": "BEATRIZ DE FREITAS SALLES"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FFC234",
+      "Nome": "Patol Geral Bases Clínicas T0",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Mecanismos básicos de agressão e defesa do organismo e mecanismos acerca das doenças de maior incidência na população e interpretação dos resultados de diferentes metodologias utilizadas na medicina laboratorial das doenças que serão abordadas.\n___ BIBLIOGRAFIA BÁSICA ___\n1) MTCHELL, Richard. Fundamentos da Patologia. Rio de Janeiro: ELSEVIER, 2012.\n2) BRANDÃO, Jaime Peralta de Lima. Manual de patologia Clínica. Rio de Janeiro: Imperial Novo Milênio, 2008.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BMW110"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FMA233",
+      "Nome": "Pesq em Terapia Ocupacional",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A ciência da ocupação humana como conhecimento e seus métodos científicos; métodos de pesquisa em Terapia Ocupacional; História da Ciência. Ciência e o mito da neutralidade científica; problematizando o método científico: objetividade e subjetividade; a questão da verdade; ciência e sociedade. A produção científica no campo da saúde; a pesquisa qualitativa e quantitativa em Terapia Ocupacional; ética em pesquisa em Terapia Ocupacional; Bioética.\n",
+       "BibliografiaBasica": "GIL, A. C. Como elaborar projetos de pesquisa. São Paulo: Atlas, 2002.\nPINHEIRO RS, TORRES TZG. Análise Exploratória de Dados. In: Medronho, R.A. (Org), Epidemiologia. 2a. ed. Rio de Janeiro: Atheneu, 2009.\nMINAYO, M.C. de S. (org) Pesquisa Social: teoria, método e criatividade. 29a. Ed. Petrópolis: Vozes, 2012. 108p.\n",
+       "BibliografiaComplementar": "LUCIETTO, D.A; SENNA, M.A.A; SOUZA, A.C (org.) Elaborando projetos de pesquisa: o livro de receitas do(a) ?chef científico(a)? / Organizadores: Deison Alencar Lucietto;\nMarcos Antônio Albuquerque de Senna e Andrea Cardoso de Souza. ? 1. ed. -- Porto Alegre, RS: Editora Rede Unida, 2022.\nhttps://drive.google.com/drive/folders/10OBLqsabZWDPz6pqJRRF8kSlstVZ2va_?usp=sharing\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 12:00",
+        "professor": "ALEXANDRE DOS SANTOS BRITO"
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 12:00",
+        "professor": "CLAUDIA REINOSO ARAUJO DE CARVALHO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MTP231",
+      "Nome": "Lab de Musicoterapia A.",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Experimentação e reflexão sobre a utilização das sonoridades e música em Musicoterapia.\n___BIBLIOGRAFIA BÁSICA___\n1- BENENZON, R. Teoria da Musicoterapia: contribuição ao conhecimento do contexto não verbal. São Paulo: Summus Editoria, 1988.\n2- BARCELLOS, L. R. Cadernos de Musicoterapia, 4. Rio de Janeiro: Enelivros, 1999.\n3- BARCELLOS, L. R. Musicoterapia: alguns escritos. Rio de Janeiro: Enelivros, 2004.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "18:10 - 21:50",
+        "professor": "MARLY CHAGAS OLIVEIRA PINTO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MUV010",
+      "Nome": "Oficina Instr - Canto I",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A voz nas diferentes etapas da vida humana: a voz da criança, do adolescente, do adulto e do idoso. Noções básicas dos seguintes elementos: respiração, fonação; definição de consoantes e vogais na produção do som. Estudo de repertório pertinente aos elementos trabalhados.\n___ BIBLIOGRAFIA BÁSICA ___\n1) LOUZADA, Paulo S. As bases da educação vocal. O Livro Médico Rio de Janeiro, 1982.\n2) MÁRSICO, Lêda Osório. A voz infantil e o desenvolvimento músico-vocal. Editora EST, RS, 1979.\n3) VIDAL, M.R.M. Pedagogia vocal no Brasil: Uma abordagem emancipatória para o ensino-aprendizagem do canto. Dissertação de Mestrado. Rio de Janeiro, 2000.\n4) PUIG, Daniel. Técnica vocal infantil e juvenil na escola regular: importância, componentes básicos, dificuldades para sua aplicação em sala de aula e proposta de programa para disciplina de curso de formação de professores. Tese, UFRJ, Rio de Janeiro, 2001.\n5) BEHLAU, Mara. Higiene vocal infantil: informações básicas. São Paulo: Lovise, 1997.\n6) BLOCH, Pedro. Seu filho fala bem?: uma síntese dos problemas da voz e da fala da criança e do adolescente para pais e professores. Rio de Janeiro: Bloch, 1975.\n7) MOTTA, Ligia Brum. Aprimoramento vocal na terceira idade. Porto Alegre: CEFAC.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "4º Período": [
+     {
+      "Codigo": "FMA242",
+      "Nome": "Corporeidade e Psicomotr T0",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo e vivência dos conceitos e fundamentos da Terapia Ocupacional e da atividade humana como corporeidade. Funções psicomotoras e TO.\n___BIBLIOGRAFIA BÁSICA___\n1-SUMSION,THELMA. Prática baseada no cliente na terapia ocupacional: guia para implementação. São Paulo: Roca, 2003.\n2-LIBERMAN, Flávia. Danças em Terapia Ocupacional. São Paulo: Summus, 1998.\n3-PADUA, Elisabeth M. M. de e MAGALHÃES, Lílian V. Casos, Memórias e Vivência em Terapia Ocupacional. Campinas: Papirus, 2005.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FMA250",
+      "Nome": "Adm Plan Gest em To Fisio Fono",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "SUS: perspectiva histórica e legislação. Políticas públicas de saúde. Avaliação dos programas e serviços de saúde. Planejamento em saúde. Financiamento do SUS. Autonomia do Sujeito. Conselhos de saúde. Conferencia nacional de saúde.\n",
+       "BibliografiaBasica": "SOUZA, ALESSANDRA CAVALCANTI DE ALBUQUERQUE. Terapia ocupacional: fundamentação & prática. Rio de Janeiro: Guanabara Koogan, 2007.\nOLIVEIRA, Francisco Nilton Gomes; TAKEITI, Beatriz Akemi; CARVALHO, Claudia Reinoso Araujo (orgs.). Terapia Ocupacional Saberes e Fazeres. 1 ed. Curitiba: Brazil Publishing,\n202\nSLACK, Nigel et al. Administração da produção. São Paulo: Atlas, 2009.\n",
+       "BibliografiaComplementar": "ALONSO, C. M. C. O trabalho e o trabalhar de uma equipe de reabilitação do Programa Saúde da Família da cidade de São Paulo. Dissertação (mestrado) Universidade de São Paulo. Faculdade de Medicina. São Paulo, 2009.\nBAHIA, L.; SCHEFFER, M. Planos e seguros de saúde: o que todos devem saber sobre assistência médica suplementar no Brasil. São Paulo: Editora UNESP, 2010.\nGUIA NEU DA USP: https://neu.gumroad.com/l/ebookneu\nGOMES, Maria Dulce; TEIXEIRA, Liliana; RIBEIRO, Jaime. Enquadramento da Prática da Terapia Ocupacional: Domínio e Processo 4ª Edição. 2021\nSILVA, Marcia Terra da; LANCMAN, Selma; ALONSO, Carolina Maria do Carmo. Consequências da intangibilidade na gestão dos novos serviços de saúde mental. Rev. Saúde Pública, São Paulo , v. 43, supl. 1, p. 36-42, Aug. 2009 .\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 17:00",
+        "professor": "SAMIRA LIMA DA COSTA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MTP240",
+      "Nome": "Lab de Musicoterapia B",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Experimentação e reflexão sobre a utilização métodos e técnicas em Musicoterapia.\n___ BIBLIOGRAFIA BÁSICA ___\n1) MILLECCO, R. P. Ruídos da Massificação na Construção da Identidade Sonora Musical.  Revista Brasileira de Musicoterapia. UBAM. Ano !!, Número 3, 1997. pp 5-15.\n2) BARCELLOS, L. R. Musicoterapia: alguns escritos. Rio de Janeiro: Enelivros, 2004.\n3) Pinto, MARLY CHAGAS, Processos de Subjetivação na Música e na Clínica em Musicoterapia. Tese. UFRJ/IP/EICOS. 2007. Disponível em: http://www.psicologia.ufrj.br/pos_eicos/pos_eicos/arq_anexos/arqteses/marlychagas.pdf.\n4) SANTOS, M. A. C. Sobre o Significado da Música e da Musicoterapia. IN Revista Brasileira de Musicoterapia. UBAM, Ano V, número 6, 2002, pp 52-60.\n5) Baranow, A. M. Musicoterapia, Material Sonoro e Música Contemporânea. IN Revista Brasileira de Musicoterapia. UBAM, Ano V, número 6, 2002, pp 30-38.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "18:10 - 19:50",
+        "professor": "MARLY CHAGAS OLIVEIRA PINTO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MUA010",
+      "Nome": "Oficina Instr - Violão I",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução ao violão. Repertório coletivo contendo músicas em diversos gêneros e estilos, preferencialmente abordando, na parte técnica, os rudimentos da técnica violinística, o conhecimento do posicionamento das mãos e o aprendizado das notas no braço do instrumento e, na parte musical, princípios de afinação coletiva e técnicas para tocar em conjunto. Estudos elementares podem ser utilizados, caso necessário.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EFA219",
+      "Nome": "Movimento e Percussão B",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo de repertório para percussão de ritmos brasileiros nos principais instrumentos percussivos.\n___ BIBLIOGRAFIA BÁSICA ___\n1) BARBOSA, Joel. Da-capo- percussãol. São Paulo: Keyboard, sd.\n2) ROSAURO, Ney. 10 Beginnings studs. São Paulo: Pro-percussão, 2001.\n3) ASSIS, Gilson. Brazilian percussion. Advance Music.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "18:10 - 21:50",
+        "professor": "RAQUEL SIQUEIRA DA SILVA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "18:10 - 21:50",
+        "professor": "Não Informado"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FMA249",
+      "Nome": "Terapia Ocupacional Filosofia",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A construção da verdade e do poder nas relações do cuidado. O nascimento do hospital e a política da saúde no século XVIII e suas implicações nas práticas de saúde até os dias\natuais. A influência do pensamento positivista nas práticas de saúde. Filosofia do trabalho, corporeidade e estética. Modelos filosóficos da TO.\n",
+       "BibliografiaBasica": "FOUCAULT, Michel.Microfísica do Poder.Organização e tradução de Roberto Machado. 18 ed. Rio de Janeiro: Edições Graal, 1995.\nHAGEDORN, ROSEMARY. Fundamentos para a prática em terapia ocupacional. São Paulo: Roca, 2003.\nSOUZA, ALESSANDRA CAVALCANTI DE ALBUQUERQUE. Terapia ocupacional: fundamentação & prática. Rio de Janeiro: Guanabara Koogan, 2007.\n",
+       "BibliografiaComplementar": "DELEUZE, Gilles; GUATTARI, Félix.Mil Platôs:Capitalismo e esquizofrenia.. Vol. 1. Rio de Janeiro: Editora 34, 2011.\nKOPENAWA, Davi. ALBERT, Bruce. A queda do céu: Palavras de um xamã yanomami. Tradução Beatriz Perrone-Moisés; prefácio de Eduardo Viveiros de Castro. 1 ª ed.\nSão Paulo: Companhia das Letras, 2015.\nSANTOS, Antônio Bispo. Colonização, quilombos. Modos e Significados. Capítulo 3: Biointeração,2015.\nASANTE, Molefi Kete. Uma origem africana da filosofia: mito ou realidade? Revista de Humanidades e Letras. ISSN: 2359-2354. Vol. 1 | Nº. 1 | Ano 2014.\nRevista de Terapia Ocupacional da Universidade de São Paulo.\nCadernos Brasileiros de Terapia Ocupacional\nRevista Interinstitucional Brasileira de Terapia Ocupacional\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 17:00",
+        "professor": "MARCIA CABRAL DA COSTA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FMA362",
+      "Nome": "T0 e Acessibilidade Cultural",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Campo da Terapia Ocupacional e Acessibilidade cultural. Processos criativos e fruição artística em Terapia Ocupacional. Métodos, instrumentos e técnicas de acessibilidade\nartísticas: audiodescrição, exposição sensorial, Libras. Política Nacional da Diversidade e Acessibilidade Cultural e Terapia Ocupacional.\n",
+       "BibliografiaBasica": "FRANCISCO NILTON GOMES DE OLIVEIRA, BEATRIZ AKEMI TAKEITI, CLAUDIA REINOSO ARAUJO DE CARVALHO organizadores. Terapia ocupacional, saberes e fazeres. Curitiba, PR : Brazil Publishing, 2021\nSALASAR, D. N.; FONSECA, Ta. de C. B. Cultura para todos: instrumento de avaliação de acessibilidade para ambientes culturais. Pelotas: Publicações Oficiais UFPel, 2022.\nNada sobre nós sem nós: relatório final 16 a 18 de outubro de 2008/. Oficina Nacional de Indicação de Políticas Públicas Culturais para Inclusão de Pessoas com Deficiência ? Rio de\nJaneiro, RJ: ENSP/FIOCRUZ, 2009. p 124. ISBN: 978-85-88588-05-9.\n",
+       "BibliografiaComplementar": "DORNELES, P. S. LOPES, R. E. Cidadania e diversidade cultural na pauta das políticas culturais. Cadernos de Terapia Ocupacional da UFSCar, São Carlos, v. 24, n. 1, p. 173-183,2016.\nDORNELES, P. S.; CARVALHO, C. R. A. de; SILVA, A. C. C., MEFANO, V. Do direito cultural das pessoas com deficiência. Rev Polit Públicas. v. 22, n.1, p. 139-56. 2018.\nDORNELES, P. S.; CARVALHO, C. R. A. de; CASTRO, A. R. S. F. O curso de pós-graduação em acessibilidade cultural da Universidade Federal do Rio de Janeiro e suas ações\nde ensino, pesquisa e extensão. Rev. FAEEBA ? Ed. e Contemp., Salvador, v. 26, n. 50, p. 105-117, set./dez. 2017.\nROCHA. C.S. Acessibilidade Cultural: trajetória de formação de uma terapeuta ocupacional. Trabalho de Conclusão de Curso (Especialização em Acessibilidade Cultural). Departamento de Terapia Ocupacional, Universidade Federal do Rio de Janeiro. Rio de Janeiro, 2016. https://lacasufrj.wordpress.com/trabalho-de-conclusao-de-curso-2/\nCARVALHO .C.R.A - Acessibilidade Cultural no contexto da pessoa idosa. O caso do Museu da Geodiversidade da Universidade Federal do Rio de Janeiro. Trabalho de\nConclusão de Curso (Especialização em Acessibilidade Cultural). Departamento de Terapia Ocupacional, Universidade Federal do Rio de Janeiro. Rio de Janeiro, 2016.\nhttps://lacasufrj.wordpress.com/trabalho-de-conclusao-de-curso-2/\nGARCIA. F.S.F - As contribuições da Terapia Ocupacional no âmbito cultural: tornando o Museu acessível. Fernanda da Silva Ferreira Garcia. Trabalho de Conclusão de Curso\n(Especialização em Acessibilidade Cultural). Departamento de Terapia Ocupacional, Universidade Federal do Rio de Janeiro. Rio de Janeiro, 2016.\nhttps://lacasufrj.wordpress.com/trabalho-de-conclusao-de-curso-2/\nFERREIRA. M.S.M. As Possibilidades de Atuação do Terapeuta Ocupacional na Residência Cultural. Trabalho de Conclusão de Curso (Especialização em Acessibilidade\nCultural). Departamento de Terapia Ocupacional, Universidade Federal do Rio de Janeiro. Rio de Janeiro, 2016.\nhttps://lacasufrj.wordpress.com/trabalho-de-conclusao-de-curso-2/\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 12:00",
+        "professor": "PATRICIA SILVA DORNELES"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 12:00",
+        "professor": "Não Informado"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MTP241",
+      "Nome": "Mt Saúde Criança e da Mulher",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Políticas públicas da Infância, Adolescência e da mulher no Brasil. Principais concepções, fundamentações teóricas  e práticas  da Musicoterapia na saúde da criança e da mulher.\n___ BIBLIOGRAFIA BÁSICA ___\n1) BRASIL. Estatuto da Criança e do Adolescente. Lei 1 8069 de 13 de julho de 1990.\n2) _______ Saúde da Criança. Criança e Aleitamento Materno.\n3) _______Saúde de Adolescentes e Jovens.\n4) CAMPOS,D.C.; Música; Neuropsicologia; Transtorno do déficit de atenção/hiperatividade (TDAH). Diálogo entre arte e saúde. XVI Congresso da ANPPOM. Brasília: 2006.\n5) SÁ, L. C. A teia do tempo e o autista: música e musicoterapia. Editora UFG: Goiânia, 2003.\n6) WASLAWICK, P. Quando a música entra em ressonância com as emoções: significados e sentidos na narrativa de jovens estudantes de musicoterapia. Revista Científica/FAP. FAP: Curitiba, vol 1, jan-dez, 2006.\n7) WROBEL, V. Acerca do Ritornelo e Musicalização Infantil. In: Revista Brasileira de Musicoterapia. UBAM. Ano Um. n. 6. 2002, pp 23-29.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MUV011",
+      "Nome": "Oficina Instr - Canto II",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Os diferentes modos de cantar: os cantos de tradição oral, a canção popular, o canto lírico. Estudo dos diferentes modos de emissão e impostação da voz. Desenvolvimento de repertório experimental que evidencie tais diferenças de emissão.\n___ BIBLIOGRAFIA BÁSICA ___\n1) MARIZ, Vasco. A Canção Brasileira. Erudita, folclórica e popular. Cátedra, Brazilia, 1990.\n2) SCHAFER, Murray. O Ouvido Pensante. (tradução de Marisa Trench de Fonterrada, Magda Gomes e Maria Lúcia Paschoal). São Paulo: Editora da UNESP, 1991.\n3) SOBREIRA, Silvia, Desafinação vocal. Brasília: Musimed Edições Musicais, 2003.\n4) TATIT, Luiz. O cancionista: composição de canções no Brasil. São Paulo: EDUSP,  2002.\n5) TUGNY, Rosangela. Músicas Africanas e Indígenas no Brasil. Belo Horizonte: UFMG, 2006.\n6) WISNIK, José Miguel. O som e o sentido. São Paulo: Cia. das Letras, 1999.\n7) TINHORÃO, José Ramos. Os sons dos negros no Brasil: cantos, danças, folguedos: origens. São Paulo, 2009.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MUV010"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "5º Período": [
+     {
+      "Codigo": "MTP351",
+      "Nome": "Mt Disfun Traum Orto Reum Derm",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das principais disfunções traumatológicas, ortopédicas, reumatológicas e dermatológicas e a atuação da Musicoterapia.\n___ BIBLIOGRAFIA BÁSICA ___\n1) TROMBLY, Catharine A.; RADOMSKY, Mary Vining. Terapia Ocupacional para disfunções físicas. São Paulo: Santos, 2005.\n2) BROWN & NEUMANN. Segredos em Ortopedia. Artmed. Porto Alegre, 2001.\n3) WEST, STERLING G. Segredos em Reumatologia. Artmed. Porto Alegre, 2000.\n4) COSTA, C. (org). Musicoterapia no Rio de Janeiro, Novos Rumos. Editora CBM: Rio de Janeiro, 2008. pp 48-62.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MTP353",
+      "Nome": "Musicoterapia e Prát Vocal A.",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo de repertório de canções da MPB e folclóricas para prática da Musicoterapia. Preparação para uma prática polifônica.\n___ BIBLIOGRAFIA BÁSICA ___\n1) OITICICA, Vanda. O Be-a-bá da Técnica Vocal. Brasília: Musimed, sd.\n2) COSTA, Edilson. Voz e arte lírica: Técnica Vocal ao alcance de todos. São Paulo: Lovise, 2001.\n3) SANDRONI, Clara. 260 dicas para o canto popular. São Paulo: Lumiar, sd.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "20:10 - 21:50",
+        "professor": "RAQUEL SIQUEIRA DA SILVA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MUA011",
+      "Nome": "Oficina Instr - Violão II",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Repertório coletivo contendo músicas em diversos gêneros e estilos, preferencialmente abordando, na parte técnica, escalas de uma oitava e arpejos simples e, na parte musical, privilegiando o idiomatismo rítmico de pequenas melodias brasileiras. Estudos elementares podem ser utilizados, caso necessário.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MUA010"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MTP350",
+      "Nome": "Mt nas Disfunções Neurológicas",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo integrado do sistema neurolocomotor, cognição e memória e plasticidade corporal e neurológica. Modelos de intervenção da Musicoterapia nos principais quadros neurológicos. Recursos terapêuticos ocupacionais nas disfunções neurológicas.\n___ BIBLIOGRAFIA BÁSICA ___\n1) EDMANS, J. et al. Terapia Ocupacional e Derrame Cerebral. Santos, 2004.\n2) VOSS, D; IONTA, M; MYERS, B. Facilitação Neuro Muscular proprioceptiva. São Paulo: Editorial Médica Panamericana, 1982.\n3) PEDRETTI, Lorraine Willians; EARLY, Marybeth. Terapia Ocupacional ? capacidades práticas para disfunções físicas. São Paulo: Rocca, 2005.\n4) GRIVE, June. Neuropsicologia em Terapia Ocupacional. São Paulo: Santos, 2005.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MTP352",
+      "Nome": "Harmonia em Musicoterapia",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Encadeamentos e acordes de harmonia funcional na prática musicoterápica.\n___ BIBLIOGRAFIA BÁSICA ___\n1) MAGALHÃES, Ondina. Teoria Musical através da instrução programada. São Paulo: Ricordi, s.d.\n2) ROY, Bennett. Elementos Básicos da Música. Rio de Janeiro Zahar, 1986.\n3) ROY, Bennett. Como ler uma partitura. Rio de Janeiro: Zahar, 1999.\n4) SCHAEFFER, Pierre. Tratado de los objetos musicales. Alianza, 1996.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "18:10 - 21:50",
+        "professor": "BEATRIZ DE FREITAS SALLES"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MTP354",
+      "Nome": "Musicoterapia Saúde Mental A.",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das teorias sobre formação do aparelho psíquico e da gênese da psicose. Epidemiologia, sinais e sintomas em psiquiatria, classificação das alterações e doenças em saúde mental. Exame psíquico.\n___ BIBLIOGRAFIA BÁSICA ___\n1) BRASIL. Ministério da Saúde. Política Nacional de saúde Mental. Disponível em: http://portal2.saude.gov.br/portal/saude/area.cfm?id_area=925\n2) DANTAS, S. Grupo Harmonia Enlouquece: Percurso de uma história e fundamentos de uma prática Musicoterápica. In COSTA, C. (org). Musicoterapia no Rio de Janeiro, Novos Rumos. Editora CBM: Rio de Janeiro, 2008. pp 168-184.\n3) PEIXOTO, P. Cartografias afetivas em Musicoterapia: Caminhos para o Artesão de Si.  In COSTA, C. (org). Musicoterapia no Rio de Janeiro, Novos Rumos. Editora CBM<: Rio de Janeiro, 2008. pp 100-167.\n4) SIQUEIRA, R.; MORAES, M. Musicoterapia e Saúde Mental: relato de uma experiência Rizomática. Psico v 38, n 2, pp 139-147, maio-agosto 2007\n5) TANGARIFE, A. S. Repensando a Musicoterapia na Deficiência mental. In BARCELLOS. L.R. (ORG). Vozes da Musicoterapia Brasileira.Apontamentos: Editora: São Paulo, 2007. pp 33-41.\n6) VIDAL, V.; AZEVEDO, M; LUGÃO. S. Songbook e CD Cancioneiros do IPUB. FUJB. IPUB: Rio de Janeiro. 1998.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "18:10 - 19:50",
+        "professor": "LEILA BRITO BERGOLD"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MUT005",
+      "Nome": "Introd às Músicas do Mundo",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Exposição dos educandos à diversidade musical do mundo, abordando os princípios estético-metodológicos de diferentes culturas bem como as possíveis interrelações entre as mesmas.\n___BIBLIOGRAFIA BÁSICA___\n1) BASTOS, Rafael José de Menezes /A musicológica Kamayurá: para uma antropologia da comunicação no Alto-Xingu. Brasília: FUNAI.\n2) BLACKING, John. How Musical Is Man? Seattle, WA: University of Washington Press.\n3) LUCAS, Glaura / 2002 Os sons do Rosário. Belo Horizonte: Editora da UFMG./\n4) MERRIAM, Alan P. The Anthropology of Music. Chicago: University of Chicago Press. /\n5) NETTL, Bruno. Música folklórica y tradicional de los continentes occidentales. Trad. Miren Rahm. Colección Alianza Música. Madrid: Alianza.\n6) OLIVEIRA PINTO, Tiago de. ?Som e música; questões de uma antropologia sonora?. Revista de Antropologia Vol 44 Nº 1 / 1985\n7) SEEGER, Anthony / Why Suyá Sing: A Musical Anthropology of na Amazonian People. Cambridge: Cambridge University Press.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "16:00 - 18:00",
+        "professor": "SAMUEL MELLO ARAUJO JUNIOR"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "6º Período": [
+     {
+      "Codigo": "MTP361",
+      "Nome": "Musicoterapia Saúde Mental B",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A Reforma psiquiátrica. Políticas brasileiras para a Saúde Mental. Conceitos e modos de cuidados em saúde Mental e as teorias que os embasam. A musicoterapia em Saúde mental.\n___ BIBLIOGRAFIA BÁSICA ___\n1) DANTAS, S. Grupo Harmonia Enlouquece: Percurso de uma história e fundamentos de uma prática Musicoterápica. In COSTA, C. (org). Musicoterapia no Rio de Janeiro, Novos Rumos. Editora CBM: Rio de Janeiro. 2008. pp 168-184.\n2) PEIXOTO, P. Cartografias afetivas em Musicoterapia: Caminhos para o Artesão de Si.  In COSTA, C. (org). Musicoterapia no Rio de Janeiro. Novos Rumos. Editora CBM: Rio de Janeiro, 2008. pp 100-167.\n3) PIMENTEL, Adriana. Musicoterapia e Promoção de Saúde, 2003. Disponível em: http://www.fw2.com.br/clientes/artesdecura/revista/musicoterapia/Monografia_grd_Adriana_P.pdf.\n4) SIQUEIRA, R; MORAES, M. Musicoterapia e Saúde Mental: relato de uma experiência Rizomática. Psico v 38, n 2, 0 139-147, maio- agosto 2007.\n5) TANGARIFE- a.s ? Repensando a Musicoterapia na Deficiência mental. In BARCELLOS. L.R. (ORG). Vozes da Musicoterapia Brasileira. Apontamentos Editora: São Paulo, 2007. pp 33-4.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "18:10 - 21:50",
+        "professor": "BIANCA BRUNO BARBARA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MTP363",
+      "Nome": "Ética e Bioética Musicoterapia",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo dos fundamentos éticos e bioéticos que fundamentam a prática da MT. História da ética e bioética. Direitos Humanos e ética.\n___ BIBLIOGRAFIA BÁSICA ___\n1) KIPPER, Delio et al. Bioética clínica. Rio de Janeiro: Gaia, 200.\n2) NOVAES, Adouto. Ética. Rio de Janeiro: Companhia das Letras, 2007.\n3) BATTISTI, Mario; QUIRINO, Gustavo. Ética do cuidado: código de ética comentado da Fisioterapia e Terapia Ocupacional. São Paulo: Musa, 2006.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MTP365",
+      "Nome": "Musicoterapia e Tecnologia",
+      "Créditos": "1.0",
+      "Teórica": "15",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Prática da MT e tecnologias de notação, criação, emissão, captação sonora.\n___ BIBLIOGRAFIA BÁSICA ___\n1) HINDEMITH, Paul. Treinamento elementar para músicos. São Paulo: Ricordi Brasileira, c.1970.\n2) LACERDA, Osvaldo. Compêndio de Teoria Elementar da Música. São Paulo: Ricordi do Brasil, 1967.\n3) MED, Bohumil. Teoria da música. Brasília: Musimed, 1996.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MUA012",
+      "Nome": "Oficina Instr - Violão III",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Repertório coletivo contendo músicas em diversos gêneros e estilos, preferencialmente abordando, na parte técnica, escalas de até duas oitavas e ligados simples, além de passagem de acordes e encadeamentos harmônicos e, na parte musical, aspectos formadores do som (formato de unhas, ataque de mão direita, jogo de cordas adequados, etc.).\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MUA011"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MTP360",
+      "Nome": "Musicoterapia em Ação Social",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceitos e desafios da Inclusão Social no Brasil. As políticas públicas de inclusão no Brasil. A musicoterapia como instrumento de inclusão social.\n___ BIBLIOGRAFIA BÁSICA ___\n1) IBICT - Inclusão social. Vl 3, n 1, 2008. Disponível em: http://revista.ibict.br/inclusao/index.php/inclusao.\n2) BRAGA, A. L. A; LANG, N. Pesquisando a ?inclusão? na cidade de Ribeirão Preto. In Revista Brasileira de Musicoterapia, UBAM, Ano X, (8), 2006, pp 11-25.\n3) LEANDRO, J. A. et al. Promoção de Saúde: Música e Inclusão Social no Centro de Atenção Psicossocial de Castro/PR. Revista Conexão UEPG, v. 3, p. 57-61, 2007.\n4) URICOECHEA, Ana Sheila. Diversidade e Inclusão: a vivência de um novo paradigma. Programa Arte sem Barreiras/Funarte. Caderno de Textos, ano 3, nº 4, agosto/dezembro 2006, p. 27-35.\n5) URICOECHEA, Ana Sheila. Educação Musical, Educação Especial e Musicoterapia. In COSTA, C. (org). Musicoterapia no Rio de Janeiro, Novos Rumos. Editora CBM: Rio de Janeiro, 2008. pp 48-62.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MTP362",
+      "Nome": "Musicoterapia Cont Hospitalar",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Análise da estruturação do campo da musicoterapia hospitalar. Discussão dos paradigmas norteadores da prática musicoterapêutica em hospitais e as práticas possíveis em saúde: prevenção, promoção e produção de saúde. Relações com a política de humanização.\n___ BIBLIOGRAFIA BÁSICA ___\n1) BARCELLOS, L. R. M. A Previsibilidade da Canção Popular como Holding às Mães de Bevês Prematuros. In BARCELLOS. L.R.(ORG). Vozes da Musicoterapia Brasileira. Apontamentos Editora: São Paulo, 2007. pp 81-91.\n2) BERGOLD, L. Interface entre teoria e prática no contexto hospitalar: reflexões sobre uma abordagem sistêmica da musicoterapia. In: COSTA, C.M. (org). Musicoterapia no Rio de Janeiro. Novos rumos. Rio de Janeiro: Editora CBM. 2008. pp 198-218.\n3) BRUSCIA, K. Definindo Musicoterapia. Rio de Janeiro: Enelivros, 2000. 312p.\n4) CHAGAS, M.; GAZANEO, L.; AGUIAR, M. Projeto Encanto: Avaliando a implantação de uma proposta de humanização hospitalar. In: Pesquisa em Música. v. 6, p.57-74. 2006.\n5) FERRAZ, C. A Implementação da Musicoterapia em um Hospital Geral de São Paulo. In BARCELLOS. L.R.(ORG). Vozes da Musicoterapia Brasileira. Apontamentos Editora: São Paulo, 2007. pp 43-49.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "20:10 - 21:50",
+        "professor": "BIANCA BRUNO BARBARA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MTP364",
+      "Nome": "Musicoterapia e Prát Vocal B",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo de repertório de canções da MPB e folclóricas para diversas vozes na prática musicoterápica.\n___ BIBLIOGRAFIA BÁSICA ___\n1) OITICICA, Vanda. O Be-a-bá da Técnica Vocal. Brasília: Musimed, sd.\n2) COSTA, Edilson. Voz e arte lírica: Técnica Vocal ao alcance de todos. São Paulo: Lovise, 2001.\n3) SANDRONI, Clara. 260 dicas para o canto popular. São Paulo: Lumiar, sd.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "20:10 - 21:50",
+        "professor": "BEATRIZ DE FREITAS SALLES"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MTPU01",
+      "Nome": "Estág Superv Musicoterapia I",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "75",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Observação prática supervisionada em musicoterapia.\n___ BIBLIOGRAFIA BÁSICA ___\n1) BARCELLOS, L. R.M. Cadernos de Musicoterapia 1. Rio de Janeiro: Enelivros, 1992.\n2) BARCELLOS, L. R.M. A Musicoterapia na América do Sul. In BARCELLOS. L. R.(ORG).  Vozes da Musicoterapia Brasileira. Apontamentos Editora: São Paulo, 2007.\n3) BARROS, J. A. A constituição de um Campo Disciplinar: Um olhar de fora sobre a Musicoterapia. In: Revista Pesquisa e Música. Revista do Conservatório Brasileiro de Música, CBM: Rio de Janeiro. Vol 7, n. 1, 2007.\n4) RUUD, E. Caminhos da Musicoterapia . Summus Editorial: São Paulo, 1990.\n5) RUUD, E. (org). Musica e Saúde. Summus Editorial: São Paulo, 1991.\n6) SAMPAIO, R.T. Por uma nova noção de Música em Musicoterapia. In Apontamentos em Musicoterapia.   Apontamentos Editora: São Paulo: 2005.\n7) SMITH, M. História da Musicoterapia no Brasil. In: BARCELLOS. L. R. (ORG). Vozes da Musicoterapia Brasileira. Apontamentos Editora: São Paulo.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "18:00 - 20:00",
+        "professor": "BEATRIZ DE FREITAS SALLES"
+       },
+       {
+        "dia": "Seg",
+        "hora": "16:30 - 17:30",
+        "professor": "Não Informado"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "7º Período": [
+     {
+      "Codigo": "MTP471",
+      "Nome": "Prát Conj Improv Composição Mt",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "18:10 - 21:50",
+        "professor": "BEATRIZ DE FREITAS SALLES"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MTPK01",
+      "Nome": "Tcc em Musicoterapia",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Delimitação do tema, desenho de estudo e planejamento do trabalho de conclusão de curso. Cronograma do trabalho de pesquisa. Trabalhos científicos: redação, linguagem e normas técnicas (ABNT). Ética e bioética na pesquisa científica. Pesquisa em bases de dados. Desenvolvimento de instrumentos de pesquisa. Apresentação dos projetos de Trabalho de Conclusão de Curso em musicoterapia.\n___ BIBLIOGRAFIA BÁSICA ___\nDefinida conforme a área do projeto.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "20:10 - 21:50",
+        "professor": "FRANCISCA MARIANA ABREU MAYERHOFFER"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MUA013",
+      "Nome": "Oficina Instr - Violão IV",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Repertório coletivo contendo músicas em diversos gêneros e estilos, preferencialmente abordando, na parte técnica, a independência do polegar da mão direita, arpejos compostos e/ou escalas de até três oitavas e, na parte musical, o idiomatismo estilístico de peças da Renascença ou Barrocas e/ou noções de acompanhamento de gêneros típicos da música brasileira.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MUA012"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MTP470",
+      "Nome": "Musicoterapia Saúde do Idoso",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Política públicas para o  envelhecimento As principais teorias que embasam o trabalho de geriatria e gerontologia. A musicoterapia com o idoso.\n___ BIBLIOGRAFIA BÁSICA ___\n1) ASSUMPÇÄO, M.T. V. Musicoterapia na prática interdisciplinar: com grupos terapêuticos na terceira idade. Monografia apresentada ao Curso de Pós-Graduação Especialização em Envelhecimento e Saúde do Idoso. Rio de Janeiro: Ensp/Fiocruz, 1999.\n2) BRASIL. Ministério da Saúde. Caderneta de Saúde da Pessoa Idosa. Disponível em: http://portal.saude.gov.br/portal/arquivos/pdf/caderneta_2008_nova.pdf.\n3) CUNHA, R. Musicoterapia na abordagem do portador de doença de Alzheimer.\n4) SOUZA, M. G. C. Musicoterapia e a Clínica do Envelhecimento. In: Freitas, E. V. et al., Tratado de Geriatria e Gerontologia. Rio de Janeiro: Editora Guanabara Koogan, Rio de Janeiro, 2002. pp 872-881.\n5) SOUZA, M. G. C. Musicoterapia na Terceira Idade: uma abordagem institucional. In COSTA, C. (org). Musicoterapia no Rio de Janeiro. Novos Rumos. Editora CBM: Rio de Janeiro, 2008. pp 185-197.\n6) ZANINI, C.R.O. Coro Terapêutico - um olhar do musicoterapeuta para o idoso no novo milênio. In BARCELLOS. L.R.(ORG). Vozes da Musicoterapia Brasileira. Apontamentos Editora: São Paulo, 2007. pp 93-197.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "18:10 - 19:50",
+        "professor": "LEILA BRITO BERGOLD"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MTP472",
+      "Nome": "Mt e Construção Instrumentos",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Classificação e criação de instrumentos musicais com materiais diversos, noções de acústica, modos de emissão e amplificação sonora.\n___ BIBLIOGRAFIA BÁSICA ___\n1) BARCELLOS, Lia Rejane M. Musicoterapia: alguns escritos. Rio de Janeiro: Enelivros, 2003.\n2) BRUSCIA, Kenneth.Definindo Musicoterapia. Rio de Janeiro: Enelivros, 2000.\n3) CHAGAS, Marly e PEDRO, Rosa. Musicoterapia: desafios entre a modernidade e a contemporaneidade. Rio de Janeiro: Maud, 2008.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "18:10 - 21:50",
+        "professor": "MARCUS DE ARAUJO FERRER"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MTPU02",
+      "Nome": "Estág Superv Musicoterapia II",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "150",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Atuação prática supervisionada em atendimentos musicoterapia na saúde da criança e do adolescente.\n___ BIBLIOGRAFIA BÁSICA ___\n1) BARCELLOS, L. R.M. Cadernos de Musicoterapia 1. Enelivros: Rio de Janeiro, 1992.\n2) BARCELLOS, L. R.M. A Musicoterapia na América do Sul. In: BARCELLOS. L. R. (ORG).  Vozes da Musicoterapia Brasileira. Apontamentos: Editora: São Paulo, 2007. pp 127-136.\n3) BARROS, J. A. A constituição de um Campo Disciplinar: Um olhar de fora sobre a Musicoterapia. In: Revista Pesquisa e Música. Revista do Conservatório Brasileiro de Música: CBM: Rio de Janeiro. Vol 7, n. 1, 2007. pp 85-127.\n4) RUUD, E. Caminhos da Musicoterapia. Summus Editorial: São Paulo, 1990.\n5) RUUD, E.(org). Musica e Saúde. Summus Editorial: São Paulo, 1991.\n6) SAMPAIO, R.T. Por uma nova noção de Música em Musicoterapia. In: Apontamentos em Musicoterapia. Apontamentos Editora: São Paulo: 2005, pp 21-23.\n7) SMITH, M. História da Musicoterapia no Brasil. In: BARCELLOS, L. R. (ORG). Vozes da Musicoterapia Brasileira.Apontamentos: Editora: São Paulo, 2007. pp 117-126.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "20:10 - 21:50",
+        "professor": "LEILA BRITO BERGOLD"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "8º Período": [
+     {
+      "Codigo": "MTPU03",
+      "Nome": "Estág Superv Musicoterapia III",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "150",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Atuação prática supervisionada em atendimentos musicoterapia na reabilitação física e saúde funcional.\n___ BIBLIOGRAFIA BÁSICA ___\n1) BARCELLOS, L. R.M. Cadernos de Musicoterapia 1. Enelivros: Rio de Janeiro, 1992.\n2) BARCELLOS, L. R.M. A Musicoterapia na América do Sul. In: BARCELLOS. L. R. (ORG).  Vozes da Musicoterapia Brasileira.Apontamentos: Editora: São Paulo, 2007, pp 127-136.\n3) BARROS, J. A. A constituição de um Campo Disciplinar: Um olhar de fora sobre a Musicoterapia. In: Revista Pesquisa e Música. Revista do Conservatório Brasileiro de Música: CBM: Rio de Janeiro. Vol 7, n. 1, 2007, pp 85-127.\n4) RUUD, E. Caminhos da Musicoterapia. Summus Editorial: São Paulo, 1990.\n5) RUUD, E. (org). Musica e Saúde. Summus Editorial: São Paulo, 1991.\n6) SAMPAIO, R.T. Por uma nova noção de Música em Musicoterapia. In: Apontamentos em Musicoterapia. Apontamentos Editora: São Paulo: 2005, pp 21-23.\n7) SMITH, M. História da Musicoterapia no Brasil. In: BARCELLOS. L. R. (ORG). Vozes da Musicoterapia Brasileira. Apontamentos Editora: São Paulo, 2007, pp 117-126.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "18:10 - 19:50",
+        "professor": "BEATRIZ DE FREITAS SALLES"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MTPU05",
+      "Nome": "Estág Superv Musicoterapia V",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "150",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Atuação prática supervisionada em atendimentos musicoterapia na saúde mental.\n___ BIBLIOGRAFIA BÁSICA ___\n1) BARCELLOS, L. R.M. Cadernos de Musicoterapia 1. Enelivros: Rio de Janeiro, 1992.\n2) BARCELLOS, L. R.M. A Musicoterapia na América do Sul. In: BARCELLOS, L.R. (ORG).  Vozes da Musicoterapia Brasileira. Apontamentos Editora: São Paulo, 2007, pp 127-136.\n3) BARROS, J. A. A constituição de um Campo Disciplinar: Um olhar de fora sobre a Musicoterapia. In: Revista Pesquisa e Música. Revista do Conservatório Brasileiro de Música CBM: Rio de Janeiro. Vol 7, n. 1, 2007, pp 85-127.\n4) RUUD, E. Caminhos da Musicoterapia. Summus Editorial: São Paulo, 1990.\n5) RUUD, E. (org). Musica e Saúde. Summus Editorial: São Paulo, 1991.\n6) SAMPAIO, R. T. Por uma nova noção de Música em Musicoterapia. In: Apontamentos em Musicoterapia. Apontamentos Editora: São Paulo: 2005, pp 21-23.\n7) SMITH, M. História da Musicoterapia no Brasil. In: BARCELLOS, L.R.(ORG)  Vozes da Musicoterapia Brasileira.Apontamentos: Editora: São Paulo, 2007 pp 117-126.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "18:10 - 19:50",
+        "professor": "BIANCA BRUNO BARBARA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 12:00",
+        "professor": "Não Informado"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MTPE02",
+      "Nome": "Portifólio Ativ Extensão - Mtp",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "0",
+      "Extensão": "45",
+      "Informação": {
+       "Info": "Elaboração de portfólio apresentando o percurso do estudante nas diversas atividades de extensão ao longo do curso.\n___ BIBLIOGRAFIA BÁSICA ___\n1) BRASIL. Lei nº 9.394, de 20 de dezembro de 1996. Estabelece as Diretrizes e Bases da Educação Nacional. Diário Oficial da República Federativa do Brasil, Brasília, DF, n. 248, 23 dez. 1996.\n2) BRASIL. Lei nº 10.172, de 09 de janeiro de 2001. Aprova o Plano Nacional de Educação (2001-2010) e dá outras providências. Brasília: 2001.\n3) BRASIL. Lei nº 13.005, de 25 de junho de 2014. Aprova o Plano Nacional de Educação (2014-2024) e dá outras providências. Brasília: 2014.\n4) FORPROEX. Avaliação Nacional da Extensão Universitária. Brasília: MEC SESU, 2001.\n5) FORPROEX. Avaliação Nacional da Extensão Universitária. Gráfica da UFRGS. Porto Alegre, RS, 2012 (Coleção Extensão Universitária; v.8).\n6) FORPROEX. Indissociabilidade Ensino-Pesquisa-Extensão e a Flexibilização Curricular: uma visão da extensão. Porto Alegre: UFRGS, Brasília: MEC/SESU, 2006 (Coleção Extensão Universitária; v.4).\n7) FORPROEX. Avaliação da Extensão Universitária: práticas e discussões da Comissão Permanente de Avaliação da Extensão. Organização: Maria das Dores Pimentel Nogueira. Belo Horizonte: FORPROEX/CPAE; PROEX/UFMG, 2013 (Coleção Extensão Universitária; v.8).\n8) THIOLLENT, M.; CASTELO BRANCO, A. L.; GUIMARÃES, R. G. M.; ARAÚJO FILHO, T. (Orgs.) Extensão Universitária: conceitos, métodos e práticas. Rio de Janeiro: UFRJ/SR5, 2003. 175p.\n9) THIOLLENT, Michel. Metodologia da Pesquisa-Ação. 14ª edição. São Paulo: Cortez, 2005.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "18:10 - 19:50",
+        "professor": "FRANCISCA MARIANA ABREU MAYERHOFFER"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MTPU04",
+      "Nome": "Estág Superv Musicoterapia IV",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "150",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Atuação prática supervisionada em atendimentos musicoterapia para inclusão social no território e/ou instituições de medida socioeducativa e/ou instituições penais.\n___ BIBLIOGRAFIA BÁSICA ___\n1) BARCELLOS, L. R.M. Cadernos de Musicoterapia 1. Enelivros: Rio de Janeiro, 1992.\n2) BARCELLOS, L. R.M. A Musicoterapia na América do Sul. In: BARCELLOS. L.R. (ORG).  Vozes da Musicoterapia Brasileira. Apontamentos Editora: São Paulo, 2007. pp 127-136.\n3) BARROS, J. A. A constituição de um Campo Disciplinar: Um olhar de fora sobre a Musicoterapia. In: Revista Pesquisa e Música. Revista do Conservatório Brasileiro de Música: CBM. Rio de Janeiro. Vol 7, n. 1, 2007, pp 85-127.\n4) RUUD, E. Caminhos da Musicoterapia. Summus Editorial: São Paulo, 1990.\n5) RUUD, E. (org). Musica e Saúde. Summus Editorial: São Paulo, 1991.\n6) SAMPAIO, R. T. Por uma nova noção de Música em Musicoterapia. In: Apontamentos em Musicoterapia. Apontamentos Editora: São Paulo, 2005, pp 21-23.\n7) SMITH, M. História da Musicoterapia no Brasil. In: BARCELLOS, L.R. (ORG). Vozes da Musicoterapia Brasileira. Apontamentos Editora: São Paulo, 2007, pp 117-126.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "20:10 - 21:50",
+        "professor": "MARLY CHAGAS OLIVEIRA PINTO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ]
+   },
+   "obrigatorias": 58,
+   "eletivas": 0,
+   "ano": "2019/1 a 9999/9"
+  }
+ ]
+}

@@ -1,0 +1,3756 @@
+{
+ "História da Arte": [
+  {
+   "materias": {
+    "1º Período": [
+     {
+      "Codigo": "BAH113",
+      "Nome": "Historiografia da Arte I",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução à questão da historicidade da arte e a problemática da pesquisa histórica. Problemas históricos, filosóficos, epistemológicos da história da arte. A inter-relação do presente e do passado no âmbito do processo histórico, no campo das artes visuais, à luz da perspectiva dialética e fenomenológica.\n___BIBLIOGRAFIA BÁSICA___\n1- ARGAN, G. C. Arte Moderna. Do Iluminismo aos movimentos contemporâneos. São Paulo: Companhia das Letras, 1992.\n2- ______. História da arte como história da cidade. São Paulo: Martins Fontes, 1992.\n3- BAZIN, G. Historia da História da Arte. São Paulo: Martins Fontes, 1989.\n4- FERNIE, Eric. Art history and its methods. London: Phaidon, 1998.\n5- LESSING, G.E. Lacoonte ou sobre as fronteiras da pintura e da poesia. São Paulo: Iluminuras, 1998.\n6- PANOFSKI, Erwin. Significado nas artes visuais. São Paulo: Perspectiva, 1979.\n7- WÖLLFLIN, H. Conceitos fundamentais de história da arte. São Paulo: Martins Fontes, 1984.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "10:00 - 13:00",
+        "professor": "IVAIR JUNIOR REINALDIM"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH115",
+      "Nome": "Metodologia da Pesquisa",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Aprofundamento das questões conceituais envolvidas na pesquisa de Artes Visuais. Abordagem do campo artístico enquanto campo específico do conhecimento. Estudo do processo de criação e desenvolvimento de estratégias para a reflexão do processo de instauração da obra plástica. Análise dos métodos de pesquisa em artes Visuais e das técnicas de elaboração de trabalhos acadêmicos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "10:00 - 13:00",
+        "professor": "CLAUDIA MARIA SILVA DE OLIVEIRA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH118",
+      "Nome": "Arte e Filosofia",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A reflexão abstrata e os sistemas de arte. Principais correntes do pensamento e suas inter-relações com a obra de arte. Fronteiras entre a arte, estética e filosofia.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH110",
+      "Nome": "História das Artes Visuais I",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Projeção e análise de obras de arte produzidas durante os períodos do paleolítico ao neolítico, mesopotâmico, egípcio, persa, minóico-micênico e greco-romano; discussão de termos e conceitos tradicionalmente vinculados a eles; estudos da sua recepção pela arte ocidental posterior.\n___BIBLIOGRAFIA BÁSICA___\nBAZIN, G. História da arte. Da pré-história aos nossos dias. Lisboa: Martins Fontes, 1976.\nGOMBRICH, E.H. A história da arte. Rio de Janeiro: LTC, 2000.\nJANSON, H.W. História da arte. Lisboa: Fundação Calouste Gulbenkian, 1989.\nWOODFORD, Susan. A arte de ver a arte. Rio de Janeiro: Zahar, 1983. (Coleção História da Arte da Universidade de Cambridge).\n______. Grécia e Roma. Rio de Janeiro: Zahar, 1983. (Coleção História da Arte da Universidade de Cambridge).\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "14:00 - 17:00",
+        "professor": "HELENISE MONTEIRO GUIMARAES"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH114",
+      "Nome": "Arte e Antropologia I",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A antropologia e o estudo da arte: natureza e objeto; a estética como expressão de cultura. Construção de conceito antropológico de cultura. A arte e seu contexto social de produção e fruição. Cultura: de um saber específico a um campo de atribuições de significados.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "14:00 - 17:00",
+        "professor": "DENNIS NOVAES SALDANHA CORTES"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH117",
+      "Nome": "Processos das Artes Visuais",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo dos diversos materiais das obras de arte. Compreensão das soluções formais como resultado das limitações e possibilidades dos processos artísticos. Análise da obra de arte pelos seus aspectos técnicos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "14:00 - 17:00",
+        "professor": "ROGERIA MOREIRA DE IPANEMA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "2º Período": [
+     {
+      "Codigo": "BAH123",
+      "Nome": "Historiografia da Arte II",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Abordagens metodológicas utilizadas na produção historiográfica das artes visuais. Reflexão crítica sobre processos de significação e de juízo estético em produções plásticas.\n___BIBLIOGRAFIA BÁSICA___\n1- ARGAN, G. C. Arte Moderna. Do Iluminismo aos movimentos contemporâneos. São Paulo: Companhia das Letras, 1992.\n2- ______. História da arte como história da cidade. São Paulo: Martins Fontes, 1992.\n3- BAZIN, G. História da História da Arte. São Paulo: Martins Fontes, 1989.\n4- FERNIE, Eric. Art history and its methods. London: Phaidon, 1998.\n5- LESSING, G.E. Lacoonte ou sobre as fronteiras da pintura e da poesia. São Paulo: Iluminuras, 1998.\n6- PANOFSKY, Erwin. Significado nas artes visuais. São Paulo: Perspectiva, 1979.\n7- WÖLLFLIN, H. Conceitos fundamentais de história da arte. São Paulo: Martins Fontes, 1984.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "14:00 - 17:00",
+        "professor": "ROSANA PEREIRA DE FREITAS"
+       }
+      ],
+      "Requisitos": [
+       "BAH113"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH125",
+      "Nome": "Arte Decorativa a",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das artes decorativas - mobiliário e têxteis - através de seu desenvolvimento histórico, artístico e técnico.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "14:00 - 17:00",
+        "professor": "HELLEN ALVES CABRAL"
+       },
+       {
+        "dia": "Ter",
+        "hora": "14:00 - 17:00",
+        "professor": "SILVIA BARBOSA GUIMARAES BORGES"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH127",
+      "Nome": "Teoria da Imagem",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "As teorias contemporâneas da percepção visual relacionadas com a criação artística.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "07:00 - 10:00",
+        "professor": "MESSIAS TADEU CAPISTRANO DOS SANTOS"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAWX12",
+      "Nome": "Atividades Complementares",
+      "Créditos": "4.0",
+      "Teórica": "0",
+      "Prática": "120",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Atividades que constituam um campo de conhecimentos cujos eixos estarão integrados às várias áreas de conhecimento do curso, estimulando o graduando a ampliar seus conhecimentos, habilidades e competências adquiridas através de atuações diversificadas fora da unidade, tais como participação em simpósios, congressos, projetos de extensão, participação em curadorias, montagens de exposição, pesquisas temáticas para instituições de produção cultural, buscando a sistematização de experiências que contribuam para sua formação profissional.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH122",
+      "Nome": "História das Artes Visuais II",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo da arte Bizantina, Muçulmana, Bárbara, Românica e Gótica produzidas ao longo da Idade Média, considerando suas inter-relações e seu legado às fases da cultura artística ocidental.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "10:00 - 13:00",
+        "professor": "SILVIA BARBOSA GUIMARAES BORGES"
+       }
+      ],
+      "Requisitos": [
+       "BAH110",
+       "BAH115",
+       "BAH117"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH124",
+      "Nome": "Arte e Antropologia II",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo da história da arte popular no Brasil. Folclore, movimento romântico e o nacionalismo europeu. Constituição das identidades nacionais e étnicas. Os modernistas e a descoberta do popular. Circularidade entre os diferentes níveis de cultura - erudita, popular e de massa. Hibridismo cultural.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAH114"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH126",
+      "Nome": "Teoria do Ornato",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Discussão sobre as principais questões do ornato, sua origem, seu desenvolvimento e sua importância no universo geral da prática artística. Ênfase nos principais teóricos que discutiram a questão do ornato, tais como Semper, Riegl e Adolf Loos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH204",
+      "Nome": "Estética I",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O pensamento estético e a noção de belo; Aristóteles, Platão. A estética helenística e greco romana. O médio e extremo oriente. Estética Cristã; Idade Média e Renascimento.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "3º Período": [
+     {
+      "Codigo": "BAH232",
+      "Nome": "História das Artes Visuais III",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo da arte dos séculos XV e XVI nos principais centros europeus, considerando os aspectos formais do Renascimento e do Maneirismo.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "14:00 - 17:00",
+        "professor": "CLAUDIA MARIA SILVA DE OLIVEIRA"
+       }
+      ],
+      "Requisitos": [
+       "BAH122"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH234",
+      "Nome": "Arte e Natureza",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo da arte e suas relações com a natureza. A pintura de paisagem e suas diferentes escolas. A escultura e sua inserção em espaços abertos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "09:00 - 12:00",
+        "professor": "VALCI RUBENS OLIVEIRA DE ANDRADE"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH236",
+      "Nome": "História da Arte no Brasil I",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Discussão dos esquemas de interpretação da arte indígena brasileira, para formulação do conceito de uma arte étnica. Definição de uma gramática das formas produzidas anteriormente ao contato com o mundo ocidental. Principais categorias de documentação - cerâmica, artefatos, pedra e arte rupestre -, traçando características  elementares das formas de representação.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "10:00 - 13:00",
+        "professor": "SILVIA BARBOSA GUIMARAES BORGES"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH207",
+      "Nome": "Estética II",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Os sistemas esteticos em seus compromissos com o mundo moderno e contemporaneo. A estetica de descartes aos nossos dias. A estetica contemporanea, as principais correntes.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAH204"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH233",
+      "Nome": "Historiografia da Arte III",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceitos e métodos da historiografia da arte.  Historicidade, atualidade e problematicidade como questões da arte.  A relação história, teoria e crítica de arte na contemporaneidade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "10:00 - 13:00",
+        "professor": "TATIANA DA COSTA MARTINS"
+       }
+      ],
+      "Requisitos": [
+       "BAH123"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH235",
+      "Nome": "Artes Decorativas B",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das artes decorativas - têxteis - através de seu desenvolvimento histórico, artístico e técnico.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH237",
+      "Nome": "Arte Africana Afro-brasileira",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A situação da arte africana e arte européia. Cultura africana e sua produção artística. Arte afro-brasileira, definições e interpretações. Arte africana e arte brasileira, continuidade, ruptura e hibridismos.\n___BIBLIOGRAFIA BÁSICA___\n1- BOLOUGUN, Ola. Forma e expressão nas artes africanas. In: Introdução a cultura africana. Lisboa: UNESCO, 1977.\n2- CANCLINI, Nestor Garcia.  A produção simbólica. Rio de Janeiro: Cultura Brasileira, 1979.\n3- CANCLINI, Nestor Garcia. A socialização da arte. São Paulo: Cultrix, 1980.\n4- CARISSE, Iracy. A arte negra na cultura brasileira. Rio de Janeiro: Arte Nova, 1979.\n5- GRI'AULLE, Marcel. Le symboles des arts africanes. Paris: Seiul, 19--.\n6- LEIRIS, Michel. African art. S.l., UNESCO, 1975.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "14:00 - 17:00",
+        "professor": "DENNIS NOVAES SALDANHA CORTES"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "4º Período": [
+     {
+      "Codigo": "BAH242",
+      "Nome": "Historiografia da Arte Brasil",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Produção histórica do século XIX e XX e a formação do sistema artístico no Brasil. Os modelos e as influências, as classificações e periodizações históricas na arte da academia.  A história e autonomia da linguagem artística moderna e contemporânea.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "10:00 - 13:00",
+        "professor": "IVAIR JUNIOR REINALDIM"
+       }
+      ],
+      "Requisitos": [
+       "BAH233"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH244",
+      "Nome": "Teoria da Imagem Comunicação",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A informação e a comunicação: âmbito e objetivos. Processo de comunicação. A comunicação e os sistemas sociais. Importância das artes plásticas no processo de comunicação. Aplicação dos princípios estéticos na comunicação.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH246",
+      "Nome": "História da Arte no Brasil II",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das artes visuais no Brasil no século XIX e sua relação com a cultura nacional e a arte europeia no período.\n___ BIBLIOGRAFIA BÁSICA ___\n1- CAMPOFIORTO, Quirino. História da Pintura Brasileira no século XIX. Rio de Janeiro: Pinakotheke, 1983.\n2-  COLI, Jorge. Como estudar a arte brasileira do século XIX? São Paulo: Editora Senac, 2005.\n3- GOMES PEREIRA, Sonia. Arte brasileira no século XIX. Belo Horizonte: C/Arte, 2008.\n4- _________ (Org.). 185 Anos de Escola de Belas Artes. Rio de Janeiro: UFRJ, 2001-2002.\n5-  GONZAGA DUQUE. A Arte Brasileira. Campinas: Mercado de Letras, 1995.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "10:00 - 13:00",
+        "professor": "ANA MARIA TAVARES CAVALCANTI"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH241",
+      "Nome": "História das Artes Visuais IV",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo da arte dos séculos XVII e XVIII nos principais centros europeus, considerando dos aspectos formais do Barroco e Rococó.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "14:00 - 17:00",
+        "professor": "MARCELO DA ROCHA SILVEIRA"
+       }
+      ],
+      "Requisitos": [
+       "BAH232"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH243",
+      "Nome": "Crítica de Arte I",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Análise da trajetória histórica da crítica de arte. A crítica de arte da antiguidade ao século XX. Conceito de gosto e sua relativização. Estudo da gênese e do desenvolvimento da crítica enquanto área autônoma de reflexão. Conceitos básicos de arte e categorias deo pensamento e produção artística. Imbricações entre o campo da crítica e o campo da  história da arte.\n___BIBLIOGRAFIA BÁSICA___\n1- ARGAN, Giulio Carlo. Arte e crítica de arte. Lisboa: Estampa, 1988.\n2- ___________. Arte Moderna. São Paulo: Companhia das Letras, 1992.\n3- CHIPP, H.B. Teorias da arte moderna. São Paulo: Martins Fontes, 1988.\n4- HUYGHE, René. O poder da imagem. Lisboa: Edições 70, 1986.\n5- SPARSHOTT, Francis. The theory of the arts. Princeton, U. Press, 1982.\n6- VENTURI, Lionello. História da crítica de arte. Lisboa: Edições 70, 1988.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "10:00 - 13:00",
+        "professor": "PAULO VENANCIO FILHO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH245",
+      "Nome": "Arte Pré-colombiana",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A arte pré-colombiana: Maias, Aztecas e Incas. As consequências da integração entre a arte européia e as soluções autóctones da América.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH247",
+      "Nome": "Sem Hist e Teoria da Arte I",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Tópicos fundamentais de história e teoria da arte: criação e poética; representação e abstração; gêneros e meios artísticos; institucionalização da arte; recepção artística; autonomia artística; classicismo e anti-classicismo; modernidade e contemporaneidade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "5º Período": [
+     {
+      "Codigo": "BAH353",
+      "Nome": "História Fotog Artes Gráficas",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo da fotografia como linguagem artística ressaltando os principais momentos de sua trajetória. Conecimento dos principais métodos de análise utilizados levando-se em consideração seus limites e alcances. História e evolução das artes gráficas e seus processos técnicos e linguagens artísticas.\n___BIBLIOGRAFIA BÁSICA___\n1- BAER, Lorenzo. Produção Gráfica. 2 ed. São Paulo: SENAC, 1999.\n2- BERGER, John. Modos de ver. Rio de Janeiro: Rocco, 1999.\n3- BUSSELLE, Michael. Tudo sobre Fotografia. 11 ed. São Paulo: Pioneira, 2004.\n4- KOSSOY, Boris. Fotografia e História. São Paulo: Ateliê Editorial, 2001.\n5- KUBRUSLY, Cláudio Araújo. O que é Fotografia. 4 ed. São Paulo: Brasiliense, 1998.\n6- MUNARI, Bruno. Design e Comunicação Visual. São Paulo: Martins Fontes, 1997.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "10:00 - 13:00",
+        "professor": "CEZAR TADEU BARTHOLOMEU"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH355",
+      "Nome": "História do Cinema",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O nascimento do cinema. A ascensão da indústria cinematográfica norte-americana. A vanguarda francesa. A experiência soviética. O expressionismo alemão. A revolução do cinema sonoro. O neo-realismo italiano. A  geração pós-guerra dos Estados Unidos. O cinema independente. O surgimento da TV e a crise de Hollywood. A nouvelle vague francesa. As cinematografias européias dos anos 50 e 60. O cinema japonês. Os principais ciclos de criação do cinema brasileiro.\n___ BIBLIOGRAFIA BÁSICA___\n1- ANDREW, J. Dudley. As principais teorias do cinema. Rio de Janeiro: Jorge Zahar, 1989.\n2- AUMONT, Jacques; MARIE, Michel; BERGALA, Alain; VERNET, Marc. Estética do filme. Campinas: Papirus, 2002.\n3- BURCH, Noël. Praxis do cinema. Lisboa: Estampa, 1973.\n4- GRÜNEWALD, José Lino (org.). A ideia do cinema. Rio de Janeiro: Civilização Brasileira, 1969.\n5- MARTIN, Marcel. A linguagem cinematográfica. São Paulo: Brasiliense, 1990.\n6- METZ, Christian.  A significação no cinema. São Paulo. Perspectiva, 1972.\n7- SADOUL, Georges. História do cinema mundial. Lisboa: Livros do Horizonte, 1983. v. 1, 2, 3.\n8- XAVIER, Ismail.O discurso cinematográfico. Rio de Janeiro: Paz e Terra, 1984.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "10:00 - 13:00",
+        "professor": "MESSIAS TADEU CAPISTRANO DOS SANTOS"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH357",
+      "Nome": "História da Arte no Brasil III",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo da arte no Brasil no século XIX e sua relação com o contexto cultural artístico europeu no período.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "10:00 - 13:00",
+        "professor": "CEZAR TADEU BARTHOLOMEU"
+       }
+      ],
+      "Requisitos": [
+       "BAH246"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH352",
+      "Nome": "História das Artes Visuais V",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das artes visuais no século XIX na Europa, o neoclassicismo e os principais movimentos do período.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "14:00 - 17:00",
+        "professor": "ANA MARIA TAVARES CAVALCANTI"
+       }
+      ],
+      "Requisitos": [
+       "BAH241"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH354",
+      "Nome": "Crítica de Arte II",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Análise da trajetória da crítica de arte e seus principais teóricos da arte moderna e contemporânea. A criação artística e a arte atual. A crítica e as múltiplas manifestações de arte veiculadas pelos meios de comunicação de massa. Perspectivas teórico-metodológicas comuns à história e à crítica de arte.  O papel do crítico no mercado de arte. A crítica de arte no Brasil.\n___BIBLIOGRAFIA BÁSICA___\n1- ARGAN, Giulio Carlo. Arte e crítica de arte. Lisboa: Estampa, 1988.\n2- ___________. Arte Moderna. São Paulo: Companhia das Letras, 1992.\n3- CHIPP, H.B. Teorias da arte moderna. São Paulo: Martins Fontes, 1988.\n4- HUYGHE, René. O poder da imagem. Lisboa: Edições 70, 1986.\n5- SPARSHOTT, Francis. The theory of the arts. Princeton, U. Press, 1982.\n6- VENTURI, Lionello. História da crítica de arte. Lisboa: Edições 70, 1988.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "10:00 - 13:00",
+        "professor": "PAULO VENANCIO FILHO"
+       }
+      ],
+      "Requisitos": [
+       "BAH243"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH356",
+      "Nome": "Arte Colonial nas Américas",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das artes visuais nas américas Latina e do Norte durante o período colonial (séculos XVI a XVIII)\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "10:00 - 13:00",
+        "professor": "PATRICIA LEAL AZEVEDO CORREA"
+       }
+      ],
+      "Requisitos": [
+       "BAH245"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH358",
+      "Nome": "Sem Hist e Teoria da Arte II",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Tópicos fundamentais de teoria e história da arte: criação e poética; representação e abstração; gêneros e emios artísticos; institucionalização da arte; recepção artística; autonomia artística; classicismo e anti-classicismo; modernidade e contemporaneidade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAH247"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "6º Período": [
+     {
+      "Codigo": "BAH363",
+      "Nome": "História Comp Gráf Nov Mídias",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo da trajetória da computação gráfica nas artes visuais. Conhecimento das ferramentas e técnicas de computação gráfica. A arte digital e suas formas de expressão. Infografia e novas mídias.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "10:00 - 13:00",
+        "professor": "ALINE COURI FABIAO"
+       }
+      ],
+      "Requisitos": [
+       "BAH353"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH365",
+      "Nome": "História do Design",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Revoluções tecnológicas, contribuições do desenvolvimento técnico do homem nos objetos e representações gráficas. Evolução do design na Europa - arts and crafts, art noveau ljungendstill e outros movimentos. A Bauhaus: origens, contribuições e sua repercussão mundial. O design na contemporaneidade.\n___BIBLIOGRAFIA BÁSICA___\n1- BURCKHARDT, Lucius. Le Werkbund. Paris: Moniteur, 1981.\n2- DROSTE, Magdalena. Bauhaus: 1919-1933. Köln: Taschen, 1990.\n3- HENDERSON, W. O. A Revolução Industrial. São Paulo: Verbo, 1979.\n4- MAENZ, P. Art déco: 1920-1940. Barcelona: Gustavo Gili, 1974.\n5- MUNARI, Bruno. Artista e Designer. São Paulo: Martins Fontes, 1979.\n6- READ, Herbert. Art & Industry. London: Faber and Faber, 1966.\n7- WICK, Rainer. Pedagogia da Bauhaus. São Paulo: Martins Fontes, 1989.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "14:00 - 17:00",
+        "professor": "MARCUS VINICIUS DE PAULA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH367",
+      "Nome": "História da Arte no Brasil IV",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das artes visuais no Brasil no século XX no contexto cultural brasileiro e da modernidade européia. Análise dos movimentos artísticos contemporâneos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "10:00 - 13:00",
+        "professor": "CEZAR TADEU BARTHOLOMEU"
+       }
+      ],
+      "Requisitos": [
+       "BAH357"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH362",
+      "Nome": "História das Artes Visuais VI",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das artes visuais no século XX na Europa e seus desdobramentos e os reflexos da sociedade industrial na criação artística.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "10:00 - 13:00",
+        "professor": "ANA DE GUSMAO MANNARINO"
+       }
+      ],
+      "Requisitos": [
+       "BAH352"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH364",
+      "Nome": "Arte Orien: Índia China Japão",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo dos aspectos estéticos e históricos das artes no Oriente. O Oriente como unidade geo-política e cultural - da invenção eurocêntrica às políticas atuais. Alteridades nas relações Oriente e Ocidente. Periodização histórica e religiosa. Análise das diversas concepções plásticas e criadoras nos contextos sócio-econômicos das diversas regiões orientais.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "14:00 - 17:00",
+        "professor": "THIAGO SPINDOLA MOTTA FERNANDES"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH366",
+      "Nome": "Arte América Latina - XIX e Xx",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das artesvisuais na América LAtina durante e após a independência - séculos XIX e XX.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "14:00 - 17:00",
+        "professor": "PATRICIA LEAL AZEVEDO CORREA"
+       }
+      ],
+      "Requisitos": [
+       "BAH356"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH368",
+      "Nome": "Sem Hist e Teoria da Arte III",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Tópicos fundamentais de história e teoria da arte: criação e poética; representação e abstração; gêneros e meios artísticos; institucionalização da arte; recepção artística; autonomia artística; classicismo e anti-classicismo; modernidade e contemporaneidade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAH358"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "7º Período": [
+     {
+      "Codigo": "BAH472",
+      "Nome": "Informática Apl História Arte",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudos dos principais recursos fornecidos pela informática para a pesquisa em História da Arte. Elaboração bancos de dados de tabelas e quantificações. Informática aplicada à pesquisa na Internet. Elaboração de apresentação de trabalhos em formato digital. Recursos da Informática aplicados ao estudo da Imagem e dos elementos formais e artísticos dos vários campos da História da Arte.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH474",
+      "Nome": "Arte em Espaços Públicos",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A inserção da arte no espaço público e sua prática de produção experimental. As obras bidimensionais e tridimensionais, seus processos de criação e a interação com o público. As diversas estratégias de ampliação da categoria tradicional das artes visuais - interferências: arquitetônica, pictórica, na paisagem e urbana, produção efêmera, vídeo-escultura, foto-escultura, instalação, ocupação sonora e corpo como meio.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH478",
+      "Nome": "Sem Hist e Teoria da Arte IV",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Tópicos fundamentais de história e teoria da arte: criação e poética; representação e abstração; gêneros e meios artísticos; institucionalização da arte; recepção artística; autonomia artística; classicismo e anti-classicismo; modernidade e contemporaneidade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "14:00 - 17:00",
+        "professor": "ALINE COURI FABIAO"
+       }
+      ],
+      "Requisitos": [
+       "BAH368"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAHK01",
+      "Nome": "Trabalho Final de Graduação",
+      "Créditos": "4.0",
+      "Teórica": "120",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Proposta de pesquisa abordando tema relativo às artes visuais sob o ponto de vista da História da Arte e/ou da Teoria e Crítica da Arte. Redação do texto da monografia sob a supervisão de professor orientador. Apresentação do trabalho sob forma de dissertação com defesa oral.\n___BIBLIOGRAFIA BÁSICA___\n1- ARGAN, Giulio Carlo; FAGIOLO, Maurizio. Guia de história da arte. Lisboa: Estampa, 1994.\n2-BARROS, José D?Assunção. O projeto de pesquisa em história. Petrópolis: Vozes, 2007.\n3-DIDI-HUBERMAN, Georges. Diante da imagem: questão colocada aos fins de uma história da arte. São Paulo: Editora 34, 2013.\n4-SALOMON, Délcio Vieira. Como fazer uma monografia. São Paulo: Martins Fontes, 1991.\n5-ZAMBONI, Silvio. A pesquisa em arte: um paralelo entre arte e ciência. Campinas: Autores Associados, 1998.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sab",
+        "hora": "09:00 - 12:00",
+        "professor": "ANA DE GUSMAO MANNARINO"
+       }
+      ],
+      "Requisitos": [
+       "BAH362"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH470",
+      "Nome": "História das Artes Visuais VII",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo da arte contemporânea e seus aspectos plurais; as principais correntes artísticas da contemporaneidade, suas obras e artistas mais significativos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "14:00 - 17:00",
+        "professor": "FELIPE SCOVINO GOMES LIMA"
+       }
+      ],
+      "Requisitos": [
+       "BAH362"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH473",
+      "Nome": "Serv Museológicos e Curadoria",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conhecimentos teórico-práticos para concepção e montagem de exposições.  Morfologia de espaços expositivos.  Concepção de exposições e projetos museológicos / museográficos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "14:00 - 17:00",
+        "professor": "TATIANA DA COSTA MARTINS"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH475",
+      "Nome": "Mercado de Arte",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A obra de arte como objeto de análise da ciência econômica, possibilitando uma reflexão em termos de produção e consumo. Dimensão econômica da arte. Mercado e investimento de arte no Brasil.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAH367"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH489",
+      "Nome": "Sem Curadoria e Montag Eventos",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "As diferentes etapas de montagem de exposições e a importância do curador para a realização de eventos artísticos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "14:00 - 17:00",
+        "professor": "FELIPE SCOVINO GOMES LIMA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAHU01",
+      "Nome": "Estágio Curricular",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Proposta de atividade relacionada ao campo profissionalizante oferecidos ao historiador da arte, com atuações em museus de arte, museus histõricos, museus de cultura popular e afins. Trabalhos em galerias de arte, ateliês de restauração ou de ateliês de artistas legalmente registrados e instituições culturais promotoras de atividades artísticas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "8º Período": [],
+    "Disciplinas Optativas (Escolha Restrita)": [
+     {
+      "Codigo": "BAH481",
+      "Nome": "Tóp Esp- Arte Contemporânea I",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Tópicos especiais de história, teoria e estudos temáticos em arte. com enfoque em arte contemporânea.\n___ BIBLIOGRAFIA BÁSICA ___\n1) ARGAN, Giulio Carlo. Arte e crítica da arte. Lisboa: Estampa, 1988.\n2) _________; FAGIOLO, Maurizio. Guia de história da arte. Lisboa: Estampa, 1994.\n3) BAZIN, Germain. História da História da Arte. São Paulo: Martins Fontes, 1989.\n4) VENTURI, Lionello. História da crítica de arte. Lisboa: Martins Fontes, 1984.\n5) ZANINI, Walter (Coord.). História geral da arte no Brasil. São Paulo: Instituto Walther Moreira Salles, 1983. 2v.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "09:00 - 12:00",
+        "professor": "SILVIA BARBOSA GUIMARAES BORGES"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAH483",
+      "Nome": "Tóp Esp- Museu Galer e Ateliês",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Tópicos especiais em História e Teoria da Arte. Estudo de questões de museologia e museografia, principais procedimentos de montagem de exposições; organização e funcionamento de ateliês de artistas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 16:00",
+        "professor": "ANA MARIA TAVARES CAVALCANTI"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAH485",
+      "Nome": "Tóp Esp- Princ Con Restauração",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Tópicos especiais de história e Teoria da Arte. A evolução do conceito de restauração e a história dos métodos de intervenção. Estudo das questões de conservação e restauração de obras de arte.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAH487",
+      "Nome": "Tóp Esp- Arte e Imagem",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Tópicos especiais de História da Arte. Estudos das questões relativas à análise da imagem e suas correlações com os principais aspectos historiogràficos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAH490",
+      "Nome": "Tóp Esp- Estet Teor Crít Arte",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Tópicos especiais de História e Teoria  da Arte. Estudos das questões relativas às teorias da arte e o campo da crítica, considerando os aspectos mais releventes da contemporaneidade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAH480",
+      "Nome": "Tóp Esp- Arte no Brasil",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Tópicos especiais de História e Teoria da Arte. Estudos das questões relativas aos processos de expressão e representação e suas imbricações nas artes visuais na sociedade brasileira.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAH482",
+      "Nome": "Tóp Esp- Arte Contemporânea II",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Tópicos especiais de História e Teoria da Arte. A realidade das novas tecnologias e mídias contemporâneas na produção artística. A presença das novas abordagens pictóricas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "14:00 - 17:00",
+        "professor": "CLARISSA DINIZ DE MOURA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAH484",
+      "Nome": "Tóp Esp- Cultura Popular",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo de questões da cultura popular, expressões artísticas, regionalismos, inter-relações entre cultura popular e cultura de massa. Etnografia regional e urbana e seus meios e modos de produção de arte.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAH486",
+      "Nome": "Tóp Esp- Artes Visuais I",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Tópicos especiais de história, teoria e estudos temáticos em arte, com enfoque em artes visuais.\n___ BIBLIOGRAFIA BÁSICA ___\n1) ARGAN, Giulio Carlo. Arte e crítica da arte. Lisboa: Estampa, 1988.\n2) _________; FAGIOLO, Maurizio. Guia de história da arte. Lisboa: Estampa, 1994.\n3) BAZIN, Germain. História da História da Arte. São Paulo: Martins Fontes, 1989.\n4) VENTURI, Lionello. História da crítica de arte. Lisboa: Martins Fontes, 1984.\n5) ZANINI, Walter (Coord.). História geral da arte no Brasil. São Paulo: Instituto Walther Moreira Salles, 1983. 2v.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAH488",
+      "Nome": "Tóp Esp- Arte e Cidade",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Tópicos especiais de História e Teoria da Arte. Estudo das relações entre arte e o meio urbano. Modos de produção, recepção e consumo. A inter-relação entre as teorias urbanas e a historiografia da arte.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAH491",
+      "Nome": "Tóp Esp- Artes Visuais II",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Tópicos especiais de história, teoria e estudos temáticos em arte, com enfoque em artes visuais.\n___ BIBLIOGRAFIA BÁSICA ___\n1- ARGAN, Giulio Carlo. Arte e crítica da arte. Lisboa: Estampa, 1988.\n2- _________; FAGIOLO, Maurizio. Guia de história da arte. Lisboa: Estampa, 1994.\n3-BAZIN, Germain. História da História da Arte. São Paulo: Martins Fontes, 1989.\n4-VENTURI, Lionello. História da crítica de arte. Lisboa: Martins Fontes, 1984.\n5- ZANINI, Walter (Coord.). História geral da arte no Brasil. São Paulo: Instituto Walther Moreira Salles, 1983. 2v.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     }
+    ],
+    "Disciplinas Optativas (Escolha Condicionada)": [
+     {
+      "Codigo": "BAB113",
+      "Nome": "Litografia A.",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Teoria e pratica da arte litografica monocromica.\n13. BIBLIOGRAFIA BÁSICA\n1) IHA, Kazuo; PEDROSA, Patrícia. Oficina de Litografia. Rio de Janeiro: Rio Books, 2020.\n2) DA SILVA, Orlando. A arte maior da gravura. São Paulo: Espade: 1976.\n3) PEDROSA, Patrícia Figueiredo. Maria Bonomi com a gravura: do meio como fim ao meio como princípio / . Rio de Janeiro : Rio Books, 2021.\n",
+       "BibliografiaBasica": "1) ANTEASIAN, Garo Z. The Tamarind Book of Lithography: Art and Techniques, Harry N. Abrams Inc. Publishers; 1St Edition edition (January 1, 1971).\n2) CANTON, Katia. Gravura aventura. São Paulo: Universo, 2011.\n3) TERRA, Fernanda. Mestres da gravura / . Rio de Janeiro : Artepadilla : Fundação Biblioteca Nacional, 2013.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAB117",
+      "Nome": "Oficina de Cerâmica A.",
+      "Créditos": "4.0",
+      "Teórica": "30",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceito do material, histórico, manuseio, preparo, técnicas e processos,\nmodelagem, percurso histórico, cultura e ato técnicos, ferramental, elementos da natureza, químicos orgânicos e inorgânicos, misturas, testes, corpo cerâmico, semântica do objeto, gesto, utilidade e função, o essencial e o cultural.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAB212",
+      "Nome": "Pintura B",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Aprofundamento de uma das técnicas de pintura, enfatizando os valores plásticos e formais e a poética que o aluno desejar desenvolver.\n___BIBLIOGRAFIA BÁSICA___\n1) BARRETO, Lourdes.Oficina de pintura : materiais, fórmulas e procedimentos. Rio de Janeiro : Rio Books, 2011.\n2) MAYER, Ralph. Manual do Artista. São Paulo: Martins Fontes, 1996.\n3) MOTTA, Edson. Iniciação à Pintura por Edson Motta e Maria Luiza Guimarães Salgado.Rio de Janeiro: Nova Fronteira, 1976.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAB511",
+      "Nome": "Gravura II",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A disciplina busca aprofundar as experiências dos alunos com os procedimentos de gravura. Os estudantes serão convidados a desenvolverem projetos individuais, explorando um ou mais procedimento de reprodução de imagens. Tem como objetivo convidar o estudante a explorar seu repertório poético, munindo-o de instrumentos\ntécnicos que o possibilitarão aprofundar sua pesquisa artística nos meios de reprodução de imagens.\n",
+       "BibliografiaBasica": "1) FERREIRA, Heloisa Pires. Gravura brasileira hoje: depoimentos. SESC Regional do Rio de Janeiro.1995\n2) Oswaldo Goeldi: desenhos, matrizes e gravuras - Rio de Janeiro: Museu Nacional de Belas Artes, 2008.\n3) CARDOSO, Rafael (org.). O design antes do design: aspectos da história gráfica 1870 - 1960. São Paulo: Cosac & Naify, 2005.\n",
+       "BibliografiaComplementar": "1) TERRA, Fernanda. Mestres da Gravura. Rio de Janeiro: Artepadilha; Fundação Biblioteca Nacional, 2013.\n2) HONNEF, Klaus. Andy Warhol 1928-1987: a comercialização da arte. Koln: Benedik Taschen, 1992.\n3) JOHNSON, William Harding. The Graphic Arts. New York: The MacMillan Company, 1942.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAB411"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAE215",
+      "Nome": "Modelagem",
+      "Créditos": "3.0",
+      "Teórica": "0",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Materiais, ferramental, processos e tecnicas de modelagem. Percepcao e analise da estrutura da forma de figuras e suas representacoes no campo tridimensional. A modelagem de formas volumetricas. Composicao de formas representativas do campo geometrico, vegetal e animal.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAE514",
+      "Nome": "Escultura B",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A escultura em bloco, gesso e pedra sabao: processos, tecnicas e ferramental.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAI117",
+      "Nome": "Oficina Básica I",
+      "Créditos": "3.0",
+      "Teórica": "15",
+      "Prática": "75",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das formas e espacos. Analise e representacao das formas tri-dimensionais, atraves dos materiais expressivos: barro, gesso, resinas, papel, madeira e metais. Tecnicas e instrumentos de trabalho: ferramentas simples e maquinas operatrizes. Uso e medidas de seguranca. Construcao e testes de modelos fisicos. Execucao de trabalhos propostos em metodologia visual i.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAI329",
+      "Nome": "Estamparia B",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Aulas teórico-práticas sobre estamparia têxtil. Técnicas, materiais e processos da estamparia a quadro. Desenvolvimento de trabalhos por métodos semi-industriais. Introdução ao design têxtil e conceitos de Rapport para estamparia localizada e corrida.\n___Bibliografia Recomendada___\n1- BOWLES, Melanie. Diseño y estampación textil digital. Barcelona: Art Blume, 2009. - COLE, Drusilla. Diseño textil contemporaneo. Barcelona: Art Blume, 2008.\n2- ESTAMPARIA, tapeçaria, tecelagem: Exposição de Arte Têxtil da Escola de Belas Artes da UFRJ. Rio de Janeiro : UFRJ, 1989. 47 p.\n3- ESTAMPARIA, tapeçaria: II Exposição - Mostra de Arte Têxtil da Escola de Belas Artes da UFRJ, artistas homenageadas: Hilda Campofiorito e Tana. Rio de Janeiro : UFRJ, 1993. 48 p.\n4- JACQUÉ, Jacqueline. Printed textiles. In: CARLANO, Marianne et alii. French textiles; from the middle ages through the second empire. Connecticut : Wadsworth Atheneum, 1985.\n5- JONES, Owen. A gramática do ornamento. Edição brasileira:Editora Senac São Paulo, 2010.\n6- MELLER, Susan; ELFFERS, Joost. Textile designs: 200 years of patterns for printed fabrics arranged by motif, colour, period and design. London: Thames & Hudson, 2002. 464 p.\n7- PROCTOR, Richard M. , LEW, Jennifer F. Surface design for fabric. Washington : University of Washington Press, 1985. - RUBIM, Renata. Desenhando a superfície. São Paulo: Rosari, 2005. 95 p.\n8- RÜTHSCHILLING, Evelise Anicet. Design de superfície. Porto Alegre: Ed. Da UFRGS, 2008. 104 p.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAI426",
+      "Nome": "Serigrafia II",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Apresentacao do curso. Desenvolvimento de propostas de objeto de arte e/ou objeto utilitario. Experimentacao das alternativas que a tecnica apresenta. Producao do produto acabado/avaliacao. Desenvolvimento da tecnica serigrafica a partir do desenvolvimento criativo dos alunos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAI423"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAT201",
+      "Nome": "Proces de Atuação Cênica L.t.",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Experimentação prática de noções básicas envolvidas nos processos criativos do ator - jogo e improvisação; tempo, ritmo e espaço; palavra e texto; ações físicas -, com ênfase em processos de composição de um personagem.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "09:30 - 13:00",
+        "professor": "LARISSA CARDOSO FERES ELIAS"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAT512",
+      "Nome": "Cena e Dramaturgia II",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A disciplina trata das transformações do teatro entre o século XVII e o século XIX, enfatizando a construção da noção de ilusão e suas consequências para a produção teatral do final do século XIX.\n___BIBLIOGRAFIA BÁSICA___\n1- BERTHOLD, Margot. História mundial do teatro. São Paulo: Perspectiva, 2010.\n2- PRADO, Décio de Almeida. O teatro brasileiro moderno. São Paulo: Perspectiva, 1996.\n3- ROUBINE, Jean-Jacques. Introdução às grandes teorias do teatro. Rio de Janeiro: Jorge Zahar, 2003.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAU320",
+      "Nome": "Evol do Equipamento Interior I",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introducao ao vocabulario tecnico e aos processos tecnicos dos principais equipamentos de interior. Analise da evolucao do espaco arquitetonico e dos equipamentos de interior - Caracteristicas dos estilos: Antiguidade a Idade Media.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAH104"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAU423",
+      "Nome": "Evol Equip Interior III",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Analise da evolucao do espaco arquitetonico e dos equipamentos de interior. Caracteristicas dos estilos: seculos XIX e XX - Europa e Brasil.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAH104"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV127",
+      "Nome": "Fotografia",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Familiarizar o discente com o processo fotográfico, equipamentos habituais. Desenvolvimento da expressão fotográfica analógica e digital.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAVX10(C)"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV500",
+      "Nome": "Foto-criação B",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenvolvimento de experimentações na interface fotografia-arte.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV127"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAVX10",
+      "Nome": "Laboratório de Fotografia",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Prática dos conceitos adquiridos nas disciplinas de Fotografia.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV127(C)BAV127=BAV121"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAVX50",
+      "Nome": "Laboratório Foto-criação B",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Prática dos conceitos adquiridos nas disciplinas de FOTO-CRIAÇÃO A,B,C.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV500(C)BAV500=BAV600"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAWZ61",
+      "Nome": "Ativ Curricular Extensão I",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "0",
+      "Extensão": "60",
+      "Informação": {
+       "Info": "Atuação em atividades registradas na Pró-reitoria de Extensão da UFRJ, como programas, projetos, cursos de extensão e eventos, coordenados por docentes do quadro permanente ou técnicos de carreira de nível superior na UFRJ.\n___Bibliografia Recomendada___\nBibliografia recomendada pelo coordenador da atividade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAWZ63",
+      "Nome": "Ativ Curricular Extensão III",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "0",
+      "Extensão": "120",
+      "Informação": {
+       "Info": "Atuação em atividades registradas na Pró-reitoria de Extensão da UFRJ, como programas, projetos, cursos de extensão e eventos, coordenados por docentes do quadro permanente ou técnicos de carreira de nível superior na UFRJ.\n___Bibliografia Recomendada___\nBibliografia recomendada pelo coordenador da atividade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAWZ65",
+      "Nome": "Ativ Curricular Extensão V",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "0",
+      "Extensão": "30",
+      "Informação": {
+       "Info": "Atuação em atividades de extensão registradas na Pró-Reitoria de Extensão da UFRJ, como programas, projetos, cursos de extensão e eventos, coordenados por docentes do quadro permanente ou técnicos da carreira de nível superior na UFRJ. Para eventos, a\natuação deverá ser na organização ou na realização do evento. Para cursos, a atuação deve ser na organização ou ministrando aulas.\n___BIBLIOGRAFIA BÁSICA___\nBibliografia recomendada pelo coordenador da atividade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAWZ67",
+      "Nome": "Ativ Curricular Extensão VII",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "0",
+      "Extensão": "60",
+      "Informação": {
+       "Info": "Atuação em atividades de extensão registradas na Pró-Reitoria de Extensão da UFRJ, como programas, projetos, cursos de extensão e eventos, coordenados por docentes do quadro permanente ou técnicos da carreira de nível superior na UFRJ. Para eventos, a\natuação deverá ser na organização ou na realização do evento. Para cursos, a atuação deve ser na organização ou ministrando aulas.\n___BIBLIOGRAFIA BÁSICA___\nBibliografia recomendada pelo coordenador da atividade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAB112",
+      "Nome": "Pintura A",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Os materiais de pintura e seu emprego através dos processos usuais. Habilitar o aluno ao uso do material de pintura na execução de trabalhos.\n",
+       "BibliografiaBasica": "1) BARRETO, Lourdes.Oficina de pintura : materiais, fórmulas e procedimentos. Rio de Janeiro : Rio Books, 2011.\n2) MAYER, Ralph. Manual do Artista. São Paulo: Martins Fontes, 1996.\n3) MOTTA, Edson e SALGADO, Maria Luiza. Iniciação a Pintura. Rio de Janeiro: Ed. Nova Fronteira, 1976.\n",
+       "BibliografiaComplementar": "1) ARNHEIM, Rudolf. Intuição e intelecto na arte. São Paulo: Martins Fontes, 1989.\n2) Doerner, Max; Reverté, Pedro. Los materiales de pintura y su empleo en el arte : materiales y técnica de las pinturas al óleo, temple, acuarela, fresco, pastel. Técnica de los antiguos maestros. Conservación de monumentos y cuadros / . Barcelona : G. Gili, 1946.\n3) Hayes, Colin Guia completa de pintura y dibujo : tecnicas y materiales / . Madrid : Hermann Blume, c1980.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAB114",
+      "Nome": "Aquarela A",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudos das técnicas de aquarela e da utilização dos pigmentos e aglutinantes; a preparação dos suportes e acabamentos.\n",
+       "BibliografiaBasica": "1) ARNHEIM, Rudolf. Intuição e intelecto na arte. São Paulo: Martins Fontes, 1989.\n2) MAYER, Ralph. Manual do artista : de técnicas e materiais / . 5. ed. rev. e atual. São Paulo : Martins Fontes, 2016.\n3) MOTTA, Edson. SALGADO, Maria Luiza Guimarães. Iniciação à pintura. Rio de Janeiro: Nova Fronteira, 1976.\n",
+       "BibliografiaComplementar": "1) Hayes, Colin Guia completa de pintura y dibujo : tecnicas y materiales / . Madrid : Hermann Blume, c1980.\n2) Doerner, Max; Reverté, Pedro. Los materiales de pintura y su empleo en el arte : materiales y técnica de las pinturas al óleo, temple, acuarela, fresco, pastel. Técnica de los antiguos maestros. Conservación de monumentos y cuadros / . Barcelona : G. Gili, 1946.\n3) Barreto, Lourdes. Oficina de pintura : materiais, fórmulas e procedimentos / . Rio de Janeiro : Rio Books, 2011.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAB118",
+      "Nome": "Oficina de Cerâmica B",
+      "Créditos": "4.0",
+      "Teórica": "30",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceito do material, manuseio, modelagem, percurso histórico, cultura e ato técnicos, elementos da natureza, elementos químicos orgânicos e inorgânicos, misturas, testes, corpo cerâmico, semântica dos objetos,  tintas e vernizes, processos de queima, tipos de fornos.  A semântica da essência cultural.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAB117"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAB411",
+      "Nome": "Gravura I",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A disciplina oferece um panorama prático e teórico dos procedimentos artesanais de reprodução de imagens. O aluno será convidado a realizar experiências de impressão e reprodução de imagens, tomando conhecimento de uma variedade de técnicas gráficas, e sendo convidado a realizar trabalhos coletivos e autorais a partir destes.\n",
+       "BibliografiaBasica": "1) A gravura brasileira na coleção Mônica e George Kornis. Rio de Janeiro: Caixa Cultural, 2007.\n2) DA SILVA, Orlando. A arte maior da gravura. São Paulo: edição Espade, 1976.\n3) Gravura brasileira hoje: depoimentos / coordenação Heloísa Pires Ferreira - Rio de Janeiro: SESC, 1995-1997.\n",
+       "BibliografiaComplementar": "1) CAVALCANTI, Newton; MASSON, Michel (org.) Newton Cavalcanti: lendas rústicas. Rio de Janeiro: Data Coop, 2012.\n2) EICHENBERG, Fritz. The art of print: masterpieces, history, techniques. New York: Harry N. Abrams, 1976.\n3) Gravura: arte brasileira do século XX. São Paulo: Itaú Cultural: Cosac Naify, 2000.\n4) Prefeitura da Cidade do Rio de Janeiro. Mostra Rio Gravura catálogo geral dos eventos. Rio de Janeiro: Rio Arte, 1999.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAE022",
+      "Nome": "Arte: Ecologias (Top Experim)",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Disciplina teórico-prática direcionada ao embate do estudante com seu estar-no-mundo, via discussão de textos de raiz filosófica e correlação com práticas artísticas geradas pelo grupo. Espera-se que tais temas sejam geradores de inflexões no pensamento/posicionamento do estudante acerca do contexto sócio-geo-político-artístico em que se situa, e atuem como gatilhos para a produção de peças artísticas a serem realizadas no período. Inputs serão oferecidos mais densamente na primeira metade do curso, seguido pela ênfase no acompanhamento da produção da turma para uma produção coletiva. Viagem de campo a ser informada no primeiro dia de aula. A base teórica se desenvolve a partir da pesquisa em andamento (Grupo de Pesquisa Arte: Ecologias - Grupo GAE) decorrente da tese defendida pela professora proponente.\n___BIBLIOGRAFIA BÁSICA___\n1- AGAMBEN, Giorgio. O que é o contemporâneo? Ensaios.Tradução de Vinícius Nicastro Honesko. Chapecó - SC: Argos. 2009.\n2- ________________. Meios sem fim: notas sobe política. São Paulo: Autêntica, 2015.\n3-  GUATARRI, Félix. As três ecologias.2ª ed. Campinas, SP: Papirus, 1990.\n4- HALL, Stuart. Cultura e representação. Rio de Janeiro, RJ: Ed. PUC Rio: Apicuri, 2016.\n5- VIVEIROS DE CASTRO, Eduardo Metafisicas Canibais, São Paulo, SP: Cosac Naif. 2015.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1- AGAMBEN, Giorgio. Homo Sacer: O poder Soberano e a Vida Nua I. Tradução de Henrique Burigo. Belo Horizonte: Ed. UFMG, 2002.\n2- DIDI HURBERMAN, g. (1992), O que nos olha. Trad. G. Anghel e J. P. Cachopo, Porto, Dafne, 2011.\n3- FOCAULT, M. Truth and  Power. In: FOUCAULT. Michel. Power/Knowledge: Selected Interviews and Other Writings. 1972-1977. Nova Iorque: Pantheon Books, 1980.\n4- GUATTARI, F. (1992). Caosmose - um novo paradigma estético. São Paulo: Ed. 34.\n5- HALL, E. T. Beyond culture. 2 ed. New York: Anchor Doubleday, 1989.\n6- KAPROW, Alan Essays on the Blurring of Art and life. Expanded Edition. Los Angeles: University of California Press, 2003.\n7- KOPENAWA, Davi e ALBERT, Bruce. The Falling Sky. Ed. Harvard University Press. USA/2013.\n8- LATOUR, Bruno. War and peace in an age of ecological conflicts Paris - Lecture prepared for the Peter Wall Institute Vancouver. 2013.\n9- MATURANA, Humberto R.; VARELA, Francisco J. A árvore do conhecimento: as bases da compreensão humana; tradução: Humberto Mariotti e Lia Diskin; ilustração: Carolina Vial, Eduardo Osório, Francisco Olivares e Marcelo Maturana Montañez - São Paulo: Palas Athenas, 2001.\n10- NAESS, Arne. The Shallow and the Deep, long-range ecology movements: A summary. Inquiry 16 (OSlo, 1973), pp. 95-100.\n11- RANCIÈRE, Jacques. A partilha do sensível. Trad.: Mônica Costa Netto. São Paulo: Ed. 34, 2005.\n12- SANTOS, Milton. A Natureza e do Espaço: técnica e tempo, razão e emoção. São Paulo: EDUSP, 2002.\n13- SERRA, Richard. Escritos e entrevistas. Rio de Janeiro. IMS, 2016.\n14- SMITHSON, Robert. The collected writings. New York: University Press, 1979.\n15- TARKOVSKI, A. A. Esculpir o tempo. 2 ed. São Paulo: Martins fontes, 1998.\n16- VIVEIROS DE CASTRO, Eduardo. Metafísicas Canibais. São Paulo, SP: Cosac Naify, 2015.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAE513",
+      "Nome": "Escultura a",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Tecnicas e ferramental de escultura. Forma e espaco. A argila como material plastico.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAE215"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAH369",
+      "Nome": "Cultura Brasileira",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Formação da cultura brasileira. Etnicidade. Culturas tradicionais, regionais, populares e urbanas no Brasil.\n___ BIBLIOGRAFIA BÁSICA ___\n1- CANDIDO, A. O significado de Raízes do Brasil (Prefácio). In: HOLANDA, S. B. de. Raízes do Brasil. 26.ed. São Paulo: Cia. das Letras, 1995.\n2- FREYRE, G. Prefácio. Casa-grande & senzala: formação da família brasileira sob o regime da economia patriarcal. São Paulo: Global, 2005.\n3- DAMATTA, R. Notas sobre o racismo à brasileira. In: SOUZA, J. (Org) Multiculturalismo e racismo: uma comparação Brasil - Estados Unidos. Brasília: Paralelo, 1997.\n4- MICELI, S. Intelectuais e classe dirigente no Brasil (1920-1945). São Paulo: Difel, 1979.\n5- ROCHA, J. C. de C. As origens e equívocos da cordialidade brasileira. In: ___. O exílio do homem cordial. Rio de Janeiro: Editora do Museu Nacional, 2004.\n___ BIBLIOGRAFIA COMPLEMENTAR ____\n1- CANDIDO, A. Dialética da malandragem. Revista do Instituto de Estudos Brasileiros, São Paulo, v.8, p.67-89, 1970.\n2- FERNANDES, F. A integração do negro na sociedade de classes. São Paulo: Ática, 1978.\n3- HOLANDA, S. B. de. Raízes do Brasil. 26.ed. São Paulo: Cia. das Letras, 1995.\n4- ROMERO, S. Estudos sobre a poesia popular do Brasil. 2.ed. Petrópolis: Vozes, 1977.\n5- WISNIK, J. M. Veneno remédio: o futebol e o Brasil. São Paulo: Cia. das Letras, 2008.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAI326",
+      "Nome": "Estamparia A",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Aulas teórico-práticas sobre estamparia têxtil. Técnicas, materiais e processos da estamparia por impressão. Desenvolvimento de trabalhos por métodos experimentais e artesanais. Introdução ao design têxtil para estamparia localizada e corrida.\n___Bibliografia Recomendada___\n1- BOWLES, Melanie. Diseño y estampación textil digital. Barcelona: Art Blume, 2009.\n2- COLE, Drusilla. Diseño textil contemporaneo. Barcelona: Art Blume, 2008.\n3- CONRAN, Terence. Printed textile design. London : The Studio Limited, 1975.ESTAMPARIA, tapeçaria, tecelagem: Exposição de Arte Têxtil da Escola de Belas Artes da UFRJ. Rio de Janeiro : UFRJ, 1989. 47 p.\n4- ESTAMPARIA, tapeçaria: II Exposição - Mostra de Arte Têxtil da Escola de Belas Artes da UFRJ, artistas homenageadas: Hilda Campofiorito e Tana. Rio de Janeiro : UFRJ, 1993. 48 p.\n5- JONES, Owen. A gramática do ornamento. Edição brasileira:Editora Senac São Paulo, 2010.\n6- RUBIM, Renata. Desenhando a superfície. São Paulo: Rosari, 2005. 95 p.\n7- RÜTHSCHILLING, Evelise Anicet. Design de superfície. Porto Alegre: Ed. Da UFRGS, 2008. 104 p.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAI423",
+      "Nome": "Serigrafia I",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Emprego artistico e industrial; planejamento do desenho; montagem dos chassis; processos primitivos; filme de corte; impressao monocromatica; processo fotografico; sensibilizacao da tela; montagem da linha de impressao; impressao em diversos suportes; varias cores; recuperacao das telas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAR481",
+      "Nome": "Ed Ambiental-preserv de Bens C",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Convenções adotadas (regulamentações de leis e procedimentos técnicos) para preservação de bens culturais, relacionados ao meio ambiente.\n___ BIBLIOGRAFIA RECOMENDADA ___\n1- LEI Nº9.605, DE 12 DE FEVEREIRO DE 1998 - Dispõe sobre as sanções penais e administrativas derivadas de condutas e atividades lesivas ao meio ambiente.\n2- DECRETO-LEI Nº 25, DE 30 DE NOVEMBRO DE 1937 - Organiza a proteção do patrimônio histórico e artístico nacional.\n3- INSTITUTO DO PATRIMÔNIO HISTÓRICO ARTÍSTICO NACIONAL. Cartas Patrimoniais. Brasília: IPHAN, 1995.\n4- Cadernos Técnicos IPHAN - publicações on line - http://portal.iphan.gov.br/- publicações.\n5- Manuais IPHAN - publicações on line - http://portal.iphan.gov.br/- publicações\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAT511",
+      "Nome": "Cena e Dramaturgia I",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A disciplina propõe o estudo do teatro, da Antiguidade ao Renascimento, valorizando as relações dinâmicas entre os diversos elementos do espetáculo em sua produção de sentido.\n___BIBLIOGRAFIA BÁSICA___\n1- BERTHOLD, Margot. História mundial do teatro. São Paulo: Perspectiva, 2010.\n2- PRADO, Décio de Almeida. História concisa do teatro brasileiro. 1570-1908. São Paulo: Edusp, 1999.\n3- VERNANT, Jean-Pierre; VIDAL-NAQUET, Pierre. Mito e tragédia na Grécia antiga. V. I e II. São Paulo: Perspectiva, 1999.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 16:00",
+        "professor": "GILSON MORAES MOTTA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAT513",
+      "Nome": "Cena e Dramaturgia III",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A disciplina trata das transformações do teatro ao longo do século XX, com ênfase nas tentativas de ruptura da noção de ilusão.\n___BIBLIOGRAFIA BÁSICA___\n1- BORNHEIM, Gerd. Brecht: a estética do teatro. São Paulo: Graal, 1992.\n2- GUINSBURG, J. Stanislávski, Meierhold & Cia. São Paulo: Perspectiva, 2001.\n3- LOPES, Angela Leite. Nelson Rodrigues, trágico, então moderno. Rio de janeiro: Nova Fronteira, 2007.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAU404",
+      "Nome": "Evol do Equip de Interior II",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Analise da evolucao do espaco arquitetonico e dos equipamentos de interior - Caracteristicas dos estilos: seculo XV ao XVIII - Europa e Brasil.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAH104"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV121",
+      "Nome": "Fotografia I",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Teoria fotográfica, a câmera, estruturação da imagem; introdução ao laboratório fotográfico.\n___Bibliografia Recomendada___\n1) ADAMS,Ansel.The Camera, New York: Litle, Brown and Company, 1991. Existe edição do SENAC SP.\n2) ____, Ansel. The Negative, New York:Litle, Brown and Company, 1991. Existe edição do SENAC SP.\n3) ____, Ansel. The Print, New York: Litle, Brown and Company, 1991. Existe edição do SENAC.\n4) SPGOLDBERG, Vicki. Photography in Print, Alburquerque: University New Mexico Press, 1988Catálogo da XXV Bienal de São Paulo, Iconografias Metropolitanas. São Paulo, 2002.\n5)CARSON, D. , MEGGS P. : Fotografiks, David Carson, Corte Madera: Gingko Press, 2000.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV201",
+      "Nome": "Foto-criação A-",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenvolvimento de experimentações na interface fotografia-arte.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV127"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV501",
+      "Nome": "Foto-criação C",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenvolvimento de experimentações na interface fotografia-arte digital.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV127"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAVX20",
+      "Nome": "Laboratório de Foto-criação A.",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Prática dos conceitos adquiridos nas disciplinas de Foto-criação A,B,C.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV201(C)BAV201=BAV231"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAVX51",
+      "Nome": "Laboratório Foto-criação C",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Prática dos conceitos adquiridos nas disciplinas de FOTO-CRIAÇÃO A,B,C.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV501(C)"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAWZ62",
+      "Nome": "Ativ Curricular Extensão II",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "0",
+      "Extensão": "90",
+      "Informação": {
+       "Info": "Atuação em atividades registradas na Pró-reitoria de Extensão da UFRJ, como programas, projetos, cursos de extensão e eventos, coordenados por docentes do quadro permanente ou técnicos de carreira de nível superior na UFRJ.\n___Bibliografia Recomendada___\nBibliografia recomendada pelo coordenador da atividade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAWZ64",
+      "Nome": "Ativ Curricular Extensão IV",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "0",
+      "Extensão": "120",
+      "Informação": {
+       "Info": "Atuação em atividades de extensão registradas na Pró-Reitoria de Extensão da UFRJ, como programas, projetos, cursos de extensão e eventos, coordenados por docentes do quadro permanente ou técnicos da carreira de nível superior na UFRJ. Para eventos, a\natuação deverá ser na organização ou na realização do evento. Para cursos, a atuação deve ser na organização ou ministrando aulas.\n___BIBLIOGRAFIA BÁSICA___\nBibliografia recomendada pelo coordenador da atividade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAWZ66",
+      "Nome": "Ativ Curricular Extensão VI",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "0",
+      "Extensão": "45",
+      "Informação": {
+       "Info": "Atuação em atividades de extensão registradas na Pró-Reitoria de Extensão da UFRJ, como programas, projetos, cursos de extensão e eventos, coordenados por docentes do quadro permanente ou técnicos da carreira de nível superior na UFRJ. Para eventos, a\natuação deverá ser na organização ou na realização do evento. Para cursos, a atuação deve ser na organização ou ministrando aulas.\n___BIBLIOGRAFIA BÁSICA___\nBibliografia recomendada pelo coordenador da atividade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEB599",
+      "Nome": "Est da Líng Bras de Sinais I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Nomes próprios; pronomes pessoais; demonstrativos; possessivos; locativos em sentenças simples do tipo pergunta-resposta com \"o que\" e \"quem\" e outros vocábulos básicos; numerais; quantidade; topicalização; flexão verbal; flexão de negação; expressões faciais e corporais; percepção visual; conversação; diálogos; textos: LIBRAS, cultura e comunidade surda.\n",
+       "BibliografiaBasica": "1) BRITO, L. F. Por uma gramática de língua de sinais. Rio de Janeiro: Tempo Brasileiro, 1995.\n2) FELIPE, T.; MONTEIRO, M. S. LIBRAS em contexto. Curso Básico. Brasília: Ministério da Educação e do Desporto/Secretaria de Educação Especial, 2001.\n3) GESSER, A. Libras - Que língua é essa? Crença e preconceitos em torno da língua de sinais e da realidade surda. Florianópolis: Parábola, 2009.\n4) STROBEL, K. L. As imagens do outro sobre a cultura surda. Florianópolis: EdUFSC, 2008.\n",
+       "BibliografiaComplementar": "1) PIMENTA, Nelson e QUADROS, Ronice Muller. Curso de Libras I, LSB Vídeo, volume I, Iniciante, 2006 e 3a ed., 2008.\n2) Dicionário Enciclopédico Ilustrado Triíngue da Língua de Sinais Brasileira ? vol 1 e vol. 2 Site: www.acessobrasil.org.brasil\n3) Dicionário da Língua Brasileira de Sinais, INES, versão, 2.0, ano 2006.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     }
+    ]
+   },
+   "obrigatorias": 51,
+   "eletivas": 54,
+   "ano": "2009/1 a 2019/1"
+  },
+  {
+   "materias": {
+    "1º Período": [
+     {
+      "Codigo": "BAH114",
+      "Nome": "Arte e Antropologia",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Antropologia da arte, sistema de arte e cultura, agência, redes de interação e significados, etnicidade, tradições artísticas, artefatos culturais, bens simbólicos.\n___ BIBLIOGRAFIA BÁSICA ___\n1- CANCLINI, Nestor Garcia. Culturas híbridas: estratégias para entrar e sair da modernidade. São Paulo: EDUSP, 2006.\n2- DA MATTA, Roberto. Relativizando: Uma introdução a Antropologia Social. Ed. Rocco, 1987.\n3-  FARIAS, Caleb (org.). Horizontes Antropológicos: Antropologia da Arte. Porto Alegre, ano 14, n. 29, jan-jun 2008.\n4- LAYTON, Robert. Antropologia da Arte. Lisboa: Edições 70, 1991.\n5-  PRICE, Sally. Arte primitiva em centros civilizados. Rio de Janeiro: UFRJ, 2000.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "14:00 - 17:00",
+        "professor": "DENNIS NOVAES SALDANHA CORTES"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH117",
+      "Nome": "Arte Processos e Exposições",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das diversas matérias, processos técnicos, linguagens e conceitos pelos quais a arte se institui. Apresentação, análise e sentidos da arte/obra circunscritos nos espaços onde a obra/arte se apresenta. Compreensão do campo artístico a partir dos aspectos sociais, políticos, culturais e históricos representados nas várias temporalidades da História da Arte.\n___ BIBLIOGRAFIA BÁSICA ___\n1- DANTO, Artur C. A transfiguração do lugar comum. São Paulo: Cosac & Naif, 2005.\n2- FARTHING, Stephen (edit.).  Tudo sobre arte. Rio de Janeiro: sextante, 2010.\n3- SARDENBERG, Ricardo. Arte contemporânea no século XXI. Rio de Janeiro: Capivara, 2011.\n4- VASARI, Giorgio. Vidas dos Artistas. São Paulo: Martins Fontes, 2011.\n5- ZANINI, Walter (Edit.). História geral da arte no Brasil. São Paulo: IMS/Fundação Djalma Guimarães, 1983. 2v.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "14:00 - 17:00",
+        "professor": "ROGERIA MOREIRA DE IPANEMA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH232",
+      "Nome": "História das Artes Visuais III",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo da arte dos séculos XV e XVI nos principais centros europeus, considerando os aspectos formais do Renascimento e do Maneirismo.\n___ BIBLIOGRAFIA BÁSICA ___\n1- ARGAN, G.C. História da arte italiana. São Paulo: Cosac & Naify, 2003. 3v.\n2-  BAXANDALL, M. O olhar renascente. Pintura e experiência social na Itália da renascença. São Paulo: Paz e Terra, 1991.\n3-  BAZIN, G. História da arte. Da pré-história aos nossos dias. Lisboa: Martins Fontes, 1976.\n4- GOMBRICH, E.H. A história da arte. Rio de Janeiro: LTC, 2000.\n5- JASON, H.W. História da arte. Lisboa: Fundação Calouste Gulbenkian, 1989.\n6- WOODFORD, Susan. A arte de ver a arte. Rio de Janeiro: Zahar, 1983. (Coleção História da Arte da Universidade de Cambridge).\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "14:00 - 17:00",
+        "professor": "CLAUDIA MARIA SILVA DE OLIVEIRA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH110",
+      "Nome": "História das Artes Visuais I",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Projeção e análise de obras de arte produzidas durante os períodos do paleolítico ao neolítico, mesopotâmico, egípcio, persa, minóico-micênico e greco-romano; discussão de termos e conceitos tradicionalmente vinculados a eles; estudos da sua recepção pela arte ocidental posterior.\n___BIBLIOGRAFIA BÁSICA___\nBAZIN, G. História da arte. Da pré-história aos nossos dias. Lisboa: Martins Fontes, 1976.\nGOMBRICH, E.H. A história da arte. Rio de Janeiro: LTC, 2000.\nJANSON, H.W. História da arte. Lisboa: Fundação Calouste Gulbenkian, 1989.\nWOODFORD, Susan. A arte de ver a arte. Rio de Janeiro: Zahar, 1983. (Coleção História da Arte da Universidade de Cambridge).\n______. Grécia e Roma. Rio de Janeiro: Zahar, 1983. (Coleção História da Arte da Universidade de Cambridge).\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "14:00 - 17:00",
+        "professor": "HELENISE MONTEIRO GUIMARAES"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH115",
+      "Nome": "Metodologia da Pesquisa",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Análise de conceitos e métodos na pesquisa em História Cultural, História da Arte e Artes Visuais, a partir de uma reflexão teórica e metodológica amparada em estudos empíricos.\n___ BIBLIOGRAFIA BÁSICA ___\n1- BECKER, H.S. Falando da sociedade: ensaios sobre as diferentes maneiras de representar o social. Rio de Janeiro: Zahar, 2009.\n2- CAUQUELIN, Anne. Teorias da arte. São Paulo: Martins Fontes, 2005.\n3- CERTEAU, Michel de. ?A Operação histórica?. In: A operação histográfica. Rio de Janeiro: Forense universitária, 1982.\n4- GIL, Antonio Carlos. Como elaborar projetos de pesquisa. São Paulo: Atlas, 2002.\n5- HEINICH, Nathalie. ?práticas da Arte contemporânea. Uma abordagem pragmática a um novo paradigma?. Sociologia Antropologia. Rio de Janeiro, v. 4, 391-431, 2010.\n6- SHWARCZ, Lilia Moritz. ?Lendo e agenciando imagens: o rei, a natureza e seus belos naturais?. Sociologia Antropologia. Rio de Janeiro, V. 4, 391-431, 2010.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "10:00 - 13:00",
+        "professor": "CLAUDIA MARIA SILVA DE OLIVEIRA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH135",
+      "Nome": "Filosofia da Arte I",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das relações entre arte e pensamento. Definição do campo da estética e de seus problemas fundamentais. Investigação dos principais conceitos e ideias que acompanharam a realização, a recepção e a avaliação das obras de arte em três grandes momentos históricos: na Antiguidade grega, na Idade Média e no Renascimento.\n___ BIBLIOGRAFIA BÁSICA ___\n1- CAUQUELIN, Anne. Teorias da arte. São Paulo: Martins Fontes, 2005.\n2- DUARTE, Rodrigo (org.). O belo autônomo: textos clássicos de estética. Belo Horizonte: Autêntica Editora, 2012.\n3- GILSON, Étienne. Introdução às artes do belo. São Paulo: É Realizações, 2010.\n4- PAREYSON, Luigi. Os problemas da estética. São Paulo: Martins Fontes, 2001.\n5-  SUASSUNA, Ariano. Iniciação à estética. Rio de Janeiro: José Olympio, 2004.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "10:00 - 13:00",
+        "professor": "PAULO DA COSTA E SILVA FRANCO DE OLIVEIRA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAWZ53",
+      "Nome": "Ativ Curricular Extensão - Ha",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "0",
+      "Extensão": "240",
+      "Informação": {
+       "Info": "Atuação em atividades de extensão registradas na Pró-Reitoria de Extensão da UFRJ, como programas, projetos, cursos de extensão e eventos, coordenados por docentes do quadro permanente ou técnicos de carreira de nível superior na UFRJ. Para eventos, a atuação deverá ser na organização ou na realização do evento. Para cursos, a atuação deve ser na organização ou ministrando aulas.\n___  BIBLIOGRAFIA BÁSICA ___\nBibliografia recomendada pelo coordenador da atividade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sab",
+        "hora": "08:00 - 12:00",
+        "professor": "SILVIA BARBOSA GUIMARAES BORGES"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "2º Período": [
+     {
+      "Codigo": "BAH127",
+      "Nome": "Teoria da Imagem",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Teoria e análise das imagens. Imagem, tempo e história. Arte, imagem, mídia. Dispositivos de imagem.\n___ BIBLIOGRAFIA BÁSICA ___\n1-  ALLOA, Emmanuel. (org.). Pensar a imagem. Belo Horizonte: Autêntica, 2015.\n2-  BELTING,  Hans. Antropologia da Imagem. Lisboa:  Projeto Ymago, 2016.\n3- BERGER, John. Modos de ver. Rio de Janeiro: Rocco, 1999.\n4- CRARY, Jonathan. Técnicas de Observador. Rio de Janeiro: Contraponto, 2012.\n5- DIDI-HUBERMAN. Georges. Diante do tempo: história da arte e anacronismo das imagens. Belo Horizonte: Editora UFMG, 2015.\n6- FLUSSER, Villém. O universo das imagens técnicas. São Paulo: Annablume, 2008.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "07:00 - 10:00",
+        "professor": "MESSIAS TADEU CAPISTRANO DOS SANTOS"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH236",
+      "Nome": "História da Arte no Brasil I",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das artes visuais no Brasil antes da chegada dos europeus e no período colonial, do século XVI ao XVIII, e suas relações com o panorama artístico europeu no período.\n___ BIBLIOGRAFIA BÁSICA ___\n1- AVILA, Afonso. Barroco: Teoria e análise. São Paulo: Editora Perspectiva; Belo Horizonte: Companhia Brasileira de Metalurgia e Mineração, 1997.\n2-BARCINSKI, Fabiana Werneck (org.). Sobre a arte brasileira: da pré-história aos anos 1960. São Paulo: Martins Fontes; Ed. Sesc-SP, 2014.\n3- D?ARAUJO, A. L. Arte no Brasil Colonial. Rio de Janeiro, Revan, 2000.\n4-  OLIVEIRA, M.A.R. O rococó religioso no Brasil e seus antecedentes europeus. São Paulo, Cosac & Naify, 2003.\n5- OLIVEIRA, M.A.R.; PEREIRA, S.G.; A.A.  História da Arte no Brasil: textos de síntese. Rio de Janeiro: Editora da UFRJ, 2008.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "10:00 - 13:00",
+        "professor": "SILVIA BARBOSA GUIMARAES BORGES"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH353",
+      "Nome": "História Fotog Artes Gráficas",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo da fotografia como linguagem artística ressaltando os principais momentos de sua trajetória. Conecimento dos principais métodos de análise utilizados levando-se em consideração seus limites e alcances. História e evolução das artes gráficas e seus processos técnicos e linguagens artísticas.\n___BIBLIOGRAFIA BÁSICA___\n1- BAER, Lorenzo. Produção Gráfica. 2 ed. São Paulo: SENAC, 1999.\n2- BERGER, John. Modos de ver. Rio de Janeiro: Rocco, 1999.\n3- BUSSELLE, Michael. Tudo sobre Fotografia. 11 ed. São Paulo: Pioneira, 2004.\n4- KOSSOY, Boris. Fotografia e História. São Paulo: Ateliê Editorial, 2001.\n5- KUBRUSLY, Cláudio Araújo. O que é Fotografia. 4 ed. São Paulo: Brasiliense, 1998.\n6- MUNARI, Bruno. Design e Comunicação Visual. São Paulo: Martins Fontes, 1997.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "10:00 - 13:00",
+        "professor": "CEZAR TADEU BARTHOLOMEU"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH122",
+      "Nome": "História das Artes Visuais II",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo da arte Bizantina, Muçulmana, Bárbara, Românica e Gótica produzidas ao longo da Idade Média, considerando suas inter-relações e seu legado às fases da cultura artística ocidental.\n___ BIBLIOGRAFIA BÁSICA ___\n1-BAZIN, G. História da arte. Da pré-história aos nossos dias. Lisboa: Martins Fontes, 1976.\n2- DUBY, G. O tempo das catedrais: a arte e a sociedade, 980-1420. Lisboa: Estampa, 1988.\n3- GOMBRICH, E.H. A história da arte. Rio de Janeiro: LTC, 2000.\n4-  JANSON, H.W. História da arte. Lisboa: Fundação Calouste Gulbenkian, 1989.\n5- PANOFSKY, Erwin. Arquitetura gótica e escolástica. São Paulo: Martins Fontes, 2001.\n6- WOODFORD, Susan. A arte de ver a arte. Rio de Janeiro: Zahar, 1983. (Coleção História da Arte da Universidade de Cambridge).\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "10:00 - 13:00",
+        "professor": "SILVIA BARBOSA GUIMARAES BORGES"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH136",
+      "Nome": "Filosofia da Arte II",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das relações entre arte e pensamento. Definição do campo da estética e de seus problemas fundamentais. Investigação dos principais conceitos e ideias que acompanharam a realização, a recepção, a recepção e a avaliação das obras de arte no período que vai do Renascimento à Modernidade.\n___ BIBLIOGRAFIA BÁSICA ___\n1- CAUQUELIN, Anne. Teorias da arte. São Paulo: Martins Fontes, 2005.\n2- DUARTE, Rodrigo (org.). O belo autônomo: textos clássicos de estético. Belo Horizonte:  Autêntica Editora, 2012.\n3- HUGON, Carole Talon. A estética. Lisboa: Texto & Grafia, 2009.\n4- MAMMI, Lorenzo. O que resta: arte e crítica de arte. São Paulo: Cia das Letras, 2012.\n5-  PAREYSON, Luigi. Os problemas da estética. São Paulo: Martins Fontes, 2001.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "14:00 - 17:00",
+        "professor": "PAULO DA COSTA E SILVA FRANCO DE OLIVEIRA"
+       }
+      ],
+      "Requisitos": [
+       "BAH135"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH241",
+      "Nome": "História das Artes Visuais IV",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo da arte dos séculos XVII e XVIII nos principais centros europeus, considerando dos aspectos formais do Barroco e Rococó.\n___ BIBLIOGRAFIA BÁSICA ___\n1-  ARGAN, G.C. História da arte italiana. São Paulo: Cosac & Naify, 2003. 3v.\n2- BAZIN, G. História da arte. Da pré-história aos nossos dias. Lisboa: Martins Fontes, 1976.\n3- GOMBRICH, E.H. A história da arte. Rio de Janeiro: LTC, 2000.\n4-  HATZFELD, H. Estudos sobre o Barroco. São Paulo: Perspectiva. 1992.\n5- JANSON, H.W. História da arte. Lisboa: Fundação Calouste Gulbenkian, 1989.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "14:00 - 17:00",
+        "professor": "MARCELO DA ROCHA SILVEIRA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "3º Período": [
+     {
+      "Codigo": "BAH125",
+      "Nome": "Arte Objetos e Coleções",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo dos objetos de arte no campo das artes decorativas e a sua circularidade nas coleções. apresentação dos processos de produção dos objetos, seus usos e práticas de colecionamento. Contextualização dos objetos no campo das expressões artísticas, das coleções e dos museus. identificação das formas ornamentais a partir das dimensões simbólicas, relações sociais e representações de poder.\n___ BIBLIOGRAFIA BÁSICA ___\n1- BORGES, Maria Eliza Linhares. Inovações, coleções, museus. Belo Horizonte: Autêntica, 2011.\n2- GOMBRICH, E.H. O sentido da ordem. Porto Alegre: Bookman, 2012.\n3- KAPLAN, E. Ann (org.). O mal-estar no pós-modernismo. Rio de Janeiro: Jorge Zahar, 1993.\n4-  LOOS, Adolph. Ornamento e crime. Lisboa: Cotovia, 2004.\n5- MAGALHÃES, Aline Montenegro; BEZERRA, Rafael Zamorano (orgs.). Coleções e colecionadores. Rio de Janeiro: Museu Histórico Nacional, 2012.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "14:00 - 17:00",
+        "professor": "HELLEN ALVES CABRAL"
+       },
+       {
+        "dia": "Ter",
+        "hora": "14:00 - 17:00",
+        "professor": "SILVIA BARBOSA GUIMARAES BORGES"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH246",
+      "Nome": "História da Arte no Brasil II",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das artes visuais no Brasil no século XIX e sua relação com a cultura nacional e a arte europeia no período.\n___ BIBLIOGRAFIA BÁSICA ___\n1- CAMPOFIORTO, Quirino. História da Pintura Brasileira no século XIX. Rio de Janeiro: Pinakotheke, 1983.\n2-  COLI, Jorge. Como estudar a arte brasileira do século XIX? São Paulo: Editora Senac, 2005.\n3- GOMES PEREIRA, Sonia. Arte brasileira no século XIX. Belo Horizonte: C/Arte, 2008.\n4- _________ (Org.). 185 Anos de Escola de Belas Artes. Rio de Janeiro: UFRJ, 2001-2002.\n5-  GONZAGA DUQUE. A Arte Brasileira. Campinas: Mercado de Letras, 1995.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "10:00 - 13:00",
+        "professor": "ANA MARIA TAVARES CAVALCANTI"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH355",
+      "Nome": "História do Cinema",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O nascimento do cinema. A ascensão da indústria cinematográfica norte-americana. A vanguarda francesa. A experiência soviética. O expressionismo alemão. A revolução do cinema sonoro. O neo-realismo italiano. A  geração pós-guerra dos Estados Unidos. O cinema independente. O surgimento da TV e a crise de Hollywood. A nouvelle vague francesa. As cinematografias européias dos anos 50 e 60. O cinema japonês. Os principais ciclos de criação do cinema brasileiro.\n___ BIBLIOGRAFIA BÁSICA___\n1- ANDREW, J. Dudley. As principais teorias do cinema. Rio de Janeiro: Jorge Zahar, 1989.\n2- AUMONT, Jacques; MARIE, Michel; BERGALA, Alain; VERNET, Marc. Estética do filme. Campinas: Papirus, 2002.\n3- BURCH, Noël. Praxis do cinema. Lisboa: Estampa, 1973.\n4- GRÜNEWALD, José Lino (org.). A ideia do cinema. Rio de Janeiro: Civilização Brasileira, 1969.\n5- MARTIN, Marcel. A linguagem cinematográfica. São Paulo: Brasiliense, 1990.\n6- METZ, Christian.  A significação no cinema. São Paulo. Perspectiva, 1972.\n7- SADOUL, Georges. História do cinema mundial. Lisboa: Livros do Horizonte, 1983. v. 1, 2, 3.\n8- XAVIER, Ismail.O discurso cinematográfico. Rio de Janeiro: Paz e Terra, 1984.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "10:00 - 13:00",
+        "professor": "MESSIAS TADEU CAPISTRANO DOS SANTOS"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH113",
+      "Nome": "Historiografia da Arte I",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução à questão da historicidade da arte e a problemática da pesquisa histórica. Problemas históricos, filosóficos, epistemológicos da história da arte. A inter-relação do presente e do passado no âmbito do processo histórico, no campo das artes visuais, à luz da perspectiva dialética e fenomenológica.\n___BIBLIOGRAFIA BÁSICA___\n1- ARGAN, G. C. Arte Moderna. Do Iluminismo aos movimentos contemporâneos. São Paulo: Companhia das Letras, 1992.\n2- ______. História da arte como história da cidade. São Paulo: Martins Fontes, 1992.\n3- BAZIN, G. Historia da História da Arte. São Paulo: Martins Fontes, 1989.\n4- FERNIE, Eric. Art history and its methods. London: Phaidon, 1998.\n5- LESSING, G.E. Lacoonte ou sobre as fronteiras da pintura e da poesia. São Paulo: Iluminuras, 1998.\n6- PANOFSKI, Erwin. Significado nas artes visuais. São Paulo: Perspectiva, 1979.\n7- WÖLLFLIN, H. Conceitos fundamentais de história da arte. São Paulo: Martins Fontes, 1984.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "10:00 - 13:00",
+        "professor": "IVAIR JUNIOR REINALDIM"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH237",
+      "Nome": "Arte Africana Afro-brasileira",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A situação da arte africana e arte européia. Cultura africana e sua produção artística. Arte afro-brasileira, definições e interpretações. Arte africana e arte brasileira, continuidade, ruptura e hibridismos.\n___BIBLIOGRAFIA BÁSICA___\n1- BOLOUGUN, Ola. Forma e expressão nas artes africanas. In: Introdução a cultura africana. Lisboa: UNESCO, 1977.\n2- CANCLINI, Nestor Garcia.  A produção simbólica. Rio de Janeiro: Cultura Brasileira, 1979.\n3- CANCLINI, Nestor Garcia. A socialização da arte. São Paulo: Cultrix, 1980.\n4- CARISSE, Iracy. A arte negra na cultura brasileira. Rio de Janeiro: Arte Nova, 1979.\n5- GRI'AULLE, Marcel. Le symboles des arts africanes. Paris: Seiul, 19--.\n6- LEIRIS, Michel. African art. S.l., UNESCO, 1975.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "14:00 - 17:00",
+        "professor": "DENNIS NOVAES SALDANHA CORTES"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH352",
+      "Nome": "História das Artes Visuais V",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das artes visuais no século XIX na Europa, o neoclassicismo e os principais movimentos do período.\n___ BIBLIOGRAFIA BÁSICA ___\n1- ARGAN, G.C. Arte moderna. São Paulo: Cia das Letras, 1992.\n2-  BAZIN, G. História da arte. Da pré-história aos nossos dias. Lisboa: Martins Fontes, 1976.\n3-  GOMBRICH, E.H. A história da arte. Rio de Janeiro: LTC, 2000.\n4- JANSON, H.W. História da arte. Lisboa: Fundação Calouste Gulbenkian, 1989.\n5- SCHAPIRO, Meyer. Arte moderna: séculos XIX e XX. São Paulo: EDUSP, 1994.\n6- ______. Impressionismo. São Paulo: Cosac & Naify, 2002.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "14:00 - 17:00",
+        "professor": "ANA MARIA TAVARES CAVALCANTI"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "4º Período": [
+     {
+      "Codigo": "BAH234",
+      "Nome": "Arte e Paisagem",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das relações existentes entre arte e natureza. Conceitos e teorias do campo epistemológico da paisagem. Análise dos diálogos entre os campos da arte e da paisagem na contemporaneidade, nos planos ideológico e prático que definem as instâncias investigativas da disciplina.\n___ BIBLIOGRAFIA BÁSICA ___\n1) BESSE, J. Marc. O gosto do mundo: exercícios de paisagem. Rio de Janeiro: UERJ, 2014.\n2) CAUQUELIN, Anne. A invenção da paisagem. São Paulo: Martins Fontes, 2010.\n3) COLLOT, Michael. Poética e filosofia da paisagem: Rio de Janeiro: Oficina Raquel, 2013.\n4) HOLBACH, Barão. Sistemas da natureza. São Paulo: Martins Fontes, 2001.\n5) SCHAMA, Simon. Paisagem e memória. São Paulo: Cia das Letras, 2009.\n6) WÖLFFIN, H. Renascença e barroco. São Paulo: Perspectiva, 1968.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "09:00 - 12:00",
+        "professor": "VALCI RUBENS OLIVEIRA DE ANDRADE"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH357",
+      "Nome": "História da Arte no Brasil III",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das artes visuais no Brasil do século XX, a partir da relação crítica entre o contexto cultural brasileiro e a modernidade europeia. Do início do século  aos anos 1950.\n___ BIBLIOGRAFIA BÁSICA ___\n1-AMARAL, Aracy. Artes plásticas na semana de 22. São Paulo: Perspectiva, 1979.\n2- ARANTES, Otilia. Mario Pedrosa, acadêmicos e modernos, textos escolhidos vol. 3 São Paulo: Edusp, 2004.\n3-  BRITO, Ronaldo. Neoconcretismo.  São Paulo: Cosac & Naify, 1999.\n4- XAVIER, Alberto (org.). Arquitetura Moderna Brasileira ? Depoimento de uma Geração. São Paulo: Abea/fva/pini, 1987.\n5- ZILIO, Carlos. A querela do Brasil. Rio de Janeiro: Relume Dumará, 1997.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "10:00 - 13:00",
+        "professor": "CEZAR TADEU BARTHOLOMEU"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH473",
+      "Nome": "Museologia e Patrimônio",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Formação do campo da disciplina museologia e suas implicações prático-teóricas. As relações entre coleções, documentos, exposição. Formação das noções de patrimônio e suas articulações com as memórias culturais.\n___ BIBLIOGRAFIA BÁSICA ___\n1- ABREU, Regina; CHAGAS, Mario (orgs.) Memória e Patrimônio: ensaios contemporâneos. Rio de Janeiro: DP&A, 2003.\n2- CHOAY, Françoise. A alegoria do patrimônio. São Paulo: Estação Liberdade/Unesp, 2006.\n3-  DESVALLES, André; MAIRESSE, Fraçois. Conceitos-chave de museologia. São Paulo: Comitê Brasileiro do Conselho Internacional de Museus, 2013.\n4- GONÇALVES, Jose Reginaldo Santos. A retórica da perda: os discursos do patrimônio cultural no Brasil. 2. Ed. Rio de Janeiro: Editora UFRJ; MinC-Iphan, 2002.\n5- POULOT, Dominique. Museu e Museologia. Belo Horizonte: Editora Autêntica, 2013.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "14:00 - 17:00",
+        "professor": "TATIANA DA COSTA MARTINS"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH123",
+      "Nome": "Historiografia da Arte II",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Abordagens metodológicas utilizadas na produção historiográfica das artes visuais. Reflexão crítica sobre processos de significação e de juízo estético em produções plásticas.\n___BIBLIOGRAFIA BÁSICA___\n1- ARGAN, G. C. Arte Moderna. Do Iluminismo aos movimentos contemporâneos. São Paulo: Companhia das Letras, 1992.\n2- ______. História da arte como história da cidade. São Paulo: Martins Fontes, 1992.\n3- BAZIN, G. História da História da Arte. São Paulo: Martins Fontes, 1989.\n4- FERNIE, Eric. Art history and its methods. London: Phaidon, 1998.\n5- LESSING, G.E. Lacoonte ou sobre as fronteiras da pintura e da poesia. São Paulo: Iluminuras, 1998.\n6- PANOFSKY, Erwin. Significado nas artes visuais. São Paulo: Perspectiva, 1979.\n7- WÖLLFLIN, H. Conceitos fundamentais de história da arte. São Paulo: Martins Fontes, 1984.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "14:00 - 17:00",
+        "professor": "ROSANA PEREIRA DE FREITAS"
+       }
+      ],
+      "Requisitos": [
+       "BAH113"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH356",
+      "Nome": "Arte na América Latina I",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das artes visuais na América Latina, das culturas pré-colombianas à colonização europeia. O panorama artístico da Mesoamérica e da região Andina e depois da conquista. a arte transcultural hispano-americana, do século XVI ao XVIII.\n___ BIBLIOGRAFIA BÁSICA ___\n1- AVILA, Affonso (org.). Barroco ? teoria e análise. Col. Stylus. São Paulo: Perspectiva, 1997.\n2- DONAHUE-WALLACE, Kelly. Art and Architecture of Viceregal Latin America. 1521-1821. Albuquerque: University of New Mexico Press, 2008.\n3- GUTIERREZ, Ramon (org.). Pintura, escultura y artes útiles en Iberoamérica, 1500-1825. Madrid: Cátedra, 1995.\n4- PASZTORY, Esther. Pré-Columbian Art. Cambridge and New York: Cambridge University Press, 1998.\n5- ________. Thinking with things. Austin: University of Texas Press, 2005.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "10:00 - 13:00",
+        "professor": "PATRICIA LEAL AZEVEDO CORREA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH362",
+      "Nome": "História das Artes Visuais VI",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das artes visuais no século XX na Europa e seus desdobramentos e os reflexos da sociedade industrial na criação artística.\n___ BIBLIOGRAFIA BÁSICA ___\n1- ARGAN, G. C. Arte moderna. São Paulo: Cia das Letras, 1992.\n2- BATTCOCK, Gregory. A nova arte. São Paulo: Perspectiva, 1975.\n3-  BAZIN, G. História da Arte. Da pré-história aos nossos dias. Lisboa: Martins Fontes, 1976.\n4- GOMBRICH, E.H. A história da arte. Rio de Janeiro: LTC, 2000.\n5- JANSON, H.W. História da arte. Lisboa: Fundação Calouste Gulbenkian, 1989.\n6- STANGOS, Nikos (org.). Conceitos da arte moderna. Rio de Janeiro: Jorge Zahar, 1991.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "10:00 - 13:00",
+        "professor": "ANA DE GUSMAO MANNARINO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "5º Período": [
+     {
+      "Codigo": "BAH243",
+      "Nome": "Crítica de Arte I",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Análise da trajetória histórica da crítica de arte. A crítica de arte da antiguidade ao século XX. Conceito de gosto e sua relativização. Estudo da gênese e do desenvolvimento da crítica enquanto área autônoma de reflexão. Conceitos básicos de arte e categorias deo pensamento e produção artística. Imbricações entre o campo da crítica e o campo da  história da arte.\n___BIBLIOGRAFIA BÁSICA___\n1- ARGAN, Giulio Carlo. Arte e crítica de arte. Lisboa: Estampa, 1988.\n2- ___________. Arte Moderna. São Paulo: Companhia das Letras, 1992.\n3- CHIPP, H.B. Teorias da arte moderna. São Paulo: Martins Fontes, 1988.\n4- HUYGHE, René. O poder da imagem. Lisboa: Edições 70, 1986.\n5- SPARSHOTT, Francis. The theory of the arts. Princeton, U. Press, 1982.\n6- VENTURI, Lionello. História da crítica de arte. Lisboa: Edições 70, 1988.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "10:00 - 13:00",
+        "professor": "PAULO VENANCIO FILHO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH366",
+      "Nome": "Arte na América Latina II",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das artes visuais na América Latina a partir de suas independências nacionais. A produção artística e o debate teórico e crítico sobre arte nas nações hispanoamericanas ao longo dos séculos XIX e XX.\n___ BIBLIOGRAFIA BÁSICA ___\n1) ADES, Dawn. Arte na América Latina. A Era Moderna, 1820 ? 1980. São Paulo: CosacNaify, 1997.\n2) BELLUZO, Ana Maria de Moraes (org.). Modernidade: Vanguardas Artísticas na América Latina. São Paulo: UNESP, 1990.\n3) BULHÕES, Maria Amélia; KERN, Maria Lúcia Bastos (orgs.). América Latina: territorialidade e práticas artísticas. Porto Alegre: Editora UFRGS, 2002.\n4) CAMNITZER, Luis. Conceptualism in Latin American Art: Didatics of Liberation. Austin: university of Texas Press. 2007.\n5) SCHWARTZ, Jorge. Vanguardas Latino-americanas. São Paulo: Edusp, 2008.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "14:00 - 17:00",
+        "professor": "PATRICIA LEAL AZEVEDO CORREA"
+       }
+      ],
+      "Requisitos": [
+       "BAH356"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH470",
+      "Nome": "História das Artes Visuais VII",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo da arte contemporânea e seus aspectos plurais. As principais correntes artísticas da contemporaneidade, suas obras e artistas mais significativos.\n___ BIBLIOGRAFIA BÁSICA ___\n1) ARGAN, G. C. Arte Moderna. São Paulo: Cia das Letras, 1992.\n2) BATTCOCK, Gregory. A nova arte. São Paulo: Perspectiva, 1975.\n3) BAZIN, G. História da arte. Da pré-história aos nossos dias. Lisboa: Martins Fontes, 1976.\n4) GOMBRICH, E. H. A história da arte. Rio de Janeiro: LTC, 2000.\n5) JANSON, H. W. História da arte. Lisboa: Fundação Calouste Gulbenkian, 1989.\n6) ROSEMBERG, Harold. A tradição do novo. São Paulo: Perspectiva, 1974.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "14:00 - 17:00",
+        "professor": "FELIPE SCOVINO GOMES LIMA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH233",
+      "Nome": "Historiografia da Arte III",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceitos e métodos da historiografia da arte. Historicidade, atualidade e problematicidade como questões da arte. A relação história, teoria e crítica de arte na contemporaneidade.\n___ BIBLIOGRAFIA BÁSICA ___\n1) ARGAN, G. C. Arte Moderna. São Paulo: Companhia das Letras, 1992.\n2) BAZIN, G. História da História da Arte. São Paulo: Martins Fontes, 1989.\n3) BELTING, Hans. O fim da história da arte: uma revisão dez anos depois. São Paulo: Cosac Naify, 2006.\n4) DANTO, Arthur. Após o fim da arte: a arte contemporânea e os limites da história. São Paulo: Odysseus: Edusp, 2006.\n5) FERNIE, Eric. Art history an its methods. London: Phaidon, 1998.\n6) FLUSSER, Vilem. A filosofia da caixa preta. Rio de Janeiro: Relume Dumará, 2002.\n7) FOSTER, Hall. Recodificação: arte, espetáculo, política cultural. São Paulo: Casa Editorial Paulista, 1996.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "10:00 - 13:00",
+        "professor": "TATIANA DA COSTA MARTINS"
+       }
+      ],
+      "Requisitos": [
+       "BAH113"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH363",
+      "Nome": "Arte, Mídia e Tecnologias",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Panorama histórico das relações entre arte, mídias e tecnologias. Processos artísticos e aportes tecnológicos; suportes eletrônicos e digitais. Teorias, conceitos, motivações, produção e difusão. Questões historiográficas. Arte, revolução digital e sociedade da informação.\n___ BIBLIOGRAFIA BÁSICA ___\n1) BOURRIAD, Nicolas. Estética Relacional. São Paulo: Martins, 2009.\n2) GRAU, Oliver. Arte Virtual: da ilusão à imersão. São Paulo: Unesp, 2007.\n3) MACHADO, Arlindo. Made in Brasil. Três décadas do vídeo brasileiro. São Paulo: Iluminuras, 2007.\n4) MACIEL, Kátia (org.). Transcinemas. Rio de Janeiro: Contracapa, 2009.\n5) ZIELINSKI, Siegfried. Arqueologia da Mídia. Em busca do tempo remoto das técnicas de ver e do ouvir. São Paulo: Annablume, 2006.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "10:00 - 13:00",
+        "professor": "ALINE COURI FABIAO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH367",
+      "Nome": "História da Arte no Brasil IV",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das artes visuais no Brasil da segunda metade do século XX até a atualidade.\n___ BIBLIOGRAFIA BÁSICA ___\n1) ARANTES, Otília. Mário Pedrosa, acadêmicos e modernos, textos escolhidos. Vol. 3. São Paulo: Edusp, 2004.\n2) BRITO, Ronaldo. Neoconcretismo. São Paulo: Cosac & Naify, 1999.\n3) CANONGIA, Lígia. Anos 80 ? Embates de uma geração. Rio de Janeiro: Francisco Alves, 2010.\n4) FERREIRA, Glória. Crítica de arte no Brasil: temáticas contemporâneas. Rio de Janeiro: Funarte, 2006.\n5) HERKENHOFF, Paulo. Arte de Contradicciones. Buenos Aires: Fundación PROA, 2012.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "10:00 - 13:00",
+        "professor": "CEZAR TADEU BARTHOLOMEU"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "6º Período": [
+     {
+      "Codigo": "BAH354",
+      "Nome": "Crítica de Arte II",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Análise da trajetória da crítica de arte e seus principais teóricos da arte moderna e contemporânea. A criação artística e a arte atual. A crítica e as múltiplas manifestações de arte veiculadas pelos meios de comunicação de massa. Perspectivas teórico-metodológicas comuns à história e à crítica de arte.  O papel do crítico no mercado de arte. A crítica de arte no Brasil.\n___BIBLIOGRAFIA BÁSICA___\n1- ARGAN, Giulio Carlo. Arte e crítica de arte. Lisboa: Estampa, 1988.\n2- ___________. Arte Moderna. São Paulo: Companhia das Letras, 1992.\n3- CHIPP, H.B. Teorias da arte moderna. São Paulo: Martins Fontes, 1988.\n4- HUYGHE, René. O poder da imagem. Lisboa: Edições 70, 1986.\n5- SPARSHOTT, Francis. The theory of the arts. Princeton, U. Press, 1982.\n6- VENTURI, Lionello. História da crítica de arte. Lisboa: Edições 70, 1988.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "10:00 - 13:00",
+        "professor": "PAULO VENANCIO FILHO"
+       }
+      ],
+      "Requisitos": [
+       "BAH243"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH365",
+      "Nome": "História do Design",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Revoluções tecnológicas, contribuições do desenvolvimento técnico do homem nos objetos e representações gráficas. Evolução do design na Europa - arts and crafts, art noveau ljungendstill e outros movimentos. A Bauhaus: origens, contribuições e sua repercussão mundial. O design na contemporaneidade.\n___BIBLIOGRAFIA BÁSICA___\n1- BURCKHARDT, Lucius. Le Werkbund. Paris: Moniteur, 1981.\n2- DROSTE, Magdalena. Bauhaus: 1919-1933. Köln: Taschen, 1990.\n3- HENDERSON, W. O. A Revolução Industrial. São Paulo: Verbo, 1979.\n4- MAENZ, P. Art déco: 1920-1940. Barcelona: Gustavo Gili, 1974.\n5- MUNARI, Bruno. Artista e Designer. São Paulo: Martins Fontes, 1979.\n6- READ, Herbert. Art & Industry. London: Faber and Faber, 1966.\n7- WICK, Rainer. Pedagogia da Bauhaus. São Paulo: Martins Fontes, 1989.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "14:00 - 17:00",
+        "professor": "MARCUS VINICIUS DE PAULA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH242",
+      "Nome": "Historiografia da Arte Brasil",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Produção histórica do século XIX e XX e a formação do sistema artístico no Brasil. Os modelos e as influências, as classificações e periodizações históricas na arte da academia.  A história e autonomia da linguagem artística moderna e contemporânea.\n___ BIBLIOGRAFIA BÁSICA ___\n1) CHIARELLI, T. Arte Internacional brasileira. São Paulo: Lemos Editorial, 1999.\n2) DUQUE, Gonzaga. Impressões de um amador: textos, espaços e crítica. Rio de Janeiro: Fundação Casa de Rui Barbosa/UFMG, 2001.\n3) FABRIS, A. Modernidade e modernismo no Brasil. Campinas: Mercado de Letras, 1994.\n4) HARRISON, C. Modernismo. São Paulo: Cosac & Naify Edições, 2000.\n5) HUYSSEN, A. Memórias do modernismo. Rio de Janeiro: Editora UFRS, 1996.\n6) ZÍLIO, C. A querela do Brasil: a questão da identidade da arte brasileira: a obra de Tarsila, Di Cavalcanti e Portinari, 1992-1945. Rio de Janeiro: Relume-Dumará, 1997.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "10:00 - 13:00",
+        "professor": "IVAIR JUNIOR REINALDIM"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH364",
+      "Nome": "Arte Asiática",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo dos aspectos estéticos e históricos das artes no Oriente. O Oriente como unidade geo-política e cultural - da invenção eurocêntrica às políticas atuais. Alteridades nas relações Oriente e Ocidente. Periodização histórica e religiosa. Análise das diversas concepções plásticas e criadoras nos contextos sócio-econômicos das diversas regiões orientais.\n___ BIBLIOGRAFIA BÁSICA ___\n1) JOPPERT, Ricardo. ?Papel, ?Língua Gráfica? (Wenyan) e impressão na China?. In: DOCTORS, Marcio. A Cultura do Papel. Rio de Janeiro: Casa da Palavra/Fundação Eva Klabin, 1999.\n2) KUDIELKA, Robert. \"Arte do mundo ? arte de todo o mundo?\". In: Novos Estudos, São Paulo, CEBRAP, n.67, nov./2003, p. 131-142.\n3) LESOUALC'H, Theo. Pintura Japonesa: História General de la Pintura. Madrid: Aguilar, 1969.\n4) MUSEUS CASTRO MAYA. Oposição Complementar: Arte Oriental na Coleção Castro Maya. Rio de Janeiro: Museus Castro Maya, 1996.\n5) SAID, Edward. Orientalismo. O Oriente como invenção do Ocidente. São Paulo: Companhia das Letras, 1990.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "14:00 - 17:00",
+        "professor": "THIAGO SPINDOLA MOTTA FERNANDES"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "7º Período": [
+     {
+      "Codigo": "BAH489",
+      "Nome": "Arte, Curadoria e Instituições",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo da história da curadoria desde o século XIX até os dias de hoje. A curadoria como prática artística. Os distintos modos de ver e pensar a curadoria na contemporaneidade. A disciplina engloba visitas em espaços culturais e museus da cidade para discussão sobre os aspectos técnicos e conceituais das mostras.\n___ BIBLIOGRAFIA BÁSICA ___\n1) ALAMBERT, Francisco; CANHETE, Polyana. Bienais de São Paulo: da era do museu à era dos curadores. São Paulo: Boitempo, 2004.\n2) DEL CASTILLO, Sonia Salcedo. Arte de expor: curadoria como expoesis. Rio de Janeiro: Nau, 2015.\n3) OBRIST, Hans-Ulrich. Uma breve história da curadoria. São Paulo: Bei, 2008.\n4) OBRIST, Hans-Ulrich. Caminhos da curadoria. São Paulo: Cobogó, 2014.\n5) RAMOS, Alexandre Dias (org.). Sobre o ofício do curador. Porto Alegre: Zouk, 2010.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "14:00 - 17:00",
+        "professor": "FELIPE SCOVINO GOMES LIMA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAWX12",
+      "Nome": "Atividades Complementares",
+      "Créditos": "3.0",
+      "Teórica": "0",
+      "Prática": "120",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Atividades que constituam um campo de conhecimentos cujos eixos estarão integrados às várias áreas de conhecimento do curso, estimulando o graduando a ampliar seus conhecimentos, habilidades e competências adquiridas através de atuações diversificadas fora da unidade, tais como participação em simpósios, congressos, projetos de extensão, participação em curadorias, montagens de exposição, pesquisas temáticas para instituições de produção cultural, buscando a sistematização de experiências que contribuam para sua formação profissional.\n___BIBLIOGRAFIA BÁSICA___\nBibliografia recomendada pelo coordenador da atividade\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH478",
+      "Nome": "Seminár Pesq em Histór da Arte",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Discussão, definição e elaboração do projeto de Trabalho Final de Graduação em História da Arte. Construção do recorte temático e do objeto de pesquisa, levantamento de fontes e referências, desenvolvimento de abordagens teórico-metodológicas e da escrita monográfica a partir das propostas de pesquisa dos estudantes.\n___ BIBLIOGRAFIA BÁSICA ___\n1) ARGAN, Giulio Carlo; FAGIOLO, Maurizio. Guia de história da arte. Lisboa: Estampa, 1994.\n2) BARROS, José D?Assunção. O projeto de pesquisa em história. Petrópolis: Vozes, 2007.\n3) DIDI-HUBERMAN, Georges. Diante da imagem: questão colocada aos fins de uma história da arte. São Paulo: Editora 34, 2013.\n4) SALOMON, Délcio Vieira. Como fazer uma monografia. São Paulo: Martins Fontes, 1991.\n5) ZAMBONI, Silvio. A pesquisa em arte: um paralelo entre arte e ciência. Campinas: Autores Associados, 1998.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "14:00 - 17:00",
+        "professor": "ALINE COURI FABIAO"
+       }
+      ],
+      "Requisitos": [
+       "BAHK01(C)"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAHK01",
+      "Nome": "Trabalho Final de Graduação",
+      "Créditos": "3.0",
+      "Teórica": "0",
+      "Prática": "120",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Proposta de pesquisa abordando tema relativo às artes visuais sob o ponto de vista da História da Arte e/ou da Teoria e Crítica da Arte. Redação do texto da monografia sob a supervisão de professor orientador. Apresentação do trabalho sob forma de dissertação com defesa oral.\n___BIBLIOGRAFIA BÁSICA___\n1- ARGAN, Giulio Carlo; FAGIOLO, Maurizio. Guia de história da arte. Lisboa: Estampa, 1994.\n2-BARROS, José D?Assunção. O projeto de pesquisa em história. Petrópolis: Vozes, 2007.\n3-DIDI-HUBERMAN, Georges. Diante da imagem: questão colocada aos fins de uma história da arte. São Paulo: Editora 34, 2013.\n4-SALOMON, Délcio Vieira. Como fazer uma monografia. São Paulo: Martins Fontes, 1991.\n5-ZAMBONI, Silvio. A pesquisa em arte: um paralelo entre arte e ciência. Campinas: Autores Associados, 1998.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sab",
+        "hora": "09:00 - 12:00",
+        "professor": "ANA DE GUSMAO MANNARINO"
+       }
+      ],
+      "Requisitos": [
+       "BAH362"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "8º Período": [],
+    "Disciplinas Optativas (Escolha Condicionada)": [
+     {
+      "Codigo": "BAH480",
+      "Nome": "Tóp Esp- Arte no Brasil",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Tópicos especiais de história, teoria e estudos temáticos em arte, com enfoque em arte no Brasil.\n___ BIBLIOGRAFIA BÁSICA ___\n1- ARGAN, Giulio Carlo. Arte e crítica da arte. Lisboa: Estampa, 1988.\n2- _________; FAGIOLO, Maurizio. Guia de história da arte. Lisboa: Estampa, 1994.\n3-BAZIN, Germain. História da História da Arte. São Paulo: Martins Fontes, 1989.\n4-VENTURI, Lionello. História da crítica de arte. Lisboa: Martins Fontes, 1984.\n5- ZANINI, Walter (Coord.). História geral da arte no Brasil. São Paulo: Instituto Walther Moreira Salles, 1983. 2v.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAH482",
+      "Nome": "Tóp Esp- Arte Contemporânea II",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Tópicos especiais de história, teoria e estudos temáticos em arte, com enfoque em arte contemporânea.\n___ BIBLIOGRAFIA BÁSICA ___\n1- ARGAN, Giulio Carlo. Arte e crítica da arte. Lisboa: Estampa, 1988.\n2- _________; FAGIOLO, Maurizio. Guia de história da arte. Lisboa: Estampa, 1994.\n3-BAZIN, Germain. História da História da Arte. São Paulo: Martins Fontes, 1989.\n4-VENTURI, Lionello. História da crítica de arte. Lisboa: Martins Fontes, 1984.\n5- ZANINI, Walter (Coord.). História geral da arte no Brasil. São Paulo: Instituto Walther Moreira Salles, 1983. 2v.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "14:00 - 17:00",
+        "professor": "CLARISSA DINIZ DE MOURA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAH484",
+      "Nome": "Tóp Esp- Cultura Popular",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Tópicos especiais de história, teoria e estudos temáticos em arte, com enfoque em cultura popular.\n___ BIBLIOGRAFIA BÁSICA ___\n1- ARGAN, Giulio Carlo. Arte e crítica da arte. Lisboa: Estampa, 1988.\n2- _________; FAGIOLO, Maurizio. Guia de história da arte. Lisboa: Estampa, 1994.\n3-BAZIN, Germain. História da História da Arte. São Paulo: Martins Fontes, 1989.\n4-VENTURI, Lionello. História da crítica de arte. Lisboa: Martins Fontes, 1984.\n5- ZANINI, Walter (Coord.). História geral da arte no Brasil. São Paulo: Instituto Walther Moreira Salles, 1983. 2v.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAH486",
+      "Nome": "Tóp Esp- Artes Visuais I",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Tópicos especiais de história, teoria e estudos temáticos em arte, com enfoque em artes visuais.\n___ BIBLIOGRAFIA BÁSICA ___\n1) ARGAN, Giulio Carlo. Arte e crítica da arte. Lisboa: Estampa, 1988.\n2) _________; FAGIOLO, Maurizio. Guia de história da arte. Lisboa: Estampa, 1994.\n3) BAZIN, Germain. História da História da Arte. São Paulo: Martins Fontes, 1989.\n4) VENTURI, Lionello. História da crítica de arte. Lisboa: Martins Fontes, 1984.\n5) ZANINI, Walter (Coord.). História geral da arte no Brasil. São Paulo: Instituto Walther Moreira Salles, 1983. 2v.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAH488",
+      "Nome": "Tóp Esp- Arte e Cidade",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Tópicos especiais de história, teoria e estudos temáticos em arte, com enfoque nas relações entre arte e cidade.\n___ BIBLIOGRAFIA BÁSICA ___\n1) ARGAN, Giulio Carlo. Arte e crítica da arte. Lisboa: Estampa, 1988.\n2) _________; FAGIOLO, Maurizio. Guia de história da arte. Lisboa: Estampa, 1994.\n3) BAZIN, Germain. História da História da Arte. São Paulo: Martins Fontes, 1989.\n4) VENTURI, Lionello. História da crítica de arte. Lisboa: Martins Fontes, 1984.\n5) ZANINI, Walter (Coord.). História geral da arte no Brasil. São Paulo: Instituto Walther Moreira Salles, 1983. 2v.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAH491",
+      "Nome": "Tóp Esp- Artes Visuais II",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Tópicos especiais de história, teoria e estudos temáticos em arte, com enfoque em artes visuais.\n___ BIBLIOGRAFIA BÁSICA ___\n1- ARGAN, Giulio Carlo. Arte e crítica da arte. Lisboa: Estampa, 1988.\n2- _________; FAGIOLO, Maurizio. Guia de história da arte. Lisboa: Estampa, 1994.\n3-BAZIN, Germain. História da História da Arte. São Paulo: Martins Fontes, 1989.\n4-VENTURI, Lionello. História da crítica de arte. Lisboa: Martins Fontes, 1984.\n5- ZANINI, Walter (Coord.). História geral da arte no Brasil. São Paulo: Instituto Walther Moreira Salles, 1983. 2v.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAH493",
+      "Nome": "Tóp Esp- Arte Ameríndia",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Tópicos especiais de história, teoria e estudos temáticos em arte, com enfoque na arte ameríndia.\n___ BIBLIOGRAFIA BÁSICA ___\n1- ARGAN, Giulio Carlo. Arte e crítica da arte. Lisboa: Estampa, 1988.\n2- ARGAN, Giulio Carlo; FAGIOLO, Maurizio. Guia de história da arte. Lisboa: Estampa, 1994.\n3- BAZIN, Germain. História da História da Arte. São Paulo: Martins Fontes, 1989.\n4- VENTURI, Lionello. História da crítica de arte. Lisboa: Martins Fontes, 1984.\n5- ZANINI, Walter (Coord.). História geral da arte no Brasil. São Paulo: Instituto Walther Moreira Salles, 1983. 2v.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAH495",
+      "Nome": "Tóp Esp- Arte e Arquitetura",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Tópicos especiais de história, teoria e estudos temáticos em arte, com enfoque nas relações entre arte e arquitetura.\n___ BIBLIOGRAFIA BÁSICA ___\n1- ARGAN, Giulio Carlo. Arte e crítica da arte. Lisboa: Estampa, 1988.\n2- _________; FAGIOLO, Maurizio. Guia de história da arte. Lisboa: Estampa, 1994.\n3-BAZIN, Germain. História da História da Arte. São Paulo: Martins Fontes, 1989.\n4-VENTURI, Lionello. História da crítica de arte. Lisboa: Martins Fontes, 1984.\n5- ZANINI, Walter (Coord.). História geral da arte no Brasil. São Paulo: Instituto Walther Moreira Salles, 1983. 2v.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAH497",
+      "Nome": "Tóp Esp- Arte e Curadoria",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Tópicos especiais de história, teoria e estudos temáticos em arte, com enfoque nas relações entre arte e curadoria.\n___ BIBLIOGRAFIA BÁSICA ___\n1- ARGAN, Giulio Carlo. Arte e crítica da arte. Lisboa: Estampa, 1988.\n2- _________; FAGIOLO, Maurizio. Guia de história da arte. Lisboa: Estampa, 1994.\n3-BAZIN, Germain. História da História da Arte. São Paulo: Martins Fontes, 1989.\n4-VENTURI, Lionello. História da crítica de arte. Lisboa: Martins Fontes, 1984.\n5- ZANINI, Walter (Coord.). História geral da arte no Brasil. São Paulo: Instituto Walther Moreira Salles, 1983. 2v.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "09:00 - 12:00",
+        "professor": "FELIPE SCOVINO GOMES LIMA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAH499",
+      "Nome": "Tóp Esp- Arte e Escrita",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Tópicos especiais de história, teoria e estudos temáticos em arte, com enfoque nas relações entre arte e escrita.\n___ BIBLIOGRAFIA BÁSICA ___\n1- ARGAN, Giulio Carlo. Arte e crítica da arte. Lisboa: Estampa, 1988.\n2- _________; FAGIOLO, Maurizio. Guia de história da arte. Lisboa: Estampa, 1994.\n3-BAZIN, Germain. História da História da Arte. São Paulo: Martins Fontes, 1989.\n4-VENTURI, Lionello. História da crítica de arte. Lisboa: Martins Fontes, 1984.\n5- ZANINI, Walter (Coord.). História geral da arte no Brasil. São Paulo: Instituto Walther Moreira Salles, 1983. 2v.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAH505",
+      "Nome": "Tóp Esp- Arte e Música",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Tópicos especiais de história, teoria e estudos temáticos em arte, com enfoque nas relações entre arte e música.\n___ BIBLIOGRAFIA BÁSICA ___\n1- ARGAN, Giulio Carlo. Arte e crítica da arte. Lisboa: Estampa, 1988.\n2- _________; FAGIOLO, Maurizio. Guia de história da arte. Lisboa: Estampa, 1994.\n3-BAZIN, Germain. História da História da Arte. São Paulo: Martins Fontes, 1989.\n4-VENTURI, Lionello. História da crítica de arte. Lisboa: Martins Fontes, 1984.\n5- ZANINI, Walter (Coord.). História geral da arte no Brasil. São Paulo: Instituto Walther Moreira Salles, 1983. 2v.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAH507",
+      "Nome": "Tóp Esp- Arte e Sist Represent",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Tópicos especiais de história, teoria e estudos temáticos em arte, com enfoque nas relações entre arte e sistemas de representação.\n___ BIBLIOGRAFIA BÁSICA ___\n1- ARGAN, Giulio Carlo. Arte e crítica da arte. Lisboa: Estampa, 1988.\n2- _________; FAGIOLO, Maurizio. Guia de história da arte. Lisboa: Estampa, 1994.\n3-BAZIN, Germain. História da História da Arte. São Paulo: Martins Fontes, 1989.\n4-VENTURI, Lionello. História da crítica de arte. Lisboa: Martins Fontes, 1984.\n5- ZANINI, Walter (Coord.). História geral da arte no Brasil. São Paulo: Instituto Walther Moreira Salles, 1983. 2v.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAH509",
+      "Nome": "Tóp Esp- Artes Decorativas",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Tópicos especiais de história, teoria e estudos temáticos em arte, com enfoque nas relações entre artes decorativas.\n___ BIBLIOGRAFIA BÁSICA ___\n1- ARGAN, Giulio Carlo. Arte e crítica da arte. Lisboa: Estampa, 1988.\n2- _________; FAGIOLO, Maurizio. Guia de história da arte. Lisboa: Estampa, 1994.\n3-BAZIN, Germain. História da História da Arte. São Paulo: Martins Fontes, 1989.\n4-VENTURI, Lionello. História da crítica de arte. Lisboa: Martins Fontes, 1984.\n5- ZANINI, Walter (Coord.). História geral da arte no Brasil. São Paulo: Instituto Walther Moreira Salles, 1983. 2v.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAH511",
+      "Nome": "Tóp Esp- Hist Teor Imag Técnic",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Tópicos especiais de história, teoria e estudos temáticos em arte, com enfoque na história e na teoria das imagens técnicas.\n___ BIBLIOGRAFIA BÁSICA ___\n1- ARGAN, Giulio Carlo. Arte e crítica da arte. Lisboa: Estampa, 1988.\n2- _________; FAGIOLO, Maurizio. Guia de história da arte. Lisboa: Estampa, 1994.\n3-BAZIN, Germain. História da História da Arte. São Paulo: Martins Fontes, 1989.\n4-VENTURI, Lionello. História da crítica de arte. Lisboa: Martins Fontes, 1984.\n5- ZANINI, Walter (Coord.). História geral da arte no Brasil. São Paulo: Instituto Walther Moreira Salles, 1983. 2v.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAH513",
+      "Nome": "Tóp Esp- Informát e Hist Arte",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Tópicos especiais de história, teoria e estudos temáticos em arte, com enfoque nas relações entre informática e história da arte.\n___ BIBLIOGRAFIA BÁSICA ___\n1- ARGAN, Giulio Carlo. Arte e crítica da arte. Lisboa: Estampa, 1988.\n2- _________; FAGIOLO, Maurizio. Guia de história da arte. Lisboa: Estampa, 1994.\n3-BAZIN, Germain. História da História da Arte. São Paulo: Martins Fontes, 1989.\n4-VENTURI, Lionello. História da crítica de arte. Lisboa: Martins Fontes, 1984.\n5- ZANINI, Walter (Coord.). História geral da arte no Brasil. São Paulo: Instituto Walther Moreira Salles, 1983. 2v.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAR481",
+      "Nome": "Ed Ambiental-preserv de Bens C",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Convenções adotadas (regulamentações de leis e procedimentos técnicos) para preservação de bens culturais, relacionados ao meio ambiente.\n___ BIBLIOGRAFIA RECOMENDADA ___\n1- LEI Nº9.605, DE 12 DE FEVEREIRO DE 1998 - Dispõe sobre as sanções penais e administrativas derivadas de condutas e atividades lesivas ao meio ambiente.\n2- DECRETO-LEI Nº 25, DE 30 DE NOVEMBRO DE 1937 - Organiza a proteção do patrimônio histórico e artístico nacional.\n3- INSTITUTO DO PATRIMÔNIO HISTÓRICO ARTÍSTICO NACIONAL. Cartas Patrimoniais. Brasília: IPHAN, 1995.\n4- Cadernos Técnicos IPHAN - publicações on line - http://portal.iphan.gov.br/- publicações.\n5- Manuais IPHAN - publicações on line - http://portal.iphan.gov.br/- publicações\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAH369",
+      "Nome": "Cultura Brasileira",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Formação da cultura brasileira. Etnicidade. Culturas tradicionais, regionais, populares e urbanas no Brasil.\n___ BIBLIOGRAFIA BÁSICA ___\n1- CANDIDO, A. O significado de Raízes do Brasil (Prefácio). In: HOLANDA, S. B. de. Raízes do Brasil. 26.ed. São Paulo: Cia. das Letras, 1995.\n2- FREYRE, G. Prefácio. Casa-grande & senzala: formação da família brasileira sob o regime da economia patriarcal. São Paulo: Global, 2005.\n3- DAMATTA, R. Notas sobre o racismo à brasileira. In: SOUZA, J. (Org) Multiculturalismo e racismo: uma comparação Brasil - Estados Unidos. Brasília: Paralelo, 1997.\n4- MICELI, S. Intelectuais e classe dirigente no Brasil (1920-1945). São Paulo: Difel, 1979.\n5- ROCHA, J. C. de C. As origens e equívocos da cordialidade brasileira. In: ___. O exílio do homem cordial. Rio de Janeiro: Editora do Museu Nacional, 2004.\n___ BIBLIOGRAFIA COMPLEMENTAR ____\n1- CANDIDO, A. Dialética da malandragem. Revista do Instituto de Estudos Brasileiros, São Paulo, v.8, p.67-89, 1970.\n2- FERNANDES, F. A integração do negro na sociedade de classes. São Paulo: Ática, 1978.\n3- HOLANDA, S. B. de. Raízes do Brasil. 26.ed. São Paulo: Cia. das Letras, 1995.\n4- ROMERO, S. Estudos sobre a poesia popular do Brasil. 2.ed. Petrópolis: Vozes, 1977.\n5- WISNIK, J. M. Veneno remédio: o futebol e o Brasil. São Paulo: Cia. das Letras, 2008.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAH481",
+      "Nome": "Tóp Esp- Arte Contemporânea I",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Tópicos especiais de história, teoria e estudos temáticos em arte. com enfoque em arte contemporânea.\n___ BIBLIOGRAFIA BÁSICA ___\n1) ARGAN, Giulio Carlo. Arte e crítica da arte. Lisboa: Estampa, 1988.\n2) _________; FAGIOLO, Maurizio. Guia de história da arte. Lisboa: Estampa, 1994.\n3) BAZIN, Germain. História da História da Arte. São Paulo: Martins Fontes, 1989.\n4) VENTURI, Lionello. História da crítica de arte. Lisboa: Martins Fontes, 1984.\n5) ZANINI, Walter (Coord.). História geral da arte no Brasil. São Paulo: Instituto Walther Moreira Salles, 1983. 2v.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "09:00 - 12:00",
+        "professor": "SILVIA BARBOSA GUIMARAES BORGES"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAH483",
+      "Nome": "Tóp Esp- Museu Galer e Ateliês",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Tópicos especiais de história, teoria e estudos temáticos em arte, com enfoque em museus, galerias e ateliês.\n___ BIBLIOGRAFIA BÁSICA ___\n1- ARGAN, Giulio Carlo. Arte e crítica da arte. Lisboa: Estampa, 1988.\n2- _________; FAGIOLO, Maurizio. Guia de história da arte. Lisboa: Estampa, 1994.\n3-BAZIN, Germain. História da História da Arte. São Paulo: Martins Fontes, 1989.\n4-VENTURI, Lionello. História da crítica de arte. Lisboa: Martins Fontes, 1984.\n5- ZANINI, Walter (Coord.). História geral da arte no Brasil. São Paulo: Instituto Walther Moreira Salles, 1983. 2v.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 16:00",
+        "professor": "ANA MARIA TAVARES CAVALCANTI"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAH485",
+      "Nome": "Tóp Esp- Princ Con Restauração",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Tópicos especiais de história, teoria e estudos temáticos em arte, com enfoque nos princípios de conservação e restauração.\n___ BIBLIOGRAFIA BÁSICA ___\n1- ARGAN, Giulio Carlo. Arte e crítica da arte. Lisboa: Estampa, 1988.\n2- _________; FAGIOLO, Maurizio. Guia de história da arte. Lisboa: Estampa, 1994.\n3-BAZIN, Germain. História da História da Arte. São Paulo: Martins Fontes, 1989.\n4-VENTURI, Lionello. História da crítica de arte. Lisboa: Martins Fontes, 1984.\n5- ZANINI, Walter (Coord.). História geral da arte no Brasil. São Paulo: Instituto Walther Moreira Salles, 1983. 2v.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAH487",
+      "Nome": "Tóp Esp- Arte e Imagem",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Tópicos especiais de história, teoria e estudos temáticos em arte, com enfoque nas relações entre arte e imagem.\n___ BIBLIOGRAFIA BÁSICA ___\n1- ARGAN, Giulio Carlo. Arte e crítica da arte. Lisboa: Estampa, 1988.\n2- _________; FAGIOLO, Maurizio. Guia de história da arte. Lisboa: Estampa, 1994.\n3-BAZIN, Germain. História da História da Arte. São Paulo: Martins Fontes, 1989.\n4-VENTURI, Lionello. História da crítica de arte. Lisboa: Martins Fontes, 1984.\n5- ZANINI, Walter (Coord.). História geral da arte no Brasil. São Paulo: Instituto Walther Moreira Salles, 1983. 2v.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAH490",
+      "Nome": "Tóp Esp- Estet Teor Crít Arte",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Tópicos especiais de história, teoria e estudos temáticos em arte, com enfoque em estética e crítica da arte.\n___ BIBLIOGRAFIA BÁSICA ___\n1- ARGAN, Giulio Carlo. Arte e crítica da arte. Lisboa: Estampa, 1988.\n2- _________; FAGIOLO, Maurizio. Guia de história da arte. Lisboa: Estampa, 1994.\n3-BAZIN, Germain. História da História da Arte. São Paulo: Martins Fontes, 1989.\n4-VENTURI, Lionello. História da crítica de arte. Lisboa: Martins Fontes, 1984.\n5- ZANINI, Walter (Coord.). História geral da arte no Brasil. São Paulo: Instituto Walther Moreira Salles, 1983. 2v.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAH492",
+      "Nome": "Tóp Esp- Arte Afric Afro-brasi",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Tópicos especiais de história, teoria e estudos temáticos em arte, com foco em arte africana e afro-brasileira.\n___ BIBLIOGRAFIA BÁSICA ___\n1- ARGAN, Giulio Carlo. Arte e crítica da arte. Lisboa: Estampa, 1988.\n2- ARGAN, Giulio Carlo; FAGIOLO, Maurizio. Guia de história da arte. Lisboa: Estampa, 1994.\n3- BAZIN, Germain. História da História da Arte. São Paulo: Martins Fontes, 1989.\n4- VENTURI, Lionello. História da crítica de arte. Lisboa: Martins Fontes, 1984.\n5- ZANINI, Walter (Coord.). História geral da arte no Brasil. São Paulo: Instituto Walther Moreira Salles, 1983. 2v.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAH494",
+      "Nome": "Tóp Esp- Arte Asiática",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Tópicos especiais de história, teoria e estudos temáticos em arte, com enfoque em arte asiática.\n___ BIBLIOGRAFIA BÁSICA ___\n1- ARGAN, Giulio Carlo. Arte e crítica da arte. Lisboa: Estampa, 1988.\n2- _________; FAGIOLO, Maurizio. Guia de história da arte. Lisboa: Estampa, 1994.\n3-BAZIN, Germain. História da História da Arte. São Paulo: Martins Fontes, 1989.\n4-VENTURI, Lionello. História da crítica de arte. Lisboa: Martins Fontes, 1984.\n5- ZANINI, Walter (Coord.). História geral da arte no Brasil. São Paulo: Instituto Walther Moreira Salles, 1983. 2v.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAH496",
+      "Nome": "Tóp Esp- Arte e Colecionismo",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Tópicos especiais de história, teoria e estudos temáticos em arte, com enfoque nas relações entre arte e colecionismo.\n___ BIBLIOGRAFIA BÁSICA ___\n1- ARGAN, Giulio Carlo. Arte e crítica da arte. Lisboa: Estampa, 1988.\n2- _________; FAGIOLO, Maurizio. Guia de história da arte. Lisboa: Estampa, 1994.\n3-BAZIN, Germain. História da História da Arte. São Paulo: Martins Fontes, 1989.\n4-VENTURI, Lionello. História da crítica de arte. Lisboa: Martins Fontes, 1984.\n5- ZANINI, Walter (Coord.). História geral da arte no Brasil. São Paulo: Instituto Walther Moreira Salles, 1983. 2v.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAH498",
+      "Nome": "Tóp Esp- Arte e Design",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Tópicos especiais de história, teoria e estudos temáticos em arte, com enfoque nas relações entre arte e design.\n___ BIBLIOGRAFIA BÁSICA ___\n1- ARGAN, Giulio Carlo. Arte e crítica da arte. Lisboa: Estampa, 1988.\n2- _________; FAGIOLO, Maurizio. Guia de história da arte. Lisboa: Estampa, 1994.\n3-BAZIN, Germain. História da História da Arte. São Paulo: Martins Fontes, 1989.\n4-VENTURI, Lionello. História da crítica de arte. Lisboa: Martins Fontes, 1984.\n5- ZANINI, Walter (Coord.). História geral da arte no Brasil. São Paulo: Instituto Walther Moreira Salles, 1983. 2v.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAH504",
+      "Nome": "Tóp Esp- Arte e Gênero",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Tópicos especiais de história, teoria e estudos temáticos em arte, com enfoque nas relações entre arte e gênero.< /p>\n___ BIBLIOGRAFIA BÁSICA ___\n1- ARGAN, Giulio Carlo. Arte e crítica da arte. Lisboa: Estampa, 1988.\n2- _________; FAGIOLO, Maurizio. Guia de história da arte. Lisboa: Estampa, 1994.\n3-BAZIN, Germain. História da História da Arte. São Paulo: Martins Fontes, 1989.\n4-VENTURI, Lionello. História da crítica de arte. Lisboa: Martins Fontes, 1984.\n5- ZANINI, Walter (Coord.). História geral da arte no Brasil. São Paulo: Instituto Walther Moreira Salles, 1983. 2v.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "14:00 - 17:00",
+        "professor": "CLARISSA DINIZ DE MOURA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAH506",
+      "Nome": "Tóp Esp- Arte e Política",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Tópicos especiais de história, teoria e estudos temáticos em arte, com enfoque nas relações entre arte e política.\n___ BIBLIOGRAFIA BÁSICA ___\n1- ARGAN, Giulio Carlo. Arte e crítica da arte. Lisboa: Estampa, 1988.\n2- _________; FAGIOLO, Maurizio. Guia de história da arte. Lisboa: Estampa, 1994.\n3-BAZIN, Germain. História da História da Arte. São Paulo: Martins Fontes, 1989.\n4-VENTURI, Lionello. História da crítica de arte. Lisboa: Martins Fontes, 1984.\n5- ZANINI, Walter (Coord.). História geral da arte no Brasil. São Paulo: Instituto Walther Moreira Salles, 1983. 2v.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAH508",
+      "Nome": "Tóp Esp- Arte e Erotismo",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Tópicos especiais de história, teoria e estudos temáticos em arte, com enfoque nas relações entre arte e erotismo.\n___ BIBLIOGRAFIA BÁSICA ___\n1- ARGAN, Giulio Carlo. Arte e crítica da arte. Lisboa: Estampa, 1988.\n2- _________; FAGIOLO, Maurizio. Guia de história da arte. Lisboa: Estampa, 1994.\n3-BAZIN, Germain. História da História da Arte. São Paulo: Martins Fontes, 1989.\n4-VENTURI, Lionello. História da crítica de arte. Lisboa: Martins Fontes, 1984.\n5- ZANINI, Walter (Coord.). História geral da arte no Brasil. São Paulo: Instituto Walther Moreira Salles, 1983. 2v.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAH510",
+      "Nome": "Tóp Esp- Estudos da Paisagem",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Tópicos especiais de história, teoria e estudos temáticos em arte, com enfoque nos estudos da paisagem.\n___ BIBLIOGRAFIA BÁSICA ___\n1- ARGAN, Giulio Carlo. Arte e crítica da arte. Lisboa: Estampa, 1988.\n2- _________; FAGIOLO, Maurizio. Guia de história da arte. Lisboa: Estampa, 1994.\n3-BAZIN, Germain. História da História da Arte. São Paulo: Martins Fontes, 1989.\n4-VENTURI, Lionello. História da crítica de arte. Lisboa: Martins Fontes, 1984.\n5- ZANINI, Walter (Coord.). História geral da arte no Brasil. São Paulo: Instituto Walther Moreira Salles, 1983. 2v.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "10:00 - 13:00",
+        "professor": "VALCI RUBENS OLIVEIRA DE ANDRADE"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAH512",
+      "Nome": "Tóp Esp- Historiografia Arte",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Tópicos especiais de história, teoria e estudos temáticos em arte, com enfoque em história da arte.\n___ BIBLIOGRAFIA BÁSICA ___\n1- ARGAN, Giulio Carlo. Arte e crítica da arte. Lisboa: Estampa, 1988.\n2- _________; FAGIOLO, Maurizio. Guia de história da arte. Lisboa: Estampa, 1994.\n3-BAZIN, Germain. História da História da Arte. São Paulo: Martins Fontes, 1989.\n4-VENTURI, Lionello. História da crítica de arte. Lisboa: Martins Fontes, 1984.\n5- ZANINI, Walter (Coord.). História geral da arte no Brasil. São Paulo: Instituto Walther Moreira Salles, 1983. 2v.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAH514",
+      "Nome": "Tóp Esp- Mercado de Arte",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Tópicos especiais de história, teoria e estudos temáticos em arte, com enfoque em mercado de arte.\n___ BIBLIOGRAFIA BÁSICA ___\n1- ARGAN, Giulio Carlo. Arte e crítica da arte. Lisboa: Estampa, 1988.\n2- _________; FAGIOLO, Maurizio. Guia de história da arte. Lisboa: Estampa, 1994.\n3-BAZIN, Germain. História da História da Arte. São Paulo: Martins Fontes, 1989.\n4-VENTURI, Lionello. História da crítica de arte. Lisboa: Martins Fontes, 1984.\n5- ZANINI, Walter (Coord.). História geral da arte no Brasil. São Paulo: Instituto Walther Moreira Salles, 1983. 2v.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEB599",
+      "Nome": "Est da Líng Bras de Sinais I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Nomes próprios; pronomes pessoais; demonstrativos; possessivos; locativos em sentenças simples do tipo pergunta-resposta com \"o que\" e \"quem\" e outros vocábulos básicos; numerais; quantidade; topicalização; flexão verbal; flexão de negação; expressões faciais e corporais; percepção visual; conversação; diálogos; textos: LIBRAS, cultura e comunidade surda.\n",
+       "BibliografiaBasica": "1) BRITO, L. F. Por uma gramática de língua de sinais. Rio de Janeiro: Tempo Brasileiro, 1995.\n2) FELIPE, T.; MONTEIRO, M. S. LIBRAS em contexto. Curso Básico. Brasília: Ministério da Educação e do Desporto/Secretaria de Educação Especial, 2001.\n3) GESSER, A. Libras - Que língua é essa? Crença e preconceitos em torno da língua de sinais e da realidade surda. Florianópolis: Parábola, 2009.\n4) STROBEL, K. L. As imagens do outro sobre a cultura surda. Florianópolis: EdUFSC, 2008.\n",
+       "BibliografiaComplementar": "1) PIMENTA, Nelson e QUADROS, Ronice Muller. Curso de Libras I, LSB Vídeo, volume I, Iniciante, 2006 e 3a ed., 2008.\n2) Dicionário Enciclopédico Ilustrado Triíngue da Língua de Sinais Brasileira ? vol 1 e vol. 2 Site: www.acessobrasil.org.brasil\n3) Dicionário da Língua Brasileira de Sinais, INES, versão, 2.0, ano 2006.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     }
+    ]
+   },
+   "obrigatorias": 39,
+   "eletivas": 33,
+   "ano": "2019/2 a 9999/9"
+  }
+ ]
+}

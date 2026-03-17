@@ -1,0 +1,1849 @@
+{
+ "Ciências Contábeis - EAD": [
+  {
+   "materias": {
+    "1º Período": [
+     {
+      "Codigo": "ACC116",
+      "Nome": "Contabilidade I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceituação da Contabilidade. O patrimônio. Demonstrativos Financeiros. Regime de Contabilidade. Apuração de Resultados. Método das partidas dobradas. Livros Contábeis e apuração contábil do lucro.\n___Bibliografia Recomendada___\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "UFF114",
+      "Nome": "Informática Ead",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Elementos do Estudo à distância - abordagens referentes ao ensino à distância, utilizando recursos da tecnologia EAD.\n___ BIBLIOGRAFIA BÁSICA ___\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ACC115",
+      "Nome": "Teoria da Contabilidade",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Objetivos e metodologias da contabilidade. Evolução histórica da contabilidade. Estrutura Conceitual e princípios contábeis.\n___ BIBLIOGRAFIA BÁSICA ___\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ACC117",
+      "Nome": "Matemática Apl Contabilidade I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Álgebra. Racionalização. Sistemas lineares. Progressões. Funções. Aplicações.\n___Bibliografia Recomendada___\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "2º Período": [
+     {
+      "Codigo": "ACC127",
+      "Nome": "Matemática Apl Contabilid II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Limites. Derivadas. Aplicações. Noções de cálculo Integral.\n___Bibliografia Recomendada___\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ACC117"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "UFR120",
+      "Nome": "Matemática Financeira",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Juros simples. Juros compostos. Equivalência de capital. Descontos. Anuidades. Sistemas de amortização.\n___Bibliografia Recomendada___\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ACC115"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ACC126",
+      "Nome": "Contabilidade II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Impostos incidentes sobre compras e vendas. Métodos de valorização de Estoques. Operações Financeiras. Folha de pagamento. Encargos Sociais. Provisões.\n___Bibliografia Recomendada___\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ACC116"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ACC128",
+      "Nome": "Métodos Téc Pesq Contabilidade",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo sobre técnicas e métodos usados na elaboração de trabalhos técnicos e acadêmicos em contabilidade.\n___Bibliografia Recomendada___\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "3º Período": [
+     {
+      "Codigo": "ACC239",
+      "Nome": "Contabilidade de Custos",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Objetivos da contabilidade de custos. Custeio por absorção. Conceitos básicos em custo. Departamentalização. Sistema de acumulação de custos - Produção contínua e produção por ordem. Conceito de margem de contribuição. Produtos conjuntos e subprodutos. Custeio variável. Análise da relação custo-volume-lucro.Ponto de equilíbrio. Cálculo e análise de variâncias. Custo padrão.\n___Bibliografia Recomendada___\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ACC126"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "UER233",
+      "Nome": "Economia I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução à análise macroeconômica. Sistema econômico. Repartição de renda. Formulação de política econômica. Relações econômicas internacionais.\n___Bibliografia Recomendada___\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ACC238",
+      "Nome": "Contabilidade Intermediária",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Classificação das demonstrações contábeis segundo a legislação. Passivo e variações monetárias. Provisões. Patrimônio líquido. Demonstração de lucros ou prejuízos acumulados e mutações do patrimônio líquido e demonstrações das origens e aplicações dos recursos.\n___Bibliografia Recomendada___\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ACC126"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ACCZ02",
+      "Nome": "Ativ Curricular Extensão - Ead",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "0",
+      "Extensão": "180",
+      "Informação": {
+       "Info": "Atividade de extensão de projetos envolvendo os discentes, juntamente com a sociedade. Seminários técnicos e científicos onde o discente realize produções beneficentes. Eventos em caráter excepcional com a participação da comunidade. Empresa Júnior com produção discente para a sociedade de gestão empresarial ou comunidades em desenvolvimento.\n___Bibliografia Recomendada___\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "UFR230",
+      "Nome": "Intr Adm e Comp Organizacional",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Definição de administração. Histórico da administração. Teorias. A administração e os ambientes de negócios. Clima e cultura organizacionais. Motivação e liderança. Conflitos interpessoais e intergrupais.\n___Bibliografia Recomendada___\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "4º Período": [
+     {
+      "Codigo": "ACC247",
+      "Nome": "Inst Direito Apl Contabilidade",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Noções de Direito; Norma Jurídica e outras normas sociais. Direito público e privado. Subdivisões. Fontes do direito. As Constituições brasileiras. Os três poderes.Administração direta e indireta. Direitos e garantias individuais. Direitos fundamentais do homem.\n___ BIBLIOGRAFIA BÁSICA ___\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "UFF243",
+      "Nome": "Contabilidade Avançada I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Investimentos societários e equivalência patrimonial. Resultado de exercícios futuros. Patrimônio líquido. Partes relacionadas e beneficiárias. Demonstrações financeiras e notas explicativas: balanço, resultado, mutações do patrimônio líquido, origens e aplicações de recursos e fluxo de caixa. Restauração societária.\n___Bibliografia Recomendada___\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ACC238"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ACC246",
+      "Nome": "Contabilidade Gerencial",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Informações contábeis para a tomada de decisões. Contabilidade de custos nas empresas de atividades não industriais. Técnicas avançadas de administração ao custeio dos produtos e serviços.Avaliação de eficiência e produtividade. Relatórios de contabilidade sócioambiental, visando o gerenciamento ambiental.\n___ BIBLIOGRAFIA BÁSICA ___\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ACC239"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "UER245",
+      "Nome": "Economia II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Teoria neoclássica e teoria econômica. Teoria do consumidor. Teoria da produção. Teoria dos custos.\n___Bibliografia Recomendada___\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "UER233"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "5º Período": [
+     {
+      "Codigo": "ACC358",
+      "Nome": "Legislação Tributária",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Obrigação tributária. Crédito tributário, tributos. Direito Tributário penal.\n___Bibliografia Recomendada___\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ACC247"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ACCU03",
+      "Nome": "Estágio Supervisionado",
+      "Créditos": "3.0",
+      "Teórica": "0",
+      "Prática": "120",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Aperfeiçoamento do processo de ensino-aprendizagem. Criação de oportunidades para os alunos de Ciências Contábeis aplicarem conhecimentos teóricos na prática.\n___Bibliografia Recomendada___\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ACC238",
+       "ACC239"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ACC357",
+      "Nome": "Contabilidade Avançada II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Princípios fundamentais de contabilidade (revisão); Consolidação das demonstrações contábeis, Operações entre matriz e filiais, balanço de abertura, fusão, incorporação e cisão, transformação e liquidação de entidades: aspectos contábeis, consórcio e grupos de sociedades.\n___Bibliografia Recomendada___\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "UFF243"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ACC359",
+      "Nome": "Métodos Quantitativos I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estatística Descritiva. Cálculo de Probabilidades. Variáveis aleatórias discretas e contínuas. Introdução à Teoria da Estimação e Decisão.\n___Bibliografia Recomendada___\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ACC117"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "UFR350",
+      "Nome": "Legislação Empresarial",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Caracterização das atividades comerciais. Atos e fatos jurídicos. Títulos de créditos. Tipos de sociedades. Constituição, dissolução, concordata, falência, liquidação, joint venture.\n___Bibliografia Recomendada___\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "6º Período": [
+     {
+      "Codigo": "UER363",
+      "Nome": "Métodos Quantitativos II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Amostragem probabilística. Cálculo do tamanho de amostras. Estimação de proporções. Teste de hipóteses. Modelos de regressão simples e múltipla. Análise de séries temporais. Aplicações às Ciências Contábeis.\n___Bibliografia Recomendada___\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ACC359"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "UFR360",
+      "Nome": "Contabilidade Tributária",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Aspectos contábeis e fiscais do IPI, ICMS e ISS.  Contribuiçoes sociais. Imposto de renda na fonte. Taxas diversas. Imposto de renda das pessoas jurídicas (IRPJ); regimes de tributação. Lucro da exploração. Direito Tributário e Meio Ambiente ( a importância dos incentivos fiscais).\n___ BIBLIOGRAFIA BÁSICA ___\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ACC358"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ACC365",
+      "Nome": "Orçamento e Planej Empresarial",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A função do orçamento. Programação. Tipos de orçamento. Orçamento empresarial integrado. Demonstrações contábeis projetadas. Análise e variações orçamentárias. Abordagem comportamental do orçamento.\n___Bibliografia Recomendada___\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ACC238",
+       "UFR120"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "UFF361",
+      "Nome": "Legislação Social e Trabalhist",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Definição fundamentos doutrinários. Relação jurídica do emprego. Contrato de trabalho. Regulamentação do trabalho. Noções de direito coletivo do trabalho. Previdência social. Aspectos práticos da legislação trabalhista. Aspectos práticos da legislação previdenciária.\n___Bibliografia Recomendada___\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "UFR350"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "7º Período": [
+     {
+      "Codigo": "ACC475",
+      "Nome": "Análise Econômico-financeira",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Os objetivos da análise. Análise das estruturas patrimonial e operacional. Técnicas de análise. Grau de alavancagem financeira. Limitações das demonstrações financeiras. Perspectivas econômicas.\n___Bibliografia Recomendada___\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ACC126",
+       "UFR120"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ACC477",
+      "Nome": "Mercado Financeiro",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Processo: renda, poupança e investimento. Conceitos básicos de finanças e mercados. Operações e ativos financeiros. Estrutura e funcionamento do Sistema Financeiro Nacional. Organismos Financeiros Internacionais. Análise e tomada de decisões financeiras.\n___Bibliografia Recomendada___\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ACC238",
+       "UFR120"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ACC474",
+      "Nome": "Controladoria",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Principais abordagens do controle gerencial. Objetivos organizacionais. Informação e comunicação na empresa. A estrutura do controle gerencial. Avaliação de desempenho e recompensas.\n___Bibliografia Recomendada___\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ACC484"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ACC476",
+      "Nome": "Teoria da Contabilidade II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Objetivos e metodologias da contabilidade. Os princípios fundamentais da contabilidade. Avaliação de ativo e passivo. Perspectiva e tendências da Teoria da Contabilidade.\n___Bibliografia Recomendada___\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ACC115"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "UFF470",
+      "Nome": "Contabilidade Trabalhista",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceito e princípios de Direito do Trabalho. Contrato de trabalho: conceito, condições legais. Salário e remuneração conceito e distinção. Repouso semanal remunerado. Férias. 13° salário: conceito, direito, prazos de pagamento. Adicionais legais. Descontos no salário. Rescisão do contrato de trabalho: parcelas devidas nos tipos de rescisão.\n___Bibliografia Recomendada___\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "UFF361"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "8º Período": [
+     {
+      "Codigo": "ACC485",
+      "Nome": "Administração Financeira I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Visão geral da Administração Financeira. Análise das Demonstrações Contábeis. Análise Financeira. Análise patrimonial. Análise Econômica. Estudo da eficiência operacional da empresa. Análise da receita e do custo. Desempenho operacional e alavancagem. Gerenciamento ambiental através de relatórios financeiros a serem disponibilizados para o conselho de administração da empresa.\n___ BIBLIOGRAFIA BÁSICA ___\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ACC475"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ACC487",
+      "Nome": "Proj Pesquisa em Contabilidade",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Elaboração de um projeto de pesquisa. Definição do tema do Projeto de Monografia. Discussão do Projeto. Construção do Projeto de monografia.\n___Bibliografia Recomendada___\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ACC128"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ACC484",
+      "Nome": "Orçamento e Planej Governament",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Legislação aplicável ao planejamento governamental. A missão do estado. Plano Plurianual. Diretrizes orçamentárias. Programação. Orçamento: conceitos e objetivos. Funções orçamentárias. Sistema de informações orçamentárias. Elaboração do orçamento.\n___Bibliografia Recomendada___\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ACC126"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ACC486",
+      "Nome": "Auditoria",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Fundamentos de auditoria, o profissional de auditoria, controle interno, papéis de trabalho, procedimentos de auditoria, parecer dos auditores, auditoria do ativo circulante e auditoria do passivo circulante.\n___Bibliografia Recomendada___\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ACC357"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "9º Período": [
+     {
+      "Codigo": "ACCK03",
+      "Nome": "Monografia",
+      "Créditos": "4.0",
+      "Teórica": "0",
+      "Prática": "180",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Elaboração do trabalho de conclusão de curso deve representar uma atividade integradora, escolhendo um tema e uma modalidade de sua preferência e interesse,\na ser desenvolvido sob a supervisão de docentes especialistas, tanto dos quadros das universidades consorciadas, quanto de outras instituições públicas de\npesquisa e ensino. Os alunos são encaminhados pela Coordenação para seus respectivos orientadores, de acordo com os temas escolhidos, a partir do 8º período. o\nestudante apresenta um trabalho de conclusão de curso que poderá (conforme a resolução CNE/CES, de 16 de dezembro de 2004) ser desenvolvido nas\nmodalidades de monografia, projeto de iniciação científica, artigo ou projetos de atividades centrados em áreas teórico-práticas e de formação profissional\nrelacionados com o curso (conforme a resolução CNE/CES, de 16 de dezembro de 2004, desenvolvido nas modalidades de monografia, projeto de iniciação\ncientífica, artigo ou projetos de atividades centrados em áreas teórico-práticas e de formação profissional relacionados com o curso.\nO trabalho de conclusão de curso pode ser realizado individualmente ou em grupo (no máximo três alunos), devendo ser apresentado por escrito dentro das\nnormas estabelecidas pelo curso.\n___ BIBLIOGRAFIA BÁSICA ___\nOLIVEIRA, Antonio Benedito Silva. Métodos da Pesquisa Contábil. 1. ed. São Paulo: Ed. Atlas, 2011.\nMARION, José Carlos; DIAS, Reinaldo; TRALDI, Maria Cristina. Monografia para os Cursos de Administração, Contabilidade e Economia. 2. ed. São Paulo: Ed. Atlas, 2010.\n___ BIBLIOGRAFIA COMPLEMENTAR ___\nSILVA, Antonio Carlos Ribeiro da. Metodologia da Pesquisa Aplicada à Contabilidade  3. ed. São Paulo: Ed. Atlas, 2010.\nPATACO, Vera Lúcia Paracampos; VENTURA, Magda Maria; RESENDE, Érica dos Santos. Metodologia para trabalhos acadêmicos e normas deapresentação gráfica. 3. ed. Rio de Janeiro: Ed. Rio, 2006.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ACC487"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ACC590",
+      "Nome": "Contabilidade Governamental",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Fundamentos da contabilidade pública. Gestão orçamentária, financeira e patrimonial. Consolidação das contas. Demonstrações orçamentárias e contábeis. Prestação de contas.\n___Bibliografia Recomendada___\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ACC484"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "UER591",
+      "Nome": "Administração Financeira II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Capital do giro. Administração disponível. Administração de valores a receber. Administração e avaliação da decisão de estocar. Fontes de financiamento a curto prazo. Decisões financeiras de investimento de longo prazo. Fontes de financiamento delongo prazo e gestão baseada em valor.\n___Bibliografia Recomendada___\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ACC485"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "10º Período": [
+     {
+      "Codigo": "UFF596",
+      "Nome": "Perícia Contábil",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O uso da Contabilidade como ferramenta em decisões judiciais. Requisitos para a prática da perícia contábil. Avaliação patrimonial de entidades. Planejamento e controle de procedimentos.\n___Bibliografia Recomendada___\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ACC246",
+       "ACC486"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ACC595",
+      "Nome": "Ética Profissional",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O objetivo, conceito e campo da ética. Fontes das normas éticas. Comportamento ético. Código de ética profissional. Atuação do profissional e os padrões de qualidade. Atributos de um bom profissional da contabilidade. Os conselhos reguladores da profissão.\n___Bibliografia Recomendada___\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ACC238"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "Disciplinas Optativas (Escolha Restrita)": [
+     {
+      "Codigo": "ACCZ70",
+      "Nome": "Gestão de Riscos (Ead) - Ext",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "0",
+      "Extensão": "60",
+      "Informação": {
+       "Info": "Atividade de extensão a ser desenvolvida junto a comunidades específicas, utilizando conceito de risco, quantificação de riscos, gestão financeira de seguradoras e de fundos de pensão ERM (Enterpise Risk Management), possibilitando maior orientação aos gestores com participação dos discentes do curso de Ciências Contábeis, proporcionando maior transparência para a sociedade interessada.\n___Bibliografia Recomendada___\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ACC475"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ACCZ72",
+      "Nome": "Gestão Tecn e Inov (Ead) - Ext",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "0",
+      "Extensão": "60",
+      "Informação": {
+       "Info": "Atividade de extensão a ser desenvolvido junto a comunidades, através da utilização de processo de inovação tecnológica, sistemas nacionais de ciência e tecnologia, papel do Estado na inovação tecnológica de empresa, possibilitando maior orientação as comunidades gestoras, inserindo a participação dos discentes do Curso de Ciências Contábeis e proporcionando elevação do conhecimento das tecnologias de interesse para a sociedade.\n___Bibliografia Recomendada___\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "UFR230"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ACCZ74",
+      "Nome": "Mercado Imobiliár (Ead) - Ext",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "0",
+      "Extensão": "60",
+      "Informação": {
+       "Info": "Atividade de extensão a ser desenvolvidos juntos a comunidades, através da utilização de conceituação básica do mercado de capitais e governança corporativa, procedimentos de abertura e fechamento de capital, ações, debêntures e ADR, estrutura básica das operações que envolvem cisão,fusão e incorporação de empresas, possibilitando maior orientação as comunidades gestoras, inserindo a participação dos discentes do Curso de Ciências Contábeis e proporcionando elevação do conhecimento dos mercados de interesse para a sociedade.\n___Bibliografia Recomendada___\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "UFR120"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ACCZ69",
+      "Nome": "Aval de Empresas (Ead) - Ext",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "0",
+      "Extensão": "60",
+      "Informação": {
+       "Info": "Atividade de extensão junto a comunidade empresarial, através de fundamentos de Cálculo Financeiro, Risco Método de Avaliação de Risco, Risco em Carteira, CAPM, APT, Avaliação de ativos, avaliação de ações ordinárias, avaliação de ações preferenciais, avaliação de títulos de dívidas, avaliação de empresas, fluxo de caixa líquido do acionista e fluxo de caixa líquido da empresa, possibilitando maior orientação a comunidade com participação dos discentes do curso de Ciências Contábeis.\n___Bibliografia Recomendada___\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "UFR120"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ACCZ71",
+      "Nome": "Simulação Empresar (Ead) - Ext",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "0",
+      "Extensão": "60",
+      "Informação": {
+       "Info": "Desenvolvimento de atividade de extensão junto a comunidades, utilizando definição de comércio, sistemas de comercialização, marca, patente e comunicação comercial, possibilitando simulações de cunho para orientação das comunidades, inserindo a participação dos discentes do Curso de Ciências Contábeis e proporcionando o conhecimento de tais simulações comerciais a sociedade.\n___Bibliografia Recomendada___\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ACC238"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ACCZ73",
+      "Nome": "Análise de Invest (Ead) - Ext",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "0",
+      "Extensão": "60",
+      "Informação": {
+       "Info": "Desenvolvimento de atividade de extensão junto a comunidade gerencial, através do Orçamento de capital, técnicas de análise, avaliação de investimentos sob condição de risco, onde investimentos serão selecionados para uma possível diversificação.\n___Bibliografia Recomendada___\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "UFR120"
+      ],
+      "Tipo": "eletiva"
+     }
+    ]
+   },
+   "obrigatorias": 40,
+   "eletivas": 6,
+   "ano": "2017/2 a 2020/2"
+  },
+  {
+   "materias": {
+    "1º Período": [
+     {
+      "Codigo": "ACC116",
+      "Nome": "Contabilidade I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceituação da Contabilidade. O patrimônio. Demonstrativos Financeiros. Regime de Contabilidade. Apuração de Resultados. Método das partidas dobradas. Livros Contábeis e apuração contábil do lucro.\n___Bibliografia Recomendada___\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ACCZ51",
+      "Nome": "Ativ Curricular Extensão - Ead",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "0",
+      "Extensão": "210",
+      "Informação": {
+       "Info": "Atividade de extensão de projetos envolvendo os discentes, juntamente com a sociedade. Seminários técnicos e científicos onde o discente realize produções beneficentes. Eventos em caráter excepcional com a participação da comunidade. Empresa Júnior com produção discente para a sociedade de gestão empresarial ou comunidades em desenvolvimento.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ACC115",
+      "Nome": "Teoria da Contabilidade",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Objetivos e metodologias da contabilidade. Evolução histórica da contabilidade. Estrutura Conceitual e princípios contábeis.\n___ BIBLIOGRAFIA BÁSICA ___\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ACC117",
+      "Nome": "Matemática Apl Contabilidade I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Álgebra. Racionalização. Sistemas lineares. Progressões. Funções. Aplicações.\n___Bibliografia Recomendada___\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "UFF114",
+      "Nome": "Informática Ead",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Elementos do Estudo à distância - abordagens referentes ao ensino à distância, utilizando recursos da tecnologia EAD.\n___ BIBLIOGRAFIA BÁSICA ___\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "2º Período": [
+     {
+      "Codigo": "ACC127",
+      "Nome": "Matemática Apl Contabilid II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Limites. Derivadas. Aplicações. Noções de cálculo Integral.\n___Bibliografia Recomendada___\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ACC117"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "UFR120",
+      "Nome": "Matemática Financeira",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Juros Simples. Juros Compostos. Equivalência de Capital. Descontos. Anuidades. Sistemas de Amortização.\n___ BIBLIOGRAFIA BÁSICA ___\n1) FERREIRA, Roberto Gomes. Matemática Financeira Aplicada. 8. Ed. São Paulo: Ed. Atlas, 2014.\n2) OLIVEIRA, Gustavo F. Matemática Financeira Descomplicada: para os cursos de economia, administração e contabilidade. São Paulo: Ed. Atlas, 2013.\n",
+       "BibliografiaBasica": "1) SILVA, André Luiz Carvalhal da. Matemática Financeira Aplicada: série COPEAD de administração. 3. Ed. São Paulo: Ed. Atlas, 2010.\n2) BRUNI, Adriano; FAMÁ, Rubens. Matemática Financeira. São Paulo: Ed. Atlas, 2004.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ACC117"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ACC126",
+      "Nome": "Contabilidade II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Impostos incidentes sobre compras e vendas. Métodos de valorização de Estoques. Operações Financeiras. Folha de pagamento. Encargos Sociais. Provisões.\n___Bibliografia Recomendada___\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ACC116"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ACC128",
+      "Nome": "Métodos Téc Pesq Contabilidade",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo sobre técnicas e métodos usados na elaboração de trabalhos técnicos e acadêmicos em contabilidade.\n___Bibliografia Recomendada___\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "3º Período": [
+     {
+      "Codigo": "ACC239",
+      "Nome": "Contabilidade de Custos",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Objetivos da contabilidade de custos. Custeio por absorção. Conceitos básicos em custo. Departamentalização. Sistema de acumulação de custos - Produção contínua e produção por ordem. Conceito de margem de contribuição. Produtos conjuntos e subprodutos. Custeio variável. Análise da relação custo-volume-lucro.Ponto de equilíbrio. Cálculo e análise de variâncias. Custo padrão.\n___Bibliografia Recomendada___\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ACC126"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "UFR230",
+      "Nome": "Intr Adm e Comp Organizacional",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Definição de administração. Histórico da administração. Teorias. A administração e os ambientes de negócios. Clima e cultura organizacionais. Motivação e liderança. Conflitos interpessoais e intergrupais.\n___Bibliografia Recomendada___\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ACC238",
+      "Nome": "Contabilidade Intermediária",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Classificação das demonstrações contábeis segundo a legislação. Passivo e variações monetárias. Provisões. Patrimônio líquido. Demonstração de lucros ou prejuízos acumulados e mutações do patrimônio líquido e demonstrações das origens e aplicações dos recursos.\n___Bibliografia Recomendada___\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ACC126"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "UER233",
+      "Nome": "Economia I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução à análise macroeconômica. Sistema econômico. Repartição de renda. Formulação de política econômica. Relações econômicas internacionais.\n___Bibliografia Recomendada___\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "4º Período": [
+     {
+      "Codigo": "ACC247",
+      "Nome": "Inst Direito Apl Contabilidade",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Noções de Direito; Norma Jurídica e outras normas sociais. Direito público e privado. Subdivisões. Fontes do direito. As Constituições brasileiras. Os três poderes.Administração direta e indireta. Direitos e garantias individuais. Direitos fundamentais do homem.\n___ BIBLIOGRAFIA BÁSICA ___\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "UFF243",
+      "Nome": "Contabilidade Avançada I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Investimentos societários e equivalência patrimonial. Resultado de exercícios futuros. Patrimônio líquido. Partes relacionadas e beneficiárias. Demonstrações financeiras e notas explicativas: balanço, resultado, mutações do patrimônio líquido, origens e aplicações de recursos e fluxo de caixa. Restauração societária.\n___Bibliografia Recomendada___\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ACC238"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ACC246",
+      "Nome": "Contabilidade Gerencial",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Informações contábeis para a tomada de decisões. Contabilidade de custos nas empresas de atividades não industriais. Técnicas avançadas de administração ao custeio dos produtos e serviços.Avaliação de eficiência e produtividade. Relatórios de contabilidade sócioambiental, visando o gerenciamento ambiental.\n___ BIBLIOGRAFIA BÁSICA ___\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ACC239"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "UER245",
+      "Nome": "Economia II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Teoria neoclássica e teoria econômica. Teoria do consumidor. Teoria da produção. Teoria dos custos.\n___Bibliografia Recomendada___\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "UER233"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "5º Período": [
+     {
+      "Codigo": "ACC358",
+      "Nome": "Legislação Tributária",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Obrigação tributária. Crédito tributário, tributos. Direito Tributário penal.\n___Bibliografia Recomendada___\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ACC247"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ACCU03",
+      "Nome": "Estágio Supervisionado",
+      "Créditos": "4.0",
+      "Teórica": "0",
+      "Prática": "300",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Aperfeiçoamento do processo de ensino-aprendizagem. Criação de oportunidades para os alunos de Ciências Contábeis aplicarem conhecimentos teóricos na prática.\n___ BIBLIOGRAFIA BÁSICA ___\n1) MARION, Paulo:José Ed. Carlos: Atlas, 2010. DIAS, Reinaldo: TRALDI, Maria Cristina. Monografia para Os Cursos de Administração, Contabilidade e Economia 2. Ed. São Paulo, Ed. Atlas, 2010.\n___ BIBLIOGRAFIA COMPLEMENTAR ___\n1) LIMA, M. Ce OLIVO, Silvio. Estágio supervisionado e trabalho de conclusão de curso. Ed. Thompson, 2007.\n2) BIANCHI, Ana Cecilia de M. Manual de Orientação de Estágio Superivisionado. Editora Pioneira, 2001.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ACC238",
+       "ACC239"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ACC357",
+      "Nome": "Contabilidade Avançada II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Princípios fundamentais de contabilidade (revisão); Consolidação das demonstrações contábeis, Operações entre matriz e filiais, balanço de abertura, fusão, incorporação e cisão, transformação e liquidação de entidades: aspectos contábeis, consórcio e grupos de sociedades.\n___Bibliografia Recomendada___\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "UFF243"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ACC359",
+      "Nome": "Métodos Quantitativos I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estatística Descritiva. Cálculo de Probabilidades. Variáveis aleatórias discretas e contínuas. Introdução à Teoria da Estimação e Decisão.\n___Bibliografia Recomendada___\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ACC117"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "UFR350",
+      "Nome": "Legislação Empresarial",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Caracterização das atividades comerciais. Atos e fatos jurídicos. Títulos de créditos. Tipos de sociedades. Constituição, dissolução, concordata, falência, liquidação, joint venture.\n___Bibliografia Recomendada___\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "6º Período": [
+     {
+      "Codigo": "UER363",
+      "Nome": "Métodos Quantitativos II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Amostragem probabilística. Cálculo do tamanho de amostras. Estimação de proporções. Teste de hipóteses. Modelos de regressão simples e múltipla. Análise de séries temporais. Aplicações às Ciências Contábeis.\n___Bibliografia Recomendada___\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ACC359"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "UFR360",
+      "Nome": "Contabilidade Tributária",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Aspectos contábeis e fiscais do IPI, ICMS e ISS.  Contribuiçoes sociais. Imposto de renda na fonte. Taxas diversas. Imposto de renda das pessoas jurídicas (IRPJ); regimes de tributação. Lucro da exploração. Direito Tributário e Meio Ambiente ( a importância dos incentivos fiscais).\n___ BIBLIOGRAFIA BÁSICA ___\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ACC358"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ACC365",
+      "Nome": "Orçamento e Planej Empresarial",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A função do orçamento. Programação. Tipos de orçamento. Orçamento empresarial integrado. Demonstrações contábeis projetadas. Análise e variações orçamentárias. Abordagem comportamental do orçamento.\n___Bibliografia Recomendada___\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "UFR120"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "UFF361",
+      "Nome": "Legislação Social e Trabalhist",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Definição fundamentos doutrinários. Relação jurídica do emprego. Contrato de trabalho. Regulamentação do trabalho. Noções de direito coletivo do trabalho. Previdência social. Aspectos práticos da legislação trabalhista. Aspectos práticos da legislação previdenciária.\n___Bibliografia Recomendada___\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "UFR350"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "7º Período": [
+     {
+      "Codigo": "ACC475",
+      "Nome": "Análise Econômico-financeira",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Os objetivos da análise. Análise das estruturas patrimonial e operacional. Técnicas de análise. Grau de alavancagem financeira. Limitações das demonstrações financeiras. Perspectivas econômicas.\n___Bibliografia Recomendada___\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ACC126",
+       "ACC238"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ACC487",
+      "Nome": "Proj Pesquisa em Contabilidade",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Elaboração de um projeto de pesquisa. Definição do tema do Projeto de Monografia. Discussão do Projeto. Construção do Projeto de monografia.\n___Bibliografia Recomendada___\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ACC128"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ACC474",
+      "Nome": "Controladoria",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Principais abordagens do controle gerencial. Objetivos organizacionais. Informação e comunicação na empresa. A estrutura do controle gerencial. Avaliação de desempenho e recompensas.\n___ BIBLIOGRAFIA BÁSICA ___\n1) OLIVEIRA, Luís Martins de; JUNIOR, José Hernandes Perez; SILVA, Carlos Alberto dos Santos. Controladoria Estratégica. 9ª ed. São Paulo. Ed. Atlas, 2013.\n2) HOJI, M. Administração Financeira e Orçamentária. São Paulo: Atlas, 2014.\n3) ATKINSON, Antony A.; BANKER. Rajiv D.; KAPLAN, Robert S. Contabilidade Gerencial. . 3ª ed. São Paulo, Ed. Atlas, 2011.\n___ BIBLIOGRAFIA COMPLEMENTAR___\n1) SANTOS, R v. Controladoria - uma introdução ao sistema de gestão econômica (GECON). 2ª ed. Rio de Janeiro: Ed. Saraiva, 2010.\n2) ATTIE, Willian. Auditoria: conceitos e aplicações. 6ª ed. São Paulo, Ed. Atlas, 2011.\n3) SILVA, Raymundo Nonato Souza Silva & LINS, Luiz dos Santos. Gestão de Custos: Contabilidade, gestão e análise. 2ª ed. São Paulo, Ed. Atlas, 2012.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ACC365"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ACC484",
+      "Nome": "Orçamento e Planej Governament",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Legislação aplicável ao planejamento governamental. A missão do estado. Plano Plurianual. Diretrizes orçamentárias. Programação. Orçamento: conceitos e objetivos. Funções orçamentárias. Sistema de informações orçamentárias. Elaboração do orçamento.\n___Bibliografia Recomendada___\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ACC126"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "8º Período": [
+     {
+      "Codigo": "ACC486",
+      "Nome": "Auditoria",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Fundamentos de auditoria, o profissional de auditoria, controle interno, papéis de trabalho, procedimentos de auditoria, parecer dos auditores, auditoria do ativo circulante e auditoria do passivo circulante.\n___Bibliografia Recomendada___\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ACC357"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ACCK03",
+      "Nome": "Monografia",
+      "Créditos": "4.0",
+      "Teórica": "0",
+      "Prática": "180",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Elaboração do trabalho de conclusão de curso deve representar uma atividade integradora, escolhendo um tema e uma modalidade de sua preferência e interesse,\na ser desenvolvido sob a supervisão de docentes especialistas, tanto dos quadros das universidades consorciadas, quanto de outras instituições públicas de\npesquisa e ensino. Os alunos são encaminhados pela Coordenação para seus respectivos orientadores, de acordo com os temas escolhidos, a partir do 8º período. o\nestudante apresenta um trabalho de conclusão de curso que poderá (conforme a resolução CNE/CES, de 16 de dezembro de 2004) ser desenvolvido nas\nmodalidades de monografia, projeto de iniciação científica, artigo ou projetos de atividades centrados em áreas teórico-práticas e de formação profissional\nrelacionados com o curso (conforme a resolução CNE/CES, de 16 de dezembro de 2004, desenvolvido nas modalidades de monografia, projeto de iniciação\ncientífica, artigo ou projetos de atividades centrados em áreas teórico-práticas e de formação profissional relacionados com o curso.\nO trabalho de conclusão de curso pode ser realizado individualmente ou em grupo (no máximo três alunos), devendo ser apresentado por escrito dentro das\nnormas estabelecidas pelo curso.\n___ BIBLIOGRAFIA BÁSICA ___\nOLIVEIRA, Antonio Benedito Silva. Métodos da Pesquisa Contábil. 1. ed. São Paulo: Ed. Atlas, 2011.\nMARION, José Carlos; DIAS, Reinaldo; TRALDI, Maria Cristina. Monografia para os Cursos de Administração, Contabilidade e Economia. 2. ed. São Paulo: Ed. Atlas, 2010.\n___ BIBLIOGRAFIA COMPLEMENTAR ___\nSILVA, Antonio Carlos Ribeiro da. Metodologia da Pesquisa Aplicada à Contabilidade  3. ed. São Paulo: Ed. Atlas, 2010.\nPATACO, Vera Lúcia Paracampos; VENTURA, Magda Maria; RESENDE, Érica dos Santos. Metodologia para trabalhos acadêmicos e normas deapresentação gráfica. 3. ed. Rio de Janeiro: Ed. Rio, 2006.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ACC487"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ACC485",
+      "Nome": "Administração Financeira I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Visão geral da Administração Financeira. Análise das Demonstrações Contábeis. Análise Financeira. Análise patrimonial. Análise Econômica. Estudo da eficiência operacional da empresa. Análise da receita e do custo. Desempenho operacional e alavancagem. Gerenciamento ambiental através de relatórios financeiros a serem disponibilizados para o conselho de administração da empresa.\n___ BIBLIOGRAFIA BÁSICA ___\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ACC475"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ACC590",
+      "Nome": "Contabilidade Governamental",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Fundamentos da contabilidade pública. Gestão orçamentária, financeira e patrimonial. Consolidação das contas. Demonstrações orçamentárias e contábeis. Prestação de contas.\n___Bibliografia Recomendada___\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ACC484"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "9º Período": [
+     {
+      "Codigo": "UFF596",
+      "Nome": "Perícia Contábil",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O uso da Contabilidade como ferramenta em decisões judiciais. Requisitos para a prática da perícia contábil. Avaliação patrimonial de entidades. Planejamento e controle de procedimentos.\n___Bibliografia Recomendada___\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ACC486"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "ACC595",
+      "Nome": "Ética Profissional",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O objetivo, conceito e campo da ética. Fontes das normas éticas. Comportamento ético. Código de ética profissional. Atuação do profissional e os padrões de qualidade. Atributos de um bom profissional da contabilidade. Os conselhos reguladores da profissão.\n___Bibliografia Recomendada___\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ACC238"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "Disciplinas Optativas (Escolha Restrita)": [
+     {
+      "Codigo": "ACCX03",
+      "Nome": "Iniciação Científica II",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Atividades de pesquisa ligadas aos núcleos: Núcleo de Pesquisa de construção de valor corporativo e núcleo de pesquisa da ciência e do ensino contábil.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ACCX06",
+      "Nome": "Administração de Empresa Jr I",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "10",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Aperfeiçoamento do processo de ensino-aprendizagem, através de instituição com gestão partilhada por discentes da UFRJ.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ACCX10",
+      "Nome": "Atividade de Intercâmbio",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Participação em atividade de pesquisa, seminários, congressos, oferecidas fora do território nacional, por instituições reconhecidas pelo departamento de contabilidade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ACCX12",
+      "Nome": "Monitoria II",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Participação em atividades de sala de aula, oferecidas através de disciplinas da grade curricular, com orientação docente.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ACC070",
+      "Nome": "Gestão de Risco",
+      "Créditos": "4.0",
+      "Teórica": "15",
+      "Prática": "0",
+      "Extensão": "45",
+      "Informação": {
+       "Info": "Atividade de extensão a ser desenvolvida junto a comunidades específicas, utilizando conceito de Risco, quantificação de riscos, gestão financeira de seguradoras e de fundos de pensão. ERM (Enterprise Risk Management), possibilitando maior orientação aos gestores com participação dos discentes do Curso de Ciências Contábeis, proporcionando maior transparência para a sociedade interessada, vinculada ao Projeto de Atendimento e Integração Social - IRPF (inscrito no SIGA com nº 139).\n___ BIBLIOGRAFIA BÁSICA ___\n1) SILVA, Raymundo Nonato Souza Silva & LINS, Luiz dos Santos. Gestão de custos: Contabilidade, gestão e análise. 2. ed. São Paulo: Ed. Atlas, 2012.\n2) ATKINSON, Antony A.; BANKER, Rajiv D.; KAPLAN, Robert S. Contabilidade Gerencial. 3. ed. São Paulo: Ed. Atlas, 2011.\n3) PADOVEZE, Clovis Luiz. Contabilidade Gerencial. 7. ed. São Paulo: Ed. Atlas, 2010.\n___ BIBLIOGRAFIA COMPLEMENTAR ___\n1) BRITO, O.S. Mercado financeiro: estrutura, produtos, serviços, riscos e controle gerencial. Rio de Janeiro: Ed. Saraiva, 2013.\n2) IAQUINTO, A & JR, S.S. Não arrisque tudo: como os empreendedores assumem riscos e tomam decisões. Rio de Janeiro: Ed. Saraiva, 2010.\n3) FERBAN, A.A.G. O sistema financeiro nacional comentado: políticas econômicas, operações financeiras e administração de risco. Rio de Janeiro: Ed. Saraiva, 2006.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ACC475"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ACC072",
+      "Nome": "Gestão Tecnologia Inovação I",
+      "Créditos": "4.0",
+      "Teórica": "15",
+      "Prática": "0",
+      "Extensão": "45",
+      "Informação": {
+       "Info": "Atividade de extensão a ser desenvolvido junto a comunidades, através da utilização de processo de inovação tecnológica, sistemas nacionais de ciência e tecnologia, papel do Estado na inovação tecnológica, estratégia tecnológica de empresa, possibilitando maior orientação as comunidades gestoras, inserindo a participação dos discentes do Curso de Ciências Contábeis e proporcionando elevação do conhecimento das tecnologias de interesse para a sociedade, vinculada ao Projeto de Atendimento e Integração Social - IRPF e Projeto Gestão, Desenvolvimento e Inovação.\n___ BIBLIOGRAFIA BÁSICA ___\n1) BARKI, Edgard. Varejo no Brasil: gestão e estratégia.. 2. ed. São Paulo: Ed. Atlas, 2013.\n___ BIBLIOGRAFIA COMPLEMENTAR ___\n1) MARRAS, J.P. Gestão de pessoas em empresas inovadoras: gestão de pessoas em empresas inovadoras. Rio de Janeiro: Ed. Saraiva, 2012.\n2) JOHANN, S.L. Gestão da cultura corporativa: como as organizações de alto desempenho gerenciam sua cultura organizacional. Rio de Janeiro: Ed. Saraiva, 2004.\n3) SARDENBERG, C.A. & BRAUN, D. O. assunto é tecnologia: uma conversa com Carlos Alberto Sardenberg e Daniela Braun. Rio de Janeiro: Ed. Saraiva, 2007.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "UFR230"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ACC074",
+      "Nome": "Mercado Imobiliário",
+      "Créditos": "4.0",
+      "Teórica": "15",
+      "Prática": "0",
+      "Extensão": "45",
+      "Informação": {
+       "Info": "Atividade de extensão a ser desenvolvidos junto a comunidades, através da utilização de conceituação básica do mercado de capitais e governança corporativa, procedimentos de abertura e fechamento de capital, ações, debêntures e ADR, estrutura básica das operações que envolvem cisão, fusão e incorporação de empresas, possibilitando maior orientação as comunidades gestoras, inserindo a participação dos discentes do Curso de Ciências Contábeis e proporcionando elevação do conhecimento dos mercados de interesse para a sociedade, vinculada ao Projeto de Atendimento e Integração Social - IRPF (inscrito no SIGA com nº 139).\n___ BIBLIOGRAFIA BÁSICA ___\n1) LAGIOIA, U.C.T. Fundamentos do mercado de capitais. 3. ed. São Paulo: Ed. Atlas, 2011.\n___ BIBLIOGRAFIA COMPLEMENTAR ___\n1) NETO, H C e outros. Abertura do capital de empresas no Brasil: enfoque prático. 4. ed. São Paulo: Ed. Atlas, 2010.\n2) BRITO, O S. Mercado financeiro: estrutura, produtos, serviços, riscos e controle gerencial. 2. ed. Rio de Janeiro: Ed. Saraiva, 2013.\n3) NETO, A F. Mercado financeiro. 11. ed. São Paulo: Ed. Atlas, 2012.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "UFR120"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ACC076",
+      "Nome": "Gestão Desenvol e Inovação I",
+      "Créditos": "4.0",
+      "Teórica": "15",
+      "Prática": "0",
+      "Extensão": "45",
+      "Informação": {
+       "Info": "Aspectos teóricos e práticos de gestão e inovação. Incubação como metodologia de desenvolvimento. Aspectos multidisciplinares da incubação. Abordagem metodológica: finanças, gestão, cidadania, tecnologia, mercado, Integração multidisciplinar e aplicações, vinculada ao Projeto de Atendimento e Integração Social - IRPF (inscrito no SIGA com nº 139).\n___ BIBLIOGRAFIA BÁSICA ___\n1) GUIMARÃES, Gonçalo. Planejamento e Gestão de Incubadoras de Tecnologias Sociais para o Desenvolvimento: Ed. Brasília, 2006.\n2) Diretrizes para Políticas Públicas de Economia Solidária. A contribuição dos gestores públicos, Rio de Janeiro, 2004.\n___ BIBLIOGRAFIA COMPLEMENTAR ___\n1) MARRAS, J.P. Gestão de pessoas em empresas inovadoras: gestão de pessoas em empresas inovadoras. Rio de Janeiro: Ed. Saraiva, 2012.\n2) JOHANN, S.L. Gestão da cultura corporativa: como as organizações de alto desempenho gerenciam sua cultura organizacional. Rio de Janeiro: Ed. Saraiva, 2004.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "UFR230"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ACCX02",
+      "Nome": "Iniciação Científica I",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Atividade de pesquisa ligadas aos núcleos: Núcleo de Pesquisa de Construção de Valor Corporativo e Núcleo de Pesquisa da Ciência e do Ensino Contábil.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ACCX04",
+      "Nome": "Estágio Não-obrigatório I",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Aperfeiçoamento do processo de ensino-aprendizagem, através de instituições não vinculadas a UFRJ.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ACCX07",
+      "Nome": "Administração de Empresa Jr II",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "10",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Aperfeiçoamento do processo de ensino-aprendizagem, através de instituição com gestão partilhada por discentes da UFRJ.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ACCX11",
+      "Nome": "Monitoria I",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Participação em atividades de sala de aula, oferecidas através de disciplinas da grade curricular, com orientação docente.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ACC069",
+      "Nome": "Avaliação de Empresas",
+      "Créditos": "4.0",
+      "Teórica": "15",
+      "Prática": "0",
+      "Extensão": "45",
+      "Informação": {
+       "Info": "Atividade de extensão junto a comunidade empresarial, através de fundamentos de Cálculo Financeiro, Risco, Método de Avaliação de Risco, Risco em Carteira, CAPM, APT, Avaliação de ativos, Avaliação de Ações ordinárias, Avaliação de Ações Preferenciais, Avaliação de Títulos de Dívidas, Avaliação de Empresas, Fluxo de Caixa Líquido do Acionista e Fluxo de Caixa Líquido da Empresa, possibilitando maior orientação a comunidade com participação dos discentes do Curso de Ciências Contábeis, vinculada ao Projeto de Atendimento e Integração Social - IRPF (inscrito no SIGA com nº 139).\n___ BIBLIOGRAFIA BÁSICA ___\n1) NETO, Alexandre Assaf. Valuation: métricas de valor & avaliação de empresas. São Paulo: Ed. Atlas, 2014.\n2) LINS, Luiz dos Santos & FILHO, José Francisco.  Fundamentos e Análise das Demonstrações Contábeis: Uma abordagem interativa. São Paulo: Ed. Atlas, 2012.\n___ BIBLIOGRAFIA COMPLEMENTAR ___\n1) SALAZAR, German Torres; Administração dos Fluxos de Caixa. 1. ed. São Paulo: Ed. Atlas, 2012.\n2) MATARAZZO, Dante C. Análise Financeira de Balanços. 7. ed. São Paulo: Ed. Atlas, 2010.\n3) FILHO, N. C. Elaboração de projetos empresariais: análise estratégica, estudo de viabilidade e plano de negócio.  São Paulo: Ed. Atlas, 2009.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "UFR120"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ACC071",
+      "Nome": "Simulação Empresarial",
+      "Créditos": "4.0",
+      "Teórica": "15",
+      "Prática": "0",
+      "Extensão": "45",
+      "Informação": {
+       "Info": "Desenvolvimento de atividade de extensão junto a comunidades, utilizando definição de comércio, sistemas de comercialização, marca, patente e comunicação comercial, possibilitando simulações de cunho para orientação das comunidades, inserindo a participação dos discentes do Curso de Ciências Contábeis e proporcionando o conhecimento de tais simulações comerciais a sociedade, vinculada ao Projeto de Atendimento e Integração Social - IRPF (inscrito no SIGA com nº 139).\n___ BIBLIOGRAFIA BÁSICA ___\n1) SCHAFRANSKI, L. e & TUBINO, F. Simulação empresarial em gestão de produção: desenvolvendo um laboratório de planejamento e controle da produção através de jogos empresariais. 1. ed. São Paulo: Ed. Atlas, 2013.\n___ BIBLIOGRAFIA COMPLEMENTAR ___\n1) MENDES, L.A.L. Projeto empresarial: como construir estratégias eficazes e identificar os caminhos da lucratividade e do crescimento. Rio de Janeiro: Ed. Saraiva, 2011.\n2) GONÇALVES, C.A.e outros. Estratégia empresarial: o desafio nas organizações. Rio de Janeiro: Ed. Saraiva, 2006.\n3) MENDES, L.A.L. Estratégia empresarial: promovendo o crescimento sustentado e sustentável. Rio de Janeiro: Ed. Saraiva, 2012.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "ACC238"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ACC073",
+      "Nome": "Análise de Investimentos",
+      "Créditos": "4.0",
+      "Teórica": "15",
+      "Prática": "0",
+      "Extensão": "45",
+      "Informação": {
+       "Info": "Desenvolvimento de atividade de extensão junto à comunidade gerencial, através do Orçamentos de capital, Técnicas de analise, Avaliação de investimentos sob condição de risco, onde investimentos serão selecionados para uma possível diversificação, vinculada ao Projeto de Atendimento e Integração Social - IRPF (inscrito no SIGA com nº 139).\n___ BIBLIOGRAFIA BÁSICA ___\n1) GUIMARÃES, Gonçalo. Planejamento e Gestão de Incubadoras de Tecnologias Sociais para o Desenvolvimento: Ed. Brasília, 2006.\n2) Diretrizes para Políticas Públicas de Economia Solidária. A contribuição dos gestores públicos, Rio de Janeiro, 2004.\n___ BIBLIOGRAFIA COMPLEMENTAR ___\n1) MARRAS, J.P. Gestão de pessoas em empresas inovadoras: gestão de pessoas em empresas inovadoras. Rio de Janeiro: Ed. Saraiva, 2012.\n2) JOHANN, S.L. Gestão da cultura corporativa: como as organizações de alto desempenho gerenciam sua cultura organizacional. Rio de Janeiro: Ed. Saraiva, 2004.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "UFR120"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ACC075",
+      "Nome": "Finanças Pessoais",
+      "Créditos": "4.0",
+      "Teórica": "15",
+      "Prática": "0",
+      "Extensão": "45",
+      "Informação": {
+       "Info": "Propósitos, Bases e Relações com diferentes áreas do conhecimento (Contabilidade, Administração, Economia e outras). Patrimônio Pessoal - planejamento, execução e controle. A disciplina propicia uma oportunidade de trazer a luz tais questões, na medida que possibilita ao corpo discente vivenciar/experimentar na prática elementos teóricos discutidos em sala de aula, na busca de soluções mais efetivas para os problemas reais da operação, vinculada ao Projeto de Atendimento e Integração Social - IRPF e Projeto Gestão, Desenvolvimento e Inovação.\n___ BIBLIOGRAFIA BÁSICA ___\n1) SANTOS, José Odálio. Finanças pessoais para todas as idades: um guia prático. São Paulo: Ed. Atlas, 2014.\n2)TORRALVO, C. F. e outros. Planejamento financeiro pessoal e gestão do patrimônio: fundamentos e prática. São Paulo: Ed. Atlas, 2012.\n___ BIBLIOGRAFIA COMPLEMENTAR ___\n1) CHEROBIM, A. P M S & ESPEJO, M. M. S. B. Finanças Pessoais: conhecer para enriquecer! São Paulo: Ed. Atlas, 2011.\n2) RATH, T & HARTER, JIM. O fator bem-estar: os cinco elementos essenciais para uma vida pessoal e profissional de qualidade. Rio de Janeiro: Ed. Saraiva, 2011.\n3) LIMA, F & TOMMASI, A. Viva melhor: sabendo administrar suas finanças. Rio de Janeiro: Ed. Saraiva, 2007.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "ACC077",
+      "Nome": "Gestão Tecnologia Inovação II",
+      "Créditos": "4.0",
+      "Teórica": "15",
+      "Prática": "0",
+      "Extensão": "45",
+      "Informação": {
+       "Info": "Aspectos teóricos e práticos de gestão e inovação. Incubação como metodologia de desenvolvimento. Aspectos multidisciplinares da incubação. Abordagem metodológica: finanças, gestão, cidadania, tecnologia, mercado, Integração multidisciplinar e aplicações, vinculada ao Projeto de Atendimento e Integração Social - IRPF (inscrito no SIGA com nº 139).\n___ BIBLIOGRAFIA BÁSICA ___\n1) GUIMARÃES, Gonçalo. Planejamento e Gestão de Incubadoras de Tecnologias Sociais para o Desenvolvimento: Ed. Brasília, 2006.\n2) Diretrizes para Políticas Públicas de Economia Solidária. A contribuição dos gestores públicos, Rio de Janeiro, 2004.\n___ BIBLIOGRAFIA COMPLEMENTAR ___\n1) MARRAS, J.P. Gestão de pessoas em empresas inovadoras: gestão de pessoas em empresas inovadoras. Rio de Janeiro: Ed. Saraiva, 2012.\n2) JOHANN, S.L. Gestão da cultura corporativa: como as organizações de alto desempenho gerenciam sua cultura organizacional. Rio de Janeiro: Ed. Saraiva, 2004.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     }
+    ]
+   },
+   "obrigatorias": 36,
+   "eletivas": 17,
+   "ano": "2021/1 a 9999/9"
+  }
+ ]
+}

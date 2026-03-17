@@ -1,0 +1,1058 @@
+{
+ "Química - M": [
+  {
+   "materias": {
+    "1º Período": [
+     {
+      "Codigo": "IQO113",
+      "Nome": "Int ao Laboratório de Química",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Normas e equipamentos de segurança. Aparelhagens e processos básicos\nde separação, análise e síntese. Propriedades físicas e físico-químicas das\nsubstâncias e suas relações com os processos básicos.\n",
+       "BibliografiaBasica": "1) Pavia, D. L., Lampman, G. M., Kriz Jr, G. S., Angel, R. G. Química Orgânica Experimental: Técnicas em Escala Pequena. Bookman, 2009.\n2) Vogel, A. I., Química Orgânica: Análise Orgânica Qualitativa, vol. 1 (1990)\n3) Zubrick, J. W. Manual de Sobrevivência no Laboratório de Química Orgânica: Guia de\nTécnicas para o Aluno. 6ª edição. Rio de Janeiro, LTC, 2005.\n",
+       "BibliografiaComplementar": "1) Mattos, M. C. S, Nicodem, D. Soap from Nutmeg: An Integrated Introductory Organic Chemistry Laboratory Experiment. Journal of Chemical Education 79 (1), 2002, 94.\n2) Imamura, P. M., Baptistella, L. H., Nitração do fenol, um método em escala semi-micro para disciplina prática de 4h. Química Nova 23(2), 2000, 270.\n3) Terci, D. B. L., Rossi, A. V. Indicadores naturais de pH: usar papel ou solução. Química Nova 25 (4), 684-688, 2002.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IQWX09",
+      "Nome": "Atividades Acc",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "140",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Atividades acadêmico-científico-culturais. Participação dos alunos em defesa de Monografia, seminários, palestras, congressos, simpósios e encontros na área de química e ensino de Química, tanto na UFRJ como fora dela. O objetivo é possibilitar a formação abrangente e interdisciplinar do educador/cidadão, ampliando as possibilidades de pesquisa em Ensino de química e suas implicações econômico-político-sociais.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAW112",
+      "Nome": "Introducao a Computacao",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Aproximacoes numericas. Representacao de numeros no computador. Aritmetica de ponto flutuante. Erros. Caracteristicas basicas de organizacao de um computador. Algoritmos programas. Programacao basica em uma linguagem de programacao estruturada (Pascal). Solucao de problemas numericos e nao numericos por computadores.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IQG114",
+      "Nome": "Química Geral I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estequiometria. Teoria atômica. Classificação periódica. Ligação química, Composto de coordenação. Química nuclear.\n",
+       "BibliografiaBasica": "1- RUSSEL, John B. 1994. Química Geral. V. 1 e 2. 2ª ed., Makron Books do Brasil editora, São Paulo.\n2- BRADY, J. E., HUMISTON, G. E. 1986. Química geral. volume 1 e 2. 2 ed. LTC, São Paulo.\n3- OHLWEILER, Otto Alcides. 1967. Introdução à Química Geral. ed. Globo, Porto Alegre.\n",
+       "BibliografiaComplementar": "1- KOTZ, J.C.; PURCELL, K.F. Chemistry and chemical Reactivity. 1993. 2 edition, Saunders College Publishing,USA.\n5- BRADY J.E., John Wiley & Sons General Chemistry Principles & Structure. 1990. 5ª ed.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IQWK02",
+      "Nome": "Seminário de Química I",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAC118",
+      "Nome": "Cálculo Difer e Integral I",
+      "Créditos": "6.0",
+      "Teórica": "90",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Técnicas de Integração. Integral Imprópria.\n",
+       "BibliografiaBasica": "1) SANTOS, A. R.; BIANCHINI, Waldecir. Aprendendo Cálculo com Maple: Cálculo de Uma Variável. 1ª ed. Rio de Janeiro: LTC, 2002.\n2) LEITHOLD, Louis. O Cálculo com Geometria Analítica. 3.ed. São Paulo: Harbra, 2002. vol. 1.\n3) STEWART, James. Cálculo. 4.ed. São Paulo: Pioneira Thomson Learning, 2002. vol. 1.\n",
+       "BibliografiaComplementar": "1) ANTON, H.; BIVIS. I.; DAVIS, S. Cálculo, Vol. I. 8ª ed. Editora Harbra.\n2) APOSTOL, TOM M. Calculus, Vol. 1: One Variable Calculus With an Introduction to Linear Algebra. 2ª ed. - Ed. Wiley.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "2º Período": [
+     {
+      "Codigo": "FIW122",
+      "Nome": "Laborat de Fisica Basica I",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução ao laboratório: introdução à teoria dos erros experimentais, algarismos significativos, traçado de gráficos, medidas com o trilho de ar. Cinemática: movimento retilíneo uniforme e uniformemente variado. Dinâmica da partícula: leis de Newton. Princípios da conservação: energia mecânica e quantidade de movimento linear. Colisões elásticas e inelásticas.\n",
+       "BibliografiaBasica": "1- Instituto de Física-UFRJ, Roteiros de Experiências, 2009.\n2- BARTHEM, R.B., Tratamento e Análise de Dados em Física Experimental. 4ª edição.\nSérie Cadernos Didáticos. Rio de Janeiro: UFRJ, 1997.\n3- VUOLO, J.H., Fundamentos da Teoria de Erros. São Paulo: Ed. Edgard Blücher,\n1996.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "17:30 - 21:30",
+        "professor": "LUIS JURACY RANGEL LEMOS"
+       }
+      ],
+      "Requisitos": [
+       "FIW121(C)FIW121=FIT111"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAC128",
+      "Nome": "Cálculo Diferen e Integral II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Equações Diferenciais Ordinárias de Primeira  Ordem. Equações Diferenciais Ordinárias Lineares de Segunda Ordem com Coeficientes Constantes. Curvas e Vetores no Plano. Vetores no Espaço Tridimensional e Geometria Analítica Sólida. Funções de R2 em R. Funções de R3 em R. Máximos e Mínimos de Funções de R2 em R. Máximos e Mínimos de Funções de R3 em R.\n",
+       "BibliografiaBasica": "1) BOYCE, W. E.; DIPRIMA, R. C. Equações Diferenciais Elementares e Problemas de Valores de Contorno. 7. ed. Rio de Janeiro: UFRJ, 2004.\n2) PINTO, D.; MORGADO, M.C.F. Cálculo Diferencial e Integral de Funções de Várias Variáveis. 3.ed. Rio de Janeiro: UFRJ, 2004.\n3) STEWART, J. Cálculo. 4. ed. São Paulo: Pioneira Thomson Learning, 2002. vol. 2.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "17:30 - 19:30",
+        "professor": "FELIPE DE MEDEIROS SALES"
+       },
+       {
+        "dia": "Qua",
+        "hora": "17:30 - 19:30",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MAC118"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIW121",
+      "Nome": "Mecanica da Particula",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Sistemas de referência e sistemas de coordenadas. As leis do movimento: a lei da inércia; referenciais inerciais e não-inerciais; a segunda lei de Newton; a lei da ação e reação. A realização de medidas indiretas. Trabalho de uma força; energia cinética; teorema trabalho-energia cinética; forças conservativas e forças dissipativas; energia potencial; energia mecânica e as condições para sua conservação. Momento linear e sua conservação. O princípio de relatividade.\n",
+       "BibliografiaBasica": "1- MOYSÉS NUSSENZVEIG, H., Curso de Física Básica: vol. 1. 4ª edição. São Paulo:\nEditora Edgard Blücher, 2002.\n2- HALLIDAY, D., RESNICK, R. & WALKER, J., Fundamentos de Física: vol. 1. 8ª edição. Rio de Janeiro: LTC, 2009.\n3- YOUNG , H.D. & FREEDMAN, R.A., Física 1. 12ª edição. São Paulo: Pearson Education, 2007.\n4- TIPLER, P.A. & MOSCA, G. Física para Cientistas e Engenheiros: vol. 1. 5ª edição.\nRio Janeiro: LTC, 2006.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "17:30 - 19:30",
+        "professor": "LUIS JURACY RANGEL LEMOS"
+       },
+       {
+        "dia": "Qui",
+        "hora": "17:30 - 19:30",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MAC118"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IQG120",
+      "Nome": "Química Geral II - Iq",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Gases, Soluções, Termodinâmica, Cinética Química, Equilíbrio Químico,\nÁcidos e Bases, Eletroquímica\n",
+       "BibliografiaBasica": "1)ATKINS P., JONES L., Bookman,2001.\n2) RUSSEL J. B.; 1994, Traduzido, 2a . Edição, Volumes 1 e 2; Makron Books do Brasil Editora Ltda..\n",
+       "BibliografiaComplementar": "1)BRADY J. E., HUMISTON G. E.; 1986, Traduzido, 2a . Edição, Volumes 1 e 2; Livros Técnicos e CientÍficos Editora S.A.\n2) KOTZ J. C., TREICHEL P.; 1998, volumes 1-2; Livros TÉcnicos e CientÍficos\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "19:30 - 21:30",
+        "professor": "JULIANA MILANEZ"
+       },
+       {
+        "dia": "Qua",
+        "hora": "19:30 - 21:30",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "IQG114"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "3º Período": [
+     {
+      "Codigo": "FIW232",
+      "Nome": "Laborat de Fisica Basica II",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Medidas experimentais indiretas. Dinâmica das rotações: cinemática das rotações, determinação de momento de inércia, pêndulo físico; Movimento oscilatório: movimento harmônico simples, movimento harmônico amortecido. Hidrostática: viscosidade, determinação de densidade de líquidos e sólidos; Calorimetria: capacidade térmica, calor específico, calor latente, equivalente mecânico do calor.\n",
+       "BibliografiaBasica": "1- Instituto de Física-UFRJ, Roteiros de Experiências, 2009.\n2- BARTHEM, R.B., Tratamento e Análise de Dados em Física Experimental. 4ª edição.\nSérie Cadernos Didáticos. Rio de Janeiro: UFRJ, 1997.\n3- VUOLO, J.H., Fundamentos da Teoria de Erros. São Paulo: Ed. Edgard Blücher,\n1996.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "17:30 - 21:30",
+        "professor": "VALERIA NUNES BELMONTE"
+       }
+      ],
+      "Requisitos": [
+       "FIW122"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IQA471",
+      "Nome": "Química Analítica Quali Exp",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Preparo de amostras para análise. Aplicação dos conceitos de sensibilidade, especificidade e seletividade. Classificação e identificação de cátions e ânions. Análise de sais.\n",
+       "BibliografiaBasica": "1) Skoog, D. A.; West, D. M.; Holler, F. J.; Crouch, S. R. Fundamentos de Química Analítica. 9. ed. São Paulo: Cengage Learning, 2014.\n",
+       "BibliografiaComplementar": "1) Vaitsman, D. S.; Bittencourt, O. A. Ensaios químicos qualitativos. Rio de Janeiro: Interciência, 1995.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "17:30 - 21:30",
+        "professor": "FERNANDO ARMANI AGUIAR"
+       }
+      ],
+      "Requisitos": [
+       "IQA470(C)",
+       "IQG114"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MAC238",
+      "Nome": "Cálculo Diferen e Integral III",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Integrais Múltiplas. Integrais de Linha. Integrais de Superfície. Teorema de Gauss. Teorema de Stokes.\n",
+       "BibliografiaBasica": "1) PINTO, D.; MORGADO, M. C. F. Cálculo Diferencial e Integral de Funções de Várias Variáveis. 3ª ed. Rio de Janeiro: UFRJ, 2004.\n2) TROMBA, A. J.; MARSDEN, J. E. Vector Calculus. 5ª ed. New York: W. H. Freeman & Company, 2003.\n3) ANTON, H. Cálculo: Um Novo Horizonte. 6ª ed. Porto Alegre: Bookman, 2000. vol.2.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "17:30 - 19:30",
+        "professor": "RAPHAEL ANTUNES DOS SANTOS"
+       },
+       {
+        "dia": "Qua",
+        "hora": "17:30 - 19:30",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MAC128"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIW231",
+      "Nome": "Mec do Sistema e Fis Termica",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Sistemas de partículas. Centro de massa. Dinâmica das rotações com eixo fixo. Hidrostática. Temperatura. Calor. Primeira lei da termodinâmica. Teoria cinética dos gases. Reversibilidade. Segunda lei da termodinâmica.\n",
+       "BibliografiaBasica": "1- MOYSÉS NUSSENZVEIG, H., Curso de Física Básica. Volumes 1 e 2. 4ª edição. São\nPaulo: Editora Edgard Blücher, 2002.\n2- HALLIDAY, D., RESNICK, R. & WALKER, J., Fundamentos de Física. Volumes 1 e 2.\n8ª edição. Rio de Janeiro: LTC, 2009.\n3- YOUNG , H.D. & FREEDMAN, R.A., Física 1. 12ª edição. São Paulo: Pearson Education, 2007.\n4- YOUNG , H.D. & FREEDMAN, R.A., Física 2. 12ª edição. São Paulo: Pearson Education, 2007.\n5- TIPLER, P.A. & MOSCA, G. Física para Cientistas e Engenheiros: vol.1. 5ª edição.\nRio Janeiro: LTC, 2006.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "17:30 - 19:30",
+        "professor": "VALERIA NUNES BELMONTE"
+       },
+       {
+        "dia": "Qui",
+        "hora": "17:30 - 19:30",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "FIW121",
+       "MAC118"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IQA470",
+      "Nome": "Química Analítica Qualitativa",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Sensibilidade, especificidade e seletividade. Teoria ácido-base de Bronsted-Lowry e Lewis. Dissociação de eletrólitos fracos e ionização de ácidos e bases fracos. Conceito de pH. Efeito do íon comum e soluções-tampão. Coeficiente de atividade e força iônica. Solubilidade e produto de solubilidade. Complexos. Coeficiente de participação. Reações redox.\n",
+       "BibliografiaBasica": "1) Skoog, D. A.; West, D. M.; Holler, F. J.; Crouch, S. R. Fundamentos de Química Analítica. 9. ed. São Paulo: Cengage Learning, 2014.\n",
+       "BibliografiaComplementar": "1) Alexéev, V. Análise Qualitativa. Porto: Lopes Silva, 1982.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "17:30 - 19:30",
+        "professor": "CHERRINE KELCE PIRES"
+       }
+      ],
+      "Requisitos": [
+       "IQA471(C)",
+       "IQG114"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IQG128",
+      "Nome": "Quimica Geral Experimental II",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução ao laboratório e normas de segurança. Soluções. Cristalização\nfracionada. Sistemas coloidais e suas propriedades. Equilíbrio químico. Cinética\nquímica. Oxirredução. Eletrólise. Compostos de coordenação. Titulação. Síntese e\npropriedades de compostos.\n",
+       "BibliografiaBasica": "1) BRADY J. E., HUMISTON G. E.; 1986, Traduzido, 2a . Edição, Volumes 1 e 2; Livros Técnicos e Científicos Editora S.A.\n",
+       "BibliografiaComplementar": "1)KOTZ J. C., TREICHEL P.; 1998, volumes 1-2; Livros Técnicos e Científicos\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "IQG114"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "4º Período": [
+     {
+      "Codigo": "FIW242",
+      "Nome": "Laborat de Eletromagnetismo",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Medidas elétricas: corrente elétrica, ddp, resistências. Circuito de corrente contínua. Lei de Ohm. Leis de Kirchhoff. Capacitância. Indutância. Circuitos de corrente alternada. Circuitos RC, RL e RLC. Indução Eletromagnética. Transformadores. Propriedades magnéticas da matéria.\n",
+       "BibliografiaBasica": "1- Instituto de Física-UFRJ, Roteiros de Experiências, 2009.\n2- BARTHEM, R.B., Tratamento e Análise de Dados em Física Experimental. 4ª edição.\nSérie Cadernos Didáticos. Rio de Janeiro: UFRJ, 1997.\n3- VUOLO, J.H., Fundamentos da Teoria de Erros. São Paulo: Ed. Edgard Blücher,\n1996.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "17:30 - 21:30",
+        "professor": "RICHARD JAVIER CARABALLO VIVAS"
+       }
+      ],
+      "Requisitos": [
+       "FIW232"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IQA482",
+      "Nome": "Química Analítica Quantitativa",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Definição e métodos de análise quantitativa. Balança analítica. Análise gravimétrica.  Volumetria e tipos  de  análises. O  ponto de equivalência e o ponto final. Titulação direta  e pelo resto. Volumetria de neutralização, teoria de indicadores, curvas de titulação e erro de titulação. Volumetria de precipitação e indicadores de adsorção. Volumetria de oxi-redução. Volumetria de complexação e indicadores metalocrômicos.\nBibliografia básica\n1) Skoog,  D.  A.;  West,  D.  M.;  Holler,  F.  J.;  Crouch,  S.  R. Fundamentos  de  Química  Analítica.  9.  ed.  São  Paulo:  Cengage  Learning,  2014.\n2) Mendham,  J.;  Denney,  R.  C.;  Barnes,  J.  D.;  Thomas,  M.  J.  K.  Vogel:  Análise  QuÍmica Quantitativa. 6. ed. Rio de Janeiro: LTC, 2002.\nBibliografia complementar\n1) Baccan,  N. Química Analítica Quantitativa Elementar. 3. ed. São Paulo: Edgard  Blücher, 2001.\n2) Basset, J.; Denney, R. C.; Jeffery, G. H.; Medham, J. Vogel: Análise Inorgânica  Quantitativa. 4. ed. Rio de Janeiro: Editora Guanabara Dois, 1981.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "17:30 - 19:30",
+        "professor": "DANIELLE MARQUES DE ARAUJO STAPELFELDT"
+       }
+      ],
+      "Requisitos": [
+       "IQA470",
+       "IQA471"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIW241",
+      "Nome": "Introdução ao Eletromagnetismo",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Eletricidade: lei de Coulomb; campo elétrico, lei de Gauss, potencial elétrico; condutores e isolantes; Magnetismo: campo magnético; lei de Ampére e de Biot-Savart; lei de Faraday; propriedades magnéticas da matéria; indutância, lei de Ampére-Maxwell, corrente de indução.\n",
+       "BibliografiaBasica": "1- MOYSÉS NUSSENZVEIG, H., Curso de Física Básica: vol. 3. 4ª edição. São Paulo:\nEditora Edgard Blücher, 2002.\n2- HALLIDAY, D., RESNICK, R. & . WALKER, J., Fundamentos de Física: vol. 3. 8ª\nedição. Rio de Janeiro: LTC, 2009.\n3- YOUNG , H.D. & FREEDMAN, R.A., Física 3. 12ª edição. São Paulo: Pearson Education, 2007.\n4- TIPLER, P.A. & MOSCA, G. Física para Cientistas e Engenheiros: vol. 2. 5ª edição.\nRio Janeiro: LTC, 2006.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "17:30 - 19:30",
+        "professor": "HABIB SALOMON DUMET MONTOYA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "17:30 - 19:30",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "FIW121",
+       "MAC238"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IQA481",
+      "Nome": "Química Analítica Quanti Exp",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Balança analítica. Análise Gravimétrica. Volumetria de neutralização, de precipitação, de oxi-redução e de complexação.\nBibliografia básica\n1) Skoog, D. A.; West, D. M.; Holler, F. J.; Crouch, S. R. Fundamentos de QuÍmica Analítica. 9. ed. São Paulo: Cengage Learning, 2014.\n2) Mendham, J.; Denney, R. C.; Barnes, J. D.; Thomas, M. J. K. Vogel: Análise QuÍmica Quantitativa. 6. ed. Rio de Janeiro: LTC, 2002.\nBibliografia complementar\n1) Baccan,  N. Química Analítica Quantitativa Elementar. 3. ed. São Paulo: Edgard Blücher,  2001.\n2) Basset, J.; Denney, R. C.; Jeffery, G. H.; Medham, J. Vogel: Análise Inorgânica  Quantitativa. 4. ed. Rio de Janeiro: Editora Guanabara Dois, 1981.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:30 - 17:30",
+        "professor": "ARICELSO MAIA LIMAVERDE FILHO"
+       }
+      ],
+      "Requisitos": [
+       "IQA470",
+       "IQA471"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IQO129",
+      "Nome": "Quimica Organica I - LN",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceituação fundamental; estrutura e reações comuns de alcanos e\nciclo-alcanos, alquenos, alquinos, aromáticos, halogenetos de alquila, álcoois, fenóis,\néteres, aldeídos, cetonas, ácidos carboxílicos e seus derivados e aminas.\n",
+       "BibliografiaBasica": "1) T.W.G. Solomons, C. B. Fryhle, Química Orgânica, LTC Livros Técnicos e Científicos 2006.\n2) J. McMurry, Química Orgânica, LTC Livros Técnicos e Científicos, 2006\n",
+       "BibliografiaComplementar": "1) R. Morrison e R Boyd, Química Orgânica, Fundação Calouste Gulbenkian 1999\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "17:30 - 19:30",
+        "professor": "CHAQUIP DAHER NETTO"
+       },
+       {
+        "dia": "Sex",
+        "hora": "17:30 - 19:30",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "IQG114"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "5º Período": [
+     {
+      "Codigo": "IQF241",
+      "Nome": "Termodinâmica Clássica",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Gases ideais e reais. Primeira lei da Termodinâmica.  Termoquímica.  Segunda lei da Termodinâmica.  Funções de Gibbs e Helmholtz.  Termodinâmica de sistemas abertos.  Termodinâmica das substâncias puras.  Soluções.  Grandezas parciais molares.  Solução ideal, estados padrões.  Propriedades coligativas.  Equilíbrio líquido-vapor de soluções ideais. Solução não- ideal.  Azeotropismo.  Equilibrio químico.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "19:30 - 21:30",
+        "professor": "KENIA DA SILVA FREITAS"
+       },
+       {
+        "dia": "Qua",
+        "hora": "19:30 - 21:30",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MAC128"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IQO239",
+      "Nome": "Quimica Organica II - LN",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Mecanismo de reações orgânicas: Substituição nucleofílica, substituição eletrofílica, adição, eliminação, reação em cadeia de radicais livres. Química Orgânica Aplicada: Polímeros, produtos naturais, corantes.\n",
+       "BibliografiaBasica": "1) T.W.G. Solomons, C. B. Fryhle, Química Orgânica, LTC Livros Técnicos e Científicos 2006.\n2) J. McMurry, Química Orgânica, LTC Livros Técnicos e Científicos, 2006\n",
+       "BibliografiaComplementar": "1) R. Morrison e R Boyd, Química Orgânica, Fundação Calouste Gulbenkian 1999\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "19:30 - 21:30",
+        "professor": "TIAGO LIMA DA SILVA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "19:30 - 21:30",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "IQO129"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IGL101",
+      "Nome": "Introducao a Mineralogia",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Natureza  e  aplicações  da  Mineralogia.  Cristalografia:  simetria  e  seus elementos.  Notações,  sistema  cristalográficos,  geminações.  Projeção  estereográfica. Mineralogia: propriedades físicas e químicas dos minerais. Mineralogia descritiva.\nBibliografia básica\n1) KLEIN,  C.  &  DUTROW,  B..  The  23rd  edition  of  the manual  of  mineral  science,  23rd  edition.  John  Wiley  &  Sons,  675  pp. 2007.\n2) CHVÁTAL,  M. Cristalografia mineralogia  para  principiantes.  SBGEO. 2007.\n3) GEORGE,  J., WAROQUIERS,  D.,  DI  STEFANO,  D.,  PETRETTO  G.,  RIGNANESE  G.  M.,  HAUTIER, G.  The  limited  predictive  power  of  the  Pauling  rules,  Angewandte  Chemie, 132(19), 7639-7645. 2020.\nBibliografia  complementar\n1)  ATENCIO,  D.  &  AZZI,  A.  A.  Sistemas  cristalinos: nomenclatura  e  convenção,  Terrae  Didatica,  13(3),  279-285.  DOI: 10.20396/td.v13i3.8651222. 2018. Disponível em: https://periodicos.sbu.unicamp.br/ojs/index.php/td/article/view/8651222.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "15:30 - 17:30",
+        "professor": "DANIEL DE AUGUSTINIS SILVA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "15:30 - 17:30",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IQO236",
+      "Nome": "Quimica Organica Exp I - Ln",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Destilação simples e fracionada, recristalização, critério de pureza, solubilidade, determinação de constantes físicas, análise elementar e funcional.\n",
+       "BibliografiaBasica": "1) T.W.G. Solomons, C. B. Fryhle, Química Orgânica, LTC Livros Técnicos e Científicos 2006.\n2) J. McMurry, Química Orgânica, LTC Livros Técnicos e Científicos, 2006\n",
+       "BibliografiaComplementar": "1) R. Morrison e R Boyd, Química Orgânica, Fundação Calouste Gulbenkian 1999\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "17:30 - 21:30",
+        "professor": "EVANOEL CRIZANTO DE LIMA"
+       }
+      ],
+      "Requisitos": [
+       "IQO113",
+       "IQO129"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "6º Período": [
+     {
+      "Codigo": "IQA593",
+      "Nome": "Análise Instrumental III",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Fundamentos dos métodos eletroanalíticos. Potenciometria direta e titulações potenciométricas. Eletrodos de referência e eletrodos indicadores. Medidas de pH e de atividade iônica com eletrodos íon-seletivos. Análise eletrogravimétrica. Condutimetria. Colorimetria. Espectrofotometria de absorção molecular quantitativa, no ultravioleta e no visível. Espectrometria atômica de emissão e de absorção. Sistema de análise por injeção em fluxo.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "15:30 - 17:30",
+        "professor": "ARICELSO MAIA LIMAVERDE FILHO"
+       }
+      ],
+      "Requisitos": [
+       "IQA481",
+       "IQA482"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IQG354",
+      "Nome": "Química Inorgânica I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Simetria, Estrutura e Propriedades Atômica, Eletronegatividade, Ligação Química, Estado Sólido, Forças e Interações Intermoleculares, Química Ácido-Base, Oxirredução\n",
+       "BibliografiaBasica": "1) Principles of Structure and Reactivity; HUHEEY J. E.; KEITER E. A.; KEITER R. L.; 1993, 4th. Edition; HarperCollins College Publishers.\n2) Chemical Applications of Group Theoryâ; COTTON, F. A.; 1990, 3rd. Edition; John\nWiley & Sons, Inc..\n",
+       "BibliografiaComplementar": "1) Inorganic Chemistry; SHRIVER D. F., ATKINS P. W., LANGFORD C. H.; 1999, 3nd. Edition; Oxford University Press.\n2) Inorganic Chemistry; KOTZ J. C., PURCEL K. F.; 1977 (reimpresso em 1987); Holt-Saunders International Edition.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "19:30 - 21:30",
+        "professor": "CID PEREIRA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "19:30 - 21:30",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "IQG120",
+       "IQG128"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IQA592",
+      "Nome": "Análise Instrumental Exp III",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Escolha do instrumento. Calibração e cuidados no uso. Potenciometria. Medidas direta. Titulação potenciométrica. Elaboração de gráficos normais e diferenciais. Eletrodos íon-seletivos. Eletrólise, eletrogravimetria. Condutimetria. Fotometria de chama. Espectros de UV-Vis. Fotometria de absorção simples e deferencial. Análise espectrofotométrica simultânea de dois componentes. Análise por injeção em fluxo. Espectrometria de absorção atômica.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "17:30 - 21:30",
+        "professor": "RODRIGO DE SIQUEIRA MELO"
+       },
+       {
+        "dia": "Qua",
+        "hora": "17:30 - 21:30",
+        "professor": "ARICELSO MAIA LIMAVERDE FILHO"
+       }
+      ],
+      "Requisitos": [
+       "IQA481",
+       "IQA482",
+       "IQA593"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IQF361",
+      "Nome": "Introdução à Química Quântica",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Experiências fundamentais da física moderna: queda dos conceitos clássicos e surgimento da teoria dos quanta. Postulados fundamentais da Mecânica Quântica. Problemas com solução exata: partícula na caixa, oscilador harmônico, rotação de uma partícula no plano e na superfície de uma esfera.  Átomos hidrogenóides: estrutura e espectro.  Métodos aproximados para resolução da equação de Schrodinger.  Átomos polieletrônicos.  Estrutura de moléculas diatômicas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "17:30 - 19:30",
+        "professor": "DIEGO FERNANDO DA SILVA PASCHOAL"
+       },
+       {
+        "dia": "Qui",
+        "hora": "17:30 - 19:30",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "MAC128"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IQO355",
+      "Nome": "Quimica Organica Exp II - Ln",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Nitração, sulfonação, oxidação, esterificação, hidrólise, diazotação, acetilação, saponificação, corante, cromatografia com fase gasosa.\n",
+       "BibliografiaBasica": "1) T.W.G. Solomons, C. B. Fryhle, Química Orgânica, LTC Livros Técnicos e Científicos 2006.\n2) J. McMurry, Química Orgânica, LTC Livros Técnicos e Científicos, 2006\n",
+       "BibliografiaComplementar": "1) R. Morrison e R Boyd, Química Orgânica, Fundação Calouste Gulbenkian 1999\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "17:30 - 21:30",
+        "professor": "CHAQUIP DAHER NETTO"
+       }
+      ],
+      "Requisitos": [
+       "IQO236"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "7º Período": [
+     {
+      "Codigo": "IQF363",
+      "Nome": "Físico- Química Experimental I",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Diagrama de fases binário: fenol /água.  Pressão de vapor de líquido em função da temperatura (métodos do isotensioscópio e estático).  Determinação do poder calorífico de um gás.  Constante de repartição do iodo entre tetracloreto de carbono e água.  Diagrama de fases ternário: água/clorofórmio/ácido acético.  Índice de refração de soluções e polarimetria.  Viscosidade de soluções.  Viscosidade de líquido em função da temperatura.  Investigação do poder tampão.  Determinação condutimétrica da constante de equilíbrio de um ácido fraco. Titulação condutimétrica. Tensão superficial de soluções de soluto tensoativo.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "17:30 - 21:30",
+        "professor": "ANA LUCIA SHIGUIHARA AMIM"
+       }
+      ],
+      "Requisitos": [
+       "IQF241"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IQG364",
+      "Nome": "Quimica Inorganica II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Teoria do Campo Cristalino, Teoria de Orbitais Moleculares Aplicada a Compostos de  Coordenação, Espectro Eletrônico, Estrutura e Equilíbrio, Reações, Cinética e Mecanismos, Compostos Organometálicos de Metais de Transição.\nBibliografia básica\n1) Principles  of  Structure  and  Reactivityâ;  HUHEEY  J.  E.; KEITER E. A.; KEITER R. L.; 1993, 4th. Edition; HarperCollins College Publishers.\nBibliografia complementar\n1) Inorganic  Chemistryâ;  SHRIVER  D.  F.,  ATKINS  P.  W., LANGFORD C. H.; 1999, 3nd. Edition; Oxford University Press.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "IQG354"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IQF243",
+      "Nome": "Processos Cinéticos",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Teoria cinética dos gases. Cinética química formal e mecanística.  Adsorção de gases em sólidos. Catálise homogênea e heterogênea.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MAC128"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IQG236",
+      "Nome": "Química Inorgânica Exp I - Iq",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenvolvimento de projetos de síntese e caracterização de compostos de coordenação.\nBibliografia básica\n1) Principles  of  Structure  and  Reactivityâ;  HUHEEY  J.  E.; KEITER E. A.; KEITER R. L.; 1993, 4th. Edition; HarperCollins College Publishers.\nBibliografia complementar\n1) Chemical Applications of Group Theoryâ; COTTON, F. A.; 1990, 3rd. Edition; John Wiley & Sons, Inc..\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:30 - 17:30",
+        "professor": "JULIANA MILANEZ"
+       }
+      ],
+      "Requisitos": [
+       "IQG354"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IQO249",
+      "Nome": "Métodos Fís Análise Orgânica",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Análise estrutural de compostos orgânicos por técnicas espectrométricas. Teoria básica, instrumentação, amostragem e análise de espectros de infravermelho, ressonância magnética nuclear de hidrogênio, ressonância magnética nuclear de carbono-13, ressonância magnética bidimensional HH e HC, ressonância magnética multinuclear de P-31 e F-19, ultravioleta-visível e espectrometria de massas de compostos orgânicos. Determinação estrutural a partir da combinação de técnicas espectrométricas de análise, com o emprego de tabelas de correlação.\n___BIBLIOGRAFIA BÁSICA___\n1) CPavia, D.L.; Lampman, G.M.; Kriz, G.S.; Vyvyan, J.R. Introdução a Espectroscopia. Cengage Learning., 2010, 700p.\n2) Silverstein, R.M.; Webster, F.X.; Kiemle, D.J. Identificação Espectrométrica de Compostos Orgânicos. 7a ed., LTC Editora, 2007, 490p.\n3) Harris, R.K.; Mann, B.E. NMR and the Periodic Table. Academic Press, 1978, 453p.\n4) K. Nakanishi Infrared Absorption Spectroscopy 2nd Edition, 1977.\n5) D.H. Williams, I. Fleming Spectroscopic Methods in Organic Chemistry 6th Edition, 2007.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "IQO234"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "8º Período": [
+     {
+      "Codigo": "IQB477",
+      "Nome": "Bioquimica - Lq",
+      "Créditos": "4.0",
+      "Teórica": "30",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução à Bioquímica - Células e Biomoléculas; Sistemas tamponantes do Organismo Humano; aminoácidos; peptídeos e proteínas; enzimas; nucleotídeos e ácidos nucléicos; bioenergética; respiração celular; glicídeos - estrutura e metabolismo; lipídeos - estrutura e metabolismo; fotossíntese; integração e regulação metabólica em mamíferos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "13:30 - 17:30",
+        "professor": "LEONARDO GOMES DA SILVA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "19:30 - 21:30",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "IQF350",
+       "IQO239"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IQG246",
+      "Nome": "Quimica Inorganica Exp II - Iq",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenvolvimento  de  projetos  de  síntese  e  caracterização  de  compostos  de coordenação.\nBibliografia básica\n1) HUHEEY  J.  E.;  KEITER  E.  A.;  KEITER  R.  L.;  4th. Edition;  HarperCollins  College  Publishers.  1993.\n2) SHRIVER  D.  F.,  ATKINS  P.  W., LANGFORD C. H.; 3nd. Edition; Oxford University Press. 1999.\nBibliografia  complementar\n1)  KOTZ  J.  C.,  PURCEL  K.  F.; (reimpresso  em 1987);  Holt-Saunders  International  Edition. 1977.\n2)  DOUGLAS  B.,  McDANIEL  D.  H., ALEXANDER J. J.; 3rd . Edition; John Wiley & Sons, Inc. 1994.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "17:30 - 21:30",
+        "professor": "WILLIAN TASSIO GOMES NOVATO"
+       }
+      ],
+      "Requisitos": [
+       "IQG364"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IQWX10",
+      "Nome": "Projeto Final de Curso",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "150",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O Projeto Final de Curso será desenvolvido na área de Química, sob orientação e responsabilidade de docente do Instituto de Química, podendo ser também especialista externo. O Professor Orientador externo deverá se cadastrar apresentando curriculum vitae na Secretaria do Curso. O Projeto Final de Curso tem como objetivo desenvolver no aluno capacitação para que, no futuro exercício da profissão, tenha instrumental para realização de pesquisa no campo da Química. O aluno poderá solicitar inscrição quando tiver 70 % dos créditos necessários à colação de grau.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IQA594",
+      "Nome": "Análise Instrumental IV",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Fundamentos da instrumentação e aplicação das técnicas analíticas: espectrometrias no IV, de RMN e de massas. Introdução a voltametria e as cromatografias em fase líquida e gasosa. Analisadores contínuos: medidas fisico-químicas e de composição de sistemas em fluxo.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "17:30 - 19:30",
+        "professor": "FERNANDO ARMANI AGUIAR"
+       },
+       {
+        "dia": "Qui",
+        "hora": "17:30 - 19:30",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "IQA481",
+       "IQA482"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IQF351",
+      "Nome": "Fenôme de Superfície e Eletroq",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Adsorção em superfícies líquidas. Tensão superficial. Dispersões coloidais. Interações moleculares.  Soluções de macromoléculas.  Propriedades elétricas e ópticas de macromoléculas e dispersões coloidais.  Termodinâmica dos processos de transporte.  Viscosidade.  Solução de eletrólitos.  Condução iônica.  Transporte em eletrodos.  Equilíbrio eletroquímico.  Pilhas eletroquímicas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "19:30 - 21:30",
+        "professor": "JORGE AMIM JUNIOR"
+       },
+       {
+        "dia": "Qua",
+        "hora": "19:30 - 21:30",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "IQF241"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IQWK03",
+      "Nome": "Seminário de Química II",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "10:00 - 12:00",
+        "professor": "JORGE AMIM JUNIOR"
+       }
+      ],
+      "Requisitos": [
+       "IQWK02"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "Disciplinas Optativas (Escolha Condicionada)": [
+     {
+      "Codigo": "MCQZ50",
+      "Nome": "Ativ Curricular Extensão - Bq",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "0",
+      "Extensão": "330",
+      "Informação": {
+       "Info": "Atuação em atividades de extensão registradas na Pró-Reitoria de Extensão da UFRJ, como programas, projetos, cursos de extensão e eventos, coordenados por docentes do quadro permanente ou técnicos da carreira de nível superior na UFRJ. Para eventos, a atuação deverá ser na organização ou na realização do evento. Para cursos, a atuação deve ser na organização ou ministrando aulas.\n___ BIBLIOGRAFIA BÁSICA ___\nBibliografia recomendada pelo coordenador da atividade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     }
+    ]
+   },
+   "obrigatorias": 41,
+   "eletivas": 1,
+   "ano": "2011/2 a 9999/9"
+  }
+ ]
+}

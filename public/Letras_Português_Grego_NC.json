@@ -1,0 +1,1148 @@
+{
+ "Letras: Português-Grego (NC)": [
+  {
+   "materias": {
+    "1º Período": [
+     {
+      "Codigo": "LEC160",
+      "Nome": "Introd Cult Rom e Morfol Latim",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Formação da língua latina. História de Roma, lenda e historiografia: o Lácio; Roma antiga; o legado de Roma. Os fonemas do Latim Clássico. O alfabeto latino. Pronúncia e Acentuação. Substantivos e adjetivos da primeira e segunda declinações. Morfossintaxe comparativa do latim e português. Casos latinos. Verbo: número, pessoa, tempo, modo e voz. Textos adaptados de autores latinos.\n___BIBLIOGRAFIA BÁSICA___\n1) AMARANTE, José. Latinitas. Leitura de texto em língua latina. 1 vol. Salvador: EDUFBA, 2015. https://repositorio.ufba.br/ri/handle/ri/17071.\n2) FARIA, Ernesto. Dicionário latino português. Rio de Janeiro: FAE, 1988. http://www.dominiopublico.gov.br/download/texto/me001612.pdf\n3) FUNARI, Pedro Paulo. Grécia e Roma. 2ª ed. São Paulo: Contexto, 2002. https://geopraxis.files.wordpress.com/2016/03/livro-grc3a9cia-e-roma.pdf\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "09:20 - 11:00",
+        "professor": "KATIA TEONIA COSTA DE AZEVEDO"
+       },
+       {
+        "dia": "Qui",
+        "hora": "09:20 - 11:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEL100",
+      "Nome": "Teoria Literária I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A cultura: arte, ciência, jogo, mito e ideologia. A constituição do fenômeno literário. A questão da temporalidade e da periodização literária. Teoria e crítica literária. O texto e a leitura: metodologias.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "20:00 - 22:00",
+        "professor": "MARCELO DINIZ MARTINS"
+       },
+       {
+        "dia": "Qui",
+        "hora": "20:00 - 22:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEWX01",
+      "Nome": "Atividades Complementares",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "200",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Participação em aula inaugural, congressos, colóquios, seminários (PIBIC e JIC), encontros acadêmicos, defesas de tese, realizados na Faculdade de Letras e na Faculdade de Educação a partir do 1º período letivo.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEC101",
+      "Nome": "Grego I",
+      "Créditos": "6.0",
+      "Teórica": "90",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Alfabeto e acentuação. A 1ª e2ª declinações. Verbo eînai. Verbos temáticos vocálicos: modo indicativo. Tradução de pequenos textos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "11:10 - 12:50",
+        "professor": "RICARDO DE SOUZA NOGUEIRA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "11:10 - 12:50",
+        "professor": "PEDRO DA SILVA BARBOSA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "11:10 - 12:50",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEF140",
+      "Nome": "Fundamentos da Linguística",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceito de lingüística. Linguagem e língua. Breve história da lingüística. Principais correntes da Lingüística. Relação entre a Lingüística e outras áreas. Aquisição da linguagem e habilidades cognitivas gerais.\n",
+       "BibliografiaBasica": "1) CAMARA JR., Mattoso. Dicionário de linguística e gramática. 11 ed. Petrópolis: Vozes, 1984;\n2) CAMARA JR., Mattoso. Princípios de linguística geral. Rio de Janeiro: Padrão, 1980;\n3) FIORIN, J. L. (org.). Introdução à linguística. São Paulo: Contexto, 2002;\n4) FROMKIN, V.; RODMAN, R. Introdução à linguagem. Coimbra: Almedina, 1993;\n5) FURTADO DA CUNHA, M. A.; RIOS DE OLIVEIRA, M.; MARTELOTTA, M. (orgs.). Linguística funcional: teoria e prática. Rio de Janeiro: DP&A, 2003;\n6) LANGACKER, R. A linguagem e sua estrutura. Petrópolis: Vozes, 1980;\n7) MARTELOTTA, M. Manual de linguística. São Paulo: Contexto, 2008;\n8) LYONS, J. Linguagem e linguística: uma introdução. Rio de Janeiro: Zahar, 1982;\n9) MOLLICA, Maria Cecília; BRAGA, Maria Luiza (orgs). Introdução à sociolinguística: o tratamento da variação. São Paulo: Contexto: 2003;\n10) MUSSALIM, F.; BENTES, A. C. (orgs.). Introdução à linguística: domínios e fronteiras. São Paulo: Cortez, 2001;\n11) PERINI. Sofrendo a gramática. São Paulo: Ática, 2000;\n12) ROBINS, R. H. Pequena história da linguística. Rio de Janeiro: Ao Livro Técnico, 1983;\n13) SAUSSURE, F. Curso de Linguística Geral. São Paulo: Cultrix, 2006.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "18:00 - 20:00",
+        "professor": "PRISCILLA MOUTA MARQUES"
+       },
+       {
+        "dia": "Qui",
+        "hora": "18:00 - 20:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEV113",
+      "Nome": "Produção Leitura Textos Lp",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Produção e interpretação de diferentes gêneros textuais.  O planejamento do texto: definição e organização do conteúdo.  A estrutura do texto: coesão, coerência.  Técnicas de expressão oral e escrita, nas diferentes modalidades da língua, tendo em vista, particularmente, o domínio das variedades cultas e mais formais do Português.  Redação acadêmico-científica.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "11:10 - 12:50",
+        "professor": "SILVIA RODRIGUES VIEIRA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "11:10 - 12:50",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "2º Período": [
+     {
+      "Codigo": "LEC105",
+      "Nome": "Grego II",
+      "Créditos": "6.0",
+      "Teórica": "90",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A 3ª declinação. Verbos temáticos vocálicos consonânticos: modo indicativo.  Sintaxe do artigo e do adjetivo. Tradução de pequenos textos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEC101"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEF150",
+      "Nome": "Fund de Análise Fonológica",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Campo da fonética e campo da fonologia. A fonética e suas aplicações. Fonética articulatória: mecanismos da fala, aparelho fonador, transcrição fonética e unidades supra-segmentais. Conceitos básicos em fonologia. Sistemas fonológicos: traços distintivos e sua função. Classes naturais. Processos fonológicos. Estrutura prosódica. Modelos de análise fonológica.\n",
+       "BibliografiaBasica": "1) BISOL, Leda (org.). Introdução a estudos de fonologia do português brasileiro. Porto Alegre: EDIPURCS, 1999;\n2) CAGLIARI, Luiz Carlos. Análise fonológica: introdução à teoria e à prática. Campinas: Mercado das Letras, 2002;\n3) CRYSTAL, David. Dicionário de linguística e fonética. Rio de Janeiro: Zahar, 1988;\n4) FIORIN, José Luiz (org.). Introdução à Linguística: princípios de análise. São Paulo: Contexto, 2003;\n5) MARTINS, Maria Raquel D. Ouvir falar: introdução à fonética do português. Lisboa: Caminho, 1987;\n6) MUSSALIN, F.; BENTES, A. C. (org.). Introdução à linguística: domínios e fronteiras. São Paulo: Cortez, 2000;\n7) SILVA, Thais Cristófaro. Fonética e Fonologia do português. São Paulo: Contexto, 2001;\n8) SILVA, Thais Cristófaro. Exercícios de Fonética e Fonologia. São Paulo: Contexto, 2003.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEF140"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEV100",
+      "Nome": "Variação em Língua Portuguesa",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A Língua Portuguesa no Brasil. A descrição lingüística: conceitos básicos. Situação histórico-cultural da Língua Portuguesa. Unidade e diversidade lingüística no Português do Brasil. Unidade e/ou pluralidade de normas. Problemas práticos de descriçção do português em função do ensino.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "EDF120",
+      "Nome": "Filos Educação Mundo Ocidental",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Contribuições das concepções filosóficas do século XX para a problemática educacional. O pensamento pedagógico brasileiro dos anos 1920 a 1980. Contribuições das concepções filosóficas para a problemática educacional. O pensamento pedagógico brasileiro à luz da filosofia da educação.\n",
+       "BibliografiaBasica": "1) ARISTÓTELES. A ética a Nicômacos. Trad. Mario da Gama Cury. Brasília, DF: EdUnb, 1985 (2ª ed).\n2) BRÉHIER, Émile. História da Filosofia. São Paulo: Mestre Jou, 1977, tomo II, fasc.4\n3) DURKHEIM, Emile. Educação e Sociologia. São Paulo: Edições 70, 2001.\n",
+       "BibliografiaComplementar": "1) JAEGER, Werner. Paidéia. São Paulo: Martins Fontes, 1995.\n2) MAZZOTTI, Tarso Bonilha, OLIVEIRA, Renato José de. O que você precisa saber em ciência (s) da educação. Rio de Janeiro: DPA, 2000.\n3) PLATÃO. República. Trad. Maria Helena Rocha. Lisboa: Fundação Calouste Gulbenkian, 1990 (6ª. ed.).\n4) ROUSSEAU, J. J. Emílio ou da educação. Trad. Roberto Leal Ferreira. São Paulo, SP: Martins Fontes, 2004 (3ª ed).\n5) GADOTTI, Moacir. Pensamento pedagógico brasileiro. São Paulo: Ática, 1991.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEC166",
+      "Nome": "Introd Orat Lat e Morfo Latim",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Substantivos e adjetivos da terceira, quarta e quinta declinações. Introdução à sintaxe dos casos latinos. Grau dos adjetivos. Pronomes relativos, demonstrativos e indefinidos. A voz passiva. Textos adaptados de autores latinos.\n___BIBLIOGRAFIA BÁSICA___\n1) AMARANTE, José. Latinitas. Leitura de texto em língua latina. 1 vol. Salvador: EDUFBA, 2015. https://repositorio.ufba.br/ri/handle/ri/17071.\n2) FARIA, Ernesto. Dicionário latino português. Rio de Janeiro: FAE, 1988. http://www.dominiopublico.gov.br/download/texto/me001612.pdf.\n3) FUNARI, Pedro Paulo. Grécia e Roma. 2ª ed. São Paulo: Contexto, 2002. https://geopraxis.files.wordpress.com/2016/03/livro-grc3a9cia-e-roma.pdf.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEC160"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEL110",
+      "Nome": "Teoria Literária II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Problematização dos gêneros literários. Visão diacrônica e conceitos básicos da teoria dos gêneros. A diversificação na obra literária. Estruturação e desestruturação dos gêneros.\n___Bibliografia Recomendada___\n1- ARISTÓTELES, Poética. Trad. Eudoro. São Paulo: Ars Poetica, 1993.\n2- FRIEDRICH, Hugo. Estrutura da lírica moderna (da metade do século XIX a meados do século XX). São Paulo: Duas Cidades, 1978.\n3- BAKHTIN, Mikhail. Questões de literatura e de estética: a teoria do romance. Trad. Aurora Fornoni Bernardini et al. São Paulo: Hucitec, 1990.\n4- VERNANT, Jean- Pierre e VIDAL-NAQUET, Pierre. Mito e tragédia na Grécia antiga. São Paulo: Perspectiva, 2011.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "3º Período": [
+     {
+      "Codigo": "LEC220",
+      "Nome": "Cultura Literária Grega",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Aspectos fundamentais da formação literária e da cultura helênica. Os gregos e o mito. A religião e o culto. Mito e literatura. Textos de apoio: Ilíada, Odisséia e Teogonia. A importância da literatura e da cultura helênica para a construção do pensamento crítico-literário.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "11:10 - 12:50",
+        "professor": "SIMONE DE OLIVEIRA GONCALVES BONDARCZUK"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEF240",
+      "Nome": "Fund de Análise Sintática",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Unidades mínimas da morfo-sintaxe. Categorização lexical. Ligação entre constituintes da sentença. Operação sintáticas básicas: juntar e mover. Traços morfológicos, concordância e caso. Interpretação composicional e idiomatização.\n",
+       "BibliografiaBasica": "1) FROMKIN, V.; RODMAN, R. Introdução à linguagem. Coimbra: Almedina, 1993;\n2) LYONS, J. Linguagem e linguística: uma introdução. Rio de Janeiro: Zahar, 1982;\n3) MIOTO, C., M. C. F. Silva; LOPES, R. E. V. Manual de sintaxe. Florianópolis: Editora Insular, 2000;\n4) PASSOS, C.; PASSOS, M. E. Princípios de uma gramática modular. São Paulo: Contexto, 1990;\n5) RAPOSO, E. Teoria da gramática. A faculdade da linguagem. Lisboa: Caminho, 1992;\n6) RIEMSDIJK, H.; WILLIANS, E. Introdução à teoria da gramática. São Paulo: Martins Fontes, 1991;\n7) ROSA, M. C. Introdução à Morfologia. São Paulo: Contexto, 2000.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEF140"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEL287",
+      "Nome": "Fund Cult Lit Brasileira",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Confluências: Discurso literário e sociedade. A controvérsia do conceito de cultura. Problematização do conceito de identidade nacional. Cultura Literária no Brasil.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEL100"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEC201",
+      "Nome": "Grego III",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Imperativo e subjuntivo: morfologia e sintaxe. Adjetivos. Tradução de pequenos textos extraidos da prosa ática.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEC105"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEC262",
+      "Nome": "Líng e Lit Latinas Poes Lírica",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Verbo: formação dos tempos do infectum e do perfectum do modo indicativo e subjuntivo; formas nominais do verbo e sua sobrevivência nas línguas românicas. Orações de infinitivo com acusativo (Orações subordinadas substantivas). introdução ao ablativo absoluto (Orações subordinadas adverbiais).Gerundivo (Orações adverbiais finais). Pronomes pessoais. Textos selecionados, originais e adaptados, de autores latinos. A poesia alexandrina e os Poetas Novos (Neotéricos).\n___BIBLIOGRAFIA BÁSICA___\n1) AMARANTE, José. Latinitas. Leitura de texto em língua latina. 2º vol. Salvador: EDUFBA, 2015. https://repositorio.ufba.br/ri/handle/ri/17071.\n2) MARTINS, Paulo. Literatura Latina. Curitiba: IESDE, 2009. https://www.passeidireto.com/arquivos/22786477/literatura-latina-paulo-martins.\n3) SARAIVA, Francisco Rodrigues dos Santos. Novissimo diccionario latino-portuguez. 7ª edição. Rio de Janeiro: Garnier, 1910. https://archive.org/stream/F.rDosSantosSaraivaNoviss.Dic.LatinoPortuguez/NovissimoDiccionarioLatino-Portuguez#page/n0/mode/2up.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEC166"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEL230",
+      "Nome": "Teoria Literária III",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O curso de Teoria Literária III apresenta reflexões teóricas e críticas que vêm orientando a discussão da literatura a partir da modernidade, discutindo-as e problematizando-as. Retoma-se alguns conceitos e problemas clássicos da teoria, como mimesis,autoria, julgamento estético, realismo, ficcionalidade, negatividade, entre outros, contextualizando-os e atualizando-os frente à experiência histórica e às especificidades dos séculos XIX, XX e XXI.\n___Bibliografia Recomendada___\n1- ADORNO, Theodor. Notas de literatura I. São Paulo: Editora 34, 2003.\n2- BARTHES, Roland. A preparação do  romance: volume 1. Da vida à obra. São Paulo: Martins Fontes, 2005.\n3- CANDIDO, Antonio. O discurso e a cidade. São Paulo: Livraria Duas Cidades, 1993.\n4- DELEUZE, Gilles. Crítica e clínica. Tradução de Peter Pál Pebart. São Paulo: Ed. 34, 1997.\n5- FOUCALT,  Michel. As palavras e as coisas. Trad. Salma Tannus Muchail. 10 ed. São Paulo: Martins Fontes.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEV112",
+      "Nome": "Fonologia da Língua Portuguesa",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Fonética e fonologia sincrônicas do Português do Brasil. Conceitos básicos. Vocalismo, consonantismo e prosódia. Processos fonético-fonológicos. Variação e mudança.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEV100",
+       "LEV113"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "4º Período": [
+     {
+      "Codigo": "LEC242",
+      "Nome": "Literatura Grega I",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O conhecimento e a compreensão da poesia narrativa, destacando os seguintes aspectos: A epopéia homérica e o ciclo heróico. A renovação do genêro épico no período alexandrino: Apolônio de Rhodes. Aplicação dos conhecimentos literários no ensino de língua e literatura grega e na pesquisa.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEC201",
+       "LEC220"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEF244",
+      "Nome": "Linguística e Suas Aplicações",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Lingüística aplicada ao ensino de línguas. Variações linguísticas. Conceito de língua padrão. O ensino do português como língua materna. O ensino de línguas estrangeiras.\n",
+       "BibliografiaBasica": "1) ANTUNES, I. Lutas com palavras: coesão e coerência. São Paulo: Parábola Editorial, 2005;\n2) BÁRBARA, L.; ROSINDA, R. (orgs.). Reflexão e ações no ensino aprendizagem de línguas. Campinas: Mercado das Letras, 2003;\n3) BRAGA, M. L.; MOLLICA, M. C. (orgs.). Introdução à sociolinguística varicionisa: o tratamento da variação. São Paulo: Contexto, 2010;\n4) BRAGA, M. L. É um problema de visão para perto, inevitável após os 40 anos de idade, onde o indivíduo tem dificuldades para ver imagem próximas. Onde em remitências anafóricas a categorias não locativas. Linguística, v. 3, nº 1, 2007, p. 117-132;\n5) BORTONI-RICARDO, S. M. A sociolinguística na sala de aula. São Paulo: Parábola Editorial, 2004;\n6) DECAT, B. A relevância da investigação dos processos linguísticos, numa abordagem funcionalista, para os estudos sobre os gêneros textuais. In: Juliano Desiderato Antônio (org.). Estudos descritivos do português. São Carlos: Editora Claraluz, 2008;\n7) FARACO, C. A. Linguística Histórica: uma introdução ao estudo da história das línguas. São Paulo: Ática, 1991;\n8) KOCH, I. V.; ELIAS, V. M. Ler e escrever. Estratégias de produção textual. São Paulo: Contexto, 2009;\n9) LEAL, M.; MOLLICA, M. C. Letramento em EJA. São Paulo: Parábola Editorial, 2009;\n10) MARCUSCHI, L. A. Da fala para a escrita: atividades de retextualização. São Paulo: Cortez, 2001;\n11) MARCUSCHI, L. A. Produção textual, análise de gêneros e compreensão. São Paulo: Parábola Editorial, 2008;\n12) MOLLICA, M. C. (org.). Linguagem para a formação das Letras, Educação e Fonoaudiologia. São Paulo: Contexto, 2009;\n13) MOLLICA, M. C. M.; LEAL, Marisa. Crenças e atitudes no aprendizado do português e da matemática no âmbito escolar. Caderno de Letras da UFF, v. 36, 2008, p. 95-113;\n14) PAIVA, M. C. A variável gênero/sexo. In: MOLLICA, M. C.; BRAGA, M. L. (orgs.). Introdução à sociolinguística: o tratamento da variação. São Paulo: Contexto, 2004;\n15) PAREDES, V. L. Continuidade de referência: nomes, pronomes e anáfora zero em gêneros da fala e da escrita. Linguística, v. 3, nº 1, 2007, p. 159-178;\n16) RIOS DE OLIVEIRA, M.; CEZARIO, M. M. PCN à luz do funcionalismo linguístico. Linguagem e ensino. v. 10, nº 1, 2007, p. 98-108;\n17) VOTRE, S.; CEZARIO, M. M. Sociolinguística. In: MARTELOTTA, M. (org.). Manual de Linguística. São Paulo: Contexto, 2008.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEF140"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEV200",
+      "Nome": "Morfologia Língua Portuguesa",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Morfologia sincrônica do Português. Descrição dos mecanismos flexionais e derivacionais do português: perspectiva morfofonêmica. Os macanismos de organização paradigmática e sintagmática do português. O estudo do léxico, das espécies de vocábulos, características combinatórias e sua constituição. As categorias gramaticais. Processos de formação de palavras.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEV100",
+       "LEV113"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEC211",
+      "Nome": "Grego IV",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Optativo. Formas nominais do verbo: Morfologia e sintaxe. Tradução da prosa Ática e das fábulas de Esopo.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEC201"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEC266",
+      "Nome": "Líng e Lit Latinas Narrativa",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O verbo: subjuntivo e imperativo. Particípios. Orações reduzidas de infinitivo. A interrogação direta e a indireta. O período subordinado. Textos selecionados de autores latinos. Elementos estruturadores do gênero narrativo.\n___BIBLIOGRAFIA BÁSICA___\n1) AMARANTE, José. Latinitas. Leitura de texto em língua latina. 2º vol. Salvador: EDUFBA, 2015. https://repositorio.ufba.br/ri/handle/ri/17071.\n2) MARTINS, Paulo. Literatura Latina. Curitiba: IESDE, 2009. https://www.passeidireto.com/arquivos/22786477/literatura-latina-paulo-martins.\n3) SARAIVA, Francisco Rodrigues dos Santos. Novissimo diccionario latino-portuguez. 7ª edição. Rio de Janeiro: Garnier, 1910. https://archive.org/stream/F.rDosSantosSaraivaNoviss.Dic.LatinoPortuguez/NovissimoDiccionarioLatino-Portuguez#page/n0/mode/2up.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEC262"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEL236",
+      "Nome": "Literatura Comparada",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo do conceito de comparatismo a partir de tendências teóricas contemporâneas e de estudos coloniais. Leitura de textos literários fundadores e autores decisivos para arte da modernidade. Reflexão crítica sobre a literatura em suas relações cm diferentes formas artísticas e manifestações estéticas de outras áreas do conhecimento.\n___Bibliografia Recomendada___\n1- AUERBACH, Erich. Mimesis- A representação da realidade na literatura ocidental. 6ª ed. São Paulo: Perspectiva, 2015.\n2- BAKTIN, Mikhail. A cultura popular na Idade Média e no Renascimento. São Paulo: Hucitec, 2010.\n3- BELTING, Hans. O fim da História da Arte. São Paulo: CosacNaify, 2012.\n4- CASANOVA, Pascale. A república mundial das letras. São Paulo: Estação liberdade, 2002.\n5- COUTINHO, Eduardo e  CARVALHAL, Tânia (org). Literatura comparada.Textos fundadores Rio de Janeiro: Rocco, 1994.\n6- COUTINHO, Eduardo. Literatura comparada. Reflexões. rio de Janeiro: Annablume, 2013.\n7- SAID, Edward W. Orientalismo. O oriente como invenção do ocidente. São Paulo: Companhia das Letras, 1990\n8- SARTRE. Jean-Paul. Prefácio. In: FANON, Frantz. Os condenados da terra. Trad. J. L. de Melo. Rio de Janeiro: Civilização Brasileira, 1968.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "5º Período": [
+     {
+      "Codigo": "LEC312",
+      "Nome": "Literatura Grega II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A poesia lírica do período arcaico e suas características.  A elegia, o iambo e a lírica monódica e coral.  Ressurgimento da lírica no período helenístico: Calímaco e Teócrito.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEC211",
+       "LEC242"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEV308",
+      "Nome": "Literatura Bras I - Poesia",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das tendências estético-literárias da poesia brasileira, de suas origens até os dias atuais, por meio de seus mais representativos autores e/ou obras.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEC301",
+      "Nome": "Grego V",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Morfologia: verbos atemáticos e irregulares. Sintaxe do nominativo, vocativo e acusativo. Tradução de excertos de prosadores áticos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEC211"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEV210",
+      "Nome": "Morfossintaxe Líng Portuguesa",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Morfossintaxe sincrônica do Português. O vocábulo, sua classe e função. A classificação por critérios (mórfico, semântico e sintático). A estrutura interna dos sintagmas do português: suas classses e funções. Níveis de hierarquia sintática. Mecanismos de organização sintática. Mecanismos de organização da frase, sobretudo em padrão oracional. A estrutura do sujeito e do predicado. Regência, concordância, colocação.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEV100",
+       "LEV113"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEV343",
+      "Nome": "Poesia Portuguesa",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo da poesia portuguesa através de autores e momentos literários fundadores; lírica trovadoresca de Luis de Camões, Almeida Garrett, Cesário Verde, Florbela Espanca, Fernando Pessoa, Jorge de Sena e Sophia de Mello Breyner Andresen, entre outros.  Visão panorâmica da poesia portuguesa das origens a contemporaneidade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "6º Período": [
+     {
+      "Codigo": "LEC341",
+      "Nome": "Literatura Grega III",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Periodo atico:a filosofia e a retorica. A sofisticae sua influencia ideologica e metodologica na filosofia e na retorica aticas. A arte retorica em sua maturidade: generos e epigonos. A filosofia atica antropocentrica. O socratismo e a filosofia moral anti-sofistica. Platao, o platonismo e a Academia. Aristoteles, os peripateticos e o Liceu. Textos para interpretacao e pesquisa.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEV309",
+      "Nome": "Literatura Bras II - Ficção",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das tendências estético-literárias da prosa de ficção brasileira, de suas origens até os dias atuais, por meio de seus mais representativos autores e/ou obras.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEC304",
+      "Nome": "Grego VI",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Morfologia e irregularidades da conjugacao; numerais e palavras invariaveis. Pronomes: estruturas sintaticas especiais do atico-classico. Textos para traduzir; excertos de prosadores aticos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEC301"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEV300",
+      "Nome": "Sintaxe da Língua Portuguesa",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Sintaxe sincrônica do português. Padrões oracionais. Coordenação e subordinação. Perpectivas de tratamento sintático descritivo e critérios de análise, com base em textos teóricos. Variação sintática.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEV100",
+       "LEV113",
+       "LEV210"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEV450",
+      "Nome": "Narrativa Portuguesa",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo da narrativa portuguesa dos séculos XIX e XX. O romance histórico e sua releitura, a autoreferencialidade narrativa, o realismo como representação / reinvenção do real.  A literatura feminina.  Intertextualidade e pós-modernidade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "7º Período": [
+     {
+      "Codigo": "LEC472",
+      "Nome": "Grego VII",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conhecimento primorado acerca da subordinação do grego clássico e compreensão da diversidade dialetal presente na língua grega.  Leitura e interpretação e tradução de excertos da Apologia de Platão, da Odisséia de Homero e da História de Heródoto.  Aplicação de conhecimentos linguísticos na pesquisa e no ensino.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEC304"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEV417",
+      "Nome": "Temas e Problemas da Lit Bras",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "07:30 - 09:10",
+        "professor": "LAISE RIBAS BASTOS"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEC402",
+      "Nome": "Literatura Grega IV",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A prosa filosófica do período ático.  Os diálogos platônicos: o livro X da República.  A Poética e a Retórica de Aristóteles.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEC304",
+       "LEC341"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEV400",
+      "Nome": "Semântica da Língua Portuguesa",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Semântica e lexicologia da língua portuguesa. Análise do significado das formas nos níveis paradigmático. Relações semânticas no nível vocábulo, da frase e do discurso. Teorias do texto.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEV100",
+       "LEV113",
+       "LEV200",
+       "LEV210",
+       "LEV300"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEWK01",
+      "Nome": "Monografia",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Apresentação e discussão do conceito de pesquisa em geral e de diferentes tipos de questões de pesquisa em ensino de Letras. Estudo bibliográfico e participação em coleta de dados de pesquisa em andamento. Elaboração de um projeto de pesquisa incluindo todas as etapas metodológicas desde a formulação de hipóteses ou perguntas de pesquisa, passando pelo aprofundamento bibliográfico, coleta e análise de dados, até a redação final do trabalho.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sab",
+        "hora": "08:00 - 10:00",
+        "professor": "ROGERIO CASANOVAS TILIO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "8º Período": [
+     {
+      "Codigo": "LEC440",
+      "Nome": "Literatura Grega V",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEC402",
+       "LEC472"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEC400",
+      "Nome": "Grego VIII",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEC472"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "LEV310",
+      "Nome": "História da Língua Portuguesa",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "História externa e interna da Língua Potuguesa. Origem e formação. Aspectos da fonologia, morfologia e sintaxe. O léxico. Estudo de textos representativos de diferentes fases da língua.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEV100",
+       "LEV112",
+       "LEV113"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "Disciplinas Optativas (Escolha Restrita)": [
+     {
+      "Codigo": "LEG014",
+      "Nome": "Inglês Instrumental II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Leitura, compreensão e produção de diferentes tipos de resumo em português (em forma de diagrama, tópicos, quadros, anotações em forma de lista ou prosa) de textos acadêmicos escritos em inglês. Discussão sobre a seletividade da informação e o contexto de uso. Reflexão e discussão crítica sobre o uso de resumos na vida acadêmica.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEG013"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEG016",
+      "Nome": "Alemão Instrumental II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Aprofundamento da interação entre o aprendiz/leitor e textos em língua alemã, iniciada na disicplina Alemão Instrumental I, capacitando o aprendiz/leitor a reproduzir, através de seu próprio texto em língua materna, as idéias básicas dos textos estudados.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEG015"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEN028",
+      "Nome": "Frances Instrumental II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Elementos gramaticais e lexicais necessários à leitura e interpretação de textos em língua francesa. O Texto: características tipológicas\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEN027"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEN030",
+      "Nome": "Espanhol Instrumental II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Aspectos cognitivos da compreensão e leitura de textos. Compreensão escrita de textos em espanhol, trabalho sistemático com as diferenças das duas línguas a partir da leitura de textos técnicos expositivos e argumentativos. Formas de tratamento, sistema pronominal, uso de voz passiva e de formas impessoais, marcas da subjetividade no discurso: tempos verbais e modalizadores, nexos de articulação textual estratégias de persuasão. Exercícios de tradução e versão. Vocabulário técnico específico, no caso de arte, cultura e literatura.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEN029"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEN032",
+      "Nome": "Italiano Instrumental II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Análise de textos em língua italiana. Estudo dos aspectos discursivos e gramaticais: conectivos, dêiticos, coordenação e subordinação. Compreensão textual e estudo do vocabulário. Coesão e coerência em língua italiana.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEN031"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEO008",
+      "Nome": "Árabe Instrumental II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Compreensão escrita em árabe: Introdução aos aspectos cognitivos da compreensão e leitura de pequenos textos. O processo de leitura como interação.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEO007"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEO012",
+      "Nome": "Russo Instrumental II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Fonética, Morfologia, Sintaxe da língua russa.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "LEO011"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEG013",
+      "Nome": "Inglês Instrumental I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Leitura e interpretação de textos de livros e revistas com assunto acadêmico escritos em inglês,  tendo em vista desenvolver no aluno habilidade e o uso de conhecimentos e estratégias de leitura. Redefinição do conceito de texto. Redefinição do conceito de leitura; propósitos de leitura explícitos e implícitos; o contexto de uso. Conscientização e uso de estratégias de leitura. Reconhecimento e desenvolvimento de vocabulário. O gênero e a estrutura textual.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEG015",
+      "Nome": "Alemão Instrumental I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Através da conscientização do processo de leitura, das estratégias de aprendizagem, da ativação do conhecimento prévio do aprendiz e do conhecimento de estruturas da língua alemã, pretende-se propiciar ao aprendiz condições de interagir com textos escritos autênticos, de cunho informativo sobre o contexto acadêmico, produzidos em língua alemã.  Esta interação resultará no desenvolvimento da habilidade da compreensão dos gêneros discursivos encontrados na área.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEN027",
+      "Nome": "Frances Instrumental I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Elementos gramaticais e lexicais necessários à compreensão de textos sobre assuntos de interesse geral em língua francesa.  Da leitura para compreensão global à leitura proficiente.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEN029",
+      "Nome": "Espanhol Instrumental I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Compreensão escrita em espanhol: introdução aos aspectos cognitivos da compreensão e leitura de textos. O processo de leitura como interação.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEN031",
+      "Nome": "Italiano Instrumental I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Situações de leitura e de práticas discursivas em língua estrangeira. Estudo do vocabulário em língua italiana. Coesão e coerência textuais. Compreensão de conteúdos referentes a diversos temas propostos. Análise das estruturas gramaticais e sintáticas da língua italiana: adjetivos, pronomes, verbos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEO007",
+      "Nome": "Árabe Instrumental I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Compreensão escrita em árabe: Introdução aos aspectos cognitivos da compreensão e leitura de pequenos textos. O processo de leitura como interação.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEO011",
+      "Nome": "Russo Instrumental I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Fonética,  Morfologia, Sintaxe da língua russa.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     }
+    ]
+   },
+   "obrigatorias": 43,
+   "eletivas": 14,
+   "ano": "2010/1 a 9999/9"
+  }
+ ]
+}

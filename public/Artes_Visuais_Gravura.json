@@ -1,0 +1,2981 @@
+{
+ "Artes Visuais - Gravura": [
+  {
+   "materias": {
+    "1º Período": [
+     {
+      "Codigo": "BAF103",
+      "Nome": "Desenho Anatômico I",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Proporções e relações do corpo humano; nomenclatura básica da osteologia; desenho do esqueleto dando o conhecimento da forma, estrutura e função das partes que constituem a cabeça; tronco e membros.\n___Bibliografia Recomendada___\n1- BRIDGMAN, George B. Bridgman's complete guide to drawing from life. New York: Sterling Publishing Company, Inc., 2009.\n2- GORDON, Louise. Desenho anatómico. Lisboa: Presença; [São Paulo]: Martins Fontes, 1980.\n3- LOOMIS, Andrew. Figure drawing for all it?s work. New York: The Viking Press, 1944.\n4- PERARD, Victor. Desenho e anatomia. Rio de Janeiro: Ediouro, [s.d.].\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "09:00 - 12:00",
+        "professor": "JOSE SALMO DANSA DE ALENCAR"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH101",
+      "Nome": "História da Arte I",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo do fenômeno e da representações artísticas da Pré-História ao Século XIV, em seus aspectos conceituais, históricos e culturais. Do Paleolítico ao Gótico.\n___BIBLIOGRAFIA BÁSICA___\n1- ARGAN, Giulio Carlo. História da arte italiana. Da Antiguidade a Duccio. São Paulo: Editora Cosac e Naify, 2003.\n2- BELL, Julian. Uma nova história da arte. São Paulo: Editora Martins Fontes, 2008.\n3- JANSON, Horst Woldemar. História geral da arte (Vol. I): O Mundo Antigo e a Idade Média. São Paulo: Martins Fontes, 2001.\n4- WOODFORD, Susan. A arte de ver a arte. Rio de Janeiro: Zahar, 1983.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1- GOMBRICH. E.H. A História da arte. Rio de Janeiro: LTC, 2011.\n2- JANSON, H. W. História da arte. Lisboa: Fundação Calouse Gulbenkian,  1989.\n3- LISE, Giorgio. Como reconhecer a arte egípcia. Lisboa: Edições 70, 1985.\n4- SHAVER-CRANDELL, Anne. A idade média. Rio de Janeiro: Zahar, 1984.\n5- TARELLA, Alda. Como reconhecer a arte romana. Lisboa: edições 70, 1988.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "14:00 - 17:00",
+        "professor": "HELENISE MONTEIRO GUIMARAES"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAR101",
+      "Nome": "Geometria Descritiva I",
+      "Créditos": "4.0",
+      "Teórica": "30",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Fundamentos e técnicas do sistema triedrico e cotado de representação, tomando por modelo o espaço métrico euclidiano. As transformações descritivas das imagens convencionais dos sólidos poliédrico e a resolução de sua problemática básica (seções, interseções, geodésicas).\n___Bibliografia Recomendada___\n1) BUSTAMANTE, Léa Santos. Metodologia dos Sistemas Projetivos. RJ . Ed Bahiense.\n2) _______________________. Transformações Projetivas. Sistemas Projetivos. RJ . Ed Bahiense.\n3) PINHEIRO, V. Athayde. Noções de Geometria Descritiva. V.I, II e III. RJ. Ao livro Técnico Ltda.\n4) RODRIGUES. Alvaro J. Geometria Descritiva. V II. RJ. Imprensa Nacional.\n___Bibliografia Complementar___\n1) Príncipe Júnior, Alfredo de Reis. Noções de Geometria Descritiva I. São Paulo, Nobel, 1984.\n2) Príncipe Júnior, Alfredo de Reis. Noções de Geometria Descritiva II. São Paulo, Nobel, 1984.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAF101",
+      "Nome": "Desenho Artístico I",
+      "Créditos": "4.0",
+      "Teórica": "0",
+      "Prática": "135",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenho de observação a partir de sólidos geométricos, com ensinamentos teóricos e exercícios práticos de observação e percepção do campo visual, análise estrutural da forma e iniciação ao processo de criação.\n___Bibliografia Recomendada___\n1- OSTROWER, Fayga. Universos da Arte. Campinas: UNICAMP, 2013.\n2- PEDROSA, Israel. Da cor à cor inexistente. Rio de Janeiro: Senac Nacional, 2009.\n3- PIGNATTI, Terisio. O desenho: de Altamira a Picasso. São Paulo: Abril, 1982.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 16:00",
+        "professor": "LUCIANA MAIA COUTINHO"
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 16:00",
+        "professor": ""
+       },
+       {
+        "dia": "Sex",
+        "hora": "13:00 - 16:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAF104",
+      "Nome": "Plástica I",
+      "Créditos": "3.0",
+      "Teórica": "0",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenvolver o sentimento da forma tridimensional ao mesmo tempo que promove conhecimentos técnicos do trabalho executado em diferentes materiais. Estuda questões estético-plásticas relacionados à composição, além das modalidades diversas de interpretação da forma, em volume e espaço.\n___Bibliografia Recomendada___\n1- KRAUSS, Rosalind. Caminhos da escultura moderna. São Paulo: Martins Fontes, 2001.\n2- WONG, Wucius. Princípios de Forma e desenho. São Paulo: Martins Fontes, 2001.\n3- BRITO, Ronaldo. Neoconcretismo: vértice e ruptura do projeto construtivo brasileiro. São Paulo: Cosac Naify, 2007.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "14:00 - 17:00",
+        "professor": "LEONARDO ETERO PACHECO AULER COIMBRA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "09:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH102",
+      "Nome": "Teoria da Percepção",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "As teorias contemporâneas da percepção visual relacionadas com a criação artística.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "2º Período": [
+     {
+      "Codigo": "BAF107",
+      "Nome": "Desenho Anatômico II",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenvolver a disciplina anterior, oferecendo conhecimentos científicos auxiliares para a realização de obras realistas. Informa sobre proporções, equilíbrios, movimento e expressão na figura humana.\n___Bibliografia Recomendada___\n1- BRIDGMAN, George B. Bridgman's complete guide to drawing from life. New York: Sterling Publishing Company, Inc., 2009.\n2- GORDON, Louise. Desenho anatómico. Lisboa: Presença; [São Paulo]: Martins Fontes, 1980.\n3- LOOMIS, Andrew. Figure drawing for all it?s work. New York: The Viking Press, 1944.\n4- PERARD, Victor. Desenho e anatomia. Rio de Janeiro: Ediouro, [s.d.].\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAF103"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH104",
+      "Nome": "História da Arte II",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das Artes Visuais nos Séculos XV ao XVII, em seus aspectos conceituais, históricos e historiográficos. Do Renascimento ao Neoclássico.\n___BIBLIOGRAFIA BÁSICA___\n1- ARGAN, Giulio Carlo. Clássico e anticlássico. São Paulo: Companhia das Letras, 1999.\n2- ARGAN, Guilio Carlo. Imagem e persuasão. São Paulo: Companhia das Letras, 2004.\n3- ARGAN, Guilio Carlo. História da arte italiana. São Paulo: Cosac & Naify, 2003. v. 2 e 3.\n4- BAETA, Rodrigo Espinha. Teoria do Barroco. Salvador: EDUFBA-PPGAU, 2012.\n5- JANSON, H.W. História da arte. 9ª ed. Lisboa: Fundação Calouste Gulbenkian, 2010.\n___BIBLIOGRAFIA COMPLEMENTAR____\n1- HAUSER, Arnold. História social da literatura e da arte. São Paulo: Martins Fontes, 2003.\n2- OLIVEIRA, Myriam Andrade Ribeiro de. O rococó religioso no Brasil. São Paulo: Cosac & Naify, 2003.\n3- PEVSNER, Nikolaus. Panorama da arquitetura ocidental. São Paulo: Martins Fontes, 19¬¬82.\n4- SILVA, Jorge Henrique Pais da. Estudos sobre o maneirismo. Lisboa: Imprensa Universitária, 1983.\n5- WÖLFFLIN, Heinrich. Renascença e Barroco. São Paulo: Editora perspectiva, 1989.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "14:00 - 17:00",
+        "professor": "MARCUS VINICIUS DE PAULA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAR102",
+      "Nome": "Geometria Descritiva II",
+      "Créditos": "4.0",
+      "Teórica": "30",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Curvas em geral: classificações, estudo projetivo, curvas planas.Superfícies em geral: superfícies de revolução, representação pelas projeções de monge. Tratamento descritivo em problemas práticos.\n___Bibliografia Recomendada___\n1) BUSTAMANTE, Léa Santos. Metodologia dos Sistemas Projetivos. RJ . Ed Bahiense.\n2) _______________________. Transformações Projetivas. Sistemas Projetivos. RJ . Ed Bahiense.\n3) PINHEIRO, V. Athayde. Noções de Geometria Descritiva. V.I, II e III. RJ. Ao livro Técnico Ltda.\n4) RODRIGUES. Alvaro J. Geometria Descritiva. V II. RJ. Imprensa Nacional.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAR101"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAF105",
+      "Nome": "Desenho Artístico II",
+      "Créditos": "4.0",
+      "Teórica": "0",
+      "Prática": "135",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Instrumental teórico e prático para a análise, representação e composição bidimensional. Observação visual de formas naturais e artificiais. Apresentação de materiais e técnicas de desenho. Estudos da cor.\n___Bibliografia Recomendada___\n1- BAXANDALL, M. Sombras e luzes. São Paulo: EDUSP, 1997.\n2- COLI, J. O que é a arte?. São Paulo: Editora Brasiliense, 2006.\n3- DONDIS, Donis A. Sintaxe da Linguagem Visual. São Paulo: Martins Fontes, 2007.\n4- OSTROWER, F. Acasos e criação artística. Rio de Janeiro: Editora Campus, 1990.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "14:00 - 17:00",
+        "professor": "MAYARA LISTA ALCANTARA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "14:00 - 17:00",
+        "professor": ""
+       },
+       {
+        "dia": "Sex",
+        "hora": "14:00 - 17:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "BAF101"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAF108",
+      "Nome": "Plástica II",
+      "Créditos": "3.0",
+      "Teórica": "0",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Ampliar os conhecimentos estéticos plásticos, anteriormente adquiridos informando sobre novas técnicas de trabalho e interessando o aluno na execução de maquetes, em diversos materiais, estimula a imaginação e a autocrítica..\n___Bibliografia Recomendada___\n1- BRITO, Ronaldo. Neoconcretismo: vértice e ruptura do projeto construtivo brasileiro. São Paulo: Cosac Naify, 2007.\n2- KRAUSS, Rosalind. Caminhos da escultura moderna. São Paulo: Martins Fontes, 2001.\n2- WONG, Wucius. Princípios de Forma e desenho. São Paulo: Martins Fontes, 2001.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 16:00",
+        "professor": "LEONARDO ETERO PACHECO AULER COIMBRA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "09:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "BAF104"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH105",
+      "Nome": "Teoria da Informacao",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A informacao e a comunicacao: ambito e objetivos. Processo de comunicacao. A comunicacao e os sistemas sociais. Importancia das artes plasticas no processo de comunicacao. Aplicacao dos principios esteticos na comunicacao.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAH102"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "3º Período": [
+     {
+      "Codigo": "BAF202",
+      "Nome": "Criação da Forma I",
+      "Créditos": "4.0",
+      "Teórica": "15",
+      "Prática": "75",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O que é a forma ? como conceituá-la, como obtê-la, quais as suas características. Elementos conceituais, elementos visuais, elementos de relação. Forma bidimensional e tridimensional. Luz e sombra. Formas naturais e artificiais. Forma como volume. Forma e estrutura. Módulos.\n___ BIBLIOGRAFIA BÁSICA ___\n1- ARNHEIM, Rudolf. Arte e percepção visual: uma psicologia da visão criadora. São Paulo: Cengage Learning, 2008.\n2- DONDIS, Donis. Sintaxe da linguagem visual. São Paulo: Martins Fontes, 2007.\n3- MANGUEL, Alberto. Lendo imagens: uma história de amor e ódio. São Paulo: Companhia das Letras, 2001.\n4- WONG, Wucius. Princípios de forma e desenho. São Paulo: WMF Martins Fontes, 2010.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "09:00 - 12:00",
+        "professor": "MARIA DA GRACA MUNIZ LIMA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "09:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH204",
+      "Nome": "Estética I",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O pensamento estético e a noção de belo; Aristóteles, Platão. A estética helenística e greco romana. O médio e extremo oriente. Estética Cristã; Idade Média e Renascimento.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAF201",
+      "Nome": "Desenho Artístico III",
+      "Créditos": "3.0",
+      "Teórica": "0",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O desenho como realização final. Os problemas da criação artística através do desenho. As deformações expressivas e a composição. Exercícios de aplicação dos diferentes processos do desenho.\n___Bibliografia Recomendada___\n1- CARERI, Francesco. Walkscape: O caminhar como prática estética. São Paulo: Ed. G.Gili, 2013.\n2- CAUQUELIN, Anne. Arte contemporânea: uma introdução. São Paulo: Martins, 2005.\n3- FERREIRA, Glória e COTRIM, Cecília (Org.). Clement Greenberg e o debate crítico. Rio de Janeiro: Jorge Zahar, 2001.\n4- OSTROWER, Fayga. Universos da Arte. Campinas: UNICAMP, 2013.\n5- STANGOS, Nikos (Org.). Conceitos da Arte Moderna. Rio de Janeiro: Jorge Zahar, 1991.\n6- PIGNATTI, Terisio. O desenho: de Altamira a Picasso. São Paulo: Abril, 1982.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 16:00",
+        "professor": "MARCIA YOKO LUCENA NISHIO"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 16:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "BAF105"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH201",
+      "Nome": "História da Arte III",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das Artes Visuais nos Séculos XIX ao XX, em seus aspectos conceituais, históricos e historiográficos. Do Romantismo às Vanguardas Históricas.\n___BIBLIOGRAFIA BÁSICA___\n1- ARGAN, Giulio Carlo. Arte Moderna. São Paulo: Cia das Letras, 2004.\n2- ARGAN, Guilio Carlo. A arte moderna da Europa: de Hogarth a Picasso. São Paulo: Cia. Das Letras, 2010.\n3- HAUSER, Arnold. História social da literatura e da arte. São Paulo: Martins Fontes, 2003.\n4- JANSON, H.W. História da arte. 9ª ed. Lisboa: Fundação Calouste Gulbenkian, 2010.\n5- PEVSNER, Nikolaus. Panorama da arquitetura ocidental. São Paulo: Martins Fontes, 19¬¬82.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1- FABRIS, Annateresa (org). O ecletismo na arquitetura brasileira. São Paulo: Edusp, 1987.\n2- GIEDION, Siegfried. Espaço, tempo e arquitetura: o desenvolvimento de uma nova tradição. São Paulo: Martins Fontes, 2004.\n3- KELLY, C. et alii. Século XIX: o romantismo. Rio de Janeiro: Museu Nacional de Belas Artes, 1979.\n4- REYNOLDS, Donald. A arte do século XIX. Rio de Janeiro: Zahar editores, 1986.\n5- PEVSNER, Nikolaus. Pioneiros do desenho moderno. São Paulo: Martins Fontes, 1995.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "14:00 - 17:00",
+        "professor": "CLARISSA DINIZ DE MOURA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "4º Período": [
+     {
+      "Codigo": "BAF205",
+      "Nome": "Modelo Vivo I",
+      "Créditos": "3.0",
+      "Teórica": "0",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenho de observação da estrutura da forma no espaço com seus atributos de ritmo, volumes e proporção. Percepção da linha e suas possibilidades expressivas e do claro-escuro.\n___Bibliografia Recomendada___\n1- ARNHEIM, Rudolf. Arte e percepção visual: uma psicologia da visão criadora. São Paulo: Cengage Learning, 2011.\n2- ARNHEIM, Rudolf. Intuição e intelecto na arte. São Paulo: Martins Fontes, 1989.\n3- KANDINSKY, Wassily. Ponto linha plano: contribuição para a análise dos elementos picturais. Lisboa: Edições 70, 1996.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "09:00 - 12:00",
+        "professor": "LUANA MANHAES DA SILVA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "09:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH207",
+      "Nome": "Estética II",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Os sistemas esteticos em seus compromissos com o mundo moderno e contemporaneo. A estetica de descartes aos nossos dias. A estetica contemporanea, as principais correntes.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAH204"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAF204",
+      "Nome": "Criação da Forma II",
+      "Créditos": "4.0",
+      "Teórica": "15",
+      "Prática": "75",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Instrumental necessário à atividade criadora através da análise e aplicação da teoria da cor. Percepção visual, natureza da cor, classificação, efeitos cromáticos, história da cor, fisiologia e psicologia e harmonias cromáticas.\n___ BIBLIOGRAFIA BÁSICA ___\n1-  HELLER, Eva. Psicologia das cores: como as cores afetam a emoção e a razão. São Paulo: G. Gilli, 2016.\n2- PEDROSA, Israel. O universo da cor. Rio de Janeiro: Ed. SENAC Nacional, 2003.\n3- PINTO, Milton. Comunicação e discurso: introdução à análise de discursos. São Paulo: Hacker, 2003\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 16:00",
+        "professor": "MARIA DA GRACA MUNIZ LIMA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "14:00 - 17:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "BAF202"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH205",
+      "Nome": "História da Arte IV",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das Artes Visuais nos Séculos XX ao XXI, em seus aspectos conceituais, históricos e historiográficos. Do Entre Guerras à Contemporaneidade.\n___ BIBLIOGRAFIA BÁSICA ___\n1- ARGAN. Giulio Carlo. Arte Moderna. São Paulo: Companhia das Letras, 1993.\n2- COTRIM, Cecília; FERREIRA, Glória (orgs.). Escritos de Artista. Rio de Janeiro: Funarte & Jorge Zahar Editor, 2006.\n3- KRAUSS, Rosalind. Caminhos da Escultura Moderna. São Paulo: Martins Fontes, 1998.\n___ BIBLIOGRAFIA COMPLEMENTAR ___\n1- BATCHELOR, David. Minimalismo. São Paulo: Cosac & Naify Edições, 2001.\n2- BELTING, Hans. O fim da História da Arte. São Paulo: Cosacnaify, 2006.\n3- DANTO, Arthur. A transfiguração do lugar comum. São Paulo: Cosacnaify, 2007.\n4- HOLMES, Brian. Investigações Extradisciplinares: para uma nova crítica das instituições. Concinnitas.  Ano 9.  vol. 1, nº 12, 06-13, julho/2008.\n5- JAMESON, Fredric. Pós-Modernismo: a lógica cultural do capitalismo tardio. São Paulo: Ática, 1997.\n6- KRAUSS, Rosalind. Vídeo : a estética do narcisismo. Arte e Ensaios∕PPGAV-EBA, ano XV, nº16, 144-157,  2008.\n7- McCARTHY, David. Arte Pop. São Paulo: Cosac & Naify Edições, 2002.\n8- ODOHERTY, Brian. No Interior do Cubo Branco. São Paulo: Martins Fontes, 2007.\n9- TIBERGHIEN, Gilles. Cabanas. Revista Conccinnitas, ano 4,  n° 4, 227-242, março/2003.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "09:00 - 12:00",
+        "professor": "CLARISSA DINIZ DE MOURA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAR202",
+      "Nome": "Perspectiva",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Fundamentos da perspectiva cônica e cilíndrica aplicados em espaços internos e externos.  Noções de sombra em perspectiva.\n___ BIBLIOGRAFIA BÁSICA ___\n1- CHING, Francis. Representação Gráfica em Arquitetura. Porto Alegre: Bookman, 2000.\n2- MONTENEGRO, Gildo. A Perspectiva dos Profissionais. São Paulo. Edgard Blucher, 2001.\n3- NORLING, Ernest R. La Perspectiva Simplificada. B. Aires. Ed. Jorge A. Dulclout.\n4- OLMER, Pierre. Perspectiva Artistique. Paris. LibrairiePlon.\n5- QUAITENNE, Esteban. Tratado Metódico de Perspectiva. B. Aires. El Ateneo.\n6- RAYNES, John. Curso Completo de Perspectiva. Barcelona: Editora BLUME, 2008.\n7- SCHAARWÄCHTER, Georg. Perspectiva para Arquitectos.México: Gili, 1996.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAR102"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "5º Período": [
+     {
+      "Codigo": "BAB304",
+      "Nome": "Gravura em Relevo I",
+      "Créditos": "6.0",
+      "Teórica": "0",
+      "Prática": "180",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introducao as tecnicas da gravura de impressao. Funcao da gravura. Xilograma. Caracteristicas e estrutura. Instrumental. Programacao e desenvolvimento das tecnicas e outros materiais. Desenho e transporte. Impressao.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAB303",
+      "Nome": "Litografia I",
+      "Créditos": "6.0",
+      "Teórica": "0",
+      "Prática": "180",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Litografia monocromica. A tecnica litografica, aplicada a arte executada em matriz de pedra litografica.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "6º Período": [
+     {
+      "Codigo": "BAB312",
+      "Nome": "Gravura em Relevo II",
+      "Créditos": "6.0",
+      "Teórica": "0",
+      "Prática": "180",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Percepcao da gravura em relevo. Tipos de prensa. Tecnica de impressao a cores. Estudos e exercicios programados das tecnicas de gravura em relevo. Incentivo a criatividade atraves do estimulo a pesquisa com utilizacao de tecnicas e materiais novos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAB304"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAB311",
+      "Nome": "Litografia II",
+      "Créditos": "6.0",
+      "Teórica": "0",
+      "Prática": "180",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Litografia monocromica. A tecnica litografica aplicada a arte na totalidade de suas variantes tecnicas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAB303"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "7º Período": [
+     {
+      "Codigo": "BAB405",
+      "Nome": "Gravura em Concavo I",
+      "Créditos": "6.0",
+      "Teórica": "0",
+      "Prática": "180",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introducao as tecnicas da gravura de impressao. Funcao da gravura. Talho-doce, agua-forte, agua-tinta e demais processos. Caracteristicas e estrutura. Instrumental. Programacao e desenvolvimento das tecnicas de gravura em concavo. Desenho e transporte. Impressao, papel e tinta.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAB312"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAB403",
+      "Nome": "Litografia III",
+      "Créditos": "6.0",
+      "Teórica": "0",
+      "Prática": "180",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Litografia policromica. A tecnica litografica aplicada a arte, nas modalidades policromicas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAB311"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "8º Período": [
+     {
+      "Codigo": "BAB409",
+      "Nome": "Gravura em Concavo II",
+      "Créditos": "6.0",
+      "Teórica": "0",
+      "Prática": "180",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Percepcao da gravura em concavo. Preparo e uso dos mordentes e vernizes. Tipos de prensa. Tecnica de impressao a cores. Incentivo a criatividade atraves do estimulo a pesquisa com utilizacao de tecnicas e materiais diversos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAB405"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "Disciplinas Optativas (Escolha Condicionada)": [
+     {
+      "Codigo": "BAB113",
+      "Nome": "Litografia A.",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Teoria e pratica da arte litografica monocromica.\n13. BIBLIOGRAFIA BÁSICA\n1) IHA, Kazuo; PEDROSA, Patrícia. Oficina de Litografia. Rio de Janeiro: Rio Books, 2020.\n2) DA SILVA, Orlando. A arte maior da gravura. São Paulo: Espade: 1976.\n3) PEDROSA, Patrícia Figueiredo. Maria Bonomi com a gravura: do meio como fim ao meio como princípio / . Rio de Janeiro : Rio Books, 2021.\n",
+       "BibliografiaBasica": "1) ANTEASIAN, Garo Z. The Tamarind Book of Lithography: Art and Techniques, Harry N. Abrams Inc. Publishers; 1St Edition edition (January 1, 1971).\n2) CANTON, Katia. Gravura aventura. São Paulo: Universo, 2011.\n3) TERRA, Fernanda. Mestres da gravura / . Rio de Janeiro : Artepadilla : Fundação Biblioteca Nacional, 2013.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAB117",
+      "Nome": "Oficina de Cerâmica A.",
+      "Créditos": "4.0",
+      "Teórica": "30",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceito do material, histórico, manuseio, preparo, técnicas e processos,\nmodelagem, percurso histórico, cultura e ato técnicos, ferramental, elementos da natureza, químicos orgânicos e inorgânicos, misturas, testes, corpo cerâmico, semântica do objeto, gesto, utilidade e função, o essencial e o cultural.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAB212",
+      "Nome": "Pintura B",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Aprofundamento de uma das técnicas de pintura, enfatizando os valores plásticos e formais e a poética que o aluno desejar desenvolver.\n___BIBLIOGRAFIA BÁSICA___\n1) BARRETO, Lourdes.Oficina de pintura : materiais, fórmulas e procedimentos. Rio de Janeiro : Rio Books, 2011.\n2) MAYER, Ralph. Manual do Artista. São Paulo: Martins Fontes, 1996.\n3) MOTTA, Edson. Iniciação à Pintura por Edson Motta e Maria Luiza Guimarães Salgado.Rio de Janeiro: Nova Fronteira, 1976.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAB511",
+      "Nome": "Gravura II",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A disciplina busca aprofundar as experiências dos alunos com os procedimentos de gravura. Os estudantes serão convidados a desenvolverem projetos individuais, explorando um ou mais procedimento de reprodução de imagens. Tem como objetivo convidar o estudante a explorar seu repertório poético, munindo-o de instrumentos\ntécnicos que o possibilitarão aprofundar sua pesquisa artística nos meios de reprodução de imagens.\n",
+       "BibliografiaBasica": "1) FERREIRA, Heloisa Pires. Gravura brasileira hoje: depoimentos. SESC Regional do Rio de Janeiro.1995\n2) Oswaldo Goeldi: desenhos, matrizes e gravuras - Rio de Janeiro: Museu Nacional de Belas Artes, 2008.\n3) CARDOSO, Rafael (org.). O design antes do design: aspectos da história gráfica 1870 - 1960. São Paulo: Cosac & Naify, 2005.\n",
+       "BibliografiaComplementar": "1) TERRA, Fernanda. Mestres da Gravura. Rio de Janeiro: Artepadilha; Fundação Biblioteca Nacional, 2013.\n2) HONNEF, Klaus. Andy Warhol 1928-1987: a comercialização da arte. Koln: Benedik Taschen, 1992.\n3) JOHNSON, William Harding. The Graphic Arts. New York: The MacMillan Company, 1942.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 17:00",
+        "professor": "MARCOS LOPES DE ABREU"
+       }
+      ],
+      "Requisitos": [
+       "BAB411"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAE513",
+      "Nome": "Escultura a",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Tecnicas e ferramental de escultura. Forma e espaco. A argila como material plastico.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAE215"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAF301",
+      "Nome": "Modelo Vivo II",
+      "Créditos": "3.0",
+      "Teórica": "0",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A figura e sua representação através do estudo do claro-escuro\n___Bibliografia Recomendada___\n1- ARNHEIM, Rudolf. Arte e percepção visual: uma psicologia da visão criadora. São Paulo: Cengage Learning, 2011.\n2- ARNHEIM, Rudolf. Intuição e intelecto na arte. São Paulo: Martins Fontes, 1989.\n3- CHIPP, Herschel B. Teorias da arte moderna. São Paulo: Martins Fontes, 1999.\n4- KANDINSKY, Wassily. Ponto linha plano: contribuição para análise dos elementos picturais. Lisboa: Edições 70, 1996.\n5- WICK, Rainer. Pedagogia da Bauhaus. São Paulo: Martins Fontes, 1989.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 16:00",
+        "professor": "ALVARO MARTINS DE SEIXAS NETO"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 16:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "BAF205"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAH369",
+      "Nome": "Cultura Brasileira",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Formação da cultura brasileira. Etnicidade. Culturas tradicionais, regionais, populares e urbanas no Brasil.\n___ BIBLIOGRAFIA BÁSICA ___\n1- CANDIDO, A. O significado de Raízes do Brasil (Prefácio). In: HOLANDA, S. B. de. Raízes do Brasil. 26.ed. São Paulo: Cia. das Letras, 1995.\n2- FREYRE, G. Prefácio. Casa-grande & senzala: formação da família brasileira sob o regime da economia patriarcal. São Paulo: Global, 2005.\n3- DAMATTA, R. Notas sobre o racismo à brasileira. In: SOUZA, J. (Org) Multiculturalismo e racismo: uma comparação Brasil - Estados Unidos. Brasília: Paralelo, 1997.\n4- MICELI, S. Intelectuais e classe dirigente no Brasil (1920-1945). São Paulo: Difel, 1979.\n5- ROCHA, J. C. de C. As origens e equívocos da cordialidade brasileira. In: ___. O exílio do homem cordial. Rio de Janeiro: Editora do Museu Nacional, 2004.\n___ BIBLIOGRAFIA COMPLEMENTAR ____\n1- CANDIDO, A. Dialética da malandragem. Revista do Instituto de Estudos Brasileiros, São Paulo, v.8, p.67-89, 1970.\n2- FERNANDES, F. A integração do negro na sociedade de classes. São Paulo: Ática, 1978.\n3- HOLANDA, S. B. de. Raízes do Brasil. 26.ed. São Paulo: Cia. das Letras, 1995.\n4- ROMERO, S. Estudos sobre a poesia popular do Brasil. 2.ed. Petrópolis: Vozes, 1977.\n5- WISNIK, J. M. Veneno remédio: o futebol e o Brasil. São Paulo: Cia. das Letras, 2008.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAI112",
+      "Nome": "Oficina de Metais",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Teoria dos metais - tecnicas de trabalho dos metais - o funcionamento da oficina de metais - normas de seguranca - possibilidades artisticas e industriais dos metais - materiais paralelos e auxiliares.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAI324",
+      "Nome": "Tecelagem A",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Atividade teorica e pratica para dar conhecimentos elementares da tecnica da tecelagem manual, rudimentar, artesanal e primitiva.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAI326",
+      "Nome": "Estamparia A",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Aulas teórico-práticas sobre estamparia têxtil. Técnicas, materiais e processos da estamparia por impressão. Desenvolvimento de trabalhos por métodos experimentais e artesanais. Introdução ao design têxtil para estamparia localizada e corrida.\n___Bibliografia Recomendada___\n1- BOWLES, Melanie. Diseño y estampación textil digital. Barcelona: Art Blume, 2009.\n2- COLE, Drusilla. Diseño textil contemporaneo. Barcelona: Art Blume, 2008.\n3- CONRAN, Terence. Printed textile design. London : The Studio Limited, 1975.ESTAMPARIA, tapeçaria, tecelagem: Exposição de Arte Têxtil da Escola de Belas Artes da UFRJ. Rio de Janeiro : UFRJ, 1989. 47 p.\n4- ESTAMPARIA, tapeçaria: II Exposição - Mostra de Arte Têxtil da Escola de Belas Artes da UFRJ, artistas homenageadas: Hilda Campofiorito e Tana. Rio de Janeiro : UFRJ, 1993. 48 p.\n5- JONES, Owen. A gramática do ornamento. Edição brasileira:Editora Senac São Paulo, 2010.\n6- RUBIM, Renata. Desenhando a superfície. São Paulo: Rosari, 2005. 95 p.\n7- RÜTHSCHILLING, Evelise Anicet. Design de superfície. Porto Alegre: Ed. Da UFRGS, 2008. 104 p.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAI329",
+      "Nome": "Estamparia B",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Aulas teórico-práticas sobre estamparia têxtil. Técnicas, materiais e processos da estamparia a quadro. Desenvolvimento de trabalhos por métodos semi-industriais. Introdução ao design têxtil e conceitos de Rapport para estamparia localizada e corrida.\n___Bibliografia Recomendada___\n1- BOWLES, Melanie. Diseño y estampación textil digital. Barcelona: Art Blume, 2009. - COLE, Drusilla. Diseño textil contemporaneo. Barcelona: Art Blume, 2008.\n2- ESTAMPARIA, tapeçaria, tecelagem: Exposição de Arte Têxtil da Escola de Belas Artes da UFRJ. Rio de Janeiro : UFRJ, 1989. 47 p.\n3- ESTAMPARIA, tapeçaria: II Exposição - Mostra de Arte Têxtil da Escola de Belas Artes da UFRJ, artistas homenageadas: Hilda Campofiorito e Tana. Rio de Janeiro : UFRJ, 1993. 48 p.\n4- JACQUÉ, Jacqueline. Printed textiles. In: CARLANO, Marianne et alii. French textiles; from the middle ages through the second empire. Connecticut : Wadsworth Atheneum, 1985.\n5- JONES, Owen. A gramática do ornamento. Edição brasileira:Editora Senac São Paulo, 2010.\n6- MELLER, Susan; ELFFERS, Joost. Textile designs: 200 years of patterns for printed fabrics arranged by motif, colour, period and design. London: Thames & Hudson, 2002. 464 p.\n7- PROCTOR, Richard M. , LEW, Jennifer F. Surface design for fabric. Washington : University of Washington Press, 1985. - RUBIM, Renata. Desenhando a superfície. São Paulo: Rosari, 2005. 95 p.\n8- RÜTHSCHILLING, Evelise Anicet. Design de superfície. Porto Alegre: Ed. Da UFRGS, 2008. 104 p.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAR231",
+      "Nome": "Elementos de Arquitetura I",
+      "Créditos": "4.0",
+      "Teórica": "30",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "As convenções adotadas na representação gráfica dos projetos de arquitetura de acordo com as normas vigentes.O material e o instrumental.As escalas usuais.Convenções gráficas. Projeções ortogonais e em perspectivas. Representação gráfica do projeto de arquitetura.\n___Bibliografia Recomendada___\n1) NEUFERT, E. El Arte de Projetar en Arquitetura. Barcelona. Gustavo Gil.\n2) CORBELLA, Oscar e YANNAS, Simos. Em busca de uma arquitetura sustentável para os trópicos - conforto ambiental. Editora Revan, 2003.\n3) MASCARO, Juan Luis. O custo das decisões arquitetônicas - nova versão - Editora Sagra Luzzatto, 1998.\n___Bibliografia Complementar___\n1) Dicionário ilustrado de arquitetura, volumes I e II. Albernaz, Maria Paula/ Modesto Lima, Cecília. PRO Editores São Paulo, 2003.\n2) Sites: http://www.arcoweb.com.br http://www.arqbrasil.com.br http://www.abea-arq.org.br\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAR102"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAR481",
+      "Nome": "Ed Ambiental-preserv de Bens C",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Convenções adotadas (regulamentações de leis e procedimentos técnicos) para preservação de bens culturais, relacionados ao meio ambiente.\n___ BIBLIOGRAFIA RECOMENDADA ___\n1- LEI Nº9.605, DE 12 DE FEVEREIRO DE 1998 - Dispõe sobre as sanções penais e administrativas derivadas de condutas e atividades lesivas ao meio ambiente.\n2- DECRETO-LEI Nº 25, DE 30 DE NOVEMBRO DE 1937 - Organiza a proteção do patrimônio histórico e artístico nacional.\n3- INSTITUTO DO PATRIMÔNIO HISTÓRICO ARTÍSTICO NACIONAL. Cartas Patrimoniais. Brasília: IPHAN, 1995.\n4- Cadernos Técnicos IPHAN - publicações on line - http://portal.iphan.gov.br/- publicações.\n5- Manuais IPHAN - publicações on line - http://portal.iphan.gov.br/- publicações\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAW001",
+      "Nome": "Escultura e Reciclagem",
+      "Créditos": "4.0",
+      "Teórica": "30",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O emprego de resíduos industriais na Arte a partir do Cubismo. Ready-made e instalação como conceitos escultóricos. Arte ambiental.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAW240",
+      "Nome": "Computação Gráfica nas Artes I",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introducao ao uso de computacao grafica nas artes com apresentacao: Paint Brush, Autocad, Slide Write, GFX, Doctor Hallo, Turbo Pascal (GRAPH Po). Reflexao sobre os fatores ergonomicos e sociologicos. Conhecimento e utilizacao das ferramentas de computacao grafica. Pratica de composicao, incentivo a criatvidade atraves do estimulo da pesquisa com utilizacao das ferramentas apresentadas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAF106",
+       "BAR120"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEB599",
+      "Nome": "Est da Líng Bras de Sinais I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Nomes próprios; pronomes pessoais; demonstrativos; possessivos; locativos em sentenças simples do tipo pergunta-resposta com \"o que\" e \"quem\" e outros vocábulos básicos; numerais; quantidade; topicalização; flexão verbal; flexão de negação; expressões faciais e corporais; percepção visual; conversação; diálogos; textos: LIBRAS, cultura e comunidade surda.\n",
+       "BibliografiaBasica": "1) BRITO, L. F. Por uma gramática de língua de sinais. Rio de Janeiro: Tempo Brasileiro, 1995.\n2) FELIPE, T.; MONTEIRO, M. S. LIBRAS em contexto. Curso Básico. Brasília: Ministério da Educação e do Desporto/Secretaria de Educação Especial, 2001.\n3) GESSER, A. Libras - Que língua é essa? Crença e preconceitos em torno da língua de sinais e da realidade surda. Florianópolis: Parábola, 2009.\n4) STROBEL, K. L. As imagens do outro sobre a cultura surda. Florianópolis: EdUFSC, 2008.\n",
+       "BibliografiaComplementar": "1) PIMENTA, Nelson e QUADROS, Ronice Muller. Curso de Libras I, LSB Vídeo, volume I, Iniciante, 2006 e 3a ed., 2008.\n2) Dicionário Enciclopédico Ilustrado Triíngue da Língua de Sinais Brasileira ? vol 1 e vol. 2 Site: www.acessobrasil.org.brasil\n3) Dicionário da Língua Brasileira de Sinais, INES, versão, 2.0, ano 2006.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAB112",
+      "Nome": "Pintura A",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Os materiais de pintura e seu emprego através dos processos usuais. Habilitar o aluno ao uso do material de pintura na execução de trabalhos.\n",
+       "BibliografiaBasica": "1) BARRETO, Lourdes.Oficina de pintura : materiais, fórmulas e procedimentos. Rio de Janeiro : Rio Books, 2011.\n2) MAYER, Ralph. Manual do Artista. São Paulo: Martins Fontes, 1996.\n3) MOTTA, Edson e SALGADO, Maria Luiza. Iniciação a Pintura. Rio de Janeiro: Ed. Nova Fronteira, 1976.\n",
+       "BibliografiaComplementar": "1) ARNHEIM, Rudolf. Intuição e intelecto na arte. São Paulo: Martins Fontes, 1989.\n2) Doerner, Max; Reverté, Pedro. Los materiales de pintura y su empleo en el arte : materiales y técnica de las pinturas al óleo, temple, acuarela, fresco, pastel. Técnica de los antiguos maestros. Conservación de monumentos y cuadros / . Barcelona : G. Gili, 1946.\n3) Hayes, Colin Guia completa de pintura y dibujo : tecnicas y materiales / . Madrid : Hermann Blume, c1980.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 12:00",
+        "professor": "MARIA DE LOURDES BARRETO SANTOS FILHA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAB114",
+      "Nome": "Aquarela A",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudos das técnicas de aquarela e da utilização dos pigmentos e aglutinantes; a preparação dos suportes e acabamentos.\n",
+       "BibliografiaBasica": "1) ARNHEIM, Rudolf. Intuição e intelecto na arte. São Paulo: Martins Fontes, 1989.\n2) MAYER, Ralph. Manual do artista : de técnicas e materiais / . 5. ed. rev. e atual. São Paulo : Martins Fontes, 2016.\n3) MOTTA, Edson. SALGADO, Maria Luiza Guimarães. Iniciação à pintura. Rio de Janeiro: Nova Fronteira, 1976.\n",
+       "BibliografiaComplementar": "1) Hayes, Colin Guia completa de pintura y dibujo : tecnicas y materiales / . Madrid : Hermann Blume, c1980.\n2) Doerner, Max; Reverté, Pedro. Los materiales de pintura y su empleo en el arte : materiales y técnica de las pinturas al óleo, temple, acuarela, fresco, pastel. Técnica de los antiguos maestros. Conservación de monumentos y cuadros / . Barcelona : G. Gili, 1946.\n3) Barreto, Lourdes. Oficina de pintura : materiais, fórmulas e procedimentos / . Rio de Janeiro : Rio Books, 2011.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 12:00",
+        "professor": "MARIA DE LOURDES BARRETO SANTOS FILHA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAB118",
+      "Nome": "Oficina de Cerâmica B",
+      "Créditos": "4.0",
+      "Teórica": "30",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceito do material, manuseio, modelagem, percurso histórico, cultura e ato técnicos, elementos da natureza, elementos químicos orgânicos e inorgânicos, misturas, testes, corpo cerâmico, semântica dos objetos,  tintas e vernizes, processos de queima, tipos de fornos.  A semântica da essência cultural.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAB117"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAB411",
+      "Nome": "Gravura I",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A disciplina oferece um panorama prático e teórico dos procedimentos artesanais de reprodução de imagens. O aluno será convidado a realizar experiências de impressão e reprodução de imagens, tomando conhecimento de uma variedade de técnicas gráficas, e sendo convidado a realizar trabalhos coletivos e autorais a partir destes.\n",
+       "BibliografiaBasica": "1) A gravura brasileira na coleção Mônica e George Kornis. Rio de Janeiro: Caixa Cultural, 2007.\n2) DA SILVA, Orlando. A arte maior da gravura. São Paulo: edição Espade, 1976.\n3) Gravura brasileira hoje: depoimentos / coordenação Heloísa Pires Ferreira - Rio de Janeiro: SESC, 1995-1997.\n",
+       "BibliografiaComplementar": "1) CAVALCANTI, Newton; MASSON, Michel (org.) Newton Cavalcanti: lendas rústicas. Rio de Janeiro: Data Coop, 2012.\n2) EICHENBERG, Fritz. The art of print: masterpieces, history, techniques. New York: Harry N. Abrams, 1976.\n3) Gravura: arte brasileira do século XX. São Paulo: Itaú Cultural: Cosac Naify, 2000.\n4) Prefeitura da Cidade do Rio de Janeiro. Mostra Rio Gravura catálogo geral dos eventos. Rio de Janeiro: Rio Arte, 1999.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAE215",
+      "Nome": "Modelagem",
+      "Créditos": "3.0",
+      "Teórica": "0",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Materiais, ferramental, processos e tecnicas de modelagem. Percepcao e analise da estrutura da forma de figuras e suas representacoes no campo tridimensional. A modelagem de formas volumetricas. Composicao de formas representativas do campo geometrico, vegetal e animal.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAE514",
+      "Nome": "Escultura B",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A escultura em bloco, gesso e pedra sabao: processos, tecnicas e ferramental.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAH202",
+      "Nome": "Etica Profissional",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Objetivos da ética. A ética e a filosofia. A evolução  da ética  da antigüidade aos tempos modernos. Aspectos éticos nas artes plásticas. Ética profissional.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAI111",
+      "Nome": "Oficina de Madeira",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Ensino teorico e pratica de oficina atraves de exercicios experimentais com o material expressivo madeira - uso de ferramentas e maquinas operatrizes - tecnicas de marcenaria.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAI114",
+      "Nome": "Oficina de Couro",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O couro sua obtencao, curtimento e classificacao-maquinas e ferramentas-conservacao e seguranca-o projeto-o molde-fabricacao em serie-corantes e preservativos-metodos e tecnicas de trabalho-artesanato e industria-forma-funcao e moda-prepara de material.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAI325",
+      "Nome": "Tapecaria A",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A tapecaria bordada. Suas caracteristicas. Os suportes. Os materiais. Os diferentes pontos. O cartao e sua execucao. Exercicios praticos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAI328",
+      "Nome": "Tapecaria B",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Tecnica de patecaria em teares de mesa e teares verticais.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAI503",
+      "Nome": "Oficina de Estamparia",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Aulas teórico-práticas sobre estamparia têxtil. Técnicas, materiais e processos da estamparia por reserva. Desenvolvimento de trabalhos exclusivos. Introdução ao design têxtil decorrente do fazer artístico em Estamparia.\n___Bibliografia Recomendada___\n1- BOWLES, Melanie. Diseño y estampación textil digital. Barcelona: Art Blume, 2009.\n2- COLE, Drusilla. Diseño textil contemporaneo. Barcelona: Art Blume, 2008.\n3- CONRAN, Terence. Printed textile design. London : The Studio Limited, 1975.\n4- ESTAMPARIA, tapeçaria, tecelagem: Exposição de Arte Têxtil da Escola de Belas Artes da UFRJ. Rio de Janeiro : UFRJ, 1989. 47 p.\n5- ESTAMPARIA, tapeçaria: II Exposição - Mostra de Arte Têxtil da Escola de Belas Artes da UFRJ, artistas homenageadas: Hilda Campofiorito e Tana. Rio de Janeiro : UFRJ, 1993. 48 p.\n6- JONES, Owen. A gramática do ornamento. Edição brasileira:Editora Senac São Paulo, 2010.\n7- LARSEN, Jack Lenor. The dyer's art; ikat, batik, plangi. New York : Van Nostrand Reinhold, 1976.\n8- MELLER, Susan; ELFFERS, Joost. Textile designs: 200 years of patterns for printed fabrics arranged by motif, colour, period and design. London: Thames & Hudson, 2002. 464 p.\n9- PROCTOR, Richard M. , LEW, Jennifer F. Surface design for fabric. Washington : University of Washington Press, 1985.\n10- RÜTHSCHILLING, Evelise Anicet. Design de superfície. Porto Alegre: Ed. Da UFRGS, 2008. 104 p._\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAR241",
+      "Nome": "Elementos de Arquitetura II",
+      "Créditos": "4.0",
+      "Teórica": "30",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Detalhes de construcao - alvenaria de tijolo, madeira, ferro, concreto, esquadrias.Instalacoes:desenhos convencionais.Nocoes de esquemas de instalacoes eletricas.Nocoes de esquemas de instalacoes hidraulicas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAR231"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV121",
+      "Nome": "Fotografia I",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Teoria fotográfica, a câmera, estruturação da imagem; introdução ao laboratório fotográfico.\n___Bibliografia Recomendada___\n1) ADAMS,Ansel.The Camera, New York: Litle, Brown and Company, 1991. Existe edição do SENAC SP.\n2) ____, Ansel. The Negative, New York:Litle, Brown and Company, 1991. Existe edição do SENAC SP.\n3) ____, Ansel. The Print, New York: Litle, Brown and Company, 1991. Existe edição do SENAC.\n4) SPGOLDBERG, Vicki. Photography in Print, Alburquerque: University New Mexico Press, 1988Catálogo da XXV Bienal de São Paulo, Iconografias Metropolitanas. São Paulo, 2002.\n5)CARSON, D. , MEGGS P. : Fotografiks, David Carson, Corte Madera: Gingko Press, 2000.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAW002",
+      "Nome": "Produção e Direção Cultural",
+      "Créditos": "4.0",
+      "Teórica": "30",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O conceito de evento.Linguagens alternativas que transcendem a dicotomia entre o espaço bi e tridimensional. A apropriação da fotografia, vídeo, cinema e informática na criação de obras de arte - suas características e especificidades.\n___BIBLIOGRAFIA RECOMENDADA___\n1- VALLE, E.M. O corte gráfico-escultórico. Uma História do olhar - Rio de Janeiro, Editora Multifoco, 2014.\n2- DEBRAY, R. Vida e Morte da Imagem. Uma História do Olhar no Ocidente. Petrópolis, Editora Vozes, 1992.\n3- WERTHEIM, M. Uma histórica do espaço de Dante à Internet. Rio de Janeiro, Jorge Zahar Editor, 2001.\n4- PEVSNER, N. Origens da arquitetura moderna e do design. São Paulo, Martins Fontes, 2001.\n5- ARSCHER, M. Arte contemporânea. Uma história concisa. S. Paulo, Martins Fontes, 2006.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAWZ54",
+      "Nome": "Ativ Curricular Extensão - Gra",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "0",
+      "Extensão": "300",
+      "Informação": {
+       "Info": "Atuação em atividades de extensão registradas na Pró-Reitoria de Extensão da UFRJ, como programas, projetos, cursos de extensão e eventos, coordenados por docentes do quadro permanente ou técnicos de carreira de nível superior na UFRJ. Para eventos, a atuação deverá ser na organização ou na realização do evento. Para cursos, a atuação deve ser na organização ou ministrando aulas.\n___  BIBLIOGRAFIA BÁSICA ___\nBibliografia recomendada pelo coordenador da atividade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sab",
+        "hora": "08:00 - 12:00",
+        "professor": "Não Informado"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     }
+    ]
+   },
+   "obrigatorias": 28,
+   "eletivas": 32,
+   "ano": "1998/2 a 2019/1"
+  },
+  {
+   "materias": {
+    "1º Período": [
+     {
+      "Codigo": "BAF101",
+      "Nome": "Desenho Artístico I",
+      "Créditos": "4.0",
+      "Teórica": "0",
+      "Prática": "135",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenho de observação a partir de sólidos geométricos, com ensinamentos teóricos e exercícios práticos de observação e percepção do campo visual, análise estrutural da forma e iniciação ao processo de criação.\n___Bibliografia Recomendada___\n1- OSTROWER, Fayga. Universos da Arte. Campinas: UNICAMP, 2013.\n2- PEDROSA, Israel. Da cor à cor inexistente. Rio de Janeiro: Senac Nacional, 2009.\n3- PIGNATTI, Terisio. O desenho: de Altamira a Picasso. São Paulo: Abril, 1982.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 16:00",
+        "professor": "LUCIANA MAIA COUTINHO"
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 16:00",
+        "professor": ""
+       },
+       {
+        "dia": "Sex",
+        "hora": "13:00 - 16:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH101",
+      "Nome": "História da Arte I",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo do fenômeno e da representações artísticas da Pré-História ao Século XIV, em seus aspectos conceituais, históricos e culturais. Do Paleolítico ao Gótico.\n___BIBLIOGRAFIA BÁSICA___\n1- ARGAN, Giulio Carlo. História da arte italiana. Da Antiguidade a Duccio. São Paulo: Editora Cosac e Naify, 2003.\n2- BELL, Julian. Uma nova história da arte. São Paulo: Editora Martins Fontes, 2008.\n3- JANSON, Horst Woldemar. História geral da arte (Vol. I): O Mundo Antigo e a Idade Média. São Paulo: Martins Fontes, 2001.\n4- WOODFORD, Susan. A arte de ver a arte. Rio de Janeiro: Zahar, 1983.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1- GOMBRICH. E.H. A História da arte. Rio de Janeiro: LTC, 2011.\n2- JANSON, H. W. História da arte. Lisboa: Fundação Calouse Gulbenkian,  1989.\n3- LISE, Giorgio. Como reconhecer a arte egípcia. Lisboa: Edições 70, 1985.\n4- SHAVER-CRANDELL, Anne. A idade média. Rio de Janeiro: Zahar, 1984.\n5- TARELLA, Alda. Como reconhecer a arte romana. Lisboa: edições 70, 1988.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "14:00 - 17:00",
+        "professor": "HELENISE MONTEIRO GUIMARAES"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAWZ54",
+      "Nome": "Ativ Curricular Extensão - Gra",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "0",
+      "Extensão": "300",
+      "Informação": {
+       "Info": "Atuação em atividades de extensão registradas na Pró-Reitoria de Extensão da UFRJ, como programas, projetos, cursos de extensão e eventos, coordenados por docentes do quadro permanente ou técnicos de carreira de nível superior na UFRJ. Para eventos, a atuação deverá ser na organização ou na realização do evento. Para cursos, a atuação deve ser na organização ou ministrando aulas.\n___  BIBLIOGRAFIA BÁSICA ___\nBibliografia recomendada pelo coordenador da atividade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAB110",
+      "Nome": "Xilogravura I",
+      "Créditos": "4.0",
+      "Teórica": "0",
+      "Prática": "120",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A disciplina irá apresentar um breve histórico da gravura, as diferentes técnicas, funções e usos ao longo do tempo e introduzir o aluno ao processo de impressão em relevo, convidando-o a experimentar diversos tipos de suportes para além da xilogravura tradicional.\n",
+       "BibliografiaBasica": "1) DA SILVA, Orlando. Arte Maior da Gravura. São Paulo: Espade. 1976.\n2) CAVALCANTI, Newton; MASSON, Michel (org.) Newton Cavalcanti: lendas rústicas. Rio de Janeiro: Data Coop, 2012.\n3) A gravura brasileira na coleção Mônica e George Kornis. Rio de Janeiro: Caixa Cultural, 2007.\n4) REIS JUNIOR, José Maria dos. Goeldi. Rio de Janeiro: Civilização Brasileira, 1996.\n",
+       "BibliografiaComplementar": "1) FERREIRA, Orlando da Costa. Imagem e Letra: introdução à bibliografia brasileira; A imagem gravada. São Paulo: Melhoramentos; USP, 1977.\n2) GRAVURA: arte brasileira do século XX. São Paulo: Itaú Cultural: Cosac Naify, 2000.\n3) GRIFFITHS, Antony. Prints and printmaking: an introduction to the history and techniques. Berkeley: Los Angeles: University of California Press, 1996.\n4) GRILO, Rubem; SALLES, Evandro. A gravura de Rubem Grilo. Brasília: Tribunal de Contas da União, 2008.\n5) Carvalho, G. de. (1995). Xilogravura: Os Percursos da Criação Popular. Revista Do Instituto De Estudos Brasileiros, 39, 143-158. https://doi.org/10.11606/issn.2316-901X.v0i39p143-158. POrtal Café.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "PEDRO SANCHEZ CARDOSO"
+       },
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAF104",
+      "Nome": "Plástica I",
+      "Créditos": "3.0",
+      "Teórica": "0",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenvolver o sentimento da forma tridimensional ao mesmo tempo que promove conhecimentos técnicos do trabalho executado em diferentes materiais. Estuda questões estético-plásticas relacionados à composição, além das modalidades diversas de interpretação da forma, em volume e espaço.\n___Bibliografia Recomendada___\n1- KRAUSS, Rosalind. Caminhos da escultura moderna. São Paulo: Martins Fontes, 2001.\n2- WONG, Wucius. Princípios de Forma e desenho. São Paulo: Martins Fontes, 2001.\n3- BRITO, Ronaldo. Neoconcretismo: vértice e ruptura do projeto construtivo brasileiro. São Paulo: Cosac Naify, 2007.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "14:00 - 17:00",
+        "professor": "LEONARDO ETERO PACHECO AULER COIMBRA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "09:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH501",
+      "Nome": "Teoria da Imagem A.",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo da imagem e de suas relações com a mídia na contemporaneidade. Teorias e reflexões críticas sobre a imagem. A imagem e os meios de comunicação. A imagem e a experiência estética.\n___Bibliografia Recomendada___\n1) AUMONT, Jacques. A imagem. Campinas: Papirus, 2010.\n2) CRARY, Jonathan. Técnicas do observador. Visão e modernidade no século XIX. Rio de Janeiro: Contraponto, 2012.\n3) DIDI-HUBERMAN, Georges. O que vemos, o que nos olha. São Paulo: Editora 34, 2005.\n4) DONDIS, Donis A. Sintaxe da linguagem visual. São Paulo: Martins Fontes, 1991.\n5) ECO, Umberto. Apocalípticos e integrados. São Paulo: Perspectiva, 1993.\n6) GOMBRICH, E. H. Arte e ilusão. São Paulo: Martins Fontes, 2007.\n7) RANCIÈRE, JACQUES. O destino das imagens. Lisboa: Orfeu Negro, 2011.\n8) RANCIÈRE, JACQUES. O espectador emancipado. São Paulo: Martins Fontes, 2014.\n___Bibliografia Complementar____\n1) ARNHEIM, Rudolf. Intuição e intelecto na arte. São Paulo: Martins Fontes, 1989.\n2) BARTHES, Roland. O Óbvio e o obtuso. Lisboa: Edições 70, 1982.\n3) DELEUZE, Gilles. A imagem movimento. Lisboa, Assírio & Alvim, 2004.\n4) FOSTER, Hal. O retorno do real. São paulo: Cosac Naify, 2014.\n5) LICHTENSTEIN, Jacqueline. A Pintura. São Paulo: Editora 34, 2004. Vol. 8.\n6) STAM, Robert. Crítica da imagem eurocêntrica. Multiculturalismo e representação. São Paulo: Cosac & Naify, 2006.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "09:00 - 12:00",
+        "professor": "HELLEN ALVES CABRAL"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "2º Período": [
+     {
+      "Codigo": "BAF105",
+      "Nome": "Desenho Artístico II",
+      "Créditos": "4.0",
+      "Teórica": "0",
+      "Prática": "135",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Instrumental teórico e prático para a análise, representação e composição bidimensional. Observação visual de formas naturais e artificiais. Apresentação de materiais e técnicas de desenho. Estudos da cor.\n___Bibliografia Recomendada___\n1- BAXANDALL, M. Sombras e luzes. São Paulo: EDUSP, 1997.\n2- COLI, J. O que é a arte?. São Paulo: Editora Brasiliense, 2006.\n3- DONDIS, Donis A. Sintaxe da Linguagem Visual. São Paulo: Martins Fontes, 2007.\n4- OSTROWER, F. Acasos e criação artística. Rio de Janeiro: Editora Campus, 1990.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "14:00 - 17:00",
+        "professor": "MAYARA LISTA ALCANTARA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "14:00 - 17:00",
+        "professor": ""
+       },
+       {
+        "dia": "Sex",
+        "hora": "14:00 - 17:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "BAF101"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH104",
+      "Nome": "História da Arte II",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das Artes Visuais nos Séculos XV ao XVII, em seus aspectos conceituais, históricos e historiográficos. Do Renascimento ao Neoclássico.\n___BIBLIOGRAFIA BÁSICA___\n1- ARGAN, Giulio Carlo. Clássico e anticlássico. São Paulo: Companhia das Letras, 1999.\n2- ARGAN, Guilio Carlo. Imagem e persuasão. São Paulo: Companhia das Letras, 2004.\n3- ARGAN, Guilio Carlo. História da arte italiana. São Paulo: Cosac & Naify, 2003. v. 2 e 3.\n4- BAETA, Rodrigo Espinha. Teoria do Barroco. Salvador: EDUFBA-PPGAU, 2012.\n5- JANSON, H.W. História da arte. 9ª ed. Lisboa: Fundação Calouste Gulbenkian, 2010.\n___BIBLIOGRAFIA COMPLEMENTAR____\n1- HAUSER, Arnold. História social da literatura e da arte. São Paulo: Martins Fontes, 2003.\n2- OLIVEIRA, Myriam Andrade Ribeiro de. O rococó religioso no Brasil. São Paulo: Cosac & Naify, 2003.\n3- PEVSNER, Nikolaus. Panorama da arquitetura ocidental. São Paulo: Martins Fontes, 19¬¬82.\n4- SILVA, Jorge Henrique Pais da. Estudos sobre o maneirismo. Lisboa: Imprensa Universitária, 1983.\n5- WÖLFFLIN, Heinrich. Renascença e Barroco. São Paulo: Editora perspectiva, 1989.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "14:00 - 17:00",
+        "professor": "MARCUS VINICIUS DE PAULA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAB122",
+      "Nome": "Lito I",
+      "Créditos": "4.0",
+      "Teórica": "0",
+      "Prática": "120",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Os princípios fundamentais da litografia, sua história e procedimentos básicos de gravação, acidulação e impressão. Principais técnicas em monocromia para o desenvolvimento de trabalhos autorais. Estudo do histórico da técnica litográfica, sua origem, sua difusão pelo mundo sua chegada ao Brasil, seus diferentes usos e funções\ne seus desdobramentos na arte moderna e contemporânea.\n",
+       "BibliografiaBasica": "1) IHA, Kazuo; PEDROSA, Patrícia. Oficina de Litografia. Rio de Janeiro: Rio Books, 2020.\n2) DASILVA, Orlando ; GRASSMANN, Marcelo. A arte maior da gravura / . São Paulo : Edição Espade, 1976.\n3) CARDOSO, Rafael (org.). O design antes do design: aspectos da história gráfica 1870- 1960. São Paulo: Cosac & Naify, 2005.\n4) SANTOS, Renata Valéria dos. Impressões sociais : a produção de gravuras no Rio de Janeiro na primeira metade do século XIX (1808-1853) / . Rio de Janeiro : UFRJ, 2008. Tese (doutorado) - Universidade Federal do Rio de Janeiro, Instituto de Filosofia e Ciências Sociais, Programa de Pós-Graduação em História Social, 2008-07-21. Disp.\nem:http://objdig.ufrj.br/34/teses/RenataValeriaDosSantos.pdf. acesso eletrônico.\n",
+       "BibliografiaComplementar": "1) BERSIER, Jean E. La Gravure. Les Procédés. L'Historie. Maney: Berger-Levrault, 1984.\n2) ANTEASIAN, Garo Z. The Tamarind Book of Lithography: Art and Techniques, Harry N. Abrams Inc. Publishers; 1St Edition edition (January 1, 1971).\n3) MARTINS, Itajahy. Gravura : arte e técnica / . São Paulo : Fundação Nestlé de Cultura, 1987.\n4) FERREIRA, Orlando da Costa. Imagem e Letra: introdução à bibliografia brasileira: a imagem gravada. São Paulo: Melhoramentos; USP, 1977.\n5) TAVORA, Maria Luísa. A Crítica e a Gravura Artística − Anos 50-60: entendimentos da experiência informal. In: Arte & Ensaios n. 27. Revista do PPGAV/EBA/UFRJ. Rio de Janeiro: UFRJ, dezembro 2013.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "08:00 - 12:00",
+        "professor": "PATRICIA FIGUEIREDO PEDROSA"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAF108",
+      "Nome": "Plástica II",
+      "Créditos": "3.0",
+      "Teórica": "0",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Ampliar os conhecimentos estéticos plásticos, anteriormente adquiridos informando sobre novas técnicas de trabalho e interessando o aluno na execução de maquetes, em diversos materiais, estimula a imaginação e a autocrítica..\n___Bibliografia Recomendada___\n1- BRITO, Ronaldo. Neoconcretismo: vértice e ruptura do projeto construtivo brasileiro. São Paulo: Cosac Naify, 2007.\n2- KRAUSS, Rosalind. Caminhos da escultura moderna. São Paulo: Martins Fontes, 2001.\n2- WONG, Wucius. Princípios de Forma e desenho. São Paulo: Martins Fontes, 2001.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 16:00",
+        "professor": "LEONARDO ETERO PACHECO AULER COIMBRA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "09:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "BAF104"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "3º Período": [
+     {
+      "Codigo": "BAF201",
+      "Nome": "Desenho Artístico III",
+      "Créditos": "3.0",
+      "Teórica": "0",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O desenho como realização final. Os problemas da criação artística através do desenho. As deformações expressivas e a composição. Exercícios de aplicação dos diferentes processos do desenho.\n___Bibliografia Recomendada___\n1- CARERI, Francesco. Walkscape: O caminhar como prática estética. São Paulo: Ed. G.Gili, 2013.\n2- CAUQUELIN, Anne. Arte contemporânea: uma introdução. São Paulo: Martins, 2005.\n3- FERREIRA, Glória e COTRIM, Cecília (Org.). Clement Greenberg e o debate crítico. Rio de Janeiro: Jorge Zahar, 2001.\n4- OSTROWER, Fayga. Universos da Arte. Campinas: UNICAMP, 2013.\n5- STANGOS, Nikos (Org.). Conceitos da Arte Moderna. Rio de Janeiro: Jorge Zahar, 1991.\n6- PIGNATTI, Terisio. O desenho: de Altamira a Picasso. São Paulo: Abril, 1982.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 16:00",
+        "professor": "MARCIA YOKO LUCENA NISHIO"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 16:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "BAF105"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH201",
+      "Nome": "História da Arte III",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das Artes Visuais nos Séculos XIX ao XX, em seus aspectos conceituais, históricos e historiográficos. Do Romantismo às Vanguardas Históricas.\n___BIBLIOGRAFIA BÁSICA___\n1- ARGAN, Giulio Carlo. Arte Moderna. São Paulo: Cia das Letras, 2004.\n2- ARGAN, Guilio Carlo. A arte moderna da Europa: de Hogarth a Picasso. São Paulo: Cia. Das Letras, 2010.\n3- HAUSER, Arnold. História social da literatura e da arte. São Paulo: Martins Fontes, 2003.\n4- JANSON, H.W. História da arte. 9ª ed. Lisboa: Fundação Calouste Gulbenkian, 2010.\n5- PEVSNER, Nikolaus. Panorama da arquitetura ocidental. São Paulo: Martins Fontes, 19¬¬82.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1- FABRIS, Annateresa (org). O ecletismo na arquitetura brasileira. São Paulo: Edusp, 1987.\n2- GIEDION, Siegfried. Espaço, tempo e arquitetura: o desenvolvimento de uma nova tradição. São Paulo: Martins Fontes, 2004.\n3- KELLY, C. et alii. Século XIX: o romantismo. Rio de Janeiro: Museu Nacional de Belas Artes, 1979.\n4- REYNOLDS, Donald. A arte do século XIX. Rio de Janeiro: Zahar editores, 1986.\n5- PEVSNER, Nikolaus. Pioneiros do desenho moderno. São Paulo: Martins Fontes, 1995.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "14:00 - 17:00",
+        "professor": "CLARISSA DINIZ DE MOURA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAB233",
+      "Nome": "Gravura em Metal I",
+      "Créditos": "4.0",
+      "Teórica": "0",
+      "Prática": "120",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A disciplina irá apresentar um breve histórico da gravura em metal, suas diferentes técnicas, materiais e procedimentos. Os alunos serão introduzidos às técnicas básicas de gravação em metal, como ponta-seca, água-forte e água-tinta e desenvolverão trabalhos autorais a partir destas.\n",
+       "BibliografiaBasica": "1) MARTINS, Carlos, 1946- Introdução ao conhecimento da gravura em metal . 2. ed. Rio de Janeiro : PUC : MNBA, 1982.\n2) DASILVA, Orlando,1923- ; Grassmann, Marcelo, 1925-2013. A arte maior da gravura / . São Paulo : Edição Espade, 1976.\n3) LINDEN, Gicelda Van Der, As origens da gravura em metal e seu florescimento no Brasil. Rio de Janeiro: UFRJ, 1974\n",
+       "BibliografiaComplementar": "1) CANTON, Katia. Gravura aventura. São Paulo: Universo, 2011. Álbum de gravuras do Brasil, meados do século XIX. Rio Grande: A Biblioteca, 1937.\n2) SONTAG, Susan. Ensaios sobre a fotografia. RJ: Arbor, 1981.\n3) BUTI, Marco. Gravura em Metal / Marco Buti, Anna Letycia (orgs.) - 1.ed 1. Reimpr.- São Paulo: Editora da Universidade de São Paulo, 2015. 296p.; 23cm.\n4) RIBEIRO, Adamastor Camara. Um estudo sobre a produção social da arte: transformações na gravura brasileira. Rio de Janeiro: UFRJ, 1987.\n5) LEITE, José Roberto Teixeira. A Gravura Brasileira Contemporânea. Rio de Janeiro: Expressão e Cultura, 1966.\n6) Jardim, E. C. (2023). Reflexões sobre a prática da gravura em metal. ARS (São Paulo), 21(49), 10-31. https://doi.org/10.11606/issn.2178-0447.ars.2023.219922 Base CAFE\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 12:00",
+        "professor": "MARCOS LOPES DE ABREU"
+       },
+       {
+        "dia": "Sex",
+        "hora": "13:00 - 17:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAF202",
+      "Nome": "Criação da Forma I",
+      "Créditos": "4.0",
+      "Teórica": "15",
+      "Prática": "75",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O que é a forma ? como conceituá-la, como obtê-la, quais as suas características. Elementos conceituais, elementos visuais, elementos de relação. Forma bidimensional e tridimensional. Luz e sombra. Formas naturais e artificiais. Forma como volume. Forma e estrutura. Módulos.\n___ BIBLIOGRAFIA BÁSICA ___\n1- ARNHEIM, Rudolf. Arte e percepção visual: uma psicologia da visão criadora. São Paulo: Cengage Learning, 2008.\n2- DONDIS, Donis. Sintaxe da linguagem visual. São Paulo: Martins Fontes, 2007.\n3- MANGUEL, Alberto. Lendo imagens: uma história de amor e ódio. São Paulo: Companhia das Letras, 2001.\n4- WONG, Wucius. Princípios de forma e desenho. São Paulo: WMF Martins Fontes, 2010.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "09:00 - 12:00",
+        "professor": "MARIA DA GRACA MUNIZ LIMA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "09:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "4º Período": [
+     {
+      "Codigo": "BAH205",
+      "Nome": "História da Arte IV",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das Artes Visuais nos Séculos XX ao XXI, em seus aspectos conceituais, históricos e historiográficos. Do Entre Guerras à Contemporaneidade.\n___ BIBLIOGRAFIA BÁSICA ___\n1- ARGAN. Giulio Carlo. Arte Moderna. São Paulo: Companhia das Letras, 1993.\n2- COTRIM, Cecília; FERREIRA, Glória (orgs.). Escritos de Artista. Rio de Janeiro: Funarte & Jorge Zahar Editor, 2006.\n3- KRAUSS, Rosalind. Caminhos da Escultura Moderna. São Paulo: Martins Fontes, 1998.\n___ BIBLIOGRAFIA COMPLEMENTAR ___\n1- BATCHELOR, David. Minimalismo. São Paulo: Cosac & Naify Edições, 2001.\n2- BELTING, Hans. O fim da História da Arte. São Paulo: Cosacnaify, 2006.\n3- DANTO, Arthur. A transfiguração do lugar comum. São Paulo: Cosacnaify, 2007.\n4- HOLMES, Brian. Investigações Extradisciplinares: para uma nova crítica das instituições. Concinnitas.  Ano 9.  vol. 1, nº 12, 06-13, julho/2008.\n5- JAMESON, Fredric. Pós-Modernismo: a lógica cultural do capitalismo tardio. São Paulo: Ática, 1997.\n6- KRAUSS, Rosalind. Vídeo : a estética do narcisismo. Arte e Ensaios∕PPGAV-EBA, ano XV, nº16, 144-157,  2008.\n7- McCARTHY, David. Arte Pop. São Paulo: Cosac & Naify Edições, 2002.\n8- ODOHERTY, Brian. No Interior do Cubo Branco. São Paulo: Martins Fontes, 2007.\n9- TIBERGHIEN, Gilles. Cabanas. Revista Conccinnitas, ano 4,  n° 4, 227-242, março/2003.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "09:00 - 12:00",
+        "professor": "CLARISSA DINIZ DE MOURA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAF205",
+      "Nome": "Modelo Vivo I",
+      "Créditos": "3.0",
+      "Teórica": "0",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenho de observação da estrutura da forma no espaço com seus atributos de ritmo, volumes e proporção. Percepção da linha e suas possibilidades expressivas e do claro-escuro.\n___Bibliografia Recomendada___\n1- ARNHEIM, Rudolf. Arte e percepção visual: uma psicologia da visão criadora. São Paulo: Cengage Learning, 2011.\n2- ARNHEIM, Rudolf. Intuição e intelecto na arte. São Paulo: Martins Fontes, 1989.\n3- KANDINSKY, Wassily. Ponto linha plano: contribuição para a análise dos elementos picturais. Lisboa: Edições 70, 1996.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "09:00 - 12:00",
+        "professor": "LUANA MANHAES DA SILVA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "09:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH500",
+      "Nome": "Estética",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudos das principais correntes de pensamento estético, da Antiguidade aos nossos dias. Definição do campo da estética em sua relação com a filosofia e a arte. Conceitos fundamentais para a compreensão do fenômeno estético.\n___Bibliografia Recomendada___\n1) BASTOS, Fernando. Panorama das ideias estéticas no Ocidente. Brasília: Editora Universidade de Brasília, 1987.\n2) DUARTE, Rodrigo (org.). O belo autônomo: textos clássicos de estética. Belo Horizonte: Autêntica Editora, 2012.\n3) PAREYSON, Luigi. Os problemas da estética. São Paulo: Martins Fontes, 2001.\n4) SUASSUNA, Ariano. Iniciação à estética. Rio de Janeiro: José Olympio, 2004.\n___Bibliografia Complementar___\n1) DANTO, Arthur C.. O abuso da beleza. São Paulo: Martins Fontes, 2015.\n2) DUFRENNE, Mikel. Estética e filosofia. São Paulo: Perspectiva, 1991.\n3) LACOSTE, Jean. A filosofia da arte. Rio de Janeiro: Jorge Zahar, 1986.\n4) MAMMÌ, Lorenzo. O que resta: arte e crítica de arte. São Paulo: Cia das Letras, 2012.\n5) NIETZSCHE, Friedrich. O nascimento da tragédia ? ou helenismo e pessimismo. São Paulo: Cia das Letras, 1992.\n6) NOVAES, Adauto (org.). Artepensamento. São Paulo: Companhia das Letras, 2006.\n7) NUNES, Benedito. Introdução à filosofia da arte. São Paulo: Editora Ática, 2010.\n8) VERNANT, Jean-Pierre. O universo, os deuses, os homens. São Paulo: Cia das Letras, 2000.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "14:00 - 17:00",
+        "professor": "VERONICA MIRANDA DAMASCENO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "5º Período": [],
+    "6º Período": [],
+    "7º Período": [
+     {
+      "Codigo": "BABX05",
+      "Nome": "Atividades Complementares",
+      "Créditos": "3.0",
+      "Teórica": "0",
+      "Prática": "120",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Atuação em atividades complementares. Pretende-se que este conjunto de atividades constitua um campo de conhecimento, cujo eixo estará integrado às várias áreas de conhecimento do curso, proporcionando dinamismo à produção acadêmica do futuro artista visual/gravador e, assim, estimular o desenvolvimento de projetos de pesquisas, isto é, a produção e experimentação de processos metodológicos de cunho prático e teórico.\n___Bibliografia Recomendada___\n1) Bibliografia recomendada pelo Coordenador da atividade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "8º Período": [
+     {
+      "Codigo": "BABX10",
+      "Nome": "Tcc",
+      "Créditos": "3.0",
+      "Teórica": "0",
+      "Prática": "150",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O projeto de Trabalho de Conclusão de Curso (TCC) será apresentado a um professor da Escola de Belas Artes, escolhido como orientador, não sendo este necessariamente um professor do curso. O resultado do TCC será submetido a uma banca, convidada pelo professor orientador, com a aquiescência do estudante, formada por dois outros professores, além do orientador. A banca deverá ter em sua composição pelo menos um membro do curso de Artes Visuais ? Gravura.\n___Bibliografia Recomendada___\n1) Devido à especificidade de cada projeto, não cabe bibliografia básica.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sab",
+        "hora": "13:00 - 17:00",
+        "professor": "PEDRO SANCHEZ CARDOSO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BABX09",
+      "Nome": "Exposição Individual",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A Exposição Individual será elaborada ao longo do último período de formação do estudante, paralelamente ao TCC ? Trabalho de Conclusão de Curso, sendo a culminância deste. Na Exposição Individual o estudante deverá tornar público o conteúdo de seu TCC, que como dissemos, poderá ser de cunho teórico ou prático.\n___Bibliografia Recomendada___\n1) evido à especificidade de cada projeto, não cabe bibliografia básica.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sab",
+        "hora": "13:00 - 17:00",
+        "professor": "MARCOS LOPES DE ABREU"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "Disciplinas Optativas (Escolha Restrita)": [
+     {
+      "Codigo": "BAB022",
+      "Nome": "Xilogravura III",
+      "Créditos": "4.0",
+      "Teórica": "0",
+      "Prática": "120",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Na disciplina o aluno será convidado a aprofundar suas experiências nos processos de impressão em relevo, sendo convidado a pensar a gravura como ?impresso? e a realizar experimentações com diversos tipos de impresso: gravura de arte, publicação, cartaz, carimbo, lambe-lambe, etc.\n",
+       "BibliografiaBasica": "1) CAMARGO, Iberê - CARNEIRO, Mário. Iberê camargo, Mário Carneiro: correspondência. Rio de Janeiro: Casa da Palavra, 1999.\n2) Gravura brasileira hoje: depoimentos / coordenação Heloísa Pires Ferreira - Rio de Janeiro: SESC, 1995-1997.\n3) Pedrosa, Patrícia Figueiredo. Maria Bonomi com a gravura: do meio como fim ao meio como princípio. Rio de Janeiro: Rio Books, 2021.\n4) Oswaldo Goeldi: desenhos, matrizes e gravuras - Rio de Janeiro: Museu Nacional de Belas Artes, 2008.\n",
+       "BibliografiaComplementar": "1) A gravura brasileira na coleção Mônica e George Kornis. Rio de Janeiro: Caixa Cultural, 2007.\n2) Eichenberg, Fritz. The art of print: masterpieces, history, techniques. New York: Harry N. Abrams, 1976.\n3) Gravura: arte brasileira do século XX. São Paulo: Itaú Cultural: Cosac Naify, 2000.\n4) Hillier, Jack Ronald. Japonese prints: 300 years of albuns and books. London: British Museum Publications, 1980.\n5) Mestres da gravura. Rio de Janeiro: Artepadilla: Fundação Biblioteca Nacional, 2013.\n6) Grabner, F. S., & Bernardes, A. C. (2016). A XILOGRAVURA COMO A PRECURSORA DA EVOLUÇÃO DAS TÉCNICAS GRÁFICAS NA PRODUÇÃO DE LIVROS. Revista Univap,\n22(40), 204. https://doi.org/10.18066/revistaunivap.v22i40.625\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 17:00",
+        "professor": "MARCIO GUIMARAES MONTEIRO DE CASTRO"
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 17:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "BAB021"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAB024",
+      "Nome": "Gravura em Metal III",
+      "Créditos": "4.0",
+      "Teórica": "0",
+      "Prática": "120",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Na disciplina o aluno será convidado a aprofundar suas experiências nos processos de gravura em metal, sendo convidado a realizar gravuras em cores, com uma ou mais matrizes, bem como a utilizar procedimentos alternativos de gravação e impressão, para além dos procedimentos tradicionais.\n",
+       "BibliografiaBasica": "1) FERREIRA, Heloisa Pires. Gravura brasileira hoje: depoimentos. SESC Regional do Rio de Janeiro,1995.\n2) RIBEIRO, Adamastor Camara. Um estudo sobre a produção social da arte: transformações na gravura brasileira. Rio de Janeiro: UFRJ, 1987.\n3) LINDEN, Gicelda Van Der, As origens da gravura em emtal em metal e seu florescimento no Brasil. Rio de Janeiro: UFRJ, 1974.\n",
+       "BibliografiaComplementar": "1) CAMARGO, Ibere, CARNEIRO, Mario. Iberê Camargo/ Mário carneiro: Correspondências. São Paulo: Casa da Palavra, 1997.\n2) Griffiths, Antony. Prints and printmaking : an introduction to the history and techniques / . Berkeley : Los Angeles : University of California Press, c1996.\n3) BENJAMIN, Walter. A obra de arte na era de sua reprodutilidade técnica. São Paulo: LP&M, 2018.\n4) BUTI, Marco. Gravura em Metal / Marco Buti, Anna Letycia (orgs.) - 1.ed 1. Reimpr.- São Paulo: Editora da Universidade de São Paulo, 2015. 296p.; 23cm.\n5) COSTA, Marcus de Lontra. Experimentação e método : Oficina de Gravura do Ingá.\n6) Soto Calzado, I. (2018). Una historia española del aguatinta. Espacio Tiempo y Forma. Serie VII, Historia del Arte, (6), 367?388. https://doi.org/10.5944/etfvii.6.2018.20208. DOI:\nhttps://doi.org/10.5944/etfvii.6.2018.20208. Base CAFÉ.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 17:00",
+        "professor": "MARCOS LOPES DE ABREU"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 17:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "BAB023"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAB026",
+      "Nome": "Lito III",
+      "Créditos": "4.0",
+      "Teórica": "0",
+      "Prática": "120",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Técnicas reversas para policromia litográfica com os métodos de inversão e negativo. Litografia em alumínio (aluminografia ou algrafia). Impressão de trabalhos em grande formato. Outros suportes alternativos para a impressão litográfica como o zinco e as chapas de offset.\n",
+       "BibliografiaBasica": "1) IHA, Kazuo; PEDROSA, Patrícia. Oficina de Litografia. Rio de Janeiro: Rio Books, 2020.\n2) DASILVA, Orlando. A arte maior da gravura. São Paulo : Edição Espade, 1976.\n3) Pedrosa, Patrícia Figueiredo. Maria Bonomi com a gravura : do meio como fim ao meio como princípio / . Rio de Janeiro : Rio Books, 2021\n",
+       "BibliografiaComplementar": "1) Brown, Bolton. Lithography for artists : a complete account of how to grind, draw upon, etch, and print from the stone, together with instructions for making crayon, transferring, etc. / . Chicago : Art Institute of Chicago by the University of Chicago Press, [c1930].\n2) KOSSOVICH, Leon. Gravura: arte brasileira do século XX. São Paulo: Cosac & Naify, 2024\n3) ANTEASIAN, Garo Z. The Tamarind Book of Lithography: Art and Techniques, Harry N. Abrams Inc. Publishers; 1St Edition edition (January 1, 1971).\n4) Matheus, Isabella. Gravura em campo expandido. São Paulo : Pinacoteca do Estado de São Paulo, 2012.\n5) Barros, H. de, Lessa, W. D., Lima, E. C., & Lima, G. C. (2016). Rótulos cromolitográficos brasileiros: efêmeros, memória gráfica, cultura material e identidade nacional | Brazilian chromolithographic labels: ephemera, graphic memory, material culture and national identity. InfoDesign - Revista Brasileira De Design Da Informação, 13(3), 199?213. https://doi.org/10.51358/id.v13i3.504. Base Cafe\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 17:00",
+        "professor": "PATRICIA FIGUEIREDO PEDROSA"
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 17:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "BAB025"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAB028",
+      "Nome": "Serigrafia Artesanal II",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A disciplina irá oferecer aos alunos a oportunidade de aprofundar suas experiências com a técnica sergigráfica artesanal, apresentando procedimentos de produção de matrizes gravadas fotograficamente com telas emulsionadas.\n",
+       "BibliografiaBasica": "1) CARDOSO, Rafael (org.), O design brasileiro antes do design: aspectos da história gráfica, 1870-1960. São Paulo: Cosac Naif, 2005.\n2) Benjamin, Walter. A obra de arte na era de sua reprodutibilidade técnica / . Porto Alegre, RS : L&PM, 2021.\n3) Ferreira, Heloisa Pires. Gravura brasileira hoje : depoimentos / . Rio de Janeiro : SESC, Administração Regional no Estado do Rio de Janeiro, 1995-1997.\n",
+       "BibliografiaComplementar": "1) PÂNDU, Pandia, Técnicas de serigrafia (silk-screen). Rio de Janeiro: Rio Condor, (s.d.).\n2) HONNEF, Klaus. Andy Warhol 1928-1987: a comercialização da arte. Koln: Benedik Taschen, 1992.\n3) JOHNSON, William Harding. The Graphic Arts. New York: The MacMillan Company, 1942.\n4) MILHAZES, Beatriz. Meu bem / Beatriz Milhazes; Curadoria e textos de Frédéric Paul. São Paulo: Base7 Projetos Culturais, 2013.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAB027"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAB032",
+      "Nome": "Ilustração e Mercado",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A disciplina irá preparar o aluno aos desafios enfrentados pelo ilustrador em sua atuação profissional no mercado. O aluno será apresentado a situações reais do mercado de trabalho e à questões relacionadas à ética profissional (direitos autorais, plágio, concorrências não remuneradas).\n",
+       "BibliografiaBasica": "1) MUNARI, Bruno. Das Coisas Nascem Coisas. São Paulo: Martins Fontes, 2002.\n2) CASTLEMAN, Riva. Artistas modernos enquanto ilustradores. Nova Iorque: (s.n.), 1981.\n3) LINS, Guto. Livro infantil: projeto gráfico, metodologia, subjetividade. São Paulo: 2004.\n4) HENDEL, Richard. O design do livro (1999), trad. Geraldo Gerson de Souza e Lúcio Manfredi. Cotia: Ateliê Editorial, 2003.\n5) JENKINS, Henry. A Cultura da Convergência. São Paulo: Aleph, 2009\n",
+       "BibliografiaComplementar": "1) LAWRENCE, Zeege. Fundamentos da ilustração: como gerear ideias, interpreter briefings e se promover. Uma exploração dos aspectos filosóficos e profissionais do mundo da ilustração digital e analógica. Porto Alegre: Bookman, 2009.\n2) LOOMIS, Andrew, 1982. Ilustracion creadora. Buenos Aires: Hachette, 1954. A complete guide to drawing illustration cartoonig and painting. New York: Simon and Schuster, 1948.\n3) JENKINS, Henry; GREEN, Joshua; FORD, Sam. Cultura da conexão: criando valor e significado por meio da mídia propagável. São Paulo: Aleph, 2014. 408 p.\n4) CAVICCHIOLI, Marina. Livro Ilustrado: palavras e imagens. Remate de Males, Campinas, SP, v. 34, n. 2, p. 711?717, 2015. DOI: 10.20396/remate.v34i2.8635876. Disponível em: https://periodicos.sbu.unicamp.br/ojs/index.php/remate/article/view/8635876. Base Café\n5) Fleck F de O, Cunha MFV da, Caldin CF. Livro ilustrado: texto, imagem e mediação. Perspect ciênc inf [Internet]. 2016Jan;21(1):194?206. Available from:\nhttps://doi.org/10.1590/1981-5344/2390. Base Cafe\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAB031"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAE005",
+      "Nome": "Videoarte I",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Arte eletrônica, vídeoarte. Realização de vídeos, vídeo-objetos e vídeo-instalações. Estudo da história da vídeoarte.\n___BIBLIOGRAFIA BÁSICA___\n1- FIFER, Sally Jo; HALL, Doug. Illuminating Video: an essential guide to video art. New York: Aperture / Bay Area Video Coalision, 1990.\n2- MACHADO, Arlindo. Máquina e imaginário. São Paulo: EDUSP, 1993.\n3- MACHADO, Arlindo. A arte do vídeo. São Paulo: Brasiliense, 1988.\n4- MACHADO, Arlindo. O quarto iconoclasmo e outros ensaios. Rio de Janeiro: Marca D´água, 2001.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 12:00",
+        "professor": "BEATRIZ PIMENTA VELLOSO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAH353",
+      "Nome": "História Fotog Artes Gráficas",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo da fotografia como linguagem artística ressaltando os principais momentos de sua trajetória. Conecimento dos principais métodos de análise utilizados levando-se em consideração seus limites e alcances. História e evolução das artes gráficas e seus processos técnicos e linguagens artísticas.\n___BIBLIOGRAFIA BÁSICA___\n1- BAER, Lorenzo. Produção Gráfica. 2 ed. São Paulo: SENAC, 1999.\n2- BERGER, John. Modos de ver. Rio de Janeiro: Rocco, 1999.\n3- BUSSELLE, Michael. Tudo sobre Fotografia. 11 ed. São Paulo: Pioneira, 2004.\n4- KOSSOY, Boris. Fotografia e História. São Paulo: Ateliê Editorial, 2001.\n5- KUBRUSLY, Cláudio Araújo. O que é Fotografia. 4 ed. São Paulo: Brasiliense, 1998.\n6- MUNARI, Bruno. Design e Comunicação Visual. São Paulo: Martins Fontes, 1997.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "10:00 - 13:00",
+        "professor": "CEZAR TADEU BARTHOLOMEU"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV113",
+      "Nome": "Tecnologias Artes Gráficas",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conhecimento do universo da produção gráfica, pré-impressão, pós-impressão e suas tecnologias e suportes.\n___Bibliografia Recomendada___\n1) David Bann, Novo Manual de Produção Gráfica, Ed. Bookman 2010.\n2) Gavin Ambrose e Paul Harris, Impressão e Acabamento, Ed. Bookman 2009.\n3) Tom Frase,O Guia Completo da Cor, Ed Senac, 2007.\n4) Ellen Lupton, Pensar com Tipos. Ed. Cosac Naify, 2006.\n5) Ellen Lupton, Novos Fundamentos do Design. Ed. Cosac Naify, 2008. Revistas de Design: Arc Design, ABCDesign, Computer Arts Brasil.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAV103"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAB035",
+      "Nome": "Tóp Esp Gravura II",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A disciplina propõe um aprofundamento teórico/prático em questões relativas à gravura, suas diversas modalidades, usos e funções.\nBibliografia Recomendada\nPor se tratar de uma disciplina flexível, para a qual o professor irá desenvolver uma\nproposta específica a cada período, de acordo com sua pesquisa pessoal e com o\ndesenvolvimento do trabalho junto aos estudantes, não cabe uma bibliografia especificada\nde antemão.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 12:00",
+        "professor": "MARCOS LOPES DE ABREU"
+       },
+       {
+        "dia": "Qui",
+        "hora": "08:00 - 12:00",
+        "professor": "PEDRO SANCHEZ CARDOSO"
+       }
+      ],
+      "Requisitos": [
+       "BAB233"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAB037",
+      "Nome": "Tóp Esp Gravura IV",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A disciplina propõe um aprofundamento teórico/prático em questões relativas à gravura, suas diversas modalidades, usos e funções.\nBibliografia Recomendada\nPor se tratar de uma disciplina flexível, para a qual o professor irá desenvolver uma\nproposta específica a cada período, de acordo com sua pesquisa pessoal e com o\ndesenvolvimento do trabalho junto aos estudantes, não cabe uma bibliografia especificada\nde antemão.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAB233"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAB039",
+      "Nome": "Tóp Esp Gravura VI",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A disciplina propõe um aprofundamento teórico/prático em questões relativas à gravura, suas diversas modalidades, usos e funções.\nBibliografia Recomendada\nPor se tratar de uma disciplina flexível, para a qual o professor irá desenvolver uma\nproposta específica a cada período, de acordo com sua pesquisa pessoal e com o\ndesenvolvimento do trabalho junto aos estudantes, não cabe uma bibliografia especificada\nde antemão.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAB233"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAB041",
+      "Nome": "Tóp Esp Gravura VIII",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A disciplina propõe um aprofundamento teórico/prático em questões relativas à gravura, suas diversas modalidades, usos e funções.\nBibliografia Recomendada\nPor se tratar de uma disciplina flexível, para a qual o professor irá desenvolver uma\nproposta específica a cada período, de acordo com sua pesquisa pessoal e com o\ndesenvolvimento do trabalho junto aos estudantes, não cabe uma bibliografia especificada\nde antemão.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAB233"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAB539",
+      "Nome": "Tóp Esp Gravura em Litografia",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A disciplina propõe um aprofundamento teórico/prático em questões relativas à litografia, suas diversas modalidades, usos e funções.\n___Bibliografia Recomendada___\n1) Trata-se de uma disciplina flexível, para a qual o professor irá desenvolver uma proposta, de acordo com sua pesquisa pessoal e com o desenvolvimento do trabalho junto aos estudantes. Dessa maneira, não cabe uma bibliografia específica.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAB122"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAB541",
+      "Nome": "Tóp Esp Gravura em Serigrafia",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A disciplina propõe um aprofundamento teórico/prático em questões relativas à serigrafia, suas diversas modalidades, usos e funções.\n___Bibliografia Recomendada___\n1) Trata-se de uma disciplina flexível, para a qual o professor irá desenvolver uma proposta, de acordo com sua pesquisa pessoal e com o desenvolvimento do trabalho junto aos estudantes. Dessa maneira, não cabe uma bibliografia específica.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAB027"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAB021",
+      "Nome": "Xilogravura II",
+      "Créditos": "4.0",
+      "Teórica": "0",
+      "Prática": "120",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Na disciplina o aluno será convidado a aprofundar suas experiências nos processos de impressão em relevo, utilizando diversos tipos de suportes além da tradicional madeira e produzindo trabalhos com técnicas mistas, partindo de duas ou mais matrizes, com duas ou mais camadas de cor.\n",
+       "BibliografiaBasica": "1) Gravura brasileira hoje: depoimentos / coordenação Heloísa Pires Ferreira - Rio de Janeiro: SESC, 1995-1997.\n2) Fayga Ostrower: gravuras 1950-1995. Rio de Janeiro: Centro Cultural Banco do Brasil, 1995.\n3) MACHADO, Anibal. Goeldi. Rio de Janeiro: MEC: 1955. Coleção \"Artistas Brasileiros\".\n4) MARTINS, Itajahy. Gravura: arte e técnica. São Paulo: Fundação Nestlé Cultural, 1987.\n",
+       "BibliografiaComplementar": "1) IVINS, William Mills. Imagen impressa y conocimiento: análisis de la imagen prefotográfica. Barcelona: GG, 1975.\n2) FERREIRA, Orlando da Costa. Imagem e Letra: introdução à bibliografia brasileira; A imagem gravada. São Paulo: Melhoramentos; USP, 1977.\n3) Prefeitura da Cidade do Rio de Janeiro. Mostra Rio Gravura catálogo geral dos eventos. Rio de Janeiro: Rio Arte, 1999.\n4) SANTOS, Renata. A imagem gravada: a gravura no Rio de Janeiro entre 1808 e 18053. Rio de Janeiro: Casa da Palavra, 2008.\n5) MAIA, Manuela Eugênio. A Experiência nos Processos de Digitalização do Acervo de Cordel da Biblioteca Átila Almeida da Universidade Estadual da Paraíba. Universidade Federal da Paraíba; Volume: 18; Issue: e Linguagem: Português. 2012. ISSN - 1981-0695.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 17:00",
+        "professor": "MARCIO GUIMARAES MONTEIRO DE CASTRO"
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 17:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "BAB110"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAB023",
+      "Nome": "Gravura em Metal II",
+      "Créditos": "4.0",
+      "Teórica": "0",
+      "Prática": "120",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Na disciplina o aluno será convidado a aprofundar suas experiências nos processos de gravura em metal, será apresentado a outros procedimentos e técnicas de gravação e aprenderá a preparar vernizes e bases.\n",
+       "BibliografiaBasica": "1) FERREIRA, Heloisa Pires. Gravura brasileira hoje: depoimentos. Rio de Janeiro,1995.\n2) LINDEN, Gicelda Van Der, As origens da gravura em metal e seu florescimento no Brasil. Rio de Janeiro: UFRJ, 1974.\n3) Katz, Renina. Renina Katz : gravuras : doação da artista ao Museu Nacional de Belas Artes.\n",
+       "BibliografiaComplementar": "1) ARAÚJO, Emanuel. A construção do livro: princípios da técnica de editoração. Rio de Janeiro: Lexikon, 2008.\n2) RIBEIRO, Adamastor Camara. Um estudo sobre a produção social da arte: transformações na gravura brasileira. Rio de Janeiro: UFRJ, 1987.\n3) CANTON, Katia. Gravura aventura. São Paulo: Universo, 2011. Álbum de gravuras do Brasil, meados do século XIX. Rio Grande: A Biblioteca, 1937.\n4) TAVORA, Maria Luisa Luz. Anna Bella Geiger: inquietações no corpo fragmentado. Revista Arte e Ensaios. v. 7 n. 7 (2000): ?imagem e forma na arte contemporânea?. DOI:\nhttps://doi.org/10.37235/ae.n7.7\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 17:00",
+        "professor": "MARCOS LOPES DE ABREU"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 17:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "BAB233"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAB025",
+      "Nome": "Lito II",
+      "Créditos": "4.0",
+      "Teórica": "0",
+      "Prática": "120",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A litografia a serviço do aprofundamento da pesquisa criativa do aluno: outros métodos de produção e gravação. Litografia policromática com uma, duas ou mais matrizes. Ampliação do repertório procedimental de imagens em plano com recursos alternativos de criação e formato.\n",
+       "BibliografiaBasica": "1) IHA, Kazuo; PEDROSA, Patrícia. Oficina de Litografia. Rio de Janeiro: Rio Books, 2020.\n2) FERREIRA, Orlando da Costa. Imagem e Letra: introdução à bibliografia brasileira: a imagem gravada. São Paulo: Melhoramentos; USP, 1977.\n3) DASILVA, Orlando. A arte maior da gravura / . São Paulo : Edição Espade, 1976.\n",
+       "BibliografiaComplementar": "1) GRIFFITHS, Antony. Prints and Printmaking: An introduction to the History and techniques. University of California Press, 1996.\n2) ANTEASIAN, Garo Z. The Tamarind Book of Lithography: Art and Techniques, Harry N. Abrams Inc. Publishers; 1St Edition edition (January 1, 1971).\n3) Matheus, Isabella. Gravura em campo expandido. São Paulo : Pinacoteca do Estado de São Paulo, 2012.\n4) Mostra Rio Gravura: catálogo geral dos eventos. -- . Rio de Janeiro : RIOARTE : RIOTUR, 1999.\n5) BRAGA, Nara Firme. A reinvenção das Maculaturas realizadas por Lotus Lobo. (2021). Revista Internacional Em Língua Portuguesa, 37, 127-140. https://doi.org/10.31492/2184-2043.RILP2020.37/pp.127-140. Portal de Periódicos da CAPES/ Café.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 17:00",
+        "professor": "MARCOS LOPES DE ABREU"
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 17:00",
+        "professor": "PATRICIA FIGUEIREDO PEDROSA"
+       }
+      ],
+      "Requisitos": [
+       "BAB122"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAB027",
+      "Nome": "Serigrafia Artesanal I",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A disciplina irá apresentar um breve histórico da serigrafia enquanto processo de reprodução de imagens, seus diversos usos e funções e introduzir o aluno ao processo de impressão serigráfica utilizando procedimentos artesanais de criação da matriz de serigrafia.\n",
+       "BibliografiaBasica": "1) CARDOSO, Rafael (org.), O design brasileiro antes do design: aspectos da história gráfica, 1870-1960. São Paulo: Cosac Naif, 2005.\n2) Benjamin, Walter. A obra de arte na era de sua reprodutibilidade técnica / . Porto Alegre, RS : L&PM, 2021.\n3) Ferreira, Heloisa Pires. Gravura brasileira hoje : depoimentos / . Rio de Janeiro : SESC, Administração Regional no Estado do Rio de Janeiro, 1995-1997.\n",
+       "BibliografiaComplementar": "1) PÂNDU, Pandia, Técnicas de serigrafia (silk-screen). Rio de Janeiro: Rio Condor, (s.d.).\n2) HONNEF, Klaus. Andy Warhol 1928-1987: a comercialização da arte. Koln: Benedik Taschen, 1992.\n3) JOHNSON, William Harding. The Graphic Arts. New York: The MacMillan Company, 1942.\n4) MILHAZES, Beatriz. Meu bem / Beatriz Milhazes; Curadoria e textos de Frédéric Paul. São Paulo: Base7 Projetos Culturais, 2013.\n5) Gravura, Arte Brasileira do Século XX. São Paulo: Itaú Cultural, 2000.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAB031",
+      "Nome": "Ilustração Experimental",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A disciplina irá apresentar aos alunos diversos procedimentos gráficos e plásticos que podem ser usados para realizar ilustrações emdiversos campos. Os alunos serão convidados realizar exercícios em técnicas diversas de modo a desenvolverem uma linguagem autoral e múltipla, capaz de atender a diversas demandas na área da ilustração.\n",
+       "BibliografiaBasica": "1) VAN DER LINDEN, Sophie. Para ler o livro ilustrado. São Paulo: Cosac & Naify, 2011.\n2) ARNHEIM, Rudolf. Arte e Percepção Visual ? Uma Psicologia da Visão Criadora. São Paulo: Pioneira Editora, 1998.\n3) NIKOLAJEVA, Maria. Livro ilustrado: palavras e imagens. São Paulo, Cosac Naif, 2011.\n4) POWERS, Alan. Era uma vez uma capa: história ilustrada da literatura infantil (2003), trad. Otacílio Nunes. 1. ed. São Paulo: Cosac Naify, 2008.\n5) EISNER, Will. Quadrinhos e Arte Sequencial, São Paulo: Martins Fontes, 1989.\n",
+       "BibliografiaComplementar": "1) OLIVEIRA, Rui. Pelos Jardins Boboli: Reflexões Sobre a Arte de Ilustrar Livros para Crianças e Jovens. Rio de Janeiro: Nova Fronteira, 2008.\n2) SARAIVA, Roberta (org.). Saul Steinberg - As aventuras da linha. São Paulo: IMS, 2011.\n3) MORAES, Odilon. Traço e Prosa. São Paulo: Cosac e Naify, 2012.\n4) HELLER, Eva. A psicologia das cores: como as cores afetam a emoção e a razão. São Paulo: Olhares, 2021.\n5) ROCHA, Antonio Penalves. Idéias antiescravistas da Ilustração na sociedade escravista brasileira 2000; National History Association; Volume: 20; Issue: 39 Linguagem: Português. ISSN 1806-9347. Base CAFÉ.\n6) RAMOS, Eduardo. Do mercado ao museu: a legitimação artística da gravura popular 2012; UNIVERSIDADE FEDERAL DE GOIÁS; Volume: 8; Issue: 1 Linguagem: Português.\nISSN: 2317-6784 https://revistas.ufg.br/VISUAL/article/view/18209/10865. Base Café.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 12:00",
+        "professor": "MARCIO GUIMARAES MONTEIRO DE CASTRO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAE003",
+      "Nome": "Arte Pública",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Inserção da arte no espaço público e sua prática de produção experimental. As obras bidimensionais e tridimensionais, seus processos de criação e a interação com o público. As diversas estratégias de ampliação da categoria tradicional das artes visuais - interferências: arquitetônica, pictórica, na paisagem e urbana, produção efêmera, vídeo-escultura, foto-escultura, instalação, ocupação sonora e corpo como meio.\n___BIBLIOGRAFIA BÁSICA___\n1- ARGAN, Giulio Carlo. História da arte como história da cidade. São Paulo: Martins Fontes, 1989.\n2- AUGÉ, Marc. Non-places: introduction to an anthropology of supermodernity. London, New York: Verso, 1995.\n3- CRUICSHANK, Jeffrey; KORSA, Pam. Going public: a field guide of developments in art in public spaces. Massachussets: Arts Extension Service, 1988.\n4- LILES, Malcom. Art space and the city: public art and urban futures. London, New York: Routledge, 1997.\n5- BRISSAC, Nelson. Arte/Cidade - a cidade e suas histórias. São Paulo: Marca D´água, 1997.\n6- BRISSAC, Nelson. Arte/Cidade - a cidade e seus fluxos. São Paulo: Marca D´água, 1994.\n7- BRISSAC, Nelson. Arte/Cidade - as máquinas de guerra contra os aparelhos de captura. São Paulo: Gráfica Garilli, 2002.\n8- BRISSAC, Nelson. Arte/Cidade - cidade sem janelas. São Paulo: Marca D´água, 1994.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAE006",
+      "Nome": "Videoarte II",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Arte eletrônica, videoarte. Realização de vídeos, vídeos-objetos e vídeo-instalações. Estudo da história da videoarte.\n___BIBLIOGRAFIA BÁSICA___\n1- FIFER, Sally Jo; HALL, Doug. Illuminating Video: an essential guide to video art. New York: Aperture / Bay Area Video Coalision, 1990.\n2- MACHADO, Arlindo. Máquina e imaginário. São Paulo: EDUSP, 1993.\n3- MACHADO, Arlindo. A arte do vídeo. São Paulo: Brasiliense, 1988.\n4- SHAW, Jeffrey; WEIBEL, Peter. Future cinema: the cinematic imaginary after film. ZKM Center for Art and Media Karlsruhe, 16 November 2002 - 30 March 2003, travelling to the following venues: Musuem of Contemporary Art, KIASMA Helsinki, 28 June - 28 September 2003, NTT Intercommunication Center ICC Tokyo 2 December 2003 - 7 March 2004. Cambridge: MIT Press, 2003. 635 S.: zahlr. III.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 12:00",
+        "professor": "MARIA ELISA CAMPELO DE MAGALHAES"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV103",
+      "Nome": "Planej e Processos Gráficos",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conhecimento das técnicas gráficas e das etapas de pré-produção. Papel, tipografia e imagem. Preparação do arquivo para impressão.\nBibliografia Recomendada\n1) AMBROSE, Gavin & HARRIS, Paul. Cor. Porto Alegre: Bookman.\n2) ARAÚJO, Emanuel. A construção do livro: princípios da técnica de editoração. Rio de Janeiro: Lexikon, [2008]. BANN, David. Novo Manual de Produção Gráfica. Porto Alegre: Bookman, 2011.\n3) BOMENY, Maria Helena Werneck. Os Manuais de desenho da escrita. São Paulo: Ateliê Editorial, 2010.\n4) BRINGHURST, Robert. Elementos do Estilo Tipográfico. São Paulo: Ed. Cosac & Naify. 2005.\n5) FERNANDES, Rê. Da cor magenta. Rio de Janeiro: Synergia, 2008.\n6) FRASER, Tom & BANKS, Adam. O essencial da cor no Design. São Paulo: Senac, 2011.\n7) LUPTON, Ellen. Pensar com tipos. São Paulo: Cosac Naify, 2006.\n8) LUPTON, Ellen. Fundamentos do design. São Paulo: Cosac Naify, 2008.\n9) MÜLLER-BROCKMANN, Josef. Sistemas de retículas. Barcelona: Editora Gustavo Gili, 2012.\n10) SAUTÉ, Enric. Aldo Manuzio: Editor. Tipógrafo. Livreiro. São Paulo: Ateliê Editorial, 2004.\n11) TSCHICHOLD, Jan. A Forma do Livro. São Paulo: Ateliê Editorial, 2007.\n12) VILLAS-BOAS, André. Produção Gráfica para Designers. Rio de Janeiro: 2AB, 2010.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAB034",
+      "Nome": "Tóp Esp Gravura I",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A disciplina propõe um aprofundamento teórico/prático em questões relativas à gravura, suas diversas modalidades, usos e funções.\nBibliografia Recomendada\nPor se tratar de uma disciplina flexível, para a qual o professor irá desenvolver uma\nproposta específica a cada período, de acordo com sua pesquisa pessoal e com o\ndesenvolvimento do trabalho junto aos estudantes, não cabe uma bibliografia especificada\nde antemão.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "13:00 - 17:00",
+        "professor": "MARCOS LOPES DE ABREU"
+       }
+      ],
+      "Requisitos": [
+       "BAB233"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAB036",
+      "Nome": "Tóp Esp Gravura III",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A disciplina propõe um aprofundamento teórico/prático em questões relativas à gravura, suas diversas modalidades, usos e funções.\nBibliografia Recomendada\nPor se tratar de uma disciplina flexível, para a qual o professor irá desenvolver uma\nproposta específica a cada período, de acordo com sua pesquisa pessoal e com o\ndesenvolvimento do trabalho junto aos estudantes, não cabe uma bibliografia especificada\nde antemão.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 12:00",
+        "professor": "ROBNEI BONIFACIO DE OLIVEIRA"
+       }
+      ],
+      "Requisitos": [
+       "BAB233"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAB038",
+      "Nome": "Tóp Esp Gravura V",
+      "Créditos": "2.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A disciplina propõe um aprofundamento teórico/prático em questões relativas à gravura, suas diversas modalidades, usos e funções.\nBibliografia Recomendada\nPor se tratar de uma disciplina flexível, para a qual o professor irá desenvolver uma\nproposta específica a cada período, de acordo com sua pesquisa pessoal e com o\ndesenvolvimento do trabalho junto aos estudantes, não cabe uma bibliografia especificada\nde antemão.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAB233"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAB040",
+      "Nome": "Tóp Esp Gravura VII",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A disciplina propõe um aprofundamento teórico/prático em questões relativas à gravura, suas diversas modalidades, usos e funções.\nBibliografia Recomendada\nPor se tratar de uma disciplina flexível, para a qual o professor irá desenvolver uma\nproposta específica a cada período, de acordo com sua pesquisa pessoal e com o\ndesenvolvimento do trabalho junto aos estudantes, não cabe uma bibliografia especificada\nde antemão.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "PATRICIA FIGUEIREDO PEDROSA"
+       }
+      ],
+      "Requisitos": [
+       "BAB233"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAB538",
+      "Nome": "Tóp Esp Gravura em Metal",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A disciplina propõe um aprofundamento teórico/prático em questões relativas à gravura em metal, suas diversas modalidades, usos e funções.\n___Bibliografia Recomendada___\n1) Trata-se de uma disciplina flexível, para a qual o professor irá desenvolver uma proposta, de acordo com sua pesquisa pessoal e com o desenvolvimento do trabalho junto aos estudantes. Dessa maneira, não cabe uma bibliografia específica\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAB233"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAB540",
+      "Nome": "Tóp Esp Outros Proc Gráficos",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A disciplina propõe um aprofundamento teórico/prático em questões relativas a procedimentos alternativos de gravação e impressão de imagens.\n___Bibliografia Recomendada___\n1) Trata-se de uma disciplina flexível, para a qual o professor irá desenvolver uma proposta, de acordo com sua pesquisa pessoal e com o desenvolvimento do trabalho junto aos estudantes. Dessa maneira, não cabe uma bibliografia específica\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAB542",
+      "Nome": "Tóp Esp em Xilogravura",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A disciplina propõe um aprofundamento teórico/prático em questões relativas à xilogravura, suas diversas modalidades, usos e funções.\n___Bibliografia Recomendada___\n1) Trata-se de uma disciplina flexível, para a qual o professor irá desenvolver uma proposta, de acordo com sua pesquisa pessoal e com o desenvolvimento do trabalho junto aos estudantes. Dessa maneira, não cabe uma bibliografia específica\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAB110"
+      ],
+      "Tipo": "eletiva"
+     }
+    ],
+    "Disciplinas Optativas (Escolha Condicionada)": [
+     {
+      "Codigo": "BAB113",
+      "Nome": "Litografia A.",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Teoria e pratica da arte litografica monocromica.\n13. BIBLIOGRAFIA BÁSICA\n1) IHA, Kazuo; PEDROSA, Patrícia. Oficina de Litografia. Rio de Janeiro: Rio Books, 2020.\n2) DA SILVA, Orlando. A arte maior da gravura. São Paulo: Espade: 1976.\n3) PEDROSA, Patrícia Figueiredo. Maria Bonomi com a gravura: do meio como fim ao meio como princípio / . Rio de Janeiro : Rio Books, 2021.\n",
+       "BibliografiaBasica": "1) ANTEASIAN, Garo Z. The Tamarind Book of Lithography: Art and Techniques, Harry N. Abrams Inc. Publishers; 1St Edition edition (January 1, 1971).\n2) CANTON, Katia. Gravura aventura. São Paulo: Universo, 2011.\n3) TERRA, Fernanda. Mestres da gravura / . Rio de Janeiro : Artepadilla : Fundação Biblioteca Nacional, 2013.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAB411",
+      "Nome": "Gravura I",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A disciplina oferece um panorama prático e teórico dos procedimentos artesanais de reprodução de imagens. O aluno será convidado a realizar experiências de impressão e reprodução de imagens, tomando conhecimento de uma variedade de técnicas gráficas, e sendo convidado a realizar trabalhos coletivos e autorais a partir destes.\n",
+       "BibliografiaBasica": "1) A gravura brasileira na coleção Mônica e George Kornis. Rio de Janeiro: Caixa Cultural, 2007.\n2) DA SILVA, Orlando. A arte maior da gravura. São Paulo: edição Espade, 1976.\n3) Gravura brasileira hoje: depoimentos / coordenação Heloísa Pires Ferreira - Rio de Janeiro: SESC, 1995-1997.\n",
+       "BibliografiaComplementar": "1) CAVALCANTI, Newton; MASSON, Michel (org.) Newton Cavalcanti: lendas rústicas. Rio de Janeiro: Data Coop, 2012.\n2) EICHENBERG, Fritz. The art of print: masterpieces, history, techniques. New York: Harry N. Abrams, 1976.\n3) Gravura: arte brasileira do século XX. São Paulo: Itaú Cultural: Cosac Naify, 2000.\n4) Prefeitura da Cidade do Rio de Janeiro. Mostra Rio Gravura catálogo geral dos eventos. Rio de Janeiro: Rio Arte, 1999.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAB525",
+      "Nome": "Tóp Especiais Sobre Paisagem",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceito de paisagem: suas implicações plásticos-formais e semânticas. Escolha do motivo - elaboração da ideia plástica. A importância do campo plástico na pintura de paisagem. A fatura de cor e luz.\n",
+       "BibliografiaBasica": "1) SCHAMA, Simon. Paisagem e memória; tradução Hildegard Feist. São Paulo: Companhia das Letras, 1996.\n2) CAUQUELIN, Anne. Arte contemporânea : uma introdução / Anne Cauquelin ; tradução Rejane Janowitzer ; revisão de tradução Victoria Murat. -- São Paulo : Martins, 2005.\n3) CAUQUELIN, Anne. Teorias da arte / Anne Cauquelin ; tradução Rejane Janowitzer. -- São Paulo : Martins Fontes, 2005.\n",
+       "BibliografiaComplementar": "1) CAUQUELIN, Anne. A invenção da paisagem; tradução Marcos Marcionilo.São Paulo : Martins, 2007.\n2) BAUDELAIRE, Charles. Paisagem moderna : Baudelaire e Ruskin; Introdução, tradução e notas Daniela Kern. Porto Alegre : Sulina, 2010.\n3) BULHÕES, Maria Amélia. Paisagem : desdobramentos e perspectivas contemporâneas / Maria Amélia Bulhões, Maria Lúcia Bastos Kern, organizadoras. -- Porto Alegre : UFRGS Ed., 2010.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAE007",
+      "Nome": "Arte Digital I",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Ciberarte, arte digital, webart. Realização de trabalhos de arte em redes telemáticas; instalações interativas e obras envolvendo mecatrônica (robótica).\n___BIBLIOGRAFIA BÁSICA___\n1- BENEDIKT, Michael. Cyberspace: first steps. In: BELL, David; KENEDY, Barbara M. The cybercultures reader. London; New York, Routledge, 2000.\n2- DOMINGUES, Diana (Org.). A arte no século XXI: a humanização das tecnologias. São Paulo: UNESP, 1997.\n3- DOMINGUES, Diana (Org.). Criação e interatividade na ciberarte. São Paulo: Experimento, 2002.\n4- KAC, Eduardo. Luz & letra: ensaios de arte, literatura e comunicação. Rio de Janeiro: Contracapa, 2004.\n5- MACIEL, Kátia; PARENTE, André (org.). Redes sensoriais: arte, ciência e tecnologia. Rio de Janeiro: Contracapa, 2003.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAE013",
+      "Nome": "Cerâmica I",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceito do material, histórico, manuseio, preparo, técnicas e processos, modelagem, percurso histórico, cultura e ato técnicos, ferramental, elementos da natureza, químicos orgânicos e inorgânicos, misturas, testes, corpo cerâmico, semântica do objeto, gesto, utilidade e função, o essencial e o cultural.\n___BIBLIOGRAFIA BÁSICA___\n1- BACHELARD, Gaston. A terra e os devaneios da vontade. São Paulo: Martins Fontes, 1991.\n2- LEVI-STRAUSS, Claude. Cru e Cozido, Mitológicas. Rio de Janeiro: Editora: Cosac & Naify, 2004.\n3- READ, Herbert. As origens da Forma na Arte. Rio de Janeiro: Zahar, 1967.\n4- TOSTES, Celeida. A Esmaltação em Metal.\n5- LUCHESI, Bruno. Terracotta: The Technique of Fired Clay Sculpture. Watson-Guptill; 1ST edition.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAF103",
+      "Nome": "Desenho Anatômico I",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Proporções e relações do corpo humano; nomenclatura básica da osteologia; desenho do esqueleto dando o conhecimento da forma, estrutura e função das partes que constituem a cabeça; tronco e membros.\n___Bibliografia Recomendada___\n1- BRIDGMAN, George B. Bridgman's complete guide to drawing from life. New York: Sterling Publishing Company, Inc., 2009.\n2- GORDON, Louise. Desenho anatómico. Lisboa: Presença; [São Paulo]: Martins Fontes, 1980.\n3- LOOMIS, Andrew. Figure drawing for all it?s work. New York: The Viking Press, 1944.\n4- PERARD, Victor. Desenho e anatomia. Rio de Janeiro: Ediouro, [s.d.].\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "09:00 - 12:00",
+        "professor": "JOSE SALMO DANSA DE ALENCAR"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAF204",
+      "Nome": "Criação da Forma II",
+      "Créditos": "4.0",
+      "Teórica": "15",
+      "Prática": "75",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Instrumental necessário à atividade criadora através da análise e aplicação da teoria da cor. Percepção visual, natureza da cor, classificação, efeitos cromáticos, história da cor, fisiologia e psicologia e harmonias cromáticas.\n___ BIBLIOGRAFIA BÁSICA ___\n1-  HELLER, Eva. Psicologia das cores: como as cores afetam a emoção e a razão. São Paulo: G. Gilli, 2016.\n2- PEDROSA, Israel. O universo da cor. Rio de Janeiro: Ed. SENAC Nacional, 2003.\n3- PINTO, Milton. Comunicação e discurso: introdução à análise de discursos. São Paulo: Hacker, 2003\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 16:00",
+        "professor": "MARIA DA GRACA MUNIZ LIMA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "14:00 - 17:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "BAF202"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAH369",
+      "Nome": "Cultura Brasileira",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Formação da cultura brasileira. Etnicidade. Culturas tradicionais, regionais, populares e urbanas no Brasil.\n___ BIBLIOGRAFIA BÁSICA ___\n1- CANDIDO, A. O significado de Raízes do Brasil (Prefácio). In: HOLANDA, S. B. de. Raízes do Brasil. 26.ed. São Paulo: Cia. das Letras, 1995.\n2- FREYRE, G. Prefácio. Casa-grande & senzala: formação da família brasileira sob o regime da economia patriarcal. São Paulo: Global, 2005.\n3- DAMATTA, R. Notas sobre o racismo à brasileira. In: SOUZA, J. (Org) Multiculturalismo e racismo: uma comparação Brasil - Estados Unidos. Brasília: Paralelo, 1997.\n4- MICELI, S. Intelectuais e classe dirigente no Brasil (1920-1945). São Paulo: Difel, 1979.\n5- ROCHA, J. C. de C. As origens e equívocos da cordialidade brasileira. In: ___. O exílio do homem cordial. Rio de Janeiro: Editora do Museu Nacional, 2004.\n___ BIBLIOGRAFIA COMPLEMENTAR ____\n1- CANDIDO, A. Dialética da malandragem. Revista do Instituto de Estudos Brasileiros, São Paulo, v.8, p.67-89, 1970.\n2- FERNANDES, F. A integração do negro na sociedade de classes. São Paulo: Ática, 1978.\n3- HOLANDA, S. B. de. Raízes do Brasil. 26.ed. São Paulo: Cia. das Letras, 1995.\n4- ROMERO, S. Estudos sobre a poesia popular do Brasil. 2.ed. Petrópolis: Vozes, 1977.\n5- WISNIK, J. M. Veneno remédio: o futebol e o Brasil. São Paulo: Cia. das Letras, 2008.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAH503",
+      "Nome": "Arte no Brasil II",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das Artes Visuais no Brasil nos séculos XX e XXI, em seus aspectos conceituais, históricos e historiográficos. Dos diferentes modernismos à arte contemporânea brasileira.\n___ BIBLIOGRAFIA BÁSICA ___\n1-) AMARAL, Aracy. Arte para quê? A preocupação social na arte brasileira, 1930-1970 [1984]. 2ª ed. São Paulo: Nobel, 1987.\n2) BASBAUM, Ricardo (org.). Arte Contemporânea Brasileira: texturas, dicções, ficções, estratégias. Rio de Janeiro: Rio Ambiciosos, 2001.\n3) BRITO, Ronaldo. Neoconcretismo: vértice e ruptura do projeto construtivo brasileiro [1975/1985]. São Paulo: Cosac Naify, 1999.\n4) FERREIRA, Glória (org.). Crítica de arte no Brasil: temáticas contemporâneas. Rio de Janeiro: Funarte, 2006.\n5) ZÍLIO, Carlos. A querela do Brasil: a questão da identidade na arte brasileira: a obra de Tarsila, Di Cavalcanti e Portinari, 1922-1945. Rio de Janeiro: Funarte, 1982.\n___ BIBLIOGRAFIA COMPLEMENTAR ___\n1) AMARAL, Aracy (org.). Projeto construtivo brasileira na arte. 1950-1962. Rio de Janeiro: Museu de Arte Moderna. São Paulo: Pinacoteca do Estado, 1977.\n2) BRETT, Guy. Brasil experimental: arte/vida: proposições e paradoxos. Rio de Janeiro: Contra Capa, 2005.\n3) DUARTE, Paulo Sérgio. Anos 60: transformações da arte no Brasil. Rio de Janeiro: Campos Gerais, 1998.\n4) FABRIS, Annateresa (org.). Modernidade e modernismo no Brasil. Campinas: Mercado das Letras, 1994.\n5) MORAIS, Frederico. Artes Plásticas: a crise da hora atual. Rio de Janeiro: Paz e Terra, 1975.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAR102",
+      "Nome": "Geometria Descritiva II",
+      "Créditos": "4.0",
+      "Teórica": "30",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Curvas em geral: classificações, estudo projetivo, curvas planas.Superfícies em geral: superfícies de revolução, representação pelas projeções de monge. Tratamento descritivo em problemas práticos.\n___Bibliografia Recomendada___\n1) BUSTAMANTE, Léa Santos. Metodologia dos Sistemas Projetivos. RJ . Ed Bahiense.\n2) _______________________. Transformações Projetivas. Sistemas Projetivos. RJ . Ed Bahiense.\n3) PINHEIRO, V. Athayde. Noções de Geometria Descritiva. V.I, II e III. RJ. Ao livro Técnico Ltda.\n4) RODRIGUES. Alvaro J. Geometria Descritiva. V II. RJ. Imprensa Nacional.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAR101"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IUS236",
+      "Nome": "Direitos Humanos Gpdes",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "As normas e instituições que definem e protegem os diversos aspectos da personalidade humana. Evolução histórica e estudo dos direitos humanos nos âmbitos nacional e internacional.\n___Bibliografia Recomendada___\n1) ALVES, J. A. LINDGREN. Os Direitos Humanos como Tema Global. São Paulo: Ed. Pioneira, 1994.\n2) DOUZINAS, Costas. O Fim dos Direitos Humanos. São Leopoldo: Editora UNISINOS, 2009.\n3) FERRAJOLI, Luigi. Derechos y garantias. La Ley del Más Débil. Editorial Trotta, 2010.\n4) GUERRA, Sidney. Direito Internacional dos Direitos Humanos. São Paulo: Editora Saraiva, 2011.\n5) PIOVESAN, Flávia. Direitos Humanos e o Direito Constitucional Internacional. São Paulo: Editora Saraiva, 2012.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NEP146",
+      "Nome": "Dir Hum, Gênero e Sexualidades",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Teorias e práticas feministas sobre as diversidades de gênero, sexualidade, raça, etnia, identidade de gênero, geracional, deficiência, entre outras. Relação interseccional dessas diversidades com os direitos humanos. Avanços históricos dos direitos e políticas públicas nesses campos e dos movimentos sociais em prol da identidade de gênero e diversidade sexual. Limites e possibilidades da aplicação da interseccionalidade de gênero, sexualidade e diversidades nas políticas públicas.\n___BIBLIOGRAFIA BÁSICA___\n1) GONZALES, Lélia. Racismo e sexismo na cultura brasileira. Em Revista Ciências Sociais Hoje. Anpocs. 1984, p. 223-224.\n2) SEGATO, Rita Laura. Gênero e Colonialidade: Em busca de chaves de leitura e de um vocabulário estratégico descolonial. Tradução de Rose Barboza, Revista E-Cadernos, Publicação Trimestral, n. 18 ? Epistemologias feministas: ao encontro da crítica radical. Universidade de Coimbra, Centro de Estudos Sociais (CES). 2012.\n3) SEVERI, Fabiana Cristina. O gênero da justiça e a problemática da efetivação dos direitos humanos das mulheres. Revista Direito e Práxis. Rio de Janeiro, Vol. 07, N.13, 2016, p. 81-115.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NEP149",
+      "Nome": "Dir Hum e Meio Ambiente",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Ecologia e Meio Ambiente. A crise ambiental. O movimento ecológico. Ecodesenvolvimento e desenvolvimento sustentável. Ambientalismo como fenômeno social. Desequilíbrios ecossistêmicos urbano e rural. Os princípios éticos e filosóficos da relação sociedade-natureza. A problemática do meio ambiente e suas repercussões no campo das teorias do desenvolvimento e do planejamento. O enfoque interdisciplinar da problemática sócio-ambiental. Povos tradicionais e meio ambiente. Movimentos sociais ambientais. Meio ambiente e democracia.\n___BIBLIOGRAFIA BÁSICA___\n1) BOBBIO, Norberto. A Era dos Direitos. Rio de Janeiro: Campus;\n2) PORTO-GONÇALVES, Carlos Walter La Globalizacion da la naturaleza e la naturaleza de la globalizacion, Ed. Casa de las Américas, La Habana, Cuba, 2008;\n3) PORTO-GONÇALVES, Carlos Walter em Da Geografia às geo-grafias: um mundo em busca de novas territorialidades. In CECEÑA, Ana Ester e SADER, Emir (Coord.) La Guerra Infinita, Ed. Clacso,Bueno Aires, 2001.\n4) ENZENSBERG, Hans Magnus. Para uma crítica de la ecologia política. Cuadernos Anagrama, Barcelona, 1973.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAB112",
+      "Nome": "Pintura A",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Os materiais de pintura e seu emprego através dos processos usuais. Habilitar o aluno ao uso do material de pintura na execução de trabalhos.\n",
+       "BibliografiaBasica": "1) BARRETO, Lourdes.Oficina de pintura : materiais, fórmulas e procedimentos. Rio de Janeiro : Rio Books, 2011.\n2) MAYER, Ralph. Manual do Artista. São Paulo: Martins Fontes, 1996.\n3) MOTTA, Edson e SALGADO, Maria Luiza. Iniciação a Pintura. Rio de Janeiro: Ed. Nova Fronteira, 1976.\n",
+       "BibliografiaComplementar": "1) ARNHEIM, Rudolf. Intuição e intelecto na arte. São Paulo: Martins Fontes, 1989.\n2) Doerner, Max; Reverté, Pedro. Los materiales de pintura y su empleo en el arte : materiales y técnica de las pinturas al óleo, temple, acuarela, fresco, pastel. Técnica de los antiguos maestros. Conservación de monumentos y cuadros / . Barcelona : G. Gili, 1946.\n3) Hayes, Colin Guia completa de pintura y dibujo : tecnicas y materiales / . Madrid : Hermann Blume, c1980.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 12:00",
+        "professor": "MARIA DE LOURDES BARRETO SANTOS FILHA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAB114",
+      "Nome": "Aquarela A",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudos das técnicas de aquarela e da utilização dos pigmentos e aglutinantes; a preparação dos suportes e acabamentos.\n",
+       "BibliografiaBasica": "1) ARNHEIM, Rudolf. Intuição e intelecto na arte. São Paulo: Martins Fontes, 1989.\n2) MAYER, Ralph. Manual do artista : de técnicas e materiais / . 5. ed. rev. e atual. São Paulo : Martins Fontes, 2016.\n3) MOTTA, Edson. SALGADO, Maria Luiza Guimarães. Iniciação à pintura. Rio de Janeiro: Nova Fronteira, 1976.\n",
+       "BibliografiaComplementar": "1) Hayes, Colin Guia completa de pintura y dibujo : tecnicas y materiales / . Madrid : Hermann Blume, c1980.\n2) Doerner, Max; Reverté, Pedro. Los materiales de pintura y su empleo en el arte : materiales y técnica de las pinturas al óleo, temple, acuarela, fresco, pastel. Técnica de los antiguos maestros. Conservación de monumentos y cuadros / . Barcelona : G. Gili, 1946.\n3) Barreto, Lourdes. Oficina de pintura : materiais, fórmulas e procedimentos / . Rio de Janeiro : Rio Books, 2011.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "08:00 - 12:00",
+        "professor": "MARIA DE LOURDES BARRETO SANTOS FILHA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAB511",
+      "Nome": "Gravura II",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A disciplina busca aprofundar as experiências dos alunos com os procedimentos de gravura. Os estudantes serão convidados a desenvolverem projetos individuais, explorando um ou mais procedimento de reprodução de imagens. Tem como objetivo convidar o estudante a explorar seu repertório poético, munindo-o de instrumentos\ntécnicos que o possibilitarão aprofundar sua pesquisa artística nos meios de reprodução de imagens.\n",
+       "BibliografiaBasica": "1) FERREIRA, Heloisa Pires. Gravura brasileira hoje: depoimentos. SESC Regional do Rio de Janeiro.1995\n2) Oswaldo Goeldi: desenhos, matrizes e gravuras - Rio de Janeiro: Museu Nacional de Belas Artes, 2008.\n3) CARDOSO, Rafael (org.). O design antes do design: aspectos da história gráfica 1870 - 1960. São Paulo: Cosac & Naify, 2005.\n",
+       "BibliografiaComplementar": "1) TERRA, Fernanda. Mestres da Gravura. Rio de Janeiro: Artepadilha; Fundação Biblioteca Nacional, 2013.\n2) HONNEF, Klaus. Andy Warhol 1928-1987: a comercialização da arte. Koln: Benedik Taschen, 1992.\n3) JOHNSON, William Harding. The Graphic Arts. New York: The MacMillan Company, 1942.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 17:00",
+        "professor": "MARCOS LOPES DE ABREU"
+       }
+      ],
+      "Requisitos": [
+       "BAB411"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAE004",
+      "Nome": "Performance",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Realização de exercícios dentro da linguagem da performance do viés das artes visuais; estudo da história da performance.\n___BIBLIOGRAFIA BÁSICA___\n1- CARVALHO, Flavio de. Uma possível teoria e uma experiência. Rio de Janeiro: Nau, 2001.\n2- GOLDBERG, Roselee. A arte da performance, do futurismo ao presente. São Paulo: Martins Fontes, 2006.\n3- GLUSBERG, Jorge. A arte da performance. São Paulo: Perspectiva, 2005.\n4- Caderno VIDEOBRASIL, vol. 1, n. 1, Performance. São Paulo: SESC, 2005.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAE008",
+      "Nome": "Arte Digital II",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Ciberarte, robótica. Realização de instalações interativas e obras envolvendo mecatrônica (robótica).\n___BIBLIOGRAFIA BÁSICA___\n1- WILSON, Stephen. Information arts: Intersections of art, science and technology. Cambridge/MA, London/UK: The MIT Press, 2002.\n2- GRAU, Oliver. Virtual art. Cambridge/MA, London/UK: The MIT Press, 2003.\n3- GOLDBERG, Ken (ed.). The robot in the garden: telerobotics and telepistemology on the internet. Cambridge; London: The MIT Press, 2000.\n4- LUNENFELD, Peter. The digital dialetic - New essays on new media. Cambridge: MIT Press, 1995.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAE014",
+      "Nome": "Cerâmica II",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceito do material, histórico, manuseio, preparo, técnicas e processos, modelagem, percurso histórico, cultura e atos técnicos, ferramental, elementos da natureza, químicos orgânicos e inorgãnicos, misturas, testes, corpo cerâmico, semântica do objeto, gesto, utilidade e função, o essencial e o cultural.\n___BIBLIOGRAFIA BÁSICA___\n1- BACHELARD, Gaston. A terra e os devaneios da vontade. São Paulo: Martins Fontes, 1991.\n2- LEVI-STRAUSS, Claude. Cru e Cozido, Mitológicas. Rio de Janeiro: Editora: Cosac & Naify, 2004.\n3- READ, Herbert. As origens da Forma na Arte. Rio de Janeiro: Zahar, 1967.\n4- TOSTES, Celeida. A Esmaltação em Metal.\n5- LUCHESI, Bruno. Terracotta: The Technique of Fired Clay Sculpture. Watson-Guptill; 1ST edition.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAE013"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAF107",
+      "Nome": "Desenho Anatômico II",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenvolver a disciplina anterior, oferecendo conhecimentos científicos auxiliares para a realização de obras realistas. Informa sobre proporções, equilíbrios, movimento e expressão na figura humana.\n___Bibliografia Recomendada___\n1- BRIDGMAN, George B. Bridgman's complete guide to drawing from life. New York: Sterling Publishing Company, Inc., 2009.\n2- GORDON, Louise. Desenho anatómico. Lisboa: Presença; [São Paulo]: Martins Fontes, 1980.\n3- LOOMIS, Andrew. Figure drawing for all it?s work. New York: The Viking Press, 1944.\n4- PERARD, Victor. Desenho e anatomia. Rio de Janeiro: Ediouro, [s.d.].\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAF103"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAF301",
+      "Nome": "Modelo Vivo II",
+      "Créditos": "3.0",
+      "Teórica": "0",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A figura e sua representação através do estudo do claro-escuro\n___Bibliografia Recomendada___\n1- ARNHEIM, Rudolf. Arte e percepção visual: uma psicologia da visão criadora. São Paulo: Cengage Learning, 2011.\n2- ARNHEIM, Rudolf. Intuição e intelecto na arte. São Paulo: Martins Fontes, 1989.\n3- CHIPP, Herschel B. Teorias da arte moderna. São Paulo: Martins Fontes, 1999.\n4- KANDINSKY, Wassily. Ponto linha plano: contribuição para análise dos elementos picturais. Lisboa: Edições 70, 1996.\n5- WICK, Rainer. Pedagogia da Bauhaus. São Paulo: Martins Fontes, 1989.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 16:00",
+        "professor": "ALVARO MARTINS DE SEIXAS NETO"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 16:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "BAF205"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAH502",
+      "Nome": "Arte no Brasil I",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das Artes Visuais no Brasil, desde antes da chegada dos europeus até o século XIX, em seus aspectos conceituais, históricos e historiográficos. Da arte ameríndia ao academicismo.\n___ BIBLIOGRAFIA BÁSICA ___\n1) ÁVILA, Afonso. Barroco: teoria e análise. São Paulo: Editora Perspectiva. Belo Horizonte: Companhia Brasileira de Metalurgia e Mineração, 1997.\n2) BARCINSKI, Fabiana Werneck (org.). Sobre a arte brasileira: da pré-história aos anos 1960. São Paulo: Martins Fontes: Ed. Sesc-SP, 2014.\n3) COLI, Jorge. Como estudar a arte brasileira do século XIX? São Paulo: Ed. Senac, 2005.\n4) OLIVEIRA, M. A. R.; PEREIRA, S. G.; LUZ, A. A. História da Arte no Brasil: textos de síntese. Rio de Janeiro: Editora da UFRJ, 2008.\n5) ZANINI, Walter (coord.). História geral da arte no Brasil. São Paulo: Instituto Walther Moreira Salles, 1983. 2 v.\n___ BIBLIOGRAFIA COMPLEMENTAR ___\n1) ALVIN, Sandra. Arquitetura religiosa colonial no Rio de Janeiro. Rio de Janeiro: Editora UFRJ/Minc - Iphan/Prefeitura da Cidade do Rio de Janeiro, 1999. 2 v.\n2) D'ARAÚJO, A. L. Arte no Brasil Colonial. Rio de Janeiro: Revan, 2000.\n3) LAGROU, Els. Arte indígena no Brasil. Belo Horizonte: C/Arte, 2007.\n4) OLIVEIRA, M. A. R. O rococó religioso no Brasil e seus antecedentes europeus. São Paulo: Cosac e Naify, 2003.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAR101",
+      "Nome": "Geometria Descritiva I",
+      "Créditos": "4.0",
+      "Teórica": "30",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Fundamentos e técnicas do sistema triedrico e cotado de representação, tomando por modelo o espaço métrico euclidiano. As transformações descritivas das imagens convencionais dos sólidos poliédrico e a resolução de sua problemática básica (seções, interseções, geodésicas).\n___Bibliografia Recomendada___\n1) BUSTAMANTE, Léa Santos. Metodologia dos Sistemas Projetivos. RJ . Ed Bahiense.\n2) _______________________. Transformações Projetivas. Sistemas Projetivos. RJ . Ed Bahiense.\n3) PINHEIRO, V. Athayde. Noções de Geometria Descritiva. V.I, II e III. RJ. Ao livro Técnico Ltda.\n4) RODRIGUES. Alvaro J. Geometria Descritiva. V II. RJ. Imprensa Nacional.\n___Bibliografia Complementar___\n1) Príncipe Júnior, Alfredo de Reis. Noções de Geometria Descritiva I. São Paulo, Nobel, 1984.\n2) Príncipe Júnior, Alfredo de Reis. Noções de Geometria Descritiva II. São Paulo, Nobel, 1984.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAV121",
+      "Nome": "Fotografia I",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Teoria fotográfica, a câmera, estruturação da imagem; introdução ao laboratório fotográfico.\n___Bibliografia Recomendada___\n1) ADAMS,Ansel.The Camera, New York: Litle, Brown and Company, 1991. Existe edição do SENAC SP.\n2) ____, Ansel. The Negative, New York:Litle, Brown and Company, 1991. Existe edição do SENAC SP.\n3) ____, Ansel. The Print, New York: Litle, Brown and Company, 1991. Existe edição do SENAC.\n4) SPGOLDBERG, Vicki. Photography in Print, Alburquerque: University New Mexico Press, 1988Catálogo da XXV Bienal de São Paulo, Iconografias Metropolitanas. São Paulo, 2002.\n5)CARSON, D. , MEGGS P. : Fotografiks, David Carson, Corte Madera: Gingko Press, 2000.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEB599",
+      "Nome": "Est da Líng Bras de Sinais I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Nomes próprios; pronomes pessoais; demonstrativos; possessivos; locativos em sentenças simples do tipo pergunta-resposta com \"o que\" e \"quem\" e outros vocábulos básicos; numerais; quantidade; topicalização; flexão verbal; flexão de negação; expressões faciais e corporais; percepção visual; conversação; diálogos; textos: LIBRAS, cultura e comunidade surda.\n",
+       "BibliografiaBasica": "1) BRITO, L. F. Por uma gramática de língua de sinais. Rio de Janeiro: Tempo Brasileiro, 1995.\n2) FELIPE, T.; MONTEIRO, M. S. LIBRAS em contexto. Curso Básico. Brasília: Ministério da Educação e do Desporto/Secretaria de Educação Especial, 2001.\n3) GESSER, A. Libras - Que língua é essa? Crença e preconceitos em torno da língua de sinais e da realidade surda. Florianópolis: Parábola, 2009.\n4) STROBEL, K. L. As imagens do outro sobre a cultura surda. Florianópolis: EdUFSC, 2008.\n",
+       "BibliografiaComplementar": "1) PIMENTA, Nelson e QUADROS, Ronice Muller. Curso de Libras I, LSB Vídeo, volume I, Iniciante, 2006 e 3a ed., 2008.\n2) Dicionário Enciclopédico Ilustrado Triíngue da Língua de Sinais Brasileira ? vol 1 e vol. 2 Site: www.acessobrasil.org.brasil\n3) Dicionário da Língua Brasileira de Sinais, INES, versão, 2.0, ano 2006.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NEP148",
+      "Nome": "Dir Hum, Pens Negro e Racismo",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Pensamento social negro; Teorias raciais; Racismo; Teorias Etnico-raciais; Relações Étnico Raciais; Movimentos sociais negro; Políticas antirracistas e Direitos Humanos.\n___BIBLIOGRAFIA BÁSICA___\n1) FANON, Franz. Os Condenados da terra. Rio de Janeiro, Editora Civilização Brasileira, 1979.\n2) FERNANDES, Florestan. A integração do negro na sociedade de classes: o legado da \"raça branca\" (volume I). São Paulo, Dominus Editora/Editora da Universidade de São Paulo, 1965.\n3) SKIDMORE, Thomaz E. Preto no branco: raça e nacionalidade no pensamento brasileiro. Rio de Janeiro, Paz e Terra, 1976.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     }
+    ]
+   },
+   "obrigatorias": 20,
+   "eletivas": 55,
+   "ano": "2019/2 a 9999/9"
+  }
+ ]
+}

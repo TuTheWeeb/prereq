@@ -1,0 +1,1965 @@
+{
+ "Biomedicina - M": [
+  {
+   "materias": {
+    "1º Período": [
+     {
+      "Codigo": "NUP106",
+      "Nome": "Téc Básicas em Laboratório",
+      "Créditos": "4.0",
+      "Teórica": "30",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Práticas de espectrofotometria, cromatografia, eletroforese, pesagem e preparo de soluções e tampões, uso de técnicas especializadas como sequenciamento de proteínas, ressonância nuclear magnética, cintilação líquida, fluorescência entre outros. Princípios de química e física básica. Aplicar os conceitos físicos e químicos fundamentais em procedimentos laboratoriais necessários ao exercício da profissão. Selecionar e executar os procedimentos básicos operacionais de um laboratório, de acordo com as normas de segurança individual e coletiva. Manusear corretamente os equipamentos utilizados nas diferentes técnicas básicas em laboratório.\n",
+       "BibliografiaBasica": "1- MARTINS, C.; SOBREIRA, A.; LEÃO, J.A. Técnicas gerais de laboratório. São Paulo - SP:EDART,1982.\n2- ESTRIDGE, B.H. Técnicas básicas de laboratório clínico - 5ªed, porto alegre - RS: artmed, 2011.\n3- BIER, O. MOURA, R.A.; WADA, C.S.; PURCHO, A.; ALMEIDA, T.V. Técnicas de laboratório.3ªed São paulo - SP Atheneu,2008.\n",
+       "BibliografiaComplementar": "1- MOLINARO, E.; CAPUTO, L.; AMENDOEIRA, R. Conceitos e métodos para formação de profissionais em laboratórios de saúde. Volume 1. Rio de Janeiro - RJ: EPSJV, IOC,2009\n2- BRASIL.MINISTÉRIO DA SAÚDE.SECRETARIA DE VIGILÂNCIA EM SAÚDE.DEPARTAMENTO DE BRASÍLIA:VIGILÂNCIA EPIDEMIOLÓGICA, BIOSSEGURANÇA EM LABORATÓRIOS BIOMÉDICOS E DE MICROBIOLOGIA.MINISTÉRIO DA SAÚDE,2004,288P IL., TAB. SÉRIE A. NORMAS E MANUAIS TÉCNICOS)\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "09:00 - 12:00",
+        "professor": "DAIANA VIEIRA LOPES ALVES"
+       },
+       {
+        "dia": "Qui",
+        "hora": "09:00 - 12:00",
+        "professor": "HENRIQUE ROCHA MENDONCA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "09:00 - 12:00",
+        "professor": "WAGNER DE OLIVEIRA VITAL"
+       },
+       {
+        "dia": "Qui",
+        "hora": "09:00 - 12:00",
+        "professor": "CINTIA MONTEIRO DE BARROS"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NUP123",
+      "Nome": "Biologia Celular",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Evolução celular. Membranas biológicas. Transporte por membranas. Citoesqueleto. Junções celulares, matriz extracelular e parede celular. Organelas do metabolismo oxidativo. Núcleo, cromatina e subcompartimentos nucleares. O fluxo da informação genética nas células. Síntese e degradação de proteínas. Vias exocítica e endocítica. Sinalização celular. Ciclo celular, divisão, diferenciação e morte programada.\n",
+       "BibliografiaBasica": "1- ALBERTS, B.; JOHNSON, A. & WALTER, P. 2010. Biologia Molecular da Célula. 5a ed. Porto Alegre: Artmed.\n2- ALBERTS, B.; BRAY, D.; JOHNSON, A.; LEWIS, J.; RAFF, M.; ROBERTS, K. & WALTER, P. 2006. Fundamentos de Biologia Celular. 2ª Ed. Porto Alegre: Artmed.\n",
+       "BibliografiaComplementar": "1- COOPER, G.M. & HAUSMAN, R.E. 2007. A Célula: Uma Abordagem Molecular. 3ª edição, Porto Alegre: Artmed.\n2- LODISH, H.; BERK, A.; MATSUDAIRA, P.; KAISER, C.; KRIEGER, M.; SCOUT, M.P.; Zipursky, L. & DARNELL, J. 2005. Biologia Celular e Molecular. 5ª Edição, Porto Alegre: Artmed.\n3- POLLARD, T.D. & EARNSHAW, W.C. 2006. Biologia Celular. 1ª edição, Rio de Janeiro: Elsevier.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 16:00",
+        "professor": "MIRELLA PUPO SANTOS"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NUP303",
+      "Nome": "Bioética",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Princípios da Ética e da Bioética; Análise Histórica; Conceitos filosóficos básicos; Bioética: Caracterização e campo de atuação; Análise crítica dos Códigos de Ética dos profissionais da saúde; Bioética e a pesquisa em seres Humanos; Bioética e a pesquisa envolvendo animais; Normas e situação brasileira; Bioética e Políticas de Saúde; Ética em manipulações genéticas.\n",
+       "BibliografiaBasica": "1- DURAND, G. Introdução Geral à Bioética: história, conceitos e instrumentos. São Paulo: Loyola, 2003.\n2- FERRER JJ, ALVAREZ JC. Para fundamentar a Bioética: Teorias e paradigmas teóricos na bioética contemporânea. São Paulo: Loyola, 2005.\n",
+       "BibliografiaComplementar": "1- PESSINI, L., BARCHIFONTAINE, C.P. Problemas atuais de bioética. 8.ed. rev. e ampl. São Paulo: Loyola, 2007.\n2) REICH, W.T. Encyclopedia of Bioethics. Ed. Rev. New York: MacMillan, 1995.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "15:00 - 17:00",
+        "professor": "REJANE VALVANO CORREA DA SILVA"
+       },
+       {
+        "dia": "Seg",
+        "hora": "15:00 - 17:00",
+        "professor": "MANUELA LEAL DA SILVA"
+       },
+       {
+        "dia": "Seg",
+        "hora": "15:00 - 17:00",
+        "professor": "GUSTAVO ARANTES CAMARGO"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NUPZ53",
+      "Nome": "Ativ Curric Extensão - Biomed",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "0",
+      "Extensão": "330",
+      "Informação": {
+       "Info": "Atuação em atividades de extensão registradas na Pró-Reitoria de Extensão da UFRJ, como programas, projetos, cursos de extensão e eventos, coordenados por docentes do quadro permanente ou técnicos da carreira de nível superior na UFRJ. Para eventos, a atuação deverá ser na organização ou na realização do evento. Para cursos, a atuação deve ser na organização ou ministrando aulas.\n",
+       "BibliografiaBasica": "Bibliografia recomendada pelo coordenador da atividade.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "09:00 - 12:00",
+        "professor": "DAIANA VIEIRA LOPES ALVES"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NUP104",
+      "Nome": "Introdução a Biomedicina",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Proporcionar ao acadêmico de Biomedicina uma ampla visão sobre a profissão, suas habilitações e o mercado de trabalho. A história da Biomedicina. O código de ética do Biomédico. DCN de Biomedicina. O Conselho Federal e Regional de Biomedicina. As atuações do biomédico.\n",
+       "BibliografiaBasica": "1- BRASIL. CONSELHO REGIONAL DE BIOMEDICINA 1ª Região. Regulamentação e Código de Ética da Profissão de Biomédicos.\n2- BRASIL. CONSELHO FEDERAL DE BIOMEDICINA. Resolução nº. 259, de 28 de agosto de 2015. Aprova o Código de Processo Ético Profissional do biomédico.\n3- NAOUM, Paulo César. Biomedicina: guia para estudantes e graduados em curso de biomedicina 3. ed. São José do Rio Preto, SP: Academia de Ciência e Tecnologia, 2005.\n",
+       "BibliografiaComplementar": "1- Revista Biomédico, São Paulo: Associação Brasileira de Biomedicina, 2017. Trimestral.\n2- BRASIL. CONSELHO FEDERAL DE BIOMEDICINA. Resoluções.\n3- BRASIL. Ministério da Educação. Resolução de 18 de fevereiro de 2003. Institui Diretrizes Curriculares Nacionais dos cursos de Graduação em Biomedicina.\n4- BRASIL. CONSELHO REGIONAL DE BIOMEDICINA 1ª Região. Regulamentação e Código de Ética da Profissão de Biomédicos.\n5- REVISTA DE INVESTIGAÇÃO BIOMÉDICA, São Luis, Universidade Ceuma. Semestral. 2014. ISSN: 2448-380X.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "09:00 - 12:00",
+        "professor": "DAIANA VIEIRA LOPES ALVES"
+       },
+       {
+        "dia": "Seg",
+        "hora": "09:00 - 12:00",
+        "professor": "HENRIQUE ROCHA MENDONCA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NUP107",
+      "Nome": "Biossegurança",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Definição e histórico. ênfase na aplicação de boas práticas de biossegurança e as precauções de riscos para os profissionais que trabalham com materiais biológicos e/ou químicos, no contexto dos serviços de saúde e ambientais, considerando as diretrizes de biossegurança.\n",
+       "BibliografiaBasica": "1- Brasil. Ministério da Saúde. Biossegurança em saúde: prioridades e estratégias de ação / Ministério da Saúde, Organização Pan-Americana da Saúde. - Brasília: Ministério da Saúde, 2010. ISBN 9788533416697.\n2- Flávio César Ferraz, Antonio Carlos Feitoza. Técnicas de segurança em laboratórios: regras e práticas. [São Paulo]: Hemus, 2004. ISBN 8528905144.\n3- Marco Antônio Ferreira da Costa. Qualidade em Biossegurança. 1ª Edição, Editora Qualitymark, Rio de Janeiro, 2000.\n4- Mario Hiroyuki Hirata, Jorge Mancini Filho, Rosario Dominguez Crespo Hirata. Manual de biossegurança. Editora Manole; 3ª edição, São Paulo, 2016.\n5- Pedro Teixeira, Silvio Valle. Biossegurança: Uma abordagem multidisciplinar. Editora Fiocruz, Rio de Janeiro, 2010.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "09:00 - 12:00",
+        "professor": "DAIANA VIEIRA LOPES ALVES"
+       },
+       {
+        "dia": "Ter",
+        "hora": "09:00 - 12:00",
+        "professor": "MONALESSA FABIA PEREIRA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NUP200",
+      "Nome": "Biofísica",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Paralelo histórico entre a física e a Biologia: o nascimento da Biofísica. Eventos em escala atômica: Átomo e Matéria. Energia e termodinâmica, radiação e radioatividade. Moléculas de interesse biológico: a Água (diluição e osmose) e o Oxigênio (respiração e estresse oxidativo). Eventos em escala celular: membranas, receptores e comunicação celular. Mutagênese e mecanismos de reparo de DNA. Eventos em escala organismica: bioeletrogênese, bioacústica e visão (comprimento de onda de luz). Toxicocinética e toxicodinâmica. Eventos em escala de ecossistema: a hipótese Gaia, poluição, atividades antrópicas e a disponibilidade de elementos no ambiente, ciclo global de transporte de compostos poluentes.\n",
+       "BibliografiaBasica": "1- DURAN, J.E.R. 2011. Biofísica: Fundamentos e Aplicações. 2a ed. São Paulo: Pearson Prentice Hall.\n2- HENEINE, I.F. 2004. Biofísica Básica. 2ª ed. São Paulo: Atheneu.\n",
+       "BibliografiaComplementar": "1- ALBERTS, B.; JOHNSON, A. & WALTER, P. 2010. Biologia Molecular da Célula. 5a ed. Porto Alegre: Artmed.\n2- LEWIN, B. 2009. GENES IX. 9a ed. Porto Alegre: Artmed.\n"
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "13:00 - 16:00",
+        "professor": "MARCOS PAULO FIGUEIREDO DE BARROS"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NUPX11",
+      "Nome": "Ativ Prát Interdiscip I",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Elo Integrador. Integrar e contextualizar os conteúdos teóricos e práticos abordados ao longo do período, oferecendo uma complementação essencial à formação do estudante. Através de atividades que unem teoria e prática, o aluno terá contato com situações profissionais, desenvolvendo projetos interdisciplinares que promovem habilidades como trabalho em equipe, análise crítica e resolução de problemas. A metodologia envolve estudos de caso, simulações e pesquisa aplicada, facilitando a compreensão do conhecimento e preparando o estudante para a prática profissional. A avaliação considera o desempenho nas atividades práticas, projetos interdisciplinares, relatórios e apresentações.\n",
+       "BibliografiaBasica": "A bibliografia será adaptada de acordo com os temas abordados em cada período e poderá incluir leituras recomendadas das disciplinas do semestre, artigos científicos, casos de estudo e materiais de referência atualizados na área.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "09:00 - 12:00",
+        "professor": "DAIANA VIEIRA LOPES ALVES"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "2º Período": [
+     {
+      "Codigo": "NUP109",
+      "Nome": "Bioquímica Básica e Metabólica",
+      "Créditos": "6.0",
+      "Teórica": "75",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução à bioquímica e seus fundamentos. Propriedades da água; conceito de pH, soluções tampão e fundamentos de termodinâmica. Estrutura e função dos aminoácidos. Proteínas e suas unidades constituintes. Enzimas: conceitos e cinética enzimática. Estrutura e função de carboidratos. Estrutura e função de lipídios e lipídios de membrana. Nucleotídeos e ácidos nucléicos. Vitaminas.\n",
+       "BibliografiaBasica": "1- LEHNINGER, A.L., NELSON, D.L. & COX, M.M. Princípios de bioquímica. 4ª ed. São Paulo: Ed. Sarvier. 2005.\n2- BERG, J.M., STRYER, L. & TYMOCZKO, J.L. Bioquímica. (7a Edição). 2014.\n",
+       "BibliografiaComplementar": "1- DEVLIN, T.M. Manual de Bioquímica Com Correlações Clínicas - 7ª Ed. (2011)\n2- MATHEWS, CHRISTOPHER K. Bioquímica. 3a Edição (2013).\n3- VOET, D. & VOET, J.G. Bioquímica - 4ª Ed. (2013).\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "NUP200"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NUP232",
+      "Nome": "Biologia Molecular",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estrutura e função do DNA e do RNA. Organização do genoma em células procariotas, eucariotos (vegetais e animais). Mutação e reparo do DNA. Transcrição, processamento do RNA, tradução e o código genético. Sistemas de recombinação e transposição do DNA. Regulação gênica de procariotos e eucariotos.\n",
+       "BibliografiaBasica": "1- GRIFFITHS, A.J.F.; MILLER, J.H.; Suzuki, D.T.; LEWONTIN, R.C. & GELBART, W.M. 2009. Introdução à Genética. 7ªed. Rio de Janeiro: Guanabara Koogan.\n2- LEWIN, B. 2009. GENES IX. 9ª ed. Porto Alegre: Artmed.\n",
+       "BibliografiaComplementar": "1- ALBERTS, B.; JOHNSON, A. & WALTER, P. 2010. Biologia Molecular da Célula. 5a ed. Porto Alegre: Artmed.\n2- DEVLIN, T.M. 2007. Manual de Bioquímica com Correlações Clínicas. São Paulo: Edgard Blücher.\n3- OSÓRIO-BORGES, M. R. & ROBINSON, W. M. 2002. Genética Humana, 2ªed. Porto Alegre: Artmed.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MCB123"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NUPX12",
+      "Nome": "Ativ Prát Interdiscip II",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Elo Integrador. Integrar e contextualizar os conteúdos teóricos e práticos abordados ao longo do segundo período, oferecendo uma complementação essencial à formação do estudante. Através de atividades que unem teoria e prática, o aluno terá contato com situações profissionais, desenvolvendo projetos interdisciplinares que promovem habilidades como trabalho em equipe, análise crítica e resolução de problemas. A metodologia envolve estudos de caso, simulações e pesquisa aplicada, facilitando a compreensão do conhecimento e preparando o estudante para a prática profissional. A avaliação considera o desempenho nas atividades práticas, projetos interdisciplinares, relatórios e apresentações.\n",
+       "BibliografiaBasica": "A bibliografia será adaptada de acordo com os temas abordados em cada período e poderá incluir leituras recomendadas das disciplinas do semestre, artigos científicos, casos de estudo e materiais de referência atualizados na área.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "NUPX11"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NUP108",
+      "Nome": "Direitos Humanos e Diversidade",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Direitos Humanos, seus fundamentos e construção. Teorias e análises sobre a Cidadania e Justiça Social; diversidades: políticas da diferença e lutas pelo reconhecimento e as perspectivas dos multiculturalismos; multirracialidade. Ética e relações de Cidadania.\n",
+       "BibliografiaBasica": "1- COMPARATO, Fábio Konder. A afirmação histórica dos direitos humanos. São Paulo: Saraiva, 2005-10.\n2- MORAES, Alexandre de. Direitos humanos fundamentais: teoria geral . 5. ed. São Paulo: Atlas, 2005.\n3- WEIS, Carlos. Direitos humanos contemporâneos. 2. ed. São Paulo: Malheiros, 2010.\n4- HASSAN, Zaoual. Globalização e diversidade cultural. São Paulo: Cortez, 2008.\n",
+       "BibliografiaComplementar": "1- BOBIO, Norberto. A Era dos Direitos. São Paulo: Elsevier, 2004-10.\n2- CHAUI, Marilena de Souza. Cultura e democracia: o discurso competente e outras falas. 13. ed. São Paulo: Cortez, 2011. 367p\n3- DIMENSTEIN, Gilberto. O Cidadão de papel: a infância, a adolescência e os direitos humanos no Brasil. 23.ed. São Paulo: Ática, 2012. 167 p.\n4- LAFER, Celso. A reconstrução dos direitos humanos: um diálogo com o pensamento de Hanna Arendte. Rio de Janeiro: Companhia das Letras, 2009.\n5- TRINDADE, José Damião de Lima. História social dos direitos humanos. São Paulo: Petrópolis, 2002. 213p.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NUP130",
+      "Nome": "Biologia do Desenvolvimento",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo da diferenciação dos tecidos embrionários e da formação do rudimento dos órgãos e sistemas orgânicos desde a fertilização até a quarta semana do desenvolvimento humano. Introdução aos aspectos evolutivos da embriogênese dos diversos grupos de metazoários.\n",
+       "BibliografiaBasica": "1- CARLSON, B.M. 2004. Embriologia Humana e Biologia do Desenvolvimento. Rio de Janeiro: Guanabara Koogan.\n2- GILBERT, S.F. 2006. Developmental Biology. 8th ed. Ed Sinauer Associates. Sunderland. MA.\n3- LARSEN, W. J. 2003. Embriologia Humana. 3ª ed. Ed. Elsevier Science. Madrid.\n",
+       "BibliografiaComplementar": "1- PURVES, W.K.; Sadava, D.; ORIANS, G.H. & Heller, H.C. 2009. Vida: A Ciência da Biologia. v.III. 6a.ed. Porto Alegre: Artmed.\n2- WOLPERT, L. 2000. Princípios da Biologia do Desenvolvimento. Porto Alegre: Artmed\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "NUP123"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NUP403",
+      "Nome": "Saúde e Ambiente",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Epidemiologia e distribuição das principais doenças e agravos à saúde da população humana e os fatores que determinam o processo saúde/doença. A influência da saúde ambiental e da sustentabilidade no processo saúde/doença. Organização do Sistema Único de Saúde (SUS), dos serviços, tecnologias e das políticas de saúde. Doenças emergentes e reemergentes. Promoção da saúde e qualidade de vida. Saúde coletiva nas Ciências Biológicas.\n",
+       "BibliografiaBasica": "1- ROUQUAYROL M. Z. & GURGEL, M. Epidemiologia & Saúde, 7ª Ed, Rio de Janeiro, Editora Medbook. 736p., 2013.\n2- MEDRONHO R.A., BLOCH K.V., LUIZ R.R., WERNECK G. L. Epidemiologia, 2ª ed. Editora Atheneu, 676 p., 2009.\n",
+       "BibliografiaComplementar": "1- BRASIL, Cadernos de Atenção Básica: Núcleo de Apoio à Saúde da Família. Ministério da Saúde. Secretaria de Atenção à Saúde. Departamento de Atenção Básica. Brasília: Ministério da Saúde, 116p. 2014.\n2- BRASIL, Ministério da Saúde Gerenciamento dos Resíduos de Serviços de Saúde. Brasília. Agência Nacional de Vigilância Sanitária, 2006.\n3- BRASIL, Ministério da Saúde. Guia de Vigilância epidemiológica. 6a ed. Brasília-DF, 2005.\n4- BRASIL, Ministério da Saúde. Saúde do Trabalhador. Cadernos de Atenção Básica, nº 5. Brasília-DF, 2002.\n5- BRASIL, Ministério da Saúde. Manual de Normas de Vacinação, Fundação Nacional de Saúde, Brasília-DF, 2001.\n6- BRASIL, Ministério da Saúde. Epidemiologia para Vigilância Ambiental em Saúde, Fundação Nacional de Saúde, Brasília-DF, 2002.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "3º Período": [
+     {
+      "Codigo": "NUP206",
+      "Nome": "Histol Hum Básica e Sistêmica",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo da organização, classificação e função dos tecidos básicos correlacionando com sua origem embriológica, histogênese e suas localizações nos órgãos. Histologia dos órgãos e Sistemas.\n",
+       "BibliografiaBasica": "1- CARNEIRO, L. 1998. Histologia Básica. 8a.ed. Rio de Janeiro: Guanabara Koogan.\n2- KIERZENBAUM, A.L. 2009. Histologia e Biologia Celular: Uma introdução à patologia. 2ªed. Rio de Janeiro: Elsevier.\n3- ROSS, M.H.; REITH, E.J. & ROMRELL, l.J. 1993. Histologia: Texto e Atlas 2a. ed. Panamericana. São Paulo.\n",
+       "BibliografiaComplementar": "1- BLOOM, R. & FAWCETT, D. W. 1994. A Textbook of Histology. 20th ed. Ed. Chapman & Hall. New York.\n2- GARTNER, L.P. & HIATT, J.L. 1997. Color Text Book of Histology. Ed. W.B. Saunders Comp. Philadelphia.\n3- KIERZENBAUM, A.L. 2009. Histologia e Biologia Celular: Uma introdução à patologia. 2ªed. Rio de Janeiro: Elsevier.\n4- WHEATER, P.R.; BURKITT, H.G. & DANIELS, V.G. 1994. Histologia Funcional. 3ªed. Rio de Janeiro: Guanabara Koogan.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "NUP123",
+       "NUP130",
+       "NUP232"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NUP361",
+      "Nome": "Microbiol e Imunologia Básica",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Caracterização e classificação de micro-organismos. Morfologia, ultraestrutura e fisiologia microbiana; crescimento, nutrição e metabolismo bacteriano; isolamento, propagação e identificação bacteriana. Mecanismos de patogenicidade; bactérias e vírus de interesse médico. Introdução à Imunologia; células e órgãos linfoides; mecanismos efetores da imunidade inata, adaptativa e imunorregulação; células do sistema imune e órgãos linfóides, antígenos, anticorpos, sistema complemento, complexo principal de histocompatibilidade (MHC). Hipersensibilidades; autoimunidade\n",
+       "BibliografiaBasica": "1- ABBAS, A.K.; LICHTMAN, A.H.; PILLAI, S. 2008. Imunologia Celular e Molecular. 6a ed. Rio de Janeiro: Elsevier.\n2- KINDT, T.J.; GOLDSBY, R.A. & OSBORNE, B.A. 2003. Imunologia de Kuby. 6a ed. Porto Alegre: Artmed.\n3- MADIGAN, M.T.; MARTINKO, J.M.; DUNLAP, P.V.; CLARK D.P. 2010. Microbiologia de Brock. 12. ed., Porto Alegre: Artmed.\n4- MURPHY, K.; TRAVERS, P. & WALPORT, M. 2009. Imunobiologia de Janeway. 7a ed. Porto Alegre: Artmed.\n5- TRABULSI L.R. & ALTERTHUM, F. 2004. Microbiologia. 5a ed. São Paulo: Atheneu.\n",
+       "BibliografiaComplementar": "1- LEVINSON, W. & ERNEST JAWETZ, E. 2010. Microbiologia Médica e Imunologia. Porto Alegre: Artmed.\n2- MURRAY, P.R.; ROSENTHAL, K.S.; KOBAYASHI, G.S. & PFALLER, M.A. 1998. Microbiologia Médica. Rio de Janeiro: Guanabara Koogan.\n3- SANTOS, N.S.O.; VILLELA, M.T. & WIGG, M.D. 1999. Introdução à virologia humana. 2a ed. Rio de Janeiro: Guanabara Koogan.\n4- ROSEN, F. & GEHA, R. 2002. Estudo de casos em Imunologia: um guia prático. 3a ed. Ed.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "NUP127",
+       "NUP232"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NUP119",
+      "Nome": "Anatomia Humana Básica",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Trata das principais estruturas anatômicas, com especial atenção ao reconhecimento da nomenclatura e posição anatômica; planos, eixos e conceitos sobre a construção geral do corpo humano: sistemas ósseos, articular, muscular; explorando fundamentalmente as noções de forma e relações entre estruturas.\n",
+       "BibliografiaBasica": "1- NETTER, F. H. 2000. Atlas de Anatomia Humana Netter - 4ª Edição. Editora: Artmed. Porto Alegre.\n2- PUTZ, R.; PABST, R. 2006. Atlas de Anatomia Humana Sobbotta - 2 volumes - 22 ª edição. Editora: Guanabara Koogan. Rio de Janeiro.\n3- WILLIAMS, P.L.; DYSON, M.; WARWICK, R. 2005. Gray's Anatomia para estudantes - 1ª edição. Editora: Elsevier.\n",
+       "BibliografiaComplementar": "1- DANGELO, J.G. & FATTINI, C.A. 2007. Anatomia Humana Sistêmica e Segmentar. 3ª ed. Ed. Atheneu. São Paulo.\n2- SPENCE, A.P. 1991. Anatomia Humana Básica. 2ª ed. Ed. Manole. São Paulo.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "NUP123",
+       "NUP232"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NUP242",
+      "Nome": "Genética Básica",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução à genética. Bases citológicas da Herança. Herança Mendeliana e suas extensões. Herança relacionada ao sexo. Genes ligados e mapas de ligação. Herança poligênica e efeito do ambiente. Herança não-Mendeliana. Mutações cromossômicas e gênicas.\n",
+       "BibliografiaBasica": "1- ALBERTS, B.; JOHNSON, A. & WALTER, P. 2010. Biologia Molecular da Célula. 5a ed. Porto Alegre: Artmed.\n2- BROWN, T.A. 2009. Um Enfoque Molecular. Ed. Rio de Janeiro: Guanabara Koogan.\n2- GRIFFITHS, A.J.F.; WESSLER, S.R.; CARROLL, S.B. & DOEBLEY, J. 2016. Introdução à genética. 11ª ed. Rio de Janeiro: Guanabara Koogan.\n3- OSÓRIO-BORGES, M. R. & ROBINSON, W. M. 2013. Genética Humana, 3ªed. Porto Alegre: Artmed.\n",
+       "BibliografiaComplementar": "1- PIERCE, B. 2016. Genética: Um enfoque conceitual. 5a. Guanabara Koogan, Rio de Janeiro.PIERCE, B. 2016. Genética: Um enfoque conceitual. 5a. Guanabara Koogan, Rio de Janeiro.\n2- HOFFE, P.A. 2000. Genética Médica Molecular. Rio de Janeiro: Guanabara Koogan.\n3- LEWIN, B. 2014. Genes XI. Ed. Artmed Ltda. Porto Alegre.\n4- STRACHAN, T. & READ, A.P. 2013. Genética Molecular Humana. 4ª. Ed. São Paulo: Artmed.\n5- SNUSTAD, D.P. & SIMONS, M.J. 2017. Fundamentos de Genética. 7a. Guanabara Koogan, Rio de Janeiro.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "NUP123"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NUPX13",
+      "Nome": "Ativ Prát Interdiscip III",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Elo Integrador Integrar e contextualizar os conteúdos teóricos e práticos abordados ao longo do terceiro período, oferecendo uma complementação essencial à formação do estudante. Através de atividades que unem teoria e prática, o aluno terá contato com situações profissionais, desenvolvendo projetos interdisciplinares que promovem habilidades como trabalho em equipe, análise crítica e resolução de problemas. A metodologia envolve estudos de caso, simulações e pesquisa aplicada, facilitando a compreensão do conhecimento e preparando o estudante para a prática profissional. A avaliação considera o desempenho nas atividades práticas, projetos interdisciplinares, relatórios e apresentações.\n",
+       "BibliografiaBasica": "A bibliografia será adaptada de acordo com os temas abordados em cada período e poderá incluir leituras recomendadas das disciplinas do semestre, artigos científicos, casos de estudo e materiais de referência atualizados na área.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "NUPX12"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "4º Período": [
+     {
+      "Codigo": "NUP250",
+      "Nome": "Patologia",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Entender os mecanismos básicos das lesões, sua base molecular, imunológica, fisiológica associados com os aspectos morfológicos macro e microscópicos das lesões. Calcificações patológicas. Inflamação. Reparo e cicatrização. Distúrbios circulatórios. Distúrbios do crescimento. Neoplasia. Bases genéticas e moleculares do câncer e carcinogênese.\n",
+       "BibliografiaBasica": "1- BRASILEIRO FILHO, G. Bogliolo - Patologia geral. 7. ed. Rio de Janeiro: Guanabara Koogan, 2006.\n2- KUMAR, V.; ABBAS, A. K.; FAUSTO, N. Robbins e Cotran. Patologia: Bases Patológicas das Doenças. 8. ed. São Paulo: Elsevier, 2010.\n3- MONTENEGRO, M. R.; FRANCO, M. Patologia: Processos gerais. 4. ed. São\nPaulo: Ateneu, 2004.\n",
+       "BibliografiaComplementar": "1-RUBIN, E.; GORSTEIN, F.; RUBIN, R.; SCHAWARTING, R.; STRAYER, D. Rubin. Patologia: Bases Clinicopatológicas da Medicina. 4. ed. Rio de Janeiro: Guanabara Koogan, 2006. 1625p.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "NUP119",
+       "NUP206"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NUP405",
+      "Nome": "Parasitologia",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Aspectos gerais das parasitoses intestinais e da morfologia dos helmintos e protozoários causadores de doenças em humanos. Técnicas aplicadas ao diagnóstico laboratorial de parasitos intestinais, sanguíneos e teciduais, fixados ou in natura. Treinamento técnico e científico para a prática no diagnóstico clínico parasitológico: coleta e preparação de materiais para diagnóstico de protozoários e de helmintos intestinais, sanguíneos e teciduais, nos seus grupos representativos.\n",
+       "BibliografiaBasica": "1- MARKELL, E. K.; JOHN, D. T., KROTOSKI, W. A. Markell & Voge. Parasitologia médica. 8ª ed. Rio de Janeiro: Guanabara Koogan, 2003.447 p., il.\n2- REY, L. Bases da parasitologia médica. 3ª ed. Rio de Janeiro: Guanabara Koogan, 2011. 390 p., il.\n3- COURA, J.R. Dinâmica das doenças infecciosas e parasitárias. 2ª edição. Rio de Janeiro. Guanabara Koogan, 2013 (Volume 1).\n",
+       "BibliografiaComplementar": "1- AMATO NETO, V. Parasitologia: uma abordagem clínica. Rio de Janeiro: Elsevier, 2008. 434 p., il.\n2- BROOKS, G. F.; BUTEL, J. S.; MORSE, S. A. Jawetz, Melnick & Adelberg: microbiologia médica. 21ª ed. Rio de Janeiro: Guanabara Koogan, 2000. 611 p., il.\n3- DE CARLI, G. A. Parasitologia clínica: seleção de métodos e técnicas de laboratório para o diagnóstico das parasitoses humanas. 2ª ed. São Paulo: Atheneu, 2011. 906 p., il.\n4- LEVENTHAL, R. Parasitologia médica: texto e atlas. 4ª ed. São Paulo: Premier, 1997. 160 p., il.\n5- NEVES, D. P. Parasitologia dinâmica. São Paulo: Atheneu (São Paulo), 2003. 474 p., il.\n6- REY, L. Parasitologia: parasitos e doenças parasitárias do homem nas Américas e na África. 3ª ed. Rio de Janeiro: Guanabara Koogan, 2001. 856 p., il., 1 CD-ROM.\n7- ROBERTS, L.S. & JANOVY, J.Jr. 2008. Foundations of Parasitology. 8a edição. Editora Mcgraw-Hill, USA.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "NUP124"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NUP240",
+      "Nome": "Fisiol Hum Básica e Sistêmica",
+      "Créditos": "7.0",
+      "Teórica": "105",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo teórico da função dos sistemas nervoso, respiratório, cardiovascular, digestivo, renal, urinário, endócrino e reprodutor, destacando a fisiologia integrativa, o controle neural do comportamento, o controle cardiovascular, o controle das funções digestivas, respiratórias e hidrossalinas, o crescimento e a reprodução.\n",
+       "BibliografiaBasica": "1- AIRES, M.M. 2012. Fisiologia. 4ªed. Rio de Janeiro: Guanabara Koogan.\n2- CURI, R. & PROCÓPIO, J. 2009. Fisiologia Básica. 1ª Ed. Rio de Janeiro: Guanabara Koogan.\n3- WALTER F. BORON & EMILE L. BOULPAEP. Fisiologia Médica. 2ªed. Elsevier.\n4- KOEPPEN, B. & STATON, B.A. 2009. Fisiologia: Berne e Levy. 6ªed. Ed Elsevier. Rio de Janeiro\n",
+       "BibliografiaComplementar": "1- GANONG, W.F. 2006. Fisiologia Médica. 22ª ed. São Paulo: McGraw Hill.\n2- JACOB, S.W.; FRANCONE, C.A. & LOSSON, W.J. 1990. Anatomia e Fisiologia Humana, 4ª ed. Rio de Janeiro: Guanabara Koogan.\n3- TAVARES, P. 1981. Fisiologia Humana. São Paulo: Atheneu.\n4- VANDER, A.J.; SHERMAN, J.H. & LUCIANO, D.S. 1996. Fisiologia Humana, São Paulo: McGraw Hill.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "NUP119",
+       "NUP206"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NUP305",
+      "Nome": "Bioquímica Clínica",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Organização de um laboratório de Bioquímica Clínica; princípios e cuidados na coleta de amostras biológicas, controle e garantia da qualidade em Bioquímica Clínica; Metodologias aplicadas a análises bioquímicas: gasometria arterial; fundamentos de urinálise; análise do líquor; dosagens bioquímicas de interesse clínico-laboratorial. Avaliação clínico-laboratorial de enfermidades associadas ao metabolismo de carboidratos, lipídeos, proteínas bem como alterações do equilíbrio hidroeletrolítico em humanos.\n",
+       "BibliografiaBasica": "1- BURTIS, C.A.; ASHWOOD, E.R.; BRUNS, D.E. Tietz Fundamentos de Química Clínica. 6a ed. Rio de Janeiro: Elsevier, 2008.\n2-HENRY, J.B. Diagnósticos Clínicos e Tratamento por Métodos Laboratoriais. 20a ed. Barueri: Manole. 2008.\n3- ERICHSEN, E.S.; Viana, L.G.; Faria, R.M.D.; Santos, S.M.E. Medicina Laboratorial para o Clínico. 1a ed. Belo Horizonte: Coopmed, 2009.\n",
+       "BibliografiaComplementar": "1- PRATT, C.; CORNELY, K. Bioquímica Essencial. 4 a ed. Rio de Janeiro: Guanabara Koogan, 2006.\n2- NELSON, D.L.; Cox, M.M. LEHNINGER Princípios de Bioquímica. 4 & ed. São Paulo: Sarvier, 2007.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "NUP127"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NUPX14",
+      "Nome": "Ativ Prát Interdiscip IV",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Elo Integrador. Integrar e contextualizar os conteúdos teóricos e práticos abordados ao longo do quarto período, oferecendo uma complementação essencial à formação do estudante. Através de atividades que unem teoria e prática, o aluno terá contato com situações profissionais, desenvolvendo projetos interdisciplinares que promovem habilidades como trabalho em equipe, análise crítica e resolução de problemas. A metodologia envolve estudos de caso, simulações e pesquisa aplicada, facilitando a compreensão do conhecimento e preparando o estudante para a prática profissional. A avaliação considera o desempenho nas atividades práticas, projetos interdisciplinares, relatórios e apresentações.\n",
+       "BibliografiaBasica": "A bibliografia será adaptada de acordo com os temas abordados em cada período e poderá incluir leituras recomendadas das disciplinas do semestre, artigos científicos, casos de estudo e materiais de referência atualizados na área.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "NUPX13"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "5º Período": [
+     {
+      "Codigo": "NUP315",
+      "Nome": "Anatomia Sistêmica",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Organização anatômica dos sistemas nervoso, cárdio-respiratório, urogenital e digestório e endócrino através de um estudo teórico e prático, com observação das relações anatômicas, vascularização e inervação dos principais órgãos que compõem estes sistemas. Correlações Fisiológicas.\n",
+       "BibliografiaBasica": "1- NETTER, F. H. 2000. Atlas de Anatomia Humana Netter - 4ª Edição. Editora: Artmed. Porto Alegre.\n2- PUTZ, R.; PABST, R. 2006. Atlas de Anatomia Humana Sobbotta - 2 volumes - 22 ª edição. Editora: Guanabara Koogan. Rio de Janeiro.\n3- WILLIAMS, P.L.; DYSON, M.; WARWICK, R. 2005. Gray's Anatomia para estudantes - 1ª edição. Editora: Elsevier.\n",
+       "BibliografiaComplementar": "1- DANGELO, J.G. & FATTINI, C.A. 2007. Anatomia Humana Sistêmica e Segmentar. 3ª ed. Ed. Atheneu. São Paulo.\n2- SPENCE, A.P. 1991. Anatomia Humana Básica. 2ª ed. Ed. Manole. São Paulo.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "NUP119"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NUP406",
+      "Nome": "Microbiologia Clínica",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Microrganismos responsáveis por doenças humanas, concentrando-se basicamente, nos processos de isolamento, identificação, fisiopatologia, resposta imune e, em determinadas circunstâncias, na epidemiologia e ecologia destes agentes. São enfatizadas, principalmente, as infecções de maior interesse no quadro sanitário brasileiro.\n",
+       "BibliografiaBasica": "1- MURRAY, Patrick R. ROSENTHAL, Ken S. KOBAYASHI, George S. Microbiologia Médica. 4ª ed. Rio de Janeiro, Guanabara Koogan, 2004. 762p.\n2- MADIGAN, M.T.; MARTINKO, J.M.; DUNLAP, P.V.; CLARK D.P. 2010. Microbiologia de Brock. 12ª ed., Porto Alegre: Artmed.\n3- TORTORA, G.J., FUNKE, B.R.; CASE, CL. Microbiologia. 10ª ed., Porto Alegre: Artmed, 2010.\n",
+       "BibliografiaComplementar": "1- LEVINSON, W. & ERNEST JAWETZ, E. 2010. Microbiologia Médica e Imunologia. Ed. Artmed. Porto Alegre.\n2- MURRAY, P.R.; ROSENTHAL, K.S.; KOBAYASHI, G.S. & PFALLER, M.A. 1998. Microbiologia Médica. Guanabara Koogan. Rio de Janeiro.\n3- SANTOS, N.S.O.; VILLELA, M.T. & WIGG, M.D.1999. Introdução à virologia humana. 2a ed. Ed. Guanabara Koogan. Rio de Janeiro.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "NUP361"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NUP485",
+      "Nome": "Bioinformática",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução à bioinformática. Bancos de dados biológicos. Alinhamento de sequências. Análise filogenética. Identificação e caracterização de sequências codificantes e de elementos não codificantes no genoma. Ferramentas de caracterização de sequências proteicas. Predição de função baseada em sequência. Predição de função baseada em estrutura. Análise de Metagenomas. Utilização das principais ferramentas de bioinformática disponíveis. Aplicação em Biotecnologia, Biodiversidade e Saúde\n",
+       "BibliografiaBasica": "1- LESK, Arthur M. Introdução a Bioinformática; tradução Ardala Elisa Breda Andrade et al - 2ª ed - Porto Alegre: Artmed, 2008.\n2- LEWIN, B. GENES IX. 9ª ed. Ed. Artmed. Porto Alegre, 2009.\n3- LOPES, Heitor Silverio; CRUZ, Leonardo Magalhães. Computational Biology and Applied Bioinformatics. London, 2011. Disponível em https://www.intechopen.com/books/computational-biology-and-applied-bioinformatics\n4- MOREIRA, L.M. (organizador). Ciências genômicas: fundamentos e aplicações ? Ribeirão Preto: Sociedade Brasileira de Genética, 2015. Disponível em http://www.moreiralab.net/Livro/\n5- PEVSNER, J. Bioinformatics and Functional Genomics. New York: Ed. Wiley-BlackWell, 2009.\n6- RASHIDI, H. & BUEHLER, L.K. Bioinformatics Basics: Applications in Biological Science and Medicine. 2ª ed. Ed. CRC Press/Taylor & Francis Group. New York. 2005.\nVERLI, H. (organizador). Bioinformática: da Biologia à Flexibilidade Molecular. -- Porto Alegre, 2014. Disponível em http://www.ufrgs.br/bioinfo/ebook/\n",
+       "BibliografiaComplementar": "1- ALBERTS, B.; JOHNSON, A. & WALTER, P. 2010. Biologia Molecular da Célula. 5a ed. Porto Alegre: Artmed.\n2- BAXEVANIS, A.D.; B. F. & OUELLETTE, B.F.F. 2004. Bioinformatics: A Practical Guide to the Analysis of Genes and Proteins. New Jersey: Jonh Wiley & Sons.\n3- LEHNINGER, A.L.; NELSON, D.L. & COX, M.M. 2005. Princípios de bioquímica. 4aed. São Paulo: Ed. Sarvier.\n4- GIBAS, C. & JAMBECK, P. Desenvolvendo Bioinformática. Rio de Janeiro: Editora Campus, 2001.\n5- PUNTA, M. & OFRAN, Y. The Rough Guide to In Silico Function Prediction, or How to Use Sequence and Structure Information to Predict Protein Function. PLoS Computational Biology. Vol 4 | Issue 10. 2008.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "NUP232"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NUP311",
+      "Nome": "Imagenologia",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Noções de física atômica e nuclear. Radioatividade natural e artificial. Produção de raiosX. Diagnóstico por imagem usando radiações ionizantes e não ionizantes. Anatomia radiológica. Aplicação profissional das fontes de radiação, de particular importância para fins médicos, tanto do ponto de vista de diagnóstico como terapêutica. Noções sobre efeitos biológicos das radiações. Noções sobre proteção radiológica. Noções sobre Radiologia Digital. Noções sobre Exame radiográfico; Mamografia; Densitometria óssea; Fluoroscopia e Hemodinâmica; e Tomografia Computadorizada; Ressonância Magnética; Medicina Nuclear; Ultrassonografia; Radioterapia.\n",
+       "BibliografiaBasica": "1- BONTRAGER, K. L.; LAMPIGNANO, J. P. Tratado de posicionamento radiográfico e anatomia associada . 7. ed. Rio de Janeiro: Elsevier, 2009.\n2- DO VAL, F. L. Manual de técnica radiográfica. São Paulo: Manole, 2006.\n3- HAAGA, J. R. et al. Tomografia computadorizada e ressonância magnética: uma abordagem do corpo humano. 3. ed.Rio de Janeiro: Guanabara Koogan, 2001.\n4- MARCHIORI, E.; SANTOS, M. L. O. Introdução à radiologia. Rio de Janeiro: Guanabara Koogan, 2009.\n",
+       "BibliografiaComplementar": "1-BRANT, W. E.; HELMS, C. A. Fundamentos de radiologia diagnóstico por imagens. 3. ed. Rio de Janeiro: Guanabara Koogan, 2009.\n2- JUHL, J. H. CRUMMY, A. B.; KUHLMAN, J. E. Paul & Juhl: interpretação radiológica. 7. ed. Rio de Janeiro: Guanabara Koogan, 2000.\n3- LEAL, R. Radiologia: técnicas básicas. 1. ed. São Paulo: Escolar, 2004.\n4- LIPPINCOTT WILLIAMS & WILKINS. Exames diagnósticos: finalidade, procedimento, interpretação. Rio de Janeiro, RJ: Guanabara Koogan, 2007. ISBN 9788527713047.\n5- SUTTON, D. Radiologia e imaginologia para estudantes de medicina. São Paulo. Ed. Manole, 2003.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "NUP250"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NUP404",
+      "Nome": "Fundamentos de Farmacologia",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Abordar os aspectos gerais da farmacologia seus conceitos, histórico assim como a ética na utilização de animais de laboratório e o uso de ensaios biológicos aplicados à pesquisa em farmacologia. Conceituar as bases da farmacologia: farmacocinética (vias de administração, absorção, distribuição, metabolismo e eliminação de fármacos, toxicologia, farmacogenética); farmacodinâmica (receptores, interação fármaco-receptor, agonismo e antagonismo, interação farmacológica).\n",
+       "BibliografiaBasica": "1- BRUNTON, L.L. et al. Goodman & Gilman: as bases farmacológicas da terapêutica. 11ª ed. Porto Alegre: Mc Graw Hill/Artmed. 2010.\n2- KATZUNG, B.G. Farmacologia básica e clínica. 10^ed. Porto Alegre: Mc Graw Hill/Artmed. 2010.\n",
+       "BibliografiaComplementar": "1- CRAIG, C.R.; STITZEL, R.E. Farmacologia moderna com aplicações clínicas. 6ª ed.. Rio de Janeiro: Guanabara Koogan. 2011.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "NUP241"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NUP412",
+      "Nome": "Imunologia Aplicada",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceitos gerais de Imunologia. Introdução à imunidade celular, imunidade humoral, bases da imunidade, as imunoglobulinas; reação antígeno-anticorpo; sistema de fixação do complemento; regulação da resposta imune; infecção; resistência e imunidade, reações citotóxicas; hipersensibilidade; doenças e deficiências imunitárias; autoimunidade, métodos imunológicos de análise. Conhecimento e práticas dos principais testes sorológicos e aplicados à profissão.\n",
+       "BibliografiaBasica": "1- BIER, O.; SILVA, W.D.; MORA, I. Imunologia básica e aplicada. 5ª ed. Rio de Janeiro: Guanabara Koogan, 2003. 388 p.\n2- FERREIRA, A.W. Diagnóstico Laboratorial das Principais Doenças Infecciosas e Autoimunes. 2ª ed. Rio de Janeiro: Guanabara Koogan.\n3- JANEWAY, TRAVERS +munobiologia, o sistema imune na saúde e na doença. London: Garland Publishing Inc.\n4- MURPHY, K.; TRAVERS, P.; WALPORT, M. Imunobiologia de Janeway. 7ª ed. Porto Alegre: Artmed, 2010. 885 p.\n5- RAVEL, R. Laboratório Clínico 6ª ed. Rio de Janeiro: Guanabara Koogan,\n6- ROITT, I. M.; DELVES, P. J. Fundamentos de imunologia. 12. ed. Rio de Janeiro: Guanabara Koogan, 2013. 552 p.\n",
+       "BibliografiaComplementar": "1- ABBAS, A. K.; LICHTMAN, A. H. Imunologia básica: funções e distúrbios do sistema imunológico. 3ª ed. Editora Elsevier, 2009. 314 p.\n2- ACTOR, J. K. Imunologia e microbiologia. Editora Elsevier, 2007. 184 p.\n3- BALESTIERI, F. M. P. Imunologia. São Paulo: Manole, 2004. 684 p.\n4- ABBAS, A. K.; LICHTMAN, A. H.; PILLAI, S. Imunologia celular e molecular. 6.ed. Elsevier, 2008. 564p.\n5- CALICH, V.; VAZ, C. Imunologia. 2ª ed. Rio de Janeiro: Revinter, 2009. 323 p.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "NUP361"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NUPX15",
+      "Nome": "Ativ Prát Interdiscip V",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Elo Integrador. Integrar e contextualizar os conteúdos teóricos e práticos abordados ao longo do quinto período, oferecendo uma complementação essencial à formação do estudante. Através de atividades que unem teoria e prática, o aluno terá contato com situações profissionais, desenvolvendo projetos interdisciplinares que promovem habilidades como trabalho em equipe, análise crítica e resolução de problemas. A metodologia envolve estudos de caso, simulações e pesquisa aplicada, facilitando a compreensão do conhecimento e preparando o estudante para a prática profissional. A avaliação considera o desempenho nas atividades práticas, projetos interdisciplinares, relatórios e apresentações.\n",
+       "BibliografiaBasica": "A bibliografia será adaptada de acordo com os temas abordados em cada período e poderá incluir leituras recomendadas das disciplinas do semestre, artigos científicos, casos de estudo e materiais de referência atualizados na área.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "NUPX14"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "6º Período": [
+     {
+      "Codigo": "NUP306",
+      "Nome": "Citopatologia",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução à patologia geral e citopatologia clínica. Mecanismos de ação e reações teciduais adaptativas, reversíveis ou irreversíveis aos agentes agressores. Alterações inflamatórias (aguda, crônica e reparo). Neoplasias. Critérios de malignidade. Metaplasia e displasia. Fundamentos da citopatologia. Citologia vaginal e cervical, mama. Citologia de líquidos.\n",
+       "BibliografiaBasica": "1- GOMPEL, C.; KOSS, L. (Eds.). Citologia Ginecologia e suas Base Anatomoclínicas. Manole, São Paulo, São Paulo.\n2- GRACE T. MCKEE, 2001, Citopatologia. Artes Médicas. 1 Ed. Brasil.\n3- GAMBONI, M., MIZIARA, FE, 2012. CITOPATOLOGIA DIAGNÓSTICA MANOLE, 1 Ed.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "NUP127"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NUP313",
+      "Nome": "Introd aos Estudos Forenses",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução a Ciências Forenses: conceitos; leis; áreas de atuação do perito criminal; funções do perito criminal; normas e preservação do local de crime; estudos de caso; Análises toxicológicas em material biológicos e não biológicos; Documentoscopia e Balística.\n",
+       "BibliografiaBasica": "1- MENDES, LB. Documentoscopia. 3. ed. Campinas: Millennium, 2010.\n2- PASSAGLI, M. Toxicologia Forense. 2. ed. Campinas: Millennum, 2009.\n3- OGA, S.; CAMARGO, M. A. C.; BATSISTUZZO, J. A. O. Fundamentos de toxicologia. 3. ed. São Paulo: Atheneu, 2008.\n",
+       "BibliografiaComplementar": "1- TOCCHETTO, D. Balística forense: aspectos técnicos e jurídicos. 5.ed. Campinas: Millennium, 2009.\n2- BRUNI, A. T., VELHO, J. A., OLIVEIRA, M. F. Fundamentos de química forense: Uma análise prática da química que soluciona crimes. Campinas: Millennium, 2012.\n3- MOREAU, Regina Lúcia de Moraes; SIQUEIRA, Maria Elisa Pereira Bastos de. Toxicologia analítica. Rio de Janeiro: Guanabara Koogan, 2008.\n4- BRUNTON, Laurence L; CHABNER, Bruce; KNOLLMANN, Bj.rn C (Org.). As bases farmacológicas da terapêutica de Goodman & Gilman. 12. ed. Porto Alegre: RS: AMGH, 2012.\n5- KATZUNG, Bertram G. (Ed.). Farmacologia básica e clínica. 13. ed. Lange, 2017.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "NUP109",
+       "NUP232"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NUP413",
+      "Nome": "Hematologia Clínica",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Fundamentos da hematologia clínica e laboratorial em relação a fisiologia e fisiopatogenia das células tronco. Hematopoese, Morfologia normal das células do sangue. Citologia Hematológica. Anemias, doenças leucocitárias. Classificação Morfológica das Leucemias. Metodologia hematológica clássica e atual. Imunofenotipagem. Hemostasia e coagulação. Princípio da automação em Hematologia e controle de qualidade em laboratório de hematologia. Diagnóstico clínico laboratorial das principais alterações hematológicas.\n",
+       "BibliografiaBasica": "1- SILVA, P. H. Hematologia laboratorial. Rio de Janeiro: Revinter, 2009.\n2- VERRASTRO, T. Hematologia e Hemoterapia fundamentos em morfologia, fisiologia, patologia e clínica. São Paulo: Atheneu, 2006.\n3- FAILACE, R. Hemograma: manual de interpretação. 4ª ed. Porto Alegre: Artmed, 2003.\n",
+       "BibliografiaComplementar": "1- HOFFBRAND, A. V. Atlas colorido de hematologia clínica. 3 Ed. Artmed, 2001,\n2- RAVEL, R. Laboratório Clínico. 6 Ed. Guanabara Koogan.\n3- CARVALHO, W. F. Tecnicas médicas de hematologia e imunohematologia. 7a ed. Belo Horizonte: Coopmed, 2002.\n4- TKACHUK, D. C. Wintrobe: Atlas colorido de hematologia [DVD], Rio de Janeiro: Revinter, 2010.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "NUP123"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NUP235",
+      "Nome": "Bioestatística",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Investigação científica, Indução e Dedução, Introdução à Estatística, Amostragem, Tipos de variáveis, Tabelas e Gráficos, Medidas de tendência central, Medidas de variabilidade, Correlação, Regressão Simples, Probabilidade, Distribuição binomial, Distribuição de Poisson, Distribuição normal, Estimativas de parâmetros, Teste de hipótese, Comparação de vários grupos (Análise de variância).\n",
+       "BibliografiaBasica": "1- Vieira, S. Introdução à Bioestatística. 4ed, Editora Elsevier. São Paulo.\n2- Pagano, M & Gauvreau, K. 2003. Princípios de Bioestatística. Editora Cenage Learning.\n3- Quinn, G.P. and M.J. Keough. 2002. Experimental Design and Data Analysis for Biologists. Cambridge University Press, Cambridge.\n",
+       "BibliografiaComplementar": "1- Dalgard, P. Introductory Statistics with R. 2008. Springer, New York, USA.\n2- R Development Core Team. http://www.Rproject.org\n3- Underwood. A.J. Experiments in Ecology. Their logical design and interpretation using analysis of variance. Cambridge University Press.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NUP312",
+      "Nome": "Introdução à Estética",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Biomedicina Estética. Disfunções estéticas faciais: rugas, linha de expressão, flacidez facial,melasma, cicatrizes de acne e pós cirúrgicas e/ou acidentais. Disfunções estéticas corporais: flacidez tissular, flacidez muscular, estrias, lipodistrofia ginóide, cicatrizes pós cirúrgicas e/ou acidentais, gordura localizada. Introdução aos Procedimentos estéticos: Carboxiterapia, Microagulhamento,Ultrassom Cavitacional Focalizado e Dissipado, Intradermoterapia, Endermoterapia, Toxina Botulínica, Preenchedores faciais, Peelings químicos e físicos (Microdermoabrasão - cristal e diamante), Laserterapia relacionados a estética e criolipólise. Introdução a Cosmetologia.\n",
+       "BibliografiaBasica": "1- LYON, Sandra; CASTORINA DA SILVA, Rozana. Dermatologia Estética: Medicina e Cirurgia Estética. 1. ed. Rio de Janeiro: Medbook Editora Científica, 2015.\n",
+       "BibliografiaComplementar": "1- C DAL GOBBO, Priscila. Estética Facial Essencial: Orientações Para O Profissional De Estética. 1. ed. Rio de Janeiro: Atheneu, 2010.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "NUP206",
+       "NUP315"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NUP314",
+      "Nome": "Des. Pes Profis Carreira Saúde",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Comportamento Organizacional. Aspectos de comportamento e personalidade. Comunicação interpessoal. Técnicas de comunicação. Liderança e Poder. Motivação. Gestão de Conflitos e Mudanças.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NUPX16",
+      "Nome": "Ativ Prát Interdiscip VI",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Elo Integrador. Integrar e contextualizar os conteúdos teóricos e práticos abordados ao longo do sexto período, oferecendo uma complementação essencial à formação do estudante. Através de atividades que unem teoria e prática, o aluno terá contato com situações profissionais, desenvolvendo projetos interdisciplinares que promovem habilidades como trabalho em equipe, análise crítica e resolução de problemas. A metodologia envolve estudos de caso, simulações e pesquisa aplicada, facilitando a compreensão do conhecimento e preparando o estudante para a prática profissional. A avaliação considera o desempenho nas atividades práticas, projetos interdisciplinares, relatórios e apresentações.\n",
+       "BibliografiaBasica": "A bibliografia será adaptada de acordo com os temas abordados em cada período e poderá incluir leituras recomendadas das disciplinas do semestre, artigos científicos, casos de estudo e materiais de referência atualizados na área.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "NUPX15"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "7º Período": [
+     {
+      "Codigo": "NUPU02",
+      "Nome": "Estágio Supervisionado I",
+      "Créditos": "8.0",
+      "Teórica": "0",
+      "Prática": "345",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Legislação de estágio, das normas institucionais pertinentes constantes no regulamento geral de estágio da UFRJ, específico de estágio do curso de Biomedicina e do PPC do curso. Estágio supervisionado na área de Escolha - Habilitação/Ênfase. Atividades práticas relacionadas com o conhecimento técnico-científico específico da área de Escolha - Habilitação/Ênfase, com discussão supervisionada.\n",
+       "BibliografiaBasica": "1- MOURA,R.A.; WADA,C.S.; PURCHO,A.; ALMEIDA,T.V. Técnicas de laboratório.3ªed São paulo - SP Atheneu,2008.\n2- Legislação de estágio, das normas institucionais pertinentes constantes no regulamento geral de estágio da UFRJ, específico de estágio do curso de Biomedicina e do PPC do curso.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "NUPX13"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NUPK09",
+      "Nome": "Tcc I",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Aprofundamento de conhecimentos de investigação científica para elaboração de projeto;\ndelimitação do tema; preparação para coleta, organização e redação das informações pesquisadas; elaboração de projeto.\n",
+       "BibliografiaBasica": "1- KAUARK, et al. Metodologia da pesquisa: um guia prático. 1. ed. Via Literarum. Ilheus, 2012.\n2- ANDRADE, M. M. Redação científica: elaboração do TCC passo a passo. 2. ed. Factash. São Paulo, 2007.\n3- BASTOS, CL; KELLER, V. Aprendendo a aprender: introdução à metodologia científica. 17. Ed. Petrópolis, 2004. ISBN: 85-326-0586-9.\n",
+       "BibliografiaComplementar": "1- Normas de elaboração de TCC - UFRJ\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "NUP235"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "8º Período": [
+     {
+      "Codigo": "NUPU03",
+      "Nome": "Estágio Supervisionado II",
+      "Créditos": "8.0",
+      "Teórica": "0",
+      "Prática": "345",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Legislação de estágio, das normas institucionais pertinentes constantes no regulamento geral de estágio da UFRJ, específico de estágio do curso de Biomedicina e do PPC do curso. Estágio supervisionado na área de Escolha - Habilitação/Ênfase. Atividades práticas relacionadas com o conhecimento técnico-científico específico da área de Escolha - Habilitação/Ênfase, com discussão supervisionada.\n",
+       "BibliografiaBasica": "1- MOURA, R.A.; WADA, C.S.; PURCHO, A.; ALMEIDA, T.V. Técnicas de laboratório.3ªed São paulo - SP Atheneu,2008.\n",
+       "BibliografiaComplementar": "Artigos Científicos\nLegislações específicas\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "NUPU02"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NUPK10",
+      "Nome": "Tcc II",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenvolvimento das atividades previstas no projeto de pesquisa. Redação de monografia constituindo momento de integração dos conceitos apreendidos ao longo do curso. Apresentação de trabalho monográfico perante banca examinadora.\n",
+       "BibliografiaBasica": "1- KAUARK, et al. Metodologia da pesquisa: um guia prático. 1. ed. Via Literarum. Ilheus, 2012.\n2- ANDRADE, M. M. Redação científica: elaboração do TCC passo a passo. 2. ed. Factash. São Paulo, 2007.\n3- BASTOS, CL; KELLER, V. Aprendendo a aprender : introdução à metodologia científica. 17. Ed. Petrópolis, 2004. ISBN: 85-326-0586-9.\n",
+       "BibliografiaComplementar": "1- Normas de elaboração de TCC - UFRJ\n2- Normas ABNT\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "NUPK09"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "NUPX06",
+      "Nome": "Atividades Complementares",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Os alunos deverão apresentar, ao final do 8º período, certificados de participação em atividades complementares (90h): atividades de Ensino, Pesquisa e Extensão, tais como conferências, mini-cursos, reuniões científicas que frequentaram durante o curso de graduação.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "Disciplinas Optativas (Escolha Condicionada)": [
+     {
+      "Codigo": "IBS703",
+      "Nome": "Biossegurança",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A biossegurança será abordada a partir dos impactos possíveis gerados pela atividade humana e por eventos naturais.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IBS705",
+      "Nome": "Const Model Inov. Ensi Ciência",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "As dificuldades do aprendizado clássico.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IBS712",
+      "Nome": "Medicamentos e Sociedade",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "História natural e prevenção das doenças.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IBS714",
+      "Nome": "Métodos Pesquisa Qualitativa",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Teorias e técnicas referentes a pesquisa qualitativa. Etnografia, observação, participação e descrições densas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IBS720",
+      "Nome": "Tec Bio Mol Apl Diag Bio Fore",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução à Biologia  Molecular. Fundamentos da biologia molecular,estrutura  e funções dos ácidos nucleicos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IBS724",
+      "Nome": "Prod Mat Didát Edu Divul Cient",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceitos de materiais didáticos, tecnologias educacionais e divulgação científica.\nPerspectivas educacionais e usos de materiais didáticos. A comunicação e a mediação\nda aprendizagem por materiais didáticos. Aspectos de linguagem, discurso, imagens e\nsons. Planejamento e produção com foco no usuário. Oficinas de produção de\nmateriais impressos e eletrônicos. Avaliação de materiais didáticos. Análise de\nsituações pedagógicas e reflexões sobre a atividade profissional.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCB703",
+      "Nome": "Estrutura Conh Científico",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Entendimento das diferentes concepções relacionadas à epistemologia do conhecimento e o conceito de ciência; a lógica indutiva e dedutiva; conhecimento do método científico e suas bases (princípio da falseabilidade e o método hipotético dedutivo); paradigmas e revoluções científicas; estrutura e dinâmica de teorias científicas e suas partes; ciência, ética e sociedade; conhecimento dos requisitos básicos para proposição de projetos de pesquisa e teste de hipóteses em ciências; contextualização dos projetos individuais de pesquisa para reconhecimento dos limites das proposições e a possibilidade de integrar níveis e programas de investigação distintos; apresentação de seminários sobre projetos individuais de pesquisa.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCB716",
+      "Nome": "Poluição e Tox. em Sist Natur",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Principais classes de contaminantes. Emissão, ciclagem, transformações e destino de poluentes nos sistemas naturais. Monitoramento ambiental de contaminantes. Procedimentos e técnicas analíticas para avaliação da poluição de sistemas naturais. Aspectos de ecotoxicologia. Técnicas de bioensaio. Efeitos de poluentes em organismos, populações e comunidades.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCB719",
+      "Nome": "Bio Molecular e Genômica Func",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Emprego das principais ferramentas de bioinformática e biologia molecular. Técnicas de clonagem, expressão e knock-out gênico. Análise de genomas com abordagens evolutivas para o estudo da variação das espécies.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCB732",
+      "Nome": "Metodos de Pesquisa Socioquali",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Construção do universo empírico. Ênfase em estratégias que priorizam a oralidade. Trabalho de campo etnográfico. Cadernos de campo. Documentos sinóticos. Técnicas de campo. Questões éticas. Objeto de pesquisa. Pesquisas qualitativas. Imaginação sociológica. Formações subjetivas e produção da verdade. Poder, discurso e eficácia simbólica. Ideologia e ciência. Contexto de produção textual da universidade. Preconceito linguístico. Gêneros acadêmicos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCW003",
+      "Nome": "Tóp em Relações Étnico Raciais",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução à história dos povos ameríndios e da diáspora africana; eurocentrismo e a evolução das teorias eugênicas; abolição da escravatura negra e o mito da democracia racial. Aproximação da história, cultura, território e religiosidades tradicionais afro-indígenas na região norte-fluminense. Educação das relações étnico raciais e a efetivação da Lei 11.645/08. Alimentação e cuidado na ótica das políticas de saúde\nintegral da população negra e indígena.\n___ BIBLIOGRAFIA BÁSICA ___\n1) ALMEIDA, A. A. B.; SANCHEZ, L. Os negros na legislação educacional e educação formal no Brasil. Revista Eletrônica de Educação, vol.10, n.2, p.234-246, 2016.\n2) KAHN M, Franchetto B. Educação indígena no Brasil: conquistas e desafios. Em Aberto, v.14, n.63, 1994.\n3) WERNECK J. Racismo Institucional e Saúde da População Negra. Saúde Soc, v.25, n.3, p.535-549, 2016.\n___ BIBLIOGRAFIA COMPLEMENTAR ___\n1) ALMEIDA, A. A. B.; SANCHEZ, L. Os negros na legislação educacional e educação formal no Brasil. Revista Eletrônica de Educação, vol.10, n.2, p.234-246, 2016.\n2) FREYRE, G. Casa-grande & senzala: formação da família brasileira sob o regime da economia patriarcal, São Paulo: Global, 2013.\n3) GOMES, Nilma Lino. O Movimento Negro educador: saberes construídos nas lutas por emancipação. RJ: Vozes, 2017.\n4) JACCOUD, Luciana. Racismo e república: o debate sobre o branqueamento e a discriminação racial no Brasil. IN. HEODORO, Mario (Oeg.). Luciana Jaccoud; Rafael Osório; Sergei Soares. As políticas Públicas e a desigualdade racial no Brasil: 120 anos após a abolição. Brasília: IPEA, 2008.\n5) MUNANGA, Kabengele. Negritude: usos e sentidos. 3. ed. Belo Horizonte: Autêntica, 2012.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUP018",
+      "Nome": "Educação Ambiental",
+      "Créditos": "3.0",
+      "Teórica": "15",
+      "Prática": "0",
+      "Extensão": "30",
+      "Informação": {
+       "Info": "Histórico, trajetórias e fundamentos da Educação Ambiental no Brasil. A emergência da ?questão ambiental?. Conferências Internacionais e Nacionais em EA. O arcabouço institucional-legal nacional (Instituições, leis, decretos e normativas). A EA formal e não-formal. Movimentos por justiça socioambiental, conflitos ambientais, ecologia política, populações vulneráveis, EA popular e de base comunitária. Pensadores contemporâneos do campo. EA no licenciamento de petróleo e em Unidades de Conservação. Comunicação Ambiental como ferramenta educativa. Cinema e multimídia voltada para EA (Circuito Tela Verde, Festivais de Cinema, educomunicação e mídia de massa).\nAÇÃO DE EXTENSÃO VINCULADA: \"Educação Ambiental e Cinema\" e \"Imaginamundos: educação, sustentabilidade e novas formas de viver\".\n",
+       "BibliografiaBasica": "1- Amazônia Legal/Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis, 1994. 109 p.\n2- BRASIL. Ministério da Educação e do Desporto. Coordenação de Educação Ambiental. A implantação da Educação Ambiental no Brasil. Brasília,1998. 166 p.\n3- CARVALHO, Vilson Sérgio de. Educação ambiental e desenvolvimento comunitário. Rio de Janeiro, RJ: WAK, 2002.\n4 GUIMARÃES, M. A dimensão ambiental na educação. 4. ed. São Paulo: Papirus, 2001.\n5- LATOUR, B. (2012). Reagregando o Social. Bauru, SP: EDUSC/ Salvador, BA: EDUFBA.\n6- LAYRARGUES, Philippe Pomier (coord.). Identidades da Educação Ambiental Brasileira. Brasília: Ministério do Meio Ambiente, 2004.\n7- LOUREIRO, C. F. B. et al Educação Ambiental e gestão participativa em unidades de conservação. 3a ed. (revisada e atualizada). Rio de Janeiro: IBAMA, 2008.\n8- QUINTAS, José da Silva (org.) Pensando e praticando a educação na gestão do meio ambiente. Brasília: IBAMA, 2000. 161 p. (Coleção Ambiente. Série estudos Educação Ambiental)\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUP058",
+      "Nome": "Técnicas Histológicas",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Fixação, clivagem e descalcificação de tecidos; processamento e inclusão de tecidos; corte de tecidos em micrótomo, criostato, vibrátomo e ultramicrótomo; Princípios gerais e específicos de colorações de rotina e especiais; Imunohistoquímica, hibridização in situ; Microscopia Óptica, de Fluorescência, Confocal e Eletrônica de Transmissão e Varredura.\n",
+       "BibliografiaBasica": "1- GITIRANA, L., B. Técnicas Histológicas: Métodos Básicos. Ed. da Autora. 2022.\n2- DE SOUZA, W. Técnicas de Microscopia Eletrônica Aplicadas às Ciências Biológicas. 2 ed. Rio de Janeiro: Sociedade Brasileira de Microscopia. 2007.\n3- DE SOUZA, W. Microscopia Óptica: fundamentos e aplicações às Ciências Biomédicas. 1 ed. Rio de Janeiro: Sociedade Brasileira de Microscopia. 2010.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "NUP206",
+       "NUP250"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUP060",
+      "Nome": "Diagnóstico Molecular Doenças",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O laboratório de diagnóstico molecular; Princípios e técnicas do diagnóstico molecular; amplificação de ácidos nucléicos e PCR; Tecnologias de arranjos de hibridização; citogenética; diagnóstico molecular de neoplasias, doenças infecciosas e doenças genéticas.\n",
+       "BibliografiaBasica": "1- Henry, J.B. Diagnósticos Clínicos e Tratamento por Métodos Laboratoriais. 20ª ed. Barueri: Manole. 2008.\n2- WATSON, J. D. et al. Biologia molecular do gene. 7. ed. Porto Alegre: Artmed, 2015.\n3- ALBERTS, B. et al. Biologia molecular da célula. 6. ed. Porto Alegre: Artmed, 2017.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "NUP232",
+       "NUP242",
+       "NUP250"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUP062",
+      "Nome": "Genética Humana",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Princípios básicos e aplicados da genética humana, explorando desde os conceitos fundamentais de herança genética até as implicações das alterações genéticas no desenvolvimento de doenças. Busca-se capacitar o estudante para entender os mecanismos moleculares, citogenéticos e genômicos que influenciam a variabilidade genética humana, promovendo uma visão integrada da genética no contexto da saúde humana.\n",
+       "BibliografiaBasica": "1- Henry, J.B. Diagnósticos Clínicos e Tratamento por Métodos Laboratoriais. 20ª ed. Barueri: Manole. 2008.\n2- WATSON, J. D. et al. Biologia molecular do gene. 7. ed. Porto Alegre: Artmed, 2015.\n3- ALBERTS, B. et al. Biologia molecular da célula. 6. ed. Porto Alegre: Artmed, 2017.\n4- WILLARD, Huntington et al. Thompson & Thompson genética médica. 8. Ed. Editora Guanabara, 2016.\n5- SNUSTAD, P., SIMMONS, M. J. Fundamentos de Genética. 7. Ed. Editora Guanabara, 2017.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "NUP242"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUP064",
+      "Nome": "Anato Topológica e Fisio Estét",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Anatomia topográfica e palpatória. Anatomia da cabeça, anatomia microscópica da pele, Fisiologia da pele e anexos; Integração Sistema Endócrino e Cardiorespiratório. Síndrome da Desarmonia Corporal.\n",
+       "BibliografiaBasica": "1- AZULAY, R. D.; AZULAY, D. R; AZULAY-ABULAFIA, L. Dermatologia. 7. ed. Rio de Janeiro: Guanabara Koogan, 2017.\n2- RIZZOLO, R.J.C; MADEIRA, M.C. Anatomia Facial com fundamentos de anatomia sistêmica geral. 3. ed., Sarvier, São Paulo, 2009.\n3- BORGES, F. S. Modalidades terapêuticas nas disfunções estéticas. São Paulo: Phorte, 2010.\n",
+       "BibliografiaComplementar": "1- SOBOTTA, J. Atlas de Anatomia Humana. volumes I e II, 22. ed., Guanabara Koogan, Rio de Janeiro, 2006.\n2- NETTER, F. H. Atlas de Anatomia Humana. 4 ed. Rio de Janeiro: Elsevier, 2008.\n3- NORTON N.S. NETTER - Atlas De Cabeça E Pescoço. 3ed. GEN Guanabara Koogan, 2018.\n4- GUYTON, A.C. e Hall J.E. Tratado de Fisiologia Médica. Editora Elsevier. 13ª ed., 2017.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "NUP119",
+       "NUP240",
+       "NUP315"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUP066",
+      "Nome": "Semiologia na Estética",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Proporcionar ao acadêmico de Biomedicina o conhecimento na atuação como Biomédico Esteta. Apresentando a formação da Biomedicina Estética. Campo de atuação. Leis, Resoluções e Normas para atuação. Construção de protocolos e preceitos éticos na estética. Importância da Avaliação e da foto-documentação.\n",
+       "BibliografiaBasica": "1- DRAELOS D. Z. Dermatologia cosmética - Produtos e Procedimentos Editora Santos, 2012.\n2- MAIO, Mauricio de. Tratado de medicina estética. 2.ed. São Paulo: Roca, 2011.\n3- KEDE, Maria Paulina Villarejo; SABATOVICH, Oleg. Dermatologia estética. 2.ed. São Paulo: Atheneu, 2009.\n",
+       "BibliografiaComplementar": "1- BRASIL. CONSELHO FEDERAL DE BIOMEDICINA. RESOLUÇÃO Nº. 307, DE 17 DE MAIO DE 2019. Disponível em: https://cfbm.gov.br/wp-content/uploads/2019/05/RESOLUCAO-CFBM-No-307-DE-17-DE-MAIO-DE2019..pdf. Acesso em: 26 abr. 2023.\n2- BRASIL. CONSELHO FEDERAL DE BIOMEDICINA. RESOLUÇÃO Nº. 197, DE 21 DE FEVEREIRO DE 2011. Dispõe sobre as atribuições do profissional Biomédico no Exercício da Saúde Estética e Atuar como Responsável Técnico de Empresa que Executam Atividades para fins Estéticos. Disponível em: https://cfbm.gov.br/wp-content/uploads/2011/02/RESOLUCAO-CFBM-No-197-DE-21-DE-FEVEREIRO-DE2011.pdf. Acesso em 26 de abr. 2023.\n3- GILCHREST, B. Envelhecimento cutâneo. Rio de Janeiro: Guanabara Koogan, 2007.\n4-  MASTROENI, Marco Fabio. Biossegurança: aplicada a laboratórios e serviços de saúde. 2.ed. São Paulo: Atheneu, 2005.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUP068",
+      "Nome": "Estét Aplic Pré Pós-operatório",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conhecimento das técnicas de cirurgia plástica corporal e facial. Tratamentos estéticos invasivos e não-invasivos realizados na medicina estética. Técnicas e procedimentos pré e pós-operatório de cirurgia plástica facial e corporal. Orientações e cuidados gerais.\n",
+       "BibliografiaBasica": "1- BORGES, Fábio dos Santos. Dermato-funcional: modalidades terapêuticas nas disfunções estéticas. 2 ed. rev. e ampl. São Paulo: Phorte, 2010.\n2- GUIRRO, Elaine; GUIRRO, Rinaldo. Fisioterapia dermato-funcional: fundamentos, recursos, patologias. 3 ed. rev. e ampl. Barueri: Editora Manole Ltda, 2010.\n3- KEDE, Maria Paulina Villlarejo; SABATOCH, Oleg. Dermatologia estética. 2 ed. rev. e ampl. São Paulo: Atheneu, 2009.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUP070",
+      "Nome": "Líquidos Corporais",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Fisiopatologia e interpretação clínico-laboratorial da análise dos líquidos corporais: urina, líquido seminal, líquido cefalorraquidiano, líquido sinovial, líquido ascítico, líquido pleural, líquido pericárdico, líquido amniótico e líquido peritoneal. Controle de Qualidade em líquidos corporais.\n",
+       "BibliografiaBasica": "1- STRASINGER, S.K. Uroanálise e Fluidos Biológicos. 5ª Ed. Editora médica paulista, 2009.\n2- RAVEL, R. Laboratório clínico: aplicações clínicas dos achados laboratoriais. 4ª ed. Rio de Janeiro: Guanabara Koogan.\n3- HENRY, J.B. Diagnóstico Clínico e Tratamento por Métodos Laboratoriais. 20ª Ed. Editora Manole, 2008.\n",
+       "BibliografiaComplementar": "1- BURTIS, C. & ASHWOOD, E.R. TIETZ Fundamentos de Química Clínica. Editora Elservier, 2008.\n2- ANDRIOLO, A. Medicina Laboratorial. Editora Manole, 2005.\n3- MASTROENI, M.F. Biossegurança: aplicada a laboratório e serviços de saúde. Editora Atheneu, 2004.\n4- PIVA, S. Espermograma - Análises e Técnicas. 7º Edição, 1988. Livraria Santos Editora LTDA.\n5- GUYTON, A.C. & HALL, J. Tratado de fisiologia médica. 12ª Edição, .Elsevier, 2006.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUP101",
+      "Nome": "Univ e Responsabilidade Social",
+      "Créditos": "3.0",
+      "Teórica": "15",
+      "Prática": "0",
+      "Extensão": "30",
+      "Informação": {
+       "Info": "Etologia e a base do comportamento social humano. Movimento organizado universitário e suas consequências na dinâmica sociocultural da sociedade. Conceitos, filosofia e prática das ações extensionistas universitárias. Evolução da socialidade e cultura humana. Planejamento e execução de ações extensionistas.\nAÇÃO DE EXTENSÃO VINCULADA: \"Universidade do Brasil e Responsabilidade Social\"\n",
+       "BibliografiaBasica": "1- ALCOCK, J. Comportamento Animal: uma abordagem evolutiva. São Paulo, Artmed Editora, 2011.\n2- OTTA, E.; Yamamoto, M.E. Fundamentos de psicologia evolucionista. Rio de Janeiro: Guanabara Koogan, 2009\n3- Política Nacional de Extensão Universitária (disponível em: http://www.pr5.ufrj.br/index.php/o-que-e-extensao/documentos)\n",
+       "BibliografiaComplementar": "1- DALGALARRONDO, P. Evolução do cérebro: sistema nervoso, psicologia e psicopatologia sob a perspectiva evolucionista. Porto Alegre: Artmed, 2011.\n2- HINDE, R. A. The dialetical personal relationships. Cambridge: Cambridge University Press, 1997.\n3- HINDE, R. A.; Groebel, J. (Orgs). Cooperation and prosocial behaviour. Cambridge: Cambridge University Press, 1991.\n4-  Coletânea de Artigos Especificos.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUP116",
+      "Nome": "Leit Prod Textos Científicos",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Natureza da produção textual científica. Leitura e interpretação de textos científicos. Contexto de produção textual científica. Redação científica.\n",
+       "BibliografiaBasica": "1- ALVES, R.  Educação e construção do conhecimento. Porto Alegre: Artmed.2001.\n2- BARRAS, R.  Cientistas precisam escrever. São Paulo: Ed. T.A. Queiroz. 1994.\n3- CARDOSO, S. H. B.  Discurso e ensino. Belo Horizonte: Ed. Autêntica. 1999.\n",
+       "BibliografiaComplementar": "1- LUFT, C.P. 1992. Dicionário prático de Regência Nominal. São Paulo: Ática.1992.\n2- VIEIRA, C.L.  Pequeno Manual da Divulgação Científica. São Paulo: Ed. SPBC. 2008.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUP121",
+      "Nome": "Metodologia Científica",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Ciência e epistemológicas em ciências; indutivismo e dedutivismo. Conhecimento do método científico e suas bases (princípio da falseabilidade e o método hipotético dedutivo). Estrutura de teorias científicas; conceito e fundamentação. Normas e formatação de trabalho científico. Introdução à Bioética: histórico, princípios fundamentais; condutas.\n",
+       "BibliografiaBasica": "1- ALVES, R. Filosofia da Ciência: introdução ao jogo e suas regras. São Paulo: Ed. Loyola. 2000.\n2- COSTA, S. & DINIZ, D. Ensaios: Bioética. São Paulo: Ed. Brasiliense. 2006.\n3- GALLIANO, A. G. 1986. O método científico: teoria e prática. São Paulo: Ed. HARBRA. 1986.\n4- SEVERINO, A.J. Metodologia do trabalho científico [livro eletrônico]. São Paulo: Cortez. 2013.\n",
+       "BibliografiaComplementar": "Artigos e textos variados\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUP701",
+      "Nome": "Fisiol Nutrição Inter-rel Met",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Digestão e metabolismo de nutriente.Regulação da ingestão alimentar. Inter-relação metabólica na obdidade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUP703",
+      "Nome": "Fisiol Sinaliz Insulínica",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Mecanismo de ação hormonal;Sistema endócrino;Mecanismo celularesde ação de ação de hormonal;Transporte dos hormônios.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUP705",
+      "Nome": "Fisiologia da Pele",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Definição e conceito do tegumento.Estrutura e função do sistema tegumentar. Histologia da pele normal.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUP712",
+      "Nome": "Biologia Mol Genômica Funcion",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estrutura e função de ácidos nucleicos.Replicação,reparo e recomendação do DNA. Transcrição e regulação da expressão de genes.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUP730",
+      "Nome": "Plasticidade do Sist Nervoso",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Abordagem de temas relacionados a fronteira  do conhecimento no âmbito das Ciências Fisiológicas assim como da pesquisa transacional.\nMestrado e doutorado.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUPU04",
+      "Nome": "Estágio Não Obrigatório I",
+      "Créditos": "6.0",
+      "Teórica": "0",
+      "Prática": "250",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Legislação de estágio, das normas institucionais pertinentes constantes no regulamento geral de estágio da UFRJ, específico de estágio do curso de Biomedicina e do PPC do curso. Estágio supervisionado na área de Escolha - Habilitação. Atividades práticas relacionadas com o conhecimento técnico-científico específico da área de Escolha - Habilitação, com discussão supervisionada.\n",
+       "BibliografiaBasica": "1- MOURA, R.A.; WADA, C.S.; PURCHO, A.; ALMEIDA, T.V. Técnicas de laboratório.3ªed São paulo - SP Atheneu,2008.\n",
+       "BibliografiaComplementar": "Artigos Científicos\nLegislações específicas\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUPX07",
+      "Nome": "Inic Científica em Biomed I",
+      "Créditos": "4.0",
+      "Teórica": "0",
+      "Prática": "200",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A Iniciação Científica (IC) é um processo alinhado com o perfil do Biomédico a ser formado e propicia a consolidação de competências e habilidades descritas para pesquisa científica.\n",
+       "BibliografiaBasica": "1 - MASSI, L; QUEIROZ, S.L. (orgs.). Iniciação científica: aspectos históricos, organizacionais e formativos da atividade no ensino superior brasileiro [livro digital]..São Paulo: Editora Unesp Digital. 2015.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IBS701",
+      "Nome": "Ambiente e Sociedade",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Contribuições da ecologia política  para os estudos de ambiente e sociedade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IBS704",
+      "Nome": "Conservação Gestão Ambiental",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Fornecer ao aluno o conhecimento dos principais elementos relacionados ao gerenciamento ambiental.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IBS707",
+      "Nome": "Ferram Model Molecular Ensino",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceitos fundamentais e aplicações da modelagem molecular.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IBS713",
+      "Nome": "Metodologia Científica",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conhecimento científico:sua natureza e relação cim outras formas de conhecimento\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IBS716",
+      "Nome": "Saúde Ambiental",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Apresentação dos fundamentos da saúde integral, correlacionado à ecologia ambiental e a ecologia humana, na aplicação como ensino, a pesquisa e os serviços de saúde.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IBS721",
+      "Nome": "Tec Bioestatística Aplicada",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Como aplicar o método científico e testes de hipóteses em estudos ambientais.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IBS730",
+      "Nome": "Energias Renováv Enfase Biogas",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A capacidade de orientação científica é etapa fundamental para a formação de um\npós-graduando. Além disso, uma parcela considerável dos pós-graduandos exercerá\nsuas atividades profissionais em centros e institutos de pesquisa científica após a\nconclusão do curso. O desenvolvimento da habilidade na orientação científica de\nnovos estudantes é fundamental para o sucesso dos profissionais que ingressarem em\natividades profissionais cuja a ciência é a principal área de atuação.\nA disciplina compreende a orientação de aluno de iniciação científica, possibilitando\nao pós-graduando experiência preliminar em orientação e formação de recursos\nhumanos, assim como a valorização do trabalho em grupo.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCB710",
+      "Nome": "Temas Atuais Biolog Comparada",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Filosofia da Ciência e Sistemática; princípios de Sistemática Filogenética ou Cladística; cladogramas e outros tipos de dendrogramas; grupos-irmãos; grupos monofiléticos, parafiléticos e polifiléticos; caracteres apomórficos e plesiomórficos; homologias primárias e secundárias; homoplasias; séries de transformação de caracteres; caracteres multi-estado ordenados e não-ordenados; caracteres binários; matrizes de dados e construção de cladogramas; análise de parcimônia; otimização de estados de caracteres; ordenação e polarização de caracteres; consensos; notação parentética; diagramas não-enraizados e enraizamento; Sistemática molecular e princípios de evolução molecular; sistemática molecular vs sistemática morfológica; filogenia de genes vs filogenia espécies; homologias moleculares; modelos de evolução de caracteres; distâncias genéticas; métodos filogenéticos probabilísticos: verossimilhança e filogenética bayesiana; algoritmos de busca de árvores; intervalos de confiança e precisão de clados; ferramentas computacionais de análise filogenética.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCB718",
+      "Nome": "Epigenética Evol. Des. Embrio",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Controle molecular do processo de desenvolvimento embrionário nos animais. Evolução das estratégias de desenvolvimento embrionário. Efeitos da alteração do meio ambiente a partir de agentes externos no desenvolvimento embrionário dos organismos terrrestres e aquáticos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCB720",
+      "Nome": "Sociedade e Ciência",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "1)Produção social do conhecimento científico\n2)Processo de classificação do conhecimento\n3)Burocratização da ciência\n4)Políticos,tecnologia e sociedade\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCG600",
+      "Nome": "Empreendedorismo",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Definição de Empreendedorismo e empreendedor. Perfil do empreendedor. Habilidades e qualidades do empreendedor. O papel do empreendedor. Identificação de oportunidades para novos negócios. Elaboração de plano de negócio. Identificação de fontes e financiamento para o novo negócio.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUP016",
+      "Nome": "Ingles Instrumental I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUP057",
+      "Nome": "Histopatologia Órgãos e Sistem",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Compreensão detalhada das alterações morfológicas teciduais associadas a diferentes processos patológicos. A disciplina visa capacitar o aluno a identificar, descrever e correlacionar as principais alterações histopatológicas com doenças específicas dos diversos órgãos e sistemas, contribuindo para o diagnóstico e compreensão das bases moleculares e fisiopatológicas das doenças.\n",
+       "BibliografiaBasica": "1- KIERSZENBAUM, A. & TRES, L. Histologia E Biologia Celular: Uma Introdução À Patologia. Gen Grupo Editorial Nacional. 2021.\n2- PAWLINA, W.. & ROSS, M. Histologia: Texto E Atlas. Gen Grupo Editorial Nacional. 2021.\n3- JUNQUEIRA, L. C., Carneiro, J., Abrahansohn, P. Histologia Básica. Gen Grupo Editorial Nacional. 2023.\n4- GARTNER, L. Tratado de Histologia. Gen Grupo Editorial Nacional. 2022.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "NUP206",
+       "NUP250"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUP059",
+      "Nome": "Histopat Biopsias e Necrópsias",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Biossegurança e segurança química em laboratórios de histotecnologia; Coleta, registro e acondicionamento de materiais biológicos; Macroscopia e microscopia em amostras patológicas; histopatologia de neoplasias, de doenças infecciosas e histopatologia dos sistemas nervoso, tegumentar, imunológico, cardiovascular, respiratório, digestivo, urinário, reprodutor, endócrino, e de partes mole.\n",
+       "BibliografiaBasica": "1- SCAPINI, C., A. Patologia geral. Artmed Editora, 2013.\n2- KUMAR, V., ABBAS, A. K., ASTER, C. J. Robbins & Cotran - Patologia - Bases Patológicas das Doenças. Gen Grupo Editorial Nacional. 2023.\n3- FILHO, G. B. Bogliolo - Patologia. Gen Grupo Editorial Nacional. 2021.\n4- RUBIN, E. Patologia - Bases Clinicopatológicas da Medicina. Gen Grupo Editorial Nacional. 2006.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "NUP206",
+       "NUP250"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUP061",
+      "Nome": "Bio Molec Polimorfism Genético",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Consequências dos polimorfismos genéticos para a saúde; Polimorfismos de nucleotídeo único; Inserções e deleções; Variação do número de cópias; Repetições curtas em tandem; aplicação dos polimorfismos de DNA em testes de paternidade e forenses.\n",
+       "BibliografiaBasica": "1- Henry, J.B. Diagnósticos Clínicos e Tratamento por Métodos Laboratoriais. 20ª ed. Barueri: Manole. 2008.\n2- WATSON, J. D. et al. Biologia molecular do gene. 7. ed. Porto Alegre: Artmed, 2015.\n3- ALBERTS, B. et al. Biologia molecular da célula. 6. ed. Porto Alegre: Artmed, 2017.\n4- WILLARD, Huntington et al. Thompson & Thompson genética médica. 8. Ed. Editora Guanabara, 2016.\n5- SNUSTAD, P., SIMMONS, M. J. Fundamentos de Genética. 7. Ed. Editora Guanabara, 2017.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "NUP232",
+       "NUP242"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUP063",
+      "Nome": "Citogenética Molecular",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceitos, discussões e debates sobre cariotipagem, principais métodos de estudos em hibridação in situ e aplicações no diagnóstico e na pesquisa.\n",
+       "BibliografiaBasica": "1- GUERRA, M. FISH: Conceitos e Aplicações na Citogenética. Sociedade Brasileira de Genética, 2009.\n2- GUERRA, M. Citogenética Molecular: Protocolos Comentados. Sociedade Brasileira de Genética, 2012.\n3- SHAFFER, L.G.; SLOVAK, M.L., et al. ISCN. An International System for Human Cytogenetic Nomenclature. West Avon Road, USA: S. Karger Publishers, Inc 2009.\n",
+       "BibliografiaComplementar": "1- ROONNEY, D.E. Human Cytogenetics: Constitutional Analysis. Editora Oxford University.London, 2001.\n2- STRACHAM, T. & READ, A.P. Genética Molecular Humana. 4ªEd. Editora Artmed., 2013.\n3- JORDE, B.L.; CAREY, J.C.; BAMSHAD, M.J; WHITE, R.L. Genética Médica. 4ª Ed. Editora Elsevier, 2010.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "NUP232"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUP065",
+      "Nome": "Farmacol e Cosmetolog Estética",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Leis e Resoluções da ANVISA e do CFBM. Farmacologia e noções fundamentais de injeções na estética. Prescrição de medicamentos na estética. Peeling cosmético. Drug delivery. Cosmetologia e tipos de pele.\n",
+       "BibliografiaBasica": "1- BORGES, F. S. Dermato-funcional: modalidades terapêuticas nas disfunções estéticas. 2.ed. São Paulo: Phorte, 2010.\n2- KEDE, M.P.V.; SABATOVICH, O. Dermatologia estética. São Paulo: Ateneu, 2009.\n3- SOUZA, V.M.; ANTUNES. J, D. Ativos dermatológicos: Dermocosméticos e Nutracêuticos. 9 Volumes .São Paulo: Daniel Antunes Junior, 2016.\n",
+       "BibliografiaComplementar": "1- TOSTI, A. KENNETH, B. PADOVA, M.P. Conduta nas Complicações de Procedimentos Estéticos: Lidando com problemas comuns e outros menos incomuns. Rio de Janeiro: Dilivros, 2015.\n2- DRAELOS, D.Z. Cosmecêuticos. São Paulo: Santos, 2009.\n3- DRAELOS, D.Z. Dermatologia Cosmética: Produtos e Procedimentos. São Paulo: Santos, 2012.\n4- SAMPAIO, S. A. P.; RIVITTI, E. Dermatologia. 3.ed. São Paulo: Artes Médicas, 2008.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "NUP240",
+       "NUP404"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUP067",
+      "Nome": "Anatomofisiologia Estét Pele",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Noções de estrutura e função da pele: epiderme, junção dermoepidérmica, derme papilar e reticular, hipoderme e anexos cutâneos. Características biofísicas da pele em relação à raça, sexo, idade e ambiente. Diferenças anatômicas entre a pele infantil e a pele adulta e dos anexos da pele. Cosmiatria. Tipos de pele e seus cuidados. Diferenças étnicas nas propriedades da pele. Pele sensível e seus fatores fisiológicos. Correlação entre perda de água transepidérmica e absorção percutânea. Regulação da barreira de homeostase cutânea. Promotores de absorção percutânea. Flora e pH cutâneos. Princípios e mecanismos de irritação cutânea. Alergia e produtos hipoalergênicos. Anatomia das unhas: físico-química, fisiologia e estética.\n",
+       "BibliografiaBasica": "1- BAREL, A.O.; PAYE, M.; MAIBACH, H.I. (eds.). Handbook of cosmetic science and technology. 3.ed. New York ; London: Informa Healthcare, 2009, p.5-24; 41-74;165-196; 221-232; 443-469; 553-562; 613-616; 737-767.\n2- KEDE, M.P.V.; SABATOVICH, O. (eds.). Dermatologia estética. 2.ed.rev.ampl. São Paulo: Atheneu, 2009, p.3-7; 23-43\n3- RIBEIRO, C. Cosmetologia. 2.ed. São Paulo: Pharmabooks Editora, 2010, p. 17-30; 78-94; 333-336.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUP069",
+      "Nome": "Toxicologia",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceitos básicos, áreas da toxicologia. Conhecimentos básicos relativos aos efeitos prejudiciais provocados por substâncias químicas no organismo humano, independentemente da fonte de exposição. Elucidar estratégias de prevenção e/ou tratamento de indivíduos intoxicados. Apresentar formas de identificação/quantificação de substâncias tóxicas. Conhecer os mecanismos das possíveis interações entre substâncias.\n",
+       "BibliografiaBasica": "1- MOREAU, R. ; SIQUEIRA, M. Toxicologia Analítica. 1. ed. Rio de Janeiro: Guanabara Koogan, 2008. (Série Ciências Farmacêuticas).\n2- KLAASSEN, C.; WATKINS, J. Fundamentos em Toxicologia de Casarett e Doull. 2. ed. Porto Alegre: Artmed, 2012.\n3- OGA, S., CAMARGO, M. A. C.; BATISTUZZO, J. A. O. Fundamentos de Toxicologia. 3. ed. São Paulo: Atheneu ed., 2008.\n",
+       "BibliografiaComplementar": "1- Técnico Industrial de Santa Maria ; Rede e-Tec Brasil, 2013. 128 p. Disponível em:\nhttp://estudio01.proj.ufsm.br/cadernos_seguranca/sexta_etapa/toxicologia.pdf.\n2- BRUNTON, Laurence L; CHABNER, Bruce; KNOLLMANN, Bj.rn C (Org.). As bases farmacológicas da terapêutica de Goodman & Gilman. 12. ed. Porto Alegre, RS: AMGH, 2012.\n3- KATZUNG, Bertram G. (Ed.). Farmacologia básica e clínica. 13. ed. Lange, 2017.\n4- RANG, H. P. Farmacologia. 8. ed. Rio de Janeiro: Elsevier, 2016.\n5- LIMA, DR. Manual de farmacologia clínica, terapêutica e toxicologia . Rio de Janeiro: Medici, 2003. ISBN 8571992940.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "NUP404"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUP071",
+      "Nome": "Bioinorgânica",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Compreensão dos princípios e processos que envolvem os metais e seus complexos em sistemas biológicos. Focando nos aspectos fundamentais e aplicados, a disciplina explora a função dos íons metálicos em processos celulares, o papel dos metais na estrutura e função de biomoléculas, e as aplicações terapêuticas e ambientais da química bioinorgânica. Pretende-se capacitar o aluno a reconhecer a importância dos elementos inorgânicos no metabolismo e nas interações moleculares, bem como discutir o uso de compostos metálicos na biotecnologia e na medicina.\n",
+       "BibliografiaBasica": "1- LIPPARD, Stephen J.; BERG, Jeremy M. Principles of Bioinorganic Chemistry. Mill Valley, CA: University Science Books, 1994.\n2- MIESSLER, Gary L.; FISCHER, Paul J.; TARR, Donald A. Inorganic Chemistry. 5. ed. New York: Pearson, 2014.\n3-MESSERSCHMIDT, Albrecht; HUBER, Robert; WEINER, Peter; et al. Handbook of Metalloproteins. Chichester: John Wiley & Sons, 2001.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUP111",
+      "Nome": "Biologia Cultura Questão Raça",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceito de Raça e como essa ideia tem sido aplicada historicamente aos seres humanos na luz dos entendimentos da Antropologia Cultural. Noções de Natureza e de Cultura e a interação entre o social e o biológico. A Raça como conceito biológico e como isso tem sido aplicado aos seres humanos, tocando nas histórias imbricadas de racismo e racialismo. A Antropologia como campo de conhecimento; e a evolução humana na luz do conceito do superorgânico de A.E.Kroeber. As distinções entre o conceito de distribuição clinática de atributos versus o modelo racialista. O posicionamento dos alunos de Ciências Biológicas frente às principais discussões sobre a questão da (não) existência das raças humanas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUP117",
+      "Nome": "Estudos Sócioantropológicos",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A seleção natural e a mente humana. O conceito do superorgânico na Antropologia. A construção da visão do sociocultural e a gênese do pensamento socio-antropológico no contexto da modernidade: positivismo científico, expansão colonial, urbanismo e capitalismo (hegemonia do pensamento positivista). Evolução social e a questão de raça: as experiências africanas e amerindígenas sob colonialismo, no Brasil e nas Américas. De raça a cultura: Galton, Spencer, Tylor e Boas. O método etnográfico: a construção do outro primitivo. Etnocentrismo e relativismo cultural. Marx, Durkheim e Weber: as bases clássicas do pensamento sociológico. Formas modernas de desigualdade e discriminação: raça e etnia; gênero; classe. A pluralidade sociocultural brasileira: algumas expressões.\n",
+       "BibliografiaBasica": "1- HAVILAND et al. 2011. Princípios da Antropologia. São Paulo: Cengage Learning\n2- HARARI, Y.N. 2015. Sapiens: Uma Breve História da Humanidade. São Paulo: LPM.\n3- LARAIA, R. 2005. Cultura: Um Conceito Antropológico. Ed. Jorge Zahar. Rio de Janeiro.\n4- LÉVI-STRAUSS, C. 2009. ?Natureza e Cultura?, Revista Antropos. V3, Ano 2.\n5- MINNER, H. 1956. ?O Ritual do Corpo entre os Sonacirema?. Publicação original: ?Body ritual among the Sonacirema?, American Anthropologist, Vol. 58, n° 3.\n6- QUINTANEIRO, T., et. al. 1995. Um Toque de Clássicos: Durkheim, Marx e Weber. Ed. UFMG. Belo Horizonte.\n",
+       "BibliografiaComplementar": "1- GIDDENS, A. 2006. Sociologia. Porto Alegre: Artmed.\n2- MARX, K. 1979. Marx: Sociologia. Otavio, I. (org.). São Paulo: Ática.\n3- DURKHEIM, E.: 1992. Sociologia: Coleção Grandes Cientistas Sociais. n.10. São Paulo: Ática.\n4- WEBER, M. 1999. Economia e Sociedade. Ed. UnB. Brasília.\n5- GOULD, S. J. 1991. A falsa Medida do Homem. São Paulo: Martins Fontes.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUP470",
+      "Nome": "Educação e Comunicação- Libras",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUP702",
+      "Nome": "Psicofisiologia",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Percepção, atenção, memória, emoção, funções executivas. Métodos de estudo em Psicofisiologia.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUP704",
+      "Nome": "Fisiopatol Trato Genital Fem",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Fisiologia e histologia do trato genital feminino;Histologia do trato genital feminino;Adaptações,lesões e morte celular.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUP706",
+      "Nome": "Neurobio Bas Neuropatologia",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Aspectos fisiológicos e morfológico do sistema nervoso de mamíferos; Aspectos fisiológicos e morfológico do sistema nervoso de invertebrados; Aspectos evolutivos conservados do sistema nervoso.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUP713",
+      "Nome": "Fisiologia e Fisiopatol Renal",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Visão morfofuncional do rim.Hemodinâmica renal. Filtração glomerular.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUP731",
+      "Nome": "Papeis Fisiol dos Glicanos",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Abordagem de temas relacionados a fronteira  do conhecimento no âmbito das Ciências Fisiológicas assim como da pesquisa transacional.\nMestrado e doutorado.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUPU05",
+      "Nome": "Estágio Não Obrigatório II",
+      "Créditos": "6.0",
+      "Teórica": "0",
+      "Prática": "250",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Legislação de estágio, das normas institucionais pertinentes constantes no regulamento geral de estágio da UFRJ, específico de estágio do curso de Biomedicina e do PPC do curso. Estágio supervisionado na área de Escolha - Habilitação. Atividades práticas relacionadas com o conhecimento técnico-científico específico da área de Escolha - Habilitação, com discussão supervisionada.\n",
+       "BibliografiaBasica": "1- MOURA,R.A.; WADA,C.S.; PURCHO,A.; ALMEIDA,T.V. Técnicas de laboratório.3ªed São paulo - SP Atheneu,2008.\n",
+       "BibliografiaComplementar": "Artigos Científicos\nLegislações específicas\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "NUPU04"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUPX08",
+      "Nome": "Inic Científica em Biomed II",
+      "Créditos": "4.0",
+      "Teórica": "0",
+      "Prática": "200",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A Iniciação Científica (IC) é um processo alinhado com o perfil do Biomédico a ser formado e propicia a consolidação de competências e habilidades descritas para pesquisa científica.\n",
+       "BibliografiaBasica": "1 - MASSI, L; QUEIROZ, S.L. (orgs.). Iniciação científica: aspectos históricos, organizacionais e formativos da atividade no ensino superior brasileiro [livro digital]..São Paulo: Editora Unesp Digital. 2015.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "NUPX07"
+      ],
+      "Tipo": "eletiva"
+     }
+    ]
+   },
+   "obrigatorias": 43,
+   "eletivas": 59,
+   "ano": "2026/1 a 9999/9"
+  }
+ ]
+}

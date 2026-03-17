@@ -1,0 +1,951 @@
+{
+ "Licenciatura em Química - EAD": [
+  {
+   "materias": {
+    "1º Período": [
+     {
+      "Codigo": "UFF110",
+      "Nome": "Introdução à Informática",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Hardware: princípio e funcionamento do computador; identificação dos principais componentes, montagem de um computador. Sistema operacional: conceito de sistema operacional, sistemas Windows e Linux, instalação de programas. Internet: conceito de Internet, navegação, sitios de busca, repositórios de programas, sitios voltados para o ensino. E-mail: enviar e receber e-mails, arquivos anexados. Edição de texto: programas de edição de textos, edição de fórmulas. Planilhas: uso de planilha eletrônica, fórmulas e decisões lógicas, gráficos em planilhas.  Gráficos e multimidia: arquivos de imagem (.gif, .jpeg etc), arquivos de som, multimidia, flash etc. Hipertexto: o que é Html, editores e browsers.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "UFF230",
+      "Nome": "Libras",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Compreensão dos principais aspectos da Língua Brasileira de Sinais - LIBRAS, língua oficial da comunidade surda para a inclusão educacional de alunos surdos. O mundo dos surdos; cultura e comunidade surda; o alfabeto manual; gramática da LIBRAS; classificadores e adjetivos descritivos; tipos de verbos; dialetos e idioletos; números; cores; vestuário; valores monetários; alimentos; história da educação de surdos; aquisição de língua de sinais por crianças surdas; literatura surda.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IQW111",
+      "Nome": "Química I",
+      "Créditos": "6.0",
+      "Teórica": "60",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A química no cotidiano. Aspectos macroscópicos. Conceito de molécula e de átomo. Teoria atômica. Classificação periódica. Conceito de estrutura molecular e de estrutura química. Ligação química. Forças intermoleculares. Estados da matéria.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "UFF111",
+      "Nome": "Pré - Cálculo",
+      "Créditos": "5.0",
+      "Teórica": "75",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Propriedades fundamentais dos números reais.  Equações lineares e quadráticas.  Expressões algébricas - fatorações, expoentes e radicais.  Inequações.  Coordenadas cartesianas no plano.  Funções e suas propriedades: injetividade, sobrejetividade e monotocidade.  Translações e reflexões de gráficos de funções.  Mudanças de escalas nos gráficos de funções.  Operações com funções: composições e funções inversas.  Funções lineares e seus gráficos de retas.  Funções quadrática, racional e seus gráficos.  Funções logaritmo e exponencial.  Funções polinomiais.  Números complexos e o Teorema Fundamental da Álgebra.  Funções trigonométricas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "UNI002",
+      "Nome": "Português Instrumental",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Leitura, escrita e reescrita. Oralidade e escrita. História e estória. Interpretação de textos. Literatura de língua portuguesa. Molduras textuais: correspondência, comunicação, memorial. Dissertação, argumentação e descrição. O uso da citação. Monografias e textos acadêmicos.\n___ BIBLIOGRAFIA BÁSICA ___\n1) BECHARA, Evanildo. Gramática Escolar da Língua Portuguesa com exercícios. Rio de Janeiro: Lucerna, 2006.\n2) BECHARA, Evanildo. Moderna gramática da língua portuguesa. Rio de Janeiro: Moderna, 2003.\n3) BOAVENTURA, Edivaldo. Como ordenar idéias. São Paulo: Ática, 1991.\n4) CINTRA, Luís Filipe Lindley; CUNHA, Celso. Nova gramática do português contemporâneo. Rio de Janeiro: Lexicon, 2010.\n___ BIBLIOGRAFIA COMPLEMENTAR ___\n1) BECHARA, Evanildo. Gramática Escolar da Língua Portuguesa com exercícios. Rio de Janeiro: Lucerna, 2006.\n2) BECHARA, Evanildo. Moderna gramática da língua portuguesa. Rio de Janeiro: Moderna, 2003.\n3) CINTRA, Luís Filipe Lindley; CUNHA, Celso. Nova gramática do português contemporâneo. Rio de Janeiro: Lexicon, 2010.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "2º Período": [
+     {
+      "Codigo": "IQW121",
+      "Nome": "Química II",
+      "Créditos": "6.0",
+      "Teórica": "60",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Fontes de combustíveis: petróleo, cana de açúcar, carvão. Os combustíveis mais usuais: os hidrocarbonetos (alcanos, alquenos e alquinos), gás natural, os álcoois, carvão. Representação das reações de combustão: equações químicas, balanceamento de equações, estequiometria. A reação de combustão como fonte de energia: o que é energia? A relação energia-trabalho. O conceito de calor e a sua medida. Calorimetria. Termodinâmica: primeira lei, energia interna; Entalpia de uma reação; Entalpia e energia de ligação. A energia liberada numa reação de combustão.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "IQW111"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "UER121",
+      "Nome": "Fund Edu I- Filosofia Educação",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Os fundamentos teórico-conceituais nas áreas filosófica, histórica, sócio-antropológica e psicológica para o exercício do pensamento crítico sobre teorias e práticas pedagógicas. Conhecimento: produção, formas e estratégias de avaliação; saber e poder. Homem: visões histórica, filosófica, sócio-antropológica e psicológica. Educação e sociedade: concepções e conflitos. Estado e educação: ideologia, cidadania e globalização.\n___ BIBLIOGRAFIA BÁSICA ___\n1) ALVES, Rubens. Entre a ciência e a sapiência. O dilema da educação. São Paulo: Loyola, 1999.\n2) ARENDT, Hannah. A Condição humana. Rio de Janeiro: Forense, 1997.\n3) CAMBI, Franco. História da Pedagogia. Campinas: Unesp, 2000.\n___ BIBLIOGRAFIA COMPLEMENTAR ___\n1) CANIVEZ, Patrice. Educar o Cidadão? São Paulo: Papirus, 1997.\n2)  CASTORIADIS, Cornelius. A pólis grega e a criação da democracia in Encruzilhadas do labirinto II. Domínios do homem. Rio de Janeiro: Paz e Terra, 1987, p. 268-313.\n3) CASSIRER, E. A filosofia do Iluminismo. Campinas: Unicamp, 1992.\n4) FREIRE, Paulo. Educação como prática da liberdade. Rio de Janeiro: Paz e Terra, 2000.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "UFF121",
+      "Nome": "Cálculo I",
+      "Créditos": "5.0",
+      "Teórica": "75",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Limites, limites laterais, limites trigonométricos, limites no infinito, assíntotas horizontais e verticais; funções contínuas; funções diferenciáveis, a diferencial e aproximação linear, relações entre diferenciabilidade e continuidade, regra da cadeia, derivação implícita, taxas de variação- taxas relacionadas, funções crescentes e decrescentes, concavidade do gráfico de funções, pontos de inflexão; derivadas de ordem superior, máximos e mínimos relativos, o teste da derivada segunda para extremos relativos, regra de L'Hôpital, teorema da função inversa, funções trigonométricas inversas, fórmula de Taylor.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIW126",
+      "Nome": "Introd às Ciênc Físicas I - Q",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O método científico. Ótica geométrica. A observação experimental e a realização de medidas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IQWX04",
+      "Nome": "Atividades Complementares",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "200",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Atividades acadêmico - científico - culturais. Participação dos alunos em atividades de iniciação científica e de monitoria no âmbito do CEDERJ/UFRJ; aproveitamento de disciplinas, cursadas com aprovação, quando excedentes aos créditos exigidos pelo curso de Licenciatura em Química; participação efetiva e comprovada em simpósios, congressos, jornadas de iniciação científica, cultural e artística e Semanas Acadêmicas. O objetivo é flexibilizar o curso, estimulando o aluno a ampliar seus conhecimentos, habilidades e competências, que contribuirão para diversificar sua formação intelectual e sua progressiva autonomia profissional.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "UFF003",
+      "Nome": "Inglês Instrumental",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Descodificação de textos atuais de informática em língua inglesa; Gramática contextualizada; Gramática sistematizada de itens referentes à linguagens tecnológicas específicas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "3º Período": [
+     {
+      "Codigo": "IQW231",
+      "Nome": "Química III",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo de gases. Conceito de ácido-base. Equilíbrio químico. Reações de oxi-redução. Compostos organo-halogenados: estrutura e propriedades. Aldeídeos: estrutura e propriedades. Compostos aromáticos: estrutura e propriedades. Soluções. Metais representativos, de transição e seus íons. Compostos organo-metálicos. Segunda e terceira Leis da termodinâmica.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "IQW121"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "UER232",
+      "Nome": "Prática de Ensino I - Didática",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Educação, pedagogia e didática. Didática e tendências pedagógicas. Formação, memória e experiência a serviço da construção da identidade do professor. O cotidiano escolar e os desafios da prática docente. Novas exigências do trabalho escolar. Organização, implementação e acompanhamento do processo ensino-aprendizagem.\n___ BIBLIOGRAFIA BÁSICA ___\n1) CANDAU, Vera M. (org.). Magistério: construção cotidiana. Petrópolis: Vozes, 1997.\n2) CANDAU, Vera M. (org.). Rumo a uma nova didática. Petrópolis: Vozes, 1994.\n3) CANDAU, Vera M . (org.). Didática, questões contemporâneas. Rio de Janeiro: Forma e ação, 2009.\n4) FREIRE, P. Pedagogia da Autonomia: saberes necessários à prática educativa. Rio de Janeiro: Paz e Terra, 1996.\n___ BIBLIOGRAFIA COMPLEMENTAR ___\n1) LIBÂNEO, J. C. Didática. São Paulo: Cortez, 1994.\n2) PERRENOUD, Phillipe. Avaliação: da excelência à regulação das aprendizagens. entre duas lógicas. Porto Alegre: ARTMED, 1999.\n3) TARDIF, M. Saberes Docentes e formação profissional. Petrópolis: Vozes, 2002.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIW236",
+      "Nome": "Introd às Ciênc Físicas II - Q",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O método científico. Conceitos básicos de eletricidade. A observação experimental e a relização de medidas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "FIW126"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "UER231",
+      "Nome": "Fund Edu II - Psicologia Educ",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A definição da educação: da influência da metafísica às ciências da educação. O estatuto do conhecimento na educação. Bases antropológicas da educação. A figura do mestre. A filosofia como prática da elucidação das questões educacionais. O sentido político da educação. Modernidade: a redefinição do espaço público. A cidadania moderna e a instituição da escola pública. Educação e cidadania. O desmonte do espaço público e a crise da escola na contemporaneidade.\n___ BIBLIOGRAFIA BÁSICA ___\n1)  ALVES, Rubens. Entre a ciência e a sapiência. O dilema da educação. São Paulo: Loyola, 1999.\n2) ARENDT, Hannah. A Condição humana. Rio de Janeiro: Forense, 1997.\n3) CAMBI, Franco. História da Pedagogia. Campinas: Unesp, 2000.\n4) CANIVEZ, Patrice. Educar o Cidadão? São Paulo: Papirus, 1997.\n5) CASTORIADIS, Cornelius. A pólis grega e a criação da democracia in Encruzilhadas do labirinto II. Domínios do homem. Rio de Janeiro: Paz e Terra, 1987, p. 268-313.\n___ BIBLIOGRAFIA COMPLEMENTAR ___\n1) CASSIRER, E. A filosofia do Iluminismo. Campinas: Unicamp, 1992.\n2) FREIRE, Paulo. Educação como prática da liberdade. Rio de Janeiro: Paz e Terra, 2000.\n3) FREIRE, Paulo. Pedagogia da autonomia. Rio de Janeiro: Paz e Terra, 1992.   4) JARDIM, Antonio. Quando a paixão é filosofia. In: A construção Poética do Real. Rio de Janeiro: 7 Letras, 2004.\n5) VALLE, Lílian do. A Escola e a Nação. São Paulo: Letras e Letras, 1996.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "UER121"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "UFF231",
+      "Nome": "Cálculo II",
+      "Créditos": "5.0",
+      "Teórica": "75",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Integral definida, teorema fundamental do cálculo, cálculo de  áreas, o teorema do valor médio para integrais, funções logaritmo e exponencial, tecnicas de integração por  substituição simples,  por partes, frações parciais, integração de potências e produtos de funções trigonométricas, integrais impróprias e critérios de convergência, cálculo de volumes. Áreas e comprimentos; equações diferenciais e campos de inclinações, variáveis separáveis e equações diferenciais lineares; funções vetoriais de uma variável real, curvas em coordenadas polares; derivadas de funções vetoriais; integrais de funções vetoriais; curvatura.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "4º Período": [
+     {
+      "Codigo": "IQW241",
+      "Nome": "Química IV",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Métodos de separação e purificação: destilação, extração, recristalização. Adsorção Cromatografia. Estudo e reconhecimento de íons. Dissociação e ionização de eletrólitos fracos. Solubilidade e produto de solubilidade. Atividade, coeficiente de atividade e força iônica. Conceito de pH. Análise de sais inorgânicos. Fundamentos da titrimetria e determinações titrimétricas. Ánálise de água.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "IQW231"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "UER242",
+      "Nome": "Prática Ensino II - Currículo",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Tecendo a rede de trabalho: conhecendo e preparando os alunos. A relação teoria-prática: desafios da disciplina e da formação docente. O Estágio Curricular nas escolas do Ensino Fundamental e Médio. Orientações e normas para estágio. O trabalho proposto: um estudo tipo etnográfico. O debate orientado pela teoria/vivência prática dos alunos nas escolas de estágios. O cotidiano das escolas do ensino fundamental e médio; contradições e dimensões: institucional e organizacional, institucional e pedagógica, epistemológica histórica e filosófica, comunitária.\n___ BIBLIOGRAFIA BÁSICA ___\n1) WEISSMAN, H. Didática das Ciências Naturais, Editora Artmed.\n2) GIORDAN, A. VECHI, G. As origens do saber: das concepções dos aprendentes aos conceitos científicos. Porto Alegre: Artes Médicas, 1996.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "UER232"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIW233",
+      "Nome": "Física Básica I A.",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "As leis do movimento: a lei da inércia; referenciais inerciais e não inerciais; a segunda lei de Newton; a lei da ação e reação.  Sistemas de referência e sistemas de coordenadas. A realização de medidas indiretas. Trabalho de uma força; energia cinética; teorema trabalho-energia cinética; forças conservativas e forças dissipativas; energia potencial; energia mecânica e as condições para sua conservação. Momento linear e sua conservação. Torque de uma força e momento angular de uma partícula em relação a um ponto; conservação do momento angular; as leis de Kepler para o movimento de planetas e a lei da gravitação universal de Newton.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "UER241",
+      "Nome": "Fund Edu III - Hist Educação",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A formação escolar moderna (sécs. XVI a XIX). Infância, pedagogia e processo civilizatório. Educação na América Portuguesa. Revoluções liberais, Iluminismo e Estados modernos. A formação do Estado nacional e os processos de escolarização no Brasil imperial. Educação na República. Nacionalização dos sistemas educacionais. A história da formação de professores no Brasil. Direito à educação escolar e cidadania no Brasil contemporâneo.\n___ BIBLIOGRAFIA BÁSICA ___\n1) ABREU, Regina, CHAGAS, Mário (org.). Memória e patrimônio: ensaios contemporâneos. Rio de Janeiro: DP&A, 2003.\n2) BAUDELOT, Cristian. A sociologia da educação: para quê? In: Teoria & Educação, no. 3, Porto Alegre, 1991.\n3) BAUDRILLARD, Jean. Simulacros e simulação. Lisboa: Relógio dAgua, s/d, (original:1981).\n___ BIBLIOGRAFIA COMPLEMENTAR ___\n1) BURKE, Peter. (org). A Escrita da História - novas perspectivas. São Paulo: UNESP, 1992.\n2) BURKE, Peter. A Escola dos Annales - 1929 -1989 - A Revolução Francesa da Historiografia. São Paulo: UNESP, 1997.\n3) CARDOSO, Ciro Flamarion. Uma introdução à História. São Paulo: Brasiliense, 1992.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "UER231"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "UFF242",
+      "Nome": "Cálculo III",
+      "Créditos": "5.0",
+      "Teórica": "75",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Funções reais de várias variáveis, conjuntos de níveis, limites e continuidade; derivadas parciais; diferenciabilidade; a diferencial como uma aproximação linear; Gradiente, plano tangente e reta normal, Regra da Cadeia, Derivadas parciais de ordens superiores, Formas locais e  Derivação implícita, Derivadas direcionais, Interpretação geométrica do gradiente, Pontos críticos - Máximos e Mínimos, Pontos extremos locais, Multiplicadores de Lagrange, Funções vetoriais de várias variáveis, conjuntos de nível, Funções do plano no plano, Parametrizações de superfícies - funções de R2 em R3, Funções de R3 em R2 vistas como sistemas dinâmicos, Limite e continuidade, Derivadas parciais e a matriz jacobiana, Regra da Cadeia, Teoremas da Função Inversa e da Função Implícita.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "5º Período": [
+     {
+      "Codigo": "IQW351",
+      "Nome": "Química V",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O processo de fotossíntese e a conversão de dióxido de carbono. Química do nitrogênio e do fósforo. Química dos compostos de coordenação. Compostos organo-halogenados. Química descritiva de óxidos e sais.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "IQW241"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "UER351",
+      "Nome": "Fund Edu Iv- Sociologia da Edu",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Fundamentos teórico-conceituais nas áreas filosófica, histórica, sócio-antropológica e psicológica para o exercício do pensamento crítico sobre teorias e práticas pedagógicas, visando uma formação docente consciente e socialmente responsável.\n___ BIBLIOGRAFIA BÁSICA ___\n1) ALVES, Rubens. Entre a ciência e a sapiência. O dilema da educação. São Paulo: Loyola, 1999.\n2) ARENDT, Hannah. A Condição humana. Rio de Janeiro: Forense, 1997.\n3) CAMBI, Franco. História da Pedagogia. Campinas: Unesp, 2000.\n___ BIBLIOGRAFIA COMPLEMENTAR ___\n1) CANIVEZ, Patrice. Educar o Cidadão? São Paulo: Papirus, 1997.\n2) CASTORIADIS, Cornelius. A pólis grega e a criação da democracia in Encruzilhadas do labirinto II. Domínios do homem. Rio de Janeiro: Paz e Terra, 1987, p. 268-313.\n3) CASSIRER, E. A filosofia do Iluminismo. Campinas: Unicamp, 1992.\n4) FREIRE, Paulo. Educação como prática da liberdade. Rio de Janeiro: Paz e Terra, 2000.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "UER241"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIW235",
+      "Nome": "Física Básica I B",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Sistemas de partículas: momento linear, momento angular e energia mecânica; leis de conservação. O centro de massa de um sistema de partículas: referencial do centro de massa. Colisões e rotações em torno de eixos fixos. Corpos rígidos: o movimento plano de um corpo rígido; as condições para o rolamento sem deslizamento. Aplicações concretas de distribuições de probabilidade: a análise estatística de dados experimentais; distribuições.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IQW352",
+      "Nome": "Química VI",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estrutura e reatividade de aldeídos, cetonas, ácídos carboxílicos, ésteres, aminas, amidas e amino-ácidos. Carboidratos. Princípios de estéreo-química. Lipídios e glicídios. Peptídeos e proteínas. Nucleotídeos e ácidos nucléicos. Métodos analíticos. Aditivos e conservantes para alimentos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "IQW241"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "UER361",
+      "Nome": "Prática Ens III - Avaliação Ed",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Avaliação como prática subsidiaria no contexto geral da ação educativa. Padrões e tendências de avaliação em diferentes abordagens da educação. Pressupostos epistemológicos da avaliação. O caráter multidimensional da avaliação: dimensões da avaliação, aspectos metodológicos. Medida e avaliação: concepções distintas. Construção de instrumentos de avaliação. Análise de resultados. Avaliação externa: SAEB, ENEM e ENC. Avaliação com referência a competências.\n___ BIBLIOGRAFIA BÁSICA ___\n1) WEISSMAN, H. Didática das Ciências Naturais. Porto Alegre: Editora Artmed.\n2) GIORDAN, A; VECHI, G. As origens do saber: das concepções dos aprendentes aos conceitos científicos. Porto Alegre: Artes Médicas, 1996.\n3) FREIRE, Paulo. Educação e mudança. Rio de Janeiro: Paz e Terra, 1983.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "UER242"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "6º Período": [
+     {
+      "Codigo": "IQW361",
+      "Nome": "Química VII",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Reações de substituição nucleofílica, substituição eletrofílica, adição, eliminação e radicalares. Radioquímica.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "IQW351"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IQW363",
+      "Nome": "Proc Ens Apr Química Ens Méd I",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A prática de ensino na formação docente e o papel do estágio supervisionado. Projetos de estágios supervisionados. Noções sobre cultura, ciência e formas de produção de conhecimento químico e conhecimento escolar. Sobre a linguagem, medição e o processo de elaboração de significados. Análise de episódios de ensino trazidos pelos licenciandos. Sobre a noção de atividade de ensino. Os eixos conceitual, temático e da atividade na organização e planejamento do ensino.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "IQW351"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIW372",
+      "Nome": "Física Básica II B - Q",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Oscilador harmônico simples; oscilações amortecidas e forçadas; osciladores acoplados; modos normais de vibração de um sistema.  Ondas mecânicas numa corda vibrante: fenômenos de interferência, reflexão, refração, difração e polarização; a equação de onda e suas soluções.  Apresentação de resultados experimentais: o ajuste de dados experimentais pelo método da minimização de □2 em casos lineares.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "FIW235"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IQW362",
+      "Nome": "Química VIII",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Produtos naturais de origem vegetal e animal. Corantes. Aspectos estruturais e nomenclaturas de compostos inorgânicos. Estado sólido: simetria, estrutura cristalina. Solubilidade de compostos inorgânicos. Propriedades físico-químicas dos minerais. Radioatividade e séries radiotivas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "IQW352(C)"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "UERU01",
+      "Nome": "Estágio Supervisionado I",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Profissionalização do Magistério no Ensino Fundamental e no Ensino Médio. Estrutura e funcionamento da Escola. Análise de livros e materiais didáticos físicos e virtuais.\n___ BIBLIOGRAFIA BÁSICA ___\n1) BRASIL. Parâmetros curriculares nacionais: terceiro e quarto ciclos do ensino fundamental: introdução aos parâmetros curriculares nacionais. Brasília: MEC/SEF, 1998.\n2) BRASIL. Ministério da Educação. Secretaria de Educação Média e Tecnológica. Parâmetros curriculares nacionais: ensino médio. Brasília: MEC/SEMTEC, 1999. 4v.\n3) HAWAD, Helena Feres; CUNHA, Vera Lucia. Estágio Supervisionado I para licenciaturas. 2a ed., Rio de Janeiro: Fundação CECIERJ, 2008.\n4) LIMA, Maria Socorro Lucena [et al]. A hora da prática: reflexões sobre o estágio supervisionado e a ação docente. 4a ed. Fortaleza: Edições Demócrito Rocha, 2004.\n___ BIBLIOGRAFIA COMPLEMENTAR ___\n1) ZABALZA, Miguel A. Diários de aula: um instrumento de pesquisa e desenvolvimento profissional. Porto Alegre: Artmed, 2004.\n2) PICONEZ, Stela C. Bertholo (Coord.). A prática de ensino e o estágio supervisionado. 5a ed. Campinas Papirus, 2000. (Coleção magistério: formação e trabalho pedagógico).\n3) PIMENTA, Selma Garrido; LIMA, Maria Socorro Lucena. Estágio e docência. São Paulo: Cortez, 2004.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "UER232"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "7º Período": [
+     {
+      "Codigo": "IQW470",
+      "Nome": "Química IX",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Caráter metálico. Estrutura e propriedades dos metais. Equilíbrio de fase. Eletroquímica. Sistemas coloidais. Vidros especiais. Materiais cerâmicos. Síntese e caracterização de polímeros. Realações estrutura/propriedade de polímeros.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "IQW361"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IQW473",
+      "Nome": "Proc Ens Apr Quím Ens Médio II",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A prática de ensino na formação docente e o papel do estágio supervisionado. Projetos de estágios supervisionados e desenvolvimento curricular. Análise de episódios de ensino trazidos pelos licenciandos. Planejamento de módulos temáticos de ensino. Elaboração de material de apoio às atividades de ensino. Avaliação e reflexão sobre a prática de ensino.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "IQW363"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIW369",
+      "Nome": "Física Básica III A.",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Eletricidade: a Lei de Coulomb; campo elétrico, lei de Gauss, potencial elétrico; condutores e isolantes; dielétricos. Medidas elétricas: corrente elétrica, ddp, resistências; resistores e capacitores  associações em série e paralelo e circuito RC. Análise de dados experimentais: demonstração e uso do método de ajuste por mínimos quadrados para o caso linear.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IQW472",
+      "Nome": "Química X",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A indústria química. Exemplos de processos químicos envolvendo produção de alimentos, produtos de higiene pessoal, produtos de limpeza, etc. Controle e reaproveitamento de rejeitos industriais. A industria de reciclagem.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "IQW362(C)"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "UERU02",
+      "Nome": "Estágio Supervisionado II",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estágio de co-participação e colaboração com o professor regente. O planejamento da atividade pedagógica submetido a uma crítica constante, em atendimento às necessidades dos alunos. A elaboração do material didático. A avaliação como elemento deflagrador de novas ações pedagógicas. A elaboração e a correção de instrumentos de avaliação.\n___ BIBLIOGRAFIA BÁSICA ___\n1) CAPRA, Fritjof. O Tao da Física. São Paulo: Cultrix, 28a ed., 2011.\n2) CHASSOT, Attico Inácio. Catalisando transformações na educação. Ijuí: Ed. Unijuí, 1993.\n3) D?AMBRÓSIO, Ubiratan. Etnomatemática. Arte ou técnica de explicar e conhecer. São Paulo: Editora. Ática, 1990.\n4) GADOTTI, Moacir. Boniteza de um sonho: ensinar e aprender com sentido. Rio de Janeiro: Feevale, 2004.\n___ BIBLIOGRAFIA COMPLEMENTAR ___\n1) MORAES, M.; LA TORRE, Saturnino de. Sentipensar: fundamentos e estratégias para reencantar a educação. Petrópolis, RJ: Vozes, 2004.\n2) MOREIRA, Marco Antônio. Mapas Conceituais e Aprendizagem Significativa. São Paulo: Centauro, 2011.\n3) SANTOS, L. H. S. Biologia dentro e fora da escola: meio ambiente, estudos culturais e outras questões. Porto Alegre: UFRGS, 2000.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "UERU01"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "8º Período": [
+     {
+      "Codigo": "IQW480",
+      "Nome": "Química XI",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Discussão de assuntos atuais e seu relacionamento com a Química: produtos transgênicos, nanotecnologia, biocombustíveis, clonagem, teste de DNA.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "IQW472"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IQWY47",
+      "Nome": "Instrument Química Cotidiano I",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenvolvimento da capacidade do aluno de perceber a presença de Química no cotidiano, e assim poder realizar experimentos de execução simples e de baixo custo.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "IQW352",
+       "UER232"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "FIW370",
+      "Nome": "Física Básica III B",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Magnetismo: campo magnético; lei de Ampère e de Biot-Savart; lei de Faraday; propriedades magnéticas da matéria; indutância; lei de Ampère-Maxwell, corrente de indução. Medidas elétricas: indutores - circuitos de corrente contínua e alternada; impedância. As equações da Maxwell.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IQW483",
+      "Nome": "Evolução da Química",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Panorama geral do desenvolvimento do conhecimento sobre a transformação da matéria. Apresentação e discussão da filosofia da ciência de Henpel (base interpretativa). Discussão de textos científicos (fonte primária) a partir da base interpretativa.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "UERU03",
+      "Nome": "Estágio Supervisionado III",
+      "Créditos": "3.0",
+      "Teórica": "0",
+      "Prática": "120",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Acompanhamento do trabalho cotidiano da docência com observação, coparticipação e análise de: atividades de ensino, perfis de estudantes e materiais didáticos. Exercício supervisionado da docência em turmas de educação básica de 2º segmento dos ensinos fundamental e médio. Elaboração de planejamentos, materiais didáticos e avaliações.\n___ BIBLIOGRAFIA BÁSICA ___\n1) MALDANER, Otávio Aloisio & ZANON, Lenir Basso. Pesquisa educacional e produção de conhecimento do professor de Química. IN: SANTOS, Wildson Luiz P. dos & MALDANER, Otávio Aloisio. Ensino de Química em Foco. Ijuí: Ed. Unijuí, 2010.\n2) MATURANA, H.; REZEPKA, S. N. Formação humana e capacitação. Petrópolis, RJ: Vozes, 2000.\n3) MONTEIRO, Ana Maria. Os sentidos do Ensino de História. Rio de Janeiro: Série Ensino de História, Memória e Espaços Educativos Não ? Formais. Salto Pro Futuro coord. Helena Marques Araújo, abril de 2006.\n4) MORAES, M.; LA TORRE, Saturnino de. Sentipensar: fundamentos e estratégias para reencantar a educação. Petrópolis, RJ: Vozes, 2004.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "UERU02"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "9º Período": [
+     {
+      "Codigo": "IQWY59",
+      "Nome": "Instrumen Química Cotidiano II",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenvolvimento da capacidade do aluno de perceber a presença de Química no cotidiano, e assim poder realizar experimentos de execução simples e de baixo custo.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "IQWY47"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "IQWX05",
+      "Nome": "Projeto Final de Curso",
+      "Créditos": "4.0",
+      "Teórica": "0",
+      "Prática": "120",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O aluno desenvolverá um projeto em assunto de sua escolha e será supervisionado por um dos coordenadores de disciplina, preferencialmente das disciplinas ligadas ao tema do projeto.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "IQW470",
+       "IQW472"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "UERU04",
+      "Nome": "Estágio Supervisionado IV",
+      "Créditos": "4.0",
+      "Teórica": "0",
+      "Prática": "150",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A relação entre formação e instrução. O ensino de atitudes, valores e normas e a reprodução dos valores dominantes. Análise da natureza e da função dos conteúdos escolares nos planejamentos educacionais e no currículo. Essencialização e transposição de conteúdos. Presença dos saberes culturais na escola. Elaboração de relatório.\n___ BIBLIOGRAFIA BÁSICA ___\n1) SAVIANI, D. Educação do senso comum à consciência filosófica. São Paulo: Cortez, 1994.\n___ BIBLIOGRAFIA COMPLEMENTAR ___\n1) SAVIANI, D. Educação do senso comum à consciência filosófica. São Paulo: Cortez, 1994.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "UERU03"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "Disciplinas Optativas (Escolha Condicionada)": [
+     {
+      "Codigo": "EDW001",
+      "Nome": "Profissão Docente",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A formação do professor e o exercício profissional: histórico e perspectivas. O trabalho na Escola e os desafios da educação contemporânea. O saber docente e as particularidades do trabalho do professor. Políticas atuais e profissionalização docente. A questão da autonomia e da identidade profissional. Papel social e função ética e política do professor. Organizações profissionais dos professores.\n",
+       "BibliografiaBasica": "1- APPLE, M. W. Ideologia e Currículo. São Paulo: Brasiliense, 1979.\n2- BITTENCOURT, C. Livro didático e conhecimento histórico: uma História do saber escolar. São Paulo: Loyola, 1990. BITTENCOURT, C. O saber histórico na sala de aula. São Paulo: Contexto, 2001.\n3- BOURDIEU, P. Sistemas de Ensino, Sistemas de Pensamento. In: A Economia das Trocas Simbólicas. São Paulo: Perspectiva, 1992, p. 203-230.\n4- FONSECA, S. G. Caminhos da história ensinada. Campinas, SP: Papirus, 1993.\n5- FONSECA, T. N. de L. História e Ensino de História. Belo Horizonte, MG: Autêntica, 2004.\n6- FORQUIN, J.-C. Escola e Cultura. Porto Alegre: Artes Médicas, 1993.\n7- GONCALVES, M. de A. et alii. Qual o valor da história hoje? Rio de Janeiro: FGV, 2012.\n8- LOPES, A. R. C. O currículo e a construção do conhecimento na escola - controvérsias entre conhecimento comum e conhecimento científico. In: MOREIRA, A. F. B. (Org). Conhecimento Educacional e Formação do Professor. Campinas, SP: Papirus, 1994, p. 39-52.\n9- MATTOS, I. R. de (Org.). Histórias do ensino de História do Brasil. Rio de Janeiro: Access, 1998. MONTEIRO, A. M. Professores de História: entre saberes e práticas. Rio de Janeiro, Mauad, 2007.\n10- NADAI, Elza. O ensino de História no Brasil: Trajetória e perspectivas. Revista Brasileira de História, São Paulo, v. 13, n. 25/26, p. 163-174, set. 92/ago.93.\n11- OLIVEIRA, M. M. D. de. O direito ao passado. Uma discussão necessária à formação do profissional de História. Aracaju: Editora da UFS, 2011.\n12- ROCHA, H.; MAGALHÃES, M.; CONTIJO, R. (Org.). A escrita da História Escolar: memória e historiografia. Rio de Janeiro: Editora FGV, 2009.\n13- SILVA, T. T. da (Org). Alienígenas na sala de aula - uma introdução aos estudos culturais em educação. Petrópolis, RJ: Vozes, 1995.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IBE479",
+      "Nome": "Populações Comunid Conservação",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Populações: conceitos, parâmetros, estratégias bionômicas, crescimento e regulação, estatísticas vitais. Interações: competição, predação, parasitismo, mutualismo. Comunidades: conceitos, descritores estruturais e funcionais. Sucessão e dinâmica. Padrões espaciais de diversidade. Estabilidade e complexidade. Problemas relacionados à conservação. Técnicas mais usuais de amostragem de organismos para estudos de populações e comunidades.\n___ BIBLIOGRAFIA BÁSICA ___\n1) BEGON, M., HARPER, J. L.; TOWNSEND, C. R. Ecologia: de Indivíduos a Ecossistemas. 4a ed. Porto Alegre: Artmed, 752p, 2007.\n2) CAIN, M. L.; BOWMAN, W. D.; HACKER, S. D. Ecologia. Porto Alegre: Artmed, 664p, 2011.\n3) CARAMASCHI, E. P.; SCARANO, F. R.; VIEIRA, M. V.; MONTEIRO, R. F. Populações, Comunidades e Conservação. Volume 2 B. 1ª ed. Fundação CECIERJ / Consórcio CEDERJ. Rio de Janeiro. 192 p. (Aulas 11 a 20), 2005.\n4) CARAMASCHI, E. P.; SCARANO, F. R.; VIEIRA, M. V. Populações, Comunidades e Conservação. Volume 3. 1ª ed. Fundação CECIERJ / Consórcio CEDERJ. Rio de Janeiro. 103 p. (Aulas 21 a 29/30), 2005.\n5) PRIMACK, R. B.; RODRIGUES, E. Biologia da Conservação. E. Rodrigues. Ed. Londrina. 328 p, 2001.\n6) RICKLEFS, R. E. A Economia da Natureza. 6ª ed. Guanabara Koogan, Rio de Janeiro, 572 p, 2010.\n7) SCARANO, F. R.; VIEIRA, M. V.; MONTEIRO, R. F. 2005.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "IBE120"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IQWZ53",
+      "Nome": "Ativ Curric Extensão-lq Ead",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "0",
+      "Extensão": "392",
+      "Informação": {
+       "Info": "Atuação em atividades de extensão registradas na Pró-Reitoria de Extensão da UFRJ, como programas, projetos, cursos de extensão e eventos, coordenados por docentes do quadro permanente ou técnicos da carreira de nível superior na UFRJ. Para eventos, a\natuação deverá ser na organização ou na realização do evento. Para cursos, a atuação deve ser na organização ou ministrando aulas.\n___BIBLIOGRAFIA RECOMENDADA___\n1) Creditação de Atividades de Extensão na UFRJ, Universidade Federal do Rio de Janeiro, Pró-Reitoria de Extensão, junho de 2013.\n2) Fórum de Pró-Reitores de Extensão das Instituições Públicas de Educação Superior Brasileiras. Política Nacional de Extensão Universitária. Gráfica UFRGS. Porto Alegre, RS, 2012 (Coleção Extensão Universitária; v. 7).\n3) Fórum de Pró-Reitores de Extensão das Universidades Públicas Brasileiras. Extensão Universitária: Organização e Sistematização. Belo Horizonte: COOPMED, 2007. 112p. (Coleção Extensão Universitária; v.6).\n4) Fórum de Pró-Reitores de Extensão das Instituições Públicas de Educação Superior Brasileiras. Avaliação da Extensão Universitária: práticas e discussões da Comissão Permanente de Avaliação da Extensão. Organização: Maria das Dores Pimentel Nogueira. Belo Horizonte: FORPROEX/CPAE; PROEX/UFMG, 2013 (Coleção Extensão Universitária, v.8).\n5) NOGUEIRA, M. D. P. Políticas de Extensão Universitária Brasileira. Belo Horizonte: Editora UFMG, 2005.\n6) THIOLLENT, Michel. Metodologia da Pesquisa-Ação. 18ª edição. São Paulo: Cortez, 2011.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "EDF120",
+      "Nome": "Filos Educação Mundo Ocidental",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Contribuições das concepções filosóficas do século XX para a problemática educacional. O pensamento pedagógico brasileiro dos anos 1920 a 1980. Contribuições das concepções filosóficas para a problemática educacional. O pensamento pedagógico brasileiro à luz da filosofia da educação.\n",
+       "BibliografiaBasica": "1) ARISTÓTELES. A ética a Nicômacos. Trad. Mario da Gama Cury. Brasília, DF: EdUnb, 1985 (2ª ed).\n2) BRÉHIER, Émile. História da Filosofia. São Paulo: Mestre Jou, 1977, tomo II, fasc.4\n3) DURKHEIM, Emile. Educação e Sociologia. São Paulo: Edições 70, 2001.\n",
+       "BibliografiaComplementar": "1) JAEGER, Werner. Paidéia. São Paulo: Martins Fontes, 1995.\n2) MAZZOTTI, Tarso Bonilha, OLIVEIRA, Renato José de. O que você precisa saber em ciência (s) da educação. Rio de Janeiro: DPA, 2000.\n3) PLATÃO. República. Trad. Maria Helena Rocha. Lisboa: Fundação Calouste Gulbenkian, 1990 (6ª. ed.).\n4) ROUSSEAU, J. J. Emílio ou da educação. Trad. Roberto Leal Ferreira. São Paulo, SP: Martins Fontes, 2004 (3ª ed).\n5) GADOTTI, Moacir. Pensamento pedagógico brasileiro. São Paulo: Ática, 1991.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IBE120",
+      "Nome": "Elementos Ecologia Conservação",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Histórico da ciência ecológica. Níveis de organização em ecologia. Seleção natural e adaptação. Propriedades emergentes em ecologia. Leis da termodinâmica. Sucessão ecológica e ciclos biogeoquímicos. Biomas e recursos naturais. Poluição e desequilíbrios ambientais. Estudos de casos envolvendo ecossistemas brasileiros, com ênfase no estado do Rio de Janeiro.\n___ BIBLIOGRAFIA BÁSICA ___\n1) BEGON, M., Harper, J.L. & TOWSEND, C.R. 2007. Ecologia: de Indivíduos a Ecossistemas. 4a ed. Artmed, Porto Alegre, 752p.\n2) RICKLEFS, R.E. 2010. A Economia da Natureza. 6ª ed. Guanabara Koogan, Rio de Janeiro, 572p.\n___ BIBLIOGRAFIA COMPLEMENTAR ___\n1) CAIN, M.L, BOWMAN, W.D. & HACKER, S.D. 2011. Ecologia. Artmed, Porto Alegre, 664 p.\n2) 0 ODUM, E.P. 1988. Ecologia. 7a ed. Guanabara Koogan, Rio de Janeiro, 434 p.\n3) SCARANO, F.R., SANTOS, I.L., MARTINS, A.C.I., SILVA, J.M.C., GUIMARÃES A.L. & MITTERMEIR R.A. (eds.). 2012. Biomas Brasileiros: Retratos de um País Plural. Casa da Palavra e Conservação Internacional, Rio de Janeiro, 326 p.\n4) TOWSEND, C.R., BEGON, M. & HARPER, J.L. 2009. Fundamentos em Ecologia. 3a ed.Artmed, Porto Alegre, 592 p.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IBG129",
+      "Nome": "Diversidade dos Seres Vivos",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Biodiversidade. Espécies biológicas. Adaptação e seleção Natural. Especiação, filogenias e Sistemática Filogenética. Registro fóssil. Conversões de energia: fermentação, fotossíntese e respiração celular. Material genético e reprodução. Origem da Vida, origem do sexo e origem da complexidade. Flutuações da diversidade: Grandes extinções e Grandes Radiações. Evolução no Pré-Cambriano e no Fanerozóico. Evolução Humana.\n___ BIBLIOGRAFIA BÁSICA ___\n1) RIDLEY, M. Evolução. 3a edição. Ed. Artmed.\n___ BIBLIOGRAFIA COMPLEMENTAR ___\n1) FUTUYAMA, D. Biologia Evolutiva. 2009. 3a Ed. FUNPEC. Strickberger, MD. 2000. Evolution. 3a edição. Jones & Bartlett Publishers.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "UEN111",
+      "Nome": "Dinâmica da Terra",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estrutura e composição da Terra. Tectônica de placas. Minerais e rochas. Ciclo geoquímico endógeno e exógeno. Formação de solos. Noções de estratigrafia e paleontologia. Tempo geológico. Organização da paisagem para fins de estudos ambientais. Atmosfera, efeito estufa e mudanças climáticas. Bacias hidrográficas e águas subterrâneas. Metabolismo biológico e a composição de águas naturais (rios, lagos, estuários e oceanos). Circulação atmosférica e oceânica.\n___ BIBLIOGRAFIA BÁSICA ___ ,\n1) CARVALHO, I.S. et al. (2010) Paleontologia Vol. 1. Rio de Janeiro, Editora Interciência, 3ª ed, 734 p.\n2) ESTEVES, F.A. (2011) Fundamentos de Limnologia. Rio de Janeiro, Editora Interciência, 3ª ed, 826 p.\n3) GROTZINGER, J.; Jordan, T. (2013) Para entender a Terra. Porto Alegre, Editora Bookman, 6ª ed, 768 p.\n4) TEIXEIRA, W. et al (2009) Decifrando a Terra. São Paulo, Oficina de Textos, 2ª ed, 624 p.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     }
+    ]
+   },
+   "obrigatorias": 44,
+   "eletivas": 7,
+   "ano": "2009/2 a 9999/9"
+  }
+ ]
+}

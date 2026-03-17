@@ -18,7 +18,22 @@ interface PropsMateria {
     setCumpridas: Function;
 }
 
-function MenuEscolhaCurso({ nome, setNome }: { nome: string, setNome: Function }) {
+interface Materias {
+    periodos: Record<string, Disciplina[]>;
+}
+
+interface Edicoes {
+    materias: Materias[];
+    obrigatorias: number;
+    eletivas: number;
+    ano: string;
+}
+
+interface Curso {
+    edicoes: Edicoes[];  
+}
+
+function MenuEscolhaCurso({ nome, setNome, cursos }: { nome: string, setNome: Function, cursos: Record<string, string> }) {
     return (
         <div className="flex justify-center border-b-2 border-emerald-600 mb-5 mt-5 pb-1 sm:text-xl">
             <div className=""></div>
@@ -29,12 +44,12 @@ function MenuEscolhaCurso({ nome, setNome }: { nome: string, setNome: Function }
                     defaultValue={nome}
                     onChange={(event) => setNome(event.target.value)}
                 >
-                    <option key="ccomp" value="ccomp">
-                        Ciências da Computação
-                    </option>
-                    <option key="quimica" value="quimica">
-                        Quimica atribuições técnologicas
-                    </option>
+
+                    {
+                    Object.entries(cursos).map(([curso, link]) => 
+                        <option key={curso} value={link}>{curso}</option>
+                    )
+                    }
                 </select>
             </div>
         </div>
@@ -123,7 +138,7 @@ function App() {
     // Busca o curso selecionado no cache caso não ache incia vazio
     const [nome, setNome] = useState<string>(() => {
       const nomeSalvo = localStorage.getItem("curso");
-      return nomeSalvo ? JSON.parse(nomeSalvo) : "ccomp";
+      return nomeSalvo ? JSON.parse(nomeSalvo) : "Ciência da Computação";
     });
 
     // Busca cumpridas no cache caso não ache incializa vazia
@@ -132,7 +147,9 @@ function App() {
       return cumpridasSalvas ? JSON.parse(cumpridasSalvas) : {};
     });
 
-    const [data, setData] = useState([]);
+    const [cursos, setCursos] = useState<Record<string, string>>({});
+    
+    const [data, setData] = useState<Curso>();
     
     const [isLoading, setIsLoading] = useState(true);
         
@@ -145,7 +162,34 @@ function App() {
     const [groups, setGroups] = useState({} as Record<string, Disciplina[]>);
 
     useEffect(() => {
-        fetch(import.meta.env.BASE_URL + "/dados_" + nome + ".json", {
+        fetch(import.meta.env.BASE_URL + "/courses.json", {
+            headers: {
+                "Content-Type": "application/json",
+                Accept: "application/json",
+            },
+        })
+        .then((res) => {
+            if (!res.ok) {
+                throw new Error("Fetching error, response is not ok!");
+            }
+            return res.json();
+        })
+        .then((data) => {
+            setCursos(data);
+        })
+        .catch((error) => {
+            console.log(error);
+        });
+    }, [])
+
+    useEffect(() => {
+        if (cursos[nome] == undefined) {
+            //console.log("ERROR: "+ nome);
+            //console.log(cursos);
+            return;
+        }
+
+        fetch(import.meta.env.BASE_URL + cursos[nome], {
             headers: {
                 "Content-Type": "application/json",
                 Accept: "application/json",
@@ -157,8 +201,8 @@ function App() {
                 }
                 return response.json();
             })
-            .then((data) => {
-                setData(data);
+            .then((dat) => {
+                setData({edicoes: dat[nome]} as Curso);
                 setIsLoading(false);
             })
             .catch((error) => {
@@ -168,13 +212,17 @@ function App() {
         
       // Salva o nome alterado para o localStorage
       localStorage.setItem("curso", JSON.stringify(nome));  
-    }, [nome]);
-
+    }, [cursos, nome]);
+    
+    
     useEffect(() => {
       // Salva as materias cumpridas no localStorage
       localStorage.setItem("cumpridas", JSON.stringify(cumpridas));
     }, [cumpridas]);
+    
 
+    
+    /*
     useEffect(() => {
         const novoOnView: Record<string, boolean> = {};
         const novoRequisitos: Record<string, string[]> = {};
@@ -236,10 +284,13 @@ function App() {
     }, [data, cumpridas]);
 
     if (isLoading) return <div className="flex flex-col justify-center bg-slate-900 text-slate-200 w-full h-full">.</div>;
+    */
+    return <></>;
+    /*
     return (
         <div className="flex flex-col justify-center bg-slate-900 text-slate-200">
             <div className="flex flex-col text-center font-bold">
-                <MenuEscolhaCurso nome={nome} setNome={setNome}></MenuEscolhaCurso>
+                <MenuEscolhaCurso nome={nome} setNome={setNome} cursos={cursos}></MenuEscolhaCurso>
                 {Object.entries(groups).map(([nivel, objetos]) => {
                     return (
                         <ul
@@ -276,7 +327,7 @@ function App() {
                 <a href="mailto:eduardotcq@ic.ufrj.br" className="underline">eduardotcq@ic.ufrj.br</a>
             </div>
         </div>
-    );
+    );*/
 }
 
 export default App;

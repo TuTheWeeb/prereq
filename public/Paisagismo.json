@@ -1,0 +1,2603 @@
+{
+ "Paisagismo": [
+  {
+   "materias": {
+    "1º Período": [
+     {
+      "Codigo": "BAF103",
+      "Nome": "Desenho Anatômico I",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Proporções e relações do corpo humano; nomenclatura básica da osteologia; desenho do esqueleto dando o conhecimento da forma, estrutura e função das partes que constituem a cabeça; tronco e membros.\n___Bibliografia Recomendada___\n1- BRIDGMAN, George B. Bridgman's complete guide to drawing from life. New York: Sterling Publishing Company, Inc., 2009.\n2- GORDON, Louise. Desenho anatómico. Lisboa: Presença; [São Paulo]: Martins Fontes, 1980.\n3- LOOMIS, Andrew. Figure drawing for all it?s work. New York: The Viking Press, 1944.\n4- PERARD, Victor. Desenho e anatomia. Rio de Janeiro: Ediouro, [s.d.].\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "09:00 - 12:00",
+        "professor": "JOSE SALMO DANSA DE ALENCAR"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH101",
+      "Nome": "História da Arte I",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo do fenômeno e da representações artísticas da Pré-História ao Século XIV, em seus aspectos conceituais, históricos e culturais. Do Paleolítico ao Gótico.\n___BIBLIOGRAFIA BÁSICA___\n1- ARGAN, Giulio Carlo. História da arte italiana. Da Antiguidade a Duccio. São Paulo: Editora Cosac e Naify, 2003.\n2- BELL, Julian. Uma nova história da arte. São Paulo: Editora Martins Fontes, 2008.\n3- JANSON, Horst Woldemar. História geral da arte (Vol. I): O Mundo Antigo e a Idade Média. São Paulo: Martins Fontes, 2001.\n4- WOODFORD, Susan. A arte de ver a arte. Rio de Janeiro: Zahar, 1983.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1- GOMBRICH. E.H. A História da arte. Rio de Janeiro: LTC, 2011.\n2- JANSON, H. W. História da arte. Lisboa: Fundação Calouse Gulbenkian,  1989.\n3- LISE, Giorgio. Como reconhecer a arte egípcia. Lisboa: Edições 70, 1985.\n4- SHAVER-CRANDELL, Anne. A idade média. Rio de Janeiro: Zahar, 1984.\n5- TARELLA, Alda. Como reconhecer a arte romana. Lisboa: edições 70, 1988.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAR101",
+      "Nome": "Geometria Descritiva I",
+      "Créditos": "4.0",
+      "Teórica": "30",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Fundamentos e técnicas do sistema triedrico e cotado de representação, tomando por modelo o espaço métrico euclidiano. As transformações descritivas das imagens convencionais dos sólidos poliédrico e a resolução de sua problemática básica (seções, interseções, geodésicas).\n___Bibliografia Recomendada___\n1) BUSTAMANTE, Léa Santos. Metodologia dos Sistemas Projetivos. RJ . Ed Bahiense.\n2) _______________________. Transformações Projetivas. Sistemas Projetivos. RJ . Ed Bahiense.\n3) PINHEIRO, V. Athayde. Noções de Geometria Descritiva. V.I, II e III. RJ. Ao livro Técnico Ltda.\n4) RODRIGUES. Alvaro J. Geometria Descritiva. V II. RJ. Imprensa Nacional.\n___Bibliografia Complementar___\n1) Príncipe Júnior, Alfredo de Reis. Noções de Geometria Descritiva I. São Paulo, Nobel, 1984.\n2) Príncipe Júnior, Alfredo de Reis. Noções de Geometria Descritiva II. São Paulo, Nobel, 1984.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 16:00",
+        "professor": "DANUSA CHINI GANI"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 16:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAF101",
+      "Nome": "Desenho Artístico I",
+      "Créditos": "4.0",
+      "Teórica": "0",
+      "Prática": "135",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenho de observação a partir de sólidos geométricos, com ensinamentos teóricos e exercícios práticos de observação e percepção do campo visual, análise estrutural da forma e iniciação ao processo de criação.\n___Bibliografia Recomendada___\n1- OSTROWER, Fayga. Universos da Arte. Campinas: UNICAMP, 2013.\n2- PEDROSA, Israel. Da cor à cor inexistente. Rio de Janeiro: Senac Nacional, 2009.\n3- PIGNATTI, Terisio. O desenho: de Altamira a Picasso. São Paulo: Abril, 1982.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "10:00 - 13:00",
+        "professor": "MAYARA LISTA ALCANTARA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "10:00 - 13:00",
+        "professor": ""
+       },
+       {
+        "dia": "Sex",
+        "hora": "10:00 - 13:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAF104",
+      "Nome": "Plástica I",
+      "Créditos": "3.0",
+      "Teórica": "0",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenvolver o sentimento da forma tridimensional ao mesmo tempo que promove conhecimentos técnicos do trabalho executado em diferentes materiais. Estuda questões estético-plásticas relacionados à composição, além das modalidades diversas de interpretação da forma, em volume e espaço.\n___Bibliografia Recomendada___\n1- KRAUSS, Rosalind. Caminhos da escultura moderna. São Paulo: Martins Fontes, 2001.\n2- WONG, Wucius. Princípios de Forma e desenho. São Paulo: Martins Fontes, 2001.\n3- BRITO, Ronaldo. Neoconcretismo: vértice e ruptura do projeto construtivo brasileiro. São Paulo: Cosac Naify, 2007.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "14:00 - 17:00",
+        "professor": "LEONARDO ETERO PACHECO AULER COIMBRA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "09:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH102",
+      "Nome": "Teoria da Percepção",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "As teorias contemporâneas da percepção visual relacionadas com a criação artística.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "2º Período": [
+     {
+      "Codigo": "BAH104",
+      "Nome": "História da Arte II",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das Artes Visuais nos Séculos XV ao XVII, em seus aspectos conceituais, históricos e historiográficos. Do Renascimento ao Neoclássico.\n___BIBLIOGRAFIA BÁSICA___\n1- ARGAN, Giulio Carlo. Clássico e anticlássico. São Paulo: Companhia das Letras, 1999.\n2- ARGAN, Guilio Carlo. Imagem e persuasão. São Paulo: Companhia das Letras, 2004.\n3- ARGAN, Guilio Carlo. História da arte italiana. São Paulo: Cosac & Naify, 2003. v. 2 e 3.\n4- BAETA, Rodrigo Espinha. Teoria do Barroco. Salvador: EDUFBA-PPGAU, 2012.\n5- JANSON, H.W. História da arte. 9ª ed. Lisboa: Fundação Calouste Gulbenkian, 2010.\n___BIBLIOGRAFIA COMPLEMENTAR____\n1- HAUSER, Arnold. História social da literatura e da arte. São Paulo: Martins Fontes, 2003.\n2- OLIVEIRA, Myriam Andrade Ribeiro de. O rococó religioso no Brasil. São Paulo: Cosac & Naify, 2003.\n3- PEVSNER, Nikolaus. Panorama da arquitetura ocidental. São Paulo: Martins Fontes, 19¬¬82.\n4- SILVA, Jorge Henrique Pais da. Estudos sobre o maneirismo. Lisboa: Imprensa Universitária, 1983.\n5- WÖLFFLIN, Heinrich. Renascença e Barroco. São Paulo: Editora perspectiva, 1989.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAR102",
+      "Nome": "Geometria Descritiva II",
+      "Créditos": "4.0",
+      "Teórica": "30",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Curvas em geral: classificações, estudo projetivo, curvas planas.Superfícies em geral: superfícies de revolução, representação pelas projeções de monge. Tratamento descritivo em problemas práticos.\n___Bibliografia Recomendada___\n1) BUSTAMANTE, Léa Santos. Metodologia dos Sistemas Projetivos. RJ . Ed Bahiense.\n2) _______________________. Transformações Projetivas. Sistemas Projetivos. RJ . Ed Bahiense.\n3) PINHEIRO, V. Athayde. Noções de Geometria Descritiva. V.I, II e III. RJ. Ao livro Técnico Ltda.\n4) RODRIGUES. Alvaro J. Geometria Descritiva. V II. RJ. Imprensa Nacional.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 16:00",
+        "professor": "ALVARO JOSE RODRIGUES DE LIMA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "09:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "BAR101"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAF105",
+      "Nome": "Desenho Artístico II",
+      "Créditos": "4.0",
+      "Teórica": "0",
+      "Prática": "135",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Instrumental teórico e prático para a análise, representação e composição bidimensional. Observação visual de formas naturais e artificiais. Apresentação de materiais e técnicas de desenho. Estudos da cor.\n___Bibliografia Recomendada___\n1- BAXANDALL, M. Sombras e luzes. São Paulo: EDUSP, 1997.\n2- COLI, J. O que é a arte?. São Paulo: Editora Brasiliense, 2006.\n3- DONDIS, Donis A. Sintaxe da Linguagem Visual. São Paulo: Martins Fontes, 2007.\n4- OSTROWER, F. Acasos e criação artística. Rio de Janeiro: Editora Campus, 1990.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 16:00",
+        "professor": "JOSE SALMO DANSA DE ALENCAR"
+       },
+       {
+        "dia": "Qui",
+        "hora": "12:00 - 15:00",
+        "professor": ""
+       },
+       {
+        "dia": "Sex",
+        "hora": "13:00 - 16:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "BAF101"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH105",
+      "Nome": "Teoria da Informacao",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A informacao e a comunicacao: ambito e objetivos. Processo de comunicacao. A comunicacao e os sistemas sociais. Importancia das artes plasticas no processo de comunicacao. Aplicacao dos principios esteticos na comunicacao.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAH102"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAWX13",
+      "Nome": "Atividades Complementares",
+      "Créditos": "4.0",
+      "Teórica": "0",
+      "Prática": "360",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Não cadastrada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "3º Período": [
+     {
+      "Codigo": "BAF202",
+      "Nome": "Criação da Forma I",
+      "Créditos": "4.0",
+      "Teórica": "15",
+      "Prática": "75",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O que é a forma ? como conceituá-la, como obtê-la, quais as suas características. Elementos conceituais, elementos visuais, elementos de relação. Forma bidimensional e tridimensional. Luz e sombra. Formas naturais e artificiais. Forma como volume. Forma e estrutura. Módulos.\n___ BIBLIOGRAFIA BÁSICA ___\n1- ARNHEIM, Rudolf. Arte e percepção visual: uma psicologia da visão criadora. São Paulo: Cengage Learning, 2008.\n2- DONDIS, Donis. Sintaxe da linguagem visual. São Paulo: Martins Fontes, 2007.\n3- MANGUEL, Alberto. Lendo imagens: uma história de amor e ódio. São Paulo: Companhia das Letras, 2001.\n4- WONG, Wucius. Princípios de forma e desenho. São Paulo: WMF Martins Fontes, 2010.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "09:00 - 12:00",
+        "professor": "MARIA DA GRACA MUNIZ LIMA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "09:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH204",
+      "Nome": "Estética I",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O pensamento estético e a noção de belo; Aristóteles, Platão. A estética helenística e greco romana. O médio e extremo oriente. Estética Cristã; Idade Média e Renascimento.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAF201",
+      "Nome": "Desenho Artístico III",
+      "Créditos": "3.0",
+      "Teórica": "0",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O desenho como realização final. Os problemas da criação artística através do desenho. As deformações expressivas e a composição. Exercícios de aplicação dos diferentes processos do desenho.\n___Bibliografia Recomendada___\n1- CARERI, Francesco. Walkscape: O caminhar como prática estética. São Paulo: Ed. G.Gili, 2013.\n2- CAUQUELIN, Anne. Arte contemporânea: uma introdução. São Paulo: Martins, 2005.\n3- FERREIRA, Glória e COTRIM, Cecília (Org.). Clement Greenberg e o debate crítico. Rio de Janeiro: Jorge Zahar, 2001.\n4- OSTROWER, Fayga. Universos da Arte. Campinas: UNICAMP, 2013.\n5- STANGOS, Nikos (Org.). Conceitos da Arte Moderna. Rio de Janeiro: Jorge Zahar, 1991.\n6- PIGNATTI, Terisio. O desenho: de Altamira a Picasso. São Paulo: Abril, 1982.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAF105"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH201",
+      "Nome": "História da Arte III",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das Artes Visuais nos Séculos XIX ao XX, em seus aspectos conceituais, históricos e historiográficos. Do Romantismo às Vanguardas Históricas.\n___BIBLIOGRAFIA BÁSICA___\n1- ARGAN, Giulio Carlo. Arte Moderna. São Paulo: Cia das Letras, 2004.\n2- ARGAN, Guilio Carlo. A arte moderna da Europa: de Hogarth a Picasso. São Paulo: Cia. Das Letras, 2010.\n3- HAUSER, Arnold. História social da literatura e da arte. São Paulo: Martins Fontes, 2003.\n4- JANSON, H.W. História da arte. 9ª ed. Lisboa: Fundação Calouste Gulbenkian, 2010.\n5- PEVSNER, Nikolaus. Panorama da arquitetura ocidental. São Paulo: Martins Fontes, 19¬¬82.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1- FABRIS, Annateresa (org). O ecletismo na arquitetura brasileira. São Paulo: Edusp, 1987.\n2- GIEDION, Siegfried. Espaço, tempo e arquitetura: o desenvolvimento de uma nova tradição. São Paulo: Martins Fontes, 2004.\n3- KELLY, C. et alii. Século XIX: o romantismo. Rio de Janeiro: Museu Nacional de Belas Artes, 1979.\n4- REYNOLDS, Donald. A arte do século XIX. Rio de Janeiro: Zahar editores, 1986.\n5- PEVSNER, Nikolaus. Pioneiros do desenho moderno. São Paulo: Martins Fontes, 1995.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAR231",
+      "Nome": "Elementos de Arquitetura I",
+      "Créditos": "4.0",
+      "Teórica": "30",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "As convenções adotadas na representação gráfica dos projetos de arquitetura de acordo com as normas vigentes.O material e o instrumental.As escalas usuais.Convenções gráficas. Projeções ortogonais e em perspectivas. Representação gráfica do projeto de arquitetura.\n___Bibliografia Recomendada___\n1) NEUFERT, E. El Arte de Projetar en Arquitetura. Barcelona. Gustavo Gil.\n2) CORBELLA, Oscar e YANNAS, Simos. Em busca de uma arquitetura sustentável para os trópicos - conforto ambiental. Editora Revan, 2003.\n3) MASCARO, Juan Luis. O custo das decisões arquitetônicas - nova versão - Editora Sagra Luzzatto, 1998.\n___Bibliografia Complementar___\n1) Dicionário ilustrado de arquitetura, volumes I e II. Albernaz, Maria Paula/ Modesto Lima, Cecília. PRO Editores São Paulo, 2003.\n2) Sites: http://www.arcoweb.com.br http://www.arqbrasil.com.br http://www.abea-arq.org.br\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "07:00 - 09:30",
+        "professor": "CRISTINA GRAFANASSI TRANJAN"
+       },
+       {
+        "dia": "Qua",
+        "hora": "07:00 - 09:30",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "BAR102"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "4º Período": [
+     {
+      "Codigo": "BAF205",
+      "Nome": "Modelo Vivo I",
+      "Créditos": "3.0",
+      "Teórica": "0",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenho de observação da estrutura da forma no espaço com seus atributos de ritmo, volumes e proporção. Percepção da linha e suas possibilidades expressivas e do claro-escuro.\n___Bibliografia Recomendada___\n1- ARNHEIM, Rudolf. Arte e percepção visual: uma psicologia da visão criadora. São Paulo: Cengage Learning, 2011.\n2- ARNHEIM, Rudolf. Intuição e intelecto na arte. São Paulo: Martins Fontes, 1989.\n3- KANDINSKY, Wassily. Ponto linha plano: contribuição para a análise dos elementos picturais. Lisboa: Edições 70, 1996.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "09:00 - 12:00",
+        "professor": "LUANA MANHAES DA SILVA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "09:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH207",
+      "Nome": "Estética II",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Os sistemas esteticos em seus compromissos com o mundo moderno e contemporaneo. A estetica de descartes aos nossos dias. A estetica contemporanea, as principais correntes.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAH204"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAR241",
+      "Nome": "Elementos de Arquitetura II",
+      "Créditos": "4.0",
+      "Teórica": "30",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Detalhes de construcao - alvenaria de tijolo, madeira, ferro, concreto, esquadrias.Instalacoes:desenhos convencionais.Nocoes de esquemas de instalacoes eletricas.Nocoes de esquemas de instalacoes hidraulicas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 16:00",
+        "professor": "LUIZ ANTONIO FERREIRA DAS NEVES"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 16:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "BAR231"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAF204",
+      "Nome": "Criação da Forma II",
+      "Créditos": "4.0",
+      "Teórica": "15",
+      "Prática": "75",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Instrumental necessário à atividade criadora através da análise e aplicação da teoria da cor. Percepção visual, natureza da cor, classificação, efeitos cromáticos, história da cor, fisiologia e psicologia e harmonias cromáticas.\n___ BIBLIOGRAFIA BÁSICA ___\n1-  HELLER, Eva. Psicologia das cores: como as cores afetam a emoção e a razão. São Paulo: G. Gilli, 2016.\n2- PEDROSA, Israel. O universo da cor. Rio de Janeiro: Ed. SENAC Nacional, 2003.\n3- PINTO, Milton. Comunicação e discurso: introdução à análise de discursos. São Paulo: Hacker, 2003\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 16:00",
+        "professor": "MARIA DA GRACA MUNIZ LIMA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "14:00 - 17:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "BAF202"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH205",
+      "Nome": "História da Arte IV",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das Artes Visuais nos Séculos XX ao XXI, em seus aspectos conceituais, históricos e historiográficos. Do Entre Guerras à Contemporaneidade.\n___ BIBLIOGRAFIA BÁSICA ___\n1- ARGAN. Giulio Carlo. Arte Moderna. São Paulo: Companhia das Letras, 1993.\n2- COTRIM, Cecília; FERREIRA, Glória (orgs.). Escritos de Artista. Rio de Janeiro: Funarte & Jorge Zahar Editor, 2006.\n3- KRAUSS, Rosalind. Caminhos da Escultura Moderna. São Paulo: Martins Fontes, 1998.\n___ BIBLIOGRAFIA COMPLEMENTAR ___\n1- BATCHELOR, David. Minimalismo. São Paulo: Cosac & Naify Edições, 2001.\n2- BELTING, Hans. O fim da História da Arte. São Paulo: Cosacnaify, 2006.\n3- DANTO, Arthur. A transfiguração do lugar comum. São Paulo: Cosacnaify, 2007.\n4- HOLMES, Brian. Investigações Extradisciplinares: para uma nova crítica das instituições. Concinnitas.  Ano 9.  vol. 1, nº 12, 06-13, julho/2008.\n5- JAMESON, Fredric. Pós-Modernismo: a lógica cultural do capitalismo tardio. São Paulo: Ática, 1997.\n6- KRAUSS, Rosalind. Vídeo : a estética do narcisismo. Arte e Ensaios∕PPGAV-EBA, ano XV, nº16, 144-157,  2008.\n7- McCARTHY, David. Arte Pop. São Paulo: Cosac & Naify Edições, 2002.\n8- ODOHERTY, Brian. No Interior do Cubo Branco. São Paulo: Martins Fontes, 2007.\n9- TIBERGHIEN, Gilles. Cabanas. Revista Conccinnitas, ano 4,  n° 4, 227-242, março/2003.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAR202",
+      "Nome": "Perspectiva",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Fundamentos da perspectiva cônica e cilíndrica aplicados em espaços internos e externos.  Noções de sombra em perspectiva.\n___ BIBLIOGRAFIA BÁSICA ___\n1- CHING, Francis. Representação Gráfica em Arquitetura. Porto Alegre: Bookman, 2000.\n2- MONTENEGRO, Gildo. A Perspectiva dos Profissionais. São Paulo. Edgard Blucher, 2001.\n3- NORLING, Ernest R. La Perspectiva Simplificada. B. Aires. Ed. Jorge A. Dulclout.\n4- OLMER, Pierre. Perspectiva Artistique. Paris. LibrairiePlon.\n5- QUAITENNE, Esteban. Tratado Metódico de Perspectiva. B. Aires. El Ateneo.\n6- RAYNES, John. Curso Completo de Perspectiva. Barcelona: Editora BLUME, 2008.\n7- SCHAARWÄCHTER, Georg. Perspectiva para Arquitectos.México: Gili, 1996.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "10:00 - 13:00",
+        "professor": "PATRIZIA DI TRAPANO"
+       }
+      ],
+      "Requisitos": [
+       "BAR102"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "5º Período": [
+     {
+      "Codigo": "BAU330",
+      "Nome": "Projeto Paisagístico I",
+      "Créditos": "5.0",
+      "Teórica": "30",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Paisagismo e meio ambiente. Escalas de abordagem do projeto de paisagismo. Técnicas de comunicação e expressão. Análise do terreno. Relevo e orientação solar. Passeios, canteiros e tipos de solo. As etapas do projeto. Projeto Paisagístico de áreas residenciais e pequenos espaços. Especificação e quantitativo da vegetação. Elaboração de proposta profissional  e orçamento.\n___Bibliografia Recomendada___\n1) ABBUD,  Benedito. Criando Paisagens. Guia de trabalho de Arquitetura Paisagística. São Paulo: Editora SENAC, 2010.___Bibliografia Complementar___\n2) LORENZI, Harri. Árvores brasileiras: manual de identificação e cultivo de plantas arbóreas nativas do Brasil. Editora Plantarum. Nova Odessa. São Paulo. 1992.___Bibliografia Complementar___\n3)  LORENZI, Harri. (org.). Palmeiras do Brasil. Nativas e exóticas. Editora Plantarum. Nova Odessa. São Paulo. 1992.___Bibliografia Complementar___\n4) LORENZI, Harri. (org.). Plantas Ornamentais no Brasil. Arbustivas, herbáceas e trepadeiras. Editora Plantarum. Nova Odessa. São Paulo. 1995.___Bibliografia Complementar___\n5) PAIVA, Patrícia D. de O. Paisagismo. Conceitos e Aplicações. Lavras: editora UFLA, 2008.___Bibliografia Complementar___\n___Bibliografia Complementar___\n1) HUTCHISON, Edward. O desenho no projeto da paisagem. Editorial Gustavo Gili, Barcelona, 2011.___Bibliografia Complementar___\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAR202",
+       "BAR231"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH310",
+      "Nome": "Historia dos Jardins I",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O desenvolvimento dos jardins da Antiguidade até o século XVIII, enfocando seus aspectos técnicos e formais.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAU334",
+      "Nome": "Detal Proj Paisagístico I",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Noções básicas de Ergonomia.Acessibilidade:técnicas e especificação.Materiais:conforto,segurança e orçamento.Detalhamento do Projeto Paisagístico.Representação gráfica.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAR231"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "6º Período": [
+     {
+      "Codigo": "BAU331",
+      "Nome": "Projeto Paisagístico II",
+      "Créditos": "5.0",
+      "Teórica": "30",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O ambiente e a paisagem urbana:Conceituação,métodos e técnicas de análise da paisagem e do espaço urbano.Agentes de transformação ambiental.Morfologia urbana.Introdução ao estudo do bioclimatismo aplicado ao espaço urbano.Arborização urbana.Planejamento e Projeto Paisagístico de espaço de uso público.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAU330"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH314",
+      "Nome": "Historia dos Jardins II",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O desenvolvimento dos jardins do século XVIII aos nossos dias, enfocando seus aspectos técnicos e formais. Os jardins no Brasil, suas características e transformações.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "14:00 - 17:00",
+        "professor": "VALCI RUBENS OLIVEIRA DE ANDRADE"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAU335",
+      "Nome": "Detal Proj Paisagístico II",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Adequabilidade dos materiais ao clima.Mobiliário urbano.Equipamentos de lazer e desporto.Detalhamento do Projeto Paisagístico.Especificação e orçamento.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAR231"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "7º Período": [
+     {
+      "Codigo": "BAH202",
+      "Nome": "Etica Profissional",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Objetivos da ética. A ética e a filosofia. A evolução  da ética  da antigüidade aos tempos modernos. Aspectos éticos nas artes plásticas. Ética profissional.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAA332",
+      "Nome": "Projeto Paisagístico III",
+      "Créditos": "5.0",
+      "Teórica": "30",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceituação e interpretação da paisagem natural e construída.Tipologias paisagísticas.As áreas verdes urbanas.Sistemas de áreas verdes(livres urbanas).Áreas de lazer.Planejamento e Projetos Paisagísticos de espaço de uso público.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "09:00 - 13:00",
+        "professor": "MARIA ELISA MARANGONI FEGHALI"
+       },
+       {
+        "dia": "Qua",
+        "hora": "09:00 - 13:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "BAA331"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "8º Período": [
+     {
+      "Codigo": "BAA333",
+      "Nome": "Projeto Final de Paisagismo",
+      "Créditos": "5.0",
+      "Teórica": "30",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceituação e análise do espaço urbano.Potencial Paisagístico.Parques Urbanos.Planejamento e Projeto Paisagístico.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "09:00 - 13:00",
+        "professor": "VINICIUS FERREIRA MATTOS"
+       },
+       {
+        "dia": "Qua",
+        "hora": "09:00 - 13:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "BAA332"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "Disciplinas Optativas (Escolha Condicionada)": [
+     {
+      "Codigo": "BAF006",
+      "Nome": "Ilustração Científ Botânica I",
+      "Créditos": "3.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A Ilustração Científica (IC). O naturalismo do século XIX. Ilustração botânica. Ilustração criativa artística. Nomenclatura e classificação botânicas. Forma e função dos órgãos vegetais. Os princípios básicos da ilustração botânica. Estudo das técnicas de representação.\n___BIBILIOGRAFIA BÁSICA___\n1) Arnheim, Rudolf - Arte e percepção visual: uma psicologia da visão criadora; São Paulo: Cengage Learning, 2019.\n2) Birch, H. - Ilustração botânica: técnicas para desenhar flores e plantas; São Paulo:\nGustavo Gili, 2019.\n3) Catálogos Centro Cultural Correios - Margareth Mee 100 anos de vida e obra. Rio de Janeiro, 2009.\n4) Hodges, E. R. S. - The Guild Handbook of Scientific Illustration; US: John Wiley &\nSons, 2003.\n5) King, Christabel. The Kew Book of Botanical Illustration; Great Britain: Search Press Ltda, 2015.\n6) Lopes, L., Castiñeira, M. I. (org). - II Anatomia de uma ilustração: os bastidores da ilustração científica; Palhoça: Ed. Unisul, 2016.\n7) Martín Roig, Gabriel - Fundamentos do Desenho Artístico. São Paulo: Martins Fontes Editora Ltda, 2007.\n8) Nascimento, Dulce. Plantas Brasileiras: a ilustração botânica de Dulce Nascimento. Rio de Janeiro: Batel, 2011.\n9) Raven, P. H. Evert, Ray, F, Eichhorn, S. E. - Biologia Vegetal. Marca: Guanabara Saúde Didático, 2014.\n10) Souza, V. C., Flores,T. B., Lorenzi, H. Introdução à botânica: morfologia. São Paulo: Instituto Plantarum de Estudos da Flora, 2013.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAF108",
+      "Nome": "Plástica II",
+      "Créditos": "3.0",
+      "Teórica": "0",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Ampliar os conhecimentos estéticos plásticos, anteriormente adquiridos informando sobre novas técnicas de trabalho e interessando o aluno na execução de maquetes, em diversos materiais, estimula a imaginação e a autocrítica..\n___Bibliografia Recomendada___\n1- BRITO, Ronaldo. Neoconcretismo: vértice e ruptura do projeto construtivo brasileiro. São Paulo: Cosac Naify, 2007.\n2- KRAUSS, Rosalind. Caminhos da escultura moderna. São Paulo: Martins Fontes, 2001.\n2- WONG, Wucius. Princípios de Forma e desenho. São Paulo: Martins Fontes, 2001.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAF104"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAH502",
+      "Nome": "Arte no Brasil I",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das Artes Visuais no Brasil, desde antes da chegada dos europeus até o século XIX, em seus aspectos conceituais, históricos e historiográficos. Da arte ameríndia ao academicismo.\n___ BIBLIOGRAFIA BÁSICA ___\n1) ÁVILA, Afonso. Barroco: teoria e análise. São Paulo: Editora Perspectiva. Belo Horizonte: Companhia Brasileira de Metalurgia e Mineração, 1997.\n2) BARCINSKI, Fabiana Werneck (org.). Sobre a arte brasileira: da pré-história aos anos 1960. São Paulo: Martins Fontes: Ed. Sesc-SP, 2014.\n3) COLI, Jorge. Como estudar a arte brasileira do século XIX? São Paulo: Ed. Senac, 2005.\n4) OLIVEIRA, M. A. R.; PEREIRA, S. G.; LUZ, A. A. História da Arte no Brasil: textos de síntese. Rio de Janeiro: Editora da UFRJ, 2008.\n5) ZANINI, Walter (coord.). História geral da arte no Brasil. São Paulo: Instituto Walther Moreira Salles, 1983. 2 v.\n___ BIBLIOGRAFIA COMPLEMENTAR ___\n1) ALVIN, Sandra. Arquitetura religiosa colonial no Rio de Janeiro. Rio de Janeiro: Editora UFRJ/Minc - Iphan/Prefeitura da Cidade do Rio de Janeiro, 1999. 2 v.\n2) D'ARAÚJO, A. L. Arte no Brasil Colonial. Rio de Janeiro: Revan, 2000.\n3) LAGROU, Els. Arte indígena no Brasil. Belo Horizonte: C/Arte, 2007.\n4) OLIVEIRA, M. A. R. O rococó religioso no Brasil e seus antecedentes europeus. São Paulo: Cosac e Naify, 2003.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAI117",
+      "Nome": "Oficina Básica I",
+      "Créditos": "3.0",
+      "Teórica": "15",
+      "Prática": "75",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das formas e espacos. Analise e representacao das formas tri-dimensionais, atraves dos materiais expressivos: barro, gesso, resinas, papel, madeira e metais. Tecnicas e instrumentos de trabalho: ferramentas simples e maquinas operatrizes. Uso e medidas de seguranca. Construcao e testes de modelos fisicos. Execucao de trabalhos propostos em metodologia visual i.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAR111",
+      "Nome": "Perspectiva de Observacao",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Fundamentos da perspectica aplicados a representacao grafica dos objetos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAR203",
+      "Nome": "Perspectiva e Sombras",
+      "Créditos": "4.0",
+      "Teórica": "30",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceito e metodos fundamentais de representacao em perspectiva exata,sombra propria e projetada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAR102"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAR233",
+      "Nome": "Desenho Projetivo Aplicado",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Caracterização da aplicação prática dos conteúdos ministrados em Geometria Descritiva. Confecção de Modelos Tridimensionais (em escala) das superfícies geométricas. Aprimoramento do raciocínio espacial através da pesquisa, do reconhecimento, identificação e aplicações conceituais nas áreas de interesse para o Design de Interiores e para o Paisagismo. Pesquisa para a Prática projetual e de dimensionamento para Escalas e rampas Circulares e seus ensaios, bem como para as Superfícies. Aplicações topográficas. Possibilidades de modelagem eletrônica no software Rhinoceros.\n____Bibliografia Recomendada___\n1- Machado, Ardevan. Desenho aplicado na Arquitetura e Engenharia, 3ª Ed., Politécnica, São Paulo, 1980.\n2- Rodrigues, Álvaro J. Geometria Descritiva - Projetividades Curvas e Superfícies. 3ª Ed., Ao Livro técnico, Rio de Janeiro, 1968.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAR102"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAR543",
+      "Nome": "Modelagem Gráfica Paisagismo",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Capacitar o aluno na representação gráfica dos elementos que compõem a proposta do projeto em paisagismo.\n___Bibliografia Recomendada___\n1) Rodrigues Silva, Antônio Carlos - São Paulo, Edgard Bluscher, ISBN: 978-85-212-0476-3; Desenho de Vegetação em Arquitetura e urbanismo - Processo de construção do desenho.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAR202",
+       "BAR241"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAU002",
+      "Nome": "Tóp Especiais Paisagismo II",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Palestras e seminários diversificados sobre os temas: Paisagismo, paisagem, espaços extrnos, urbanismo, conforto ambiental, técnicas e materiais de revestimento, equipamento, mobiliário urbano, vegetação e outros assuntos afins que possibilitem o crescimento e o desenvolvimento técnico-profissional dos alunos. Visitas guiadas e experimentos de campo ligadas ao estudo e ao projeto dos espaços exteriores.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAU004",
+      "Nome": "Tóp Especiais Paisagismo IV",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Palestras e encontros. Seminários diversificado sobre os temas: Paisagismo, paisagem, espaços externos, urbanismo, conforto ambiental, técnicas e materiais de revestimento, equipamento, mobiliário urbano, vegetação e outros assuntos afins que possibilitem o crescimento e o desenvolvimento técnico-profissional dos alunos. Visitas guiadas e experimentos de campo ligadas ao estudo e ao  projeto dos espaços exteriores.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAW360",
+      "Nome": "Computacao Grafica nas Artes F",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Não cadastrada.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAU304"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FAT230",
+      "Nome": "Topografia",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceitos fundamentais. Representação do relevo do solo, perfis, corte e aterro. Noções gerais de fotogrametria. Instrumentos de topografia. Métodos de levantamento planialtimétricos expeditos e regulares. Demarcação com instrumentos topográficos. Orientação magnética e verdadeira. Aplicações topográficas do diagrama solar.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEB599",
+      "Nome": "Est da Líng Bras de Sinais I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Nomes próprios; pronomes pessoais; demonstrativos; possessivos; locativos em sentenças simples do tipo pergunta-resposta com \"o que\" e \"quem\" e outros vocábulos básicos; numerais; quantidade; topicalização; flexão verbal; flexão de negação; expressões faciais e corporais; percepção visual; conversação; diálogos; textos: LIBRAS, cultura e comunidade surda.\n",
+       "BibliografiaBasica": "1) BRITO, L. F. Por uma gramática de língua de sinais. Rio de Janeiro: Tempo Brasileiro, 1995.\n2) FELIPE, T.; MONTEIRO, M. S. LIBRAS em contexto. Curso Básico. Brasília: Ministério da Educação e do Desporto/Secretaria de Educação Especial, 2001.\n3) GESSER, A. Libras - Que língua é essa? Crença e preconceitos em torno da língua de sinais e da realidade surda. Florianópolis: Parábola, 2009.\n4) STROBEL, K. L. As imagens do outro sobre a cultura surda. Florianópolis: EdUFSC, 2008.\n",
+       "BibliografiaComplementar": "1) PIMENTA, Nelson e QUADROS, Ronice Muller. Curso de Libras I, LSB Vídeo, volume I, Iniciante, 2006 e 3a ed., 2008.\n2) Dicionário Enciclopédico Ilustrado Triíngue da Língua de Sinais Brasileira ? vol 1 e vol. 2 Site: www.acessobrasil.org.brasil\n3) Dicionário da Língua Brasileira de Sinais, INES, versão, 2.0, ano 2006.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAB114",
+      "Nome": "Aquarela A",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudos das técnicas de aquarela e da utilização dos pigmentos e aglutinantes; a preparação dos suportes e acabamentos.\n",
+       "BibliografiaBasica": "1) ARNHEIM, Rudolf. Intuição e intelecto na arte. São Paulo: Martins Fontes, 1989.\n2) MAYER, Ralph. Manual do artista : de técnicas e materiais / . 5. ed. rev. e atual. São Paulo : Martins Fontes, 2016.\n3) MOTTA, Edson. SALGADO, Maria Luiza Guimarães. Iniciação à pintura. Rio de Janeiro: Nova Fronteira, 1976.\n",
+       "BibliografiaComplementar": "1) Hayes, Colin Guia completa de pintura y dibujo : tecnicas y materiales / . Madrid : Hermann Blume, c1980.\n2) Doerner, Max; Reverté, Pedro. Los materiales de pintura y su empleo en el arte : materiales y técnica de las pinturas al óleo, temple, acuarela, fresco, pastel. Técnica de los antiguos maestros. Conservación de monumentos y cuadros / . Barcelona : G. Gili, 1946.\n3) Barreto, Lourdes. Oficina de pintura : materiais, fórmulas e procedimentos / . Rio de Janeiro : Rio Books, 2011.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAF007",
+      "Nome": "Ilustração Científ Botânica II",
+      "Créditos": "3.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Caracterização dos grandes grupos vegetais. Tipos e campos de ação da IC. A IC como meio de comunicação. O Desenho como construção gráfica. Técnicas de representação para ilustração botânica.\n___BIBILIOGRAFIA BÁSICA___\n1) Arnheim, Rudolf - Arte e percepção visual: uma psicologia da visão criadora; São Paulo: Cengage Learning, 2019.\n2) Birch, H. - Ilustração botânica: técnicas para desenhar flores e plantas; São Paulo:\nGustavo Gili, 2019.\n3) Catálogos Centro Cultural Correios - Margareth Mee 100 anos de vida e obra. Rio de Janeiro, 2009.\n4) Hodges, E. R. S. - The Guild Handbook of Scientific Illustration; US: John Wiley &\nSons, 2003.\n5) King, Christabel. The Kew Book of Botanical Illustration; Great Britain: Search Press Ltda, 2015.\n6) Lopes, L., Castiñeira, M. I. (org). - II Anatomia de uma ilustração: os bastidores da ilustração científica; Palhoça: Ed. Unisul, 2016.\n7) Martín Roig, Gabriel - Fundamentos do Desenho Artístico. São Paulo: Martins Fontes Editora Ltda, 2007.\n8) Nascimento, Dulce. Plantas Brasileiras: a ilustração botânica de Dulce Nascimento. Rio de Janeiro: Batel, 2011.\n9) Raven, P. H. Evert, Ray, F, Eichhorn, S. E. - Biologia Vegetal. Marca: Guanabara Saúde Didático, 2014.\n10) Souza, V. C., Flores,T. B., Lorenzi, H. Introdução à botânica: morfologia. São Paulo: Instituto Plantarum de Estudos da Flora, 2013.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAF006"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAH369",
+      "Nome": "Cultura Brasileira",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Formação da cultura brasileira. Etnicidade. Culturas tradicionais, regionais, populares e urbanas no Brasil.\n___ BIBLIOGRAFIA BÁSICA ___\n1- CANDIDO, A. O significado de Raízes do Brasil (Prefácio). In: HOLANDA, S. B. de. Raízes do Brasil. 26.ed. São Paulo: Cia. das Letras, 1995.\n2- FREYRE, G. Prefácio. Casa-grande & senzala: formação da família brasileira sob o regime da economia patriarcal. São Paulo: Global, 2005.\n3- DAMATTA, R. Notas sobre o racismo à brasileira. In: SOUZA, J. (Org) Multiculturalismo e racismo: uma comparação Brasil - Estados Unidos. Brasília: Paralelo, 1997.\n4- MICELI, S. Intelectuais e classe dirigente no Brasil (1920-1945). São Paulo: Difel, 1979.\n5- ROCHA, J. C. de C. As origens e equívocos da cordialidade brasileira. In: ___. O exílio do homem cordial. Rio de Janeiro: Editora do Museu Nacional, 2004.\n___ BIBLIOGRAFIA COMPLEMENTAR ____\n1- CANDIDO, A. Dialética da malandragem. Revista do Instituto de Estudos Brasileiros, São Paulo, v.8, p.67-89, 1970.\n2- FERNANDES, F. A integração do negro na sociedade de classes. São Paulo: Ática, 1978.\n3- HOLANDA, S. B. de. Raízes do Brasil. 26.ed. São Paulo: Cia. das Letras, 1995.\n4- ROMERO, S. Estudos sobre a poesia popular do Brasil. 2.ed. Petrópolis: Vozes, 1977.\n5- WISNIK, J. M. Veneno remédio: o futebol e o Brasil. São Paulo: Cia. das Letras, 2008.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAH503",
+      "Nome": "Arte no Brasil II",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das Artes Visuais no Brasil nos séculos XX e XXI, em seus aspectos conceituais, históricos e historiográficos. Dos diferentes modernismos à arte contemporânea brasileira.\n___ BIBLIOGRAFIA BÁSICA ___\n1-) AMARAL, Aracy. Arte para quê? A preocupação social na arte brasileira, 1930-1970 [1984]. 2ª ed. São Paulo: Nobel, 1987.\n2) BASBAUM, Ricardo (org.). Arte Contemporânea Brasileira: texturas, dicções, ficções, estratégias. Rio de Janeiro: Rio Ambiciosos, 2001.\n3) BRITO, Ronaldo. Neoconcretismo: vértice e ruptura do projeto construtivo brasileiro [1975/1985]. São Paulo: Cosac Naify, 1999.\n4) FERREIRA, Glória (org.). Crítica de arte no Brasil: temáticas contemporâneas. Rio de Janeiro: Funarte, 2006.\n5) ZÍLIO, Carlos. A querela do Brasil: a questão da identidade na arte brasileira: a obra de Tarsila, Di Cavalcanti e Portinari, 1922-1945. Rio de Janeiro: Funarte, 1982.\n___ BIBLIOGRAFIA COMPLEMENTAR ___\n1) AMARAL, Aracy (org.). Projeto construtivo brasileira na arte. 1950-1962. Rio de Janeiro: Museu de Arte Moderna. São Paulo: Pinacoteca do Estado, 1977.\n2) BRETT, Guy. Brasil experimental: arte/vida: proposições e paradoxos. Rio de Janeiro: Contra Capa, 2005.\n3) DUARTE, Paulo Sérgio. Anos 60: transformações da arte no Brasil. Rio de Janeiro: Campos Gerais, 1998.\n4) FABRIS, Annateresa (org.). Modernidade e modernismo no Brasil. Campinas: Mercado das Letras, 1994.\n5) MORAIS, Frederico. Artes Plásticas: a crise da hora atual. Rio de Janeiro: Paz e Terra, 1975.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAR103",
+      "Nome": "Desenho Geométrico Básico",
+      "Créditos": "4.0",
+      "Teórica": "30",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Morfologia geométrica. Instrumentos de desenho. Construções fundamentais a régua, compasso e esquadros. Letras e algarismos padronizados. Partição do círculo. Polígonos regulares. Tangência e concordância de curvas. Linhas proporcionais. Escalas. Cônicas, cíclicas e espirais.\n___Bibliografia Recomendada___\n1) CARVALHO, B DE A. Curso  de Desenho. Rio de Janeiro:Ao Livro Técnico Ltda, 1976.\n2) NASSER, L. Curso Básico de Geometria: Módulos I, II e III. São Paulo: Editora Scipione, 1989.\n3) PTNOKI, J. C. Elementos de Geometria e Desenho Geométrico, vols. I, II e III. São Paulo: Editora Scipione, 1989.\n4) PEREIRA, A. A. Geometria Descritiva I, Rio de Janeiro: Editora 2 AB, 2001.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "07:00 - 10:00",
+        "professor": "ODILA ROSA CARNEIRO DA SILVA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "07:00 - 10:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAR114",
+      "Nome": "Sist Geom de Representação I",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução à Geometria Descritiva e seus elementos: ponto, reta e plano. - Figuras, posições relativas, interseções, métodos descritivos. - Sólidos com referência na forma de produtos.\n___Bibliografia Recomendada___\n1- GIONGO, A. A. Curso de Desenho Geométrico. São Paulo: Nobel, 1979.\n2- WILMER, C. PEREIRA, M. R. F. Geometria para Desenho Industrial. Rio de Janeiro: Interciência, 1978.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAR205",
+      "Nome": "Perspectiva Digital",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Aplicação de recursos computacionais para apresentação de projetos em perspectiva.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAR481",
+      "Nome": "Ed Ambiental-preserv de Bens C",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Convenções adotadas (regulamentações de leis e procedimentos técnicos) para preservação de bens culturais, relacionados ao meio ambiente.\n___ BIBLIOGRAFIA RECOMENDADA ___\n1- LEI Nº9.605, DE 12 DE FEVEREIRO DE 1998 - Dispõe sobre as sanções penais e administrativas derivadas de condutas e atividades lesivas ao meio ambiente.\n2- DECRETO-LEI Nº 25, DE 30 DE NOVEMBRO DE 1937 - Organiza a proteção do patrimônio histórico e artístico nacional.\n3- INSTITUTO DO PATRIMÔNIO HISTÓRICO ARTÍSTICO NACIONAL. Cartas Patrimoniais. Brasília: IPHAN, 1995.\n4- Cadernos Técnicos IPHAN - publicações on line - http://portal.iphan.gov.br/- publicações.\n5- Manuais IPHAN - publicações on line - http://portal.iphan.gov.br/- publicações\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAU001",
+      "Nome": "Tóp Especiais Paisagismo I",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Palestras, vistas e experimentos sobre os temas: Paisagismo, paisagem, espaços extrnos, urbanismo, conforto ambiental, técnicas e materiais de revestimento, equipamento, mobiliário urbano, vegetação e outros temas afins que possibilitem o crescimento e o desenvolvimento técnico-profissional dos alunos, no estudo e no projeto dos espaços exteriores.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAU003",
+      "Nome": "Tóp Especiais Paisagismo III",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Seminários, palestras, vistas técnicas e experimento sobre os temas: Paisagismo, paisagem, espaços externos, urbanismo, conforto ambiental, técnicas e materiais de revestimento, equipamento, mobiliário urbano, vegetação e outros temas afins que possibilitem o crescimento e o desenvolvimento técnico-profissional dos alunos, no estudo e no projeto dos espaços exteriores.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAU601",
+      "Nome": "Desenho de Botânica",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Nocoes basicas de desenho aplicadas a representacao grafica dos elementos vegetais. Enfoque dos elementos botanicos fundamentais a serem registrados no desenho, quanto a tecnica grafica a ser utilizada, tendo em vista a finalidade da ilustracao.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAWZ52",
+      "Nome": "Ativ Curricular Extensão - Pg",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "0",
+      "Extensão": "260",
+      "Informação": {
+       "Info": "Atuação em atividades registradas na Pró-reitoria de Extensão da UFRJ, como programas, projetos, cursos de extensão e eventos, coordenados por docentes do quadro permanente ou técnicos de carreira de nível superior na UFRJ.\n___  BIBLIOGRAFIA BÁSICA ___\nBibliografia recomendada pelo coordenador da atividade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IBB500",
+      "Nome": "Botânica Aplic ao Paisagismo",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Os reinos da natureza. Caracterizacao e identificacao de fungos, algas e vegetais inferiores atraves da morfologia e pigmentacao. Os vegetais com flores: morfologia e grandes funcoes vitais. Estudo de familias com importancia paisagistica. A vegetacao brasileira. Jardinagem e conservacao do meio ambiente.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     }
+    ]
+   },
+   "obrigatorias": 31,
+   "eletivas": 26,
+   "ano": "2010/2 a 2019/1"
+  },
+  {
+   "materias": {
+    "1º Período": [
+     {
+      "Codigo": "BAF104",
+      "Nome": "Plástica I",
+      "Créditos": "3.0",
+      "Teórica": "0",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenvolver o sentimento da forma tridimensional ao mesmo tempo que promove conhecimentos técnicos do trabalho executado em diferentes materiais. Estuda questões estético-plásticas relacionados à composição, além das modalidades diversas de interpretação da forma, em volume e espaço.\n___Bibliografia Recomendada___\n1- KRAUSS, Rosalind. Caminhos da escultura moderna. São Paulo: Martins Fontes, 2001.\n2- WONG, Wucius. Princípios de Forma e desenho. São Paulo: Martins Fontes, 2001.\n3- BRITO, Ronaldo. Neoconcretismo: vértice e ruptura do projeto construtivo brasileiro. São Paulo: Cosac Naify, 2007.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "14:00 - 17:00",
+        "professor": "LEONARDO ETERO PACHECO AULER COIMBRA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "09:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAR101",
+      "Nome": "Geometria Descritiva I",
+      "Créditos": "4.0",
+      "Teórica": "30",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Fundamentos e técnicas do sistema triedrico e cotado de representação, tomando por modelo o espaço métrico euclidiano. As transformações descritivas das imagens convencionais dos sólidos poliédrico e a resolução de sua problemática básica (seções, interseções, geodésicas).\n___Bibliografia Recomendada___\n1) BUSTAMANTE, Léa Santos. Metodologia dos Sistemas Projetivos. RJ . Ed Bahiense.\n2) _______________________. Transformações Projetivas. Sistemas Projetivos. RJ . Ed Bahiense.\n3) PINHEIRO, V. Athayde. Noções de Geometria Descritiva. V.I, II e III. RJ. Ao livro Técnico Ltda.\n4) RODRIGUES. Alvaro J. Geometria Descritiva. V II. RJ. Imprensa Nacional.\n___Bibliografia Complementar___\n1) Príncipe Júnior, Alfredo de Reis. Noções de Geometria Descritiva I. São Paulo, Nobel, 1984.\n2) Príncipe Júnior, Alfredo de Reis. Noções de Geometria Descritiva II. São Paulo, Nobel, 1984.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 16:00",
+        "professor": "DANUSA CHINI GANI"
+       },
+       {
+        "dia": "Qui",
+        "hora": "13:00 - 16:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAWZ52",
+      "Nome": "Ativ Curricular Extensão - Pg",
+      "Créditos": "0.0",
+      "Teórica": "0",
+      "Prática": "0",
+      "Extensão": "260",
+      "Informação": {
+       "Info": "Atuação em atividades registradas na Pró-reitoria de Extensão da UFRJ, como programas, projetos, cursos de extensão e eventos, coordenados por docentes do quadro permanente ou técnicos de carreira de nível superior na UFRJ.\n___  BIBLIOGRAFIA BÁSICA ___\nBibliografia recomendada pelo coordenador da atividade.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAF101",
+      "Nome": "Desenho Artístico I",
+      "Créditos": "4.0",
+      "Teórica": "0",
+      "Prática": "135",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenho de observação a partir de sólidos geométricos, com ensinamentos teóricos e exercícios práticos de observação e percepção do campo visual, análise estrutural da forma e iniciação ao processo de criação.\n___Bibliografia Recomendada___\n1- OSTROWER, Fayga. Universos da Arte. Campinas: UNICAMP, 2013.\n2- PEDROSA, Israel. Da cor à cor inexistente. Rio de Janeiro: Senac Nacional, 2009.\n3- PIGNATTI, Terisio. O desenho: de Altamira a Picasso. São Paulo: Abril, 1982.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "10:00 - 13:00",
+        "professor": "MAYARA LISTA ALCANTARA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "10:00 - 13:00",
+        "professor": ""
+       },
+       {
+        "dia": "Sex",
+        "hora": "10:00 - 13:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH107",
+      "Nome": "História da Arte",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo dos conceitos fundamentais ao entendimento da produção artística. instrumentalização de vocabulário próprio para a compreensão da História da Arte. A arte da pré-história até o período neoclássico.\n___Bibliografia Recomendada___\n1) BAZIN, Germain. História da Arte. Da pré-história aos nossos dias. Lisboa: Martins Fontes, 1976.\n2) GOMBRICH. E. H. A História da Arte. rio de Janeiro: LTC, 2011.\n3) HAUSER, Arnold. História social da literatura e da arte. São Paulo: Martins Fontes, 2003.\n4) JANSON, H. W. História da Arte. 9ª ed. Lisboa: Fundação Calouste Gulbenkian, 2010.\n5) WOODFORD,  Susan. A arte de ver a arte. Rio de Janeiro:Zahar, 1983.\n___Bibliografia Complementar___\n1) ARGAN, Giulio Carlo. História da italiana - Da Antiguidade a Duccio. São Paulo: Editora Cosac e Naify, 2003.\n2) GOZZOLI, Maria Cristina. Como reconhecer a arte gótica. Lisboa: Edições 70, 1986.\n3) MANDEL, Gabriele. Como reconhecer a arte islâmica. São Paulo: Martins Fontes, 1985.\n4) TARELLA, Alda. Como reconhecer a arte romana. Lisboa: Edições 70, 1988.\n5) WOODFORD,  Susan. Grécia e Roma. Rio de Janeiro: Zahar, 1983.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "THIAGO SPINDOLA MOTTA FERNANDES"
+       },
+       {
+        "dia": "Ter",
+        "hora": "08:00 - 12:00",
+        "professor": "CARLOS GONCALVES TERRA"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAR103",
+      "Nome": "Desenho Geométrico Básico",
+      "Créditos": "4.0",
+      "Teórica": "30",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Morfologia geométrica. Instrumentos de desenho. Construções fundamentais a régua, compasso e esquadros. Letras e algarismos padronizados. Partição do círculo. Polígonos regulares. Tangência e concordância de curvas. Linhas proporcionais. Escalas. Cônicas, cíclicas e espirais.\n___Bibliografia Recomendada___\n1) CARVALHO, B DE A. Curso  de Desenho. Rio de Janeiro:Ao Livro Técnico Ltda, 1976.\n2) NASSER, L. Curso Básico de Geometria: Módulos I, II e III. São Paulo: Editora Scipione, 1989.\n3) PTNOKI, J. C. Elementos de Geometria e Desenho Geométrico, vols. I, II e III. São Paulo: Editora Scipione, 1989.\n4) PEREIRA, A. A. Geometria Descritiva I, Rio de Janeiro: Editora 2 AB, 2001.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "07:00 - 10:00",
+        "professor": "ODILA ROSA CARNEIRO DA SILVA"
+       },
+       {
+        "dia": "Qua",
+        "hora": "07:00 - 10:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "2º Período": [
+     {
+      "Codigo": "BAH310",
+      "Nome": "História do Paisagismo",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAWX14",
+      "Nome": "Atividades Complementares",
+      "Créditos": "4.0",
+      "Teórica": "0",
+      "Prática": "180",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estágio não-obrigatório; Monitoria, bolsa de Iniciação Científica (com participação em jornada); Bolsa de Iniciação Artística e Cultural; Bolsas de Programas de Instituições de Fomento e Amparo à Aesquisa; Projetos de extensão; Apresentação de trabalhos em Jornada de Iniciação Científica (para não bolsistas); Participação em Jornadas de Iniciação Científica (como ouvinte); Participação oficial em Seminários, Simpósios e Congressos (como ouvinte); Participação oficial em Seminários, Simpósios e Congressos (com apresentação de artigo); Participação Oficial em Seminários, Simpósios e Congressos (com apresentação de poster); Participação (como ouvinte) em defesas de Monografias, TFG, TCC, Dissertações de Mestrado, Teses de Doutorado; Participação em curadorias de exposições oficiais; Participação em montagens de exposições oficiais; Publicação de textos científicos (artigos, capítulos de livros ou periódicos); Apresentação de trabalhos (comunicação oral) em eventos científicos; Apresentação de trabalhos (posters) em eventos científicos; Apresentação de trabalhos em exposições artísticas e culturais; Participação em concursos públicos; organização e montagem de exposições em eventos de acordo com o Regulamento do curso.\n___Bibliografia Recomendada___\n1- A ser indicada conforme a atividade a ser desenvolvida.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAF105",
+      "Nome": "Desenho Artístico II",
+      "Créditos": "4.0",
+      "Teórica": "0",
+      "Prática": "135",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Instrumental teórico e prático para a análise, representação e composição bidimensional. Observação visual de formas naturais e artificiais. Apresentação de materiais e técnicas de desenho. Estudos da cor.\n___Bibliografia Recomendada___\n1- BAXANDALL, M. Sombras e luzes. São Paulo: EDUSP, 1997.\n2- COLI, J. O que é a arte?. São Paulo: Editora Brasiliense, 2006.\n3- DONDIS, Donis A. Sintaxe da Linguagem Visual. São Paulo: Martins Fontes, 2007.\n4- OSTROWER, F. Acasos e criação artística. Rio de Janeiro: Editora Campus, 1990.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 16:00",
+        "professor": "JOSE SALMO DANSA DE ALENCAR"
+       },
+       {
+        "dia": "Qui",
+        "hora": "12:00 - 15:00",
+        "professor": ""
+       },
+       {
+        "dia": "Sex",
+        "hora": "13:00 - 16:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "BAF101"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAR102",
+      "Nome": "Geometria Descritiva II",
+      "Créditos": "4.0",
+      "Teórica": "30",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Curvas em geral: classificações, estudo projetivo, curvas planas.Superfícies em geral: superfícies de revolução, representação pelas projeções de monge. Tratamento descritivo em problemas práticos.\n___Bibliografia Recomendada___\n1) BUSTAMANTE, Léa Santos. Metodologia dos Sistemas Projetivos. RJ . Ed Bahiense.\n2) _______________________. Transformações Projetivas. Sistemas Projetivos. RJ . Ed Bahiense.\n3) PINHEIRO, V. Athayde. Noções de Geometria Descritiva. V.I, II e III. RJ. Ao livro Técnico Ltda.\n4) RODRIGUES. Alvaro J. Geometria Descritiva. V II. RJ. Imprensa Nacional.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 16:00",
+        "professor": "ALVARO JOSE RODRIGUES DE LIMA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "09:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "BAR101"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "3º Período": [
+     {
+      "Codigo": "BAF202",
+      "Nome": "Criação da Forma I",
+      "Créditos": "4.0",
+      "Teórica": "15",
+      "Prática": "75",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O que é a forma ? como conceituá-la, como obtê-la, quais as suas características. Elementos conceituais, elementos visuais, elementos de relação. Forma bidimensional e tridimensional. Luz e sombra. Formas naturais e artificiais. Forma como volume. Forma e estrutura. Módulos.\n___ BIBLIOGRAFIA BÁSICA ___\n1- ARNHEIM, Rudolf. Arte e percepção visual: uma psicologia da visão criadora. São Paulo: Cengage Learning, 2008.\n2- DONDIS, Donis. Sintaxe da linguagem visual. São Paulo: Martins Fontes, 2007.\n3- MANGUEL, Alberto. Lendo imagens: uma história de amor e ódio. São Paulo: Companhia das Letras, 2001.\n4- WONG, Wucius. Princípios de forma e desenho. São Paulo: WMF Martins Fontes, 2010.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "09:00 - 12:00",
+        "professor": "MARIA DA GRACA MUNIZ LIMA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "09:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAR202",
+      "Nome": "Perspectiva",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Fundamentos da perspectiva cônica e cilíndrica aplicados em espaços internos e externos.  Noções de sombra em perspectiva.\n___ BIBLIOGRAFIA BÁSICA ___\n1- CHING, Francis. Representação Gráfica em Arquitetura. Porto Alegre: Bookman, 2000.\n2- MONTENEGRO, Gildo. A Perspectiva dos Profissionais. São Paulo. Edgard Blucher, 2001.\n3- NORLING, Ernest R. La Perspectiva Simplificada. B. Aires. Ed. Jorge A. Dulclout.\n4- OLMER, Pierre. Perspectiva Artistique. Paris. LibrairiePlon.\n5- QUAITENNE, Esteban. Tratado Metódico de Perspectiva. B. Aires. El Ateneo.\n6- RAYNES, John. Curso Completo de Perspectiva. Barcelona: Editora BLUME, 2008.\n7- SCHAARWÄCHTER, Georg. Perspectiva para Arquitectos.México: Gili, 1996.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "10:00 - 13:00",
+        "professor": "PATRIZIA DI TRAPANO"
+       }
+      ],
+      "Requisitos": [
+       "BAR102"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAA202",
+      "Nome": "Fundamentos do Paisagismo",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Elementos organizadores da paisagem e os agentes de transformação. Análise ferramentas e técnicas de comunicação e de representação do projeto e dos elementos que compõem o projeto paisagístico. Espaço em Paisagismo. Compondo com os diferentes estratos. Plano de massa do projeto de paisagismo como critério para especificação vegetal. Escalas de abordagem: todos os passos do projeto. Pesquisa, interpretação e análise de projetos paisagísticos referenciais.\n___ BIBLIOGRAFIA BÁSICA ___\n1- ABBUD, Benedito. Criando Paisagens. Guia de trabalho em arquitetura paisagística. Editora Senac, 4° edição 2010.\n2- CULLEN, Gordon. Paisagens urbanas. Lisboa, Ed. 70, 1970.\n3- LORENZI, H. e SOUZA, Hermes Moreira de. Plantas ornamentais no Brasil. Arbustivas, herbáceas e trepadeiras. 2ª ed. Ed. Plantarum. Nova Odessa. São Paulo. 1999.\n4- LAMPREIA, Monica. O caminho das flores. Editora Das Duas. Rio de Janeiro, 2010.\n5- LYNCH, Kevin. A Imagem da Cidade. São Paulo: Martins Fontes, 1980.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:30 - 16:30",
+        "professor": "JANE CELINA SANTUCCI"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAH314",
+      "Nome": "Paisagismo no Brasil",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "14:00 - 17:00",
+        "professor": "VALCI RUBENS OLIVEIRA DE ANDRADE"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAR231",
+      "Nome": "Elementos de Arquitetura I",
+      "Créditos": "4.0",
+      "Teórica": "30",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "As convenções adotadas na representação gráfica dos projetos de arquitetura de acordo com as normas vigentes.O material e o instrumental.As escalas usuais.Convenções gráficas. Projeções ortogonais e em perspectivas. Representação gráfica do projeto de arquitetura.\n___Bibliografia Recomendada___\n1) NEUFERT, E. El Arte de Projetar en Arquitetura. Barcelona. Gustavo Gil.\n2) CORBELLA, Oscar e YANNAS, Simos. Em busca de uma arquitetura sustentável para os trópicos - conforto ambiental. Editora Revan, 2003.\n3) MASCARO, Juan Luis. O custo das decisões arquitetônicas - nova versão - Editora Sagra Luzzatto, 1998.\n___Bibliografia Complementar___\n1) Dicionário ilustrado de arquitetura, volumes I e II. Albernaz, Maria Paula/ Modesto Lima, Cecília. PRO Editores São Paulo, 2003.\n2) Sites: http://www.arcoweb.com.br http://www.arqbrasil.com.br http://www.abea-arq.org.br\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "07:00 - 09:30",
+        "professor": "CRISTINA GRAFANASSI TRANJAN"
+       },
+       {
+        "dia": "Qua",
+        "hora": "07:00 - 09:30",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "BAR102"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "4º Período": [
+     {
+      "Codigo": "BAA204",
+      "Nome": "Ambiente e Repres da Paisagem",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Experimentação prática de noções básicas envolvidas nos processos criativos do ator - jogo e improvisação; tempo, ritmo e espaço; palavra e texto; ações físicas -, com ênfase em processos de composição de um personagem.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qua",
+        "hora": "13:30 - 16:30",
+        "professor": "MARIA ELISA MARANGONI FEGHALI"
+       }
+      ],
+      "Requisitos": [
+       "BAA202"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAA330",
+      "Nome": "Projeto Paisagístico I",
+      "Créditos": "5.0",
+      "Teórica": "30",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Paisagismo e meio ambiente. Escalas de abordagem do projeto de paisagismo. Técnicas de comunicação e expressão. Análise do terreno. Relevo e orientação solar. Passeios, canteiros e tipos de solo. As etapas do projeto. Projeto Paisagístico de áreas residenciais e pequenos espaços. Especificação e quantitativo da vegetação. Elaboração de proposta profissional  e orçamento.\n___Bibliografia Recomendada___\n1) ABBUD,  Benedito. Criando Paisagens. Guia de trabalho de Arquitetura Paisagística. São Paulo: Editora SENAC, 2010.___Bibliografia Complementar___\n2) LORENZI, Harri. Árvores brasileiras: manual de identificação e cultivo de plantas arbóreas nativas do Brasil. Editora Plantarum. Nova Odessa. São Paulo. 1992.___Bibliografia Complementar___\n3)  LORENZI, Harri. (org.). Palmeiras do Brasil. Nativas e exóticas. Editora Plantarum. Nova Odessa. São Paulo. 1992.___Bibliografia Complementar___\n4) LORENZI, Harri. (org.). Plantas Ornamentais no Brasil. Arbustivas, herbáceas e trepadeiras. Editora Plantarum. Nova Odessa. São Paulo. 1995.___Bibliografia Complementar___\n5) PAIVA, Patrícia D. de O. Paisagismo. Conceitos e Aplicações. Lavras: editora UFLA, 2008.___Bibliografia Complementar___\n___Bibliografia Complementar___\n1) HUTCHISON, Edward. O desenho no projeto da paisagem. Editorial Gustavo Gili, Barcelona, 2011.___Bibliografia Complementar___\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "09:00 - 13:00",
+        "professor": "VINICIUS FERREIRA MATTOS"
+       },
+       {
+        "dia": "Qui",
+        "hora": "09:00 - 13:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "BAR202",
+       "BAR231"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAA203",
+      "Nome": "Topografia Aplic ao Paisagismo",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Experimentação prática de noções básicas envolvidas nos processos criativos do ator - jogo e improvisação; tempo, ritmo e espaço; palavra e texto; ações físicas -, com ênfase em processos de composição de um personagem.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAR102"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAA205",
+      "Nome": "Introdução ao Desenho Urbano",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Experimentação prática de noções básicas envolvidas nos processos criativos do ator - jogo e improvisação; tempo, ritmo e espaço; palavra e texto; ações físicas -, com ênfase em processos de composição de um personagem.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:30 - 16:30",
+        "professor": "VINICIUS FERREIRA MATTOS"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAR241",
+      "Nome": "Elementos de Arquitetura II",
+      "Créditos": "4.0",
+      "Teórica": "30",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Detalhes de construcao - alvenaria de tijolo, madeira, ferro, concreto, esquadrias.Instalacoes:desenhos convencionais.Nocoes de esquemas de instalacoes eletricas.Nocoes de esquemas de instalacoes hidraulicas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "13:00 - 16:00",
+        "professor": "LUIZ ANTONIO FERREIRA DAS NEVES"
+       },
+       {
+        "dia": "Qua",
+        "hora": "13:00 - 16:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "BAR231"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "5º Período": [
+     {
+      "Codigo": "BAA334",
+      "Nome": "Detal Proj Paisagístico I",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Detalhamento de elementos da arquitetura paisagística para residências e condomínios. Especificação de materiais,normas e técnicas de execução. Equipamentos de lazer.Pavimentação residencial.\n___Bibliografia Recomendada___\n1) ABBUD, Benedito. Criando Paisagens. Guia de trabalho de Arquitetura Paisagística. São Paulo: Editora SENAC, 2010.\n2) LEENHAEDT, Jacques (org.). Nos jardins de Burle Marx. São Paulo: Editora perspectiva, 2010.\n3) PAIVA, Patrícia D. de O. Paisagismo. Conceitos e Aplicações. Lavras: Editora EFLA, 2008.\n___Bibliografia Complementar___\n1) Arquitectura del Paisaje. Mobiliário Urbano. Barcelona: Editora Monsa, 2007.\n2) HUTCHISON, Edward . O desenho no Projeto da Paisagem. Barcelona: Editorial Gustavo Gili, 2012.\n3) MAC LEOD, Virgínia. El Detalhe em el Paisagismo Contemporâneo. Barcelona: Editora Blume, 2012.\n3) MASCARO, Juan Luis. Infraestrutura da Paisagem.Porto Alegre: Editora Masquatro, 2008.\n4) WILSON,  Andrew. o livro das áreas verdes. São Paulo: Editora SENAC, 2016.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "13:30 - 17:30",
+        "professor": "JANE CELINA SANTUCCI"
+       }
+      ],
+      "Requisitos": [
+       "BAR241"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAA331",
+      "Nome": "Projeto Paisagístico II",
+      "Créditos": "5.0",
+      "Teórica": "30",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O ambiente e a paisagem urbana:Conceituação,métodos e técnicas de análise da paisagem e do espaço urbano.Agentes de transformação ambiental.Morfologia urbana.Introdução ao estudo do bioclimatismo aplicado ao espaço urbano.Arborização urbana.Planejamento e Projeto Paisagístico de espaço de uso público.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAA330"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "6º Período": [
+     {
+      "Codigo": "BAA335",
+      "Nome": "Detal Proj Paisagístico II",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Qui",
+        "hora": "09:00 - 13:00",
+        "professor": "JANE CELINA SANTUCCI"
+       }
+      ],
+      "Requisitos": [
+       "BAA334"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "BAA332",
+      "Nome": "Projeto Paisagístico III",
+      "Créditos": "5.0",
+      "Teórica": "30",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceituação e interpretação da paisagem natural e construída.Tipologias paisagísticas.As áreas verdes urbanas.Sistemas de áreas verdes(livres urbanas).Áreas de lazer.Planejamento e Projetos Paisagísticos de espaço de uso público.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "09:00 - 13:00",
+        "professor": "MARIA ELISA MARANGONI FEGHALI"
+       },
+       {
+        "dia": "Qua",
+        "hora": "09:00 - 13:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "BAA331"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "7º Período": [
+     {
+      "Codigo": "BAA333",
+      "Nome": "Projeto Paisagístico IV",
+      "Créditos": "5.0",
+      "Teórica": "30",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceituação e análise do espaço urbano.Potencial Paisagístico.Parques Urbanos.Planejamento e Projeto Paisagístico.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "09:00 - 13:00",
+        "professor": "VINICIUS FERREIRA MATTOS"
+       },
+       {
+        "dia": "Qua",
+        "hora": "09:00 - 13:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "BAA332"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "8º Período": [
+     {
+      "Codigo": "BAA336",
+      "Nome": "Proj Final de Paisagismo Tcc",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Experimentação prática de noções básicas envolvidas nos processos criativos do ator - jogo e improvisação; tempo, ritmo e espaço; palavra e texto; ações físicas -, com ênfase em processos de composição de um personagem.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 16:00",
+        "professor": "VINICIUS FERREIRA MATTOS"
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 16:00",
+        "professor": "JANE CELINA SANTUCCI"
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 16:00",
+        "professor": "MARIA ELISA MARANGONI FEGHALI"
+       },
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 16:00",
+        "professor": "VALCI RUBENS OLIVEIRA DE ANDRADE"
+       }
+      ],
+      "Requisitos": [
+       "BAA333"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "Disciplinas Optativas (Escolha Condicionada)": [
+     {
+      "Codigo": "BAA002",
+      "Nome": "Tóp Especiais Paisagismo II",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Palestras e seminários diversificados sobre os temas: Paisagismo, paisagem, espaços extrnos, urbanismo, conforto ambiental, técnicas e materiais de revestimento, equipamento, mobiliário urbano, vegetação e outros assuntos afins que possibilitem o crescimento e o desenvolvimento técnico-profissional dos alunos. Visitas guiadas e experimentos de campo ligadas ao estudo e ao projeto dos espaços exteriores.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAA004",
+      "Nome": "Tóp Especiais Paisagismo IV",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Palestras e encontros. Seminários diversificado sobre os temas: Paisagismo, paisagem, espaços externos, urbanismo, conforto ambiental, técnicas e materiais de revestimento, equipamento, mobiliário urbano, vegetação e outros assuntos afins que possibilitem o crescimento e o desenvolvimento técnico-profissional dos alunos. Visitas guiadas e experimentos de campo ligadas ao estudo e ao  projeto dos espaços exteriores.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAF006",
+      "Nome": "Ilustração Científ Botânica I",
+      "Créditos": "3.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A Ilustração Científica (IC). O naturalismo do século XIX. Ilustração botânica. Ilustração criativa artística. Nomenclatura e classificação botânicas. Forma e função dos órgãos vegetais. Os princípios básicos da ilustração botânica. Estudo das técnicas de representação.\n___BIBILIOGRAFIA BÁSICA___\n1) Arnheim, Rudolf - Arte e percepção visual: uma psicologia da visão criadora; São Paulo: Cengage Learning, 2019.\n2) Birch, H. - Ilustração botânica: técnicas para desenhar flores e plantas; São Paulo:\nGustavo Gili, 2019.\n3) Catálogos Centro Cultural Correios - Margareth Mee 100 anos de vida e obra. Rio de Janeiro, 2009.\n4) Hodges, E. R. S. - The Guild Handbook of Scientific Illustration; US: John Wiley &\nSons, 2003.\n5) King, Christabel. The Kew Book of Botanical Illustration; Great Britain: Search Press Ltda, 2015.\n6) Lopes, L., Castiñeira, M. I. (org). - II Anatomia de uma ilustração: os bastidores da ilustração científica; Palhoça: Ed. Unisul, 2016.\n7) Martín Roig, Gabriel - Fundamentos do Desenho Artístico. São Paulo: Martins Fontes Editora Ltda, 2007.\n8) Nascimento, Dulce. Plantas Brasileiras: a ilustração botânica de Dulce Nascimento. Rio de Janeiro: Batel, 2011.\n9) Raven, P. H. Evert, Ray, F, Eichhorn, S. E. - Biologia Vegetal. Marca: Guanabara Saúde Didático, 2014.\n10) Souza, V. C., Flores,T. B., Lorenzi, H. Introdução à botânica: morfologia. São Paulo: Instituto Plantarum de Estudos da Flora, 2013.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAF103",
+      "Nome": "Desenho Anatômico I",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Proporções e relações do corpo humano; nomenclatura básica da osteologia; desenho do esqueleto dando o conhecimento da forma, estrutura e função das partes que constituem a cabeça; tronco e membros.\n___Bibliografia Recomendada___\n1- BRIDGMAN, George B. Bridgman's complete guide to drawing from life. New York: Sterling Publishing Company, Inc., 2009.\n2- GORDON, Louise. Desenho anatómico. Lisboa: Presença; [São Paulo]: Martins Fontes, 1980.\n3- LOOMIS, Andrew. Figure drawing for all it?s work. New York: The Viking Press, 1944.\n4- PERARD, Victor. Desenho e anatomia. Rio de Janeiro: Ediouro, [s.d.].\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "09:00 - 12:00",
+        "professor": "JOSE SALMO DANSA DE ALENCAR"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAF201",
+      "Nome": "Desenho Artístico III",
+      "Créditos": "3.0",
+      "Teórica": "0",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O desenho como realização final. Os problemas da criação artística através do desenho. As deformações expressivas e a composição. Exercícios de aplicação dos diferentes processos do desenho.\n___Bibliografia Recomendada___\n1- CARERI, Francesco. Walkscape: O caminhar como prática estética. São Paulo: Ed. G.Gili, 2013.\n2- CAUQUELIN, Anne. Arte contemporânea: uma introdução. São Paulo: Martins, 2005.\n3- FERREIRA, Glória e COTRIM, Cecília (Org.). Clement Greenberg e o debate crítico. Rio de Janeiro: Jorge Zahar, 2001.\n4- OSTROWER, Fayga. Universos da Arte. Campinas: UNICAMP, 2013.\n5- STANGOS, Nikos (Org.). Conceitos da Arte Moderna. Rio de Janeiro: Jorge Zahar, 1991.\n6- PIGNATTI, Terisio. O desenho: de Altamira a Picasso. São Paulo: Abril, 1982.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAF105"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAF205",
+      "Nome": "Modelo Vivo I",
+      "Créditos": "3.0",
+      "Teórica": "0",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Desenho de observação da estrutura da forma no espaço com seus atributos de ritmo, volumes e proporção. Percepção da linha e suas possibilidades expressivas e do claro-escuro.\n___Bibliografia Recomendada___\n1- ARNHEIM, Rudolf. Arte e percepção visual: uma psicologia da visão criadora. São Paulo: Cengage Learning, 2011.\n2- ARNHEIM, Rudolf. Intuição e intelecto na arte. São Paulo: Martins Fontes, 1989.\n3- KANDINSKY, Wassily. Ponto linha plano: contribuição para a análise dos elementos picturais. Lisboa: Edições 70, 1996.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Seg",
+        "hora": "09:00 - 12:00",
+        "professor": "LUANA MANHAES DA SILVA"
+       },
+       {
+        "dia": "Sex",
+        "hora": "09:00 - 12:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAH104",
+      "Nome": "História da Arte II",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das Artes Visuais nos Séculos XV ao XVII, em seus aspectos conceituais, históricos e historiográficos. Do Renascimento ao Neoclássico.\n___BIBLIOGRAFIA BÁSICA___\n1- ARGAN, Giulio Carlo. Clássico e anticlássico. São Paulo: Companhia das Letras, 1999.\n2- ARGAN, Guilio Carlo. Imagem e persuasão. São Paulo: Companhia das Letras, 2004.\n3- ARGAN, Guilio Carlo. História da arte italiana. São Paulo: Cosac & Naify, 2003. v. 2 e 3.\n4- BAETA, Rodrigo Espinha. Teoria do Barroco. Salvador: EDUFBA-PPGAU, 2012.\n5- JANSON, H.W. História da arte. 9ª ed. Lisboa: Fundação Calouste Gulbenkian, 2010.\n___BIBLIOGRAFIA COMPLEMENTAR____\n1- HAUSER, Arnold. História social da literatura e da arte. São Paulo: Martins Fontes, 2003.\n2- OLIVEIRA, Myriam Andrade Ribeiro de. O rococó religioso no Brasil. São Paulo: Cosac & Naify, 2003.\n3- PEVSNER, Nikolaus. Panorama da arquitetura ocidental. São Paulo: Martins Fontes, 19¬¬82.\n4- SILVA, Jorge Henrique Pais da. Estudos sobre o maneirismo. Lisboa: Imprensa Universitária, 1983.\n5- WÖLFFLIN, Heinrich. Renascença e Barroco. São Paulo: Editora perspectiva, 1989.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAH205",
+      "Nome": "História da Arte IV",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das Artes Visuais nos Séculos XX ao XXI, em seus aspectos conceituais, históricos e historiográficos. Do Entre Guerras à Contemporaneidade.\n___ BIBLIOGRAFIA BÁSICA ___\n1- ARGAN. Giulio Carlo. Arte Moderna. São Paulo: Companhia das Letras, 1993.\n2- COTRIM, Cecília; FERREIRA, Glória (orgs.). Escritos de Artista. Rio de Janeiro: Funarte & Jorge Zahar Editor, 2006.\n3- KRAUSS, Rosalind. Caminhos da Escultura Moderna. São Paulo: Martins Fontes, 1998.\n___ BIBLIOGRAFIA COMPLEMENTAR ___\n1- BATCHELOR, David. Minimalismo. São Paulo: Cosac & Naify Edições, 2001.\n2- BELTING, Hans. O fim da História da Arte. São Paulo: Cosacnaify, 2006.\n3- DANTO, Arthur. A transfiguração do lugar comum. São Paulo: Cosacnaify, 2007.\n4- HOLMES, Brian. Investigações Extradisciplinares: para uma nova crítica das instituições. Concinnitas.  Ano 9.  vol. 1, nº 12, 06-13, julho/2008.\n5- JAMESON, Fredric. Pós-Modernismo: a lógica cultural do capitalismo tardio. São Paulo: Ática, 1997.\n6- KRAUSS, Rosalind. Vídeo : a estética do narcisismo. Arte e Ensaios∕PPGAV-EBA, ano XV, nº16, 144-157,  2008.\n7- McCARTHY, David. Arte Pop. São Paulo: Cosac & Naify Edições, 2002.\n8- ODOHERTY, Brian. No Interior do Cubo Branco. São Paulo: Martins Fontes, 2007.\n9- TIBERGHIEN, Gilles. Cabanas. Revista Conccinnitas, ano 4,  n° 4, 227-242, março/2003.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAH500",
+      "Nome": "Estética",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudos das principais correntes de pensamento estético, da Antiguidade aos nossos dias. Definição do campo da estética em sua relação com a filosofia e a arte. Conceitos fundamentais para a compreensão do fenômeno estético.\n___Bibliografia Recomendada___\n1) BASTOS, Fernando. Panorama das ideias estéticas no Ocidente. Brasília: Editora Universidade de Brasília, 1987.\n2) DUARTE, Rodrigo (org.). O belo autônomo: textos clássicos de estética. Belo Horizonte: Autêntica Editora, 2012.\n3) PAREYSON, Luigi. Os problemas da estética. São Paulo: Martins Fontes, 2001.\n4) SUASSUNA, Ariano. Iniciação à estética. Rio de Janeiro: José Olympio, 2004.\n___Bibliografia Complementar___\n1) DANTO, Arthur C.. O abuso da beleza. São Paulo: Martins Fontes, 2015.\n2) DUFRENNE, Mikel. Estética e filosofia. São Paulo: Perspectiva, 1991.\n3) LACOSTE, Jean. A filosofia da arte. Rio de Janeiro: Jorge Zahar, 1986.\n4) MAMMÌ, Lorenzo. O que resta: arte e crítica de arte. São Paulo: Cia das Letras, 2012.\n5) NIETZSCHE, Friedrich. O nascimento da tragédia ? ou helenismo e pessimismo. São Paulo: Cia das Letras, 1992.\n6) NOVAES, Adauto (org.). Artepensamento. São Paulo: Companhia das Letras, 2006.\n7) NUNES, Benedito. Introdução à filosofia da arte. São Paulo: Editora Ática, 2010.\n8) VERNANT, Jean-Pierre. O universo, os deuses, os homens. São Paulo: Cia das Letras, 2000.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAH502",
+      "Nome": "Arte no Brasil I",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das Artes Visuais no Brasil, desde antes da chegada dos europeus até o século XIX, em seus aspectos conceituais, históricos e historiográficos. Da arte ameríndia ao academicismo.\n___ BIBLIOGRAFIA BÁSICA ___\n1) ÁVILA, Afonso. Barroco: teoria e análise. São Paulo: Editora Perspectiva. Belo Horizonte: Companhia Brasileira de Metalurgia e Mineração, 1997.\n2) BARCINSKI, Fabiana Werneck (org.). Sobre a arte brasileira: da pré-história aos anos 1960. São Paulo: Martins Fontes: Ed. Sesc-SP, 2014.\n3) COLI, Jorge. Como estudar a arte brasileira do século XIX? São Paulo: Ed. Senac, 2005.\n4) OLIVEIRA, M. A. R.; PEREIRA, S. G.; LUZ, A. A. História da Arte no Brasil: textos de síntese. Rio de Janeiro: Editora da UFRJ, 2008.\n5) ZANINI, Walter (coord.). História geral da arte no Brasil. São Paulo: Instituto Walther Moreira Salles, 1983. 2 v.\n___ BIBLIOGRAFIA COMPLEMENTAR ___\n1) ALVIN, Sandra. Arquitetura religiosa colonial no Rio de Janeiro. Rio de Janeiro: Editora UFRJ/Minc - Iphan/Prefeitura da Cidade do Rio de Janeiro, 1999. 2 v.\n2) D'ARAÚJO, A. L. Arte no Brasil Colonial. Rio de Janeiro: Revan, 2000.\n3) LAGROU, Els. Arte indígena no Brasil. Belo Horizonte: C/Arte, 2007.\n4) OLIVEIRA, M. A. R. O rococó religioso no Brasil e seus antecedentes europeus. São Paulo: Cosac e Naify, 2003.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAI117",
+      "Nome": "Oficina Básica I",
+      "Créditos": "3.0",
+      "Teórica": "15",
+      "Prática": "75",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das formas e espacos. Analise e representacao das formas tri-dimensionais, atraves dos materiais expressivos: barro, gesso, resinas, papel, madeira e metais. Tecnicas e instrumentos de trabalho: ferramentas simples e maquinas operatrizes. Uso e medidas de seguranca. Construcao e testes de modelos fisicos. Execucao de trabalhos propostos em metodologia visual i.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAR204",
+      "Nome": "Perspectiva Avançada",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Aplicação de técnicas de apresentação de projeto nas perspectivas cônicas e cilíndricas de espaços internos e externos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAR233",
+      "Nome": "Desenho Projetivo Aplicado",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Caracterização da aplicação prática dos conteúdos ministrados em Geometria Descritiva. Confecção de Modelos Tridimensionais (em escala) das superfícies geométricas. Aprimoramento do raciocínio espacial através da pesquisa, do reconhecimento, identificação e aplicações conceituais nas áreas de interesse para o Design de Interiores e para o Paisagismo. Pesquisa para a Prática projetual e de dimensionamento para Escalas e rampas Circulares e seus ensaios, bem como para as Superfícies. Aplicações topográficas. Possibilidades de modelagem eletrônica no software Rhinoceros.\n____Bibliografia Recomendada___\n1- Machado, Ardevan. Desenho aplicado na Arquitetura e Engenharia, 3ª Ed., Politécnica, São Paulo, 1980.\n2- Rodrigues, Álvaro J. Geometria Descritiva - Projetividades Curvas e Superfícies. 3ª Ed., Ao Livro técnico, Rio de Janeiro, 1968.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAR102"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAR543",
+      "Nome": "Modelagem Gráfica Paisagismo",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Capacitar o aluno na representação gráfica dos elementos que compõem a proposta do projeto em paisagismo.\n___Bibliografia Recomendada___\n1) Rodrigues Silva, Antônio Carlos - São Paulo, Edgard Bluscher, ISBN: 978-85-212-0476-3; Desenho de Vegetação em Arquitetura e urbanismo - Processo de construção do desenho.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAR202",
+       "BAR241"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "FAT230",
+      "Nome": "Topografia",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceitos fundamentais para compreensão técnica do sítio e parâmetros construtivos. Representação do relevo do solo, perfis, corte e aterro. Noções gerais de fotogrametria e sensoriamento remoto. Instrumentos de topografia. Métodos de levantamento planialtimétricos expeditos e regulares. Demarcação com instrumentos topográficos. Diagrama solar. Orientação magnética e\nverdadeira. Aplicação técnica do conhecimento na apreensão do terreno para concepção do projeto e construção.\n___BIBLIOGRAFIA BÁSICA___\n1) ALVAREZ, Adriana; BRASILEIRO, Alice; MORGADO, Cláudio; TREVISAN, Rosina. Topografia para Arquitetos. Rio de Janeiro: Booklink, UFRJ, 2003.\n2) BORGES, Alberto de Campos. Topografia aplicada à engenharia civil. São Paulo: Edgard Blücher, 2013, vol. 1 e 2.\n3) MARCHETTI, Delmar A. B.; GARCIA, Gilberto J. Princípios de fotogrametria e fotointerpretação. São Paulo: Nobel, 1986.\n4) RANGEL, Alcy Pinheiro. Desenho projetivo ? projeções cotadas. 3a ed. Rio de Janeiro: Livros Técnicos e Científicos, 1976.\n5) TULER, Marcelo; SARAIVA, Sérgio. Fundamentos de Topografia. Porto Alegre: Bookman, 2014.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IBB491",
+      "Nome": "Evolução dos Jardins",
+      "Créditos": "4.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Disciplina com saída de campo que trata das mudanças nos papéis dos jardins ao longo da história, e da importância dos diferentes tipos de jardins e hortos botânicos no ensino, na pesquisa e na sociedade. (Esta disciplina contempla trabalho de campo).\n___BIBLIOGRAFIA BÁSICA___\n1- CUNNINGHAM, A. The culture of gardens. In: Cultures of Natural History. Cambridge University Press, 1997. P. 38-56.\n2- OUTRAM, D. New spaces in natural history, p. 249-265, 1996.\n3- Artigos selecionados pelo professor.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEB599",
+      "Nome": "Est da Líng Bras de Sinais I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Nomes próprios; pronomes pessoais; demonstrativos; possessivos; locativos em sentenças simples do tipo pergunta-resposta com \"o que\" e \"quem\" e outros vocábulos básicos; numerais; quantidade; topicalização; flexão verbal; flexão de negação; expressões faciais e corporais; percepção visual; conversação; diálogos; textos: LIBRAS, cultura e comunidade surda.\n",
+       "BibliografiaBasica": "1) BRITO, L. F. Por uma gramática de língua de sinais. Rio de Janeiro: Tempo Brasileiro, 1995.\n2) FELIPE, T.; MONTEIRO, M. S. LIBRAS em contexto. Curso Básico. Brasília: Ministério da Educação e do Desporto/Secretaria de Educação Especial, 2001.\n3) GESSER, A. Libras - Que língua é essa? Crença e preconceitos em torno da língua de sinais e da realidade surda. Florianópolis: Parábola, 2009.\n4) STROBEL, K. L. As imagens do outro sobre a cultura surda. Florianópolis: EdUFSC, 2008.\n",
+       "BibliografiaComplementar": "1) PIMENTA, Nelson e QUADROS, Ronice Muller. Curso de Libras I, LSB Vídeo, volume I, Iniciante, 2006 e 3a ed., 2008.\n2) Dicionário Enciclopédico Ilustrado Triíngue da Língua de Sinais Brasileira ? vol 1 e vol. 2 Site: www.acessobrasil.org.brasil\n3) Dicionário da Língua Brasileira de Sinais, INES, versão, 2.0, ano 2006.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAA001",
+      "Nome": "Tóp Especiais Paisagismo I",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Palestras, vistas e experimentos sobre os temas: Paisagismo, paisagem, espaços extrnos, urbanismo, conforto ambiental, técnicas e materiais de revestimento, equipamento, mobiliário urbano, vegetação e outros temas afins que possibilitem o crescimento e o desenvolvimento técnico-profissional dos alunos, no estudo e no projeto dos espaços exteriores.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Sex",
+        "hora": "08:00 - 11:00",
+        "professor": "VINICIUS FERREIRA MATTOS"
+       }
+      ],
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAA003",
+      "Nome": "Tóp Especiais Paisagismo III",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Seminários, palestras, vistas técnicas e experimento sobre os temas: Paisagismo, paisagem, espaços externos, urbanismo, conforto ambiental, técnicas e materiais de revestimento, equipamento, mobiliário urbano, vegetação e outros temas afins que possibilitem o crescimento e o desenvolvimento técnico-profissional dos alunos, no estudo e no projeto dos espaços exteriores.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAA601",
+      "Nome": "Desenho de Botânica",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Nocoes basicas de desenho aplicadas a representacao grafica dos elementos vegetais. Enfoque dos elementos botanicos fundamentais a serem registrados no desenho, quanto a tecnica grafica a ser utilizada, tendo em vista a finalidade da ilustracao.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAF007",
+      "Nome": "Ilustração Científ Botânica II",
+      "Créditos": "3.0",
+      "Teórica": "15",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Caracterização dos grandes grupos vegetais. Tipos e campos de ação da IC. A IC como meio de comunicação. O Desenho como construção gráfica. Técnicas de representação para ilustração botânica.\n___BIBILIOGRAFIA BÁSICA___\n1) Arnheim, Rudolf - Arte e percepção visual: uma psicologia da visão criadora; São Paulo: Cengage Learning, 2019.\n2) Birch, H. - Ilustração botânica: técnicas para desenhar flores e plantas; São Paulo:\nGustavo Gili, 2019.\n3) Catálogos Centro Cultural Correios - Margareth Mee 100 anos de vida e obra. Rio de Janeiro, 2009.\n4) Hodges, E. R. S. - The Guild Handbook of Scientific Illustration; US: John Wiley &\nSons, 2003.\n5) King, Christabel. The Kew Book of Botanical Illustration; Great Britain: Search Press Ltda, 2015.\n6) Lopes, L., Castiñeira, M. I. (org). - II Anatomia de uma ilustração: os bastidores da ilustração científica; Palhoça: Ed. Unisul, 2016.\n7) Martín Roig, Gabriel - Fundamentos do Desenho Artístico. São Paulo: Martins Fontes Editora Ltda, 2007.\n8) Nascimento, Dulce. Plantas Brasileiras: a ilustração botânica de Dulce Nascimento. Rio de Janeiro: Batel, 2011.\n9) Raven, P. H. Evert, Ray, F, Eichhorn, S. E. - Biologia Vegetal. Marca: Guanabara Saúde Didático, 2014.\n10) Souza, V. C., Flores,T. B., Lorenzi, H. Introdução à botânica: morfologia. São Paulo: Instituto Plantarum de Estudos da Flora, 2013.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAF006"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAF108",
+      "Nome": "Plástica II",
+      "Créditos": "3.0",
+      "Teórica": "0",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Ampliar os conhecimentos estéticos plásticos, anteriormente adquiridos informando sobre novas técnicas de trabalho e interessando o aluno na execução de maquetes, em diversos materiais, estimula a imaginação e a autocrítica..\n___Bibliografia Recomendada___\n1- BRITO, Ronaldo. Neoconcretismo: vértice e ruptura do projeto construtivo brasileiro. São Paulo: Cosac Naify, 2007.\n2- KRAUSS, Rosalind. Caminhos da escultura moderna. São Paulo: Martins Fontes, 2001.\n2- WONG, Wucius. Princípios de Forma e desenho. São Paulo: Martins Fontes, 2001.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "BAF104"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAF204",
+      "Nome": "Criação da Forma II",
+      "Créditos": "4.0",
+      "Teórica": "15",
+      "Prática": "75",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Instrumental necessário à atividade criadora através da análise e aplicação da teoria da cor. Percepção visual, natureza da cor, classificação, efeitos cromáticos, história da cor, fisiologia e psicologia e harmonias cromáticas.\n___ BIBLIOGRAFIA BÁSICA ___\n1-  HELLER, Eva. Psicologia das cores: como as cores afetam a emoção e a razão. São Paulo: G. Gilli, 2016.\n2- PEDROSA, Israel. O universo da cor. Rio de Janeiro: Ed. SENAC Nacional, 2003.\n3- PINTO, Milton. Comunicação e discurso: introdução à análise de discursos. São Paulo: Hacker, 2003\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": [
+       {
+        "dia": "Ter",
+        "hora": "13:00 - 16:00",
+        "professor": "MARIA DA GRACA MUNIZ LIMA"
+       },
+       {
+        "dia": "Qui",
+        "hora": "14:00 - 17:00",
+        "professor": ""
+       }
+      ],
+      "Requisitos": [
+       "BAF202"
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAH101",
+      "Nome": "História da Arte I",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo do fenômeno e da representações artísticas da Pré-História ao Século XIV, em seus aspectos conceituais, históricos e culturais. Do Paleolítico ao Gótico.\n___BIBLIOGRAFIA BÁSICA___\n1- ARGAN, Giulio Carlo. História da arte italiana. Da Antiguidade a Duccio. São Paulo: Editora Cosac e Naify, 2003.\n2- BELL, Julian. Uma nova história da arte. São Paulo: Editora Martins Fontes, 2008.\n3- JANSON, Horst Woldemar. História geral da arte (Vol. I): O Mundo Antigo e a Idade Média. São Paulo: Martins Fontes, 2001.\n4- WOODFORD, Susan. A arte de ver a arte. Rio de Janeiro: Zahar, 1983.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1- GOMBRICH. E.H. A História da arte. Rio de Janeiro: LTC, 2011.\n2- JANSON, H. W. História da arte. Lisboa: Fundação Calouse Gulbenkian,  1989.\n3- LISE, Giorgio. Como reconhecer a arte egípcia. Lisboa: Edições 70, 1985.\n4- SHAVER-CRANDELL, Anne. A idade média. Rio de Janeiro: Zahar, 1984.\n5- TARELLA, Alda. Como reconhecer a arte romana. Lisboa: edições 70, 1988.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAH201",
+      "Nome": "História da Arte III",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das Artes Visuais nos Séculos XIX ao XX, em seus aspectos conceituais, históricos e historiográficos. Do Romantismo às Vanguardas Históricas.\n___BIBLIOGRAFIA BÁSICA___\n1- ARGAN, Giulio Carlo. Arte Moderna. São Paulo: Cia das Letras, 2004.\n2- ARGAN, Guilio Carlo. A arte moderna da Europa: de Hogarth a Picasso. São Paulo: Cia. Das Letras, 2010.\n3- HAUSER, Arnold. História social da literatura e da arte. São Paulo: Martins Fontes, 2003.\n4- JANSON, H.W. História da arte. 9ª ed. Lisboa: Fundação Calouste Gulbenkian, 2010.\n5- PEVSNER, Nikolaus. Panorama da arquitetura ocidental. São Paulo: Martins Fontes, 19¬¬82.\n___BIBLIOGRAFIA COMPLEMENTAR___\n1- FABRIS, Annateresa (org). O ecletismo na arquitetura brasileira. São Paulo: Edusp, 1987.\n2- GIEDION, Siegfried. Espaço, tempo e arquitetura: o desenvolvimento de uma nova tradição. São Paulo: Martins Fontes, 2004.\n3- KELLY, C. et alii. Século XIX: o romantismo. Rio de Janeiro: Museu Nacional de Belas Artes, 1979.\n4- REYNOLDS, Donald. A arte do século XIX. Rio de Janeiro: Zahar editores, 1986.\n5- PEVSNER, Nikolaus. Pioneiros do desenho moderno. São Paulo: Martins Fontes, 1995.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAH369",
+      "Nome": "Cultura Brasileira",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Formação da cultura brasileira. Etnicidade. Culturas tradicionais, regionais, populares e urbanas no Brasil.\n___ BIBLIOGRAFIA BÁSICA ___\n1- CANDIDO, A. O significado de Raízes do Brasil (Prefácio). In: HOLANDA, S. B. de. Raízes do Brasil. 26.ed. São Paulo: Cia. das Letras, 1995.\n2- FREYRE, G. Prefácio. Casa-grande & senzala: formação da família brasileira sob o regime da economia patriarcal. São Paulo: Global, 2005.\n3- DAMATTA, R. Notas sobre o racismo à brasileira. In: SOUZA, J. (Org) Multiculturalismo e racismo: uma comparação Brasil - Estados Unidos. Brasília: Paralelo, 1997.\n4- MICELI, S. Intelectuais e classe dirigente no Brasil (1920-1945). São Paulo: Difel, 1979.\n5- ROCHA, J. C. de C. As origens e equívocos da cordialidade brasileira. In: ___. O exílio do homem cordial. Rio de Janeiro: Editora do Museu Nacional, 2004.\n___ BIBLIOGRAFIA COMPLEMENTAR ____\n1- CANDIDO, A. Dialética da malandragem. Revista do Instituto de Estudos Brasileiros, São Paulo, v.8, p.67-89, 1970.\n2- FERNANDES, F. A integração do negro na sociedade de classes. São Paulo: Ática, 1978.\n3- HOLANDA, S. B. de. Raízes do Brasil. 26.ed. São Paulo: Cia. das Letras, 1995.\n4- ROMERO, S. Estudos sobre a poesia popular do Brasil. 2.ed. Petrópolis: Vozes, 1977.\n5- WISNIK, J. M. Veneno remédio: o futebol e o Brasil. São Paulo: Cia. das Letras, 2008.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAH501",
+      "Nome": "Teoria da Imagem A.",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo da imagem e de suas relações com a mídia na contemporaneidade. Teorias e reflexões críticas sobre a imagem. A imagem e os meios de comunicação. A imagem e a experiência estética.\n___Bibliografia Recomendada___\n1) AUMONT, Jacques. A imagem. Campinas: Papirus, 2010.\n2) CRARY, Jonathan. Técnicas do observador. Visão e modernidade no século XIX. Rio de Janeiro: Contraponto, 2012.\n3) DIDI-HUBERMAN, Georges. O que vemos, o que nos olha. São Paulo: Editora 34, 2005.\n4) DONDIS, Donis A. Sintaxe da linguagem visual. São Paulo: Martins Fontes, 1991.\n5) ECO, Umberto. Apocalípticos e integrados. São Paulo: Perspectiva, 1993.\n6) GOMBRICH, E. H. Arte e ilusão. São Paulo: Martins Fontes, 2007.\n7) RANCIÈRE, JACQUES. O destino das imagens. Lisboa: Orfeu Negro, 2011.\n8) RANCIÈRE, JACQUES. O espectador emancipado. São Paulo: Martins Fontes, 2014.\n___Bibliografia Complementar____\n1) ARNHEIM, Rudolf. Intuição e intelecto na arte. São Paulo: Martins Fontes, 1989.\n2) BARTHES, Roland. O Óbvio e o obtuso. Lisboa: Edições 70, 1982.\n3) DELEUZE, Gilles. A imagem movimento. Lisboa, Assírio & Alvim, 2004.\n4) FOSTER, Hal. O retorno do real. São paulo: Cosac Naify, 2014.\n5) LICHTENSTEIN, Jacqueline. A Pintura. São Paulo: Editora 34, 2004. Vol. 8.\n6) STAM, Robert. Crítica da imagem eurocêntrica. Multiculturalismo e representação. São Paulo: Cosac & Naify, 2006.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAH503",
+      "Nome": "Arte no Brasil II",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo das Artes Visuais no Brasil nos séculos XX e XXI, em seus aspectos conceituais, históricos e historiográficos. Dos diferentes modernismos à arte contemporânea brasileira.\n___ BIBLIOGRAFIA BÁSICA ___\n1-) AMARAL, Aracy. Arte para quê? A preocupação social na arte brasileira, 1930-1970 [1984]. 2ª ed. São Paulo: Nobel, 1987.\n2) BASBAUM, Ricardo (org.). Arte Contemporânea Brasileira: texturas, dicções, ficções, estratégias. Rio de Janeiro: Rio Ambiciosos, 2001.\n3) BRITO, Ronaldo. Neoconcretismo: vértice e ruptura do projeto construtivo brasileiro [1975/1985]. São Paulo: Cosac Naify, 1999.\n4) FERREIRA, Glória (org.). Crítica de arte no Brasil: temáticas contemporâneas. Rio de Janeiro: Funarte, 2006.\n5) ZÍLIO, Carlos. A querela do Brasil: a questão da identidade na arte brasileira: a obra de Tarsila, Di Cavalcanti e Portinari, 1922-1945. Rio de Janeiro: Funarte, 1982.\n___ BIBLIOGRAFIA COMPLEMENTAR ___\n1) AMARAL, Aracy (org.). Projeto construtivo brasileira na arte. 1950-1962. Rio de Janeiro: Museu de Arte Moderna. São Paulo: Pinacoteca do Estado, 1977.\n2) BRETT, Guy. Brasil experimental: arte/vida: proposições e paradoxos. Rio de Janeiro: Contra Capa, 2005.\n3) DUARTE, Paulo Sérgio. Anos 60: transformações da arte no Brasil. Rio de Janeiro: Campos Gerais, 1998.\n4) FABRIS, Annateresa (org.). Modernidade e modernismo no Brasil. Campinas: Mercado das Letras, 1994.\n5) MORAIS, Frederico. Artes Plásticas: a crise da hora atual. Rio de Janeiro: Paz e Terra, 1975.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAR114",
+      "Nome": "Sist Geom de Representação I",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução à Geometria Descritiva e seus elementos: ponto, reta e plano. - Figuras, posições relativas, interseções, métodos descritivos. - Sólidos com referência na forma de produtos.\n___Bibliografia Recomendada___\n1- GIONGO, A. A. Curso de Desenho Geométrico. São Paulo: Nobel, 1979.\n2- WILMER, C. PEREIRA, M. R. F. Geometria para Desenho Industrial. Rio de Janeiro: Interciência, 1978.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAR205",
+      "Nome": "Perspectiva Digital",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Aplicação de recursos computacionais para apresentação de projetos em perspectiva.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAR481",
+      "Nome": "Ed Ambiental-preserv de Bens C",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Convenções adotadas (regulamentações de leis e procedimentos técnicos) para preservação de bens culturais, relacionados ao meio ambiente.\n___ BIBLIOGRAFIA RECOMENDADA ___\n1- LEI Nº9.605, DE 12 DE FEVEREIRO DE 1998 - Dispõe sobre as sanções penais e administrativas derivadas de condutas e atividades lesivas ao meio ambiente.\n2- DECRETO-LEI Nº 25, DE 30 DE NOVEMBRO DE 1937 - Organiza a proteção do patrimônio histórico e artístico nacional.\n3- INSTITUTO DO PATRIMÔNIO HISTÓRICO ARTÍSTICO NACIONAL. Cartas Patrimoniais. Brasília: IPHAN, 1995.\n4- Cadernos Técnicos IPHAN - publicações on line - http://portal.iphan.gov.br/- publicações.\n5- Manuais IPHAN - publicações on line - http://portal.iphan.gov.br/- publicações\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "BAT600",
+      "Nome": "Maquetes",
+      "Créditos": "2.0",
+      "Teórica": "15",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estudo dos processos de redução e ampliação em escala. Ferramentas manuais, máquinas operatrizes, materiais e acabamento. Desenvolvimento das práticas de confecção e montagem.\n___BIBLIOGRAFIA BÁSICA___\n1- CONSALEZ, Lorenzo. Maquetes: a representação do espaço no projeto arquitetônico. Barcelona: Editora Gustavo Gili, 2001.\n2- MILLS, Criss B. Projetando com maquetes: um guia para a construção e o uso de maquetes como ferramenta de projeto. Porto Alegre: Bookman, 2007.\n3- NACCA, Regina Mazzocato. Maquetes e miniaturas: técnicas de montagem passo-a-passo. São Paulo: Giz Editorial, 2006.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IBB018",
+      "Nome": "Botânica em Ação - Ext",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceito de extensão Universitária. Categorias de extensão: curso, projeto e programa. Desenvolvimento e divulgação, através de aulas teórico/prática, da aplicação da botânica nas áreas de: diversidade, ecologia, conservação, gestão e recuperação ambiental, biotecnologia, educação ambiental, agricultura/agroflorestas e conhecimento tradicional. Desenvolvimento de material didático-pedagógico. Atividades em escolas e/ou comunidades: palestras, oficinas jogos ou debates.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "IBB500",
+      "Nome": "Botânica Aplic ao Paisagismo",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Os reinos da natureza. Caracterizacao e identificacao de fungos, algas e vegetais inferiores atraves da morfologia e pigmentacao. Os vegetais com flores: morfologia e grandes funcoes vitais. Estudo de familias com importancia paisagistica. A vegetacao brasileira. Jardinagem e conservacao do meio ambiente.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NEP110",
+      "Nome": "Fund Direitos Humanos",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Necessidade e possibilidade de uma fundamentação filosófica dos direitos humanos, para a determinação do conteúdo e construção de argumentos racionais na sua implementação. Identificação dos principais desafios para afirmação e a realização dos direitos humanos e apresentação de algumas propostas contemporâneas de Fundamentação Filosófica dos Direitos Humanos.\n",
+       "BibliografiaBasica": "1) BARBALET, J. M. A Cidadania. Lisboa: Editorial Estampa, 1989.\n2) BAUMAN, Zygmunt. Comunidade: a busca da segurança no mundo atual. Rio de Janeiro: Jorge Zahar, 2003.\n3) BECKER, Howard S. Métodos de pesquisa em ciências sociais. São Paulo: Hucitec, 1999.\n",
+       "BibliografiaComplementar": "1) BELLONI I, Magalhães h. / Souza L; Metodologia de avaliação em políticas públicas. São Paulo (Cortez) 2003.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     }
+    ]
+   },
+   "obrigatorias": 26,
+   "eletivas": 35,
+   "ano": "2019/2 a 9999/9"
+  }
+ ]
+}

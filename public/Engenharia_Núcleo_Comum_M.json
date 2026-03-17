@@ -1,0 +1,1412 @@
+{
+ "Engenharia (Núcleo Comum) - M": [
+  {
+   "materias": {
+    "1º Período": [
+     {
+      "Codigo": "MCG112",
+      "Nome": "Física I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Noção de espaço, noção de tempo. Noções de cálculo diferencial e integral. Cálculo Vetorial. Cinemática da partícula. Força. Dinâmica das partículas. Leis de Newton. Trabalho; energia; momento linear; momento angular, conservação. Sistemas de partículas. Corpos rígidos: estática e dinâmica. Gravitação.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MCG115(C)MCG115=MAW111MCG115=MAC118MCG115=MAE111MCG115=MAC113"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG114",
+      "Nome": "Programação Computacional I",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Componentes básicos do computador. Lógica da programação: linguagens de máquina, de montagem e de alto nível; linguagens de programação. Informação e dados. Compiladores; interpretadores. Codificação de números e caracteres. Sequências lógicas; instruções. Elementos de programação. Variáveis, algoritmos, estrutura de dados, controle de fluxo, ordenação, buscas. Predicados; valores booleanos. Listas, cadeias e tuplas. Arquivos. Programação estruturada; recursão. Programação orientada; objetos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG116",
+      "Nome": "Química Geral",
+      "Créditos": "5.0",
+      "Teórica": "60",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Elementos e compostos: moléculas e mols; Estrutura atômica e tabela periódica; Ligação química: covalente, iônica e metálica; Forças intermoleculares; Líquidos e soluções; Sólidos moleculares, covalentes reticulados e metálicos; Propriedades gerias de metais, cerâmicas, polímeros, compósitos e biomateriais. Cinética e equilíbrio químico; Ácidos e bases; Reações de oxirredução.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG110",
+      "Nome": "Introdução à Engenharia",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Engenharia: história; papel social. Formação: atributos, ética. Campos de atuação. Ciência e Pesquisa.Tecnologia e Técnica. Cultura e Ambiente. Qualidade. Estudo e aprendizado. Pesquisa: descoberta e invenção. Modelos. Propriedade intelectual. Simulação, projeto e manufatura assistidos por computador. Projeto: metodologia; estudos preliminares; soluções alternativas; viabilidade; decisão. Projeto básico: unidades; dimensionamento; normas; especificação. Projeto executivo. Execução. Gestão, prazos, custos. Relatórios técnicos; apresentação gráfica.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG113",
+      "Nome": "Física Experimental I",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Medição e expressão de valores medidos. Introdução ao tratamento estatístico de dados. Erros. Representação gráfica. Cinemática e dinâmica da partícula. Energia. Momento Linear. Momento angular. Leis de conservação. Colisões. Corpo Rígido.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MCG112(C)MCG112=FIT112"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG115",
+      "Nome": "Cálculo I",
+      "Créditos": "6.0",
+      "Teórica": "90",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Funções; Limites; Continuidade; Cálculo e Aplicação das Derivadas; A Integral Definida; Técnicas de integração: Logaritmo e Exponencial; Aplicações de integrais definidas; Integral Imprópria.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "2º Período": [
+     {
+      "Codigo": "MCG121",
+      "Nome": "Algorítmos e Estrutut de Dados",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Linguagens imperativas.Registros,conjuntos,apontadores e arquivos.Algoritmos de ordenação:noções básicas;eficiência.Estruturas de dados mais comuns:matrizes,listas,pilhas e árvores.Atualização,busca e ordenação em arquivos sequenciais e indexados.Técnicas de decomposição.Formas de representação.Recursão.Conjuntos:operações,representação por listas e por vetores caracterísiticos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MCG114"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG124",
+      "Nome": "Física Experimental II",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Movimento oscilatório (harmônico): simples, amortecido e forçado; Pêndulos simples e composto. Ondas mecânicas:velocidade do som, cordas vibrantes. Fluidos: densidade de líquidos e sólidos; viscosidade. Termometria e calorimetria: temperatura, capacidade calorífica; transição de fase. Conservação da energia.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MCG113"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG126",
+      "Nome": "Programação Computacional II",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Computadores e ambientes de programação.Algoritmos.A linguagem Pascal.Estrutura de um programa.Tipos de variáveis.Comandos de atribuição,entrada e saída.Operadores e expressões.Comandos condicionais e de repetição.Funções e procedimentos.Estruturas de dados em Pascal.Manipulação de caracteres e textos.Solução de problemas diversos em Pascal.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MCG114"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG120",
+      "Nome": "Álgebra Linear",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Sistemas de equações lineares e Eliminação Gaussiana. Matrizes e determinante. Espaços vetoriais Euclidianos. Geometria dos espaços vetoriais de dimensão finita. Transformações lineares. Espaços vetoriais com produto interno. Ortogonalidade e mínimos quadrados. Autovalores e autovetores. Teorema espectral. Aplicações à solução de EDOs e em Geometria Euclidiana.\n___BIBLIOGRAFIA RECOMENDADA___\n1) Anton, H.; Rorres, C.; Álgebra Linear com aplicações, 10ª edição. Editora Bookman, 2012.\n2) BOLDRINI, J. L.; Costa, S. I.; FIGUEIREDO, V. L.,WETZLER, H. G. Álgebra Linear. 3ª edição. São Paulo: Harbra, 1984.\n3) Cabral, M.; Goldfeld, P.; Curso de Álgebra Linear, Fundamentos e Aplicações. 3ª edição, 2012.\n4) Araujo, T.; Álgebra Linear: teoria e aplicações, 1ª edição. SBM, 2017.\n5) Hoffman K.; Kunze, R.; Álgebra Linear. Editora Polígono, 1976.\n6) Lang, S.; Álgebra Linear, 3ª edição. Editora Ciência Moderna.\n7) Lay, D. C.; Álgebra Linear e suas Aplicações, 5º edição. Editora LTC, 2013.\n8) Lima, E. Álgebra Linear, 9ª edição. Editora Impa, 2018.\n9) STEINBRUCH, A.; WINTERLE, P. Álgebra Linear. 1ª edição, São Paulo: Pearson Makron Books, 1995.\n10) Strang, G.; Álgebra Linear e suas Aplicações, 4ª edição. Editora Cengage, 2010.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG123",
+      "Nome": "Cálculo II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Equações diferenciais ordinárias de primeira ordem e equações diferenciais ordinárias de segunda ordem com coeficientes constantes. Curvas e vetores no plano. Vetores no espaço tridimensional e geometria analítica sólida: retas e planos. Cilindros e superfícies de resolução, superfícies quadráticas. Regras de cadeia, curvas de nível. Derivadas direcionais e gradientes; plano tangente e reta normal e superfície; diferencial, superfície de nível. Máximos e mínimos e multiplicadores de Lagrange.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MCG115"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG125",
+      "Nome": "Física II",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estatística dos fluidos. Viscosidade e dinâmica dos fluidos. Movimento oscilatório: harmônico simples, amortecido e forçado. Ondas mecânicas; interferência. Batimento; ondas estacionárias. Som. Termodinâmica: dilatação térmica; Calor; Leis da termodinâmica; Equação de Estado; Transição de fase; Teoria cinética dos gases; Introdução à mecânica estatística do equilíbrio.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MCG112"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG127",
+      "Nome": "Sistemas Projetivos",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Sistemas de Projeção;Sistema de Monge.Métodos Descritivos.Seções planas.Vistas Ortográficas:cortes;seções.Axometria:perspectivas isométricas e oblíqua.Aplicações.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "3º Período": [
+     {
+      "Codigo": "MCG231",
+      "Nome": "Física III",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estrutura elétrica da matéria: carga elétrica, condutores e dielétricos. Lei de Coulomb. Campo elétrico, potencial elétrico e energia eletrostática. Lei de Gauss. Corrente elétrica, capacitores e circuitos. Campo magnético, leis de Ampere e Bio-Savart. Indutância, Lei de Faraday. Circuitos de corrente alternada. Ondas eletromagnéticas, equações de Maxwell.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MCG112",
+       "MCG123"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG233",
+      "Nome": "Física Experimental III",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Aparelhos de medidas elétricas. Elemento de circuito: Resistores, Capacitores e Indutores. Circuitos de corrente contínua. Circuito RC. Leis de Ampere, Faraday e Lenz. Propriedades magnéticas da matéria, histerese. Tensões e correntes alternadas: circuito RLC, oscilações eletromagnéticas. Conservação da energia.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MCG123(C)",
+       "MCG124"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG236",
+      "Nome": "Probabilidade e Estatística",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A incerteza na Engenharia. Representação Estatística. Estatística Descritiva. Teoria da Probabilidade. Variáveis aleatórias. Vetores aleatórios. Estimação de parâmetros. Testes de hipóteses. Análise de Variância. Regressão Linear.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MCG115"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG230",
+      "Nome": "Desenho Computacional",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Sistema de desenho por computador. Interface. Sistemas de Coordenadas. Organização de desenhos em camadas. Criação, modificação e visualização de modelos bi e tridimensionais. Normas técnicas. Representação gráfica de projetos. Aplicações.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MCG127"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG232",
+      "Nome": "Engenharia e Sustentabilidade",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Interação entre humanos e o ambiente natural. Balanço de massa e balanço de energia; mudança climática. Resíduos. Ação do homem sobre os ecossistemas terrestres - erosão, queimadas, desmatamentos, poluição do solo, práticas agrárias danosas , hídricos - poluição, eutroficação -  e sobre a atmosfera. Reversão e ações mitigadoras; controle de poluição. Ciclos de vida e ciclos econômicos. Modelos e projeções: integração de conceitos e avaliação do impacto ambiental.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG234",
+      "Nome": "Cálculo III",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Definição de integrais duplas e integrais triplas. Jacobiano em R2 e R3. Mudança de variável na integral dupla e na integral tripla. Integral de linha de plano: teorema de Green e campos conservativos. Parametrização de curvas no R3. Integral de linha no espaço. Integrais de superfície. Teorema de Gauss. Teorema de Stokes e independência de caminho.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MCG123"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG237",
+      "Nome": "Técnicas e Métodos de Medição",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Observação e medição de variáveis físicas: deslocamento; velocidade; aceleração; força; tensão; deformação; torque; fluxo mássico; temperatura; fluxo de calor. Princípios de transdução. Circuitos de medidas; sensores. Transformada de Fourier; ajuste a funções lineares e não lineares. Análise de incerteza; função de densidade de probabilidade, estatística. Identificação de sistemas. Experimentação auxiliada por computador. Relatos técnicos.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "4º Período": [
+     {
+      "Codigo": "MCG241",
+      "Nome": "Sistemas de Informação",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Classificação; tipos de sistemas de informação. Desenvolvimento de sistemas, projeto de bancos de dados; modelo entidades-relacionamentos. Modelo relacional; normalização. Ambientes de desenvolvimento. Diagrama de fluxo de dados; dicionário de dados. Gestão de banco de dados relacionais. Aplicação de sistemas de informação na gerencia de sistemas de produção.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG243",
+      "Nome": "Cálculo Numérico",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Erro, aproximação. Regressão estatística; ajuste de curvas. Zeros de funções; splines; interpolação. Métodos de solução de quação lineares e não-lineares; sistemas lineares; equações diferenciais ordinárias. equações parciais. Aplicações: mecânica dos sólidos; equação da difusão; mecânica dos fluidos, transferência de calor e massa.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MCG114",
+       "MCG120",
+       "MCG123"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG246",
+      "Nome": "Fundamentos da Eletrônica",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Circuitos elétricos. Circuitos de correntes continua e alternada em regime permanente . Aparelhos de medição. Componentes elétricos. transformadores. Máquinas de corrente continua, indução e síncrona. Circuito eletrônico. Diodos transitores, tiristores, circuitos integrados; circuitos lógicos. Aplicações.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MCG231"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG240",
+      "Nome": "Física IV",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Luz. Ondas eletromagnéticas. Interferência, difração, polarização. Noções da relatividade restrita. Física Moderna. Efeitos fotoelétrico e Compton. Átomo de hidrogênio. Difração de elétrons. Função de onda. Equação de Schrodinger. Princípio da incerteza.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MCG125",
+       "MCG231"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG242",
+      "Nome": "Cálculo IV",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Equações diferenciais lineares ordinárias de segunda ordem com coeficientes variáveis: soluções por série; ponto ordinário; ponto regular. Série de Fourier: oscilação; amortecimento; ressonância. Transformada de Laplace: convolução; função delta. Problemas de valores de contorno e teoria de Sturm-Liouville. equações diferenciais parciais clássicas: onda; calor.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MCG123"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG245",
+      "Nome": "Estática dos Sólidos",
+      "Créditos": "6.0",
+      "Teórica": "90",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Estática: Redução de sistemas de forças, equilíbrio, estruturas, centro de massa e gravidade, centroides e atrito. Sistemas e elementos estruturais. Equações de equilíbrio da estática. Estruturas reticuladas, graus de liberdade e restrições. Estruturas isostáticas, hipostáticas e hiperestáticas. Instabilidade geométrica. Cargas e reações. Esforços internos, estado de tensão, força e momento. Trabalhos virtuais. Momento de inércia. Deformação e deslocamento. Sistemas equivalentes. Linhas de estado: hastes, vigas, pórticos, grelhas, arcos isostáticos e Vigas Gerber. Binários. Sistemas reticulados (treliças). Linhas de influência. Cabos flexíveis.\n___ BIBLIOGRAFIA BÁSICA ___\n1- SUSSEKIND, J. C. Curso de análise estrutural. 11. ed. Porto Alegre : Rio de Janeiro: Globo, 1994. 3 v.\n2- BEER, Ferdinand P.; JOHNSTON, E. Russel. Mecânica vetorial para engenheiros: estática. 9. ed. São Paulo : Mc Graw Hill, 2012. 626 p.\n3- HIBBELER, R,C. Estática: mecânica para engenharia. 12. ed. São Paulo : Pearson, 2011. 512 p.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MCG112"
+      ],
+      "Tipo": "obrigatoria"
+     },
+     {
+      "Codigo": "MCG247",
+      "Nome": "Circuito Eletro-eletrônicos",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Multímetros; Amperímetros e Voltímetros; Aquisição de sinais; osciloscópio digital. Pontes de Wheatstone; Indutores e indutância; medida de parâmetros L e C; Medidas de capacitores Eletrolíticos; análise de Fourier de sinais periódicos; Instrumentação virtual; medidas de resistência de terra; medida de potência e fator de potência; circuito retificadores. Fontes de tensão e corrente. Polarização de transitores. transistor para chaveamento de potencia.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       "MCG233"
+      ],
+      "Tipo": "obrigatoria"
+     }
+    ],
+    "Disciplinas Optativas (Escolha Restrita)": [
+     {
+      "Codigo": "MCGK02",
+      "Nome": "Iniciação Científica II",
+      "Créditos": "4.0",
+      "Teórica": "0",
+      "Prática": "180",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Realização Intelectual. Estudo aprofundado.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCGU21",
+      "Nome": "Estágio Não Obrigatório I",
+      "Créditos": "4.0",
+      "Teórica": "0",
+      "Prática": "180",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Experiência pré-profissional sob supervisão.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCGU23",
+      "Nome": "Estágio Não Obrigatório III",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Experiência pré-profissional sob supervisão.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCGX04",
+      "Nome": "Participação em Eventos II",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Participação/organização de eventos (semanas, congressos, etc.)\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCGX06",
+      "Nome": "Projeto Cultural I",
+      "Créditos": "4.0",
+      "Teórica": "0",
+      "Prática": "180",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "- Estrear uma peça teatral; escrever um livro literário; realizar uma apresentação de dança, canto, instrumento musical ou atividade assemelhada.\n- Promover uma exposição de arte ou um encontro literário na UFRJ; desenvolver um projeto cultural ou atividade assemelhada na UFRJ.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCGX08",
+      "Nome": "Particip em Ativ Cultural I",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "- Participar de aulas de dança, teatro, canto, artes ou atividade assemelhada na UFRJ.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCGX10",
+      "Nome": "Particip em Ativ Cultural III",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Participar de aula de dança, teatro, canto, artes ou atividade assemelhada na UFRJ.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCGX12",
+      "Nome": "Particip em Ativ Esport I",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Participar de aulas de esporte na UFRJ.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCGX14",
+      "Nome": "Particip em Ativ Esport III",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Participar de aulas de esporte na UFRJ.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCGX16",
+      "Nome": "Competição Esportiva II",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "100",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Participar como mesários  durante as eleições internas (UFRJ), municipais, estaduais e em âmbito nacional.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCGX21",
+      "Nome": "Atividade de Intercâmbio I",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Atividades de intercâmbio.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCGX31",
+      "Nome": "Trabalho Comunitário I",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Participar de trabalhos comunitários e ONGs.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCGX33",
+      "Nome": "Trabalho Comunitário III",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Participar de trabalhos comunitários e ONGs.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCGX52",
+      "Nome": "Administração Empresa Jr II",
+      "Créditos": "4.0",
+      "Teórica": "0",
+      "Prática": "180",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Realização intelectual relacionada à aplicação prática de conhecimentos teóricos (Projetos).\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCGY01",
+      "Nome": "Equipe de Competição I",
+      "Créditos": "4.0",
+      "Teórica": "0",
+      "Prática": "180",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Prática orientada em condições especiais de realização.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCGY03",
+      "Nome": "Equipe de Competição III",
+      "Créditos": "4.0",
+      "Teórica": "0",
+      "Prática": "180",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Prática orientada em condições especiais de realização.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCGY22",
+      "Nome": "Monitoria II",
+      "Créditos": "4.0",
+      "Teórica": "0",
+      "Prática": "180",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Atividade de Monitoria.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCGY31",
+      "Nome": "Viagens/ Visitas Técnicas I",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Prática orientada em condições especiais de realização.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "LEV121",
+      "Nome": "Português Instrumental I",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A linguagem e seu papel nas sociedades humanas. Expressão oral e escrita.\nA variação linguística em função dos fins e das situações de comunicação. A oração\ne o período.\n",
+       "BibliografiaBasica": "1) COSTA, Iara; FOLTRAN, Ma. J. (org.). A tessitura da escrita. São Paulo: Contexto, 2013.\n2) FIGUEIREDO, Luiz Carlos. A redação pelo parágrafo. Brasília: UnB, 1999.\n3) KOCH, Ingedore; ELIAS, Vanda. Ler e compreender: os sentidos do texto. São Paulo: Contexto, 2006.\n4) LUFT, Celso P. A vírgula. São Paulo: Ática, 1996.\n5) MARCUSCHI, Luiz Antonio. Produção textual, análise de gêneros e compreensão. São Paulo: Parábola, 2008.\n6) MEDEIROS, João Bosco. Redação cientÍfica. 11. ed. São Paulo: Atlas, 2009.\n7) MOTTA-ROTH, Desirée; HENDGES, Graciela. Produção textual na universidade. São Paulo: Parábola, 2010.\n",
+       "BibliografiaComplementar": "1) CARDOSO, João Batista. Teoria e prática de leitura, apreensão e produção de texto. Brasília: EDUNB, 2001.\n2) MACHADO, Anna Rachel et al. Resumo. São Paulo: Parábola Editorial, 2004.\n3) MACHADO, Anna Rachel et al. Resenha. São Paulo: Parábola Editorial, 2004.\n4) MARCUSCHI, Luiz Antônio. Gêneros Textuais: configuração, dinamicidade e circulação. In: KARWOSKI, A.;\n5) GAYDECZKA, B.; BRITO, K. (orgs.). Gêneros textuais: reflexões e ensino. 4. ed. São\nPaulo: Parábola, 2011. p. 15-28.\n6) MEDEIROS, João Bosco. Português Instrumental; para cursos de Contabilidade, Economia e Administração. 4. ed. São Paulo: Atlas, 2000.\n7) PAULIUKONIS, Ma. Aparecida L.; GAVAZZI, Sigrid (org.). Texto e discurso:\nMídia, literatura e ensino. Rio de Janeiro: Lucerna, 2003.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCG044",
+      "Nome": "Ciência, Tecnologia e Sociedad",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução à Teoria do Conhecimento. Noções de Filosofia da Ciência, Noções de Filosofia da Tecnologia. As interações entre Ciência, Tecnologia e Sociedade. O conhecimento científico-tecnológico e seus impactos sociais, culturais, éticos, políticos e ambientais. A participação da sociedade na definição de políticas relativas às questões científicas, tecnológicas, econômicas e ecológicas. Implicações das mudanças científica e tecnológicas nos Direitos Humanos e desenvolvimento socioambiental.\n",
+       "BibliografiaBasica": "1) KUHN, Thomas S. A estrutura das revoluções científicas. São Paulo : Perspectiva, 1975.\n2) ROSA, Luiz Pinguelli. Tecnociências e humanidades: novos paradigmas, velhas questões, o determinismo newtoniano na visão de mundo moderna. Editora Paz e Terra, 2006.\n3) HEIDEGGER, Martin. A Questão da Técnica, in: Ensaios e Conferências. Petrópolis, Vozes, 2003.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCG495",
+      "Nome": "Psicologia Sociologia Trabalho",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Evolução da Psicologia e da Sociologia do trabalho.  Trabalho em equipe. Dinâmica de grupo. Estruturação das relações entre equipes. Princípios de gerenciamento da motivação e da aprendizagem.   O papel do engenheiro de produção no surgimento de uma nova cultura organizacional.  Outras abordagens em psicologia e sociologia do trabalho.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUP111",
+      "Nome": "Biologia Cultura Questão Raça",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceito de Raça e como essa ideia tem sido aplicada historicamente aos seres humanos na luz dos entendimentos da Antropologia Cultural. Noções de Natureza e de Cultura e a interação entre o social e o biológico. A Raça como conceito biológico e como isso tem sido aplicado aos seres humanos, tocando nas histórias imbricadas de racismo e racialismo. A Antropologia como campo de conhecimento; e a evolução humana na luz do conceito do superorgânico de A.E.Kroeber. As distinções entre o conceito de distribuição clinática de atributos versus o modelo racialista. O posicionamento dos alunos de Ciências Biológicas frente às principais discussões sobre a questão da (não) existência das raças humanas.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUP300",
+      "Nome": "Fund Sociologicos da Educação",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Conceituação da Sociologia da Educação como campo de produção de conhecimento sobre instituições de ensino-aprendizagem socialmente reconhecidas (escolas, universidades, etc.) como também em outros ambientes de relação do mesmo perfil (laboratórios, fábricas, etc.). Apresentação das linhas teóricas e metodológicas e dos principais conceitos da Sociologia da Educação, sua constituição no processo histórico, bem como alguns principais debates - produzidos tanto no Brasil como em outros países, e verificar suas mútuas influências. Questionamentos acerca da relação entre indivíduo e sociedade, seus aspectos racionais, afetivos e o processo de simbolização do conhecimento. Compreensão das várias formas de socialização e de classificação social, através de visões de pesquisadores e outros agentes sociais, no âmbito dos tipos de educação formal e informal.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUP357",
+      "Nome": "Filosofia da Educação",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUP470",
+      "Nome": "Educação e Comunicação- Libras",
+      "Créditos": "3.0",
+      "Teórica": "30",
+      "Prática": "30",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCGK01",
+      "Nome": "Iniciação Científica I",
+      "Créditos": "4.0",
+      "Teórica": "0",
+      "Prática": "180",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCGK03",
+      "Nome": "Iniciação Científica III",
+      "Créditos": "4.0",
+      "Teórica": "0",
+      "Prática": "180",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Realização Intelectual. Estudo aprofundado.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCGU22",
+      "Nome": "Estágio Não Obrigatório II",
+      "Créditos": "4.0",
+      "Teórica": "0",
+      "Prática": "180",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Experiência pré-profissional sob supervisão.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCGX03",
+      "Nome": "Participação em Eventos I",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Participação/organização de eventos (semanas, congressos, etc.)\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCGX05",
+      "Nome": "Participação em Eventos III",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Participação/organização de eventos (semanas, congressos, etc.)\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCGX07",
+      "Nome": "Projeto Cultural II",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "- Estrear uma peça teatral; escrever um livro literário; realizar uma apresentação de dança, canto, instrumento musical ou atividade assemelhada.\n- Promover uma exposição de arte ou um encontro literário na UFRJ; desenvolver um projeto cultural ou atividade assemelhada na UFRJ.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCGX09",
+      "Nome": "Particip em Ativ Cultural II",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "60",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "- Participar de aulas de dança, teatro, canto, artes ou atividade assemelhada na UFRJ.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCGX11",
+      "Nome": "Competição Esportiva I",
+      "Créditos": "11.0",
+      "Teórica": "0",
+      "Prática": "500",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Participar de competição esportiva em nível internacional, nacional ou estatal, de esporte federado.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCGX13",
+      "Nome": "Particip em Ativ Esport II",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Participar de aulas de esporte na UFRJ.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCGX15",
+      "Nome": "Participação em Eleições",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Participar como mesários  durante as eleições internas (UFRJ), municipais, estaduais e em âmbito nacional.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCGX17",
+      "Nome": "Competição Esportiva III",
+      "Créditos": "4.0",
+      "Teórica": "0",
+      "Prática": "200",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Participar como mesários  durante as eleições internas (UFRJ), municipais, estaduais e em âmbito nacional.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCGX22",
+      "Nome": "Atividade de Intercâmbio II",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Atividades de intercâmbio.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCGX32",
+      "Nome": "Trabalho Comunitário II",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Participar de trabalhos comunitários e ONGs.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCGX51",
+      "Nome": "Administração Empresa Jr I",
+      "Créditos": "4.0",
+      "Teórica": "0",
+      "Prática": "180",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Realização intelectual relacionada à aplicação prática de conhecimentos teóricos (Projetos).\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCGX53",
+      "Nome": "Administração Empresa Jr III",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Realização intelectual relacionada à aplicação prática de conhecimentos teóricos (Projetos).\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCGY02",
+      "Nome": "Equipe de Competição II",
+      "Créditos": "4.0",
+      "Teórica": "0",
+      "Prática": "180",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Prática orientada em condições especiais de realização.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCGY21",
+      "Nome": "Monitoria I",
+      "Créditos": "6.0",
+      "Teórica": "0",
+      "Prática": "270",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Atividade de Monitoria.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCGY23",
+      "Nome": "Monitoria III",
+      "Créditos": "2.0",
+      "Teórica": "0",
+      "Prática": "90",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Atividade de Monitoria.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCGY32",
+      "Nome": "Viagens/ Visitas Técnicas II",
+      "Créditos": "1.0",
+      "Teórica": "0",
+      "Prática": "45",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Prática orientada em condições especiais de realização.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCE026",
+      "Nome": "Introdução em Direitos Humanos",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Introdução e Histórico sobre Direitos Humanos e Movimentos Sociais: direitos individuais, coletivos e ambientais; Dignidade Humana como condição de vida e o\nenfrentamento às desigualdades sociais: enfoque nas Políticas Públicas e Legislações; Direitos Humanos e Interdisciplinaridade na Educação e na Saúde;\nDiscriminação de etnia, origem, raça e cor e as Políticas Afirmativas; Direitos Humanos e o Respeito às Diferenças de Gênero e de Orientação Sexual; Direitos\nHumanos e Movimentos feministas; Comunicação não violenta nos Direitos Humanos; Direitos Humanos e respeito às diferenças socioculturais, religiosas,\nideológicas, filosóficas e políticas; Direitos Humanos, Capacitismo, Acessibilidade e Inclusão; Direitos Humanos e o combate às violências no cotidiano.\n",
+       "BibliografiaBasica": "1)DIBBERN, T. A.; CRISTOFOLETTI, E. C.; SERAFIM, M. P. Educação em Direitos Humanos: um panorama do compromisso social da universidade pública. Educação em Revista, v. 34, 2018;\n2) FREIRE, S. M. Extensão Universitária e Direitos Humanos: desafios na contemporaneidade. Extensão em Foco, nº 2, p. 133-142. 2008;\n3) JUBILUT, L. L.; LOPES, R. O. (Organizadoras). Direitos humanos e vulnerabilidade e a declaração universal dos direitos humanos [e-book]. Santos (SP): Editora Universitária Leopoldianum, 2018. 445 p.\n4) MINISTÉRIO DA EDUCAÇÃO. Plano Nacional de Educação em Direitos Humanos. Comitê Nacional de Educação em Direitos Humanos. Brasília: Secretaria Especial dos Direitos Humanos, Ministério da Educação, Ministério da Justiça, UNESCO, 2007. 76 p.\n5) MINISTÉRIO DA EDUCAÇÃO. Programa Ética e Cidadania: construindo valores na escola e na sociedade: inclusão e exclusão social / organização FAFE ? Fundação de Apoio à Faculdade de Educação (USP). Brasília: Ministério da Educação, Secretaria de Educação Básica, 2007. 4 v.\n",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "MCG052",
+      "Nome": "Tóp Esp Ciênc Tecnol Sociedade",
+      "Créditos": "2.0",
+      "Teórica": "30",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "Disciplina destinada à aprofundamentos de temáticas de Ciência, Tecnologia e Sociedade. Ementa variável.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUP026",
+      "Nome": "Tóp Esp Éti Filo Polít Contemp",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "O séc. XIX caracteriza-se por forte crítca ao modelo epistemológico moderno aplicado à ética e à política. A universalidade dos valores e sistemas de governo não mais se sustenta com tanta facilidade uma vez que ruiram seus fundamentos. Contudo, a ausência de alternativas também se mostra sombria. No presente curso se buscará estudar como o pensamento filosófico contemporâneo tem trabalhado estas questões e quais as suas possíveis contribuições para o debate ético e político no séc. XXI. Instrumentação para ensino teórico dos conteúdos supracitados.\n",
+       "BibliografiaBasica": "1- AGAMBEN ?Homo sacer?. UFMG Editora, Belo Horizonte, 2010.\n2- DELEUZE, G. ?Mil platôs?. Editora 34, 2009.\n3- ESPINOSA, B. ?Ética?. Autêntica. Belo Horizonte, 2009.\n4- FOUCAULT, M. ?Em defesa da sociedade?. Martins Fontes, São Paulo, 1999.\n5- NIETZSCHE. F.W. ?Genealogia da moral?. Companhia das letras, São Paulo, 2007.\n",
+       "BibliografiaComplementar": "1- DELEUZE, G. ?Diferença e repetição?. Graal editor. Rio de Janeiro, 2009.\n2- ESPINOSA, B. ?Tratado político?. Editora Nova Cultural. São Paulo, 1996.\n3- FOUCAULT, M. ?Hermenêutica do sujeito?, Martins Fontes, São Paulo, 2004.\n4- HARDT, M. e NEGRI, A. ?Império?. Record editora. Rio de Janeiro, 2004.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUP117",
+      "Nome": "Estudos Sócioantropológicos",
+      "Créditos": "3.0",
+      "Teórica": "45",
+      "Prática": "15",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A seleção natural e a mente humana. O conceito do superorgânico na Antropologia. A construção da visão do sociocultural e a gênese do pensamento socio-antropológico no contexto da modernidade: positivismo científico, expansão colonial, urbanismo e capitalismo (hegemonia do pensamento positivista). Evolução social e a questão de raça: as experiências africanas e amerindígenas sob colonialismo, no Brasil e nas Américas. De raça a cultura: Galton, Spencer, Tylor e Boas. O método etnográfico: a construção do outro primitivo. Etnocentrismo e relativismo cultural. Marx, Durkheim e Weber: as bases clássicas do pensamento sociológico. Formas modernas de desigualdade e discriminação: raça e etnia; gênero; classe. A pluralidade sociocultural brasileira: algumas expressões.\n",
+       "BibliografiaBasica": "1- HAVILAND et al. 2011. Princípios da Antropologia. São Paulo: Cengage Learning\n2- HARARI, Y.N. 2015. Sapiens: Uma Breve História da Humanidade. São Paulo: LPM.\n3- LARAIA, R. 2005. Cultura: Um Conceito Antropológico. Ed. Jorge Zahar. Rio de Janeiro.\n4- LÉVI-STRAUSS, C. 2009. ?Natureza e Cultura?, Revista Antropos. V3, Ano 2.\n5- MINNER, H. 1956. ?O Ritual do Corpo entre os Sonacirema?. Publicação original: ?Body ritual among the Sonacirema?, American Anthropologist, Vol. 58, n° 3.\n6- QUINTANEIRO, T., et. al. 1995. Um Toque de Clássicos: Durkheim, Marx e Weber. Ed. UFMG. Belo Horizonte.\n",
+       "BibliografiaComplementar": "1- GIDDENS, A. 2006. Sociologia. Porto Alegre: Artmed.\n2- MARX, K. 1979. Marx: Sociologia. Otavio, I. (org.). São Paulo: Ática.\n3- DURKHEIM, E.: 1992. Sociologia: Coleção Grandes Cientistas Sociais. n.10. São Paulo: Ática.\n4- WEBER, M. 1999. Economia e Sociedade. Ed. UnB. Brasília.\n5- GOULD, S. J. 1991. A falsa Medida do Homem. São Paulo: Martins Fontes.\n"
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUP301",
+      "Nome": "Psicologia da Educação",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A psicologia da Educação e as relações entre desenvolvimento afetivo, cognitivo, linguístico e moral em situações de interação sócio-cultural. Inteligência e escolarização meritocrática: da tradição psicométrica às concepções contemporâneas da inteligência. Humanismo, behaviorismo, psicanálise, construtivismo e sócio-interacionismo. O processo psicológico de construção e aquisição do conhecimento diante dos sistemas de informação e comunicação.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     },
+     {
+      "Codigo": "NUP371",
+      "Nome": "Educação Brasileira",
+      "Créditos": "4.0",
+      "Teórica": "60",
+      "Prática": "0",
+      "Extensão": "0",
+      "Informação": {
+       "Info": "A constituição do sistema privado nacional de ensino e a relação entre Estado e Educação. Persistências e mudanças na estrutura e no funcionamento do ensino no Brasil: as relações entre público e privado, centralização e descentralização, ensino laico e ensino confessional, formação geral e formação profissional. A LDB (Lei 9394/96): avanços e recuos no processo de profissionalização do campo pedagógico e de universalização do ensino.\n",
+       "BibliografiaBasica": "",
+       "BibliografiaComplementar": ""
+      },
+      "GradeHoraria": "",
+      "Requisitos": [
+       ""
+      ],
+      "Tipo": "eletiva"
+     }
+    ]
+   },
+   "obrigatorias": 27,
+   "eletivas": 50,
+   "ano": "2011/1 a 9999/9"
+  }
+ ]
+}
