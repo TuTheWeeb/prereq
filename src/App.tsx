@@ -30,6 +30,25 @@ interface Curso {
     nome: string;
 }
 
+function MenuSeletor({nome, itens, set, padrão}: {nome: string, itens: Array<string>, set: Function, padrão: string}) {
+    return ( 
+        <div className="text-center max-sm:grid max-sm:grid-flow-row max-sm:pb-1">
+            <div><label className="font-bold border-b-2">{nome}</label></div>
+            <select
+                className="text-center"
+                value={padrão}
+                onChange={(event) => set(event.target.value)}>
+                {itens.map((item) => (
+                    <option key={item} value={item}>
+                        {item}
+                    </option>
+                ))}
+            </select>
+        </div>
+    );
+}
+
+
 function MenuEscolhaCurso({
     nome,
     setNome,
@@ -46,35 +65,9 @@ function MenuEscolhaCurso({
     setAno: Function;
 }) {
     return (
-        <div className="flex justify-center border-b-2 border-emerald-600 mb-5 mt-5 pb-1 sm:text-xl">
-            <div className="ml-4">
-                <label>Grade: </label>
-                <select
-                    className="text-center"
-                    value={ano}
-                    onChange={(event) => setAno(event.target.value)}
-                >
-                    {edições.map((edição) => (
-                        <option key={edição} value={edição}>
-                            {edição}
-                        </option>
-                    ))}
-                </select>
-            </div>
-            <div className="ml-4">
-                <label>Selecione o seu curso: </label>
-                <select
-                    className="text-center"
-                    value={nome}
-                    onChange={(event) => setNome(event.target.value)}
-                >
-                    {Object.entries(cursos).map(([curso, _link]) => (
-                        <option key={curso} value={curso}>
-                            {curso}
-                        </option>
-                    ))}
-                </select>
-            </div>
+        <div className="sm:flex sm:justify-center max-sm:grid max-sm:grid-flow-row border-b-2 border-emerald-600 sm:gap-10 mb-5 mt-5 pb-1">
+            <MenuSeletor nome="Grade:" itens={edições} padrão={ano} set={setAno}></MenuSeletor>
+            <MenuSeletor nome="Curso:" itens={Object.entries(cursos).map(([curso, _]) => curso)} padrão={nome} set={setNome}></MenuSeletor>
         </div>
     );
 }
