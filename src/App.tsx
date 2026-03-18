@@ -65,7 +65,7 @@ function MenuEscolhaCurso({
     setAno: Function;
 }) {
     return (
-        <div className="sm:flex sm:justify-center max-sm:grid max-sm:grid-flow-row border-b-2 border-emerald-600 sm:gap-10 mb-5 mt-5 pb-1">
+        <div className="sm:flex sm:justify-center max-sm:grid max-sm:grid-flow-row border-b-2 border-emerald-600 sm:gap-10 mb-5 mt-1 pb-1">
             <MenuSeletor nome="Grade:" itens={edições} padrão={ano} set={setAno}></MenuSeletor>
             <MenuSeletor nome="Curso:" itens={Object.entries(cursos).map(([curso, _]) => curso)} padrão={nome} set={setNome}></MenuSeletor>
         </div>
